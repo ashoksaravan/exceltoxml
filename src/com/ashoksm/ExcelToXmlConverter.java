@@ -22,7 +22,7 @@ public class ExcelToXmlConverter {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
-		File root = new File("E:\\Ashok\\Dropbox\\My Details\\pinfinder\\excels");
+		File root = new File(args[0]);
 		for (final File state : root.listFiles()) {
 			System.out.println("***** " + state.getName() + " *****");
 			List<Office> offices = new ArrayList<Office>();
@@ -33,7 +33,7 @@ public class ExcelToXmlConverter {
 				}
 			}
 			System.out.println(offices.size());
-			writeFile(offices, state.getName().toLowerCase());
+			writeFile(offices, state.getName().toLowerCase(), "xml\\");
 			System.out.println("***** END *****");
 		}
 	}
@@ -120,7 +120,7 @@ public class ExcelToXmlConverter {
 	 * @param offices
 	 * @param stateName
 	 */
-	private static void writeFile(List<Office> offices, String stateName) {
+	private static void writeFile(List<Office> offices, String stateName, String dest) {
 		if (offices.size() > 3499) {
 			List<List<Office>> partition = new ArrayList<List<Office>>();
 			List<Office> subOffices = new ArrayList<Office>();
@@ -144,11 +144,11 @@ public class ExcelToXmlConverter {
 			i = 1;
 			for (List<Office> list : partition) {
 				String tempStateName = stateName + "_" + i;
-				createXML(list, tempStateName);
+				createXML(list, tempStateName, dest);
 				i++;
 			}
 		} else {
-			createXML(offices, stateName);
+			createXML(offices, stateName, dest);
 		}
 	}
 
@@ -156,7 +156,7 @@ public class ExcelToXmlConverter {
 	 * @param offices
 	 * @param stateName
 	 */
-	private static void createXML(List<Office> offices, String stateName) {
+	private static void createXML(List<Office> offices, String stateName, String dest) {
 		Offices off = new Offices();
 		off.setOffices(offices);
 		XStream xStream = new XStream();
@@ -172,7 +172,7 @@ public class ExcelToXmlConverter {
 
 		try {
 
-			file = new File("E:\\Android\\workspace\\OfflinePinFinder\\assets\\" +stateName + ".xml");
+			file = new File(dest +stateName + ".xml");
 			fop = new FileOutputStream(file);
 
 			// if file doesn't exists, then create it

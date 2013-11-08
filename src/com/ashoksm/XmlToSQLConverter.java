@@ -17,15 +17,17 @@ public class XmlToSQLConverter {
 		xStream.alias("office", Office.class);
 		xStream.alias("offices", Offices.class);
 		xStream.addImplicitCollection(Offices.class, "offices");
-		File root = new File("D:\\Ashok\\Android\\workspace-beta\\OfflinePinFinder\\assets");
+		File root = new File("xml");
 		for (final File state : root.listFiles()) {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(
-					"D:\\Ashok\\Android\\workspace-beta\\OfflinePinFinder\\assets\\"
-							+ state.getName().substring(0, state.getName().lastIndexOf(".")) + ".sql"));
+			System.out.println(state.getName());
+			BufferedWriter writer = new BufferedWriter(new FileWriter(args[0] + "\\"
+					+ state.getName().substring(0, state.getName().lastIndexOf(".")) + ".sql"));
 			FileInputStream file = new FileInputStream(state);
 			Offices offices = (Offices) xStream.fromXML(file);
 			for (Office office : offices.getOffices()) {
-				String line = sql
+				String line = null;
+				try {
+				line = sql
 						.replaceAll("<OfficeName>", office.getName().trim().replaceAll("'", "''"))
 						.replaceAll("<Pincode>", office.getPinCode())
 						.replaceAll("<Status>", office.getStatus().trim().replaceAll("'", "''"))
@@ -39,6 +41,9 @@ public class XmlToSQLConverter {
 								office.getLocation().substring(
 										office.getLocation().toLowerCase().indexOf("taluk of ") + 9,
 										office.getLocation().toLowerCase().indexOf("district")));
+				} catch (Exception ex) {
+					System.out.println("In exception ::::: " + office.getName() + "::::" + office.getLocation());
+				}
 				writer.write(line);
 				writer.newLine();
 			}
@@ -87,6 +92,8 @@ public class XmlToSQLConverter {
 			stateName = "Tamil Nadu";
 		} else if (xmlName.contains("tripura")) {
 			stateName = "Tripura";
+		} else if (xmlName.contains("maharashtra")) {
+			stateName = "Maharashtra";
 		}
 		return stateName;
 	}
