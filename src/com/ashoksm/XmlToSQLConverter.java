@@ -94,6 +94,8 @@ public class XmlToSQLConverter {
 			stateName = "Tripura";
 		} else if (xmlName.contains("maharashtra")) {
 			stateName = "Maharashtra";
+		} else if (xmlName.contains("jammuandkashmir")) {
+			stateName = "Jammu And Kashmir";
 		}
 		return stateName;
 	}
