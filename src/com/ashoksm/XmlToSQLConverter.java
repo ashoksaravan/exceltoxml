@@ -42,6 +42,7 @@ public class XmlToSQLConverter {
 										office.getLocation().toLowerCase().indexOf("taluk of ") + 9,
 										office.getLocation().toLowerCase().indexOf("district")));
 				} catch (Exception ex) {
+					ex.printStackTrace();
 					System.out.println("In exception ::::: " + office.getName() + "::::" + office.getLocation());
 				}
 				writer.write(line);
@@ -96,6 +97,8 @@ public class XmlToSQLConverter {
 			stateName = "Maharashtra";
 		} else if (xmlName.contains("jammuandkashmir")) {
 			stateName = "Jammu And Kashmir";
+		} else if (xmlName.contains("westbengal")) {
+			stateName = "West Bengal";
 		}
 		return stateName;
 	}
