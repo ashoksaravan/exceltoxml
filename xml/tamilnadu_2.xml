@@ -1,14 +1,5 @@
 <offices>
   <office>
-    <name>Marudur</name>
-    <pinCode>639107</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Kulittalai</headoffice>
-    <location>Kulithalai Taluk of Karur District</location>
-    <telephone>04323-224211</telephone>
-  </office>
-  <office>
     <name>Mathagiri</name>
     <pinCode>621313</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -2043,10 +2034,10 @@
     <telephone />
   </office>
   <office>
-    <name>Doddabbanur</name>
-    <pinCode>635113</pinCode>
+    <name>Doddamanchi</name>
+    <pinCode>635102</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Kelamangalam</suboffice>
+    <suboffice>Anchetty</suboffice>
     <headoffice>Krishnagiri</headoffice>
     <location>Denkanikotta Taluk of Krishnagiri District</location>
     <telephone />
@@ -16758,13 +16749,13 @@
     <telephone>04328-244737</telephone>
   </office>
   <office>
-    <name>Labbaikudikadu</name>
-    <pinCode>621108</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
+    <name>Ladapuram</name>
+    <pinCode>621101</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Ammapalayam</suboffice>
     <headoffice>Perambalur</headoffice>
-    <location>Kunnam Taluk of Perambalur District</location>
-    <telephone>04328-244737</telephone>
+    <location>Perambalur Taluk of Perambalur District</location>
+    <telephone />
   </office>
   <office>
     <name>Madanagopalapuram</name>
@@ -18342,12 +18333,12 @@
     <telephone />
   </office>
   <office>
-    <name>Killukkottai</name>
-    <pinCode>622502</pinCode>
+    <name>Kodivayal</name>
+    <pinCode>614805</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Keeranur</suboffice>
+    <suboffice>Subramaniapuram (Pudukkottai)</suboffice>
     <headoffice>Pudukkottai</headoffice>
-    <location>Kulathur Taluk of Pudukkottai District</location>
+    <location>Arantangi Taluk of Pudukkottai District</location>
     <telephone />
   </office>
   <office>
@@ -20790,10 +20781,10 @@
     <telephone />
   </office>
   <office>
-    <name>Athankarai</name>
-    <pinCode>623512</pinCode>
+    <name>Athiyuhtu</name>
+    <pinCode>623513</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Alagankulam</suboffice>
+    <suboffice>Chitharkottai</suboffice>
     <headoffice>Ramanathapuram</headoffice>
     <location>Ramanathapuram Taluk of Ramanathapuram District</location>
     <telephone />
@@ -20925,7 +20916,7 @@
     <telephone />
   </office>
   <office>
-    <name>Devipattinam South</name>
+    <name>Devipattinam West</name>
     <pinCode>623514</pinCode>
     <status>Branch Office(Non Delivery)</status>
     <suboffice>Devipattinam</suboffice>
@@ -23634,13 +23625,13 @@
     <telephone />
   </office>
   <office>
-    <name>Athanurpatti</name>
-    <pinCode>636115</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Valapady</suboffice>
-    <headoffice>Atur</headoffice>
-    <location>Valapady Taluk of Salem District</location>
-    <telephone />
+    <name>Attayampatti</name>
+    <pinCode>637501</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Salem</headoffice>
+    <location>Salem Taluk of Salem District</location>
+    <telephone>0427-2471521</telephone>
   </office>
   <office>
     <name>Attukaranur</name>
@@ -28224,12 +28215,12 @@
     <telephone />
   </office>
   <office>
-    <name>Dharmapatti</name>
-    <pinCode>630309</pinCode>
+    <name>Eluvankottai</name>
+    <pinCode>630303</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pulidipatti</suboffice>
-    <headoffice>Karaikudi</headoffice>
-    <location>Tiruppattur-singampunariblock Taluk of Sivaganga District</location>
+    <suboffice>Devakottai Extension</suboffice>
+    <headoffice>Devakottai</headoffice>
+    <location>Devakottai Taluk of Sivaganga District</location>
     <telephone />
   </office>
   <office>
@@ -31482,10 +31473,10 @@
     <telephone />
   </office>
   <office>
-    <name>Inayathukkanpatti</name>
-    <pinCode>613005</pinCode>
+    <name>Indalur</name>
+    <pinCode>613102</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Raja Serfoji Govt College</suboffice>
+    <suboffice>Thogur</suboffice>
     <headoffice>Thanjavur</headoffice>
     <location>Thanjavur Taluk of Thanjavur District</location>
     <telephone />
@@ -31497,6 +31488,15 @@
     <suboffice>Tiruchirai</suboffice>
     <headoffice>Kumbakonam</headoffice>
     <location>Tiruvidamarudur Taluk of Thanjavur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Innambur</name>
+    <pinCode>612303</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Tirupirambiyam</suboffice>
+    <headoffice>Melakaveri</headoffice>
+    <location>Kumbakonam Taluk of Thanjavur District</location>
     <telephone />
   </office>
 </offices>

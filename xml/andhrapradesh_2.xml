@@ -864,11 +864,11 @@
     <telephone />
   </office>
   <office>
-    <name>Madupalli</name>
-    <pinCode>533228</pinCode>
+    <name>Magam</name>
+    <pinCode>533577</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Vanapalli</suboffice>
-    <headoffice>Razole</headoffice>
+    <suboffice>Vilasa</suboffice>
+    <headoffice>Amalapuram</headoffice>
     <location>Ainavilli Taluk of East Godavari District</location>
     <telephone />
   </office>
@@ -1986,15 +1986,6 @@
     <suboffice>Addatigala</suboffice>
     <headoffice>Samalkot</headoffice>
     <location>Addatigala Taluk of East Godavari District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Panduru</name>
-    <pinCode>533005</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>APSP Camp (East Godavari)</suboffice>
-    <headoffice>Kakinada</headoffice>
-    <location>Kakinada Taluk of East Godavari District</location>
     <telephone />
   </office>
   <office>
@@ -3753,15 +3744,6 @@
     <telephone />
   </office>
   <office>
-    <name>Tatapudi</name>
-    <pinCode>533309</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kapileswarapuram (East Godavari)</suboffice>
-    <headoffice>Ramachandrapuram</headoffice>
-    <location>Kapileswarapuram Taluk of East Godavari District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Tatipaka Bazar</name>
     <pinCode>533249</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -3778,15 +3760,6 @@
     <headoffice>Razole</headoffice>
     <location>Razole Mandal Taluk of East Godavari District</location>
     <telephone>08862-247323</telephone>
-  </office>
-  <office>
-    <name>Tatiparthi</name>
-    <pinCode>533445</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gollaprolu</suboffice>
-    <headoffice>Samalkot</headoffice>
-    <location>Gollaprolu Taluk of East Godavari District</location>
-    <telephone />
   </office>
   <office>
     <name>Tatiparthi</name>
@@ -4896,15 +4869,6 @@
     <telephone />
   </office>
   <office>
-    <name>Abbarajupalem</name>
-    <pinCode>522237</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Tulluru</suboffice>
-    <headoffice>Mangalagiri</headoffice>
-    <location>Tulluru Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>A.T.Agraharam(Guntur)</name>
     <pinCode>522004</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -4912,6 +4876,15 @@
     <headoffice>Guntur</headoffice>
     <location>Guntur Taluk of Guntur District</location>
     <telephone>0863-2255978</telephone>
+  </office>
+  <office>
+    <name>Abbarajupalem</name>
+    <pinCode>522237</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Tulluru</suboffice>
+    <headoffice>Mangalagiri</headoffice>
+    <location>Tulluru Taluk of Guntur District</location>
+    <telephone />
   </office>
   <office>
     <name>Abbineniguntapalem</name>
@@ -4965,7 +4938,7 @@
     <suboffice />
     <headoffice>Narasaraopet</headoffice>
     <location>Nuzendla Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Ainavolu</name>
@@ -5010,7 +4983,7 @@
     <suboffice>Kuchinapudi</suboffice>
     <headoffice>Bapatla</headoffice>
     <location>Kuchinapudi Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Allavaripalem</name>
@@ -5049,15 +5022,6 @@
     <telephone>0863-2255971</telephone>
   </office>
   <office>
-    <name>Amartaluru</name>
-    <pinCode>522325</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Tenali</headoffice>
-    <location>Amartaluru Taluk of Guntur District</location>
-    <telephone>08644-255223</telephone>
-  </office>
-  <office>
     <name>Amaravathi</name>
     <pinCode>522020</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -5065,6 +5029,15 @@
     <headoffice>Mangalagiri</headoffice>
     <location>Guntur Taluk of Guntur District</location>
     <telephone>08645-2255216</telephone>
+  </office>
+  <office>
+    <name>Amartaluru</name>
+    <pinCode>522325</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Tenali</headoffice>
+    <location>Amartaluru Taluk of Guntur District</location>
+    <telephone>08644-255223</telephone>
   </office>
   <office>
     <name>Ambapuram</name>
@@ -5085,15 +5058,6 @@
     <telephone />
   </office>
   <office>
-    <name>Amudarlanka</name>
-    <pinCode>522257</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vellaturu</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Bhattiprole Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Amudalapalli</name>
     <pinCode>522314</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -5103,12 +5067,21 @@
     <telephone />
   </office>
   <office>
-    <name>Anantavaram</name>
-    <pinCode>522236</pinCode>
+    <name>Amudarlanka</name>
+    <pinCode>522257</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Tadikonda</suboffice>
-    <headoffice>Mangalagiri</headoffice>
-    <location>Tadikonda Taluk of Guntur District</location>
+    <suboffice>Vellaturu</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Bhattiprole Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Anamarlapudi</name>
+    <pinCode>522213</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Sangamjagarlamudi</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Chebrole Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -5139,21 +5112,21 @@
     <telephone />
   </office>
   <office>
-    <name>Anaparru</name>
-    <pinCode>522235</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Pedanandipadu</suboffice>
-    <headoffice>Guntur</headoffice>
-    <location>Pedanandipadu Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Ananthavarappadu</name>
     <pinCode>522017</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Etukuru</suboffice>
     <headoffice>Guntur</headoffice>
     <location>Guntur Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Anaparru</name>
+    <pinCode>522235</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Pedanandipadu</suboffice>
+    <headoffice>Guntur</headoffice>
+    <location>Pedanandipadu Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -5271,7 +5244,7 @@
     <suboffice />
     <headoffice>Bapatla</headoffice>
     <location>Appikatla Taluk of Guntur District</location>
-    <telephone />
+    <telephone>08643-270030</telephone>
   </office>
   <office>
     <name>Apsp Colony(Mangalagiri)</name>
@@ -5301,15 +5274,6 @@
     <telephone />
   </office>
   <office>
-    <name>Arundalpet (NSV)</name>
-    <pinCode>522601</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Narasaraopet</headoffice>
-    <location>Narasaraopet Taluk of Guntur District</location>
-    <telephone>08647-221996</telephone>
-  </office>
-  <office>
     <name>Arumbaka</name>
     <pinCode>522309</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -5317,6 +5281,15 @@
     <headoffice>Bapatla</headoffice>
     <location>Cherukupalle Taluk of Guntur District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Arundalpet (NSV)</name>
+    <pinCode>522601</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Narasaraopet</headoffice>
+    <location>Narasaraopet Taluk of Guntur District</location>
+    <telephone>08647-221996</telephone>
   </office>
   <office>
     <name>Atchampet</name>
@@ -5442,7 +5415,7 @@
     <suboffice />
     <headoffice>Bapatla</headoffice>
     <location>Bapatla Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Bapatla</name>
@@ -5658,7 +5631,7 @@
     <suboffice>Murikipudi</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Chilakaluripet Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Borupalem</name>
@@ -5775,6 +5748,15 @@
     <suboffice>Ravipadu (Guntur)</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Narasaraopet Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Challagariga</name>
+    <pinCode>522409</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Atchampet</suboffice>
+    <headoffice>Sattenapalle</headoffice>
+    <location>Atchampet Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -5901,7 +5883,7 @@
     <suboffice>Nekarikallu</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Nekarikallu Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Cherlagudipadu</name>
@@ -6000,7 +5982,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Chinaagraharam</name>
@@ -6036,7 +6018,7 @@
     <suboffice>Pedakancherla</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Vinukonda Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Chinakodamagundla</name>
@@ -6147,21 +6129,21 @@
     <telephone />
   </office>
   <office>
-    <name>Chirravuru</name>
-    <pinCode>522303</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nutakki</suboffice>
-    <headoffice>Mangalagiri</headoffice>
-    <location>Nutakki Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Chintayapalem</name>
     <pinCode>522111</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Karlapalem</suboffice>
     <headoffice>Bapatla</headoffice>
     <location>Karlapalem Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Chirravuru</name>
+    <pinCode>522303</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nutakki</suboffice>
+    <headoffice>Mangalagiri</headoffice>
+    <location>Nutakki Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -6216,7 +6198,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Chodayapalem Taluk of Guntur District</location>
-    <telephone />
+    <telephone>08648-278120</telephone>
   </office>
   <office>
     <name>Choutra(Guntur)</name>
@@ -6273,6 +6255,15 @@
     <telephone>08649-246630</telephone>
   </office>
   <office>
+    <name>Daida</name>
+    <pinCode>522415</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Gurazalla</suboffice>
+    <headoffice>Sattenapalle</headoffice>
+    <location>Gurazalla Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
     <name>Damarapalle</name>
     <pinCode>522018</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -6324,15 +6315,6 @@
     <suboffice>Amaravathi</suboffice>
     <headoffice>Mangalagiri</headoffice>
     <location>Amaravathi Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
-  </office>
-  <office>
-    <name>Dhulipalla</name>
-    <pinCode>522412</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Rajupalem (Guntur)</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Rajupalem Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -6342,6 +6324,15 @@
     <suboffice>Durgi</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Durgi Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Dhulipalla</name>
+    <pinCode>522412</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Rajupalem (Guntur)</suboffice>
+    <headoffice>Sattenapalle</headoffice>
+    <location>Rajupalem Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -6390,79 +6381,16 @@
     <telephone />
   </office>
   <office>
-    <name>Chamallamudi</name>
-    <pinCode>522017</pinCode>
+    <name>Dondapadu</name>
+    <pinCode>522237</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Etukuru</suboffice>
-    <headoffice>Guntur</headoffice>
-    <location>Guntur Taluk of Guntur District</location>
+    <suboffice>Tulluru</suboffice>
+    <headoffice>Mangalagiri</headoffice>
+    <location>Tulluru Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
-    <name>Chamarru</name>
-    <pinCode>522409</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Atchampet</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Atchampet Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Champadu</name>
-    <pinCode>522261</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vemuru</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Vemuru Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Chandavaram</name>
-    <pinCode>522549</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Satuluru</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Nadendla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Chandole</name>
-    <pinCode>522311</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Bapatla</headoffice>
-    <location>Chandole Taluk of Guntur District</location>
-    <telephone>08643-255100</telephone>
-  </office>
-  <office>
-    <name>Chandrajupalem</name>
-    <pinCode>522411</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Bellamkonda</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Bellamkonda Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Chandramoulinagar</name>
-    <pinCode>522007</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Guntur</headoffice>
-    <location>Guntur Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Chatragadda</name>
-    <pinCode>522265</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Repalle</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Repalle Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Chatragaddapadu</name>
+    <name>Dondapadu</name>
     <pinCode>522647</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Vinukonda</suboffice>
@@ -6471,12 +6399,84 @@
     <telephone />
   </office>
   <office>
-    <name>Chavali</name>
-    <pinCode>522261</pinCode>
+    <name>Dondapadu</name>
+    <pinCode>522549</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Vemuru</suboffice>
+    <suboffice>Satuluru</suboffice>
+    <headoffice>Narasaraopet</headoffice>
+    <location>Nadendla Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Donepudi</name>
+    <pinCode>522324</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kolluru</suboffice>
     <headoffice>Tenali</headoffice>
-    <location>Vemuru Taluk of Guntur District</location>
+    <location>Kolluru Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Donka Road(Guntur)</name>
+    <pinCode>522002</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Guntur</headoffice>
+    <location>Guntur Taluk of Guntur District</location>
+    <telephone>0863-2255971</telephone>
+  </office>
+  <office>
+    <name>Doppalapudi</name>
+    <pinCode>522316</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Patsalatadiparru</suboffice>
+    <headoffice>Bapatla</headoffice>
+    <location>Patsalatadiparru Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Duggirala</name>
+    <pinCode>522330</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Tenali</headoffice>
+    <location>Duggirala Taluk of Guntur District</location>
+    <telephone>08644-277202</telephone>
+  </office>
+  <office>
+    <name>Durgi</name>
+    <pinCode>522612</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Narasaraopet</headoffice>
+    <location>Durgi Taluk of Guntur District</location>
+    <telephone>08642-256824</telephone>
+  </office>
+  <office>
+    <name>Edavalli</name>
+    <pinCode>522616</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chilakaluripet</suboffice>
+    <headoffice>Narasaraopet</headoffice>
+    <location>Chilakaluripet Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Edlapadu</name>
+    <pinCode>522233</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Narasaraopet</headoffice>
+    <location>Edlapadu Taluk of Guntur District</location>
+    <telephone>08647-276630</telephone>
+  </office>
+  <office>
+    <name>Edlapalli</name>
+    <pinCode>522211</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Angalakudur</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Angalakudur Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -6498,15 +6498,6 @@
     <telephone />
   </office>
   <office>
-    <name>Emmajigudem</name>
-    <pinCode>522411</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Bellamkonda</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Emani</name>
     <pinCode>522308</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -6514,6 +6505,15 @@
     <headoffice>Tenali</headoffice>
     <location>Emani Taluk of Guntur District</location>
     <telephone>08644-248223</telephone>
+  </office>
+  <office>
+    <name>Emmajigudem</name>
+    <pinCode>522411</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Bellamkonda</suboffice>
+    <headoffice>Sattenapalle</headoffice>
+    <location>Taluk of Guntur District</location>
+    <telephone />
   </office>
   <office>
     <name>Enamadala</name>
@@ -6633,15 +6633,6 @@
     <telephone>08647-257051</telephone>
   </office>
   <office>
-    <name>Gandhinagar (Guntur)</name>
-    <pinCode>522201</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Tenali</headoffice>
-    <location>Tenali Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Gandhi Chowk (Guntur)</name>
     <pinCode>522403</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -6649,6 +6640,15 @@
     <headoffice>Sattenapalle</headoffice>
     <location>Sattenapalle Taluk of Guntur District</location>
     <telephone>08641-232294</telephone>
+  </office>
+  <office>
+    <name>Gandhinagar (Guntur)</name>
+    <pinCode>522201</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Tenali</headoffice>
+    <location>Tenali Taluk of Guntur District</location>
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Gandiganumala</name>
@@ -6900,15 +6900,6 @@
     <suboffice>Gurazalla</suboffice>
     <headoffice>Sattenapalle</headoffice>
     <location>Gurazalla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gottipadu</name>
-    <pinCode>522616</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chilakaluripet</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Chilakaluripet Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -7255,9 +7246,18 @@
   </office>
   <office>
     <name>Ilavaram</name>
+    <pinCode>522259</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kanagala (Guntur)</suboffice>
+    <headoffice>Bapatla</headoffice>
+    <location>Cherukupalli Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Industrial Estate (Guntur)</name>
     <pinCode>522034</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>Kanagala (Guntur)</suboffice>
+    <suboffice />
     <headoffice>Guntur</headoffice>
     <location>Guntur Taluk of Guntur District</location>
     <telephone>0863-2255971</telephone>
@@ -7350,7 +7350,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Tenali Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Itikampadu</name>
@@ -7368,6 +7368,15 @@
     <suboffice>Edlapadu</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Edlapdu Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Jaladi</name>
+    <pinCode>522233</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Edlapadu</suboffice>
+    <headoffice>Narasaraopet</headoffice>
+    <location>Edlapadu Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -7404,15 +7413,6 @@
     <suboffice>Piduguralla</suboffice>
     <headoffice>Sattenapalle</headoffice>
     <location>Piduguralla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Jangalapalle</name>
-    <pinCode>522647</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vinukonda</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Vinukonda Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -7974,15 +7974,6 @@
     <telephone />
   </office>
   <office>
-    <name>Kolanukonda</name>
-    <pinCode>522502</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>K.C.Works</suboffice>
-    <headoffice>Mangalagiri</headoffice>
-    <location>K.c.works Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Kolakaluru</name>
     <pinCode>522307</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -7990,6 +7981,15 @@
     <headoffice>Tenali</headoffice>
     <location>Kolakaluru Taluk of Guntur District</location>
     <telephone>08644-281270</telephone>
+  </office>
+  <office>
+    <name>Kolanukonda</name>
+    <pinCode>522502</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>K.C.Works</suboffice>
+    <headoffice>Mangalagiri</headoffice>
+    <location>K.c.works Taluk of Guntur District</location>
+    <telephone />
   </office>
   <office>
     <name>Kollipara</name>
@@ -8340,7 +8340,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Tenali Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Kothapeta(Guntur)</name>
@@ -8631,6 +8631,15 @@
     <telephone />
   </office>
   <office>
+    <name>Lingamguntlapalem</name>
+    <pinCode>522212</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chebrole (Guntur)</suboffice>
+    <headoffice>Bapatla</headoffice>
+    <location>Bapatla Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
     <name>Lingamukkapalle</name>
     <pinCode>522659</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -8682,7 +8691,7 @@
     <suboffice />
     <headoffice>Bapatla</headoffice>
     <location>Machavaram Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Machayapalem</name>
@@ -8730,21 +8739,21 @@
     <telephone />
   </office>
   <office>
-    <name>Madugula</name>
-    <pinCode>522415</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gurazalla</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Gurzalla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Madipadu</name>
     <pinCode>522409</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Atchampet</suboffice>
     <headoffice>Sattenapalle</headoffice>
     <location>Atchampet Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Madugula</name>
+    <pinCode>522415</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Gurazalla</suboffice>
+    <headoffice>Sattenapalle</headoffice>
+    <location>Gurzalla Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -8766,12 +8775,12 @@
     <telephone />
   </office>
   <office>
-    <name>Madipadu</name>
-    <pinCode>522409</pinCode>
+    <name>Mamillapalli</name>
+    <pinCode>522318</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Atchampet</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Atchampet Taluk of Guntur District</location>
+    <suboffice>Tsunduru</suboffice>
+    <headoffice>Bapatla</headoffice>
+    <location>Tsunduru Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -9054,21 +9063,21 @@
     <telephone>08644-224555</telephone>
   </office>
   <office>
-    <name>Mrutyumjayapalem</name>
-    <pinCode>522264</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chodayapalem</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Repalle Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Mothadaka</name>
     <pinCode>522016</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Lemalle</suboffice>
     <headoffice>Mangalagiri</headoffice>
     <location>Lemalle Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Mrutyumjayapalem</name>
+    <pinCode>522264</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chodayapalem</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Repalle Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -9180,15 +9189,6 @@
     <telephone />
   </office>
   <office>
-    <name>Muppalla (Guntur)</name>
-    <pinCode>522408</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Sattenapalle</headoffice>
-    <location>Muppalla Taluk of Guntur District</location>
-    <telephone>08641-242813</telephone>
-  </office>
-  <office>
     <name>Munugodu</name>
     <pinCode>522402</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -9196,6 +9196,15 @@
     <headoffice>Sattenapalle</headoffice>
     <location>Pedakurapadu Taluk of Guntur District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Muppalla (Guntur)</name>
+    <pinCode>522408</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Sattenapalle</headoffice>
+    <location>Muppalla Taluk of Guntur District</location>
+    <telephone>08641-242813</telephone>
   </office>
   <office>
     <name>Muppalla(VKD)</name>
@@ -9456,16 +9465,7 @@
     <suboffice />
     <headoffice>Guntur</headoffice>
     <location>Guntur Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Nallurupalem</name>
-    <pinCode>522265</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Repalle</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Repalle Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Nalluru</name>
@@ -9765,15 +9765,6 @@
     <telephone>08646-275032</telephone>
   </office>
   <office>
-    <name>Nutakki</name>
-    <pinCode>522303</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Mangalagiri</headoffice>
-    <location>Guntur Taluk of Guntur District</location>
-    <telephone>08645-275539</telephone>
-  </office>
-  <office>
     <name>Nudurupadu</name>
     <pinCode>522529</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -9781,6 +9772,15 @@
     <headoffice>Narasaraopet</headoffice>
     <location>Phirangipuram Taluk of Guntur District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Nutakki</name>
+    <pinCode>522303</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Mangalagiri</headoffice>
+    <location>Guntur Taluk of Guntur District</location>
+    <telephone>08645-275539</telephone>
   </office>
   <office>
     <name>Nuzendla</name>
@@ -9918,6 +9918,15 @@
     <telephone />
   </office>
   <office>
+    <name>Pamidimarru</name>
+    <pinCode>522601</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Narasaraopet</headoffice>
+    <location>Narasaraopet Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
     <name>Pamidipadu Agraharam</name>
     <pinCode>522601</pinCode>
     <status>Branch Office(Delivery) directly a/w Head Office</status>
@@ -9945,12 +9954,12 @@
     <telephone />
   </office>
   <office>
-    <name>Panditivaripalem</name>
-    <pinCode>522413</pinCode>
+    <name>Panchalavaram</name>
+    <pinCode>522325</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Piduguralla</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Piduguralla Taluk of Guntur District</location>
+    <suboffice>Amartaluru</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Amartaluru Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -10023,7 +10032,7 @@
     <suboffice>Chilakaluripet</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Chilakaluripet Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Pathakothapalem</name>
@@ -10127,15 +10136,6 @@
   <office>
     <name>Pedakancherla</name>
     <pinCode>522649</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Pedakancherla</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Pedakancherla</name>
-    <pinCode>522649</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Narasaraopet</headoffice>
@@ -10207,9 +10207,9 @@
   </office>
   <office>
     <name>Pedapalakaluru</name>
-    <pinCode>522005</pinCode>
+    <pinCode>522009</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Nallapadu</suboffice>
+    <suboffice>Perecherla Junction</suboffice>
     <headoffice>Guntur</headoffice>
     <location>Guntur Taluk of Guntur District</location>
     <telephone />
@@ -10350,21 +10350,21 @@
     <telephone />
   </office>
   <office>
-    <name>Penumuli</name>
-    <pinCode>522330</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Duggirala</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Duggirala Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Penumudi</name>
     <pinCode>522265</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Repalle</suboffice>
     <headoffice>Tenali</headoffice>
     <location>Repalle Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Penumuli</name>
+    <pinCode>522330</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Duggirala</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Duggirala Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -10396,12 +10396,21 @@
   </office>
   <office>
     <name>Perecherla</name>
-    <pinCode>522005</pinCode>
+    <pinCode>522009</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Nallapadu</suboffice>
+    <suboffice>Perecherla Junction</suboffice>
     <headoffice>Guntur</headoffice>
     <location>Guntur Taluk of Guntur District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Perecherla Junction</name>
+    <pinCode>522009</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Guntur</headoffice>
+    <location>Medikonduru Taluk of Guntur District</location>
+    <telephone>0863-2291313</telephone>
   </office>
   <office>
     <name>Perikalapudi</name>
@@ -10422,21 +10431,21 @@
     <telephone />
   </office>
   <office>
-    <name>Pesarlanka</name>
-    <pinCode>522257</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vellaturu</suboffice>
-    <headoffice>Tenali</headoffice>
-    <location>Bhattiprole Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Perurupadu</name>
     <pinCode>522657</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Vellatur</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Vinukonda Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Pesarlanka</name>
+    <pinCode>522257</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Vellaturu</suboffice>
+    <headoffice>Tenali</headoffice>
+    <location>Bhattiprole Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -10509,7 +10518,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Tenali Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Pinnelli</name>
@@ -10545,7 +10554,7 @@
     <suboffice />
     <headoffice>Bapatla</headoffice>
     <location>Bapatla Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Pittambanda</name>
@@ -10602,6 +10611,15 @@
     <telephone>0863-2281855</telephone>
   </office>
   <office>
+    <name>Ponnur Bazar</name>
+    <pinCode>522124</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Bapatla</headoffice>
+    <location>Ponnur Taluk of Guntur District</location>
+    <telephone>-</telephone>
+  </office>
+  <office>
     <name>Ponnur</name>
     <pinCode>522124</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -10609,15 +10627,6 @@
     <headoffice>Bapatla</headoffice>
     <location>Ponnur Taluk of Guntur District</location>
     <telephone>08643-242022</telephone>
-  </office>
-  <office>
-    <name>Ponnur Bazar</name>
-    <pinCode>522124</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Bapatla</headoffice>
-    <location>Ponnur Taluk of Guntur District</location>
-    <telephone />
   </office>
   <office>
     <name>Ponugupadu</name>
@@ -10815,7 +10824,7 @@
     <suboffice />
     <headoffice>Bapatla</headoffice>
     <location>Bapatla Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Rajapeta</name>
@@ -10914,7 +10923,7 @@
     <suboffice />
     <headoffice>Bapatla</headoffice>
     <location>Bapatla Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Ravela</name>
@@ -11256,7 +11265,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Tenali Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Savalyapuram</name>
@@ -11340,15 +11349,6 @@
     <telephone />
   </office>
   <office>
-    <name>Snpagraharam</name>
-    <pinCode>522101</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Bapatla</headoffice>
-    <location>Bapatla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Sivapuram</name>
     <pinCode>522647</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -11356,6 +11356,15 @@
     <headoffice>Narasaraopet</headoffice>
     <location>Vinukonda Taluk of Guntur District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Snpagraharam</name>
+    <pinCode>522101</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Bapatla</headoffice>
+    <location>Bapatla Taluk of Guntur District</location>
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Solasa</name>
@@ -11367,21 +11376,21 @@
     <telephone />
   </office>
   <office>
-    <name>Srirangapuram</name>
-    <pinCode>522212</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chebrole (Guntur)</suboffice>
-    <headoffice>Bapatla</headoffice>
-    <location>Bapatla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Srinagar</name>
     <pinCode>522414</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Dachpalle</suboffice>
     <headoffice>Sattenapalle</headoffice>
     <location>Dachepalle Taluk of Guntur District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Srirangapuram</name>
+    <pinCode>522212</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chebrole (Guntur)</suboffice>
+    <headoffice>Bapatla</headoffice>
+    <location>Bapatla Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -11544,96 +11553,6 @@
     <suboffice>Phirangipuram</suboffice>
     <headoffice>Narasaraopet</headoffice>
     <location>Phirangipuram Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
-  </office>
-  <office>
-    <name>Talluru</name>
-    <pinCode>522410</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Krosuru</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Krosuru Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tammavaram</name>
-    <pinCode>522436</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Parastyalluru</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Pedakurapadu Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tangeda</name>
-    <pinCode>522414</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Dachpalle</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Dachepalle Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tatapudi</name>
-    <pinCode>522626</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Murikipudi</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Chilakaluripet Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tellabadu</name>
-    <pinCode>522647</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vinukonda</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Vinukonda Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tenali Bazar</name>
-    <pinCode>522201</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Tenali</headoffice>
-    <location>Tenali Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tenali</name>
-    <pinCode>522201</pinCode>
-    <status>Head Office(Delivery)</status>
-    <suboffice />
-    <headoffice />
-    <location>Tenali Taluk of Guntur District</location>
-    <telephone>08644-227863</telephone>
-  </office>
-  <office>
-    <name>Tallapalem</name>
-    <pinCode>522124</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Ponnur</suboffice>
-    <headoffice>Bapatla</headoffice>
-    <location>Ponnur Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Tallapalle</name>
-    <pinCode>522426</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Macherla (Guntur)</suboffice>
-    <headoffice>Sattenapalle</headoffice>
-    <location>Macherla Taluk of Guntur District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Talluru</name>
-    <pinCode>522529</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Phirangipuram</suboffice>
-    <headoffice>Narasaraopet</headoffice>
-    <location>Phirangipuram Taluk of Guntur District</location>
     <telephone />
   </office>
   <office>
@@ -11688,7 +11607,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Tenali Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Tenali</name>
@@ -11805,7 +11724,7 @@
     <suboffice />
     <headoffice>Mangalagiri</headoffice>
     <location>Guntur Taluk of Guntur District</location>
-    <telephone />
+    <telephone>08645-223203</telephone>
   </office>
   <office>
     <name>Tummala</name>
@@ -11967,7 +11886,7 @@
     <suboffice />
     <headoffice>Narasaraopet</headoffice>
     <location>Narasaraopet Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Vaddamanu</name>
@@ -12552,7 +12471,7 @@
     <suboffice />
     <headoffice>Tenali</headoffice>
     <location>Tenali Taluk of Guntur District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Yadavuru</name>
@@ -12606,7 +12525,7 @@
     <suboffice />
     <headoffice>Sattenapalle</headoffice>
     <location>Sattenapalle Taluk of Guntur District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Yerukalapudi</name>
@@ -12708,15 +12627,6 @@
     <telephone />
   </office>
   <office>
-    <name>Anandbagh</name>
-    <pinCode>500047</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23463758</telephone>
-  </office>
-  <office>
     <name>Amberpet</name>
     <pinCode>500013</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -12724,6 +12634,15 @@
     <headoffice>Stn Kachiguda</headoffice>
     <location>Amberpet Taluk of Hyderabad District</location>
     <telephone>040-23463823</telephone>
+  </office>
+  <office>
+    <name>Anandbagh</name>
+    <pinCode>500047</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Trimulgherry</headoffice>
+    <location>Tirumalagiri Taluk of Hyderabad District</location>
+    <telephone>040-23463758</telephone>
   </office>
   <office>
     <name>Anandnagar (Hyderabad)</name>
@@ -12741,15 +12660,6 @@
     <suboffice>Nisa Hakimpet</suboffice>
     <headoffice>Trimulgherry</headoffice>
     <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Anantaram</name>
-    <pinCode>500015</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
     <telephone />
   </office>
   <office>
@@ -12780,15 +12690,6 @@
     <telephone />
   </office>
   <office>
-    <name>Annajiguda</name>
-    <pinCode>501301</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Ghatkesar</suboffice>
-    <headoffice>Secunderabad</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Aoc Records</name>
     <pinCode>500015</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -12804,7 +12705,7 @@
     <suboffice />
     <headoffice>Hyderabad.</headoffice>
     <location>Rajendra Nagar Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Aphb Colony Moulali</name>
@@ -12822,16 +12723,7 @@
     <suboffice />
     <headoffice>Secunderabad</headoffice>
     <location>Musheerabad Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Atvelli</name>
-    <pinCode>500015</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Badangpet</name>
@@ -13065,7 +12957,7 @@
     <suboffice />
     <headoffice>Khairatabad</headoffice>
     <location>Shaikpet Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Ecil</name>
@@ -13075,6 +12967,15 @@
     <headoffice>Secunderabad</headoffice>
     <location>Secunderabad Taluk of Hyderabad District</location>
     <telephone>040-23463725</telephone>
+  </office>
+  <office>
+    <name>EME Records</name>
+    <pinCode>500015</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Trimulgherry</headoffice>
+    <location>Tirumalagiri Taluk of Hyderabad District</location>
+    <telephone>040-23463764</telephone>
   </office>
   <office>
     <name>Erragadda</name>
@@ -13149,6 +13050,15 @@
     <telephone>040-23463726</telephone>
   </office>
   <office>
+    <name>Gayatri Nagar</name>
+    <pinCode>500097</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Stn Kachiguda</headoffice>
+    <location>saroornagar Taluk of Hyderabad District</location>
+    <telephone>040-24091145</telephone>
+  </office>
+  <office>
     <name>Ghatkesar</name>
     <pinCode>501301</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -13173,7 +13083,7 @@
     <suboffice />
     <headoffice>Secunderabad</headoffice>
     <location>Musheerabad Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Golconda</name>
@@ -13212,15 +13122,6 @@
     <telephone>040-23463768</telephone>
   </office>
   <office>
-    <name>Hanumanpet</name>
-    <pinCode>500047</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Malkajgiri</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Hal (Hyderabad)</name>
     <pinCode>500042</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -13228,6 +13129,15 @@
     <headoffice>Trimulgherry</headoffice>
     <location>Tirumalagiri Taluk of Hyderabad District</location>
     <telephone>040-23463765</telephone>
+  </office>
+  <office>
+    <name>Hanumanpet</name>
+    <pinCode>500047</pinCode>
+    <status>Branch Office(Non Delivery)</status>
+    <suboffice>Malkajgiri</suboffice>
+    <headoffice>Trimulgherry</headoffice>
+    <location>Tirumalagiri Taluk of Hyderabad District</location>
+    <telephone />
   </office>
   <office>
     <name>High Court (Hyderabad)</name>
@@ -13326,7 +13236,7 @@
     <suboffice />
     <headoffice>Hyderabad.</headoffice>
     <location>Golconda Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>I.M.Colony</name>
@@ -13383,22 +13293,13 @@
     <telephone />
   </office>
   <office>
-    <name>Jaggamguda</name>
-    <pinCode>500015</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Jai Jawan Colony</name>
     <pinCode>500062</pinCode>
     <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Secunderabad</headoffice>
     <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Jama I Osmania</name>
@@ -13410,102 +13311,12 @@
     <telephone>040-23463733</telephone>
   </office>
   <office>
-    <name>JJ Nagar Colony</name>
+    <name>Jawahar Nagar</name>
     <pinCode>500087</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
+    <status>Branch Office(Non Delivery)</status>
+    <suboffice>JJ Nagar Colony</suboffice>
     <headoffice>Trimulgherry</headoffice>
     <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23463771</telephone>
-  </office>
-  <office>
-    <name>Jntu Kukat Pally</name>
-    <pinCode>500085</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23428516</telephone>
-  </office>
-  <office>
-    <name>JJ Nagar Colony</name>
-    <pinCode>500087</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23463771</telephone>
-  </office>
-  <office>
-    <name>IDA Jeedimetla</name>
-    <pinCode>500055</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23463769</telephone>
-  </office>
-  <office>
-    <name>Ie Moulali</name>
-    <pinCode>500040</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone>040-23463731</telephone>
-  </office>
-  <office>
-    <name>IICT</name>
-    <pinCode>500007</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone>040-23463732</telephone>
-  </office>
-  <office>
-    <name>Jaggamguda</name>
-    <pinCode>500078</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nisa Hakimpet</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Jaggamguda</name>
-    <pinCode>500015</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Jai Jawan Colony</name>
-    <pinCode>500062</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Jama I Osmania</name>
-    <pinCode>500007</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone>040-23463733</telephone>
-  </office>
-  <office>
-    <name>Jeedimetla</name>
-    <pinCode>500055</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>IDA Jeedimetla</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
     <telephone />
   </office>
   <office>
@@ -13536,15 +13347,6 @@
     <telephone>040-23428300</telephone>
   </office>
   <office>
-    <name>Kanchanbagh</name>
-    <pinCode>500058</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Hyderabad Jubilee</headoffice>
-    <location>Bandlaguda Taluk of Hyderabad District</location>
-    <telephone>040-24344839</telephone>
-  </office>
-  <office>
     <name>Kakatiya Nagar</name>
     <pinCode>500008</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -13552,6 +13354,15 @@
     <headoffice>Khairatabad</headoffice>
     <location>Golconda Taluk of Hyderabad District</location>
     <telephone>040-23428321</telephone>
+  </office>
+  <office>
+    <name>Kanchanbagh</name>
+    <pinCode>500058</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Hyderabad Jubilee</headoffice>
+    <location>Bandlaguda Taluk of Hyderabad District</location>
+    <telephone>040-24344839</telephone>
   </office>
   <office>
     <name>Karwan Sahu</name>
@@ -13569,15 +13380,6 @@
     <suboffice>Samskruthi</suboffice>
     <headoffice>Secunderabad</headoffice>
     <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Katchvanisingaram</name>
-    <pinCode>501301</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Ghatkesar</suboffice>
-    <headoffice>Secunderabad</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
     <telephone />
   </office>
   <office>
@@ -13812,16 +13614,7 @@
     <suboffice />
     <headoffice>Hyderabad.</headoffice>
     <location>Asifnagar Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>MG Road</name>
-    <pinCode>500003</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone>040-23463739</telephone>
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Manovikasnagar</name>
@@ -13831,6 +13624,15 @@
     <headoffice>Trimulgherry</headoffice>
     <location>Tirumalagiri Taluk of Hyderabad District</location>
     <telephone>040-23463774</telephone>
+  </office>
+  <office>
+    <name>MG Road</name>
+    <pinCode>500003</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Secunderabad</headoffice>
+    <location>Secunderabad Taluk of Hyderabad District</location>
+    <telephone>040-23463739</telephone>
   </office>
   <office>
     <name>Miyapur</name>
@@ -13896,6 +13698,15 @@
     <telephone>040-23463741</telephone>
   </office>
   <office>
+    <name>Musheerabad (ND)</name>
+    <pinCode>500020</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Secunderabad</headoffice>
+    <location>Musheerabad Taluk of Hyderabad District</location>
+    <telephone>-</telephone>
+  </office>
+  <office>
     <name>Nallakunta</name>
     <pinCode>500044</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -13905,30 +13716,12 @@
     <telephone>040-23463848</telephone>
   </office>
   <office>
-    <name>Musheerabad (ND)</name>
-    <pinCode>500020</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Musheerabad Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Nanakramguda</name>
     <pinCode>500008</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Golconda</suboffice>
     <headoffice>Hyderabad.</headoffice>
     <location>Golconda Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Napier Lines</name>
-    <pinCode>500009</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Manovikasnagar</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
     <telephone />
   </office>
   <office>
@@ -13977,94 +13770,85 @@
     <telephone>040-23463849</telephone>
   </office>
   <office>
-    <name>Kingsway</name>
-    <pinCode>500003</pinCode>
+    <name>Ngri</name>
+    <pinCode>500007</pinCode>
     <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Secunderabad</headoffice>
     <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone>040-23463735</telephone>
+    <telephone>040-23463745</telephone>
   </office>
   <office>
-    <name>Kishanbagh</name>
-    <pinCode>500064</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Bahadurpura</suboffice>
-    <headoffice>Hyderabad Jubilee</headoffice>
-    <location>Bahadurpura Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Kismathpur</name>
-    <pinCode>500030</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Rajendranagar (K.V.Rangareddy)</suboffice>
-    <headoffice>Hyderabad Jubilee</headoffice>
-    <location>Hyderabad Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Kolthur</name>
-    <pinCode>500078</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nisa Hakimpet</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Korremal</name>
-    <pinCode>500088</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Samskruthi</suboffice>
-    <headoffice>Secunderabad</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Kowkoor</name>
-    <pinCode>500010</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Bolarum</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Malkagiri Manda Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>KPHB Colony</name>
-    <pinCode>500072</pinCode>
+    <name>Nimboliadda</name>
+    <pinCode>500027</pinCode>
     <status>Sub Office(Non Delivery)</status>
     <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23463730</telephone>
+    <headoffice>Stn Kachiguda</headoffice>
+    <location>Nampally Taluk of Hyderabad District</location>
+    <telephone>040-23463850</telephone>
   </office>
   <office>
-    <name>Kukatpally</name>
-    <pinCode>500072</pinCode>
+    <name>Nisa Hakimpet</name>
+    <pinCode>500078</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Trimulgherry</headoffice>
     <location>Tirumalagiri Taluk of Hyderabad District</location>
-    <telephone>040-23463772</telephone>
+    <telephone>040-23463777</telephone>
   </office>
   <office>
-    <name>Kulsumpura</name>
-    <pinCode>500006</pinCode>
+    <name>Nutankal</name>
+    <pinCode>501401</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Medchal</suboffice>
+    <headoffice>Trimulgherry</headoffice>
+    <location>Hyd Taluk of Hyderabad District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Old Malakpet</name>
+    <pinCode>500036</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Stn Kachiguda</headoffice>
+    <location>Saidabad Taluk of Hyderabad District</location>
+    <telephone>040-23463854</telephone>
+  </office>
+  <office>
+    <name>Osmania General Hospital</name>
+    <pinCode>500012</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Hyderabad Jubilee</headoffice>
+    <location>Nampally Taluk of Hyderabad District</location>
+    <telephone>040-23463852</telephone>
+  </office>
+  <office>
+    <name>Osmannagar (Hyderabad)</name>
+    <pinCode>500036</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Stn Kachiguda</headoffice>
+    <location>Saidabad Taluk of Hyderabad District</location>
+    <telephone>040-23463853</telephone>
+  </office>
+  <office>
+    <name>Padmaraonagar</name>
+    <pinCode>500025</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Secunderabad</headoffice>
+    <location>Secunderabad Taluk of Hyderabad District</location>
+    <telephone>040-23463746</telephone>
+  </office>
+  <office>
+    <name>Parishram Bhawan</name>
+    <pinCode>500004</pinCode>
     <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Hyderabad.</headoffice>
-    <location>Asifnagar Taluk of Hyderabad District</location>
-    <telephone>040-24826385</telephone>
-  </office>
-  <office>
-    <name>Kushaiguda</name>
-    <pinCode>500062</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Jai Jawan Colony</suboffice>
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone />
+    <location>Himayathnagar Taluk of Hyderabad District</location>
+    <telephone>040-23428328</telephone>
   </office>
   <office>
     <name>Peddalaxmapur</name>
@@ -14094,15 +13878,6 @@
     <telephone>040-23463749</telephone>
   </office>
   <office>
-    <name>Prakashamnagar</name>
-    <pinCode>500016</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Secunderabad</headoffice>
-    <location>Secunderabad Taluk of Hyderabad District</location>
-    <telephone>040-23463750</telephone>
-  </office>
-  <office>
     <name>Pragatinagar</name>
     <pinCode>500090</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -14110,6 +13885,15 @@
     <headoffice>Trimulgherry</headoffice>
     <location>Hyd Taluk of Hyderabad District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Prakashamnagar</name>
+    <pinCode>500016</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Secunderabad</headoffice>
+    <location>Secunderabad Taluk of Hyderabad District</location>
+    <telephone>040-23463750</telephone>
   </office>
   <office>
     <name>Pratapsingaram</name>
@@ -14283,15 +14067,6 @@
     <telephone>040-27196222</telephone>
   </office>
   <office>
-    <name>Sanjeev Reddy Nagar</name>
-    <pinCode>500038</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Khairatabad</headoffice>
-    <location>Ameerpet Taluk of Hyderabad District</location>
-    <telephone>040-23428332</telephone>
-  </office>
-  <office>
     <name>Sanath Nagar Colony</name>
     <pinCode>500018</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -14299,6 +14074,15 @@
     <headoffice>Khairatabad</headoffice>
     <location>Ameerpet Taluk of Hyderabad District</location>
     <telephone>040-23428379</telephone>
+  </office>
+  <office>
+    <name>Sanjeev Reddy Nagar</name>
+    <pinCode>500038</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Khairatabad</headoffice>
+    <location>Ameerpet Taluk of Hyderabad District</location>
+    <telephone>040-23428332</telephone>
   </office>
   <office>
     <name>Santoshnagar Colony</name>
@@ -14445,15 +14229,6 @@
     <telephone />
   </office>
   <office>
-    <name>Suraram</name>
-    <pinCode>500015</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Tadbun</name>
     <pinCode>500064</pinCode>
     <status>Branch Office(Non Delivery)</status>
@@ -14481,6 +14256,15 @@
     <telephone />
   </office>
   <office>
+    <name>Thumkunta</name>
+    <pinCode>500078</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nisa Hakimpet</suboffice>
+    <headoffice>Trimulgherry</headoffice>
+    <location>Hyd Taluk of Hyderabad District</location>
+    <telephone />
+  </office>
+  <office>
     <name>Toli Chowki</name>
     <pinCode>500008</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -14490,7 +14274,7 @@
     <telephone>040-23428369</telephone>
   </office>
   <office>
-    <name>Thumkunta</name>
+    <name>Turkapalliyadaram</name>
     <pinCode>500078</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Nisa Hakimpet</suboffice>
@@ -14506,15 +14290,6 @@
     <headoffice>Hyderabad Jubilee</headoffice>
     <location>Charminar Taluk of Hyderabad District</location>
     <telephone>040-23463872</telephone>
-  </office>
-  <office>
-    <name>Turkapalliyadaram</name>
-    <pinCode>500078</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nisa Hakimpet</suboffice>
-    <headoffice>Trimulgherry</headoffice>
-    <location>Hyd Taluk of Hyderabad District</location>
-    <telephone />
   </office>
   <office>
     <name>Vengal Rao Nagar</name>
@@ -14577,7 +14352,7 @@
     <suboffice />
     <headoffice>Khairatabad</headoffice>
     <location>Balanagar Taluk of Hyderabad District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Vivekanandanagar Colony</name>
@@ -23851,11 +23626,11 @@
   </office>
   <office>
     <name>Thimmapur</name>
-    <pinCode>505307</pinCode>
+    <pinCode>505527</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Rudrangi</suboffice>
-    <headoffice>Jagtial</headoffice>
-    <location>Chandurthi Taluk of Karim Nagar District</location>
+    <suboffice>Lower Manair Dam Colony</suboffice>
+    <headoffice>Karimnagar</headoffice>
+    <location>Thimmapur Taluk of Karim Nagar District</location>
     <telephone />
   </office>
   <office>
@@ -31497,6 +31272,231 @@
     <suboffice>Moturu</suboffice>
     <headoffice>Gudivada</headoffice>
     <location>Gudivada Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Dosapadu</name>
+    <pinCode>521321</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Janardhanapuram</suboffice>
+    <headoffice>Gudivada</headoffice>
+    <location>Nandivada Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Dt.Court</name>
+    <pinCode>521002</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Machilipatnam</headoffice>
+    <location>Machilipatnam Taluk of Krishna District</location>
+    <telephone>08672-223837</telephone>
+  </office>
+  <office>
+    <name>Duggiralapadu</name>
+    <pinCode>521229</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>G Konduru</suboffice>
+    <headoffice>Vijayawada</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Duggiralapadu</name>
+    <pinCode>521401</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Penugolanu</suboffice>
+    <headoffice>Nuzvid</headoffice>
+    <location>Penugolanu Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Dum Dum Gardens</name>
+    <pinCode>521201</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Nuzvid</headoffice>
+    <location>Nuzvid Taluk of Krishna District</location>
+    <telephone>08656-232722</telephone>
+  </office>
+  <office>
+    <name>Durga Agraharam</name>
+    <pinCode>520002</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Buckinghampet</headoffice>
+    <location>Vijayawada (Urban) Taluk of Krishna District</location>
+    <telephone>0866-242231</telephone>
+  </office>
+  <office>
+    <name>Durgapuram</name>
+    <pinCode>520003</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Vijayawada</headoffice>
+    <location>Vijayawada (Urban) Taluk of Krishna District</location>
+    <telephone>0866-2442241</telephone>
+  </office>
+  <office>
+    <name>Edara</name>
+    <pinCode>521211</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Aukiripalli</suboffice>
+    <headoffice>Vijayawada</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Eddanapudi</name>
+    <pinCode>521136</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>K.P.Centre</suboffice>
+    <headoffice>Avanigadda</headoffice>
+    <location>Movva Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Edlalanka</name>
+    <pinCode>521121</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Avanigadda</headoffice>
+    <location>Avanigadda Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Edulamaddali</name>
+    <pinCode>521148</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Elamarru</suboffice>
+    <headoffice>Gudivada</headoffice>
+    <location>Pedaparupudi Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Edupugallu</name>
+    <pinCode>521151</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kankipadu</suboffice>
+    <headoffice>Buckinghampet</headoffice>
+    <location>Kankipadu Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Edurumondi</name>
+    <pinCode>521120</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nagayalanka</suboffice>
+    <headoffice>Avanigadda</headoffice>
+    <location>Nagayalanka Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Elakurru</name>
+    <pinCode>521156</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nidumolu</suboffice>
+    <headoffice>Avanigadda</headoffice>
+    <location>Guduru Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Elamarru</name>
+    <pinCode>521148</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Gudivada</headoffice>
+    <location>Pedaparupudi Taluk of Krishna District</location>
+    <telephone>08674-256224</telephone>
+  </office>
+  <office>
+    <name>Ellapuram</name>
+    <pinCode>521207</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Musunuru</suboffice>
+    <headoffice>Nuzvid</headoffice>
+    <location>Musunuru Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Enamadala</name>
+    <pinCode>521201</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Nuzvid</headoffice>
+    <location>Nuzvid Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Endakuduru</name>
+    <pinCode>521131</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Lakshmipuram (Krishna)</suboffice>
+    <headoffice>Avanigadda</headoffice>
+    <location>Ghantasala Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Enikepadu</name>
+    <pinCode>521108</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Ramavarappadu</suboffice>
+    <headoffice>Buckinghampet</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Erramadu</name>
+    <pinCode>521403</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Gampalagudem</suboffice>
+    <headoffice>Nuzvid</headoffice>
+    <location>Gampalagudem Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Etimogga</name>
+    <pinCode>521120</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nagayalanka</suboffice>
+    <headoffice>Avanigadda</headoffice>
+    <location>Nagayalanka Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Eturu</name>
+    <pinCode>521183</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Muppalla (Krishna)</suboffice>
+    <headoffice>Vijayawada</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>G Konduru</name>
+    <pinCode>521229</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Vijayawada</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
+    <telephone>0866-2802228</telephone>
+  </office>
+  <office>
+    <name>Galigopuram</name>
+    <pinCode>521109</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Telaprolu</suboffice>
+    <headoffice>Nuzvid</headoffice>
+    <location>Telaprolu Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Gampalagudem</name>
+    <pinCode>521403</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Nuzvid</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
     <telephone />
   </office>
 </offices>

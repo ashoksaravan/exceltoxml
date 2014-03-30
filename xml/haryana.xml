@@ -1476,13 +1476,13 @@
     <telephone>01255-265238</telephone>
   </office>
   <office>
-    <name>Behl</name>
-    <pinCode>127028</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
+    <name>Berla</name>
+    <pinCode>127308</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Badhara</suboffice>
     <headoffice>Bhiwani</headoffice>
-    <location>Siwani Taluk of Bhiwani District</location>
-    <telephone>01255-265238</telephone>
+    <location>Dadri Taluk of Bhiwani District</location>
+    <telephone />
   </office>
   <office>
     <name>Bhagesari</name>
@@ -1557,10 +1557,10 @@
     <telephone />
   </office>
   <office>
-    <name>Bhurtana</name>
-    <pinCode>127035</pinCode>
+    <name>Bhushan</name>
+    <pinCode>127043</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Jamalpur (Bhiwani)</suboffice>
+    <suboffice>Rodhan</suboffice>
     <headoffice>Bhiwani</headoffice>
     <location>Bhiwani Taluk of Bhiwani District</location>
     <telephone />
@@ -2421,12 +2421,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kheri Bura</name>
-    <pinCode>127306</pinCode>
+    <name>Kirawar</name>
+    <pinCode>127035</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Charkhi Dadri Hsg-ii</suboffice>
+    <suboffice>Jamalpur (Bhiwani)</suboffice>
     <headoffice>Bhiwani</headoffice>
-    <location>Dadri Taluk of Bhiwani District</location>
+    <location>Bhiwani Taluk of Bhiwani District</location>
     <telephone />
   </office>
   <office>
@@ -2592,12 +2592,12 @@
     <telephone />
   </office>
   <office>
-    <name>Mandhi Harya</name>
-    <pinCode>127308</pinCode>
+    <name>Mandholi Kalan</name>
+    <pinCode>127043</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Badhara</suboffice>
+    <suboffice>Rodhan</suboffice>
     <headoffice>Bhiwani</headoffice>
-    <location>Dadri Taluk of Bhiwani District</location>
+    <location>Bhiwani Taluk of Bhiwani District</location>
     <telephone />
   </office>
   <office>
@@ -2718,12 +2718,12 @@
     <telephone />
   </office>
   <office>
-    <name>Morka</name>
-    <pinCode>127028</pinCode>
+    <name>Morwala</name>
+    <pinCode>127307</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Behl</suboffice>
+    <suboffice>Achina</suboffice>
     <headoffice>Bhiwani</headoffice>
-    <location>Siwani Taluk of Bhiwani District</location>
+    <location>Dadri Taluk of Bhiwani District</location>
     <telephone />
   </office>
   <office>
@@ -3564,7 +3564,7 @@
     <telephone />
   </office>
   <office>
-    <name>Dayalpur</name>
+    <name>Deeg</name>
     <pinCode>121004</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Ballabgarh</suboffice>
@@ -3573,12 +3573,12 @@
     <telephone />
   </office>
   <office>
-    <name>Dayalpur</name>
-    <pinCode>121004</pinCode>
+    <name>Dhatir</name>
+    <pinCode>121102</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Ballabgarh</suboffice>
+    <suboffice>Palwal</suboffice>
     <headoffice>Faridabad NIT</headoffice>
-    <location>Ballabgarh Taluk of Faridabad District</location>
+    <location>Palwal Taluk of Faridabad District</location>
     <telephone />
   </office>
   <office>
@@ -7200,10 +7200,10 @@
     <telephone />
   </office>
   <office>
-    <name>Banbhori</name>
-    <pinCode>125121</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Barwala (Hisar)</suboffice>
+    <name>Bandaheri</name>
+    <pinCode>125001</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
     <headoffice>Hisar</headoffice>
     <location>Hisar Taluk of Hisar District</location>
     <telephone />
@@ -7353,12 +7353,12 @@
     <telephone />
   </office>
   <office>
-    <name>Bhagana</name>
-    <pinCode>125044</pinCode>
+    <name>Bhaini Amirpur</name>
+    <pinCode>125039</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Satroad Khurd</suboffice>
+    <suboffice>Narnaund</suboffice>
     <headoffice>Hisar</headoffice>
-    <location>Hisar Taluk of Hisar District</location>
+    <location>Hansi Taluk of Hisar District</location>
     <telephone />
   </office>
   <office>
@@ -7479,10 +7479,10 @@
     <telephone />
   </office>
   <office>
-    <name>Dahman</name>
-    <pinCode>125112</pinCode>
+    <name>Daroli</name>
+    <pinCode>125052</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pabra</suboffice>
+    <suboffice>Mandi Adampur</suboffice>
     <headoffice>Hisar</headoffice>
     <location>Hisar Taluk of Hisar District</location>
     <telephone />
@@ -9576,13 +9576,13 @@
     <telephone />
   </office>
   <office>
-    <name>Hasanpur</name>
-    <pinCode>124103</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Jhajjar</suboffice>
-    <headoffice>Rohtak</headoffice>
-    <location>Jhajjar Taluk of Jhajjar District</location>
-    <telephone />
+    <name>Hassangarh</name>
+    <pinCode>124404</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Bahadurgarh</headoffice>
+    <location>Bahadurgarh Taluk of Jhajjar District</location>
+    <telephone>01276-219373</telephone>
   </office>
   <office>
     <name>I.A.Bahadurgarh</name>
@@ -12177,13 +12177,13 @@
     <telephone />
   </office>
   <office>
-    <name>Kailram</name>
-    <pinCode>136117</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kalayat</suboffice>
+    <name>Kaithal City</name>
+    <pinCode>136027</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
     <headoffice>Kurukshetra</headoffice>
-    <location>Kalayat Taluk of Kaithal District</location>
-    <telephone />
+    <location>Kaithal Taluk of Kaithal District</location>
+    <telephone>01746-222325</telephone>
   </office>
   <office>
     <name>Kaithal</name>
@@ -12618,10 +12618,10 @@
     <telephone />
   </office>
   <office>
-    <name>Pharal</name>
-    <pinCode>136021</pinCode>
+    <name>Pilni</name>
+    <pinCode>136043</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Kaul</suboffice>
+    <suboffice>Pai</suboffice>
     <headoffice>Kurukshetra</headoffice>
     <location>Pundri Taluk of Kaithal District</location>
     <telephone />
@@ -12852,7 +12852,7 @@
     <telephone />
   </office>
   <office>
-    <name>Achhanpur</name>
+    <name>Agongh</name>
     <pinCode>132024</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Nissing</suboffice>
@@ -13014,12 +13014,12 @@
     <telephone />
   </office>
   <office>
-    <name>Barsat</name>
-    <pinCode>132114</pinCode>
+    <name>Bastali</name>
+    <pinCode>132024</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Gharunda</suboffice>
+    <suboffice>Nissing</suboffice>
     <headoffice>Karnal</headoffice>
-    <location>Gharunda Taluk of Karnal District</location>
+    <location>Nissing Taluk of Karnal District</location>
     <telephone />
   </office>
   <office>
@@ -13050,10 +13050,10 @@
     <telephone />
   </office>
   <office>
-    <name>Bhadson</name>
-    <pinCode>132117</pinCode>
+    <name>Bhaini Khrud</name>
+    <pinCode>132116</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Nilokheri</suboffice>
+    <suboffice>Taraori</suboffice>
     <headoffice>Karnal</headoffice>
     <location>Nilokheri Taluk of Karnal District</location>
     <telephone />
@@ -19674,13 +19674,13 @@
     <telephone />
   </office>
   <office>
-    <name>Rohad</name>
-    <pinCode>124501</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Sampla</suboffice>
-    <headoffice>Bahadurgarh</headoffice>
+    <name>Rohtak</name>
+    <pinCode>124001</pinCode>
+    <status>Head Office(Delivery)</status>
+    <suboffice />
+    <headoffice />
     <location>Rohtak Taluk of Rohtak District</location>
-    <telephone />
+    <telephone>01262-257871</telephone>
   </office>
   <office>
     <name>Rohtak Sector I</name>
@@ -20781,10 +20781,10 @@
     <telephone />
   </office>
   <office>
-    <name>Mochiwali</name>
-    <pinCode>125058</pinCode>
+    <name>Monnawali</name>
+    <pinCode>125103</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Ding</suboffice>
+    <suboffice>Goriwala</suboffice>
     <headoffice>Sirsa</headoffice>
     <location>Sirsa Taluk of Sirsa District</location>
     <telephone />
@@ -21753,13 +21753,13 @@
     <telephone>0130-2246487</telephone>
   </office>
   <office>
-    <name>Ganzbazar</name>
-    <pinCode>131001</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
+    <name>Garhi Rajlu</name>
+    <pinCode>131101</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Ganaur</suboffice>
     <headoffice>Sonipat</headoffice>
-    <location>Sonipat Taluk of Sonipat District</location>
-    <telephone>0130-2246487</telephone>
+    <location>Ganaur Taluk of Sonipat District</location>
+    <telephone />
   </office>
   <office>
     <name>Garhi Sisana ED</name>

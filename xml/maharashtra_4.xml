@@ -1,41 +1,5 @@
 <offices>
   <office>
-    <name>Vasantgad</name>
-    <pinCode>415114</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Supane</suboffice>
-    <headoffice>Karad</headoffice>
-    <location>Karad Taluk of Satara District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Vasole</name>
-    <pinCode>412803</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Wai</suboffice>
-    <headoffice>Satara</headoffice>
-    <location>Wai Taluk of Satara District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Vathar BK</name>
-    <pinCode>415526</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Satara</headoffice>
-    <location>Khandala Bawada Taluk of Satara District</location>
-    <telephone>02169-261521</telephone>
-  </office>
-  <office>
-    <name>Vathar KH</name>
-    <pinCode>415539</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Malakapur Karad</suboffice>
-    <headoffice>Karad</headoffice>
-    <location>Karad Taluk of Satara District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Vathar Kiroli</name>
     <pinCode>415116</pinCode>
     <status>Sub Office(Delivery)</status>
@@ -3411,10 +3375,10 @@
     <telephone />
   </office>
   <office>
-    <name>Tondavali</name>
-    <pinCode>416601</pinCode>
+    <name>Torsole</name>
+    <pinCode>416611</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Phondaghat</suboffice>
+    <suboffice>Talebazar</suboffice>
     <headoffice>Malvan</headoffice>
     <location>Devgad Taluk of Sindhudurg District</location>
     <telephone />
@@ -8660,15 +8624,6 @@
   <office>
     <name>Airoli</name>
     <pinCode>400708</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Airoli</suboffice>
-    <headoffice>Panvel</headoffice>
-    <location>Thane Taluk of Thane District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Airoli</name>
-    <pinCode>400708</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Panvel</headoffice>
@@ -12363,15 +12318,6 @@
     <suboffice>Shahapur (Thane)</suboffice>
     <headoffice>Kalyan City</headoffice>
     <location>Shahapur Taluk of Thane District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Vehloli</name>
-    <pinCode>421601</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Shahapur (Thane)</suboffice>
-    <headoffice>Kalyan City</headoffice>
-    <location>Kalyan Taluk of Thane District</location>
     <telephone />
   </office>
   <office>
@@ -17515,11 +17461,11 @@
   </office>
   <office>
     <name>Moha</name>
-    <pinCode>445001</pinCode>
+    <pinCode>445204</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Govt Poly (Yavatmal)</suboffice>
+    <suboffice>Pusad</suboffice>
     <headoffice>Yavatmal</headoffice>
-    <location>Yavatmal Taluk of Yavatmal District</location>
+    <location>Pusad Taluk of Yavatmal District</location>
     <telephone />
   </office>
   <office>

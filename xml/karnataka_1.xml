@@ -108,13 +108,13 @@
     <telephone />
   </office>
   <office>
-    <name>Amarawadgi</name>
-    <pinCode>587125</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Ilkal</suboffice>
+    <name>Amingad</name>
+    <pinCode>587112</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Bagalkot</headoffice>
     <location>Hungund Taluk of Bagalkot District</location>
-    <telephone />
+    <telephone>08351-280130</telephone>
   </office>
   <office>
     <name>Anagwadi</name>
@@ -963,12 +963,12 @@
     <telephone />
   </office>
   <office>
-    <name>Hanchinal</name>
-    <pinCode>587117</pinCode>
+    <name>Hangaragi</name>
+    <pinCode>587205</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Galagali</suboffice>
-    <headoffice>Jamkhandi</headoffice>
-    <location>Bilgi Taluk of Bagalkot District</location>
+    <suboffice>Katageri</suboffice>
+    <headoffice>Bagalkot</headoffice>
+    <location>Badami Taluk of Bagalkot District</location>
     <telephone />
   </office>
   <office>
@@ -2187,13 +2187,13 @@
     <telephone>08350-280030</telephone>
   </office>
   <office>
-    <name>Mudhol (Bagalkot)</name>
+    <name>Mudhol Bazar</name>
     <pinCode>587313</pinCode>
-    <status>Sub Office(Delivery)</status>
+    <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Jamkhandi</headoffice>
     <location>Mudhol Taluk of Bagalkot District</location>
-    <telephone>08350-280030</telephone>
+    <telephone>08350-280150</telephone>
   </office>
   <office>
     <name>Mudhol Extension</name>
@@ -3930,15 +3930,6 @@
     <suboffice>Jigani</suboffice>
     <headoffice>Jayanagar</headoffice>
     <location>Anekal Taluk of Bangalore District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Herohalli</name>
-    <pinCode>560091</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Viswaneedam</suboffice>
-    <headoffice>Rajajinagar</headoffice>
-    <location>Bangalore North Taluk of Bangalore District</location>
     <telephone />
   </office>
   <office>
@@ -5922,12 +5913,12 @@
     <telephone />
   </office>
   <office>
-    <name>Doddamudigere</name>
-    <pinCode>562131</pinCode>
+    <name>Doddanallala</name>
+    <pinCode>562114</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Thippasandra</suboffice>
+    <suboffice>Hoskote</suboffice>
     <headoffice>Channapatna</headoffice>
-    <location>Magadi Taluk of Bangalore Rural District</location>
+    <location>Hoskote Taluk of Bangalore Rural District</location>
     <telephone />
   </office>
   <office>
@@ -12843,12 +12834,12 @@
     <telephone />
   </office>
   <office>
-    <name>Shiroli</name>
-    <pinCode>591302</pinCode>
+    <name>Shirur</name>
+    <pinCode>591212</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Khanapur (Belgaum)</suboffice>
-    <headoffice>Belgaum</headoffice>
-    <location>Khanapur Taluk of Belgaum District</location>
+    <suboffice>Anantpur</suboffice>
+    <headoffice>Athani</headoffice>
+    <location>Athni Taluk of Belgaum District</location>
     <telephone />
   </office>
   <office>
@@ -14301,12 +14292,12 @@
     <telephone />
   </office>
   <office>
-    <name>Bhairapura</name>
-    <pinCode>583120</pinCode>
+    <name>Bhujanganagar</name>
+    <pinCode>583119</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Sirigere (Bellary)</suboffice>
+    <suboffice>Sandur</suboffice>
     <headoffice>Bellary</headoffice>
-    <location>Siruguppa Taluk of Bellary District</location>
+    <location>Sandur Taluk of Bellary District</location>
     <telephone />
   </office>
   <office>
@@ -15183,12 +15174,12 @@
     <telephone />
   </office>
   <office>
-    <name>Hirekumblagunta</name>
-    <pinCode>583218</pinCode>
+    <name>Hiremallanakere</name>
+    <pinCode>583214</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Hosahalli</suboffice>
+    <suboffice>Hampasagara</suboffice>
     <headoffice>Hospet</headoffice>
-    <location>Kudligi Taluk of Bellary District</location>
+    <location>Huvinahadagali Taluk of Bellary District</location>
     <telephone />
   </office>
   <office>
@@ -17397,12 +17388,12 @@
     <telephone />
   </office>
   <office>
-    <name>Balur</name>
-    <pinCode>585444</pinCode>
+    <name>Banhalli</name>
+    <pinCode>585412</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Nittur</suboffice>
+    <suboffice>Chitguppa</suboffice>
     <headoffice>Bidar</headoffice>
-    <location>Bhalki Taluk of Bidar District</location>
+    <location>Humnabad Taluk of Bidar District</location>
     <telephone />
   </office>
   <office>
@@ -21771,12 +21762,12 @@
     <telephone />
   </office>
   <office>
-    <name>Ingalgeri</name>
-    <pinCode>586212</pinCode>
+    <name>Ingalgi</name>
+    <pinCode>586111</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Muddebihal Fort</suboffice>
+    <suboffice>Agarkhed</suboffice>
     <headoffice>Bijapur</headoffice>
-    <location>Muddebihal Taluk of Bijapur(KAR) District</location>
+    <location>Indi Taluk of Bijapur(KAR) District</location>
     <telephone />
   </office>
   <office>
@@ -22824,13 +22815,13 @@
     <telephone>08359-231610</telephone>
   </office>
   <office>
-    <name>Salotgi</name>
-    <pinCode>586217</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
+    <name>Sangapur Sh</name>
+    <pinCode>586125</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Sarwad</suboffice>
     <headoffice>Bijapur</headoffice>
-    <location>Indi Taluk of Bijapur(KAR) District</location>
-    <telephone>08359-231610</telephone>
+    <location>Bijapur Taluk of Bijapur(KAR) District</location>
+    <telephone />
   </office>
   <office>
     <name>Sankh</name>
@@ -30141,12 +30132,12 @@
     <telephone />
   </office>
   <office>
-    <name>Guddadaneralakere</name>
-    <pinCode>577533</pinCode>
+    <name>Guddadarangavanahally</name>
+    <pinCode>577502</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Mathodu</suboffice>
+    <suboffice>Station Road-chitradurga</suboffice>
     <headoffice>Chitradurga</headoffice>
-    <location>Hosadurga Taluk of Chitradurga District</location>
+    <location>Chitradurga Taluk of Chitradurga District</location>
     <telephone />
   </office>
   <office>
@@ -31497,6 +31488,15 @@
     <suboffice>Station Road-chitradurga</suboffice>
     <headoffice>Chitradurga</headoffice>
     <location>Chitradurga Taluk of Chitradurga District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Rayapura</name>
+    <pinCode>577535</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Molakalmuru</suboffice>
+    <headoffice>Chitradurga</headoffice>
+    <location>Molakalmuru Taluk of Chitradurga District</location>
     <telephone />
   </office>
 </offices>

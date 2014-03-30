@@ -1,104 +1,5 @@
 <offices>
   <office>
-    <name>Ghoshpara (Howrah)</name>
-    <pinCode>711227</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Salkia</headoffice>
-    <location>Sankrail Taluk of Howrah District</location>
-    <telephone>033-26712205</telephone>
-  </office>
-  <office>
-    <name>Ghoshpur</name>
-    <pinCode>711401</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Amta</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Howrah Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Ghusuri</name>
-    <pinCode>711107</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Salkia</headoffice>
-    <location>Uluberia - I Taluk of Howrah District</location>
-    <telephone>033-26556369</telephone>
-  </office>
-  <office>
-    <name>Gip Colony</name>
-    <pinCode>711112</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Howrah</headoffice>
-    <location>Bally Jagachha Taluk of Howrah District</location>
-    <telephone>033-26574184</telephone>
-  </office>
-  <office>
-    <name>Goabaria</name>
-    <pinCode>711109</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Howrah</headoffice>
-    <location>Uluberia - II Taluk of Howrah District</location>
-    <telephone>033-26442395</telephone>
-  </office>
-  <office>
-    <name>Gobardhanbati</name>
-    <pinCode>711322</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Panchla</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Sankrail Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gobindapur</name>
-    <pinCode>711314</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Shyampur (Howrah)</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Howrah Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gobindapur Shibtala</name>
-    <pinCode>711414</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Maju</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Uluberia - II Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gohalberia</name>
-    <pinCode>711315</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Uluberia</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Howrah Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gondalpara</name>
-    <pinCode>711302</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Andul -mouri</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Howrah Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gourangachak</name>
-    <pinCode>711410</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Munshirhat</suboffice>
-    <headoffice>Howrah</headoffice>
-    <location>Howrah Taluk of Howrah District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Gurepole</name>
     <pinCode>711314</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -2007,13 +1908,13 @@
     <telephone>-</telephone>
   </office>
   <office>
-    <name>Alipurduar New Town</name>
+    <name>Alipurduar</name>
     <pinCode>736121</pinCode>
-    <status>Sub Office(Non Delivery)</status>
+    <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Cooch Behar</headoffice>
     <location>Alipurduar - I Taluk of Jalpaiguri District</location>
-    <telephone>-</telephone>
+    <telephone>03564-255124</telephone>
   </office>
   <office>
     <name>Altagram Magurmari</name>
@@ -5985,13 +5886,13 @@
     <telephone>033-22230923</telephone>
   </office>
   <office>
-    <name>Hastings</name>
-    <pinCode>700022</pinCode>
+    <name>Hatkhola</name>
+    <pinCode>700005</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
-    <headoffice>Tollygunge</headoffice>
+    <headoffice>Barabazar</headoffice>
     <location>Kolkata Taluk of Kolkata District</location>
-    <telephone>033-22230923</telephone>
+    <telephone>033-25308133</telephone>
   </office>
   <office>
     <name>Health Institute</name>
@@ -6291,13 +6192,13 @@
     <telephone>033-23208968</telephone>
   </office>
   <office>
-    <name>Kankurgachi</name>
-    <pinCode>700054</pinCode>
+    <name>Kasba (Kolkata)</name>
+    <pinCode>700042</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
-    <headoffice>Beleghata</headoffice>
-    <location>Kankurgachi Taluk of Kolkata District</location>
-    <telephone>033-23208968</telephone>
+    <headoffice>Tollygunge</headoffice>
+    <location>Kolkata Taluk of Kolkata District</location>
+    <telephone>033-24422894</telephone>
   </office>
   <office>
     <name>Kasthadanga</name>
@@ -6921,13 +6822,13 @@
     <telephone>033-23509751</telephone>
   </office>
   <office>
-    <name>Raja Ram Mohan Sarani</name>
-    <pinCode>700009</pinCode>
-    <status>Sub Office(Delivery)</status>
+    <name>Rajabagan Dock Yard</name>
+    <pinCode>700044</pinCode>
+    <status>Sub Office(Non Delivery)</status>
     <suboffice />
-    <headoffice>Beleghata</headoffice>
-    <location>Amherst Street Taluk of Kolkata District</location>
-    <telephone>033-23509751</telephone>
+    <headoffice>Alipore</headoffice>
+    <location>Kolkata Taluk of Kolkata District</location>
+    <telephone>033-28690768</telephone>
   </office>
   <office>
     <name>Rajabagan</name>
@@ -10404,12 +10305,12 @@
     <telephone />
   </office>
   <office>
-    <name>Taherpur</name>
-    <pinCode>732124</pinCode>
+    <name>Talbangrua</name>
+    <pinCode>732125</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Gajol</suboffice>
+    <suboffice>Harishchandrapur</suboffice>
     <headoffice>Malda</headoffice>
-    <location>Gajol Taluk of Malda District</location>
+    <location>Talbangrua Taluk of Malda District</location>
     <telephone />
   </office>
   <office>
@@ -10492,6 +10393,15 @@
     <headoffice>Malda</headoffice>
     <location>Englishbazar Taluk of Malda District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Dharma (West Midnapore)</name>
+    <pinCode>721101</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Midnapore</headoffice>
+    <location>Midnapore Taluk of Medinipur District</location>
+    <telephone>03222-275816</telephone>
   </office>
   <office>
     <name>Adibasi Beldanga</name>
@@ -10692,12 +10602,12 @@
     <telephone />
   </office>
   <office>
-    <name>Arjunpur (MurshidabB.O</name>
-    <pinCode>742202</pinCode>
+    <name>Ashariadaha</name>
+    <pinCode>742148</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Dhuliyan</suboffice>
+    <suboffice>Lalgola</suboffice>
     <headoffice>Raghunathganj</headoffice>
-    <location>Murshidabad Taluk of Murshidabad District</location>
+    <location>Lalgola Taluk of Murshidabad District</location>
     <telephone />
   </office>
   <office>
@@ -12474,13 +12384,13 @@
     <telephone />
   </office>
   <office>
-    <name>Haribhanga</name>
-    <pinCode>742302</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Daulatabad (Murshidabad)</suboffice>
+    <name>Hariharpara</name>
+    <pinCode>742166</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Berhampore (WB)</headoffice>
     <location>Murshidabad Taluk of Murshidabad District</location>
-    <telephone />
+    <telephone>03482-230230</telephone>
   </office>
   <office>
     <name>Haripur</name>
@@ -12528,12 +12438,12 @@
     <telephone />
   </office>
   <office>
-    <name>Hasanpur</name>
-    <pinCode>742302</pinCode>
+    <name>Hastinapur</name>
+    <pinCode>742161</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Daulatabad (Murshidabad)</suboffice>
-    <headoffice>Berhampore (WB)</headoffice>
-    <location>Bhagawangola - II Taluk of Murshidabad District</location>
+    <suboffice>Panchthupi</suboffice>
+    <headoffice>Kandi</headoffice>
+    <location>Murshidabad Taluk of Murshidabad District</location>
     <telephone />
   </office>
   <office>
@@ -12681,13 +12591,13 @@
     <telephone />
   </office>
   <office>
-    <name>Jalalpur</name>
-    <pinCode>742189</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Barua</suboffice>
+    <name>Jalangi</name>
+    <pinCode>742305</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Berhampore (WB)</headoffice>
-    <location>Taluk of Murshidabad District</location>
-    <telephone />
+    <location>Murshidabad Taluk of Murshidabad District</location>
+    <telephone>03481-235030</telephone>
   </office>
   <office>
     <name>Jangipur Barrage</name>
@@ -15174,12 +15084,12 @@
     <telephone />
   </office>
   <office>
-    <name>Samsabad</name>
-    <pinCode>742226</pinCode>
+    <name>Sankarpur</name>
+    <pinCode>742159</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Sagardighi</suboffice>
-    <headoffice>Raghunathganj</headoffice>
-    <location>Murshidabad Taluk of Murshidabad District</location>
+    <suboffice>Nagar (Murshidabad)</suboffice>
+    <headoffice>Kandi</headoffice>
+    <location>Khargram Taluk of Murshidabad District</location>
     <telephone />
   </office>
   <office>
@@ -15318,12 +15228,12 @@
     <telephone />
   </office>
   <office>
-    <name>Senda-jamur</name>
-    <pinCode>742235</pinCode>
+    <name>Shibnagar</name>
+    <pinCode>742306</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Barala</suboffice>
-    <headoffice>Raghunathganj</headoffice>
-    <location>Raghunathganj - I Taluk of Murshidabad District</location>
+    <suboffice>Sagarpara</suboffice>
+    <headoffice>Berhampore (WB)</headoffice>
+    <location>Farakka Taluk of Murshidabad District</location>
     <telephone />
   </office>
   <office>
@@ -15579,21 +15489,21 @@
     <telephone />
   </office>
   <office>
-    <name>Telkar Dafarpur</name>
-    <pinCode>742187</pinCode>
+    <name>Tenka Raipur</name>
+    <pinCode>742304</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Radharghat</suboffice>
+    <suboffice>Islampore</suboffice>
     <headoffice>Berhampore (WB)</headoffice>
-    <location>Nabagram Taluk of Murshidabad District</location>
+    <location>Murshidabad Taluk of Murshidabad District</location>
     <telephone />
   </office>
   <office>
-    <name>Telkar Dafarpur</name>
-    <pinCode>742187</pinCode>
+    <name>Tentulia</name>
+    <pinCode>742302</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Radharghat</suboffice>
+    <suboffice>Daulatabad (Murshidabad)</suboffice>
     <headoffice>Berhampore (WB)</headoffice>
-    <location>Nabagram Taluk of Murshidabad District</location>
+    <location>Murshidabad Taluk of Murshidabad District</location>
     <telephone />
   </office>
   <office>
@@ -15615,10 +15525,10 @@
     <telephone />
   </office>
   <office>
-    <name>Tezsinghapur</name>
-    <pinCode>742304</pinCode>
+    <name>Tikiapara</name>
+    <pinCode>742187</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Islampore</suboffice>
+    <suboffice>Radharghat</suboffice>
     <headoffice>Berhampore (WB)</headoffice>
     <location>Murshidabad Taluk of Murshidabad District</location>
     <telephone />
@@ -15921,13 +15831,13 @@
     <telephone>03471-255105</telephone>
   </office>
   <office>
-    <name>Bagchi Jamsherpur</name>
-    <pinCode>741122</pinCode>
+    <name>Bagula</name>
+    <pinCode>741502</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
-    <headoffice>Krishnanagar</headoffice>
-    <location>Karimpur I Taluk of Nadia District</location>
-    <telephone>03471-255105</telephone>
+    <headoffice>Ranaghat</headoffice>
+    <location>Taluk of Nadia District</location>
+    <telephone>03473-272222</telephone>
   </office>
   <office>
     <name>Bahadurpur</name>
@@ -17208,12 +17118,12 @@
     <telephone />
   </office>
   <office>
-    <name>Gachha</name>
-    <pinCode>741154</pinCode>
+    <name>Gadigachha</name>
+    <pinCode>741315</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Muragachha</suboffice>
+    <suboffice>Swarupganj</suboffice>
     <headoffice>Nabadwip</headoffice>
-    <location>Nakashipara Taluk of Nadia District</location>
+    <location>Nabadwip Taluk of Nadia District</location>
     <telephone />
   </office>
   <office>
@@ -18639,12 +18549,12 @@
     <telephone />
   </office>
   <office>
-    <name>Nandanpur</name>
-    <pinCode>741165</pinCode>
+    <name>Nandighat</name>
+    <pinCode>741255</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Nazirpur (Nadia)</suboffice>
-    <headoffice>Krishnanagar</headoffice>
-    <location>Karimpur Ii Taluk of Nadia District</location>
+    <suboffice>Anulia</suboffice>
+    <headoffice>Ranaghat</headoffice>
+    <location>Ranaghat-i Taluk of Nadia District</location>
     <telephone />
   </office>
   <office>
@@ -21069,13 +20979,13 @@
     <telephone />
   </office>
   <office>
-    <name>Chakpatli</name>
-    <pinCode>743426</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Hasnabad</suboffice>
-    <headoffice>Basirhat</headoffice>
-    <location>Chakpatli Taluk of North 24 Parganas District</location>
-    <telephone />
+    <name>Champaberia</name>
+    <pinCode>743235</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Barasat</headoffice>
+    <location>Bongaon Taluk of North 24 Parganas District</location>
+    <telephone>03215-211458</telephone>
   </office>
   <office>
     <name>Champapukur</name>
@@ -22446,13 +22356,13 @@
     <telephone />
   </office>
   <office>
-    <name>Jagannathpur</name>
-    <pinCode>700126</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nabapally</suboffice>
-    <headoffice>Barasat</headoffice>
-    <location>Jagannathpur Taluk of North 24 Parganas District</location>
-    <telephone />
+    <name>Jagatdal</name>
+    <pinCode>743125</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Barrackpore</headoffice>
+    <location>Jagatdal Taluk of North 24 Parganas District</location>
+    <telephone>033-25812738</telephone>
   </office>
   <office>
     <name>Jaleswar</name>
@@ -23652,13 +23562,13 @@
     <telephone />
   </office>
   <office>
-    <name>Monipur</name>
-    <pinCode>743446</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Sandeshkhali</suboffice>
-    <headoffice>Basirhat</headoffice>
-    <location>Sandeshkhali - II Taluk of North 24 Parganas District</location>
-    <telephone />
+    <name>Monirampore</name>
+    <pinCode>700120</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
+    <headoffice>Barrackpore</headoffice>
+    <location>Taluk of North 24 Parganas District</location>
+    <telephone>033-25922480</telephone>
   </office>
   <office>
     <name>Mothuadham Mondalpara</name>
@@ -23697,13 +23607,13 @@
     <telephone>033-25812789</telephone>
   </office>
   <office>
-    <name>Muktarpur</name>
-    <pinCode>743123</pinCode>
+    <name>Mulajore</name>
+    <pinCode>743127</pinCode>
     <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Barrackpore</headoffice>
     <location>Taluk of North 24 Parganas District</location>
-    <telephone>033-25812789</telephone>
+    <telephone>033-25805555</telephone>
   </office>
   <office>
     <name>Murarisah</name>
@@ -24041,15 +23951,6 @@
   <office>
     <name>Nowbhanga</name>
     <pinCode>700105</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Dhapa</suboffice>
-    <headoffice>Beleghata</headoffice>
-    <location>Dhapa Taluk of North 24 Parganas District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Nowbhanga</name>
-    <pinCode>700105</pinCode>
     <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Beleghata</headoffice>
@@ -24120,12 +24021,12 @@
     <telephone />
   </office>
   <office>
-    <name>Padmalavpur</name>
-    <pinCode>743126</pinCode>
+    <name>Paikparahat</name>
+    <pinCode>743422</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Kankinara</suboffice>
-    <headoffice>Barrackpore</headoffice>
-    <location>Taluk of North 24 Parganas District</location>
+    <suboffice>Bhabla</suboffice>
+    <headoffice>Basirhat</headoffice>
+    <location>Paikparahat Taluk of North 24 Parganas District</location>
     <telephone />
   </office>
   <office>
@@ -24363,21 +24264,21 @@
     <telephone />
   </office>
   <office>
-    <name>Pifa</name>
-    <pinCode>743422</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Bhabla</suboffice>
-    <headoffice>Basirhat</headoffice>
-    <location>Pifa Taluk of North 24 Parganas District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Phulboniabad</name>
     <pinCode>743456</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Bhebia</suboffice>
     <headoffice>Basirhat</headoffice>
     <location>Minakhan Taluk of North 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Pifa</name>
+    <pinCode>743422</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Bhabla</suboffice>
+    <headoffice>Basirhat</headoffice>
+    <location>Pifa Taluk of North 24 Parganas District</location>
     <telephone />
   </office>
   <office>
@@ -24561,12 +24462,12 @@
     <telephone />
   </office>
   <office>
-    <name>Rajarhat Bishnupur</name>
+    <name>Rajarhat Deara</name>
     <pinCode>700135</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Rajarhat</suboffice>
     <headoffice>Barasat</headoffice>
-    <location>Bishnupur Taluk of North 24 Parganas District</location>
+    <location>Rajarhat Taluk of North 24 Parganas District</location>
     <telephone />
   </office>
   <office>
@@ -24910,15 +24811,6 @@
     <headoffice>Basirhat</headoffice>
     <location>Sandeshkhali Taluk of North 24 Parganas District</location>
     <telephone>03217-262201</telephone>
-  </office>
-  <office>
-    <name>Sangrampur</name>
-    <pinCode>743422</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Bhabla</suboffice>
-    <headoffice>Basirhat</headoffice>
-    <location>Sangrampur Taluk of North 24 Parganas District</location>
-    <telephone />
   </office>
   <office>
     <name>Sangrampur</name>
@@ -26595,13 +26487,13 @@
     <telephone>03525-254127</telephone>
   </office>
   <office>
-    <name>Kanki</name>
-    <pinCode>733209</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
+    <name>Kantore</name>
+    <pinCode>733156</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Bindole</suboffice>
     <headoffice>Balurghat</headoffice>
-    <location>Karandighi Taluk of North Dinajpur District</location>
-    <telephone>03525-254127</telephone>
+    <location>Raiganj Taluk of North Dinajpur District</location>
+    <telephone />
   </office>
   <office>
     <name>Kapasia</name>
@@ -27126,12 +27018,12 @@
     <telephone />
   </office>
   <office>
-    <name>Puria</name>
+    <name>Radha Nagar</name>
     <pinCode>733129</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Kaliyaganj</suboffice>
     <headoffice>Balurghat</headoffice>
-    <location>Kaliaganj Taluk of North Dinajpur District</location>
+    <location>Kaliyaganj Taluk of North Dinajpur District</location>
     <telephone />
   </office>
   <office>
@@ -27441,12 +27333,12 @@
     <telephone />
   </office>
   <office>
-    <name>Tarial</name>
-    <pinCode>733208</pinCode>
+    <name>Tenohari</name>
+    <pinCode>733123</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Panjipara</suboffice>
+    <suboffice>Debinagar</suboffice>
     <headoffice>Balurghat</headoffice>
-    <location>Islampur Taluk of North Dinajpur District</location>
+    <location>Raiganj Taluk of North Dinajpur District</location>
     <telephone />
   </office>
   <office>
@@ -27765,13 +27657,13 @@
     <telephone>03252-202030</telephone>
   </office>
   <office>
-    <name>Balakdih</name>
-    <pinCode>723128</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
+    <name>Baligara</name>
+    <pinCode>723149</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Manguria</suboffice>
     <headoffice>Purulia</headoffice>
-    <location>Puncha Taluk of Puruliya District</location>
-    <telephone>03252-202030</telephone>
+    <location>Purulia Taluk of Puruliya District</location>
+    <telephone />
   </office>
   <office>
     <name>Bamni</name>
@@ -29367,12 +29259,12 @@
     <telephone />
   </office>
   <office>
-    <name>Jorabari</name>
-    <pinCode>723131</pinCode>
+    <name>Joradih</name>
+    <pinCode>723145</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Manbazar</suboffice>
+    <suboffice>Santaldih</suboffice>
     <headoffice>Purulia</headoffice>
-    <location>Manbazar Taluk of Puruliya District</location>
+    <location>Raghunathpur Taluk of Puruliya District</location>
     <telephone />
   </office>
   <office>
@@ -29907,12 +29799,12 @@
     <telephone />
   </office>
   <office>
-    <name>Majhidih</name>
-    <pinCode>723213</pinCode>
+    <name>Majhihira</name>
+    <pinCode>723128</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Jiudaru</suboffice>
+    <suboffice>Balakdih</suboffice>
     <headoffice>Purulia</headoffice>
-    <location>Jhalda - II Taluk of Puruliya District</location>
+    <location>Manbazar Taluk of Puruliya District</location>
     <telephone />
   </office>
   <office>
@@ -31428,12 +31320,12 @@
     <telephone />
   </office>
   <office>
-    <name>Upansankra</name>
-    <pinCode>723133</pinCode>
+    <name>Uparbatri</name>
+    <pinCode>723201</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Raghunathpur (Puruliya)</suboffice>
+    <suboffice>Garjaipur</suboffice>
     <headoffice>Purulia</headoffice>
-    <location>Raghunath Pur I Taluk of Puruliya District</location>
+    <location>Jhalda I Taluk of Puruliya District</location>
     <telephone />
   </office>
   <office>
@@ -31495,6 +31387,114 @@
     <pinCode>743383</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Raidighi</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Agarhati</name>
+    <pinCode>743329</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Canning Town</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Akra Krishnanagar</name>
+    <pinCode>700140</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Batanagar</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Akshoynagar</name>
+    <pinCode>743347</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kakdwip</suboffice>
+    <headoffice>Diamond Harbour</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Alida</name>
+    <pinCode>743355</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Magrahat</suboffice>
+    <headoffice>Diamond Harbour</headoffice>
+    <location>Baruipur Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amgachi</name>
+    <pinCode>700104</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Joka (South 24 Parganas)</suboffice>
+    <headoffice>Alipore</headoffice>
+    <location>Bishnupur - I Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amira</name>
+    <pinCode>743368</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Sarisha</suboffice>
+    <headoffice>Diamond Harbour</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amjharahat</name>
+    <pinCode>743329</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Canning Town</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amlamethi</name>
+    <pinCode>743370</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Gosaba</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amtala</name>
+    <pinCode>743337</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Joynagar Majilpur</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Canning - I Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amtali</name>
+    <pinCode>743378</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chhoto Mollakhali</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Amtali Bazar</name>
+    <pinCode>743378</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chhoto Mollakhali</suboffice>
+    <headoffice>Baruipur</headoffice>
+    <location>Gosaba Taluk of South 24 Parganas District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Anandabad</name>
+    <pinCode>743312</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Basanti</suboffice>
     <headoffice>Baruipur</headoffice>
     <location>Taluk of South 24 Parganas District</location>
     <telephone />

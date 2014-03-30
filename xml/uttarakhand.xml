@@ -18,12 +18,12 @@
     <telephone />
   </office>
   <office>
-    <name>Airari Bisht</name>
-    <pinCode>263665</pinCode>
+    <name>Ajoli Malli</name>
+    <pinCode>263646</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Matela</suboffice>
+    <suboffice>Bhatronjkhan</suboffice>
     <headoffice>Ranikhet</headoffice>
-    <location>Bhikiyasen Taluk of Almora District</location>
+    <location>Ranikhet Taluk of Almora District</location>
     <telephone />
   </office>
   <office>
@@ -189,12 +189,12 @@
     <telephone />
   </office>
   <office>
-    <name>Bamanswal</name>
-    <pinCode>263623</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Panuwanaula</suboffice>
-    <headoffice>Almora</headoffice>
-    <location>Bhanoli Taluk of Almora District</location>
+    <name>Bamsyun</name>
+    <pinCode>263645</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Ranikhet</headoffice>
+    <location>Ranikhet Taluk of Almora District</location>
     <telephone />
   </office>
   <office>
@@ -2439,13 +2439,13 @@
     <telephone>05966-221330</telephone>
   </office>
   <office>
-    <name>Ranikhet</name>
+    <name>Ranikhet Kutchery</name>
     <pinCode>263645</pinCode>
-    <status>Head Office(Delivery)</status>
+    <status>Sub Office(Non Delivery)</status>
     <suboffice />
-    <headoffice />
-    <location>Almora Taluk of Almora District</location>
-    <telephone>05966-221330</telephone>
+    <headoffice>Ranikhet</headoffice>
+    <location>Ranikhet Taluk of Almora District</location>
+    <telephone>05966-220619</telephone>
   </office>
   <office>
     <name>Ranikhet Sadar Bazar</name>
@@ -4491,12 +4491,12 @@
     <telephone />
   </office>
   <office>
-    <name>Beena Lohba</name>
-    <pinCode>246431</pinCode>
+    <name>Beena Malla</name>
+    <pinCode>246473</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Mehalchauri</suboffice>
+    <suboffice>Pokhari Nagnath</suboffice>
     <headoffice>Gopeshwar</headoffice>
-    <location>Gairsain Taluk of Chamoli District</location>
+    <location>Pokhari Taluk of Chamoli District</location>
     <telephone />
   </office>
   <office>
@@ -8703,7 +8703,16 @@
     <telephone />
   </office>
   <office>
-    <name>Marlau</name>
+    <name>Lohari</name>
+    <pinCode>248158</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kalsi</suboffice>
+    <headoffice>Dehradun Cantt</headoffice>
+    <location>Taluk of Dehradun District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Lohari</name>
     <pinCode>248123</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Chakrata</suboffice>
@@ -8712,7 +8721,7 @@
     <telephone />
   </office>
   <office>
-    <name>Masak</name>
+    <name>Lorli</name>
     <pinCode>248123</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Chakrata</suboffice>
@@ -8721,75 +8730,66 @@
     <telephone />
   </office>
   <office>
-    <name>Matiyawa</name>
-    <pinCode>248123</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chakrata</suboffice>
-    <headoffice>Dehradun Cantt</headoffice>
-    <location>Chakrata Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mawana Kolti</name>
-    <pinCode>248179</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Mussoorie</suboffice>
-    <headoffice>Dehradun Cantt</headoffice>
-    <location>Dehradun Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mehuwala</name>
-    <pinCode>248171</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Majra (Dehradun)</suboffice>
-    <headoffice>Dehradun.</headoffice>
-    <location>Dehradun Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mendrath</name>
-    <pinCode>248199</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Tuini</suboffice>
-    <headoffice>Dehradun Cantt</headoffice>
-    <location>Tuini Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mindal</name>
-    <pinCode>248123</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chakrata</suboffice>
-    <headoffice>Dehradun Cantt</headoffice>
-    <location>Chakrata Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mohbewala</name>
-    <pinCode>248002</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Clementtown</suboffice>
-    <headoffice>Dehradun.</headoffice>
-    <location>Dehradun Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mothrowala</name>
-    <pinCode>248001</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Dehradun.</headoffice>
-    <location>Dehradun Taluk of Dehradun District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Mundhan</name>
+    <name>Ludhera</name>
     <pinCode>248158</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Kalsi</suboffice>
     <headoffice>Dehradun Cantt</headoffice>
     <location>Chakrata Taluk of Dehradun District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Madrasu</name>
+    <pinCode>248125</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Dakpathar</suboffice>
+    <headoffice>Dehradun Cantt</headoffice>
+    <location>Vikasnagar ** Taluk of Dehradun District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Majra (Dehradun)</name>
+    <pinCode>248171</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Dehradun.</headoffice>
+    <location>Dehradun Taluk of Dehradun District</location>
+    <telephone>0135-2627165</telephone>
+  </office>
+  <office>
+    <name>Maldevta</name>
+    <pinCode>248008</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Raipur(O.F)</suboffice>
+    <headoffice>Dehradun.</headoffice>
+    <location>Dehradun Taluk of Dehradun District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Maletha</name>
+    <pinCode>248196</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Sahiya</suboffice>
+    <headoffice>Dehradun Cantt</headoffice>
+    <location>Cahrata Taluk of Dehradun District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Manduwala</name>
+    <pinCode>248007</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Prem Nagar (Dehradun)</suboffice>
+    <headoffice>Dehradun Cantt</headoffice>
+    <location>Dehradun Taluk of Dehradun District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Markhamgarant</name>
+    <pinCode>248140</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Doiwala</suboffice>
+    <headoffice>Dehradun.</headoffice>
+    <location>Dehradun Taluk of Dehradun District</location>
     <telephone />
   </office>
   <office>
@@ -9252,13 +9252,13 @@
     <telephone />
   </office>
   <office>
-    <name>Rudrapur</name>
-    <pinCode>248197</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Sahaspur (Dehradun)</suboffice>
-    <headoffice>Dehradun Cantt</headoffice>
-    <location>Vikasnagar ** Taluk of Dehradun District</location>
-    <telephone />
+    <name>S.N. Temple</name>
+    <pinCode>249204</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Dehradun.</headoffice>
+    <location>Rishikesh Taluk of Dehradun District</location>
+    <telephone>0135-2452233</telephone>
   </office>
   <office>
     <name>Sabhawala</name>
@@ -10035,13 +10035,13 @@
     <telephone>01334-250500</telephone>
   </office>
   <office>
-    <name>Jwalapur</name>
+    <name>Jwalapur Town</name>
     <pinCode>249407</pinCode>
-    <status>Sub Office(Delivery)</status>
+    <status>Sub Office(Non Delivery)</status>
     <suboffice />
     <headoffice>Roorkee</headoffice>
     <location>Hardwar Taluk of Haridwar District</location>
-    <telephone>01334-250500</telephone>
+    <telephone>01334-250450</telephone>
   </office>
   <office>
     <name>Kankhal</name>
@@ -11646,9 +11646,9 @@
     <telephone />
   </office>
   <office>
-    <name>Nalni</name>
-    <pinCode>263001</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <name>Narain Swamy Ashram</name>
+    <pinCode>263158</pinCode>
+    <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Nainital</headoffice>
     <location>Nainital Taluk of Nainital District</location>
@@ -20214,12 +20214,12 @@
     <telephone />
   </office>
   <office>
-    <name>Beena</name>
-    <pinCode>249155</pinCode>
+    <name>Berni</name>
+    <pinCode>249175</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Ghansali</suboffice>
+    <suboffice>Narendra Nagar (Tehri Garhwal)</suboffice>
     <headoffice>Tehri</headoffice>
-    <location>Ghansali Taluk of Tehri Garhwal District</location>
+    <location>Narendra Nagar Taluk of Tehri Garhwal District</location>
     <telephone />
   </office>
   <office>
@@ -22635,12 +22635,12 @@
     <telephone />
   </office>
   <office>
-    <name>Deoria</name>
-    <pinCode>263148</pinCode>
+    <name>Dhakia No 1</name>
+    <pinCode>244713</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Kichha</suboffice>
+    <suboffice>Kashipur (Udham Singh Nagar)</suboffice>
     <headoffice>Haldwani</headoffice>
-    <location>Kichha Taluk of Udham Singh Nagar District</location>
+    <location>Kashipur Taluk of Udham Singh Nagar District</location>
     <telephone />
   </office>
   <office>
@@ -24057,13 +24057,13 @@
     <telephone />
   </office>
   <office>
-    <name>Latasera</name>
+    <name>M.D. Colony</name>
     <pinCode>249194</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>M.D. Colony</suboffice>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Tehri</headoffice>
-    <location>Dunda Taluk of Uttarkashi District</location>
-    <telephone />
+    <location>Uttarkasshi Taluk of Uttarkashi District</location>
+    <telephone>01374-236203</telephone>
   </office>
   <office>
     <name>Mahidanda</name>
@@ -24261,15 +24261,6 @@
     <suboffice>Dunda</suboffice>
     <headoffice>Tehri</headoffice>
     <location>Dunda Taluk of Uttarkashi District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Pujeli</name>
-    <pinCode>249141</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Burkot</suboffice>
-    <headoffice>Tehri</headoffice>
-    <location>Burkot Taluk of Uttarkashi District</location>
     <telephone />
   </office>
   <office>

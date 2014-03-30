@@ -162,13 +162,13 @@
     <telephone />
   </office>
   <office>
-    <name>Betki</name>
-    <pinCode>403107</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Marcela</suboffice>
+    <name>Bicholim Industrial Estate</name>
+    <pinCode>403529</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Panaji</headoffice>
-    <location>Ponda Taluk of North Goa District</location>
-    <telephone />
+    <location>Bicholim Taluk of North Goa District</location>
+    <telephone>0832-2362006</telephone>
   </office>
   <office>
     <name>Bicholim</name>
@@ -1161,12 +1161,12 @@
     <telephone />
   </office>
   <office>
-    <name>Tarvalem</name>
-    <pinCode>403103</pinCode>
+    <name>Thana</name>
+    <pinCode>403506</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Shiroda (North Goa)</suboffice>
+    <suboffice>Valpoi</suboffice>
     <headoffice>Panaji</headoffice>
-    <location>Ponda Taluk of North Goa District</location>
+    <location>Sattari Taluk of North Goa District</location>
     <telephone />
   </office>
   <office>
@@ -1465,15 +1465,6 @@
     <headoffice>Panaji</headoffice>
     <location>Ponda Taluk of South Goa District</location>
     <telephone>0832-2330800</telephone>
-  </office>
-  <office>
-    <name>Betul</name>
-    <pinCode>403723</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Velim</suboffice>
-    <headoffice>Margao</headoffice>
-    <location>Salsate Taluk of South Goa District</location>
-    <telephone />
   </office>
   <office>
     <name>Betul</name>

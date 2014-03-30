@@ -1,23 +1,5 @@
 <offices>
   <office>
-    <name>Gomariguri</name>
-    <pinCode>785705</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Merapani</suboffice>
-    <headoffice>Golaghat</headoffice>
-    <location>Taluk of Sibsagar District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gorbhanga</name>
-    <pinCode>785671</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nitaipukhuri</suboffice>
-    <headoffice>Sivasagar</headoffice>
-    <location>Svs Taluk of Sibsagar District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Gormur Miri Gaon</name>
     <pinCode>785687</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -279,10 +261,10 @@
     <telephone />
   </office>
   <office>
-    <name>Khemdeo Pukhuri</name>
-    <pinCode>785666</pinCode>
+    <name>Khemon</name>
+    <pinCode>785697</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Kaloogaon</suboffice>
+    <suboffice>Ongc Colony</suboffice>
     <headoffice>Sivasagar</headoffice>
     <location>Svs Taluk of Sibsagar District</location>
     <telephone />
@@ -1089,12 +1071,12 @@
     <telephone />
   </office>
   <office>
-    <name>Ratanpur Sishupani</name>
-    <pinCode>785705</pinCode>
+    <name>Ratomora</name>
+    <pinCode>785670</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Merapani</suboffice>
-    <headoffice>Golaghat</headoffice>
-    <location>Taluk of Sibsagar District</location>
+    <suboffice>Moranhat</suboffice>
+    <headoffice>Sivasagar</headoffice>
+    <location>Svs Taluk of Sibsagar District</location>
     <telephone />
   </office>
   <office>
@@ -2250,12 +2232,12 @@
     <telephone />
   </office>
   <office>
-    <name>Garpal</name>
-    <pinCode>784175</pinCode>
+    <name>Garubandha</name>
+    <pinCode>784506</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Sootea</suboffice>
+    <suboffice>Missamari</suboffice>
     <headoffice>Tezpur</headoffice>
-    <location>Sootea Taluk of Sonitpur District</location>
+    <location>Missamari Taluk of Sonitpur District</location>
     <telephone />
   </office>
   <office>
@@ -3276,13 +3258,13 @@
     <telephone />
   </office>
   <office>
-    <name>Sonapur</name>
-    <pinCode>784168</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gohpur</suboffice>
+    <name>Sonitpur</name>
+    <pinCode>784001</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
     <headoffice>Tezpur</headoffice>
-    <location>Gohpur Taluk of Sonitpur District</location>
-    <telephone />
+    <location>Tezpur Taluk of Sonitpur District</location>
+    <telephone>03712-221013</telephone>
   </office>
   <office>
     <name>Sootea</name>

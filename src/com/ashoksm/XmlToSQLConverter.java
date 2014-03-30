@@ -113,6 +113,18 @@ public class XmlToSQLConverter {
 			stateName = "Punjab";
 		}  else if (xmlName.contains("uttarakhand")) {
 			stateName = "Uttarakhand";
+		} else if (xmlName.contains("bihar")) {
+			stateName = "Bihar";
+		} else if (xmlName.contains("gujarat")) {
+			stateName = "Gujarat";
+		} else if (xmlName.contains("madhyapradesh")) {
+			stateName = "Madhya Pradesh";
+		} else if (xmlName.contains("odisha")) {
+			stateName = "Odisha";
+		} else if (xmlName.contains("uttarpradesh")) {
+			stateName = "Uttar Pradesh";
+		}  else if (xmlName.contains("rajasthan")) {
+			stateName = "Rajasthan";
 		}
 		return stateName;
 	}

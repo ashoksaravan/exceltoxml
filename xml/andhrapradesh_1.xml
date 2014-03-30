@@ -8442,13 +8442,13 @@
     <telephone />
   </office>
   <office>
-    <name>Kodihalli West</name>
-    <pinCode>515863</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gummaghatta</suboffice>
-    <headoffice>Guntakal</headoffice>
-    <location>Brahmasamudram Taluk of Ananthapur District</location>
-    <telephone />
+    <name>Kodikonda</name>
+    <pinCode>515601</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Hindupur</headoffice>
+    <location>Chilamathur Taluk of Ananthapur District</location>
+    <telephone>08556-243704</telephone>
   </office>
   <office>
     <name>Kodipalli East</name>
@@ -8766,13 +8766,13 @@
     <telephone />
   </office>
   <office>
-    <name>Kothapeta(Gooty)</name>
-    <pinCode>515401</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gooty</suboffice>
+    <name>Kothapeta(Uravakonda)</name>
+    <pinCode>515812</pinCode>
+    <status>Sub Office(Non Delivery)</status>
+    <suboffice />
     <headoffice>Guntakal</headoffice>
-    <location>Gooty Taluk of Ananthapur District</location>
-    <telephone />
+    <location>Uravakonda Taluk of Ananthapur District</location>
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Kotipi</name>
@@ -14077,11 +14077,11 @@
   </office>
   <office>
     <name>Chavarambakam</name>
-    <pinCode>517591</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nindra</suboffice>
-    <headoffice>Srikalahasti</headoffice>
-    <location>Nindra Taluk of Chittoor District</location>
+    <pinCode></pinCode>
+    <status></status>
+    <suboffice />
+    <headoffice />
+    <location></location>
     <telephone />
   </office>
   <office>
@@ -23202,12 +23202,12 @@
     <telephone />
   </office>
   <office>
-    <name>Gandikota</name>
-    <pinCode>516434</pinCode>
+    <name>Gandlur</name>
+    <pinCode>516444</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Jammalamadugu</suboffice>
-    <headoffice>Proddatur</headoffice>
-    <location>Jammalamdugu Taluk of Cuddapah District</location>
+    <suboffice>Kondapuram (Cuddapah)</suboffice>
+    <headoffice>Pulivendla</headoffice>
+    <location>Kondapuram Taluk of Cuddapah District</location>
     <telephone />
   </office>
   <office>
@@ -24102,12 +24102,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kanagudur</name>
-    <pinCode>516175</pinCode>
+    <name>Kanamakindkottala</name>
+    <pinCode>516349</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Duvvur (Cuddapah)</suboffice>
-    <headoffice>Proddatur</headoffice>
-    <location>Taluk of Cuddapah District</location>
+    <suboffice>Vemula</suboffice>
+    <headoffice>Pulivendla</headoffice>
+    <location>Vemula Taluk of Cuddapah District</location>
     <telephone />
   </office>
   <office>

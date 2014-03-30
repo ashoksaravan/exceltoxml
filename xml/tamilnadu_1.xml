@@ -6372,15 +6372,6 @@
     <telephone />
   </office>
   <office>
-    <name>Pillurdam</name>
-    <pinCode>641104</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Karamadai</suboffice>
-    <headoffice>Mettupalayam</headoffice>
-    <location>Mettupalayam Taluk of Coimbatore District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Pn Road</name>
     <pinCode>641602</pinCode>
     <status>Sub Office(Non Delivery)</status>
@@ -16327,10 +16318,10 @@
   </office>
   <office>
     <name>Kollapatti</name>
-    <pinCode>624801</pinCode>
+    <pinCode>624619</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Ayyalur</suboffice>
-    <headoffice>Dindigul</headoffice>
+    <suboffice>Oddanchatram</suboffice>
+    <headoffice>Palani</headoffice>
     <location>Dindigul Taluk of Dindigul District</location>
     <telephone />
   </office>
@@ -16407,12 +16398,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kosikurichi</name>
-    <pinCode>624401</pinCode>
+    <name>Kothayam</name>
+    <pinCode>624614</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Natham</suboffice>
-    <headoffice>Dindigul</headoffice>
-    <location>Natham Taluk of Dindigul District</location>
+    <suboffice>Chatrapatti (Dindigul)</suboffice>
+    <headoffice>Palani</headoffice>
+    <location>Dindigul Taluk of Dindigul District</location>
     <telephone />
   </office>
   <office>
@@ -30366,13 +30357,13 @@
     <telephone />
   </office>
   <office>
-    <name>Tholayavattai</name>
-    <pinCode>629157</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Karinkal</suboffice>
-    <headoffice>Thuckalay</headoffice>
-    <location>Vilavancode Taluk of Kanyakumari District</location>
-    <telephone />
+    <name>Thovalai</name>
+    <pinCode>629302</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Nagercoil</headoffice>
+    <location>Thovalai Taluk of Kanyakumari District</location>
+    <telephone>04652-232032</telephone>
   </office>
   <office>
     <name>Thuckalay</name>
@@ -31498,5 +31489,14 @@
     <headoffice>Karur</headoffice>
     <location>Karur Taluk of Karur District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Marudur</name>
+    <pinCode>639107</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Kulittalai</headoffice>
+    <location>Kulithalai Taluk of Karur District</location>
+    <telephone>04323-224211</telephone>
   </office>
 </offices>

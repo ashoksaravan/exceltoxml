@@ -1,149 +1,5 @@
 <offices>
   <office>
-    <name>Olinkadavu</name>
-    <pinCode>678706</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vandali</suboffice>
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Alathur Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Olivemount</name>
-    <pinCode>678702</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Coyalmanna</suboffice>
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Alathur Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Nochulli</name>
-    <pinCode>678702</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Coyalmanna</suboffice>
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Alathur Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Ottapalam</name>
-    <pinCode>679101</pinCode>
-    <status>Head Office(Delivery)</status>
-    <suboffice />
-    <headoffice />
-    <location>Ottapalam Taluk of Palakkad District</location>
-    <telephone>0466-2244229</telephone>
-  </office>
-  <office>
-    <name>Padagiri</name>
-    <pinCode>678508</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nemmara</suboffice>
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Chittur Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Padur-Kavasseri</name>
-    <pinCode>678543</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kavasseri</suboffice>
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Alathur Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Palakayam</name>
-    <pinCode>678591</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kanhirapuzha</suboffice>
-    <headoffice>Ottapalam</headoffice>
-    <location>Mannarkkad Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Palakkad City</name>
-    <pinCode>678014</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Palakkad</headoffice>
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone>04912-502583</telephone>
-  </office>
-  <office>
-    <name>Palakkad Collectorate</name>
-    <pinCode>678001</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Palakkad</headoffice>
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone>04912-505018</telephone>
-  </office>
-  <office>
-    <name>Palakkad College</name>
-    <pinCode>678001</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Olavakkot</headoffice>
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone>0491-2522897</telephone>
-  </office>
-  <office>
-    <name>Palakkad Engineering College</name>
-    <pinCode>678008</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Olavakkot</headoffice>
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone>04912-555204</telephone>
-  </office>
-  <office>
-    <name>Palakkad Fort</name>
-    <pinCode>678001</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Palakkad</headoffice>
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone>04912-527395</telephone>
-  </office>
-  <office>
-    <name>Palakkad</name>
-    <pinCode>678001</pinCode>
-    <status>Head Office(Delivery)</status>
-    <suboffice />
-    <headoffice />
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone>04912-546876</telephone>
-  </office>
-  <office>
-    <name>Palakkad Industrial Estate</name>
-    <pinCode>678731</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Puduppariyaram</suboffice>
-    <headoffice>Olavakkot</headoffice>
-    <location>Palakkad Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Palakuzhy</name>
-    <pinCode>678684</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kilakkancheri</suboffice>
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Alathur Taluk of Palakkad District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Palampalakode</name>
-    <pinCode>678544</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Alathur Mbr</headoffice>
-    <location>Alathur Taluk of Palakkad District</location>
-    <telephone>04922-2232225</telephone>
-  </office>
-  <office>
     <name>Palaniyarpalayam</name>
     <pinCode>678555</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -8517,7 +8373,7 @@
     <name>Alamcode</name>
     <pinCode>695102</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2622380</telephone>
@@ -8553,7 +8409,7 @@
     <name>Amaravila</name>
     <pinCode>695122</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2234070</telephone>
@@ -8562,7 +8418,7 @@
     <name>Ambalamukku</name>
     <pinCode>695005</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2433150</telephone>
@@ -8643,7 +8499,7 @@
     <name>Anayara</name>
     <pinCode>695029</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2740525</telephone>
@@ -8661,7 +8517,7 @@
     <name>Anjengo</name>
     <pinCode>695309</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2656100</telephone>
@@ -8670,7 +8526,7 @@
     <name>Aralumoodu</name>
     <pinCode>695123</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2221342</telephone>
@@ -8679,7 +8535,7 @@
     <name>Aramada</name>
     <pinCode>695032</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2353567</telephone>
@@ -8724,7 +8580,7 @@
     <name>Aryanad</name>
     <pinCode>695542</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2852030</telephone>
@@ -8733,7 +8589,7 @@
     <name>Attakulangara</name>
     <pinCode>695023</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2471067</telephone>
@@ -8742,15 +8598,15 @@
     <name>Attingal</name>
     <pinCode>695101</pinCode>
     <status>Head Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>N/A</headoffice>
+    <suboffice />
+    <headoffice />
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2622250</telephone>
   </office>
   <office>
-    <name>Attukal</name>
+    <name>Attukkal</name>
     <pinCode>695009</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Manacaud</suboffice>
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
@@ -8760,7 +8616,7 @@
     <name>Avanavancherry</name>
     <pinCode>695103</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>.chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2632293</telephone>
@@ -8787,7 +8643,7 @@
     <name>Ayroor-varkala</name>
     <pinCode>695310</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2667619</telephone>
@@ -8805,7 +8661,7 @@
     <name>Balaramapuram</name>
     <pinCode>695501</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2400340</telephone>
@@ -8850,7 +8706,7 @@
     <name>Cgo Complex Poonkulam</name>
     <pinCode>695522</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2480301</telephone>
@@ -8922,7 +8778,7 @@
     <name>Chempazhanthy</name>
     <pinCode>695587</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2598603</telephone>
@@ -8931,7 +8787,7 @@
     <name>Chenkal</name>
     <pinCode>695132</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2963025</telephone>
@@ -8958,7 +8814,7 @@
     <name>Cherunniyur</name>
     <pinCode>695142</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2602215</telephone>
@@ -8966,7 +8822,7 @@
   <office>
     <name>Cheruvallimukku</name>
     <pinCode>695304</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Chirayinkeezhu</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
@@ -9012,7 +8868,7 @@
     <name>Chirayinkeezhu</name>
     <pinCode>695304</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2640344</telephone>
@@ -9048,7 +8904,7 @@
     <name>Cotton Hill</name>
     <pinCode>695014</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2320548</telephone>
@@ -9075,7 +8931,7 @@
     <name>Dhanuvachapuram</name>
     <pinCode>695503</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2222430</telephone>
@@ -9093,7 +8949,7 @@
     <name>Edava</name>
     <pinCode>695311</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2660099</telephone>
@@ -9192,7 +9048,7 @@
     <name>Industrial Estate (Thiruvananthapuram)</name>
     <pinCode>695019</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2490107</telephone>
@@ -9219,7 +9075,7 @@
     <name>Jagathy</name>
     <pinCode>695014</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2325287</telephone>
@@ -9227,7 +9083,7 @@
   <office>
     <name>Janardhanapuram</name>
     <pinCode>695141</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Varkala</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
@@ -9237,7 +9093,7 @@
     <name>Kadakkavur</name>
     <pinCode>695306</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2656640</telephone>
@@ -9255,7 +9111,7 @@
     <name>Kaimanam</name>
     <pinCode>695040</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2495222</telephone>
@@ -9264,7 +9120,7 @@
     <name>Kaithamukku</name>
     <pinCode>695024</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2471042</telephone>
@@ -9336,7 +9192,7 @@
     <name>Kalliyoor</name>
     <pinCode>695042</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2400320</telephone>
@@ -9351,12 +9207,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kanchinada</name>
-    <pinCode>695609</pinCode>
+    <name>Kandala</name>
+    <pinCode>695512</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pangode</suboffice>
-    <headoffice>Attingal</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
+    <suboffice>Kuvalassery</suboffice>
+    <headoffice>Neyyattinkara</headoffice>
+    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
@@ -9372,7 +9228,7 @@
     <name>Kaniyapuram</name>
     <pinCode>695301</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2750255</telephone>
@@ -9390,7 +9246,7 @@
     <name>Kanjiramkulam</name>
     <pinCode>695524</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2261040</telephone>
@@ -9399,7 +9255,7 @@
     <name>Kanjirampara</name>
     <pinCode>695030</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2361473</telephone>
@@ -9417,7 +9273,7 @@
     <name>Karakonam</name>
     <pinCode>695504</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2250230</telephone>
@@ -9426,7 +9282,7 @@
     <name>Karakulam</name>
     <pinCode>695564</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2371974</telephone>
@@ -9435,7 +9291,7 @@
     <name>Karamana</name>
     <pinCode>695002</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2343708</telephone>
@@ -9453,7 +9309,7 @@
     <name>Karikkakom</name>
     <pinCode>695021</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2507937</telephone>
@@ -9525,7 +9381,7 @@
     <name>Karyavattom</name>
     <pinCode>695581</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2418991</telephone>
@@ -9570,7 +9426,7 @@
     <name>Kattakada</name>
     <pinCode>695572</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2290380</telephone>
@@ -9588,7 +9444,7 @@
     <name>Kaudiar</name>
     <pinCode>695003</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2436691</telephone>
@@ -9597,7 +9453,7 @@
     <name>Kaudiar Square</name>
     <pinCode>695003</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2314833</telephone>
@@ -9615,7 +9471,7 @@
     <name>Kazhakuttam</name>
     <pinCode>695582</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2418230</telephone>
@@ -9642,7 +9498,7 @@
     <name>Keezhattingal</name>
     <pinCode>695101</pinCode>
     <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone />
@@ -9660,7 +9516,7 @@
     <name>Kerala Governor&apos;s Camp</name>
     <pinCode>695099</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2315460</telephone>
@@ -9677,7 +9533,7 @@
   <office>
     <name>Kilimanur Palace</name>
     <pinCode>695601</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Kilmanur</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
@@ -9687,7 +9543,7 @@
     <name>Kilmanur</name>
     <pinCode>695601</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2672230</telephone>
@@ -9696,7 +9552,7 @@
     <name>Kizhuvalam</name>
     <pinCode>695104</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezh Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2622421</telephone>
@@ -9864,12 +9720,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kottukal</name>
-    <pinCode>695501</pinCode>
+    <name>Kottukunnam</name>
+    <pinCode>695606</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Balaramapuram</suboffice>
-    <headoffice>Neyyattinkara</headoffice>
-    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
+    <suboffice>Vamanapuram</suboffice>
+    <headoffice>Attingal</headoffice>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
@@ -9885,7 +9741,7 @@
     <name>Kovalam (Thiruvananthapuram)</name>
     <pinCode>695527</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2481330</telephone>
@@ -9894,7 +9750,7 @@
     <name>Kudappanakunnu</name>
     <pinCode>695043</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2730400</telephone>
@@ -9909,13 +9765,13 @@
     <telephone />
   </office>
   <office>
-    <name>Kudappanamoodu</name>
-    <pinCode>695505</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vellarada</suboffice>
-    <headoffice>Neyyattinkara</headoffice>
-    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
-    <telephone />
+    <name>Kudavur</name>
+    <pinCode>695313</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Attingal</headoffice>
+    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <telephone>0471-2429707</telephone>
   </office>
   <office>
     <name>Kudayal</name>
@@ -9936,12 +9792,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kulamuttam</name>
-    <pinCode>695144</pinCode>
+    <name>Kulappada</name>
+    <pinCode>695542</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Moongode</suboffice>
-    <headoffice>Attingal</headoffice>
-    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <suboffice>Aryanad</suboffice>
+    <headoffice>Poojapura</headoffice>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
@@ -10020,7 +9876,7 @@
     <name>Kuttichal</name>
     <pinCode>695574</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2852040</telephone>
@@ -10029,7 +9885,7 @@
     <name>Kuvalassery</name>
     <pinCode>695512</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2250236</telephone>
@@ -10056,7 +9912,7 @@
     <name>Madavoor-pallickal</name>
     <pinCode>695602</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2681529</telephone>
@@ -10083,7 +9939,7 @@
     <name>Malayinkil</name>
     <pinCode>695571</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2282030</telephone>
@@ -10092,7 +9948,7 @@
     <name>Manacaud</name>
     <pinCode>695009</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2451215</telephone>
@@ -10110,7 +9966,7 @@
     <name>Manambur</name>
     <pinCode>695611</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2688350</telephone>
@@ -10173,7 +10029,7 @@
     <name>Mannanathala</name>
     <pinCode>695015</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Trivendrum Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2540580</telephone>
@@ -10233,12 +10089,12 @@
     <telephone />
   </office>
   <office>
-    <name>Maruthikunnu</name>
-    <pinCode>695603</pinCode>
+    <name>Mayam</name>
+    <pinCode>695505</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Navaikulam</suboffice>
-    <headoffice>Attingal</headoffice>
-    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <suboffice>Vellarada</suboffice>
+    <headoffice>Neyyattinkara</headoffice>
+    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
@@ -10299,7 +10155,7 @@
     <name>Mithirmala</name>
     <pinCode>695610</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2822030</telephone>
@@ -10326,7 +10182,7 @@
     <name>Moongode</name>
     <pinCode>695144</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2688351</telephone>
@@ -10443,7 +10299,7 @@
     <name>Murukumpuzhaa</name>
     <pinCode>695302</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2420250</telephone>
@@ -10470,7 +10326,7 @@
     <name>Muttada</name>
     <pinCode>695025</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2541416</telephone>
@@ -10512,19 +10368,19 @@
     <telephone />
   </office>
   <office>
-    <name>Mylamoodu</name>
-    <pinCode>695609</pinCode>
+    <name>Nagaroor</name>
+    <pinCode>695601</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pangode</suboffice>
+    <suboffice>Kilmanur</suboffice>
     <headoffice>Attingal</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
+    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
     <name>Nalanchira</name>
     <pinCode>695015</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2531374</telephone>
@@ -10533,7 +10389,7 @@
     <name>Naruvamoodu</name>
     <pinCode>695528</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2399340</telephone>
@@ -10542,7 +10398,7 @@
     <name>Navaikulam</name>
     <pinCode>695603</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2690200</telephone>
@@ -10551,7 +10407,7 @@
     <name>Nedumangad</name>
     <pinCode>695541</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2800102</telephone>
@@ -10569,7 +10425,7 @@
     <name>Nedunganda</name>
     <pinCode>695307</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2602244</telephone>
@@ -10584,10 +10440,10 @@
     <telephone />
   </office>
   <office>
-    <name>Neeramankadavuu</name>
-    <pinCode>695610</pinCode>
+    <name>Nellanad</name>
+    <pinCode>695606</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Mithirmala</suboffice>
+    <suboffice>Vamanapuram</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone />
@@ -10614,7 +10470,7 @@
     <name>Nemom</name>
     <pinCode>695020</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2395800</telephone>
@@ -10650,8 +10506,8 @@
     <name>Neyyattinkara</name>
     <pinCode>695121</pinCode>
     <status>Head Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>N/A</headoffice>
+    <suboffice />
+    <headoffice />
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2222340</telephone>
   </office>
@@ -10659,7 +10515,7 @@
     <name>Neyyattinkara Town</name>
     <pinCode>695121</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2222270</telephone>
@@ -10667,7 +10523,7 @@
   <office>
     <name>Nilakkamukku</name>
     <pinCode>695306</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Kadakkavur</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
@@ -10683,10 +10539,10 @@
     <telephone />
   </office>
   <office>
-    <name>Njarayilkonam</name>
-    <pinCode>695602</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Madavoor-pallickal</suboffice>
+    <name>Odayam</name>
+    <pinCode>695311</pinCode>
+    <status>Branch Office(Non Delivery)</status>
+    <suboffice>Edava</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone />
@@ -10722,7 +10578,7 @@
     <name>Ooruttambalam</name>
     <pinCode>695507</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2299338</telephone>
@@ -10731,7 +10587,7 @@
     <name>Ottasekharamangalam</name>
     <pinCode>695125</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2255230</telephone>
@@ -10740,7 +10596,7 @@
     <name>Pacha</name>
     <pinCode>695562</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2840230</telephone>
@@ -10764,28 +10620,28 @@
     <telephone />
   </office>
   <office>
-    <name>Pakalkuri</name>
-    <pinCode>695604</pinCode>
+    <name>Palachira</name>
+    <pinCode>695143</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pallickal Kilimanur</suboffice>
+    <suboffice>Vadasserikonam</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
-    <name>Pakalkuri</name>
-    <pinCode>695604</pinCode>
+    <name>Palamkonam</name>
+    <pinCode>695607</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pallickal Kilimanur</suboffice>
+    <suboffice>Venjaramoodu</suboffice>
     <headoffice>Attingal</headoffice>
-    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
     <name>Palayamkunnu</name>
     <pinCode>695146</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2665033</telephone>
@@ -10794,7 +10650,7 @@
     <name>Palkulangara</name>
     <pinCode>695024</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2471974</telephone>
@@ -10812,7 +10668,7 @@
     <name>Pallickal Kilimanur</name>
     <pinCode>695604</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2681444</telephone>
@@ -10821,115 +10677,25 @@
     <name>Pallipuram (Thiruvananthapuram)</name>
     <pinCode>695316</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2750499</telephone>
   </office>
   <office>
-    <name>Pallipuram (Thiruvananthapuram)</name>
-    <pinCode>695316</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <name>Pallithura</name>
+    <pinCode>695586</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>St.Xavier&apos;s College</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
-    <telephone>0471-2750499</telephone>
+    <telephone />
   </office>
   <office>
     <name>Paluvally</name>
     <pinCode>695562</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Pacha</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Panniyode</name>
-    <pinCode>695575</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Poovachal</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Pantha</name>
-    <pinCode>695572</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kattakada</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Pappanamcode</name>
-    <pinCode>695018</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
-    <telephone>0471-2490078</telephone>
-  </office>
-  <office>
-    <name>Parakunnu</name>
-    <pinCode>695603</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Navaikulam</suboffice>
-    <headoffice>Attingal</headoffice>
-    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Parakunnu</name>
-    <pinCode>695603</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Navaikulam</suboffice>
-    <headoffice>Attingal</headoffice>
-    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Parappara</name>
-    <pinCode>695551</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vithura</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Parassala</name>
-    <pinCode>695502</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>Neyyattinkara</headoffice>
-    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
-    <telephone>0471-2202030</telephone>
-  </office>
-  <office>
-    <name>Parasuvaickal</name>
-    <pinCode>695508</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>Neyyattinkara</headoffice>
-    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
-    <telephone>0471-123456</telephone>
-  </office>
-  <office>
-    <name>Parayathukonam</name>
-    <pinCode>695104</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kizhuvalam</suboffice>
-    <headoffice>Attingal</headoffice>
-    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Paruthikuzhy</name>
-    <pinCode>695541</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nedumangad</suboffice>
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone />
@@ -10965,7 +10731,7 @@
     <name>Panavoor</name>
     <pinCode>695568</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2865740</telephone>
@@ -11019,10 +10785,100 @@
     <name>Pangode</name>
     <pinCode>695609</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2869244</telephone>
+  </office>
+  <office>
+    <name>Panniyode</name>
+    <pinCode>695575</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Poovachal</suboffice>
+    <headoffice>Poojapura</headoffice>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Pantha</name>
+    <pinCode>695572</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kattakada</suboffice>
+    <headoffice>Poojapura</headoffice>
+    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Pappanamcode</name>
+    <pinCode>695018</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Poojapura</headoffice>
+    <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
+    <telephone>0471-2490078</telephone>
+  </office>
+  <office>
+    <name>Parakunnu</name>
+    <pinCode>695603</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Navaikulam</suboffice>
+    <headoffice>Attingal</headoffice>
+    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Parandode</name>
+    <pinCode>695542</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Aryanad</suboffice>
+    <headoffice>Poojapura</headoffice>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Parappara</name>
+    <pinCode>695551</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Vithura</suboffice>
+    <headoffice>Poojapura</headoffice>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Parassala</name>
+    <pinCode>695502</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Neyyattinkara</headoffice>
+    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
+    <telephone>0471-2202030</telephone>
+  </office>
+  <office>
+    <name>Parasuvaickal</name>
+    <pinCode>695508</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Neyyattinkara</headoffice>
+    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
+    <telephone>0471-123456</telephone>
+  </office>
+  <office>
+    <name>Parayathukonam</name>
+    <pinCode>695104</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kizhuvalam</suboffice>
+    <headoffice>Attingal</headoffice>
+    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Paruthikuzhy</name>
+    <pinCode>695541</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nedumangad</suboffice>
+    <headoffice>Poojapura</headoffice>
+    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
+    <telephone />
   </office>
   <office>
     <name>Paruthipally</name>
@@ -11035,12 +10891,12 @@
   </office>
   <office>
     <name>Pattom Palace</name>
-    <pinCode>695574</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kuttichal</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
-    <telephone />
+    <pinCode>695004</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Thiruvananthapuram.</headoffice>
+    <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
+    <telephone>0471-2541644</telephone>
   </office>
   <office>
     <name>Payattuvila</name>
@@ -11055,19 +10911,19 @@
     <name>Pazhakutty</name>
     <pinCode>695561</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2802260</telephone>
   </office>
   <office>
-    <name>Pazhakutty</name>
-    <pinCode>695561</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Nedumangad Taluk of Thiruvananthapuram District</location>
-    <telephone>0472-2802260</telephone>
+    <name>Pazhayakunnummel</name>
+    <pinCode>695601</pinCode>
+    <status>Branch Office(Non Delivery)</status>
+    <suboffice>Kilmanur</suboffice>
+    <headoffice>Attingal</headoffice>
+    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
+    <telephone />
   </office>
   <office>
     <name>Peppara Dam</name>
@@ -11091,7 +10947,7 @@
     <name>Peringamala</name>
     <pinCode>695563</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2845530</telephone>
@@ -11127,7 +10983,7 @@
     <name>Perumkadavila</name>
     <pinCode>695124</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2275450</telephone>
@@ -11145,7 +11001,7 @@
     <name>Perumpazhuthoor</name>
     <pinCode>695126</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone>0471-123456</telephone>
@@ -11154,7 +11010,7 @@
     <name>Perunguzhi</name>
     <pinCode>695305</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone>0470-2636364</telephone>
@@ -11163,7 +11019,7 @@
     <name>Perurkada</name>
     <pinCode>695005</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2436790</telephone>
@@ -11172,7 +11028,7 @@
     <name>Peyad</name>
     <pinCode>695573</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2289040</telephone>
@@ -11199,7 +11055,7 @@
     <name>PMG Jn</name>
     <pinCode>695033</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2302713</telephone>
@@ -11235,16 +11091,16 @@
     <name>Poojapura</name>
     <pinCode>695012</pinCode>
     <status>Head Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
-    <headoffice>N/A</headoffice>
+    <suboffice />
+    <headoffice />
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
-    <telephone />
+    <telephone> </telephone>
   </office>
   <office>
     <name>Poojapura Junction</name>
     <pinCode>695012</pinCode>
     <status>Sub Office(Non Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2340957</telephone>
@@ -11253,7 +11109,7 @@
     <name>Poonthura</name>
     <pinCode>695026</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
     <telephone>0471-2382075</telephone>
@@ -11271,7 +11127,7 @@
     <name>Poovachal</name>
     <pinCode>695575</pinCode>
     <status>Sub Office(Delivery)</status>
-    <suboffice>N/A</suboffice>
+    <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Nedumangad Taluk of Thiruvananthapuram District</location>
     <telephone>0472-2895535</telephone>
@@ -11305,12 +11161,12 @@
   </office>
   <office>
     <name>Powdikonam</name>
-    <pinCode>695587</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chempazhanthy</suboffice>
+    <pinCode>695588</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Thiruvananthapuram.</headoffice>
-    <location>Trivandrum Taluk of Thiruvananthapuram District</location>
-    <telephone />
+    <location>Tiruvanathapuram Taluk of Thiruvananthapuram District</location>
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Pozhiyoor</name>
@@ -11324,7 +11180,7 @@
   <office>
     <name>Prasanth Nagar</name>
     <pinCode>695011</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Thiruvananthapuram Medical College</suboffice>
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
@@ -11432,11 +11288,20 @@
   <office>
     <name>Puthencurichy</name>
     <pinCode>695303</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Attingal</headoffice>
+    <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
+    <telephone>0471-2428567</telephone>
+  </office>
+  <office>
+    <name>Puthenthope</name>
+    <pinCode>695586</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>St.Xavier&apos;s College</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
-    <telephone>0471-2428567</telephone>
+    <telephone />
   </office>
   <office>
     <name>Puthiathura</name>
@@ -11481,7 +11346,7 @@
     <suboffice>Balaramapuram</suboffice>
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
-    <telephone>Not Available</telephone>
+    <telephone />
   </office>
   <office>
     <name>Sainik School (Thiruvananthapuram)</name>
@@ -11565,12 +11430,12 @@
     <telephone />
   </office>
   <office>
-    <name>Thamalam</name>
-    <pinCode>695012</pinCode>
-    <status>Branch Office(Non Delivery)</status>
-    <suboffice>Poojapura Junction</suboffice>
-    <headoffice>Poojapura</headoffice>
-    <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
+    <name>Thannimoodu</name>
+    <pinCode>695123</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Aralumoodu</suboffice>
+    <headoffice>Neyyattinkara</headoffice>
+    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
@@ -11778,7 +11643,7 @@
     <suboffice />
     <headoffice>Poojapura</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
-    <telephone />
+    <telephone> </telephone>
   </office>
   <office>
     <name>Tirumala (Thiruvananthapuram)</name>
@@ -11801,7 +11666,7 @@
   <office>
     <name>Titanium</name>
     <pinCode>695021</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Karikkakom</suboffice>
     <headoffice>Thiruvananthapuram.</headoffice>
     <location>Thiruvananthapuram Taluk of Thiruvananthapuram District</location>
@@ -11954,11 +11819,11 @@
   <office>
     <name>Varkala South</name>
     <pinCode>695141</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
+    <status>Branch Office(Non Delivery)</status>
+    <suboffice>Varkala</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
-    <telephone>0470-2602434</telephone>
+    <telephone />
   </office>
   <office>
     <name>Vattakarikkakom</name>
@@ -12134,7 +11999,7 @@
   <office>
     <name>Venkulam</name>
     <pinCode>695311</pinCode>
-    <status>Branch Office(Delivery)</status>
+    <status>Branch Office(Non Delivery)</status>
     <suboffice>Edava</suboffice>
     <headoffice>Attingal</headoffice>
     <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
@@ -12159,12 +12024,12 @@
     <telephone />
   </office>
   <office>
-    <name>Venpakal</name>
-    <pinCode>695123</pinCode>
+    <name>Vettiyara</name>
+    <pinCode>695603</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Aralumoodu</suboffice>
-    <headoffice>Neyyattinkara</headoffice>
-    <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
+    <suboffice>Navaikulam</suboffice>
+    <headoffice>Attingal</headoffice>
+    <location>Chirayinkeezhu Taluk of Thiruvananthapuram District</location>
     <telephone />
   </office>
   <office>
@@ -12228,7 +12093,7 @@
     <suboffice />
     <headoffice>Neyyattinkara</headoffice>
     <location>Neyyattinkara Taluk of Thiruvananthapuram District</location>
-    <telephone />
+    <telephone>-</telephone>
   </office>
   <office>
     <name>Achooranam</name>

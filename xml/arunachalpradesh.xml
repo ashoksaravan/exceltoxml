@@ -279,6 +279,42 @@
     <telephone />
   </office>
   <office>
+    <name>Alinye</name>
+    <pinCode>792101</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Anini</suboffice>
+    <headoffice>Itanagar</headoffice>
+    <location>Alinye Taluk of Dibang Valley District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Anelih</name>
+    <pinCode>792101</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Anini</suboffice>
+    <headoffice>Itanagar</headoffice>
+    <location>Anelih Taluk of Dibang Valley District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Anini</name>
+    <pinCode>792101</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Itanagar</headoffice>
+    <location>Taluk of Dibang Valley District</location>
+    <telephone>03801-222272</telephone>
+  </office>
+  <office>
+    <name>Roing</name>
+    <pinCode>792110</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Itanagar</headoffice>
+    <location>Roing Taluk of Dibang Valley District</location>
+    <telephone>03803-222283</telephone>
+  </office>
+  <office>
     <name>Bameng</name>
     <pinCode>790102</pinCode>
     <status>Branch Office(Delivery)</status>

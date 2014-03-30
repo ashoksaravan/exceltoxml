@@ -5,8 +5,10 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
@@ -121,6 +123,15 @@ public class ExcelToXmlConverter {
 	 * @param stateName
 	 */
 	private static void writeFile(List<Office> offices, String stateName, String dest) {
+		Map<String, Office> offMap = new HashMap<String, Office>();
+		for (Office office : offices) {
+			String key = office.getPinCode() + office.getName();
+			if(offMap.containsKey(key)) {
+				System.out.println("Duplicate::::"+office.getName() + ":::::" + office.getPinCode() + ":::::" + office.getLocation());
+			} else {
+				offMap.put(key, office);
+			}
+		}
 		if (offices.size() > 3499) {
 			List<List<Office>> partition = new ArrayList<List<Office>>();
 			List<Office> subOffices = new ArrayList<Office>();
@@ -187,7 +198,7 @@ public class ExcelToXmlConverter {
 			fop.flush();
 			fop.close();
 
-			System.out.println("Done");
+			//System.out.println("Done");
 
 		} catch (IOException e) {
 			e.printStackTrace();

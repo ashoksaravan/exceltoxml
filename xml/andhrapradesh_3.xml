@@ -1,230 +1,5 @@
 <offices>
   <office>
-    <name>Dosapadu</name>
-    <pinCode>521321</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Janardhanapuram</suboffice>
-    <headoffice>Gudivada</headoffice>
-    <location>Nandivada Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Dt.Court</name>
-    <pinCode>521002</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Machilipatnam</headoffice>
-    <location>Machilipatnam Taluk of Krishna District</location>
-    <telephone>08672-223837</telephone>
-  </office>
-  <office>
-    <name>Duggiralapadu</name>
-    <pinCode>521229</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>G Konduru</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Duggiralapadu</name>
-    <pinCode>521401</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Penugolanu</suboffice>
-    <headoffice>Nuzvid</headoffice>
-    <location>Penugolanu Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Dum Dum Gardens</name>
-    <pinCode>521201</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Nuzvid</headoffice>
-    <location>Nuzvid Taluk of Krishna District</location>
-    <telephone>08656-232722</telephone>
-  </office>
-  <office>
-    <name>Durga Agraharam</name>
-    <pinCode>520002</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Buckinghampet</headoffice>
-    <location>Vijayawada (Urban) Taluk of Krishna District</location>
-    <telephone>0866-242231</telephone>
-  </office>
-  <office>
-    <name>Durgapuram</name>
-    <pinCode>520003</pinCode>
-    <status>Sub Office(Non Delivery)</status>
-    <suboffice />
-    <headoffice>Vijayawada</headoffice>
-    <location>Vijayawada (Urban) Taluk of Krishna District</location>
-    <telephone>0866-2442241</telephone>
-  </office>
-  <office>
-    <name>Edara</name>
-    <pinCode>521211</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Aukiripalli</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Eddanapudi</name>
-    <pinCode>521136</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>K.P.Centre</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Movva Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Edlalanka</name>
-    <pinCode>521121</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Avanigadda</headoffice>
-    <location>Avanigadda Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Edulamaddali</name>
-    <pinCode>521148</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Elamarru</suboffice>
-    <headoffice>Gudivada</headoffice>
-    <location>Pedaparupudi Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Edupugallu</name>
-    <pinCode>521151</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kankipadu</suboffice>
-    <headoffice>Buckinghampet</headoffice>
-    <location>Kankipadu Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Edurumondi</name>
-    <pinCode>521120</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nagayalanka</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Nagayalanka Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Elakurru</name>
-    <pinCode>521156</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nidumolu</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Guduru Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Elamarru</name>
-    <pinCode>521148</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Gudivada</headoffice>
-    <location>Pedaparupudi Taluk of Krishna District</location>
-    <telephone>08674-256224</telephone>
-  </office>
-  <office>
-    <name>Ellapuram</name>
-    <pinCode>521207</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Musunuru</suboffice>
-    <headoffice>Nuzvid</headoffice>
-    <location>Musunuru Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Enamadala</name>
-    <pinCode>521201</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Nuzvid</headoffice>
-    <location>Nuzvid Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Endakuduru</name>
-    <pinCode>521131</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Lakshmipuram (Krishna)</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Ghantasala Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Enikepadu</name>
-    <pinCode>521108</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Ramavarappadu</suboffice>
-    <headoffice>Buckinghampet</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Erramadu</name>
-    <pinCode>521403</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gampalagudem</suboffice>
-    <headoffice>Nuzvid</headoffice>
-    <location>Gampalagudem Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Etimogga</name>
-    <pinCode>521120</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nagayalanka</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Nagayalanka Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Eturu</name>
-    <pinCode>521183</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Muppalla (Krishna)</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>G Konduru</name>
-    <pinCode>521229</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone>0866-2802228</telephone>
-  </office>
-  <office>
-    <name>Galigopuram</name>
-    <pinCode>521109</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Telaprolu</suboffice>
-    <headoffice>Nuzvid</headoffice>
-    <location>Telaprolu Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Gampalagudem</name>
-    <pinCode>521403</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Nuzvid</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Ganapavaram</name>
     <pinCode>521230</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -4689,96 +4464,6 @@
     <telephone>08674-259224</telephone>
   </office>
   <office>
-    <name>Vemulamada</name>
-    <pinCode>521135</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Movva</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Movva Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Vemulanarva</name>
-    <pinCode>521402</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Vatsavai</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Vemulapalli</name>
-    <pinCode>521185</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Nandigama</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Venaktapuram</name>
-    <pinCode>521130</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Pedakallepalli</suboffice>
-    <headoffice>Avanigadda</headoffice>
-    <location>Mopidevi Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Venkatapuram</name>
-    <pinCode>521344</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kalidindi</suboffice>
-    <headoffice>Gudivada</headoffice>
-    <location>Kalidindi Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Venkatapuram</name>
-    <pinCode>521230</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Mylavaram (Krishna)</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Venkatapuram</name>
-    <pinCode>521190</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Penuganchiprolu</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Venkateswarapuram</name>
-    <pinCode>520010</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Buckinghampet</headoffice>
-    <location>Vijayawada (Urban) Taluk of Krishna District</location>
-    <telephone>0866-2476299</telephone>
-  </office>
-  <office>
-    <name>Vennanapudi</name>
-    <pinCode>521321</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Janardhanapuram</suboffice>
-    <headoffice>Gudivada</headoffice>
-    <location>Nandivada Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Ventrapragada</name>
-    <pinCode>521263</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Gudivada</headoffice>
-    <location>Pedaparupudi Taluk of Krishna District</location>
-    <telephone>08674-259224</telephone>
-  </office>
-  <office>
     <name>Venturumilli</name>
     <pinCode>521332</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -6828,15 +6513,6 @@
     <suboffice>Jaladurgam</suboffice>
     <headoffice>Kurnool</headoffice>
     <location>Taluk of Kurnool District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Buruzula</name>
-    <pinCode>518380</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Pattikonda</suboffice>
-    <headoffice>Adoni</headoffice>
-    <location>Kurnool Taluk of Kurnool District</location>
     <telephone />
   </office>
   <office>
@@ -12664,15 +12340,6 @@
   </office>
   <office>
     <name>Virupapuram</name>
-    <pinCode>518347</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Aspari</suboffice>
-    <headoffice>Adoni</headoffice>
-    <location>Kurnool Taluk of Kurnool District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Virupapuram</name>
     <pinCode>518346</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Holalagondi</suboffice>
@@ -16489,11 +16156,11 @@
   </office>
   <office>
     <name>Laxmipally</name>
-    <pinCode>509104</pinCode>
+    <pinCode>509380</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Pebbair</suboffice>
-    <headoffice>Wanaparthy</headoffice>
-    <location>Veepangandla Taluk of Mahabub Nagar District</location>
+    <suboffice>Musapet</suboffice>
+    <headoffice>Mahabubnagar</headoffice>
+    <location>Taluk of Mahabub Nagar District</location>
     <telephone />
   </office>
   <office>
@@ -17340,15 +17007,6 @@
     <suboffice>Achampet</suboffice>
     <headoffice>Wanaparthy</headoffice>
     <location>Achampet Taluk of Mahabub Nagar District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Nagal Kadmoor</name>
-    <pinCode>509130</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Amerchinta</suboffice>
-    <headoffice>Gadwal</headoffice>
-    <location>Taluk of Mahabub Nagar District</location>
     <telephone />
   </office>
   <office>
@@ -20142,15 +19800,6 @@
     <telephone />
   </office>
   <office>
-    <name>Yedula</name>
-    <pinCode>509206</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Gopalpet</suboffice>
-    <headoffice>Wanaparthy</headoffice>
-    <location>Gopalpet Taluk of Mahabub Nagar District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Yedurepally</name>
     <pinCode>509406</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -20943,15 +20592,6 @@
     <telephone />
   </office>
   <office>
-    <name>Budhera</name>
-    <pinCode>502345</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Kamkole</suboffice>
-    <headoffice>Sangareddy</headoffice>
-    <location>Sadasivpet Taluk of Medak District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Bujrampet</name>
     <pinCode>502381</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -21137,15 +20777,6 @@
     <status>Branch Office(Delivery)</status>
     <suboffice>Kuknoorpally</suboffice>
     <headoffice>Siddipet</headoffice>
-    <location>Taluk of Medak District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Chinna Shivnoor</name>
-    <pinCode>502255</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Chegunta</suboffice>
-    <headoffice>Medak</headoffice>
     <location>Taluk of Medak District</location>
     <telephone />
   </office>
@@ -28733,15 +28364,6 @@
     <status>Branch Office(Delivery) directly a/w Head Office</status>
     <suboffice />
     <headoffice>Bhongir</headoffice>
-    <location>Taluk of Nalgonda District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Madhapur</name>
-    <pinCode>508116</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
-    <headoffice>Bhongir</headoffice>
     <location>Nalgonda Taluk of Nalgonda District</location>
     <telephone />
   </office>
@@ -29358,7 +28980,7 @@
     <telephone />
   </office>
   <office>
-    <name>Nandipahad</name>
+    <name>Naramma Gudem</name>
     <pinCode>508207</pinCode>
     <status>Branch Office(Delivery) directly a/w Head Office</status>
     <suboffice />
@@ -31420,15 +31042,6 @@
   </office>
   <office>
     <name>Utlapally</name>
-    <pinCode>508266</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Pedavoora</suboffice>
-    <headoffice>Nalgonda</headoffice>
-    <location>Nalgonda Taluk of Nalgonda District</location>
-    <telephone />
-  </office>
-  <office>
-    <name>Utlapally</name>
     <pinCode>508207</pinCode>
     <status>Branch Office(Delivery) directly a/w Head Office</status>
     <suboffice />
@@ -31496,6 +31109,393 @@
     <status>Branch Office(Delivery)</status>
     <suboffice>Nadigudem</suboffice>
     <headoffice>Suryapet</headoffice>
+    <location>Huzurnagar Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vanipakala</name>
+    <pinCode>508114</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chityala</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vankamamidi</name>
+    <pinCode>508284</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Pochampalli (Nalgonda)</suboffice>
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vasalmarry</name>
+    <pinCode>508116</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vasthakonduru</name>
+    <pinCode>508223</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Tirumalgiri</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Tirumalgiri Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vatti Khammam Pahad</name>
+    <pinCode>508213</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Suryapet</headoffice>
+    <location>Suryapet Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vattikode</name>
+    <pinCode>508255</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chandur (Nalgonda)</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vattimarthy</name>
+    <pinCode>508254</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Narketpalli</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vattiparthy</name>
+    <pinCode>508245</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Marriguda</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vavikole</name>
+    <pinCode>508258</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Dindi Project</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Veeraboinapally</name>
+    <pinCode>508258</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Dindi Project</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Veerareddypally</name>
+    <pinCode>508116</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Veeravally</name>
+    <pinCode>508116</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Veerlapalem</name>
+    <pinCode>508207</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Miryalguda</headoffice>
+    <location>Miryalguda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velamjala</name>
+    <pinCode>508101</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Alair</suboffice>
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Veldevi</name>
+    <pinCode>508277</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Mothcore</suboffice>
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velicharla</name>
+    <pinCode>508223</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Tirumalgiri</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Tirumalgiri Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velidanda</name>
+    <pinCode>508201</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Garidepally</suboffice>
+    <headoffice>Miryalguda</headoffice>
+    <location>Huzurnagar Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Veliminedu</name>
+    <pinCode>508114</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Chityala</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vellatoor</name>
+    <pinCode>508246</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Medlacheruvu</suboffice>
+    <headoffice>Miryalguda</headoffice>
+    <location>Huzurnagar Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velmaguda</name>
+    <pinCode>508266</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Pedavoora</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velmakanne</name>
+    <pinCode>508253</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Narayanpur (Nalgonda)</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velugupally</name>
+    <pinCode>508280</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Thungathurthi</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Thungathurthi Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Velwarthy</name>
+    <pinCode>508112</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Valigonda</suboffice>
+    <headoffice>Bhongir</headoffice>
+    <location>Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vempahad</name>
+    <pinCode>508278</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nidmanoor</suboffice>
+    <headoffice>Miryalguda</headoffice>
+    <location>Miryalguda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vempati</name>
+    <pinCode>508280</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Thungathurthi</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Thungathurthi Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vemulakonda</name>
+    <pinCode>508112</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Valigonda</suboffice>
+    <headoffice>Bhongir</headoffice>
+    <location>Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vemulapally</name>
+    <pinCode>508217</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Miryalguda</headoffice>
+    <location>Miryalguda Taluk of Nalgonda District</location>
+    <telephone>08689-258330</telephone>
+  </office>
+  <office>
+    <name>Venkampeta</name>
+    <pinCode>508373</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nampalli</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Venkatadri Palem</name>
+    <pinCode>508207</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Miryalguda</headoffice>
+    <location>Miryalguda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Venkateshwara Nagar</name>
+    <pinCode>508245</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Marriguda</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Marriguda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Venkatpur</name>
+    <pinCode>508116</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Bhongir</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Venkatramapuram</name>
+    <pinCode>508206</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kodad</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Huzurnagar Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Venkepally</name>
+    <pinCode>508222</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Thimmapur</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Suryapet Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Venugopalapuram</name>
+    <pinCode>508234</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nadigudem</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Huzurnagar Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vibhalapuram</name>
+    <pinCode>508212</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Sirikonda (Nalgonda)</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Suryapet Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vijaya Raghavapuram</name>
+    <pinCode>508213</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Suryapet</headoffice>
+    <location>Suryapet Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Vijayapuri North</name>
+    <pinCode>508202</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Hill Colony</suboffice>
+    <headoffice>Nalgonda</headoffice>
+    <location>Nalgonda Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Wadapally</name>
+    <pinCode>508355</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Miryalguda</headoffice>
+    <location>Miryalguda Taluk of Nalgonda District</location>
+    <telephone>-</telephone>
+  </office>
+  <office>
+    <name>Wadaparthy</name>
+    <pinCode>508116</pinCode>
+    <status>Branch Office(Delivery) directly a/w Head Office</status>
+    <suboffice />
+    <headoffice>Bhongir</headoffice>
+    <location>Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Wangamarthy</name>
+    <pinCode>508210</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Vallala</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Nakrekal Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Wangapalli</name>
+    <pinCode>508286</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Bhongir</headoffice>
+    <location>Bhongir Taluk of Nalgonda District</location>
+    <telephone>-</telephone>
+  </office>
+  <office>
+    <name>Wardhamankota</name>
+    <pinCode>508279</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Phanigiri</suboffice>
+    <headoffice>Suryapet</headoffice>
+    <location>Thungathurthy Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Wardhapuram</name>
+    <pinCode>508204</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Huzurnagar</suboffice>
+    <headoffice>Miryalguda</headoffice>
     <location>Huzurnagar Taluk of Nalgonda District</location>
     <telephone />
   </office>

@@ -2259,12 +2259,12 @@
     <telephone />
   </office>
   <office>
-    <name>Khajjiar</name>
-    <pinCode>176314</pinCode>
+    <name>Khani</name>
+    <pinCode>176309</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Sultanpur (Chamba)</suboffice>
+    <suboffice>Garola</suboffice>
     <headoffice>Chamba</headoffice>
-    <location>Chamba Taluk of Chamba District</location>
+    <location>Bharmour Taluk of Chamba District</location>
     <telephone />
   </office>
   <office>
@@ -6660,12 +6660,12 @@
     <telephone />
   </office>
   <office>
-    <name>Dahab</name>
-    <pinCode>176051</pinCode>
+    <name>Dain</name>
+    <pinCode>176101</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Raja Ka Talab</suboffice>
-    <headoffice>Kangra</headoffice>
-    <location>Jawali Taluk of Kangra District</location>
+    <suboffice>Dheera</suboffice>
+    <headoffice>Palampur</headoffice>
+    <location>Palampur Taluk of Kangra District</location>
     <telephone />
   </office>
   <office>
@@ -10242,12 +10242,12 @@
     <telephone />
   </office>
   <office>
-    <name>Saliana</name>
-    <pinCode>176103</pinCode>
+    <name>Salihar</name>
+    <pinCode>176031</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Panchrukhi</suboffice>
-    <headoffice>Palampur</headoffice>
-    <location>Baijnath Taluk of Kangra District</location>
+    <suboffice>Jawalamukhi</suboffice>
+    <headoffice>Dehra</headoffice>
+    <location>Khundian Taluk of Kangra District</location>
     <telephone />
   </office>
   <office>
@@ -14328,13 +14328,13 @@
     <telephone />
   </office>
   <office>
-    <name>Churad</name>
-    <pinCode>175018</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Sunder Nagar-1</suboffice>
+    <name>Churag</name>
+    <pinCode>175010</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Sunder Nagar Town Ship</headoffice>
-    <location>Sunder Nagar Taluk of Mandi District</location>
-    <telephone />
+    <location>Karsog Taluk of Mandi District</location>
+    <telephone>01907-224017</telephone>
   </office>
   <office>
     <name>Dabhan</name>
@@ -17217,12 +17217,12 @@
     <telephone />
   </office>
   <office>
-    <name>Bharanu</name>
-    <pinCode>171210</pinCode>
+    <name>Bharara</name>
+    <pinCode>171018</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Nerwa</suboffice>
+    <suboffice>Basanatpur</suboffice>
     <headoffice>Shimla.</headoffice>
-    <location>Chopal Taluk of Shimla District</location>
+    <location>Suni Taluk of Shimla District</location>
     <telephone />
   </office>
   <office>
@@ -20799,12 +20799,12 @@
     <telephone />
   </office>
   <office>
-    <name>Kando Bhatnaul</name>
-    <pinCode>173027</pinCode>
+    <name>Kangta Failag</name>
+    <pinCode>173022</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Shillai</suboffice>
+    <suboffice>Dadahu</suboffice>
     <headoffice>Nahan</headoffice>
-    <location>Shilla Taluk of Sirmaur District</location>
+    <location>Sangrah Taluk of Sirmaur District</location>
     <telephone />
   </office>
   <office>
@@ -21312,13 +21312,13 @@
     <telephone />
   </office>
   <office>
-    <name>Rajana</name>
-    <pinCode>173023</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Sangrah</suboffice>
+    <name>Rajban</name>
+    <pinCode>173028</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
     <headoffice>Nahan</headoffice>
-    <location>Sangarh Taluk of Sirmaur District</location>
-    <telephone />
+    <location>Paonta Taluk of Sirmaur District</location>
+    <telephone>01704-266122</telephone>
   </office>
   <office>
     <name>Rajgarh (Siramur)</name>
@@ -22248,12 +22248,12 @@
     <telephone />
   </office>
   <office>
-    <name>Galanag</name>
-    <pinCode>173212</pinCode>
-    <status>Branch Office(Delivery) directly a/w Head Office</status>
-    <suboffice />
+    <name>Galote</name>
+    <pinCode>174101</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Nalagarh</suboffice>
     <headoffice>Solan</headoffice>
-    <location>Taluk of Solan District</location>
+    <location></location>
     <telephone />
   </office>
   <office>
@@ -22293,12 +22293,12 @@
     <telephone />
   </office>
   <office>
-    <name>Gharsi</name>
-    <pinCode>173206</pinCode>
+    <name>Ghatti</name>
+    <pinCode>173211</pinCode>
     <status>Branch Office(Delivery)</status>
-    <suboffice>Subathu</suboffice>
+    <suboffice>Saproon</suboffice>
     <headoffice>Solan</headoffice>
-    <location>Taluk of Solan District</location>
+    <location>Solan Taluk of Solan District</location>
     <telephone />
   </office>
   <office>
@@ -22912,15 +22912,6 @@
     <headoffice>Solan</headoffice>
     <location>Taluk of Solan District</location>
     <telephone>01795-220230</telephone>
-  </office>
-  <office>
-    <name>Nand Karlata</name>
-    <pinCode>174102</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Ramshahar</suboffice>
-    <headoffice>Solan</headoffice>
-    <location>Ramsheher Taluk of Solan District</location>
-    <telephone />
   </office>
   <office>
     <name>Nand Karlata</name>
@@ -24552,7 +24543,7 @@
     <telephone />
   </office>
   <office>
-    <name>Nangal Khurd</name>
+    <name>Nangal Kalan</name>
     <pinCode>174301</pinCode>
     <status>Branch Office(Delivery)</status>
     <suboffice>Santokhgarh</suboffice>
@@ -24651,13 +24642,13 @@
     <telephone>01975-203813</telephone>
   </office>
   <office>
-    <name>Pandogha</name>
-    <pinCode>177207</pinCode>
+    <name>Panjawar</name>
+    <pinCode>177208</pinCode>
     <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Una</headoffice>
-    <location>Una(T) Taluk of Una District</location>
-    <telephone>01975-203813</telephone>
+    <location>Haroli Taluk of Una District</location>
+    <telephone>01975-287099</telephone>
   </office>
   <office>
     <name>Panjoa Ladoli</name>
