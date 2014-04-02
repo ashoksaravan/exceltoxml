@@ -14076,15 +14076,6 @@
     <telephone />
   </office>
   <office>
-    <name>Chavarambakam</name>
-    <pinCode></pinCode>
-    <status></status>
-    <suboffice />
-    <headoffice />
-    <location></location>
-    <telephone />
-  </office>
-  <office>
     <name>Chedalla</name>
     <pinCode>517247</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -31498,5 +31489,14 @@
     <headoffice>Amalapuram</headoffice>
     <location>I.polavaram Taluk of East Godavari District</location>
     <telephone />
+  </office>
+  <office>
+    <name>Kesanakurrupalem</name>
+    <pinCode>533220</pinCode>
+    <status>Sub Office(Delivery)</status>
+    <suboffice />
+    <headoffice>Amalapuram</headoffice>
+    <location>I.polavaram Mandal Taluk of East Godavari District</location>
+    <telephone>08856-277122</telephone>
   </office>
 </offices>

@@ -23013,15 +23013,6 @@
     <telephone />
   </office>
   <office>
-    <name>Mahe</name>
-    <pinCode>673310</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Vadakara</headoffice>
-    <location>Vadakara Taluk of Kozhikode District</location>
-    <telephone>0490-2332230</telephone>
-  </office>
-  <office>
     <name>Maikavu</name>
     <pinCode>673573</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -31498,5 +31489,14 @@
     <headoffice>Alathur Mbr</headoffice>
     <location>Alathur Taluk of Palakkad District</location>
     <telephone>04922-2232225</telephone>
+  </office>
+  <office>
+    <name>Palaniyarpalayam</name>
+    <pinCode>678555</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Kozhinjampara</suboffice>
+    <headoffice>Palakkad</headoffice>
+    <location>Chittur Taluk of Palakkad District</location>
+    <telephone />
   </office>
 </offices>

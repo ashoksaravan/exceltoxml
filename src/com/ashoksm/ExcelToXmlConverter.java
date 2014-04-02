@@ -18,6 +18,8 @@ import org.apache.poi.ss.usermodel.Row;
 import com.thoughtworks.xstream.XStream;
 
 public class ExcelToXmlConverter {
+	
+	private static Map<String, Office> offMap = new HashMap<String, Office>();
 
 	/**
 	 * @param args
@@ -123,7 +125,6 @@ public class ExcelToXmlConverter {
 	 * @param stateName
 	 */
 	private static void writeFile(List<Office> offices, String stateName, String dest) {
-		Map<String, Office> offMap = new HashMap<String, Office>();
 		for (Office office : offices) {
 			String key = office.getPinCode() + office.getName();
 			if(offMap.containsKey(key)) {

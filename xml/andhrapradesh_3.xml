@@ -1,14 +1,5 @@
 <offices>
   <office>
-    <name>Ganapavaram</name>
-    <pinCode>521230</pinCode>
-    <status>Branch Office(Delivery)</status>
-    <suboffice>Mylavaram (Krishna)</suboffice>
-    <headoffice>Vijayawada</headoffice>
-    <location>Krishna Taluk of Krishna District</location>
-    <telephone />
-  </office>
-  <office>
     <name>Ganapeswaram</name>
     <pinCode>521120</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -31496,6 +31487,15 @@
     <status>Branch Office(Delivery)</status>
     <suboffice>Huzurnagar</suboffice>
     <headoffice>Miryalguda</headoffice>
+    <location>Huzurnagar Taluk of Nalgonda District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>X Roads, Kodad</name>
+    <pinCode>508206</pinCode>
+    <status>Branch Office(Non Delivery)</status>
+    <suboffice>Kodad</suboffice>
+    <headoffice>Suryapet</headoffice>
     <location>Huzurnagar Taluk of Nalgonda District</location>
     <telephone />
   </office>

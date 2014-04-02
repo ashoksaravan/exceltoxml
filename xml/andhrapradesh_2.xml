@@ -1,14 +1,5 @@
 <offices>
   <office>
-    <name>Kesanakurrupalem</name>
-    <pinCode>533220</pinCode>
-    <status>Sub Office(Delivery)</status>
-    <suboffice />
-    <headoffice>Amalapuram</headoffice>
-    <location>I.polavaram Mandal Taluk of East Godavari District</location>
-    <telephone>08856-277122</telephone>
-  </office>
-  <office>
     <name>Kesanapalli</name>
     <pinCode>533244</pinCode>
     <status>Branch Office(Delivery)</status>
@@ -31496,6 +31487,15 @@
     <status>Sub Office(Delivery)</status>
     <suboffice />
     <headoffice>Nuzvid</headoffice>
+    <location>Krishna Taluk of Krishna District</location>
+    <telephone />
+  </office>
+  <office>
+    <name>Ganapavaram</name>
+    <pinCode>521230</pinCode>
+    <status>Branch Office(Delivery)</status>
+    <suboffice>Mylavaram (Krishna)</suboffice>
+    <headoffice>Vijayawada</headoffice>
     <location>Krishna Taluk of Krishna District</location>
     <telephone />
   </office>

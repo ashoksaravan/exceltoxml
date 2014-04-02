@@ -10,7 +10,7 @@ import com.thoughtworks.xstream.XStream;
 
 public class XmlToSQLConverter {
 
-	private static String sql = "INSERT INTO post_office_t VALUES('<OfficeName>', <Pincode>, '<Status>', '<SubOffice>', '<HeadOffice>', '<Location>', '<District>', '<State>', '<Telephone>');";
+	private static String sql = "INSERT INTO post_office_t VALUES('<OfficeName>', <Pincode>, '<District>', '<State>', '<Status>', '<SubOffice>', '<HeadOffice>', '<Location>', '<Telephone>');";
 
 	public static void main(String[] args) throws IOException {
 		XStream xStream = new XStream();
