@@ -5,14 +5,27 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.ss.usermodel.Row;
 
 import com.thoughtworks.xstream.XStream;
 
 public class XmlToSQLConverter {
 
-	private static String sql = "INSERT INTO post_office_t VALUES('<OfficeName>', <Pincode>, '<District>', '<State>', '<Status>', '<SubOffice>', '<HeadOffice>', '<Location>', '<Telephone>');";
+	private static final String SQL = "INSERT INTO post_office_t VALUES('<OfficeName>', <Pincode>, <District>, <State>, '<Status>', '<SubOffice>', '<HeadOffice>', <Location>, '<Telephone>');";
+
+	private static final Map<String, String> DISTRICT_MAP = new HashMap<String, String>();
+
+	private static final Map<String, String> LOCATION_MAP = new HashMap<String, String>();
 
 	public static void main(String[] args) throws IOException {
+		getDistrictCode();
+		getLocationCode();
 		XStream xStream = new XStream();
 		xStream.alias("office", Office.class);
 		xStream.alias("offices", Offices.class);
@@ -27,20 +40,18 @@ public class XmlToSQLConverter {
 			for (Office office : offices.getOffices()) {
 				String line = null;
 				try {
-				line = sql
-						.replaceAll("<OfficeName>", office.getName().trim().replaceAll("'", "''"))
-						.replaceAll("<Pincode>", office.getPinCode())
-						.replaceAll("<Status>", office.getStatus().trim().replaceAll("'", "''"))
-						.replaceAll("<HeadOffice>", office.getHeadoffice().trim().replaceAll("'", "''"))
-						.replaceAll("<SubOffice>", office.getSuboffice().trim().replaceAll("'", "''"))
-						.replaceAll("<Location>", office.getLocation().trim().replaceAll("'", "''"))
-						.replaceAll("<Telephone>", office.getTelephone().trim())
-						.replaceAll("<State>", getStateName(state.getName()))
-						.replaceAll(
-								"<District>",
-								office.getLocation().substring(
-										office.getLocation().toLowerCase().indexOf("taluk of ") + 9,
-										office.getLocation().toLowerCase().indexOf("district")));
+					String districtName = office.getLocation().substring(
+							office.getLocation().toLowerCase().indexOf("taluk of ") + 9,
+							office.getLocation().toLowerCase().indexOf("district"));
+					String stateCode = getStateCode(state.getName());
+					line = SQL.replaceAll("<OfficeName>", office.getName().trim().replaceAll("'", "''"))
+							.replaceAll("<Pincode>", office.getPinCode())
+							.replaceAll("<Status>", office.getStatus().trim().replaceAll("'", "''"))
+							.replaceAll("<HeadOffice>", office.getHeadoffice().trim().replaceAll("'", "''"))
+							.replaceAll("<SubOffice>", office.getSuboffice().trim().replaceAll("'", "''"))
+							.replaceAll("<Location>", LOCATION_MAP.get(office.getLocation().trim()))
+							.replaceAll("<Telephone>", office.getTelephone().trim()).replaceAll("<State>", stateCode)
+							.replaceAll("<District>", DISTRICT_MAP.get(districtName.trim()));
 				} catch (Exception ex) {
 					ex.printStackTrace();
 					System.out.println("In exception ::::: " + office.getName() + "::::" + office.getLocation());
@@ -53,79 +64,68 @@ public class XmlToSQLConverter {
 		}
 	}
 
-	private static String getStateName(String xmlName) {
-		String stateName = null;
-		if (xmlName.contains("andamanandnicobarislands")) {
-			stateName = "Andaman and Nicobar Islands";
-		} else if (xmlName.contains("andhrapradesh")) {
-			stateName = "Andhra Pradesh";
-		} else if (xmlName.contains("arunachalpradesh")) {
-			stateName = "Arunachal Pradesh";
-		} else if (xmlName.contains("chandigarh")) {
-			stateName = "Chandigarh";
-		} else if (xmlName.contains("dadraandnagarhaveli")) {
-			stateName = "Dadra and Nagar Haveli";
-		} else if (xmlName.contains("damananddiu")) {
-			stateName = "Daman and Diu";
-		} else if (xmlName.contains("delhi")) {
-			stateName = "Delhi";
-		} else if (xmlName.contains("goa")) {
-			stateName = "Goa";
-		} else if (xmlName.contains("karnataka")) {
-			stateName = "Karnataka";
-		} else if (xmlName.contains("kerala")) {
-			stateName = "Kerala";
-		} else if (xmlName.contains("lakshadweep")) {
-			stateName = "Lakshadweep";
-		} else if (xmlName.contains("manipur")) {
-			stateName = "Manipur";
-		} else if (xmlName.contains("meghalaya")) {
-			stateName = "Meghalaya";
-		} else if (xmlName.contains("mizoram")) {
-			stateName = "Mizoram";
-		} else if (xmlName.contains("nagaland")) {
-			stateName = "Nagaland";
-		} else if (xmlName.contains("puducherry")) {
-			stateName = "Puducherry";
-		} else if (xmlName.contains("sikkim")) {
-			stateName = "Sikkim";
-		} else if (xmlName.contains("tamilnadu")) {
-			stateName = "Tamil Nadu";
-		} else if (xmlName.contains("tripura")) {
-			stateName = "Tripura";
-		} else if (xmlName.contains("maharashtra")) {
-			stateName = "Maharashtra";
-		} else if (xmlName.contains("jammuandkashmir")) {
-			stateName = "Jammu And Kashmir";
-		} else if (xmlName.contains("westbengal")) {
-			stateName = "West Bengal";
-		} else if (xmlName.contains("assam")) {
-			stateName = "Assam";
-		} else if (xmlName.contains("haryana")) {
-			stateName = "Haryana";
-		} else if (xmlName.contains("himachalpradesh")) {
-			stateName = "Himachal Pradesh";
-		} else if (xmlName.contains("chattisgarh")) {
-			stateName = "Chattisgarh";
-		} else if (xmlName.contains("jharkhand")) {
-			stateName = "Jharkhand";
-		} else if (xmlName.contains("punjab")) {
-			stateName = "Punjab";
-		}  else if (xmlName.contains("uttarakhand")) {
-			stateName = "Uttarakhand";
-		} else if (xmlName.contains("bihar")) {
-			stateName = "Bihar";
-		} else if (xmlName.contains("gujarat")) {
-			stateName = "Gujarat";
-		} else if (xmlName.contains("madhyapradesh")) {
-			stateName = "Madhya Pradesh";
-		} else if (xmlName.contains("odisha")) {
-			stateName = "Odisha";
-		} else if (xmlName.contains("uttarpradesh")) {
-			stateName = "Uttar Pradesh";
-		}  else if (xmlName.contains("rajasthan")) {
-			stateName = "Rajasthan";
+	private static String getStateCode(String xmlName) throws IOException {
+		File stateExcel = new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\states.xls");
+
+		FileInputStream file = new FileInputStream(stateExcel);
+
+		// Get the workbook instance for XLS file
+		HSSFWorkbook workbook = new HSSFWorkbook(file);
+
+		// Get first sheet from the workbook
+		HSSFSheet sheet = workbook.getSheetAt(0);
+
+		// Iterate through each rows from first sheet
+		Iterator<Row> rowIterator = sheet.iterator();
+		while (rowIterator.hasNext()) {
+			Row row = rowIterator.next();
+			String stateName = row.getCell(1).getStringCellValue().replaceAll(" ", "").toLowerCase();
+			if (xmlName.contains(stateName)) {
+				return String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue());
+			}
 		}
-		return stateName;
+		return null;
+	}
+
+	private static void getDistrictCode() throws IOException {
+		File root = new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\Districts");
+		for (final File district : root.listFiles()) {
+
+			FileInputStream file = new FileInputStream(district);
+
+			// Get the workbook instance for XLS file
+			HSSFWorkbook workbook = new HSSFWorkbook(file);
+
+			// Get first sheet from the workbook
+			HSSFSheet sheet = workbook.getSheetAt(0);
+
+			// Iterate through each rows from first sheet
+			Iterator<Row> rowIterator = sheet.iterator();
+			while (rowIterator.hasNext()) {
+				Row row = rowIterator.next();
+				String stateName = row.getCell(2).getStringCellValue().trim();
+				DISTRICT_MAP
+				.put(stateName, String.valueOf(new Double(row.getCell(1).getNumericCellValue()).intValue()));
+			}
+		}
+	}
+
+	private static void getLocationCode() throws IOException {
+		File stateExcel = new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\locations.xls");
+		FileInputStream file = new FileInputStream(stateExcel);
+
+		// Get the workbook instance for XLS file
+		HSSFWorkbook workbook = new HSSFWorkbook(file);
+
+		// Get first sheet from the workbook
+		HSSFSheet sheet = workbook.getSheetAt(0);
+
+		// Iterate through each rows from first sheet
+		Iterator<Row> rowIterator = sheet.iterator();
+		while (rowIterator.hasNext()) {
+			Row row = rowIterator.next();
+			String stateName = row.getCell(1).getStringCellValue().trim();
+			LOCATION_MAP.put(stateName, String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue()));
+		}
 	}
 }
