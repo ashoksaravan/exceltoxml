@@ -1,0 +1,47 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Bangalore</name>
+    <city>Bangalore</city>
+    <address>S.N. Towers, 25/2 M.G. Road, Bangalore 560 001</address>
+    <contact>080-25581415</contact>
+    <micrCode>560239002</micrCode>
+    <ifscCode>NOSC0000BLR</ifscCode>
+    <bankLoc>3022</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Coimabatore</name>
+    <city>Coimbaotore</city>
+    <address>Classic Towers, 1547 Trichy Road, Coimbatore, 641 018</address>
+    <contact>044-22303404</contact>
+    <micrCode>641239002</micrCode>
+    <ifscCode>NOSC0000CJB</ifscCode>
+    <bankLoc>3025</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi</name>
+    <city>New Delhi</city>
+    <address>Ground Floor, Dr. Gopal Das Bhavan, Bharakambha Road, New Delhi 110 001</address>
+    <contact>011-23351522</contact>
+    <micrCode>110239002</micrCode>
+    <ifscCode>NOSC0000DEL</ifscCode>
+    <bankLoc>3024</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hyderabad</name>
+    <city>Hyderabad</city>
+    <address>6-3-346/1 Roadno. 1, Banjara Hills, Hyderabad 500 034</address>
+    <contact>040-23372265</contact>
+    <micrCode>500239001</micrCode>
+    <ifscCode>NOSC0000HYD</ifscCode>
+    <bankLoc>3021</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nariman Point</name>
+    <city>Mumbai</city>
+    <address>B&apos; Wing Mittal Tower , Gr Floor, Nariman Point , Mumbai - 21</address>
+    <contact>022-66364266</contact>
+    <micrCode>400239002</micrCode>
+    <ifscCode>NOSC0000MUM</ifscCode>
+    <bankLoc>3023</bankLoc>
+  </bankbranch>
+</bankBranchs>

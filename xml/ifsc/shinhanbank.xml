@@ -1,0 +1,29 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Shinhan Bank Mumbai</name>
+    <city>Mumbai</city>
+    <address>402,Jolly Maker Chamber Ii, 4th Floor, 255, Nariman Point, Mumbai - 400 021. India.</address>
+    <contact>Mr. Merwyn Goves</contact>
+    <micrCode>400659002</micrCode>
+    <ifscCode>SHBK0000003</ifscCode>
+    <bankLoc>11710</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shinhan Bank New Delhi</name>
+    <city>Mumbai</city>
+    <address>Upper Ground Floor, Mercantile House, 15,Kasturba Gandhi Marg, New Delhi - 110 001</address>
+    <contact>Mr. Raj Mohan</contact>
+    <micrCode>110017254</micrCode>
+    <ifscCode>SHBK0000004</ifscCode>
+    <bankLoc>11711</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Walajapet Branch</name>
+    <city>Vellore</city>
+    <address>No.8, Thirumalai Mudali Street, Walajapet - 632 513, Vellore District, Tamilnadu.</address>
+    <contact></contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SHBK0000005</ifscCode>
+    <bankLoc>11712</bankLoc>
+  </bankbranch>
+</bankBranchs>

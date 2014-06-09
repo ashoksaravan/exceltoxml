@@ -17,15 +17,18 @@ import com.thoughtworks.xstream.XStream;
 
 public class XmlToSQLConverter {
 
-	private static final String SQL = "INSERT INTO post_office_t VALUES('<OfficeName>', <Pincode>, <District>, <State>, '<Status>', '<SubOffice>', '<HeadOffice>', <Location>, '<Telephone>');";
+	private static final String SQL = "INSERT INTO post_office_t VALUES('<OfficeName>', <Pincode>, <District>, <State>, <Status>, '<SubOffice>', '<HeadOffice>', <Location>, '<Telephone>');";
 
 	private static final Map<String, String> DISTRICT_MAP = new HashMap<String, String>();
 
 	private static final Map<String, String> LOCATION_MAP = new HashMap<String, String>();
+	
+	private static final Map<String, String> STATUS_MAP = new HashMap<String, String>();
 
 	public static void main(String[] args) throws IOException {
 		getDistrictCode();
 		getLocationCode();
+		getStatusCode();
 		XStream xStream = new XStream();
 		xStream.alias("office", Office.class);
 		xStream.alias("offices", Offices.class);
@@ -46,7 +49,7 @@ public class XmlToSQLConverter {
 					String stateCode = getStateCode(state.getName());
 					line = SQL.replaceAll("<OfficeName>", office.getName().trim().replaceAll("'", "''"))
 							.replaceAll("<Pincode>", office.getPinCode())
-							.replaceAll("<Status>", office.getStatus().trim().replaceAll("'", "''"))
+							.replaceAll("<Status>", STATUS_MAP.get(office.getStatus().trim()))
 							.replaceAll("<HeadOffice>", office.getHeadoffice().trim().replaceAll("'", "''"))
 							.replaceAll("<SubOffice>", office.getSuboffice().trim().replaceAll("'", "''"))
 							.replaceAll("<Location>", LOCATION_MAP.get(office.getLocation().trim()))
@@ -127,5 +130,16 @@ public class XmlToSQLConverter {
 			String stateName = row.getCell(1).getStringCellValue().trim();
 			LOCATION_MAP.put(stateName, String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue()));
 		}
+	}
+	
+	private static void getStatusCode() throws IOException {
+			STATUS_MAP.put("Branch Office(Non Delivery)", "1");
+			STATUS_MAP.put("Sub Office(Non Delivery)", "2");
+			STATUS_MAP.put("Sub Office(Delivery)", "3");
+			STATUS_MAP.put("Branch Office(Delivery) directly a/w Head Office", "4");
+			STATUS_MAP.put("Head Office(Delivery)", "5");
+			STATUS_MAP.put("Branch Office(Delivery)", "6");
+			STATUS_MAP.put("Branch Office(Non Delivery) directly a/w Head Office", "7");
+			STATUS_MAP.put("Head Office(Non Delivery)", "8");
 	}
 }

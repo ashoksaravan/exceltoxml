@@ -1,0 +1,20 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Mumbai Branch</name>
+    <city>Mumbai</city>
+    <address>75, Rehmat Manzil, Veer Nariman Road, Churchgate, Mumbai - 400020</address>
+    <contact>022-22855658</contact>
+    <micrCode>400269002</micrCode>
+    <ifscCode>ADCB0000001</ifscCode>
+    <bankLoc>19</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore Branch</name>
+    <city>Bangalore</city>
+    <address>Citi Centre, No.28, Church Street, Bangalore-560001</address>
+    <contact>080-25582000</contact>
+    <micrCode>560269002</micrCode>
+    <ifscCode>ADCB0000002</ifscCode>
+    <bankLoc>18</bankLoc>
+  </bankbranch>
+</bankBranchs>

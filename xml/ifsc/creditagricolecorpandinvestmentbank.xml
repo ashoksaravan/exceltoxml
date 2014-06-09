@@ -1,0 +1,56 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Newdelhi</name>
+    <city>Newdelhi</city>
+    <address>Birla Tower&apos; 6th Flr., Barakhamba Road,Newdelhi-110001</address>
+    <contact>Vishal Vedi, Geetanjali Kalra</contact>
+    <micrCode>110240252</micrCode>
+    <ifscCode>CRLY0000002</ifscCode>
+    <bankLoc>5117</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmedabad</name>
+    <city>Ahmedabad</city>
+    <address>Abhijeet, 1st Flr., Mithakali Cross Road, Ahmedabad-380006</address>
+    <contact>Amit Somani</contact>
+    <micrCode>380151002</micrCode>
+    <ifscCode>CRLY0000003</ifscCode>
+    <bankLoc>5113</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai</name>
+    <city>Chennai</city>
+    <address>Dbs Westminster Bldg.,2nd Flr,108 Radhakrishnan Salai,Mylapore, Chennai-600004</address>
+    <contact>S.Ram, L.Sharmila</contact>
+    <micrCode>600151001</micrCode>
+    <ifscCode>CRLY0000004</ifscCode>
+    <bankLoc>5118</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore</name>
+    <city>Bangalore</city>
+    <address>106,Prestige Towers,Fm K.M.Cariappa Road,Residency Road,B&apos;Lore-560025</address>
+    <contact>Chandrashekar,Anisha,Anitha</contact>
+    <micrCode>560240251</micrCode>
+    <ifscCode>CRLY0000005</ifscCode>
+    <bankLoc>5114</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>A-203,2nd Flr.,Icc Trade Tower A -Wing, Senapati Bapat Road,Pune-400016</address>
+    <contact>Shilpa,Ravi</contact>
+    <micrCode>411240252</micrCode>
+    <ifscCode>CRLY0000006</ifscCode>
+    <bankLoc>5116</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mumbai</name>
+    <city>Mumbai</city>
+    <address>11th Flr, Hoechst House,Nariman Point,Mumbai-400021</address>
+    <contact>Sreeram,Gangadharan</contact>
+    <micrCode>400151002</micrCode>
+    <ifscCode>CRLY0000010</ifscCode>
+    <bankLoc>5115</bankLoc>
+  </bankbranch>
+</bankBranchs>

@@ -1,0 +1,542 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Bardoli City Branch</name>
+    <city>Bardoli</city>
+    <address>Sardar Chowk, Tal-Bardoli, Dist.-Surat-394160</address>
+    <contact>02622-220030</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000002</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandvi Branch</name>
+    <city>Mandvi</city>
+    <address>Main Road, Tal-Mandvi, Surat-394340</address>
+    <contact>02623-221038</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000003</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Madhi Branch</name>
+    <city>Madhi</city>
+    <address>Bazar Falia, Tal-Bardoli, Surat-394340</address>
+    <contact>02622-242050</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000004</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Olpad Branch</name>
+    <city>Olpad</city>
+    <address>Main Road, (Market), Tal-Olpad, Surat-394540</address>
+    <contact>02621-222039</contact>
+    <micrCode>395244024</micrCode>
+    <ifscCode>SDCB0000005</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vyara Branch</name>
+    <city>Vyara</city>
+    <address>Surat Bazar, Tal-Vyara, Tapi-394650</address>
+    <contact>02626-220047</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000006</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kosamba Branch</name>
+    <city>Kosamba</city>
+    <address>Nava Bazar, Tal-Mangrol, Surat-694120</address>
+    <contact>02629-231254</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000007</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Songadh Branch</name>
+    <city>Songadh</city>
+    <address>Junagam, Tal-Songadh, Tapi -394670</address>
+    <contact>02624-222047</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000008</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mahuva Branch</name>
+    <city>Mahuva</city>
+    <address>Parshi Wad, Tal-Mahuva, Surat-394250</address>
+    <contact>02625-255724</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000009</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nizar Branch</name>
+    <city>Nizar</city>
+    <address>Near Agriculture Product Market, Tal-Nizar, Tapi - 394370</address>
+    <contact>02628-244227</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000010</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kathor Branch</name>
+    <city>Kathor</city>
+    <address>Kanbiwad, Tal-Kamrej, Surat-394602</address>
+    <contact>02621-256229</contact>
+    <micrCode>395244028</micrCode>
+    <ifscCode>SDCB0000011</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bardoli Station Branch</name>
+    <city>Bardoli</city>
+    <address>Station Road, Tal-Bardoli, Surat-395003</address>
+    <contact>02622-225143</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000012</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Surat Station Branch</name>
+    <city>Surat</city>
+    <address>Near Ru-Bhavan Ghabani Hospital, Tal-Choryashi, Surat-395003</address>
+    <contact>0261-2427853</contact>
+    <micrCode>395244013</micrCode>
+    <ifscCode>SDCB0000013</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Valod Branch</name>
+    <city>Valod</city>
+    <address>Paragvad Bus Stop, Tal-Valod, Tapi - 394640</address>
+    <contact>02625-222039</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000014</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Uchhal Branch</name>
+    <city>Uchhal</city>
+    <address>Main Bazar, Tal-Uchhal, Tapi - 394375</address>
+    <contact>02628-231101</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000015</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chalthan Branch</name>
+    <city>Chalthan</city>
+    <address>Chalthan Sugar Factory Compound, Tal-Palsana, Surat-394305</address>
+    <contact>02622-281080</contact>
+    <micrCode>395244020</micrCode>
+    <ifscCode>SDCB0000016</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mangrol Branch</name>
+    <city>Mangrol</city>
+    <address>Station Road, Tal-Mangrol, Surat-394410</address>
+    <contact>02629-220253</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000017</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kadod Branch</name>
+    <city>Kadod</city>
+    <address>Zanda Bazar, Tal-Bardoli, Surat,394335</address>
+    <contact>02621-238393</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000018</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kim Branch</name>
+    <city>Kim</city>
+    <address>Jin Compound, Tal-Olpad, Surat-394110</address>
+    <contact>02621-238393</contact>
+    <micrCode>395244025</micrCode>
+    <ifscCode>SDCB0000019</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anaval Barnch</name>
+    <city>Anaval</city>
+    <address>Main Bazar, Tal-Mahuva, Surat-396510</address>
+    <contact>02625-252221</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000020</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sardar Market Branch</name>
+    <city>Surat</city>
+    <address>Golden Point Plaza, Ring Road, Tal-Choryshi, Surat-395003</address>
+    <contact>0261-2439039</contact>
+    <micrCode>395244004</micrCode>
+    <ifscCode>SDCB0000021</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karcheliya Branch</name>
+    <city>Karcheliya</city>
+    <address>Bazar, Tal-Mahuva, Surat-394240</address>
+    <contact>02625-256828</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000022</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sayan Branch</name>
+    <city>Sayan</city>
+    <address>Shanti Complex, Tal-Olpad, Surat-394130</address>
+    <contact>02621-242134</contact>
+    <micrCode>395244023</micrCode>
+    <ifscCode>SDCB0000023</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chowk Bazar Branch</name>
+    <city>Surat</city>
+    <address>Kanjibhai Desai Bhavan, Tal-Choryasi, Surat-395003</address>
+    <contact>0261-2599070</contact>
+    <micrCode>395244005</micrCode>
+    <ifscCode>SDCB0000024</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Buhari Branch</name>
+    <city>Buhari</city>
+    <address>Talav Faliya, Tal-Valod, Tapi-394630</address>
+    <contact>02625-244251</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000025</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sagrampura Branch</name>
+    <city>Surat</city>
+    <address>2/3856, Haldiya Sheri, Tal-Choryasi, Surat-395002</address>
+    <contact>0261-2330598</contact>
+    <micrCode>395244006</micrCode>
+    <ifscCode>SDCB0000026</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Varad Branch</name>
+    <city>Rayam</city>
+    <address>Tal-Bardoli, Surat-394355</address>
+    <contact>02622-255339</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000027</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dolvan Char Rasta Branch</name>
+    <city>Dolvan</city>
+    <address>Tal-Vyara, Tapi -394635</address>
+    <contact>02626-251221</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000028</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamrej Char Rasta Branch</name>
+    <city>Kamrej</city>
+    <address>Kamrej Kh.V.Sangh, Tal-Kamrej, Surat-394185</address>
+    <contact>02621-252085</contact>
+    <micrCode>395244027</micrCode>
+    <ifscCode>SDCB0000029</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rander Branch</name>
+    <city>Surat</city>
+    <address>Rander V.V.Bhulabhai Hall, Panch Hatadi, Tal-Choryasi, Surat-395005</address>
+    <contact>0261-2764374</contact>
+    <micrCode>395244007</micrCode>
+    <ifscCode>SDCB0000030</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kukarmunda Branch</name>
+    <city>Kukarmunda</city>
+    <address>Tal-Nizar, Tapi - 394380</address>
+    <contact>02628-223130</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000031</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gangadhara Branch</name>
+    <city>Gangadhara</city>
+    <address>Tal-Palsana, Surat-394310</address>
+    <contact>02622-263224</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000032</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nanpura Branch</name>
+    <city>Surat</city>
+    <address>11/12, Manmandir Apt. Timaliya Wad, Tal-Choryasi, Surat-395001</address>
+    <contact>0261-2470409</contact>
+    <micrCode>395244008</micrCode>
+    <ifscCode>SDCB0000033</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Katargam Branch</name>
+    <city>Surat</city>
+    <address>Surbhi Complex, Main Road, Tal-Choryasi, Surat-395004</address>
+    <contact>0261-2482268</contact>
+    <micrCode>395244009</micrCode>
+    <ifscCode>SDCB0000034</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bamaniya Branch</name>
+    <city>Bamaniya</city>
+    <address>Mahuwa Sugar Facory Tal-Mahuva,Surat-394246</address>
+    <contact>02625-256849</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000035</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Patel Nagar Branch</name>
+    <city>Surat</city>
+    <address>Sumul Dairy Compound,Sumul Dairy Road, Tal-Choryasi, Surat-395004</address>
+    <contact>0261-2530859</contact>
+    <micrCode>395244010</micrCode>
+    <ifscCode>SDCB0000036</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Navyug Branch</name>
+    <city>Surat</city>
+    <address>Near Navyug College, Rander Road, Surat-395009</address>
+    <contact>0261-2784303</contact>
+    <micrCode>395244013</micrCode>
+    <ifscCode>SDCB0000037</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Haripura Branch</name>
+    <city>Surat</city>
+    <address>Ghee Kanta Road, Tal-Choraysi, Surat-395003</address>
+    <contact>0261-2423472</contact>
+    <micrCode>395244011</micrCode>
+    <ifscCode>SDCB0000038</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhatar Branch</name>
+    <city>Surat</city>
+    <address>Nr.Chaitaniy Apt.Bhatar Road, Tal-Choryasi, Surat-395001</address>
+    <contact>0261-2241108</contact>
+    <micrCode>395244012</micrCode>
+    <ifscCode>SDCB0000039</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amroli Branch</name>
+    <city>Surat</city>
+    <address>Amroli V.V Mandli Tal-Choryasi, Surat-394107</address>
+    <contact>0261-2499835</contact>
+    <micrCode>395244018</micrCode>
+    <ifscCode>SDCB0000040</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghoddod Branch</name>
+    <city>Surat</city>
+    <address>Mazda Apt.Tal-Choryasi, Surat-395001</address>
+    <contact>0261-2653477</contact>
+    <micrCode>395244014</micrCode>
+    <ifscCode>SDCB0000041</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Palsana Branch</name>
+    <city>Palsana</city>
+    <address>Station Chalthan, Tal-Palsana, Surat-394315</address>
+    <contact>02622-264243</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000042</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Palgam Branch</name>
+    <city>Surat</city>
+    <address>Tal-Choryasi, Surat-391045</address>
+    <contact>0261-2840380</contact>
+    <micrCode>395244027</micrCode>
+    <ifscCode>SDCB0000044</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Piplod Branch</name>
+    <city>Surat</city>
+    <address>Indralok Apt., Opp.Lakeview Hotel Dumas Road, Tal-Choryasi , Surat-395007</address>
+    <contact>0261-2227328</contact>
+    <micrCode>395244016</micrCode>
+    <ifscCode>SDCB0000046</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bajipura Branch</name>
+    <city>Bajipura</city>
+    <address>Tal-Valod, Tapi-394690</address>
+    <contact>02625-233253</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000047</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Morthana Branch</name>
+    <city>Morthana</city>
+    <address>Tal-Kamrej, Surat-394325</address>
+    <contact>02621-247148</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000048</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Valvada Branch</name>
+    <city>Valvada</city>
+    <address>Tal-Mahuva, Surat-394248</address>
+    <contact>02625-251249</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000049</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhaudhan Branch</name>
+    <city>Baudhan</city>
+    <address>Tal-Mandvi, Surat-394140</address>
+    <contact>02623-251251</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000051</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sarbhon Branch</name>
+    <city>Sarbhon</city>
+    <address>Tal-Bardoli, Surat-394350</address>
+    <contact>02622-253514</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000052</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kim Char Rasta Branch</name>
+    <city>Kim</city>
+    <address>Tal-Olpad, Surat-394111</address>
+    <contact>02621-234032</contact>
+    <micrCode>395244026</micrCode>
+    <ifscCode>SDCB0000053</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vav Branch</name>
+    <city>Vav</city>
+    <address>Tal-Kamrej, Surat-394326</address>
+    <contact>02621-251025</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000054</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>J.P. Road Branch</name>
+    <city>Surat</city>
+    <address>Mahavir Chowk, Tal-Choryasi, Surat-395001</address>
+    <contact>0261-2470258</contact>
+    <micrCode>395244019</micrCode>
+    <ifscCode>SDCB0000055</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ved Road Branch</name>
+    <city>Surat</city>
+    <address>Raj Deep Chamber, Nr.Singanpor Char Rasta, Tal-Choryasi, Surat-395004</address>
+    <contact>0261-2513998</contact>
+    <micrCode>395244017</micrCode>
+    <ifscCode>SDCB0000056</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sachin Branch</name>
+    <city>Sachin</city>
+    <address>Nr.Sachin Station, Tal-Choryasi, Surat-394221</address>
+    <contact>0261-2391846</contact>
+    <micrCode>395244022</micrCode>
+    <ifscCode>SDCB0000057</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ukai Branch</name>
+    <city>Ukai</city>
+    <address>Tal-Songadh, Tapi-394680</address>
+    <contact>02623-233701</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000058</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Umarpada Branch</name>
+    <city>Umarpada</city>
+    <address>Tal-Umarpada, Surat-394370</address>
+    <contact>02629-253615</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000059</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rumkitalav Branch</name>
+    <city>Rumkitalav</city>
+    <address>Tal-Nizar, Tapi.</address>
+    <contact>02628-222259</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000060</ifscCode>
+    <bankLoc>14605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karjan Branch</name>
+    <city>Karjan</city>
+    <address>Karjan Seva Sahakari Mandli Ltd.At.&amp; Po Karjan Tal-Karjan, Surat-394155</address>
+    <contact>02621-259191</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000061</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Zankhvav Branch</name>
+    <city>Zankhvav</city>
+    <address>Station Road, Tal-Mangrol, Surat-394440</address>
+    <contact>02629-256078</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SDCB0000062</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bamroli Branch</name>
+    <city>Surat</city>
+    <address>33,34 Ashrwad Township, Bamroli Road, Udhana Bamroli, Surat-394210</address>
+    <contact>0261-2611222</contact>
+    <micrCode>395244029</micrCode>
+    <ifscCode>SDCB0000063</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch</name>
+    <city>Surat</city>
+    <address>&quot;kanpith&quot; Chaulapool, Raj Marg, Surat - 395003</address>
+    <contact>0261-2597730</contact>
+    <micrCode>395244002</micrCode>
+    <ifscCode>SDCB0000099</ifscCode>
+    <bankLoc>14604</bankLoc>
+  </bankbranch>
+</bankBranchs>

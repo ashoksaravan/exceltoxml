@@ -1,0 +1,29 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Head Office Branch</name>
+    <city>Bangalore</city>
+    <address>&quot;uthunga&quot;, No 1, Pampamahakavi Road, Chamarajpet, Bangalore-560 018</address>
+    <contact>080-22976614</contact>
+    <micrCode>560226001</micrCode>
+    <ifscCode>KSCB0000001</ifscCode>
+    <bankLoc>9361</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nasik</name>
+    <city>Nasik</city>
+    <address>Vishal Point,Groung Floor,S No. 707/4/19,Plot No 19,Swamisamarth Chowk,Gangapur Road, Nasik- 422005.</address>
+    <contact>0253-2340291</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>KJSB0000210</ifscCode>
+    <bankLoc>9362</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhosari</name>
+    <city>Pune</city>
+    <address>Ground Floor, Sadashiv Palace, 681/1,, Gavhane Industrial Estate,Lande Wadi, Bhosari, Pune-411039</address>
+    <contact>020-27110086,Avbele@kalyanjanata.In</contact>
+    <micrCode>411367004</micrCode>
+    <ifscCode>KJSB0000212</ifscCode>
+    <bankLoc>9363</bankLoc>
+  </bankbranch>
+</bankBranchs>

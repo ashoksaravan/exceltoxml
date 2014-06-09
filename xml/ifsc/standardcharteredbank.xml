@@ -1,0 +1,902 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Mg Road Branch (90Rd) Clearing Code 222</name>
+    <city>Mumbai</city>
+    <address>90, M. G. Road, Mumbai - 400 001</address>
+    <contact>22683301</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036001</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>14 N.S. Road</name>
+    <city>Kolkata</city>
+    <address>142, M.G. Road, Kolkata - 700 007.</address>
+    <contact>Tel: 66134722</contact>
+    <micrCode>700036002</micrCode>
+    <ifscCode>SCBL0036002</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>31 Chow</name>
+    <city>Kolkata</city>
+    <address>Chowringhee- Branch, 31, Jawaharlal Nehru Road, Kolkata - 700 016.</address>
+    <contact>Tel: 22465151 Fax : 22263481</contact>
+    <micrCode>700036004</micrCode>
+    <ifscCode>SCBL0036003</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saltlake Ab</name>
+    <city>Kolkata</city>
+    <address>Salt Lake- Ab-17, Sector-1, Salt Lake City, Kolkata - 700 064.</address>
+    <contact>Tel: 23349958 Fax: 23349958</contact>
+    <micrCode>700036005</micrCode>
+    <ifscCode>SCBL0036004</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gariahat</name>
+    <city>Kolkata</city>
+    <address>Gariahat Branch -208, Rashbehari Avenue, Gariahat, Kolkata - 700 029.</address>
+    <contact>Tel: 24635757 Fax: 24640669</contact>
+    <micrCode>700036007</micrCode>
+    <ifscCode>SCBL0036005</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>R.G Kar</name>
+    <city>Kolkata</city>
+    <address>Shyambazar Branch -21a, R.G. Kar Road, Kolkata - 700 004.</address>
+    <contact>Tel: 25551870 Fax: 25335875</contact>
+    <micrCode>700036009</micrCode>
+    <ifscCode>SCBL0036006</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Alipore</name>
+    <city>Kolkata</city>
+    <address>17, S A Nalini Ranjan Avenue, New Alipore, Kolkata - 700 053</address>
+    <contact>Tel: 24789770 Fax: 24786383</contact>
+    <micrCode>700036013</micrCode>
+    <ifscCode>SCBL0036007</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>19 N.S Road</name>
+    <city>Kolkata</city>
+    <address>19, Netaji Subhas Road, Kolkata - 700 001</address>
+    <contact>Tel: 2222 0101 Fax: 2220-3434</contact>
+    <micrCode>700036012</micrCode>
+    <ifscCode>SCBL0036008</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>41 Chow</name>
+    <city>Kolkata</city>
+    <address>41, Chowringhee Road, Kolkata - 700 016</address>
+    <contact>Tel: 22889430 Fax: 22887701</contact>
+    <micrCode>700036011</micrCode>
+    <ifscCode>SCBL0036009</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>R.B Avenue</name>
+    <city>Kolkata</city>
+    <address>163, Rash Behari Avenue, Kolkata - 700 019.</address>
+    <contact>Tel: 24661906 Fax : 24664560</contact>
+    <micrCode>700036015</micrCode>
+    <ifscCode>SCBL0036010</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bidhan Sarani</name>
+    <city>Kolkata</city>
+    <address>139 C, Bidhan Sarani, Shambazar, Kolkata - 700 004</address>
+    <contact>Tel: 22801809 Fax 22477333</contact>
+    <micrCode>700036017</micrCode>
+    <ifscCode>SCBL0036011</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saltlake Cf</name>
+    <city>Kolkata</city>
+    <address>Cf 347, Sector I, Salt Lake, Kolkata, - 700 064</address>
+    <contact>Tel: 23370927 Fax : 23216205</contact>
+    <micrCode>700036018</micrCode>
+    <ifscCode>SCBL0036012</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Church Lane</name>
+    <city>Kolkata</city>
+    <address>6, Church Lane, Kolkata - 700 001</address>
+    <contact>Tel : 22420998 Fax : 2242-9200</contact>
+    <micrCode>700036014</micrCode>
+    <ifscCode>SCBL0036013</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>S. Sarani</name>
+    <city>Kolkata</city>
+    <address>21a, Shakespeare Sarani, Kolkata - 700 017</address>
+    <contact>Tel : 22801809 Fax: 22477333</contact>
+    <micrCode>700036016</micrCode>
+    <ifscCode>SCBL0036014</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jodhpur Park</name>
+    <city>Kolkata</city>
+    <address>1/425, Gariahat Road South, Jodhpur Park, Kolkata - 700 019</address>
+    <contact>Tel: 24148718 Fax : 24733038</contact>
+    <micrCode>700036010</micrCode>
+    <ifscCode>SCBL0036015</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guwahati</name>
+    <city>Guwahati</city>
+    <address>G N Bordoloi Road, Ambarifancy Bazar, Guwahati - 781 001</address>
+    <contact>Tel:0361-2632264 Fax 0361-2543192</contact>
+    <micrCode>781036002</micrCode>
+    <ifscCode>SCBL0036016</ifscCode>
+    <bankLoc>11871</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Patna</name>
+    <city>Patna</city>
+    <address>Bhagwati Dwarka Arcade, Plot No.830p, Exhibition Road, Patna - 800 001</address>
+    <contact>Tel: 0612-2223124 Fax : 0612-2223136</contact>
+    <micrCode>800036002</micrCode>
+    <ifscCode>SCBL0036017</ifscCode>
+    <bankLoc>11872</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhubaneshwar</name>
+    <city>Bhubaneshwar</city>
+    <address>Plot No. 3, Bapuji Nagar, Janpath, Bhubaneshwar 751 009</address>
+    <contact>Tel:0674-2539485 Fax : 0674-2539481</contact>
+    <micrCode>751036002</micrCode>
+    <ifscCode>SCBL0036018</ifscCode>
+    <bankLoc>11891</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Silllguri</name>
+    <city>Silliguri</city>
+    <address>144, Hill Cart Road, Siliguri - 743 001</address>
+    <contact>Tel: 0353-2535991 Fax: 0535-2535990</contact>
+    <micrCode>734036002</micrCode>
+    <ifscCode>SCBL0036019</ifscCode>
+    <bankLoc>11908</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Narain Manzil Bk Road</name>
+    <city>New Delhi</city>
+    <address>Narayan Manzil,23 Barakhamba Road,New Delhi - 110 091.</address>
+    <contact>43518905</contact>
+    <micrCode>110036002</micrCode>
+    <ifscCode>SCBL0036020</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vasant Vihar</name>
+    <city>New Delhi</city>
+    <address>Vasant Vihar- 2 And 3 Basant Lok, Vasant Vihar, New Delhi-110 057.</address>
+    <contact>41669256/55</contact>
+    <micrCode>110036003</micrCode>
+    <ifscCode>SCBL0036021</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanpur</name>
+    <city>Kanpur</city>
+    <address>Kanpur-16/105 Mahatma Gandhi Road, Kanpur 208 001</address>
+    <contact>0512-2306536</contact>
+    <micrCode>208036002</micrCode>
+    <ifscCode>SCBL0036022</ifscCode>
+    <bankLoc>11903</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Preet Vihar</name>
+    <city>New Delhi</city>
+    <address>Preet Vihar Branch - 30, Grd Flr, Aditya Arcade, Aditya Complex, Preet Vihar, Delhi - 110 092</address>
+    <contact>22440201</contact>
+    <micrCode>110036005</micrCode>
+    <ifscCode>SCBL0036023</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Noida</name>
+    <city>Noida</city>
+    <address>Noida Branch - Plot No. K - 3, Brahm Datt Tower, Grd And 1st Floor, Sector - 18, Noida - 201 301.</address>
+    <contact>0120- 4323759</contact>
+    <micrCode>110036004</micrCode>
+    <ifscCode>SCBL0036024</ifscCode>
+    <bankLoc>11902</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gurgaon</name>
+    <city>Gurgaon</city>
+    <address>Gurgaon Branch - 12 A-C, 304 A And B And 305 A And B, Jmd Regent Square, Mehrauli - Gurgaon Road, Gurgaon - 122 001.</address>
+    <contact>0124-4059036</contact>
+    <micrCode>110036006</micrCode>
+    <ifscCode>SCBL0036025</ifscCode>
+    <bankLoc>11878</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi H2 Conn. Circus</name>
+    <city>New Delhi</city>
+    <address>H-Block, Connaught Circus, New Delhi - 110 001</address>
+    <contact>011- 23713101</contact>
+    <micrCode>110036015</micrCode>
+    <ifscCode>SCBL0036026</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi 10 Sansadmarg</name>
+    <city>New Delhi</city>
+    <address>10 Sansad Marg, New Delhi - 110 001</address>
+    <contact>011-23406202</contact>
+    <micrCode>110036011</micrCode>
+    <ifscCode>SCBL0036027</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Conn. Place</name>
+    <city>New Delhi</city>
+    <address>10 E, Connaught Place, New Delhi - 110 001</address>
+    <contact>011-23406202</contact>
+    <micrCode>110036007</micrCode>
+    <ifscCode>SCBL0036028</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Punjabi Bagh</name>
+    <city>New Delhi</city>
+    <address>Shop No. 4, Central Market, Sector Ii, Westavenue Rd., Punjabi Bagh (West), New Delhi - 110 038</address>
+    <contact>42466792</contact>
+    <micrCode>110036012</micrCode>
+    <ifscCode>SCBL0036029</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Karol Bagh</name>
+    <city>New Delhi</city>
+    <address>13/37, Wea, Arya Samaj Road, Karol Bagh, New Delhi - 110 005</address>
+    <contact>41546964/65</contact>
+    <micrCode>110036009</micrCode>
+    <ifscCode>SCBL0036030</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Chanakya Puri</name>
+    <city>New Delhi</city>
+    <address>13, Malcha Marg, Chanakyapuri, New Delhi - 110 021</address>
+    <contact>26882196</contact>
+    <micrCode>110036013</micrCode>
+    <ifscCode>SCBL0036031</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi South Extension</name>
+    <city>New Delhi</city>
+    <address>M-1, South Extension, Part Ii, New Delhi - 110 049</address>
+    <contact>41644866</contact>
+    <micrCode>110036008</micrCode>
+    <ifscCode>SCBL0036032</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi Greater Kailash</name>
+    <city>New Delhi</city>
+    <address>B-68, Greater Kailash, Part - I, New Delhi - 110 048</address>
+    <contact>29245433</contact>
+    <micrCode>110036010</micrCode>
+    <ifscCode>SCBL0036033</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>New Delhi New Friends Cly</name>
+    <city>New Delhi</city>
+    <address>20, Community Centre, New Friends Colony, New Delhi - 110065</address>
+    <contact>41672305</contact>
+    <micrCode>110036014</micrCode>
+    <ifscCode>SCBL0036034</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandigarh</name>
+    <city>Chandigarh</city>
+    <address>Sco, 137 - 138, Sector - 9c, Chandigarh - 160 017, India</address>
+    <contact>0172-5072880</contact>
+    <micrCode>160036001</micrCode>
+    <ifscCode>SCBL0036035</ifscCode>
+    <bankLoc>11873</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lucknow</name>
+    <city>Lucknow</city>
+    <address>4, Shahnajaf Road, Hazratganz, Lucknow - 226 001, Up, India</address>
+    <contact>0522-2201870/26</contact>
+    <micrCode>226036001</micrCode>
+    <ifscCode>SCBL0036036</ifscCode>
+    <bankLoc>11904</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ludhiana</name>
+    <city>Ludhiana</city>
+    <address>Sco 16-17, Feroze Ghandhi Market, Ludhiana - 141 001, Punjab, India</address>
+    <contact>0161-5084030</contact>
+    <micrCode>141036002</micrCode>
+    <ifscCode>SCBL0036037</ifscCode>
+    <bankLoc>11894</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amritsar</name>
+    <city>Amritsar</city>
+    <address>360, Mall Road, Gandhi Bazar, Amritsar - 143 001</address>
+    <contact>0183-5003756</contact>
+    <micrCode>143036003</micrCode>
+    <ifscCode>SCBL0036038</ifscCode>
+    <bankLoc>11892</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur</name>
+    <city>Jaipur</city>
+    <address>H - 8, Show Room No. 1bhagwat Bhawan, M. I. Road, Jaipur - 302 001, India</address>
+    <contact>0141-5116072/6452220</contact>
+    <micrCode>302036002</micrCode>
+    <ifscCode>SCBL0036039</ifscCode>
+    <bankLoc>11895</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalandhar</name>
+    <city>Jalandhar</city>
+    <address>Plot No. 34, G.T. Road, G.P.O., Jalandhar - 144 001</address>
+    <contact>0181-5073410</contact>
+    <micrCode>144036001</micrCode>
+    <ifscCode>SCBL0036040</ifscCode>
+    <bankLoc>11893</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gurgaon Sec 14</name>
+    <city>Gurgaon</city>
+    <address>Scf-77, Sector 14, Gurgaon, Haryana - 122001</address>
+    <contact>0124-4088702</contact>
+    <micrCode>110036017</micrCode>
+    <ifscCode>SCBL0036041</ifscCode>
+    <bankLoc>11878</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saket</name>
+    <city>New Delhi</city>
+    <address>E-26, Saket, New Delhi - 110017</address>
+    <contact>41021454</contact>
+    <micrCode>110036018</micrCode>
+    <ifscCode>SCBL0036042</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Janakpuri</name>
+    <city>New Delhi</city>
+    <address>B-1/517, Opp District Centre, Janakpuri, New Delhi - 110 058</address>
+    <contact>41589327</contact>
+    <micrCode>110036016</micrCode>
+    <ifscCode>SCBL0036043</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad</name>
+    <city>Allahabad</city>
+    <address>2,Sardar Patel Marg, Civil Lines, Allahabad - 211 001.</address>
+    <contact>0532-2427070</contact>
+    <micrCode>211036002</micrCode>
+    <ifscCode>SCBL0036044</ifscCode>
+    <bankLoc>11901</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pitampura</name>
+    <city>New Delhi</city>
+    <address>H.B Twin Towers,Plot No. A - 2,3and4 District Center,Wazirpur,Netaji Subhas Place,Pitampura, New Delhi - 110 048</address>
+    <contact>42470867</contact>
+    <micrCode>110036019</micrCode>
+    <ifscCode>SCBL0036045</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>23 25 Mg Road</name>
+    <city>Mumbai</city>
+    <address>Mumbai Main -23/25, Mahatma Gandhiroad, Fort, Mumbai - 400 001.</address>
+    <contact>22792122</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036046</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chowpatty</name>
+    <city>Mumbai</city>
+    <address>Chowpatty Branch -Shree Pant Bhuban, Sandhurst Bridge, Chowpatty, Mumbai - 400 001.</address>
+    <contact>23642168</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036047</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Santacruz Centre Point</name>
+    <city>Mumbai</city>
+    <address>Centre Point Branch,Junc. Of S.V.Road And Juhu Road, Santacruz(West), Mumbai - 400 054.</address>
+    <contact>26493966</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036048</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghatkopar</name>
+    <city>Mumbai</city>
+    <address>Ghatkopar Branch -170,&apos; Ashok&apos;Derasar Lane, Ghatkopar(East), Tps Iii,Mumbai - 400 077.</address>
+    <contact>25125542</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036049</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune Branch</name>
+    <city>Pune</city>
+    <address>Pune-Shrirang House, 364-365, Junglee Maharaj Road, Shivaji Nagar, Pune- 411 005.</address>
+    <contact>9520-25521880</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036050</ifscCode>
+    <bankLoc>11888</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmedabad Branch</name>
+    <city>Ahmedabad</city>
+    <address>Premises No. 1,2,3 - Ground Floor, Abhijeet Ii, Near Mithakali 6 Road, Ellis Bridge, Ahmedabad - 380 006.</address>
+    <contact>(079)6468300</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036051</ifscCode>
+    <bankLoc>11874</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Goregaon</name>
+    <city>Mumbai</city>
+    <address>Standard Chartered Towers,Western Express Highway,Goregaon (East),Mumbai - 400 063.</address>
+    <contact>67373171</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036052</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lokhandwala Branch</name>
+    <city>Mumbai</city>
+    <address>Lokhandwala Branch, - 21 -23, Samartha Vaibhav, Shree Swami Samarth Nagar, Off New Link Road, Lokhandwala, Andheri (W), Mumbai - 400 053</address>
+    <contact>26327732</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036053</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Howrah</name>
+    <city>Howrah</city>
+    <address>49, Dobson Road, Howrah - 711101</address>
+    <contact>Tel: 26662541 Fax : 26660551</contact>
+    <micrCode>700036019</micrCode>
+    <ifscCode>SCBL0036054</ifscCode>
+    <bankLoc>11909</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dadar</name>
+    <city>Mumbai</city>
+    <address>Shivaji Mandir, N C Kelkar Road, Dadar, Mumbai - 400 028.</address>
+    <contact>24331920</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036055</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Santacruz (Linking Rd.)</name>
+    <city>Mumbai</city>
+    <address>65/F, Vithalbhai Patel Road, Santacruz (West), Mumbai - 400 054</address>
+    <contact>26487510</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036056</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bandra</name>
+    <city>Mumbai</city>
+    <address>Unique Centre, Waterfield Road, Bandra (W), Mumbai - 400 050</address>
+    <contact>26443908</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036057</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Villeparle</name>
+    <city>Mumbai</city>
+    <address>B21, Sanghvi Paritosh, V. L. Mehta Road, J V P D Schemevile Parle (West), Mumbai - 400 049</address>
+    <contact>26134705</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036058</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Breach Candy</name>
+    <city>Mumbai</city>
+    <address>87, Bhulabhai Desai Road, Cumballa Hill, Mumbai - 400 036</address>
+    <contact>23696265</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036059</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sg Marg</name>
+    <city>Mumbai</city>
+    <address>21/29, Shamaldas Gandhi Marg, Mumbai 400 002</address>
+    <contact>22019692</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036060</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhopal</name>
+    <city>Bhopal</city>
+    <address>Plot No. 10, Alankar Complex, M. P. Nagar, Shivaji Nagar, Bhopal - 462 011</address>
+    <contact>0755-2554280</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036061</ifscCode>
+    <bankLoc>11882</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vadodara</name>
+    <city>Vadodara</city>
+    <address>Ground Floor, Gukulesh&apos;, R.C. Dutt Road, Alkapuri, Vadodara - 390 007</address>
+    <contact>0265-2320071</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036062</ifscCode>
+    <bankLoc>11877</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Surat</name>
+    <city>Surat</city>
+    <address>Ug 4 And Ff 4, Manav Mandir, Parle Point, Surat - 395 007.</address>
+    <contact>0261-2220110</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036063</ifscCode>
+    <bankLoc>11876</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajkot</name>
+    <city>Rajkot</city>
+    <address>Business Empire, 5, Jagnath Plot Corner, Gymkhana Road, Rajkot - 360 002</address>
+    <contact>0281-5526002</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036064</ifscCode>
+    <bankLoc>11875</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nagpur</name>
+    <city>Nagpur</city>
+    <address>Narang Towers, 27, Palm Road, Nagpur - 440001</address>
+    <contact>0712- 5620700</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036065</ifscCode>
+    <bankLoc>11887</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chembur</name>
+    <city>Mumbai</city>
+    <address>Ground Floor Of Garden Apartment, Diamond Garden Chs Ltd,A.Sores Road, Chembur, Mumbai - 400071</address>
+    <contact>25207392</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036066</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Borivali</name>
+    <city>Mumbai</city>
+    <address>Aditya Apartment, Cts No. 639, Chandavarkar Road, Borivali (West), Mumbai - 400092</address>
+    <contact>28663900</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036067</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thane</name>
+    <city>Thane</city>
+    <address>Balwant Niwas, Dr. Moose Road, Talav Pali, Thane (W), 400 601</address>
+    <contact>25890784</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036068</ifscCode>
+    <bankLoc>11889</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indore</name>
+    <city>Indore</city>
+    <address>D.M.Towers, 21/1 Race Course Road, Indore - 452 001.</address>
+    <contact>0731-5206900</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036069</ifscCode>
+    <bankLoc>11884</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Andheri</name>
+    <city>Mumbai</city>
+    <address>Ameya House,Rajkumar Corner,J.P.Road,Andheri (West), Mumbai - 400 058.</address>
+    <contact>26790239</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036070</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalgaon</name>
+    <city>Jalgaon</city>
+    <address>Baba Plaza, Akaswani Square, Mumbai-Nagpur Road, Jalgaon - 425 002.</address>
+    <contact>91-257-2237400</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036071</ifscCode>
+    <bankLoc>11886</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Rrt Mylapore</name>
+    <city>Chennai</city>
+    <address>Mylapore-Raja Rajeshwari Towers29/30, Dr.Radhakrishnan Salai, Chennai - 600 004</address>
+    <contact>044-42107373</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036072</ifscCode>
+    <bankLoc>11898</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cunningham Road Bangalore</name>
+    <city>Bangalore</city>
+    <address>14, Cunningham Road, Hm Geneva House, Bangalore - 560 052</address>
+    <contact></contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036073</ifscCode>
+    <bankLoc>11879</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>90 M G Road Bangalore</name>
+    <city>Bangalore</city>
+    <address>Raheja Tower, 26, M. G. Road, Bangalore - 560 001.</address>
+    <contact>080-66310004</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036074</ifscCode>
+    <bankLoc>11879</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hyderabad</name>
+    <city>Hyderabad</city>
+    <address>6-3-1090, Raj Bhavan Road, Somaji Guda, Hyderabad - 500 082</address>
+    <contact>040 -23321160</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036075</ifscCode>
+    <bankLoc>11870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ernakulam</name>
+    <city>Ernakulam</city>
+    <address>Hdfc House, M G Road, Ravipuram Junction, Ernakulam, Cochin 682 015.</address>
+    <contact>0484-2359086</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036076</ifscCode>
+    <bankLoc>11880</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Coimbatore</name>
+    <city>Coimbatur</city>
+    <address>509, D B Road, R S Puram, Coimbatore - 641 002</address>
+    <contact>0422-2550589</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036077</ifscCode>
+    <bankLoc>11899</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Rajaji Salai</name>
+    <city>Chennai</city>
+    <address>Grindlays Centre, 19, Rajaji Salai, Chennai - 600 001</address>
+    <contact>044-25349200</contact>
+    <micrCode>600036005</micrCode>
+    <ifscCode>SCBL0036078</ifscCode>
+    <bankLoc>11898</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Haddows Road</name>
+    <city>Chennai</city>
+    <address>Grindlays Gardens, 1-Haddows Road, Chennai - 600 006</address>
+    <contact>044-282 19666</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036079</ifscCode>
+    <bankLoc>11898</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Adyar</name>
+    <city>Chennai</city>
+    <address>No. 6, Lattice Bridge Road, Adyar, Chennai - 600 020</address>
+    <contact>044-42027272</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036080</ifscCode>
+    <bankLoc>11898</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Secunderabad</name>
+    <city>Secunderabad</city>
+    <address>Ground Floor, Unit Nos 2, 2a, 3, Ashok Bhoopal Chambers, S.P. Road, Secunderabad, Hyderabad - 500 003.</address>
+    <contact>040-6690 7050</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036081</ifscCode>
+    <bankLoc>11870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cochin</name>
+    <city>Cochin</city>
+    <address>Cochin - Xxiv/1633, K.P.K. Menon Road, Willingdon Island, Cochin - 682 003</address>
+    <contact>0422-2550589</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036082</ifscCode>
+    <bankLoc>11880</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai T Nagar</name>
+    <city>Chennai</city>
+    <address>Sagas Amar Court, 59,G.N. Chetty Road, T.Nagar, Chennai - 600 017</address>
+    <contact>044-28158707</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036083</ifscCode>
+    <bankLoc>11898</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mg Road Branch (90Rd) Clearing Code 225</name>
+    <city>Mumbai</city>
+    <address>90, M. G. Road, Mumbai - 400 001</address>
+    <contact>22683301</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036084</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Oriental Branch</name>
+    <city>Mumbai</city>
+    <address>Oriental Bldg., 364 Dr. D. N. Raod, Fort, Mumbai 400 001.</address>
+    <contact>Ivan Tauro</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036085</ifscCode>
+    <bankLoc>11885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>A Block Connaugh Place</name>
+    <city>011 23308094</city>
+    <address>Hamilton House,A Block, Connaught Place, New Delhi 110 001.</address>
+    <contact>Pawan Dhingra</contact>
+    <micrCode>110036020</micrCode>
+    <ifscCode>SCBL0036086</ifscCode>
+    <bankLoc>11890</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>21 Old Court House</name>
+    <city>033 22483576</city>
+    <address>21, Old Court House Stree, Kolkata 700 001</address>
+    <contact>Anghsuman Bhattacharya</contact>
+    <micrCode>700036020</micrCode>
+    <ifscCode>SCBL0036087</ifscCode>
+    <bankLoc>11910</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anna Salai Branch</name>
+    <city>044 28564014</city>
+    <address>187, Anna Salai, Chennai 600 001.</address>
+    <contact>Dinesh Hebri Nayak</contact>
+    <micrCode>600036009</micrCode>
+    <ifscCode>SCBL0036088</ifscCode>
+    <bankLoc>11898</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>139 Residency Road</name>
+    <city>080 41188952</city>
+    <address>G-02/03, Prestige Poseidon No.139, Residency Road, Bangalore 560 025.</address>
+    <contact>Pamela Sequeira</contact>
+    <micrCode>560036004</micrCode>
+    <ifscCode>SCBL0036089</ifscCode>
+    <bankLoc>11879</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lumbini Rockdale Somajiguda</name>
+    <city>Hyderabad Urban</city>
+    <address>301, Diamond Block, Lumbini Rockdale, Somajiguda, Hyderabad 500 082.</address>
+    <contact>Solomon Yenubari</contact>
+    <micrCode>500036003</micrCode>
+    <ifscCode>SCBL0036090</ifscCode>
+    <bankLoc>11870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>21 Sasun Road Pune</name>
+    <city>020 66029193</city>
+    <address>403 Sohrab Hall, 21 Sasun Road, Pune 411 001.</address>
+    <contact>Raghuveer Bhat</contact>
+    <micrCode>411036003</micrCode>
+    <ifscCode>SCBL0036091</ifscCode>
+    <bankLoc>11888</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mathura</name>
+    <city>Mathura</city>
+    <address>Pacific Mall, Plot No. C-1/B, Site B, Industrial Area,  Mathura 281006</address>
+    <contact>0565 –3206014/15/16/18 fax No – 0565 -206017</contact>
+    <micrCode>281036002</micrCode>
+    <ifscCode>SCBL0036092</ifscCode>
+    <bankLoc>11905</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Proddatur</name>
+    <city>Cuddapah</city>
+    <address>Ground Floor, Meghana Mansion,24/25, Opp Laxmi Vilas Bank, Gandhi Road, Proddatur Andhra Pradesh,516360</address>
+    <contact>08564-248841/8842/43/44/45 fax No: - 08564-248845</contact>
+    <micrCode>516036102</micrCode>
+    <ifscCode>SCBL0036093</ifscCode>
+    <bankLoc>11869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dehradun</name>
+    <city>Dehradun</city>
+    <address>Krishna Towers, 69, Rajpur Road Dehradun 248001.</address>
+    <contact>0135 – 3242061 To 68 fax No – 0565 - 3206017</contact>
+    <micrCode>248036002</micrCode>
+    <ifscCode>SCBL0036094</ifscCode>
+    <bankLoc>11907</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saharanpur</name>
+    <city>Saharanpur</city>
+    <address>Mundarja No. 262, Delhi – Saharanpur – Yamunotri Road Saharanpur - 247001</address>
+    <contact>Na</contact>
+    <micrCode>247036002</micrCode>
+    <ifscCode>SCBL0036095</ifscCode>
+    <bankLoc>11906</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name></name>
+    <city>Trivandrum</city>
+    <address>Vrindavan Terrace; Unit Nos. Gb &amp; 1b;Ground And First Floor,Vazhuthacaud,Opposite Trivandrum Club,Trivandrum - 695014</address>
+    <contact>9847025257</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036099</ifscCode>
+    <bankLoc>11881</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chhindwara</name>
+    <city>Chhindwara</city>
+    <address>Standard Chartered Bank sharma Complex, Ground Floor, plot No. 491, Ward No. 38, parasia Road, chhindwara 480001. madhya Pradesh.</address>
+    <contact>7162231159, 7162231160, 7162231161</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036098</ifscCode>
+    <bankLoc>11883</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Agra Branch</name>
+    <city>Agra</city>
+    <address>4,Krishna Enclave Near Bhagat Halwai, Dayal Bagh, Agra -282005- Uttar Pradesh</address>
+    <contact>Mr. Vikram Singh Branch Manager 09924482382,Mr. Ashish Shah - 09760090441</contact>
+    <micrCode>282036002</micrCode>
+    <ifscCode>SCBL0036100</ifscCode>
+    <bankLoc>11900</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Udaipur</name>
+    <city>Udaipur</city>
+    <address>Ground Floor, Apex Square Bank Street, Madhuban Udaipur (Raj) – 313001</address>
+    <contact>Branch Manager: Deepak Rathore    +91 95877 97777</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>SCBL0036096</ifscCode>
+    <bankLoc>11897</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jodhapur</name>
+    <city>Jodhapur</city>
+    <address>Ground Floor, Plot No. 839, 9th, Chopasani Road,Jodhpur, Rajastan. Pin-342003</address>
+    <contact>01291-2433878</contact>
+    <micrCode>342036002</micrCode>
+    <ifscCode>SCBL0036097</ifscCode>
+    <bankLoc>11896</bankLoc>
+  </bankbranch>
+</bankBranchs>

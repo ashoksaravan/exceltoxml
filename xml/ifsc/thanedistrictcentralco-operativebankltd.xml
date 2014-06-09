@@ -1,0 +1,920 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Head Office (Service Branch)</name>
+    <city>Thane</city>
+    <address>Shivaji Path, Post Box 19,Thane (W), Pin 400601,</address>
+    <contact>022-25333014</contact>
+    <micrCode>400524001</micrCode>
+    <ifscCode>TDCB0000001</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Arnala</name>
+    <city>Arnala</city>
+    <address>Near Arnala Machhimar Society Ltd, Kill Road,At &amp; Post-Arnala, Taluka- Vasai, Pin-401304.</address>
+    <contact>0250-2587504</contact>
+    <micrCode>400524028</micrCode>
+    <ifscCode>TDCB0000002</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Virar</name>
+    <city>Virar</city>
+    <address>Surya Darshan,1st Floor, Veer Savarkar Marg, Virar (E.) Taluka-Vasai, Pin-401303</address>
+    <contact>0250-2527348</contact>
+    <micrCode>400524002</micrCode>
+    <ifscCode>TDCB0000006</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nirmal</name>
+    <city>Nirmal</city>
+    <address>Gajanan Prasad Building, At &amp; Post Nirmal, Tal-Vasai, Pin-401304</address>
+    <contact>0250-2470243</contact>
+    <micrCode>400524029</micrCode>
+    <ifscCode>TDCB0000009</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhiwandi</name>
+    <city>Bhiwandi</city>
+    <address>City Center Building, Prabhu Ali, Mandai, Taluka &amp; Post Bhiwandi, Pin-421302</address>
+    <contact>02522-250885</contact>
+    <micrCode>400524026</micrCode>
+    <ifscCode>TDCB0000010</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dahanu</name>
+    <city>Dahanu</city>
+    <address>Aastha Abod Co-Op.Housing Soc. Ltd., Gr.Floor,Taluka-Dahanu, Pin-401601</address>
+    <contact>02528-222308</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000017</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dahanu Road</name>
+    <city>Dahanu Road</city>
+    <address>Om Datta Narayan Bag Co-Op. Housing Soc.Ltd., Gala No 8 &amp; 11, Near Post Office, Dahanu Rd, Taluka- Dahanu, Pin-401602</address>
+    <contact>02528-222452</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000018</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bordi</name>
+    <city>Bordi</city>
+    <address>Bordi Bazar, Post-Bordi, Taluka-Dahanu, Pin-401701</address>
+    <contact>02528-254042</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000019</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vangaon</name>
+    <city>Vangaon</city>
+    <address>Mohan Apartment, 1sr Floor, Station Rd. Post-Vangaon,Taluka-Dahanu, Pin-401103</address>
+    <contact>02528-244022</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000022</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jawhar</name>
+    <city>Jawhar</city>
+    <address>Chhatrapati Shivaji Path, At &amp; Post-Jawhar, Pin-401603</address>
+    <contact>02520-222424</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000023</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vikramgad</name>
+    <city>Vikramgad</city>
+    <address>At &amp; Post-Vikramgad, Taluka-Vikramgad, Pin-401605</address>
+    <contact>02520-240024</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000024</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalyan</name>
+    <city>Kalyan</city>
+    <address>Sai Vihar Building, New Shivaji Path, Tal.Kalyan Pin Code-421 301.</address>
+    <contact>0251-2315062</contact>
+    <micrCode>400524019</micrCode>
+    <ifscCode>TDCB0000025</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Murbad</name>
+    <city>Murbad</city>
+    <address>Murbad Tal. Shetkari Sangh Ltd. Murbad Building, 1st Floor, Opp. Marathi School , Main Road, Taluka Murbad, Pin-421402</address>
+    <contact>02524-222238</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000029</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saralgaon</name>
+    <city>Saralgaon</city>
+    <address>Shree Krupa Building, Kalyan Nagar Road, Po.Saralgaon, Tal.Murbad, Pin Code-421 401.</address>
+    <contact>02524-240175</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000031</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Palghar</name>
+    <city>Palghar</city>
+    <address>Palghar Branch Kacheri Road, Congress Bhavan, Lst Floor, Tal.Palghar, Pin Code-401 404.</address>
+    <contact>02525-252029</contact>
+    <micrCode>400524038</micrCode>
+    <ifscCode>TDCB0000047</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kelwa</name>
+    <city>Kelwa</city>
+    <address>Kelwa Market, Palghar (W), Taluka-Palghar, Pin-401 401.</address>
+    <contact>02525-222045</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000050</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manor</name>
+    <city>Manor</city>
+    <address>Faima Bldg., Behind S.T.Stand At &amp; Post-Manor, Tal.Palghar Pin-401 403.</address>
+    <contact>02525-237032</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000051</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahapur</name>
+    <city>Shahapur</city>
+    <address>Sai Plaza Bldg, Pandit Naka, Gotheghar Taluka.Shahapur, Pin -421 601.</address>
+    <contact>02527-272021</contact>
+    <micrCode>400524047</micrCode>
+    <ifscCode>TDCB0000055</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kasara</name>
+    <city>Kasara</city>
+    <address>Malti Niwas, Bazar Peth, Mumbai Nasik Road, At &amp; Po.Kasara, Taluka-Shahapur, Pin -421 601.</address>
+    <contact>02527-246069</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000058</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khardi</name>
+    <city>Khardi</city>
+    <address>Near Railway Station, At &amp; Post-Khardi, Taluka-Shahapur, Pin-421 304.</address>
+    <contact>02527-244036</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000059</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kinhavali</name>
+    <city>Kinhavali</city>
+    <address>Kinhavali Vibhag Shetkari Bhat Girni Society.Building,Shahapur Saralgaon Road,At-Kinhavali,Post-Kinhavali, Taluka-Shahapur, Pin-421401</address>
+    <contact>02527-232030</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000060</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Wada</name>
+    <city>Wada</city>
+    <address>Dahe Society Building, Lst Floor, Main Road, Opp.Kailash Talkies At &amp; Post.Taluka-Wada, Pin-421303</address>
+    <contact>02526-271416</contact>
+    <micrCode>400524042</micrCode>
+    <ifscCode>TDCB0000063</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kudus</name>
+    <city>Kudus</city>
+    <address>At &amp; Post-Kudus, Taluka-Wada, Pin Code- 421 312</address>
+    <contact>02526-220233</contact>
+    <micrCode>400524044</micrCode>
+    <ifscCode>TDCB0000064</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanchad</name>
+    <city>Kanchad</city>
+    <address>At &amp; Post-Kanchad, Tal.Wada, Dist.Thane. Pin - 421 303.</address>
+    <contact>02526-235633</contact>
+    <micrCode>400524043</micrCode>
+    <ifscCode>TDCB0000065</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Talasari</name>
+    <city>Talasari</city>
+    <address>Rajput Mall, National Highway No. 8. At.Post-Taluka-Talasari, Dist.Thane.Pin - 401 606.</address>
+    <contact>02529-220034</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000066</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mokhada</name>
+    <city>Mokhada</city>
+    <address>At &amp; Post-Mokhada Taluka-Mokhada,Pin-401 604.</address>
+    <contact>02529-256630</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000067</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khodala</name>
+    <city>Khodala</city>
+    <address>At &amp;Post-Khodala, Taluka-Mokhada,Pin-401 603.</address>
+    <contact>02529-250073</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000068</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vasai</name>
+    <city>Vasai</city>
+    <address>Opp.S.T.Stand, Balkrishna Apartment, 1st Floor, Post &amp; Taluka -Vasai, Pin-401201</address>
+    <contact>0250-2322045</contact>
+    <micrCode>400524005</micrCode>
+    <ifscCode>TDCB0000072</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khanivali</name>
+    <city>Khanivali</city>
+    <address>At &amp; Post-Khanivali, Tal.Wada, Dist.Thane. Pin-401 204.</address>
+    <contact>02526-237664</contact>
+    <micrCode>400524045</micrCode>
+    <ifscCode>TDCB0000073</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Atgaon</name>
+    <city>Atgaon</city>
+    <address>At &amp; Post-Atgaon, Taluka-Shahapur, Dist.Thane. Pin-421 301.</address>
+    <contact>02527-240293</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000076</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Angaon</name>
+    <city>Angaon</city>
+    <address>At &amp;Post–angaon, Taluka- Bhiwandi, Dist. Thane, Pin- 421 302</address>
+    <contact>02522-260044</contact>
+    <micrCode>400524055</micrCode>
+    <ifscCode>TDCB0000084</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aghai</name>
+    <city>Aghai</city>
+    <address>Aghai At &amp; Post-Aghai, Taluka-Shahapur, Dist-Thane</address>
+    <contact>Bhaskar Vekhande</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000093</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vasai Road</name>
+    <city>Vasai</city>
+    <address>Kuber Apartment, Gr. Floor, Ambadi Road,Vasai Road (W),Post-Vasai Road,Tal-Vasai, Pin- 401202.</address>
+    <contact>0250-2342401</contact>
+    <micrCode>400524004</micrCode>
+    <ifscCode>TDCB0000003</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandip</name>
+    <city>Vasai</city>
+    <address>At &amp; Post Chandip, Shirsad-Vajreshwari Road, Taluka-Vasai, Pin -401303</address>
+    <contact>0250-2571222</contact>
+    <micrCode>400524037</micrCode>
+    <ifscCode>TDCB0000004</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Naigaon</name>
+    <city>Vasai</city>
+    <address>Om Guruprasad,1st Floor, Naigaon-W, Taluka-Vasai, Pin-401207</address>
+    <contact>0250-2300765</contact>
+    <micrCode>400524006</micrCode>
+    <ifscCode>TDCB0000005</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vatar</name>
+    <city>Vasai</city>
+    <address>At &amp; Post-Vatar, Taluka-Vasai, Pin-401301</address>
+    <contact>0250-2587707</contact>
+    <micrCode>400524033</micrCode>
+    <ifscCode>TDCB0000007</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nalasopara</name>
+    <city>Nallasopara</city>
+    <address>Om Laxmi Chember, 1st Floor,Tulinj, Nalasopara-E , Taluka-Vasai, Pin-401304</address>
+    <contact>0250-2432673</contact>
+    <micrCode>400524003</micrCode>
+    <ifscCode>TDCB0000008</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dugadphata</name>
+    <city>Bhiwandi</city>
+    <address>At-Dugad Fata,Post-Dugad, Taluka-Bhiwandi, Pin-421302</address>
+    <contact>02522-288550</contact>
+    <micrCode>400524046</micrCode>
+    <ifscCode>TDCB0000011</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Padgha</name>
+    <city>Padgha</city>
+    <address>Wed Apartment,First Floor,Opp Laxmi-Narayan Bldg,Padgha-Bhiwandi Rd At &amp; Post :Padgha Tal:Bhiwandi Dist:Thane 421101</address>
+    <contact>02522-268278</contact>
+    <micrCode>400524049</micrCode>
+    <ifscCode>TDCB0000012</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Purna</name>
+    <city>Bhiwandi</city>
+    <address>Kondu Patil Building, Purneshwar Mandir Road, Post-Kalher, Taluka -Bhiwandi, Pin-401302</address>
+    <contact>02522-271800</contact>
+    <micrCode>400524031</micrCode>
+    <ifscCode>TDCB0000013</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vajreshwari</name>
+    <city>Ganeshpuri</city>
+    <address>Classic Enterprizes ,First Floor,Vasai-Ambadi Road,At&amp; Post:Vajreshwari ,Tal:Bhiwandi.Dist Thane Pin:401204</address>
+    <contact>02522-261235</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000014</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kon</name>
+    <city>Bhiwandi</city>
+    <address>At &amp; Post-Kon, Taluka-Bhiwandi, Pin-421311</address>
+    <contact>02522-280575</contact>
+    <micrCode>400524030</micrCode>
+    <ifscCode>TDCB0000015</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kharbav</name>
+    <city>Bhiwandi</city>
+    <address>At &amp; Post-Kharbav, Taluka-Bhiwandi, Pin-421302</address>
+    <contact>02522-264310</contact>
+    <micrCode>400524034</micrCode>
+    <ifscCode>TDCB0000016</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kasa</name>
+    <city>Dahanu</city>
+    <address>At &amp; Post-Kasa, Near R.H.Hospital, Post-Kasa, Taluka-Dahanu, Pin-401607</address>
+    <contact>02528-264032</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000021</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manda Titwala</name>
+    <city>Kalyan</city>
+    <address>Ganpati Mandir Road, Sidhraj Appt. Manda-Titwala(E),Tal.Kalyan Pin Code-421 605.</address>
+    <contact>0251-2381203</contact>
+    <micrCode>400524025</micrCode>
+    <ifscCode>TDCB0000026</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dombivali (W)</name>
+    <city>Dombivli</city>
+    <address>M.G.Road,Om Trimurti Bldg, Vishnunagar, Tal.Kalyan Pin Code-421 202.</address>
+    <contact>0251-2485979</contact>
+    <micrCode>400524017</micrCode>
+    <ifscCode>TDCB0000027</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dombivali ( E )</name>
+    <city>Dombivli</city>
+    <address>Shivaji Udyog Nagar, Manpada Road,Dombivali, Tal.Kalyan, Pin Code-421 201.</address>
+    <contact>0251-2448561</contact>
+    <micrCode>400524018</micrCode>
+    <ifscCode>TDCB0000028</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ram Maruti Road</name>
+    <city>Thane</city>
+    <address>Shrusti Pride Chs Ltd, Flat No. 102,Ram Maruti Road, Thane (West) Pin Code-400 602.</address>
+    <contact>022-25402272</contact>
+    <micrCode>400524010</micrCode>
+    <ifscCode>TDCB0000032</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thane Town</name>
+    <city>Thane</city>
+    <address>Chhatrapati Shivaji Path, P.O.No.19, Thane (W) Pin Code-400 601.</address>
+    <contact>022-25363042</contact>
+    <micrCode>400524009</micrCode>
+    <ifscCode>TDCB0000033</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhayander</name>
+    <city>Mira Bhayandar</city>
+    <address>Sahkar Jyot, Cross Corner, 1st Floor, Near Mira – Bhayandar Mahanagar Palika, Bhayandar (W)</address>
+    <contact>022-8192529</contact>
+    <micrCode>400524007</micrCode>
+    <ifscCode>TDCB0000034</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghansoli</name>
+    <city>Thane</city>
+    <address>Opp.Navi Mumbai Mahanagar Palika School No.31, Prabhakar Patil Chawl, Thane Belapur Road, Ghansoli, Pin-400701</address>
+    <contact>022-27692324</contact>
+    <micrCode>400524014</micrCode>
+    <ifscCode>TDCB0000035</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mumbra</name>
+    <city>Thane</city>
+    <address>Opp.Mumbra Police Station, At &amp; Post Mumbra. Pin Code-400 612</address>
+    <contact>022-25462026</contact>
+    <micrCode>400524016</micrCode>
+    <ifscCode>TDCB0000036</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Turbhe</name>
+    <city>Thane</city>
+    <address>Apmc Fruit Market, Central Facilities Building., Ground Floor, Sector – 19, Turbhe,Navi Mumbai, Pin-400705</address>
+    <contact>022-27832511</contact>
+    <micrCode>400524015</micrCode>
+    <ifscCode>TDCB0000037</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Wagle Estate</name>
+    <city>Thane</city>
+    <address>Dhyan House Building, Shivaji Nagar Road No.3,Wagle Estate, Pin Code-400 604.</address>
+    <contact>022-400604</contact>
+    <micrCode>400524011</micrCode>
+    <ifscCode>TDCB0000038</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalwa</name>
+    <city>Thane</city>
+    <address>Bharti Chember, Old Belapur Road, Kalwa Pin Code-400 605.</address>
+    <contact>022-25347314</contact>
+    <micrCode>400524013</micrCode>
+    <ifscCode>TDCB0000039</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kopri Colony</name>
+    <city>Thane</city>
+    <address>Sai Tirth Building, Office No. 1/12, 1st Floor, B,Wing, Siddharth Nagar, Kopari, Thane-E, Pin-400603</address>
+    <contact>022-25320527</contact>
+    <micrCode>400524012</micrCode>
+    <ifscCode>TDCB0000040</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Uttan</name>
+    <city>Mira Bhayandar</city>
+    <address>Sagar Darshan, Uttan Pali Road, At. Post.,Uttan, Pin -401 106.</address>
+    <contact>022-28450116</contact>
+    <micrCode>400524008</micrCode>
+    <ifscCode>TDCB0000041</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ulhasnagar 4</name>
+    <city>Ulhasnagar</city>
+    <address>O T Section Opp.Maleriya Office Ulhasnagar-4,Dist-Thane. Pin -421 004.</address>
+    <contact>022-2581232</contact>
+    <micrCode>400524021</micrCode>
+    <ifscCode>TDCB0000042</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kulgaon</name>
+    <city>Ulhasnagar</city>
+    <address>Shiv Tirth, Near Railway Staion, Tal-Ambarnath, Pin -421 503.</address>
+    <contact>0251-2690045</contact>
+    <micrCode>400524024</micrCode>
+    <ifscCode>TDCB0000043</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ambernath</name>
+    <city>Ulhasnagar</city>
+    <address>Sai Datta Building Suryoday Chs.Plot No. – 10, Near State Bank, Ambarnath ( East ) Pin-421 501.</address>
+    <contact>0251-2602050</contact>
+    <micrCode>400524023</micrCode>
+    <ifscCode>TDCB0000044</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ulhasnagar 3</name>
+    <city>Ulhasnagar</city>
+    <address>Shri Ram Niwas Kalyan Ambernath Road, Ulhasnagar-3, Pin Code-421 003.</address>
+    <contact>0251-2734229</contact>
+    <micrCode>400524022</micrCode>
+    <ifscCode>TDCB0000045</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Safala</name>
+    <city>Palghar</city>
+    <address>Grampanchayat Building, At- Safala-East, Taluka-Palghar, Pin-401 102.</address>
+    <contact>02525-230160</contact>
+    <micrCode>400524039</micrCode>
+    <ifscCode>TDCB0000052</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Washind</name>
+    <city>Washind</city>
+    <address>Opp.Khativali Vasind Seva Sty At &amp; Post-Vasind,Taluka-Shahapur Dist.Thane. Pin-421604</address>
+    <contact>02527-220046</contact>
+    <micrCode>400524041</micrCode>
+    <ifscCode>TDCB0000061</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shenva</name>
+    <city>Shahapur</city>
+    <address>Shenava Naka, Kinhavali Shahapur Road, At &amp; Post-Shenva, Taluka-Shahapur, Pin-421 601</address>
+    <contact>02527-230088</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000062</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhamankarnaka</name>
+    <city>Bhiwandi</city>
+    <address>31, Dhamankar Palace Bldg. 1st Floor, Dhamankar Naka,Taluka-Bhiwandi, Pin-421 302</address>
+    <contact>02522-255387</contact>
+    <micrCode>400524027</micrCode>
+    <ifscCode>TDCB0000074</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolsewadi (Kalyan)</name>
+    <city>Kalyan</city>
+    <address>Om Shradha Tower, Tisgaon Naka, Kalyan (East),Dist-Thane. Pin Code-421 302.</address>
+    <contact>0251-2357694</contact>
+    <micrCode>400524020</micrCode>
+    <ifscCode>TDCB0000075</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tokawade</name>
+    <city>Murbad</city>
+    <address>At &amp; Post-Tokawade,Taluka-Murbad, Dist.Thane. Pin-421 402.</address>
+    <contact>02524-2420580</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000077</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rambaug (Kalyan)</name>
+    <city>Kalyan</city>
+    <address>Shreya Palace, Rambaug Lane 4, Kalyan (W.) Taluka-Kalyan, Pin- 421301</address>
+    <contact>0251-2210185</contact>
+    <micrCode>400524032</micrCode>
+    <ifscCode>TDCB0000079</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mira Road</name>
+    <city>Mira Bhayandar</city>
+    <address>Abid Patel House, Near Amar Palace Hotel, Near A.P. International School , Miragaon National Highway, Pin-401 104.</address>
+    <contact>022-28457707</contact>
+    <micrCode>400524035</micrCode>
+    <ifscCode>TDCB0000080</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Z.P.Ext. Thane</name>
+    <city>Thane</city>
+    <address>Zilla Parizad Compound, 1st Floor, Thane (W) , Taluka-Thane. Pin 400 601</address>
+    <contact>022-25337630</contact>
+    <micrCode>400524036</micrCode>
+    <ifscCode>TDCB0000081</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Badlapur Belavali Ext.Counter</name>
+    <city>Belvali</city>
+    <address>Jija Mata Vikrikar Bhavan,Datta Chowk ,Belavali Badlapur (W)pin:421503</address>
+    <contact>0251-2673699</contact>
+    <micrCode>400524040</micrCode>
+    <ifscCode>TDCB0000082</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lodha Heaven (Shilphata)</name>
+    <city>Thane</city>
+    <address>Mukta Residensy, B-2, 1st Floor, Near Khidkaleshwar Mandir,Kalyan – Shilfata,Taluka-Thane</address>
+    <contact>Shivaji Patil 9224182032</contact>
+    <micrCode>400524053</micrCode>
+    <ifscCode>TDCB0000085</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mharal</name>
+    <city>Kalyan</city>
+    <address>Shree Swami-Samarth Krupa Bldg.,Near Gaondevi Mandir,Mharal Gaon,Post:Varap Tal:Kalyan Dist:Thane Pin 421301</address>
+    <contact>02521-232021</contact>
+    <micrCode>400524051</micrCode>
+    <ifscCode>TDCB0000088</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Udhava</name>
+    <city>Udhawa</city>
+    <address>At &amp; Post-Udhava , Taluka- Talasari, Dist–thane Pin- 401 606</address>
+    <contact>Manoj Jadhav</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000089</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mankoli</name>
+    <city>Bhiwandi</city>
+    <address>Shri Ganesh Complex, A-1, 1st Floor, Anjur Road, At. Mankoli, Post. Anjur, Taluka-Bhiwandi, Dist-Thane</address>
+    <contact>Arvind Patil 9226745828</contact>
+    <micrCode>400524050</micrCode>
+    <ifscCode>TDCB0000090</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chinchani</name>
+    <city>Dahanu</city>
+    <address>Grampanchayat Building, 1st Floor, At &amp; Post-Chinchani, Taluka- Dahanu, Pin-401503</address>
+    <contact>02528-242156</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000020</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhasai</name>
+    <city>Murbad</city>
+    <address>At.Po.Dhasai, Tal.Murbad, Pin Code-421 402.</address>
+    <contact>02524-244044</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000030</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satpati</name>
+    <city>Palghar</city>
+    <address>Near Ram Mandir Stop, At &amp; Post-Satpati, Taluka-Palghar, Pin-401 405.</address>
+    <contact>02525-224040</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000053</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tarapur</name>
+    <city>Palghar</city>
+    <address>1st Floor, Sai Datta Pooja Building, Tarapur Village, Tal-Palghar, Dist-Thane</address>
+    <contact>02525-280016</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000054</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhatsanagar</name>
+    <city>Shahapur</city>
+    <address>Bank Colony 3 B, Bhatsanagar Bajar Peth Road, At..Bhatsanagar, Tal.Shahapur , Pin Code-421 301.</address>
+    <contact>02527-249585</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000056</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dolkhamb</name>
+    <city>Shahapur</city>
+    <address>At &amp; Post.Dolkhamb, Taluka-Shahapur, Pin 421 601</address>
+    <contact>02527-234054</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000057</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Badlapur Gaon</name>
+    <city>Ambarnath</city>
+    <address>Harshal Apartment, 1 St Floor, Near Talathi Office Chawdi, Badlapurgaon, Taluka-Ambernath, Pin-421 504</address>
+    <contact>0251-2665255</contact>
+    <micrCode>400524054</micrCode>
+    <ifscCode>TDCB0000069</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Navapur</name>
+    <city>Palghar</city>
+    <address>Near Grampanchayat Office, At &amp; Post-Navapur, Tal.Palghar, Dist.Thane. Pin-401 401.</address>
+    <contact>02525-288321</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000071</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Narivali Ext. Count.</name>
+    <city>Murbad</city>
+    <address>At &amp; Post – Narivali, Taluka- Murbad,</address>
+    <contact>02524-248020</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000083</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhakti Dahanu</name>
+    <city>Dahanu</city>
+    <address>At Dhakti Dahanu,Mitan Ali, Post-Dahanu, Tal. Dahanu, Dist-Thane, Pin- 421 601</address>
+    <contact>02528-247474</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000091</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aalonde</name>
+    <city>Vikramgad</city>
+    <address>At &amp; Post Aalonde, Tal- Vikramgad, Dist Thane</address>
+    <contact>Vijay Chaudhari 9764236712</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000094</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jamsar</name>
+    <city>Jawhar</city>
+    <address>House No.75, Ground Floor, Village Jamasar, Tal-Jawhar, Dist-Thane.</address>
+    <contact>Badade 9403698313</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000097</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khadavali</name>
+    <city>Kalyan</city>
+    <address>Mangalmurti Apartment, B-Wing, Flat No.13 &amp; 14, Ground Floor, Near Khadawali Station, Khadawali , (E), Tal-Kalyan, Dist-Thane. Pin-431301</address>
+    <contact>0251-2370999</contact>
+    <micrCode>400524060</micrCode>
+    <ifscCode>TDCB0000099</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Goveli</name>
+    <city>Kalyan</city>
+    <address>House No.439, Ground Floor, Kalyan-Murbad Road, Goveli, Tal-Kalyan, Dist-Thane. Pin 421301</address>
+    <contact>0251-2390949</contact>
+    <micrCode>400524063</micrCode>
+    <ifscCode>TDCB0000101</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vangani</name>
+    <city>Ambarnath</city>
+    <address>Kalpana Kunj, Vangani,Tal-Ambarnath,Dist-Thane. Pin Code-421 503.</address>
+    <contact>0251-2660404</contact>
+    <micrCode>400524040</micrCode>
+    <ifscCode>TDCB0000046</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Boisar</name>
+    <city>Boisar</city>
+    <address>Paras Hotel Bldg.,1 St Floor, Opp. Boisar Rly.Station,Tal.Palghar,Dist.Thane.Pin Code-401 501.</address>
+    <contact>02525-272873</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000048</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tarapur Midc</name>
+    <city>Boisar</city>
+    <address>Near Tata Steel Co.,Gogte Naka, Navapur Road, Boisar (W),Tal.Palghar,Dist.Thane.Pin Code-401 506.</address>
+    <contact>02525-270268</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000049</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dandi</name>
+    <city>Dandi</city>
+    <address>Kopran Machimar Dandi Sansta, Po.Dandi, Tal.Palghar,Dist.Thane.Pin Code-401 501.</address>
+    <contact>02525-236363</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000070</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shivale Ext.Counter</name>
+    <city>Shivle</city>
+    <address>Shikshan Sankul, Gandhi Camp, At.Po.Shivle, Tal.Murbad, Dist.Thane.</address>
+    <contact>02524-247097</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000078</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Diva Station</name>
+    <city>Diva</city>
+    <address>Dhanraj Residency, Dhanraj Nagar, Diva,Thane-400 612.</address>
+    <contact>022-25318380</contact>
+    <micrCode>400524052</micrCode>
+    <ifscCode>TDCB0000086</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mamnoli</name>
+    <city>Mamnoli</city>
+    <address>Mamnoli, House No.281, Ground Floor, Tal-Kalyan, Dist-Thane.</address>
+    <contact>8080526100</contact>
+    <micrCode>400524056</micrCode>
+    <ifscCode>TDCB0000087</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mahim</name>
+    <city>Mahim</city>
+    <address>Mahim Vividha Karyakari, Sah.Society., Mahim, At &amp; Post-Mahim, Tal-Palghar, Dist-Thane</address>
+    <contact>02525-220866</contact>
+    <micrCode>- NA -</micrCode>
+    <ifscCode>TDCB0000092</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Asangaon</name>
+    <city>Asangaon</city>
+    <address>Pitashri&apos;, Shree Swami Samarth, Chowk, Station Road, Asangaon(W), Tal-Shahapur, Dist-Thane.</address>
+    <contact>9270862260</contact>
+    <micrCode>400524058</micrCode>
+    <ifscCode>TDCB0000095</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sanpada</name>
+    <city>Sanpada</city>
+    <address>Sai Sangat Bldg., First Floor, Plot No.4, Sector-3, Sanpada, Navi Mumbai-400705, 022-27757911</address>
+    <contact>022-27757911</contact>
+    <micrCode>400524057</micrCode>
+    <ifscCode>TDCB0000096</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Newali</name>
+    <city>Newali</city>
+    <address>C/O.Mrs.Yogita Balaram Patil, First Floor, Newali Naka, Newali,Tal-Ambernath, Dist-Thane.</address>
+    <contact>9552660039</contact>
+    <micrCode>400524059</micrCode>
+    <ifscCode>TDCB0000098</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koparkhairane</name>
+    <city>Koparkhairane</city>
+    <address>Mayur Apartment&apos;, Shop No.7,Ground Floor, Flat No.18,Koparkhairane, Navi Mumbai,Tal/Dist-Thane.</address>
+    <contact>022-27542426</contact>
+    <micrCode>400524062</micrCode>
+    <ifscCode>TDCB0000100</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vartaknagar</name>
+    <city>Thane</city>
+    <address>Gitanjali Niwas-1&apos;, Ground, Floor,Shop No. 1 &amp; 2, Yashodhan Nagar,Mtnl, Ward, No.4, Lokmanyanagar,Pada No.2, Thane (W).</address>
+    <contact>022-25882369</contact>
+    <micrCode>400524061</micrCode>
+    <ifscCode>TDCB0000102</ifscCode>
+    <bankLoc>14465</bankLoc>
+  </bankbranch>
+</bankBranchs>

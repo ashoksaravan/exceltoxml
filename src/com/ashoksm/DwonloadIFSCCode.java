@@ -65,7 +65,7 @@ public class DwonloadIFSCCode {
 						index++;
 					}
 				}
-				if (i % 1500 == 0) {
+				if (i != 0 && i % 1500 == 0) {
 					HSSFRow row1 = workbook.getSheetAt(0).getRow(0);
 					for (int colNum = 0; colNum < row1.getLastCellNum(); colNum++) {
 						workbook.getSheetAt(0).autoSizeColumn(colNum);
