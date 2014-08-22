@@ -101,7 +101,8 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Mehsana Urban Co-Op Bank Ltd");
 		BANK_NAMES.add("Mizuho Corporate Bank Ltd");
 		BANK_NAMES.add("Mumbai District Central Co-Op Bank Ltd");
-		BANK_NAMES.add("Nagpur Nagarik Sahakari Bank Ltd");
+		BANK_NAMES.add("Nagar Urban Co-Operative Bank");
+		BANK_NAMES.add("Nagpur Nagarik Sahakari Bank Ltd"); 
 		BANK_NAMES.add("Nainital Bank Ltd");
 		BANK_NAMES.add("National Australia Bank");
 		BANK_NAMES.add("New India Co-Op Bank Ltd");
@@ -147,6 +148,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Thane Janata Sahakari Bank Ltd");
 		BANK_NAMES.add("The A.P. Mahesh Co-Op Urban Bank Ltd");
 		BANK_NAMES.add("The Akola District Central Co-operative Bank");
+		BANK_NAMES.add("The Akola Janata Commercial Co-operative Bank");
 		BANK_NAMES.add("The Andhra Pradesh State Co-op Bank Ltd.");
 		BANK_NAMES.add("The Delhi State Co-operative Bank Ltd.");
 		BANK_NAMES.add("The Gadchiroli District Central Co-operative Bank Ltd");
@@ -183,10 +185,12 @@ public class IFSCStateAndDistrictGenerator {
 		List<District> districts = new ArrayList<District>();
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
-			if (!bank.getName().equals("BankNames.xls")) {
+			System.out.println(bank.getName());
+			if (!bank.getName().equals("BankNames.xls") && !"BankBranchAddress.xls".equals(bank.getName())) {
 				String bankName = bank.getName().substring(0, bank.getName().lastIndexOf("."));
-				if(bankName.endsWith("0") || bankName.endsWith("1") || bankName.endsWith("2") || bankName.endsWith("3")) {
-					bankName = bankName.substring(0, bankName.length()-1);
+				if (bankName.endsWith("0") || bankName.endsWith("1") || bankName.endsWith("2")
+						|| bankName.endsWith("3")) {
+					bankName = bankName.substring(0, bankName.length() - 1);
 				}
 				FileInputStream file = new FileInputStream(bank);
 				// Get the workbook instance for XLS file
@@ -233,8 +237,8 @@ public class IFSCStateAndDistrictGenerator {
 			districtsMap.put(district.getStateName(), districtsSet);
 			banksMap.put(district.getBankName(), districtsMap);
 		}
-		
-		//write in excel
+
+		// write in excel
 		HSSFWorkbook workbook = new HSSFWorkbook();
 		HSSFSheet sheet = workbook.createSheet("Bank Name");
 		int index = 0;
@@ -244,7 +248,8 @@ public class IFSCStateAndDistrictGenerator {
 			for (Map.Entry<String, Set<String>> district : districtsMap.entrySet()) {
 				String stateName = district.getKey();
 				for (String districtName : district.getValue()) {
-					//System.out.println(bankName + " : " + stateName + " : " + districtName);
+					// System.out.println(bankName + " : " + stateName + " : " +
+					// districtName);
 					HSSFRow bankAddRow = sheet.createRow(index);
 					bankAddRow.createCell(0).setCellValue(index + 1);
 					bankAddRow.createCell(1).setCellValue(bankName);
@@ -254,7 +259,7 @@ public class IFSCStateAndDistrictGenerator {
 				}
 			}
 		}
-		FileOutputStream out = new FileOutputStream(new File(args[0]+"/BankBranchAddress.xls"));
+		FileOutputStream out = new FileOutputStream(new File(args[0] + "/BankBranchAddress.xls"));
 		workbook.write(out);
 		out.close();
 		System.out.println("Written successfully!!!");
@@ -263,7 +268,7 @@ public class IFSCStateAndDistrictGenerator {
 	private static String getBankName(String bankNameIn) throws Exception {
 		for (String bankName : BANK_NAMES) {
 			String temp = bankName.replaceAll(" ", "").trim();
-			if(temp.equalsIgnoreCase(bankNameIn)){
+			if (temp.equalsIgnoreCase(bankNameIn)) {
 				return bankName;
 			}
 		}

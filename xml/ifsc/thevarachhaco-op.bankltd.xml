@@ -1,110 +1,119 @@
 <bankBranchs>
   <bankbranch>
+    <name>Main Branch</name>
+    <city>Surat</city>
+    <address>Affil Tower, L.H.Road, Surat-395006</address>
+    <contact>0261-4008003 </contact>
+    <micrCode>395289002</micrCode>
+    <ifscCode>VARA0289001</ifscCode>
+    <bankLoc>14276</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Kamrej</name>
     <city>Kamrej</city>
     <address>Bhavani Complex, Kamrej Char Rasta, Kamrej- 394185</address>
-    <contact>0261-4008051</contact>
+    <contact>0261-4008051 </contact>
     <micrCode>395289003</micrCode>
     <ifscCode>VARA0289002</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ring Road</name>
     <city>Surat</city>
     <address>1st Floor, Vankarsangh Building, Opp. Jash Market, Ring Road, Surat-395003</address>
-    <contact>0261-4008066</contact>
+    <contact>0261-4008066 </contact>
     <micrCode>395289004</micrCode>
     <ifscCode>VARA0289003</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadodara</name>
     <city>Kadodara</city>
     <address>Thakorji Complex, Kadodra Char Rasta, Kadodra-394327</address>
-    <contact>0261-4008081</contact>
+    <contact>0261-4008081 </contact>
     <micrCode>395289005</micrCode>
     <ifscCode>VARA0289004</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kapodra</name>
     <city>Surat</city>
     <address>Near Siddhkutir Mandir,Kapodra, Varachha Road, Surat-395006</address>
-    <contact>0261-4008096</contact>
+    <contact>0261-4008096 </contact>
     <micrCode>395289006</micrCode>
     <ifscCode>VARA0289005</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Katargam</name>
     <city>Surat</city>
     <address>Sardar Complex,Katargam Main Road, Near Bal Anath Ashram, Katargam-395004</address>
-    <contact>0261-4008116</contact>
+    <contact>0261-4008116 </contact>
     <micrCode>395289007</micrCode>
     <ifscCode>VARA0289006</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Punagam</name>
     <city>Puna</city>
     <address>Resma Residency, Near Punagam Canal Road, Punagam Surat-395010</address>
-    <contact>0261-4008131</contact>
+    <contact>0261-4008131 </contact>
     <micrCode>395289008</micrCode>
     <ifscCode>VARA0289007</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sachin</name>
     <city>Sachin</city>
     <address>Laxmivilla Township, G.I.D.C., Sachin-394230</address>
-    <contact>0261-4008171</contact>
+    <contact>0261-4008171 </contact>
     <micrCode>395289009</micrCode>
     <ifscCode>VARA0289008</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Navsari</name>
     <city>Navsari</city>
     <address>Snejhkunj Appartment, Railway Station Road, Navsari-396445</address>
-    <contact>02637- 281200</contact>
+    <contact>02637- 281200 </contact>
     <micrCode>396289061</micrCode>
     <ifscCode>VARA0289009</ifscCode>
-    <bankLoc>14609</bankLoc>
+    <bankLoc>14275</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nikol</name>
     <city>Ahmedabad</city>
     <address>Pancham Shopping Mall, Near Jivanwadi, Nikolgam Road, Ahmedabad-382350</address>
-    <contact>079-22951599</contact>
+    <contact>079-22951599 </contact>
     <micrCode>380240254</micrCode>
     <ifscCode>VARA0289010</ifscCode>
-    <bankLoc>14607</bankLoc>
+    <bankLoc>14273</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ankleshwar</name>
     <city>Ankleshwar</city>
     <address>R-16 Square, Near Jaldhara Chowkdi, Valiya Road, Anleshwar-393001</address>
-    <contact>02646-254804</contact>
+    <contact>02646-254804 </contact>
     <micrCode>393289051</micrCode>
     <ifscCode>VARA0289011</ifscCode>
-    <bankLoc>14608</bankLoc>
+    <bankLoc>14274</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yogi Chowk</name>
     <city>Surat</city>
-    <address>Shop No.9 To 15, 1st Floor, Swapn Residency, Nr. Water Tank, Yogi Chowk,Surat-395010</address>
-    <contact>0261-4007011,0261-4007013,0261-4008014,Yogichowk@varachhabank.Com</contact>
+    <address>Shop No.9 To 15, 1st  Floor, Swapn Residency, Nr. Water Tank, Yogi Chowk,Surat-395010</address>
+    <contact>0261-4007011,0261-4007013,0261-4008014,yogichowk@varachhabank.com </contact>
     <micrCode>395289010</micrCode>
     <ifscCode>VARA0289012</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mota Varachha</name>
     <city>Surat</city>
     <address>Shop No. 3 To 5, Abhishek Residency-3, Nr. Sudama Chowk, Mota Varachha-394101</address>
-    <contact>0261-4007126,0261-4007128,0261-4007129,Motavarachha@varachhabank.Com</contact>
+    <contact>0261-4007126,0261-4007128,0261-4007129,motavarachha@varachhabank.com </contact>
     <micrCode>395289011</micrCode>
     <ifscCode>VARA0289013</ifscCode>
-    <bankLoc>14610</bankLoc>
+    <bankLoc>14276</bankLoc>
   </bankbranch>
 </bankBranchs>

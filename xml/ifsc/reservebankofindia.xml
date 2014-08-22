@@ -1,227 +1,218 @@
 <bankBranchs>
   <bankbranch>
-    <name>Pad Ahmedabad</name>
+    <name>Pad, Ahmedabad</name>
     <city>Ahmedabad</city>
     <address>Public Accounts Department, Near Gandhi Bridge,Post Bag No.1,Ahmedabad 380014</address>
-    <contact>079-27546165</contact>
+    <contact>079-27546165 </contact>
     <micrCode>380001001</micrCode>
     <ifscCode>RBIS0AHPA01</ifscCode>
-    <bankLoc>11580</bankLoc>
+    <bankLoc>11170</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhubaneswar</name>
     <city>Bhubaneswar</city>
     <address>Pt. Jawaharlal Marg, Kharvelnagar</address>
-    <contact>0674-2390071</contact>
+    <contact>0674-2390071 </contact>
     <micrCode>751001001</micrCode>
     <ifscCode>RBIS0BBPA01</ifscCode>
-    <bankLoc>11592</bankLoc>
+    <bankLoc>11180</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad Bangalore</name>
+    <name>Pad, Bangalore</name>
     <city>Bangalore</city>
     <address>P.B.No.5467, 10/3/08, Nrupathunga Road, Bangalore-560001</address>
-    <contact>080-22211202</contact>
+    <contact>080-22211202 </contact>
     <micrCode>560000001</micrCode>
     <ifscCode>RBIS0BGPA01</ifscCode>
-    <bankLoc>11584</bankLoc>
+    <bankLoc>11174</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandigarh</name>
     <city>Chandigarh</city>
     <address>Central Vista, Sector 17, Chandigarh 160017</address>
-    <contact>0172-2784213</contact>
+    <contact>0172-2784213 </contact>
     <micrCode>160001001</micrCode>
     <ifscCode>RBIS0CGPA01</ifscCode>
-    <bankLoc>11577</bankLoc>
+    <bankLoc>11166</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad Chennai</name>
+    <name>Pad, Chennai</name>
     <city>Chennai</city>
     <address>Pad, Reserve Bank Of India, Fort Glacis, 16 Rajaji Salai, Chennai 600001</address>
-    <contact>044-25399110 044- 25387207</contact>
+    <contact>044-25399110   044- 25387207 </contact>
     <micrCode>600001000</micrCode>
     <ifscCode>RBIS0CNPA01</ifscCode>
-    <bankLoc>11594</bankLoc>
+    <bankLoc>11182</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad Guwahati</name>
+    <name>Pad, Guwahati</name>
     <city>Guwahati</city>
     <address>Pad, Rbi, Station Road, Pan Bazaar, Guwahati 781 001</address>
-    <contact>0361-2517543</contact>
+    <contact>0361-2517543 </contact>
     <micrCode>781001001</micrCode>
     <ifscCode>RBIS0GWPA01</ifscCode>
-    <bankLoc>11575</bankLoc>
+    <bankLoc>11164</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jammu</name>
     <city>Jammu</city>
     <address>Deposit Accounts Department Reserve Bank Of India Jammu - 180012</address>
-    <contact>Phone - 01912474841 Fax - 01912471296</contact>
+    <contact>Phone - 01912474841 Fax - 01912471296 </contact>
     <micrCode>180001001</micrCode>
     <ifscCode>RBIS0JMPA01</ifscCode>
-    <bankLoc>11582</bankLoc>
+    <bankLoc>11172</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
     <city>Jaipur</city>
     <address>Tonk Road, Near Ram Baug Crossing, Jaipur - 302004</address>
-    <contact>0141-2571513</contact>
+    <contact>0141-2571513 </contact>
     <micrCode>302001002</micrCode>
     <ifscCode>RBIS0JPPA01</ifscCode>
-    <bankLoc>11593</bankLoc>
+    <bankLoc>11181</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad Kolkata</name>
+    <name>Pad, Kolkata</name>
     <city>Kolkata</city>
     <address>Pad, Reserve Bank Of India, 15, N.S.Road, Kolkata 700001</address>
-    <contact>033-22314885</contact>
+    <contact>033-22314885 </contact>
     <micrCode>700001001</micrCode>
     <ifscCode>RBIS0KLPA01</ifscCode>
-    <bankLoc>11598</bankLoc>
+    <bankLoc>11186</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanpur</name>
     <city>Kanpur</city>
     <address>M.G.Marg, Kanpur-208 001</address>
-    <contact>0512-2303962</contact>
+    <contact>0512-2303962 </contact>
     <micrCode>208001000</micrCode>
     <ifscCode>RBIS0KNPA01</ifscCode>
-    <bankLoc>11595</bankLoc>
+    <bankLoc>11183</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad Mumbai</name>
+    <name>Pad, Mumbai</name>
     <city>Mumbai</city>
     <address>Shahid Bhagat Singh Marg, Fort Mumbai -400 001</address>
-    <contact>022- 22662836/22676534</contact>
-    <micrCode>- NA -</micrCode>
+    <contact>022- 22662836/22676534 </contact>
+    <micrCode>NONMICR</micrCode>
     <ifscCode>RBIS0MBPA04</ifscCode>
-    <bankLoc>11588</bankLoc>
+    <bankLoc>11178</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad New Delhi</name>
+    <name>Pad, New Delhi</name>
     <city>New Delhi</city>
     <address>Pad, Rbi, 6, Sansad Marg, New Delhi 110 001</address>
-    <contact>011-23452060, 011-23710314</contact>
+    <contact>011-23452060, 011-23710314 </contact>
     <micrCode>110001000</micrCode>
     <ifscCode>RBIS0NDPA01</ifscCode>
-    <bankLoc>11591</bankLoc>
+    <bankLoc>11168</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pad Hyderabad</name>
+    <name>Pad, Hyderabad</name>
     <city>Hyderabad</city>
     <address>Public Accounts Department, 6-1-56, Secretariat Road, Saifabad, Hyderabad 500004</address>
-    <contact>040-23232765</contact>
+    <contact>040-23232765 </contact>
     <micrCode>500001001</micrCode>
     <ifscCode>RBIS0NEFTHY</ifscCode>
-    <bankLoc>11574</bankLoc>
+    <bankLoc>11163</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagpur</name>
     <city>Nagpur</city>
     <address>Rbi, Pad, Main Office Bldg.,Dr.Raghavendra Rao Road, Civil Lines, P.B.No.15,Nagpur-4400001</address>
-    <contact>0712-2547077</contact>
+    <contact>0712-2547077 </contact>
     <micrCode>440001001</micrCode>
     <ifscCode>RBIS0NGPA01</ifscCode>
-    <bankLoc>11589</bankLoc>
+    <bankLoc>11179</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patna</name>
     <city>Patna</city>
     <address>Reserve Bank Of India, South Gandhi Maidan, Patna - 800001</address>
-    <contact>0612-2321291</contact>
+    <contact>0612-2321291 </contact>
     <micrCode>800001001</micrCode>
     <ifscCode>RBIS0PTPA01</ifscCode>
-    <bankLoc>11576</bankLoc>
+    <bankLoc>11165</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvananthapuram</name>
     <city>Thiruvananthapuram</city>
     <address>Bakery Junction, Thiruvananthapuram</address>
-    <contact>0471- 2328690</contact>
+    <contact>0471- 2328690 </contact>
     <micrCode>695001000</micrCode>
     <ifscCode>RBIS0THPA01</ifscCode>
-    <bankLoc>11586</bankLoc>
+    <bankLoc>11176</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rbi Pad Lucknow</name>
     <city>Lucknow</city>
     <address>Rbi,Vipul Khand,Gomati Nagar, Lucknow</address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode>NOT AVAILABLE</micrCode>
     <ifscCode>RBIS0LKPA01</ifscCode>
-    <bankLoc>11596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shillong Office</name>
-    <city>Shillong</city>
-    <address>Apphira Building,Fruit Garden,Shillong Jowai Road,P O Laitumkhrah,Shillong,Meghalaya,Pin 793003</address>
-    <contact></contact>
-    <micrCode>- NA -</micrCode>
-    <ifscCode>RBIS0SLPA01</ifscCode>
-    <bankLoc>11590</bankLoc>
+    <bankLoc>11184</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranchi</name>
     <city>Ranchi</city>
     <address>4th Floor.Rrda Building.Katchehri Road,Ranchi 834001</address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode></micrCode>
     <ifscCode>RBIS0RNPA01</ifscCode>
-    <bankLoc>11583</bankLoc>
+    <bankLoc>11173</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dehradun</name>
     <city></city>
     <address></address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode>NON-MICR</micrCode>
     <ifscCode>RBIS0DNPA01</ifscCode>
-    <bankLoc>11597</bankLoc>
+    <bankLoc>11185</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal</name>
     <city>Bhopal</city>
     <address>Reserve Bank Of India, Deposit Account Department, Hoshangabad Road, P.B. No. 32, Bhopal- 462 011</address>
-    <contact>0755-2764851, 0755-2574033</contact>
-    <micrCode>- NA -</micrCode>
+    <contact>0755-2764851, 0755-2574033 </contact>
+    <micrCode>NON-MICR</micrCode>
     <ifscCode>RBIS0BLPA01</ifscCode>
-    <bankLoc>11587</bankLoc>
+    <bankLoc>11177</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur</name>
     <city>Raipur</city>
     <address>54/949, Subhashish Parisar, Satya Prem Vihar, Mahadev Ghat Road, Sundar Nagar, Raipur - 492 013</address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode>NON-MICR</micrCode>
     <ifscCode>RBIS0RPPA01</ifscCode>
-    <bankLoc>11578</bankLoc>
+    <bankLoc>11167</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panaji</name>
     <city>Panaji</city>
     <address>Geras Imperium Ii 7th Floor 70706 Patto Panaji Goa 403001</address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode>NA</micrCode>
     <ifscCode>RBIS0PJPA01</ifscCode>
-    <bankLoc>11579</bankLoc>
+    <bankLoc>11169</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kochi</name>
     <city>Kochi</city>
     <address>Foreign Exchange Department , Reserve Bank Of India, Ernakulam North, Kochi -682018</address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode>NON-MICR</micrCode>
     <ifscCode>RBIS0KCPA01</ifscCode>
-    <bankLoc>11585</bankLoc>
+    <bankLoc>11175</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shimla</name>
     <city>Shimla</city>
-    <address>Rural Planning And Credit Department , B-478, Sector Iv, New Shimla, Shimla 171009.</address>
+    <address>Rural Planning And Credit Department , B-478, Sector Iv, New Shimla, Shimla 171009</address>
     <contact></contact>
-    <micrCode>- NA -</micrCode>
+    <micrCode>NON-MICR</micrCode>
     <ifscCode>RBIS0SMPA01</ifscCode>
-    <bankLoc>11581</bankLoc>
+    <bankLoc>11171</bankLoc>
   </bankbranch>
 </bankBranchs>

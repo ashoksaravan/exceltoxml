@@ -1,20 +1,11 @@
 <bankBranchs>
   <bankbranch>
     <name>Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Mumbai</city>
     <address>201, Raheja Centre, Free Press, Journal Marg, Nariman Point, Mumbai 400 021</address>
-    <contact>66324848</contact>
-    <micrCode>400210002</micrCode>
-    <ifscCode>OIBA0000002</ifscCode>
-    <bankLoc>9997</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>201, Raheja Centre, Free Press, Journal Marg, Nariman Point, Mumbai 400 021</address>
-    <contact>66324848</contact>
+    <contact></contact>
     <micrCode>400210002</micrCode>
     <ifscCode>OIBA0000001</ifscCode>
-    <bankLoc>9996</bankLoc>
+    <bankLoc>9886</bankLoc>
   </bankbranch>
 </bankBranchs>

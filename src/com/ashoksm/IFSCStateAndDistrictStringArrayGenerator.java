@@ -99,7 +99,8 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Mehsana Urban Co-Op Bank Ltd");
 		BANK_NAMES.add("Mizuho Corporate Bank Ltd");
 		BANK_NAMES.add("Mumbai District Central Co-Op Bank Ltd");
-		BANK_NAMES.add("Nagpur Nagarik Sahakari Bank Ltd");
+		BANK_NAMES.add("Nagar Urban Co-Operative Bank");
+		BANK_NAMES.add("Nagpur Nagarik Sahakari Bank Ltd"); 
 		BANK_NAMES.add("Nainital Bank Ltd");
 		BANK_NAMES.add("National Australia Bank");
 		BANK_NAMES.add("New India Co-Op Bank Ltd");
@@ -145,6 +146,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Thane Janata Sahakari Bank Ltd");
 		BANK_NAMES.add("The A.P. Mahesh Co-Op Urban Bank Ltd");
 		BANK_NAMES.add("The Akola District Central Co-operative Bank");
+		BANK_NAMES.add("The Akola Janata Commercial Co-operative Bank");
 		BANK_NAMES.add("The Andhra Pradesh State Co-op Bank Ltd.");
 		BANK_NAMES.add("The Delhi State Co-operative Bank Ltd.");
 		BANK_NAMES.add("The Gadchiroli District Central Co-operative Bank Ltd");

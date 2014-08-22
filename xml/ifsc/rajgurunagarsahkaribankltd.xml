@@ -2,19 +2,127 @@
   <bankbranch>
     <name>Head Office</name>
     <city>Rajgurunagar</city>
-    <address>319,320 Pune-Nashik Highway, Rajgurunagar Tal. Khed Dist Pune 410505</address>
-    <contact>Mrs. Kakade Jyotsna, Mr. Amrut Takalakar</contact>
-    <micrCode>- NA -</micrCode>
+    <address>319,320 Pune-nashik Highway, Rajgurunagar Tal. Khed Dist Pune 410505</address>
+    <contact>Mrs. Kakade Jyotsna, Mr. Amrut Takalakar </contact>
+    <micrCode>NA</micrCode>
     <ifscCode>RSBL0000001</ifscCode>
-    <bankLoc>11512</bankLoc>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tilak Chowk</name>
+    <city>Rajgurunagar</city>
+    <address>Shastri Chowk, Rajgurunagar, Taluka-khed, District-pune, 410505</address>
+    <contact>Mr. Pradip Sarada </contact>
+    <micrCode>411164302</micrCode>
+    <ifscCode>RSBL0000002</ifscCode>
+    <bankLoc>11099</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bajar Peth</name>
     <city>Rajgurunagar</city>
-    <address>319,320 Pune-Nashik Highway, Rajgurunagar Tal. Khed Dist Pune 410505</address>
-    <contact>Mr. Ashok Oswal</contact>
+    <address>319,320 Pune-nashik Highway, Rajgurunagar Tal. Khed Dist Pune 410505</address>
+    <contact>Mr. Ashok Oswal </contact>
     <micrCode>411164301</micrCode>
     <ifscCode>RSBL0000003</ifscCode>
-    <bankLoc>11512</bankLoc>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chakan</name>
+    <city>Chakan</city>
+    <address>Aiswarya Icon, Ambethan Chowk, Chakan, Taluka-khed, District-pune, 410501</address>
+    <contact>Mr. Ankush Kohinkar </contact>
+    <micrCode>411164283</micrCode>
+    <ifscCode>RSBL0000004</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kadus</name>
+    <city>Rajgurunagar</city>
+    <address>Grampanchayat Building, Kadus, Taluka-khed, District-pune, 412404</address>
+    <contact>Mr. Vijay Satkar </contact>
+    <micrCode>-</micrCode>
+    <ifscCode>RSBL0000005</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Narayangaon</name>
+    <city>Narayangaon</city>
+    <address>Gramvaibhav Complex, Junnar Road, Narayangaon, Taluka-ambegaon, District-pune, 410504</address>
+    <contact>Mr. Eknath Walunj </contact>
+    <micrCode>-</micrCode>
+    <ifscCode>RSBL0000006</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhosari</name>
+    <city>Bhosari</city>
+    <address>Agarwal Building, Gawali Nagar, Bhosari, Taluka-haweli, District-pune, 411039</address>
+    <contact>Mr. Dilip Malaghe </contact>
+    <micrCode>411164281</micrCode>
+    <ifscCode>RSBL0000007</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dehu Road</name>
+    <city>Dehu Road</city>
+    <address>Agrasen Chowk, Pune-mumbai Road, Dehu Road, Taluka-haweli, District-pune, 412101</address>
+    <contact>Mr. Rajendra Katariya </contact>
+    <micrCode>411164284</micrCode>
+    <ifscCode>RSBL0000008</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Budhwar Peth</name>
+    <city>Pune</city>
+    <address>634, Shri Vidya-bhavan, Budhwar Peth, District-pune, 411002</address>
+    <contact>Mr. Prasad Belhekar </contact>
+    <micrCode>411164294</micrCode>
+    <ifscCode>RSBL0000009</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manchar</name>
+    <city>Manchar</city>
+    <address>Gram Panchayat Complex, Shivali Chowk, Manchar, Taluka-ambegaon, District-pune, 410503</address>
+    <contact>Mr. Balu Gholap </contact>
+    <micrCode>-</micrCode>
+    <ifscCode>RSBL0000010</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shirur</name>
+    <city>Shirur</city>
+    <address>Manikchand Plaza, Shop No.:9-12, Revenue Colony, Near Post Office, A/p-shirur, District-pune, 412210</address>
+    <contact>Mr. Dattatraya Hinge </contact>
+    <micrCode>-</micrCode>
+    <ifscCode>RSBL0000011</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mhalunge-ingale</name>
+    <city>Mhalunge-ingale</city>
+    <address>Chakan Talegaon Road, A/p Mahalunge-ingale, Taluka-khed, District-pune, 410501</address>
+    <contact>Mr. Sunil Pansare </contact>
+    <micrCode>411164319</micrCode>
+    <ifscCode>RSBL0000012</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Alephata</name>
+    <city>Alephata</city>
+    <address>D.R. Kakade Plaza, Alephata, Taluka-junnar, 410501</address>
+    <contact>Mr. Ramesh Ghumatkar </contact>
+    <micrCode>-</micrCode>
+    <ifscCode>RSBL0000013</ifscCode>
+    <bankLoc>11099</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Alandi</name>
+    <city>Alandi</city>
+    <address>Alandi Markal Road, Taluka-khed, District-pune, 412105</address>
+    <contact>Mr. Gajanan Choudhari </contact>
+    <micrCode>411164320</micrCode>
+    <ifscCode>RSBL0000014</ifscCode>
+    <bankLoc>11099</bankLoc>
   </bankbranch>
 </bankBranchs>
