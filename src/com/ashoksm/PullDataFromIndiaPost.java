@@ -18,21 +18,22 @@ public class PullDataFromIndiaPost {
 
 	public static void main(String[] args) throws Exception {
 		HSSFWorkbook workbook = new HSSFWorkbook();
-		HSSFSheet sheet = workbook.createSheet("North 24 Parganas");
+		HSSFSheet sheet = workbook.createSheet("Adilabad");
 		WebDriver driver = new FirefoxDriver();
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		//driver.manage().window().maximize();
-		driver.get("http://utilities.cept.gov.in/pinsearch/pinsearch.aspx");
+		driver.get("http://www.indiapost.gov.in/pinsearch.aspx");
 		driver.findElement(By.id("img2")).click();
 		WebElement select = driver.findElement(By.id("ddl_dist"));
 		List<WebElement> options = select.findElements(By.tagName("option"));
 		for (WebElement option : options) {
-			if (option.getText().equals("North 24 Parganas")) {
+			if (option.getText().equals("Adilabad")) {
 				option.click();
 				break;
 			}
 		}
-		driver.findElement(By.id("btn_dist")).click();
+		Thread.sleep(10000);
+		driver.findElement(By.id("search_on")).click();
 		int index = 0;
 		if (driver instanceof JavascriptExecutor) {
 			for (int j = 0; j < 10; j++) {
@@ -54,7 +55,7 @@ public class PullDataFromIndiaPost {
 			}
 
 			int temp = 0;
-			for (int i = 2; i < 65; i++) {
+			for (int i = 2; i < 52; i++) {
 				if (i > 11) {
 					for (int j = 11; j <= i; j += 10) {
 						((JavascriptExecutor) driver).executeScript("__doPostBack('gvw_offices','Page$" + j + "');");
@@ -85,11 +86,11 @@ public class PullDataFromIndiaPost {
 				}
 			}
 
-			for (int j = 11; j <= 65; j += 10) {
+			for (int j = 11; j <= 52; j += 10) {
 				((JavascriptExecutor) driver).executeScript("__doPostBack('gvw_offices','Page$" + j + "');");
 			}
-			((JavascriptExecutor) driver).executeScript("__doPostBack('gvw_offices','Page$" + 65 + "');");
-			for (int j = 0; j < 4; j++) {
+			((JavascriptExecutor) driver).executeScript("__doPostBack('gvw_offices','Page$" + 52 + "');");
+			for (int j = 0; j < 8; j++) {
 				String js = "__doPostBack('gvw_offices','Select$" + j + "');";
 				((JavascriptExecutor) driver).executeScript(js);
 				WebElement table = driver.findElement(By.id("dvw_detail"));
@@ -111,7 +112,7 @@ public class PullDataFromIndiaPost {
 		for (int colNum = 0; colNum < row.getLastCellNum(); colNum++) {
 			workbook.getSheetAt(0).autoSizeColumn(colNum);
 		}
-		FileOutputStream out = new FileOutputStream(new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\excels\\Westbengal\\North24Parganas.xls"));
+		FileOutputStream out = new FileOutputStream(new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\excels\\Telangana\\Adilabad.xls"));
 		workbook.write(out);
 		out.close();
 		System.out.println("Excel written successfully..");
