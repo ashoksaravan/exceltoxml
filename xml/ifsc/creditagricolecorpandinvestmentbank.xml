@@ -1,56 +1,47 @@
 <bankBranchs>
   <bankbranch>
-    <name>Newdelhi</name>
-    <city>Newdelhi</city>
-    <address>Birla Tower&apos; 6th Flr., Barakhamba Road,Newdelhi-110001</address>
-    <contact></contact>
+    <name>NEW Delhi </name>
+    <city>NEW Delhi </city>
+    <address>Birla Tower, 6TH Floor, Barakhamba Road </address>
+    <contact>66251000 </contact>
     <micrCode>110240252</micrCode>
     <ifscCode>CRLY0000002</ifscCode>
-    <bankLoc>5126</bankLoc>
+    <bankLoc>8028</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ahmedabad</name>
-    <city>Ahmedabad</city>
-    <address>Abhijeet, 1st Flr., Mithakali Cross Road, Ahmedabad-380006</address>
-    <contact></contact>
-    <micrCode>380151002</micrCode>
-    <ifscCode>CRLY0000003</ifscCode>
-    <bankLoc>5127</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai</name>
-    <city>Chennai</city>
-    <address>Dbs Westminster Bldg.,2nd Flr,108 Radhakrishnan Salai,Mylapore, Chennai-600004</address>
-    <contact></contact>
+    <name>Chennai </name>
+    <city>Chennai </city>
+    <address>Westminster Building, 2 Flr, DR Radhakrsn Salai </address>
+    <contact>66351000 </contact>
     <micrCode>600151001</micrCode>
     <ifscCode>CRLY0000004</ifscCode>
-    <bankLoc>5131</bankLoc>
+    <bankLoc>8032</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bangalore</name>
-    <city>Bangalore</city>
-    <address>106,Prestige Towers,Fm K.M.Cariappa Road,Residency Road,B&apos;lore-560025</address>
-    <contact></contact>
-    <micrCode>560240251</micrCode>
+    <name>Bangalore </name>
+    <city>Bangalore </city>
+    <address>106 Prestige Towers, Cariappa Road </address>
+    <contact>67221010 </contact>
+    <micrCode>560151002</micrCode>
     <ifscCode>CRLY0000005</ifscCode>
-    <bankLoc>5128</bankLoc>
+    <bankLoc>8029</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pune</name>
-    <city>Pune</city>
-    <address>A-203,2nd Flr.,Icc Trade Tower A -wing, Senapati Bapat Road,Pune-400016</address>
-    <contact></contact>
+    <name>Pune </name>
+    <city>Pune </city>
+    <address>A203 2ND Floor, ICC Trade Tower S B Road </address>
+    <contact>66141800 </contact>
     <micrCode>411240252</micrCode>
     <ifscCode>CRLY0000006</ifscCode>
-    <bankLoc>5130</bankLoc>
+    <bankLoc>8031</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>11th Flr, Hoechst House,Nariman Point,Mumbai-400021</address>
-    <contact></contact>
-    <micrCode>400151002</micrCode>
+    <name>Mumbai </name>
+    <city>Mumbai </city>
+    <address>Hoechst House 11th Floor, Nariman Point </address>
+    <contact>67371000 </contact>
+    <micrCode>NA</micrCode>
     <ifscCode>CRLY0000010</ifscCode>
-    <bankLoc>5129</bankLoc>
+    <bankLoc>8030</bankLoc>
   </bankbranch>
 </bankBranchs>

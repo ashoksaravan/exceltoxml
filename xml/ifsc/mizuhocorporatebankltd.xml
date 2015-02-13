@@ -1,29 +1,47 @@
 <bankBranchs>
   <bankbranch>
-    <name>Mumbai Branch</name>
-    <city>Mumbai</city>
-    <address>First Floor, Maker Chamber Iii, Jamnalal Bajaj Road, Nariman Point, Mumbai – 400 021</address>
-    <contact></contact>
+    <name>Nariman Point </name>
+    <city>Mumbai </city>
+    <address>Mumbai </address>
+    <contact>22886638 </contact>
     <micrCode>400694002</micrCode>
     <ifscCode>MHCB0000002</ifscCode>
-    <bankLoc>9790</bankLoc>
+    <bankLoc>13123</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>Maker Chamber Iii,Nariman Point,Mumbai 400 021</address>
-    <contact></contact>
+    <name>Rtgs-ho </name>
+    <city>Mumbai </city>
+    <address>Maker Chamber Iii, First Floor, Nariman Point </address>
+    <contact>22886638 </contact>
     <micrCode>400694002</micrCode>
     <ifscCode>MHCB0000532</ifscCode>
-    <bankLoc>9790</bankLoc>
+    <bankLoc>13123</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>New Delhi</name>
-    <city>New Delhi</city>
-    <address>4th Fl, East Tower, Sood Tower, 25, Barakhamba Road New Delhi. 110 001</address>
-    <contact></contact>
-    <micrCode>110694002</micrCode>
+    <name>Devanahalli </name>
+    <city>Bangalore </city>
+    <address>N.H. 7/4-207, B.B. Road, Vijayapura Cross </address>
+    <contact>30807304 </contact>
+    <micrCode>560017251</micrCode>
+    <ifscCode>MHCB0000716</ifscCode>
+    <bankLoc>13122</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai </name>
+    <city>Chennai </city>
+    <address>Prestige Palladium Bayan, Greams Road, Chennai </address>
+    <contact>42986648 </contact>
+    <micrCode>600694002</micrCode>
+    <ifscCode>MHCB0000717</ifscCode>
+    <bankLoc>13124</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Delhi Branch </name>
+    <city>NEW Delhi </city>
+    <address>4 Floor, East Tower Sood Tower, Barakhamba Road </address>
+    <contact>30410900 </contact>
+    <micrCode>100694002</micrCode>
     <ifscCode>MHCB0000793</ifscCode>
-    <bankLoc>9789</bankLoc>
+    <bankLoc>13121</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -1,164 +1,209 @@
 <bankBranchs>
   <bankbranch>
-    <name>Main Branch</name>
-    <city>Thane</city>
-    <address>Shatatarka Bldg, B.P.D Road,Vishnunagar,Naupada,Thane -w Pin - 400602</address>
-    <contact>022-25429432 </contact>
+    <name>Rtgs-ho </name>
+    <city>Thane </city>
+    <address>Sahayog Mandir, Sahyog Mandir Path,ghantali Thane 400602 </address>
+    <contact>25447816 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TBSB0000001</ifscCode>
+    <bankLoc>21728</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main </name>
+    <city>Thane </city>
+    <address>Shatataraka, Baji Prabhu Deshpande Marg, </address>
+    <contact>25333604 </contact>
     <micrCode>400525002</micrCode>
     <ifscCode>TBSB0000002</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Thane East</name>
-    <city>Thane</city>
-    <address>Nav-ashirwad,Near Daulat Nagar,Thane-e, Pin- 400603</address>
-    <contact>022-25323951 </contact>
+    <name>Thane East </name>
+    <city>Thane </city>
+    <address>Nav-ashirwad, Near Daulat Nagar, </address>
+    <contact>25323951 </contact>
     <micrCode>400525003</micrCode>
     <ifscCode>TBSB0000003</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pokhran</name>
-    <city>Thane</city>
-    <address>Western India Steel Ind. Compound,Opp Oswal Park ,Pokharan Rd. No 2, Thane -w Pin 400601</address>
-    <contact>022-21736262 </contact>
+    <name>Pokhran </name>
+    <city>Thane </city>
+    <address>Western Indian Steel Compound, OPP Oswal Parkpokharan RD 2 Thane-400601 </address>
+    <contact>21736262 </contact>
     <micrCode>400525004</micrCode>
     <ifscCode>TBSB0000004</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chandanwadi</name>
-    <city>Thane</city>
-    <address>Mahesh Darshan,Oid Mumbai Agra Road,Nr.Makhmali Talao,Thane-w, Pin - 400601</address>
-    <contact>022-25335237 </contact>
+    <name>Chandanwadi </name>
+    <city>Thane </city>
+    <address>Mahesh Darshan, Near Makhali Talao, OLD Mumbai-agra Road, Thane 400601 </address>
+    <contact>25335237 </contact>
     <micrCode>400525005</micrCode>
     <ifscCode>TBSB0000005</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chendani Koliwada</name>
-    <city>Thane</city>
-    <address>Kashiratna Bhuvan,Datta Mandir Road, Nr Cidco Bus Stop, Thane-w Pin - 400601</address>
-    <contact>022-25442361 </contact>
+    <name>Chendani Koliwada </name>
+    <city>Thane </city>
+    <address>Kashiratna Bhavan, Datta Mandir Road, Near Cidco BUS Stop, Thane 400601 </address>
+    <contact>25442361 </contact>
     <micrCode>400525006</micrCode>
     <ifscCode>TBSB0000006</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Shreenagar</name>
-    <city>Thane</city>
-    <address>Shreenagar Commercial Complex, Wagle Estate,      Thane -w, Pin - 400604</address>
-    <contact>022-25827955 </contact>
+    <name>Shree Nagar </name>
+    <city>Thane </city>
+    <address>Shreenagar Commercial Complex, Shreenagar, Thane </address>
+    <contact>25827955 </contact>
     <micrCode>400525007</micrCode>
     <ifscCode>TBSB0000007</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Shivai Nagar</name>
-    <city>Thane</city>
-    <address>Plot No 78, Pokharan Rd. No 1, Shivainagar, Thane-west ,       Pin - 400606</address>
-    <contact>022-25889262 </contact>
+    <name>Shivai Nagar </name>
+    <city>Thane </city>
+    <address>Plot No-78, Near BUS Stop, Shivai Nagarpokharan Road No-1, Thane (W) 400604 </address>
+    <contact>25854161 </contact>
     <micrCode>400525008</micrCode>
     <ifscCode>TBSB0000008</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kalyan</name>
-    <city>Kalyan</city>
-    <address>Jeevarshi Apartment,Nr. Image Showroom, Shivaji Chowk, Kalyan-west, Pin - 421301</address>
-    <contact>0251-2305594 </contact>
+    <name>Kalyan </name>
+    <city>Kalyan </city>
+    <address>Jeevarshree, Jamunbaug Compound, Agra Road,shivaji Chowk Kaylan(W)421 301 </address>
+    <contact>2305594 </contact>
     <micrCode>400525009</micrCode>
     <ifscCode>TBSB0000009</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mulund</name>
-    <city>Mumbai</city>
-    <address>Keshav Bhuvan, Mahatama Gandhi Road, Mulund -west Mumbai ,Pin-400080</address>
-    <contact>022-25932755 </contact>
+    <name>Mulund </name>
+    <city>Mumbai </city>
+    <address>Keshav Bhuvan, M G Road, Near Railway Station,mulund-west 400080 </address>
+    <contact>25655960 </contact>
     <micrCode>400525010</micrCode>
     <ifscCode>TBSB0000010</ifscCode>
-    <bankLoc>14114</bankLoc>
+    <bankLoc>21725</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatkopar East</name>
-    <city>Mumbai</city>
-    <address>Saffire Arcade, Rajawadi, Ghatkopar -east, Mumbai,       Pin -400077</address>
-    <contact>022-21021525 </contact>
+    <name>Ghatkopar (EAST) </name>
+    <city>Mumbai </city>
+    <address>Saffire Archade, Near Sonal Sejal Jewellers, M G Road, Ghatkopar-e 400077 </address>
+    <contact>21021565 </contact>
     <micrCode>400525011</micrCode>
     <ifscCode>TBSB0000011</ifscCode>
-    <bankLoc>14114</bankLoc>
+    <bankLoc>21725</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rutupark</name>
-    <city>Thane</city>
-    <address>Parijat Bldg., Rutupark, Majiwade, Thane -w, Pin - 400601</address>
-    <contact>022-25442363 </contact>
+    <name>Rutu Park </name>
+    <city>Thane </city>
+    <address>Parijat, Rutupark, Near Virdhavan BUS Stop, Thane </address>
+    <contact>25442363 </contact>
     <micrCode>400525012</micrCode>
     <ifscCode>TBSB0000012</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatkopar West</name>
-    <city>Mumbai</city>
-    <address>Hindi High School, Ground Floor, Shri. Laxmi Narayan Path, Nr. Uday Talkies, Ghatkopar- W, Mumbai,              Pin- 400086</address>
-    <contact>022-25120435 </contact>
+    <name>Ghatkopar (WEST) </name>
+    <city>Mumbai </city>
+    <address>Hindi High School, Jhun Jhunwala College Compus,shree Laxminarayan Path, Ghatkopar West-400086 </address>
+    <contact>25120435 </contact>
     <micrCode>400525013</micrCode>
     <ifscCode>TBSB0000013</ifscCode>
-    <bankLoc>14114</bankLoc>
+    <bankLoc>21725</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Airoli  Extn. Counter</name>
-    <city>Navi Mumbai</city>
-    <address>Mazidun High School,   Sector 8- A,  Airoli. New Mumbai,              Pin -400708</address>
-    <contact>022-65207666 </contact>
+    <name>Airoli </name>
+    <city>Navi Mumbai </city>
+    <address>Mazidun Highschool Premises, GR Floor Sector 8a,airoli Navi Mumbai-4007083 </address>
+    <contact>65207666 </contact>
     <micrCode>400525015</micrCode>
     <ifscCode>TBSB0000015</ifscCode>
-    <bankLoc>14115</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghodbunder Road</name>
-    <city>Thane</city>
-    <address>1, Siddheshwar Arcade, Opp. Suraj Water Park, Ghodbunder Road, Thane- W, Pin- 400607</address>
-    <contact>022-25972737 </contact>
+    <name>Ghodbundar Road </name>
+    <city>Thane </city>
+    <address>Siddeshwar Arcade, OPP Suraj Water Park, Ghodbunder Road, Thane West </address>
+    <contact>25972737 </contact>
     <micrCode>400525016</micrCode>
     <ifscCode>TBSB0000016</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Lokmanya Nagar</name>
-    <city>Thane</city>
-    <address>Pachpakhadi Surabhi Chs, N. S. Road, Opp. Thakur Vidyalay, Lokmanya Nagar, Thane -w,    Pin- 400607</address>
-    <contact>022-25810835 </contact>
+    <name>Lokmanya Nagar </name>
+    <city>Thane </city>
+    <address>Shop NO 1 TO 4 Panchpakhadi Surbhi Chs,n S Road, Sawarkar Nagar, Thane West </address>
+    <contact>25810835 </contact>
     <micrCode>400525017</micrCode>
     <ifscCode>TBSB0000017</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dombivali</name>
-    <city>Dombivali</city>
-    <address>Likite House, Off Phadke Road, Subhash Nagar, Dombivli- West, Pin 421201</address>
-    <contact>0251-2439973 </contact>
+    <name>Dombivali </name>
+    <city>Dombivali </city>
+    <address>GR Floor, Likhite Bangalow, Moulana Azad RD, Subhash Nagar, Dombicli(E) </address>
+    <contact>2439973 </contact>
     <micrCode>400525018</micrCode>
     <ifscCode>TBSB0000018</ifscCode>
-    <bankLoc>14116</bankLoc>
+    <bankLoc>21728</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhandup West</name>
-    <city>Mumbai</city>
-    <address>Shop No 3 ,Gr. Floor, Corpora, Opp. Hp Petrol Pump, Near Shangrila Biscuits,  Lbs Marg, Bhandup (W), Mumbai- 400078</address>
-    <contact>022-25958310;022-25958301 </contact>
+    <name>Bhandup </name>
+    <city>Mumbai </city>
+    <address>G-3 Corpora LBS Road, Bhandup(WEST) </address>
+    <contact>25958310 </contact>
     <micrCode>400525019</micrCode>
     <ifscCode>TBSB0000019</ifscCode>
-    <bankLoc>14114</bankLoc>
+    <bankLoc>21725</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dadar West</name>
-    <city>Mumbai</city>
-    <address>Gr. Floor, Jeevan Apt., Baburao Parulekar Marg, Dadar (W), Mumbai 400028</address>
-    <contact>022-25309262;022-25308252 </contact>
+    <name>Dadar </name>
+    <city>Mumbai </city>
+    <address>GR Floor, Jeevan Apt, Baburao Parulekar Marg,near Sharadashram Dadar(W) </address>
+    <contact>24308252 </contact>
     <micrCode>400525020</micrCode>
     <ifscCode>TBSB0000020</ifscCode>
-    <bankLoc>14114</bankLoc>
+    <bankLoc>21725</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalwa </name>
+    <city>Thane </city>
+    <address>Shop NO 7,8&amp;16,amrutdham CHS Ltd, </address>
+    <contact>25441388 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TBSB0000021</ifscCode>
+    <bankLoc>21728</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Panvel </name>
+    <city>Panvel </city>
+    <address>Shree Basav-nilaya, GR.FLOOR, Plot No-152, </address>
+    <contact>27452206 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TBSB0000022</ifscCode>
+    <bankLoc>21727</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Badlapur </name>
+    <city>Badlapur </city>
+    <address>Kadamb Bunglow,sarvoday Nagar,behind Vaishali Talkies,badlapur West 421503 </address>
+    <contact>2674477 </contact>
+    <micrCode>400525023</micrCode>
+    <ifscCode>TBSB0000023</ifscCode>
+    <bankLoc>21728</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sadashivpeth Pune </name>
+    <city>Pune </city>
+    <address>Sadhya,1503 1504,sadashivpeth,off Tilak Road,pune 411030 </address>
+    <contact>2147483647 </contact>
+    <micrCode>411525002</micrCode>
+    <ifscCode>TBSB0000024</ifscCode>
+    <bankLoc>21726</bankLoc>
   </bankbranch>
 </bankBranchs>

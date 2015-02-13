@@ -34,7 +34,7 @@ public class StateAndDistrictSQLGenerator {
 	private static void createStateSQL() throws IOException {
 		File stateExcel = new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\states.xls");
 		BufferedWriter writer = new BufferedWriter(new FileWriter(
-				"E:\\Android\\workspace\\OfflinePinFinder\\assets\\sql\\states.sql"));
+				"E:\\Android\\workspace\\OfflinePinFinder\\assets\\sql\\pincode\\states.sql"));
 
 		FileInputStream file = new FileInputStream(stateExcel);
 
@@ -69,7 +69,7 @@ public class StateAndDistrictSQLGenerator {
 	private static void createLocationsSQL() throws IOException {
 		File stateExcel = new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\locations.xls");
 		BufferedWriter writer = new BufferedWriter(new FileWriter(
-				"E:\\Android\\workspace\\OfflinePinFinder\\assets\\sql\\locations.sql"));
+				"E:\\Android\\workspace\\OfflinePinFinder\\assets\\sql\\pincode\\locations.sql"));
 
 		FileInputStream file = new FileInputStream(stateExcel);
 
@@ -102,7 +102,7 @@ public class StateAndDistrictSQLGenerator {
 	 */
 	private static void createDistrictSQL() throws IOException {
 		BufferedWriter writer = new BufferedWriter(new FileWriter(
-				"E:\\Android\\workspace\\OfflinePinFinder\\assets\\sql\\district.sql"));
+				"E:\\Android\\workspace\\OfflinePinFinder\\assets\\sql\\pincode\\district.sql"));
 		File root = new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\Districts");
 		for (final File district : root.listFiles()) {
 

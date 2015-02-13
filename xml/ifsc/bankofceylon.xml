@@ -1,11 +1,20 @@
 <bankBranchs>
   <bankbranch>
-    <name>Chennai</name>
-    <city>Chennai</city>
-    <address>1090, Poonamallee, High Road, Egmore, Chennai 600 084</address>
-    <contact></contact>
-    <micrCode>600331001</micrCode>
+    <name>Head Office </name>
+    <city>Chennai </city>
+    <address>Chennai Branch, NO.1090, Poonamallee High Road, Chennai 600 084 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BCEY0000001</ifscCode>
+    <bankLoc>2897</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho </name>
+    <city>Chennai </city>
+    <address>Chennai </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>BCEY0CHEN01</ifscCode>
-    <bankLoc>2279</bankLoc>
+    <bankLoc>2897</bankLoc>
   </bankbranch>
 </bankBranchs>

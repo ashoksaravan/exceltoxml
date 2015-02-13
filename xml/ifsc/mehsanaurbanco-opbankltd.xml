@@ -1,317 +1,389 @@
 <bankBranchs>
   <bankbranch>
-    <name>Head Office</name>
-    <city>Mahesana</city>
-    <address>Urban Bank Road, Highway, Mehsana - 384002, Gujarat</address>
-    <contact>02762-251908,252681,240761,9924683000,9924693000, neft@mucbank.com </contact>
+    <name>Rtgs-ho </name>
+    <city>Mehsana </city>
+    <address>High Way, Urban Bank Road, Mehsana - 384 002. </address>
+    <contact>252681 </contact>
     <micrCode>384313001</micrCode>
     <ifscCode>MSNU0000001</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ambaliasan</name>
-    <city>Ambaliasan</city>
-    <address>Station Road, Ambaliasan - 382732, Gujarat</address>
-    <contact>02762-283349, neft@mucbank.com </contact>
+    <name>Ambaliyasan </name>
+    <city>Ambaliyasan </city>
+    <address>Station Road,  Ambaliyasna - 382 732. </address>
+    <contact>283349 </contact>
     <micrCode>382313501</micrCode>
     <ifscCode>MSNU0000002</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Patan</name>
-    <city>Patan</city>
-    <address>C.M.Supar Market, Hingala Chachar, Patan - 384265, Gujarat</address>
-    <contact>02766-221083, neft@mucbank.com </contact>
+    <name>Patan </name>
+    <city>Patan </city>
+    <address>C.M.SUPER Market,  Hingala Chachar,patan - 384265 </address>
+    <contact>221083 </contact>
     <micrCode>384313081</micrCode>
     <ifscCode>MSNU0000003</ifscCode>
-    <bankLoc>9785</bankLoc>
+    <bankLoc>13116</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bazar Branch</name>
-    <city>Mahesana</city>
-    <address>Nr Khadi Gram Udhyog, Rajmahel Road, Mehsana - 384001, Gujarat</address>
-    <contact>02762-252209, neft@mucbank.com </contact>
+    <name>Bazar </name>
+    <city>Mehsana </city>
+    <address>Rajmahel ROAD,NR.KHADIGRAM Bhavan, Mehsana - 384 001. </address>
+    <contact>252209 </contact>
     <micrCode>384313003</micrCode>
     <ifscCode>MSNU0000004</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>C.G.Road Branch</name>
-    <city>Ahmedabad</city>
-    <address>Vartali Complex, Smruti Kung Society, Swastik Cross Road, Navarang Pura, Ahmedabad - 380009, Gujarat</address>
-    <contact>079-26562717,26560716, neft@mucbank.com </contact>
+    <name>C.G.ROAD </name>
+    <city>Ahmedabad </city>
+    <address>Vartali Complex Smruti Krunj Society C G Road Sawastik Char Rasta Navrangpura Ahmedabad 380009 </address>
+    <contact>26560716 </contact>
     <micrCode>380313002</micrCode>
     <ifscCode>MSNU0000005</ifscCode>
-    <bankLoc>9780</bankLoc>
+    <bankLoc>13109</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Visnagar</name>
-    <city>Visnagar</city>
-    <address>Gunj Bazar, Visnagar - 384315, Gujarat</address>
-    <contact>02765-222820, neft@mucbank.com </contact>
+    <name>Visnagar </name>
+    <city>Visnagar </city>
+    <address>Gunj Bazar&apos;s Naka Visnagar  384315. </address>
+    <contact>222820 </contact>
     <micrCode>384313121</micrCode>
     <ifscCode>MSNU0000006</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chanasma</name>
-    <city>Chanasma</city>
-    <address>Old Post Office, Bhulapura, Chansma - 384220, Gujarat</address>
-    <contact>02734-222797, neft@mucbank.com </contact>
+    <name>Chanasma </name>
+    <city>Chanasma </city>
+    <address>OLD Post Office Bhulapura Chansama  384220 </address>
+    <contact>222797 </contact>
     <micrCode>384313501</micrCode>
     <ifscCode>MSNU0000007</ifscCode>
-    <bankLoc>9785</bankLoc>
+    <bankLoc>13116</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Unjha</name>
-    <city>Unjha</city>
-    <address>Vijay Oil Mill Compound, Station Road, Unjha - 384170, Gujarat</address>
-    <contact>02767-250530, neft@mucbank.com </contact>
+    <name>Unjha </name>
+    <city>Unjha </city>
+    <address>Vijay OIL Mill Compound Station Road Unjha  384170 </address>
+    <contact>250530 </contact>
     <micrCode>384313051</micrCode>
     <ifscCode>MSNU0000008</ifscCode>
-    <bankLoc>9785</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vijapur</name>
-    <city>Vijapur</city>
-    <address>Dr Ak Patel Shopping Centre, Vijapur - 382870, Gujarat</address>
-    <contact>02763-223065, neft@mucbank.com </contact>
+    <name>Vijapur </name>
+    <city>Vijapur </city>
+    <address>DR. A.K. Patel Shopping Centre  Vijapur - 382 725 </address>
+    <contact>223065 </contact>
     <micrCode>382313041</micrCode>
     <ifscCode>MSNU0000009</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kadi</name>
-    <city>Kadi</city>
-    <address>Bhaupura, Kadi - 382815, Gujarat</address>
-    <contact>02764-264274, neft@mucbank.com </contact>
-    <micrCode>382313021</micrCode>
+    <name>Kadi </name>
+    <city>Kadi </city>
+    <address>Bhaupura, Kadi - 382 725. </address>
+    <contact>264274 </contact>
+    <micrCode>380313006</micrCode>
     <ifscCode>MSNU0000010</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mansa</name>
-    <city>Mansa</city>
-    <address>Bhagwati Chambers, Mansa - 382815, Gujarat</address>
-    <contact>02763-273331, neft@mucbank.com </contact>
+    <name>Mansa </name>
+    <city>Mansa </city>
+    <address>Bhagwati Chambers, Mansa - 382 815. </address>
+    <contact>273371 </contact>
     <micrCode>382313141</micrCode>
     <ifscCode>MSNU0000011</ifscCode>
-    <bankLoc>9782</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kalol</name>
-    <city>Kalol</city>
-    <address>Shivam Shopping Centre, Vepari Jin, Kalol - 382721, Gujarat</address>
-    <contact>02764-226270, neft@mucbank.com </contact>
+    <name>Kalol </name>
+    <city>Kalol </city>
+    <address>Shivam Shopping Centre,vepari JIN  Kalol 382 721. </address>
+    <contact>226270 </contact>
     <micrCode>380313004</micrCode>
     <ifscCode>MSNU0000012</ifscCode>
-    <bankLoc>9782</bankLoc>
+    <bankLoc>13113</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Himatnagar</name>
-    <city>Himatnagar</city>
-    <address>Somabhai Chambers, Nr G.P.O, Himmatnagar - 383001, Gujarat</address>
-    <contact>02772-243442, neft@mucbank.com </contact>
+    <name>Himmatnagar </name>
+    <city>Himmatnagar </city>
+    <address>Somabhai Chambers, NR.G.P.O., Himmatnagar - 383 001. </address>
+    <contact>243442 </contact>
     <micrCode>383313001</micrCode>
     <ifscCode>MSNU0000013</ifscCode>
-    <bankLoc>9786</bankLoc>
+    <bankLoc>13118</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Deesa</name>
-    <city>Deesa</city>
-    <address>Arti Shopping Centre, Kacheri Road, Deesa - 385535, Gujarat</address>
-    <contact>02744-225664, neft@mucbank.com </contact>
+    <name>Deesa </name>
+    <city>Deesa </city>
+    <address>Arti Shopping Centre Kacheri Road  Deesa  385 535. </address>
+    <contact>225664 </contact>
     <micrCode>385313031</micrCode>
     <ifscCode>MSNU0000014</ifscCode>
-    <bankLoc>9781</bankLoc>
+    <bankLoc>13110</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kheralu</name>
-    <city>Kheralu</city>
-    <address>Bazar, Kheralu - 384325, Gujarat</address>
-    <contact>02761-230469, neft@mucbank.com </contact>
+    <name>Kheralu </name>
+    <city>Kheralu </city>
+    <address>Bazar Kheralu - 384 325. </address>
+    <contact>230469 </contact>
     <micrCode>384313502</micrCode>
     <ifscCode>MSNU0000015</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Radhanpur Road</name>
-    <city>Mahesana</city>
-    <address>Opp Ibp Petrol Pump, Radhanpur Road, Mehsana - 384002, Gujarat</address>
-    <contact>02762-245213, neft@mucbank.com </contact>
+    <name>Radhanpur Road </name>
+    <city>Mehsana </city>
+    <address>Opp- I.B.P.PETROL Pump, Radhanpur Road Mehsana - 384 002 </address>
+    <contact>245213 </contact>
     <micrCode>384313002</micrCode>
     <ifscCode>MSNU0000016</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Palanpur</name>
-    <city>Palanpur</city>
-    <address>Puja Chambers,Girdhar Patel Marg, Palanpur-385001, Gujarat</address>
-    <contact>02742-251752, neft@mucbank.com </contact>
+    <name>Palanpur </name>
+    <city>Palanpur </city>
+    <address>Puja Chambers,girdhar Patel Marg  Palanpur-385 001 </address>
+    <contact>251752 </contact>
     <micrCode>385313001</micrCode>
     <ifscCode>MSNU0000017</ifscCode>
-    <bankLoc>9781</bankLoc>
+    <bankLoc>13110</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Idar</name>
-    <city>Idar</city>
-    <address>Jyoti Market, Near S.T. Stand, Idar - 383430, Gujarat</address>
-    <contact>02778-254210, neft@mucbank.com </contact>
+    <name>Idar </name>
+    <city>Idar </city>
+    <address>83,shanay Complex, Damodar Compound Idar-383430 </address>
+    <contact>254210 </contact>
     <micrCode>383313031</micrCode>
     <ifscCode>MSNU0000018</ifscCode>
-    <bankLoc>9786</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhuyangdev Cross Road</name>
-    <city>Ahmedabad</city>
-    <address>Bhuyangdev Society, Bhuyangdev Char Rasta, Ahmedabad - 380013, Gujarat</address>
-    <contact>079-27473693, neft@mucbank.com </contact>
+    <name>Bhuyangdev </name>
+    <city>Ahmedabad </city>
+    <address>Bhuyangdev Society , Bhuyangdev Char Rasta, Ahmedabad - 380 013. </address>
+    <contact>27473693 </contact>
     <micrCode>380313003</micrCode>
     <ifscCode>MSNU0000019</ifscCode>
-    <bankLoc>9780</bankLoc>
+    <bankLoc>13109</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vadodara</name>
-    <city>Vadodara</city>
-    <address>Manubhai Tower, B-block, First Floor, Sayaji Gunj, Baroda - 390001, Gujarat</address>
-    <contact>0265-2363814, neft@mucbank.com </contact>
+    <name>Baroda </name>
+    <city>Baroda </city>
+    <address>Abhinav Complex Delux Cross Road  Baroda  390001 </address>
+    <contact>2780530 </contact>
     <micrCode>390313002</micrCode>
     <ifscCode>MSNU0000020</ifscCode>
-    <bankLoc>9788</bankLoc>
+    <bankLoc>13111</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Surat</name>
-    <city>Surat</city>
-    <address>Ground Floor, City Centre, Nr Sosyo Circle, Udhana Magdalla Road, Surat - 395002, Gujarat</address>
-    <contact>0261-2631611, neft@mucbank.com </contact>
+    <name>Sosiyo Circle </name>
+    <city>Surat </city>
+    <address>City Centre ,near :sosyo Circle ,udhana Magdalla Road ,surat-395 002 </address>
+    <contact>2631600 </contact>
     <micrCode>395313002</micrCode>
     <ifscCode>MSNU0000021</ifscCode>
-    <bankLoc>9787</bankLoc>
+    <bankLoc>13119</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Viramgam</name>
-    <city>Viramgam</city>
-    <address>Mota Parkota, Ramji Mandir, Viramgam - 382150, Gujarat</address>
-    <contact>02715-234645, neft@mucbank.com </contact>
-    <micrCode>382313061</micrCode>
+    <name>Viramgam </name>
+    <city>Viramgam </city>
+    <address>Mota Parkota, Ramji Mandir  Viramgam - 382150. </address>
+    <contact>234645 </contact>
+    <micrCode>380313007</micrCode>
     <ifscCode>MSNU0000022</ifscCode>
-    <bankLoc>9780</bankLoc>
+    <bankLoc>13109</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Sidhpur</name>
-    <city>Sidhpur</city>
-    <address>72, Gunj Bazar, Siddhpur - 384151, Gujarat</address>
-    <contact>02767-224738, neft@mucbank.com </contact>
+    <name>Shiddhpur </name>
+    <city>Siddhpur </city>
+    <address>72, Gunj Bazar, Siddhpur - 384151. </address>
+    <contact>224738 </contact>
     <micrCode>384313101</micrCode>
     <ifscCode>MSNU0000023</ifscCode>
-    <bankLoc>9785</bankLoc>
+    <bankLoc>13116</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Gandhidham</name>
-    <city>Gandhidham</city>
-    <address>Sdx South - 80, Ward 12a, Zanda Chock, Gandhigham - 370205, Gujarat</address>
-    <contact>02836-226459, neft@mucbank.com </contact>
+    <name>Gandhidham </name>
+    <city>Gandhidham </city>
+    <address>S D X - South-80 Zanda Chowk, Ward - 12/a, Gandhidham-370 203 </address>
+    <contact>226459 </contact>
     <micrCode>370313001</micrCode>
     <ifscCode>MSNU0000024</ifscCode>
-    <bankLoc>9783</bankLoc>
+    <bankLoc>13114</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>C.T.M Cross Road</name>
-    <city>Ahmedabad</city>
-    <address>Nr Kailash Colony, Ctm Cross Road, Ahmedabad - 380026, Gujarat</address>
-    <contact>079-25850753, neft@mucbank.com </contact>
+    <name>C.T.M Cross Road </name>
+    <city>Ahmedabad </city>
+    <address>Kailash Colony NR.BHARVI TOWER,N.H. No-8,  Amraiwadi, Ahmedabad-380 026 </address>
+    <contact>25850753 </contact>
     <micrCode>380313005</micrCode>
     <ifscCode>MSNU0000025</ifscCode>
-    <bankLoc>9780</bankLoc>
+    <bankLoc>13109</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kherva</name>
-    <city>Kherwa</city>
-    <address>Ganpat University Campus, Kherva - 384012, Gujarat</address>
-    <contact>02762-286009, neft@mucbank.com </contact>
+    <name>Kherva </name>
+    <city>Kherva </city>
+    <address>Ganpat Vidhyalay, KHERVA.- 384 012 </address>
+    <contact>286009 </contact>
     <micrCode>384313503</micrCode>
     <ifscCode>MSNU0000026</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Radhanpur</name>
-    <city>Radhanpur</city>
-    <address>D1 Lalbaug, Near State Bank Of India, Radhanpur</address>
-    <contact>02746 275231, neft@mucbank.com </contact>
+    <name>Radhapur </name>
+    <city>Radhanpur </city>
+    <address>D-1 Lalbaug ,NR.S B I. Radhanpur-385 340 </address>
+    <contact>275231 </contact>
     <micrCode>385313121</micrCode>
     <ifscCode>MSNU0000027</ifscCode>
-    <bankLoc>9781</bankLoc>
+    <bankLoc>13116</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Becharaji</name>
-    <city>Becharaji</city>
-    <address>Ground Floor, Shri Patan Modh - Ganchi Ganti Samaj Building, Becharaji</address>
-    <contact>8347015666, neft@mucbank.com </contact>
+    <name>Becharaji </name>
+    <city>Bechraji </city>
+    <address>Ground Floor,shree Patan Modh Ganchi Samaj Buliding  Becharaji -384210 </address>
+    <contact>289022 </contact>
     <micrCode>384313504</micrCode>
     <ifscCode>MSNU0000028</ifscCode>
-    <bankLoc>9784</bankLoc>
+    <bankLoc>13115</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Modasa</name>
-    <city>Modasa</city>
-    <address>Opp. Alankar Society, Shamalaji Road, Modasa, Dist. Sabarkantha, Gujarat , Pin 383315</address>
-    <contact>02774 242889, neft@mucbank.com </contact>
+    <name>Modasa </name>
+    <city>Modasa </city>
+    <address>OPP Alankar Society,shamlaji Road  Modasa -383315 </address>
+    <contact>242889 </contact>
     <micrCode>383313051</micrCode>
     <ifscCode>MSNU0000029</ifscCode>
-    <bankLoc>9786</bankLoc>
+    <bankLoc>13118</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mundra</name>
-    <city>Mundra</city>
-    <address>Shop No 6, Nilkanth Tower, Ground Floor, Nr Adani Wilmar, Adani Port Road, Mundra</address>
-    <contact>8347015623, neft@mucbank.com </contact>
+    <name>Mundra </name>
+    <city>Mundra </city>
+    <address>Shikhar Complex , Baroi Road Mundra - 370421 </address>
+    <contact>223907 </contact>
     <micrCode>370313121</micrCode>
     <ifscCode>MSNU0000030</ifscCode>
-    <bankLoc>9783</bankLoc>
+    <bankLoc>13114</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Varachha</name>
-    <city>Surat</city>
-    <address>Behind Rajhans Point, Gitanjali Tokiz, Varacha Road, Surat 395 006</address>
-    <contact>(0261) 2554001,2548214 </contact>
+    <name>Varachha </name>
+    <city>Surat </city>
+    <address>B/H Rajhans Point Varachha Road Surat-395006 </address>
+    <contact>2554001 </contact>
     <micrCode>395313003</micrCode>
     <ifscCode>MSNU0000031</ifscCode>
-    <bankLoc>9787</bankLoc>
+    <bankLoc>13119</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhagal</name>
-    <city>Surat</city>
-    <address>Shastri Bhavan, Kotsafil Main Road, Surat</address>
-    <contact>(0261) 2402853,2415692 </contact>
+    <name>Bhagal </name>
+    <city>Surat </city>
+    <address>Sasmi Bhavan,cotsafil Main Road, Surat-395003 </address>
+    <contact>2402853 </contact>
     <micrCode>395313004</micrCode>
     <ifscCode>MSNU0000032</ifscCode>
-    <bankLoc>9787</bankLoc>
+    <bankLoc>13119</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kamela Darawaja</name>
-    <city>Surat</city>
-    <address>Jas Market, Ring Road, Surat</address>
-    <contact>(0261) 2347020,2351975 </contact>
+    <name>Kamela Darwaja </name>
+    <city>Surat </city>
+    <address>Jash Market Ring, Kamela Darvaja,ring  Road ,surat-395002 </address>
+    <contact>2347020 </contact>
     <micrCode>395313005</micrCode>
     <ifscCode>MSNU0000033</ifscCode>
-    <bankLoc>9787</bankLoc>
+    <bankLoc>13119</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhatar</name>
-    <city>Surat</city>
-    <address>Krishna Complex, Bhatar Road, Surat</address>
-    <contact>(0261) 2236419,2233045 </contact>
+    <name>Bhatar </name>
+    <city>Surat </city>
+    <address>Krishna Complex, Bhatar Road, Surat-395001 </address>
+    <contact>2236419 </contact>
     <micrCode>395313006</micrCode>
     <ifscCode>MSNU0000034</ifscCode>
-    <bankLoc>9787</bankLoc>
+    <bankLoc>13119</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rander Adajan</name>
-    <city>Surat</city>
-    <address>Dhankuvar Palace, 54, Ravindra Park Society, Adajan Road, Surat</address>
-    <contact>(0261) 2781696,2784413 </contact>
+    <name>Rander Adajan </name>
+    <city>Surat </city>
+    <address>54 Ravindrapark Society Dhankuvar Palace Adajan Road  Surat 396009 </address>
+    <contact>2781696 </contact>
     <micrCode>395313007</micrCode>
     <ifscCode>MSNU0000035</ifscCode>
-    <bankLoc>9787</bankLoc>
+    <bankLoc>13119</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandkheda </name>
+    <city>Ahmedabad </city>
+    <address>B-37 Narayan Krupa Society, NEW C.G. Road, Chandkheda </address>
+    <contact>232964 </contact>
+    <micrCode>380313008</micrCode>
+    <ifscCode>MSNU0000036</ifscCode>
+    <bankLoc>13109</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Modhera Road </name>
+    <city>Mehsana </city>
+    <address>Silver Ozon, NR Avasar Party Plot, Mehsana </address>
+    <contact>0</contact>
+    <micrCode>384313004</micrCode>
+    <ifscCode>MSNU0000037</ifscCode>
+    <bankLoc>13115</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajkot </name>
+    <city>Rajkot </city>
+    <address>Kalawad Road, 150 FT Ring Road, Rajkot </address>
+    <contact>2588035 </contact>
+    <micrCode>360313002</micrCode>
+    <ifscCode>MSNU0000038</ifscCode>
+    <bankLoc>13117</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ankleshwar </name>
+    <city>Ankleshwar </city>
+    <address>Plot NO C/3/12/1-2 First Floor, OLD National Highway NO - 8, Gidc Ankleshwar 393002 </address>
+    <contact>0</contact>
+    <micrCode>393313051</micrCode>
+    <ifscCode>MSNU0000039</ifscCode>
+    <bankLoc>13112</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vapi </name>
+    <city>Vapi </city>
+    <address>4  5-6-7 Grould Floor, Girnar Khushbu Plaza, NR Gunjan Char Rasta Vapi ? 396195 </address>
+    <contact>0</contact>
+    <micrCode>396313031</micrCode>
+    <ifscCode>MSNU0000040</ifscCode>
+    <bankLoc>13120</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhanera </name>
+    <city>Dhanera </city>
+    <address>1-3, First Floor, Balaji Plaza, Gunj Bazar, Dhanera </address>
+    <contact>223555 </contact>
+    <micrCode>385313081</micrCode>
+    <ifscCode>MSNU0000041</ifscCode>
+    <bankLoc>13110</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chhatral </name>
+    <city>Dhhatral </city>
+    <address>206-210, Riddhi Siddhi Complex, Gidc, Chhatral </address>
+    <contact>233436 </contact>
+    <micrCode>380313009</micrCode>
+    <ifscCode>MSNU0000042</ifscCode>
+    <bankLoc>13113</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Siddhpur Char Rasta-patan </name>
+    <city>Patan </city>
+    <address>First Floor, Yash Complex, Siddhpur Char Rasta, Patan </address>
+    <contact>226688 </contact>
+    <micrCode>384313082</micrCode>
+    <ifscCode>MSNU0000043</ifscCode>
+    <bankLoc>13116</bankLoc>
   </bankbranch>
 </bankBranchs>

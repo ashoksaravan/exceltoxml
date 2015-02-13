@@ -23,14 +23,16 @@ public class LocationGenerator {
 		xStream.addImplicitCollection(Offices.class, "offices");
 		File root = new File("xml");
 		for (final File state : root.listFiles()) {
-			System.out.println(state.getName());
-			FileInputStream file = new FileInputStream(state);
-			Offices offices = (Offices) xStream.fromXML(file);
-			for (Office office : offices.getOffices()) {
-				locations.add(office.getLocation());
+			if (!"ifsc".equals(state.getName())) {
+				System.out.println(state.getName());
+				FileInputStream file = new FileInputStream(state);
+				Offices offices = (Offices) xStream.fromXML(file);
+				for (Office office : offices.getOffices()) {
+					locations.add(office.getLocation());
+				}
 			}
 		}
-		
+
 		HSSFWorkbook workbook = new HSSFWorkbook();
 		HSSFSheet sheet = workbook.createSheet("Locations");
 		int index = 0;
@@ -40,7 +42,7 @@ public class LocationGenerator {
 			officeNameRow.createCell(1).setCellValue(loc);
 			index++;
 		}
-		
+
 		FileOutputStream out = new FileOutputStream(new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\locations.xls"));
 		workbook.write(out);
 		out.close();

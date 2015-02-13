@@ -1,1519 +1,1424 @@
 <bankBranchs>
   <bankbranch>
-    <name>Vadodara</name>
-    <city>Vadodara</city>
-    <address>Ground Floor, Startrek Building, Opp Abs Tower, O.P. Road, Baroda, Gujarat - 390 007</address>
-    <contact>2147483647 </contact>
-    <micrCode>390072001</micrCode>
-    <ifscCode>DCBL0000100</ifscCode>
-    <bankLoc>5526</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mumbai Main Office  (001)</name>
-    <city>Mumbai</city>
-    <address>154, S V Patel Road, Dongri (EAST), Mumbai 400 009</address>
-    <contact></contact>
+    <name>Mumbai Main Office </name>
+    <city>Mumbai </city>
+    <address>154, S.V.PATEL Road, Dongri(E),mumbai - 400009 </address>
+    <contact>67474176 </contact>
     <micrCode>400072020</micrCode>
     <ifscCode>DCBL0000001</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kalbadevi (002)</name>
-    <city>Mumbai</city>
-    <address>413, Vasant Wadi, Kalbadevi Road, Opp Bank Of Baroda Atm, Mumbai 400002</address>
-    <contact></contact>
-    <micrCode>400072002</micrCode>
+    <name>Kalbadevi </name>
+    <city>Mumbai </city>
+    <address>413  Vasant Wadi  Kalbadevi Road  OPP Bank OF Baroda ATM  Mumbai 400002 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>DCBL0000002</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8502</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Imamwada (003)</name>
-    <city>Mumbai</city>
-    <address>116, Immamwada Road, Karimabad Chs, Mumbai 400 009</address>
-    <contact></contact>
+    <name>Imamwada </name>
+    <city>Mumbai </city>
+    <address>116, Imamwada Road, Karimabad Society, Mumbai - 400009 </address>
+    <contact>67472980 </contact>
     <micrCode>400072003</micrCode>
     <ifscCode>DCBL0000003</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Andheri - West (004)</name>
-    <city>Mumbai</city>
-    <address>Laram Shopping Centre, S V Road, Andheri (W), Mumbai</address>
-    <contact></contact>
+    <name>Andheri (WEST) </name>
+    <city>Mumbai </city>
+    <address>19, SV Road, OPP. Andheri Subway, Andheri (W), Mumbai - 400058 </address>
+    <contact>67424165 </contact>
     <micrCode>400072004</micrCode>
     <ifscCode>DCBL0000004</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bandra (005)</name>
-    <city>Mumbai</city>
-    <address>Hill View Appt, Mount Mary Road, Bandra , Mumbai 400 050</address>
-    <contact></contact>
+    <name>Bandra </name>
+    <city>Mumbai </city>
+    <address>241, Ground Floor,hill View Apartments, Hill Road OPP Mehboob Studio, Bandra (W) Mumbai - 400050 </address>
+    <contact>67657930 </contact>
     <micrCode>400072005</micrCode>
     <ifscCode>DCBL0000005</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Byculla (006)</name>
-    <city>Mumbai</city>
-    <address>Sagar Classic, 64 Mirza Ghalib Marg, Byculla, Mumbai 400008</address>
-    <contact></contact>
+    <name>Byculla </name>
+    <city>Mumbai </city>
+    <address>Sagar Classic, 64 Mirza Galib Marg, Byculla, Mumbai - 400008 </address>
+    <contact>65992032 </contact>
     <micrCode>400072006</micrCode>
     <ifscCode>DCBL0000006</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dahisar (007)</name>
-    <city>Mumbai</city>
-    <address>Gulistan Appts, S V Road, Dahisar (EAST), Mumbai 400 068</address>
-    <contact></contact>
+    <name>Dahisar </name>
+    <city>Mumbai </city>
+    <address>Gulistan Apt,ground Floor, S.V.ROAD,DAHISAR [E] - 400068 </address>
+    <contact>65992036 </contact>
     <micrCode>400072007</micrCode>
     <ifscCode>DCBL0000007</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Goregaon  (008)</name>
-    <city>Mumbai</city>
-    <address>Chitnis Bungaloe, Station Road, Goregoan(EAST), Mumbai 400 063</address>
-    <contact></contact>
+    <name>Goregaon </name>
+    <city>Mumbai </city>
+    <address>Chitnis BUNGLOW,OPP.ANUPAM Talkies, Station Road, Goregaon [e], Mumbai - 400063 </address>
+    <contact>65992052 </contact>
     <micrCode>400072008</micrCode>
     <ifscCode>DCBL0000008</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Hasanabad (009)</name>
-    <city>Mumbai</city>
-    <address>116, Dr Mascarenhas Road, Hasnabad, Mazgaon, Mumbai 400 010</address>
-    <contact></contact>
+    <name>Hasanabad </name>
+    <city>Mumbai </city>
+    <address>116 DR.MASCARENHAS Road, Hasanabad, Mazgaon, Mumbai - 400010 </address>
+    <contact>67474272 </contact>
     <micrCode>400072009</micrCode>
     <ifscCode>DCBL0000009</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jogeshwari  Branch (010)</name>
-    <city>Mumbai</city>
-    <address>Roop Appts, S V Road, Jogeshwari(W), Mumbai 400 102</address>
-    <contact></contact>
+    <name>Jogeshwari </name>
+    <city>Mumbai </city>
+    <address>Roop APTS,S.V.ROAD,JOGESHWARI [w], Mumbai - 400102 </address>
+    <contact>67582340 </contact>
     <micrCode>400072010</micrCode>
     <ifscCode>DCBL0000010</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kurla (011)</name>
-    <city>Mumbai</city>
-    <address>Radhabai Niwas, Nesr Best Depot, Kurla (W) Mumbai 400 070</address>
-    <contact></contact>
+    <name>Kurla </name>
+    <city>Mumbai </city>
+    <address>Radhabai Niwas,gr Flr,junction OF LBS Marg, Kurla, Mumbai - 400070 </address>
+    <contact>65990798 </contact>
     <micrCode>400072011</micrCode>
     <ifscCode>DCBL0000011</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbra (012)</name>
-    <city>Mumbra</city>
-    <address>35-38, Rizvi Baug Shopping Centre, Mumbai Dist Thana</address>
-    <contact></contact>
+    <name>Mumbra </name>
+    <city>Thane </city>
+    <address>D-9/d-10/d-25/ D-26, Nasheman Industrial Complex, MEK Engineering Works, Mumbra - 400 612. </address>
+    <contact>65992150 </contact>
     <micrCode>400072012</micrCode>
     <ifscCode>DCBL0000012</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nesbit Road (013)</name>
-    <city>Mumbai</city>
-    <address>34, Das Compound, Nesboit Road, Mazgaon, Mumbai 400 010</address>
-    <contact></contact>
-    <micrCode>400072013</micrCode>
+    <name>Nesbit Road </name>
+    <city>Mumbai </city>
+    <address>34  DAS Compound  Nesboit Road  Mazgaon  Mumbai 400 010 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>DCBL0000013</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8502</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pune (014)</name>
-    <city>Pune</city>
-    <address>14, Sadhu Vaswani Road, Pune 411 001</address>
-    <contact></contact>
+    <name>Pune </name>
+    <city>Pune </city>
+    <address>Millenium Star, NO.3, Ground Floor, Dhole Patil Road, Near Ruby Hall Clinic, Pune - 411 001. </address>
+    <contact>65601301 </contact>
     <micrCode>411072002</micrCode>
     <ifscCode>DCBL0000014</ifscCode>
-    <bankLoc>5551</bankLoc>
+    <bankLoc>8508</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Warangal (015)</name>
-    <city>Warangal</city>
-    <address>8-9-8, Station Road, Warangal, 506 002</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Warangal </name>
+    <city>Warangal </city>
+    <address>8-9-8, Station Road, Warangal - 506002 </address>
+    <contact>6453060 </contact>
+    <micrCode>72015</micrCode>
     <ifscCode>DCBL0000015</ifscCode>
-    <bankLoc>5511</bankLoc>
+    <bankLoc>8459</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Versova  (017)</name>
-    <city>Mumbai</city>
-    <address>Children Welfare School Bldg, Yari Road, Versova, Mumbai 400 061</address>
-    <contact></contact>
+    <name>Versova </name>
+    <city>Mumbai </city>
+    <address>Shop 1 TO 4, Ground Floor, Madhuban Chsl, Next TO AKB Baug, Andheri West, Mumbai - 400061 </address>
+    <contact>65992105 </contact>
     <micrCode>400072017</micrCode>
     <ifscCode>DCBL0000017</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Thane (018)</name>
-    <city>Thane</city>
-    <address>112, Netajisubhash Road, Jambli Naka, Thana (W),400 601</address>
-    <contact></contact>
+    <name>Thane </name>
+    <city>Thane </city>
+    <address>Janki Niwas, Ground Floor, OPP. Gadkari Rangayatan, DR. Moose Road, Talao Pali, Thane (W) - 400602 </address>
+    <contact>25333909 </contact>
     <micrCode>400072018</micrCode>
     <ifscCode>DCBL0000018</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mohamedali Road (019)</name>
-    <city>Mumbai</city>
-    <address>Palton Road, Opp Crawford Market, Mumbai 400 001</address>
-    <contact></contact>
+    <name>Mohamedali Road </name>
+    <city>Mumbai </city>
+    <address>Mohamedali Road Branch, M.R.A. Marg, OPP. Crawford Market, Mumbai - 400001 </address>
+    <contact>66156917 </contact>
     <micrCode>400072019</micrCode>
     <ifscCode>DCBL0000019</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nanded (022)</name>
-    <city>Nanded</city>
-    <address>36/39, Guru Nanik Market, G Road, Nanded 431 601</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Nanded-waghala </name>
+    <city>Nanded </city>
+    <address>Barara Tower, Upper Ground Floor, Doctor&apos;s Lane, Near Kalamandir, Nanded - 431601 </address>
+    <contact>646113 </contact>
+    <micrCode>72022</micrCode>
     <ifscCode>DCBL0000022</ifscCode>
-    <bankLoc>5549</bankLoc>
+    <bankLoc>8506</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nariman Point (023)</name>
-    <city>Mumbai</city>
-    <address>Mittal Court -c Wing, Nariman Point, Mumbai 400 021</address>
-    <contact></contact>
+    <name>Nariman Point </name>
+    <city>Mumbai </city>
+    <address>Office NO 3, Mittal Court B Wing, Nariman Point - 400021 </address>
+    <contact>67474100 </contact>
     <micrCode>400072023</micrCode>
     <ifscCode>DCBL0000023</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mahim (024)</name>
-    <city>Mumbai</city>
-    <address>9 Samrat, 314, Lady Jamsedhi Road, Mahim, Mumbai 400 016</address>
-    <contact></contact>
+    <name>Mahim </name>
+    <city>Mumbai </city>
+    <address>9/samrat, OPP.VICTORIA School, 314/lady Jamshedji Road, Mahim (W), Mumbai - 400016 </address>
+    <contact>65992130 </contact>
     <micrCode>400072024</micrCode>
     <ifscCode>DCBL0000024</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Malad  (025)</name>
-    <city>Mumbai</city>
-    <address>Mamlatar Wadi, Road#1, Liberty Garden, Malad (W), Mumbai 400 064</address>
-    <contact></contact>
+    <name>Malad </name>
+    <city>Mumbai </city>
+    <address>Mamlatdar Wadi, Liberty Garden Road # 1, Malad [W] Mumbai - 400064 </address>
+    <contact>67083540 </contact>
     <micrCode>400072025</micrCode>
     <ifscCode>DCBL0000025</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Santa Cruz (026)</name>
-    <city>Mumbai</city>
-    <address>Shrivikae, Linking Road, Santacruz (W), Mumbai 400 054</address>
-    <contact></contact>
+    <name>Santacruz </name>
+    <city>Mumbai </city>
+    <address>Shri Vikas CHS Ltd,60-b Linking Road, Junction OF North Avenue,santacruz [w], Mumbai - 400054 </address>
+    <contact>67587530 </contact>
     <micrCode>400072026</micrCode>
     <ifscCode>DCBL0000026</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Hyderabad (027)</name>
-    <city>Hyderabad</city>
-    <address>30/1, Methodist Complex, Abids Road, Hyderabad 500 001</address>
-    <contact></contact>
+    <name>Hyderabad </name>
+    <city>Hyderabad </city>
+    <address>30/1, Ground Floor, Methodist Complex, Abids, Hyderabad - 500001 </address>
+    <contact>66021981 </contact>
     <micrCode>500072002</micrCode>
     <ifscCode>DCBL0000027</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8455</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ahmedabad (028)</name>
-    <city>Ahmedabad</city>
-    <address>Relief Road, Near Relief Cinema, Ahmdeabad 380 001</address>
-    <contact></contact>
+    <name>Relief Road </name>
+    <city>Ahmedabad </city>
+    <address>Next TO Relief Cinema, OPP Z. K. Hotel, Relief Road, Ahmedabad 380001 </address>
+    <contact>2147483647 </contact>
     <micrCode>380072002</micrCode>
     <ifscCode>DCBL0000028</ifscCode>
-    <bankLoc>5523</bankLoc>
+    <bankLoc>8472</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kausa E.C (029)</name>
-    <city>Mumbra</city>
-    <address>Abdulla Patel High School, Kismat Colony, Kausa, Mumbra Dist Thana</address>
-    <contact></contact>
+    <name>Kausa </name>
+    <city>Thane </city>
+    <address>Nasheman, N Wing, Shop NO.2,3,4, Kausa, Mumbra District, THANE.PIN - 400612 </address>
+    <contact>65992064 </contact>
     <micrCode>400072027</micrCode>
     <ifscCode>DCBL0000029</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vashi (030)</name>
-    <city>Navi Mumbai</city>
-    <address>75, Vardhman Market, Sector 17, Dbc Vashi, Navi Mumbai 400 703</address>
-    <contact></contact>
+    <name>Vashi </name>
+    <city>Thane </city>
+    <address>75, Vardhaman Market, Sector 17, Vashi, Navi Mumbai - 400703 </address>
+    <contact>65991189 </contact>
     <micrCode>400072030</micrCode>
     <ifscCode>DCBL0000030</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Lokhandwala  (031)</name>
-    <city>Mumbai</city>
-    <address>4/5, Apna Ghar, Swami Samarth Nagar,Andheri(W) , Mumbai400 053</address>
-    <contact></contact>
+    <name>Lokhandwala </name>
+    <city>Mumbai </city>
+    <address>Shop NO 4&amp;5 Apna Ghar Chs, Swami Samarth Nagar,andheri [w], Mumbai - 400053 </address>
+    <contact>67587500 </contact>
     <micrCode>400072029</micrCode>
     <ifscCode>DCBL0000031</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Auranagabad (032)</name>
-    <city>Aurangabad</city>
-    <address>J K Towers, Adalat Road, Kranto Chowk, Auranagabad</address>
-    <contact></contact>
+    <name>Auranagabad </name>
+    <city>Aurangabad </city>
+    <address>J.K.TOWERS, Adalat Road, Kranti Chowk, Aurangabad- 431005 </address>
+    <contact>6604875 </contact>
     <micrCode>431072050</micrCode>
     <ifscCode>DCBL0000032</ifscCode>
-    <bankLoc>5545</bankLoc>
+    <bankLoc>8500</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Surat (033)</name>
-    <city>Surat</city>
-    <address>Ajanta Appts, Ring Road, Salabatpura, Surat 395 002</address>
-    <contact></contact>
+    <name>Surat </name>
+    <city>Surat </city>
+    <address>G-1 AND G-2, Ground Floor, Rockford Business Center, Udhna Darwaja, Ring Road, Surat ?û 395002. </address>
+    <contact>2147483647 </contact>
     <micrCode>395072002</micrCode>
     <ifscCode>DCBL0000033</ifscCode>
-    <bankLoc>5533</bankLoc>
+    <bankLoc>8482</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vapi (034)</name>
-    <city>Vapi</city>
-    <address>Deep Appartment, Vapi Silvassa Road, Vapi 396 191</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Vapi </name>
+    <city>Valsad </city>
+    <address>Deep Apartment, Vapi - Silvassa Road, Gidc Char Rasta, Vapi 396191 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72034</micrCode>
     <ifscCode>DCBL0000034</ifscCode>
-    <bankLoc>5535</bankLoc>
+    <bankLoc>8485</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Sidhpur (035)</name>
-    <city>Sidhpur</city>
-    <address>Sanman Complex, Opp Civil Court, Sidhpur 384151</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Sidhpur </name>
+    <city>Patan </city>
+    <address>Sanman Complex, OPP. Civil Court, Sidhpur 384151 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72035</micrCode>
     <ifscCode>DCBL0000035</ifscCode>
-    <bankLoc>5531</bankLoc>
+    <bankLoc>8480</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>C.G.Road (036)</name>
-    <city>Ahmedabad</city>
-    <address>8, Pariseema Complex, Off Ifc Bhavan, Navrangpura, Ahmedabad 380 006</address>
-    <contact></contact>
+    <name>C.G.ROAD </name>
+    <city>Ahmedabad </city>
+    <address>Prerna Arcade, Ground Floor, OPP.DOCTOR House, Near Parimal Garden, C.G.ROAD, Ahmedabad 380006. 380006 </address>
+    <contact>2147483647 </contact>
     <micrCode>380072003</micrCode>
     <ifscCode>DCBL0000036</ifscCode>
-    <bankLoc>5523</bankLoc>
+    <bankLoc>8472</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bangalore (038)</name>
-    <city>Bangalore</city>
-    <address>128(31/1) Prestige Meridian Annexe, M G Road, Bangalaore 560 001</address>
-    <contact></contact>
+    <name>Rtgs-ho </name>
+    <city>Mumbai </city>
+    <address>Peninsula Business Park,  Tower A , 9TH Floor, Senapati Bapat Marg, Lower Parel Mumbai  400 013. </address>
+    <contact>66187283 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DCBL0000037</ifscCode>
+    <bankLoc>8505</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore </name>
+    <city>Bangalore </city>
+    <address>128(31/1) A&amp;S Prestige, Annex, MG Road, Bangalore - 560001 </address>
+    <contact>2147483647 </contact>
     <micrCode>560072002</micrCode>
     <ifscCode>DCBL0000038</ifscCode>
-    <bankLoc>5538</bankLoc>
+    <bankLoc>8488</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mira Road (039)</name>
-    <city>Mira- Bhayander</city>
-    <address>A1/e, Rashmi Park, Sheetal Nagar, Mira Road (EAST) Dist Thana</address>
-    <contact></contact>
+    <name>Mira Road </name>
+    <city>Thane </city>
+    <address>A/1e Rashmi Park,sheetal Nagar, Near M.T.N.L Mira Road [e], PIN - 401107 </address>
+    <contact>65992081 </contact>
     <micrCode>400072031</micrCode>
     <ifscCode>DCBL0000039</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rajkot (040)</name>
-    <city>Rajkot</city>
-    <address>Jay Nagnath Complex, Dhebar Road, Rajkot 360 005</address>
-    <contact></contact>
+    <name>Rajkot </name>
+    <city>Rajkot </city>
+    <address>JAY Nagnath Complex, 23 Millpara Lane, NR.MEHTA Petrol Pump, Dhebar Road, Rajkot 360002 </address>
+    <contact>2147483647 </contact>
     <micrCode>360072002</micrCode>
     <ifscCode>DCBL0000040</ifscCode>
-    <bankLoc>5532</bankLoc>
+    <bankLoc>8481</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Gandhinagar (041)</name>
-    <city>Gandhinagar</city>
-    <address>Plot 439, Secyor 16, G H Road, Gandhinagar - 382 016</address>
-    <contact></contact>
+    <name>Gandhinagar </name>
+    <city>Gandhinagar </city>
+    <address>Plot NO. 439, Sectore-16, GH Road, Gandhinagar 382076 </address>
+    <contact>2147483647 </contact>
     <micrCode>380072004</micrCode>
     <ifscCode>DCBL0000041</ifscCode>
-    <bankLoc>5528</bankLoc>
+    <bankLoc>8476</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhuj (042)</name>
-    <city>Bhuj</city>
-    <address>Shop # 5-6, Plot 4, Shree Ravechi Chs, Hospital Road, Bhuj 370001</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Bhuj </name>
+    <city>Kachchh </city>
+    <address>LAL Tekri, OPP.BSNL Office(customer Care), Bhuj-kutch-370001 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72042</micrCode>
     <ifscCode>DCBL0000042</ifscCode>
-    <bankLoc>5529</bankLoc>
+    <bankLoc>8477</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Fort (043)</name>
-    <city>Mumbai</city>
-    <address>8 Raja Bahadur Compound, A D Marg, Fort, Mumbai 400 001</address>
-    <contact></contact>
-    <micrCode>400072032</micrCode>
+    <name>Fort </name>
+    <city>Mumbai </city>
+    <address>8 Raja Bahadur Compound  A D Marg  Fort  Mumbai 400 001 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>DCBL0000043</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8502</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Daman (044)</name>
-    <city>Daman</city>
-    <address>Al Husain Palace, Zampa Bahar, Nani Daman, Daman 396 210</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Daman </name>
+    <city>Daman </city>
+    <address>AL Hussein Palace, Zapa Bahar, Main Road, Nani Daman, Daman 396210 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72044</micrCode>
     <ifscCode>DCBL0000044</ifscCode>
-    <bankLoc>5519</bankLoc>
+    <bankLoc>8467</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ankleshwar (045)</name>
-    <city>Ankleshwar</city>
-    <address>C Building, Hotel Highway Inn, Mayura Village, Piraman, Ankleswar</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Ankleswar </name>
+    <city>Bharuch </city>
+    <address>124-128, Anmol Plaza, OPP. Gidc BUS Stand, Ankleshwar - 393002. </address>
+    <contact>2147483647 </contact>
+    <micrCode>72045</micrCode>
     <ifscCode>DCBL0000045</ifscCode>
-    <bankLoc>5527</bankLoc>
+    <bankLoc>8475</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>New Delhi (046)</name>
-    <city>Delhi</city>
-    <address>15, Bara Khamba Road, Hansalaya Bldg, Connaught Place, New Delhi-1</address>
-    <contact></contact>
+    <name>NEW Delhi </name>
+    <city>Delhi </city>
+    <address>Connaught Place Branch, #15 G, Hansalaya Building, Barakhamba Road, NEW Delhi - 110001 </address>
+    <contact>1164649064 </contact>
     <micrCode>110072002</micrCode>
     <ifscCode>DCBL0000046</ifscCode>
-    <bankLoc>5520</bankLoc>
+    <bankLoc>8468</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Silvassa (047)</name>
-    <city>Silvassa</city>
-    <address>9 Balaji Complex, Naroli Road, Silvasa 396 230</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Silvassa </name>
+    <city>Dadra &amp; Nagar Haveli </city>
+    <address>9, Balaji Complex, Naroli RD, Silvassa 396230 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72047</micrCode>
     <ifscCode>DCBL0000047</ifscCode>
-    <bankLoc>5518</bankLoc>
+    <bankLoc>8466</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>J.M.Road - Pune (048)</name>
-    <city>Pune</city>
-    <address>G/f, Deccan Gymkhana, , Off J M Road, Pune 411001</address>
-    <contact></contact>
+    <name>J.M.ROAD - Pune </name>
+    <city>Pune </city>
+    <address>Rohit Building, OFF J.M.ROAD,DECCAN Gymkhana,pune 411 004 </address>
+    <contact>66421651 </contact>
     <micrCode>411072003</micrCode>
     <ifscCode>DCBL0000048</ifscCode>
-    <bankLoc>5551</bankLoc>
+    <bankLoc>8508</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Madhapur (049)</name>
-    <city>Madhapur</city>
-    <address>1-90/2/3/23 Bhanu Enclave, Main Hi Tech City Road, Madhapur 500 081</address>
-    <contact></contact>
+    <name>Madhapur </name>
+    <city>Rangareddy </city>
+    <address>Pranaz Plaza, H NO 1-74/2/1/a/nr, Plot NO 3/a, Survey NO 58 Part, Guttala Begumpet, Madhapur, Hyderabad - 500081 </address>
+    <contact>64631257 </contact>
     <micrCode>500072003</micrCode>
     <ifscCode>DCBL0000049</ifscCode>
-    <bankLoc>5509</bankLoc>
+    <bankLoc>8458</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Habsiguda (050)</name>
-    <city>Hyderabad</city>
-    <address>Triadd # 7-93, 1/f, Above Food World, Hyderabad - 500 077</address>
-    <contact></contact>
+    <name>Habsiguda </name>
+    <city>Rangareddy </city>
+    <address>4-7-40/2/1, Opp: Hdfc Bank, Bapuji Nagar, Main Road, Nacharam, Hyderabad - 500076 </address>
+    <contact>64632029 </contact>
     <micrCode>500072004</micrCode>
     <ifscCode>DCBL0000050</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8458</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>A.S.Rao Nagar (051)</name>
-    <city>Hyderabad</city>
-    <address>Sree Amulya Estates, Kushaiguda, A S Rao Nagar, Capra, Hyderabad -62</address>
-    <contact></contact>
+    <name>A.S.RAO Nagar </name>
+    <city>Hyderabad </city>
+    <address>1,2,5&amp;7, Sree Amulya Estetes, Kushaiguda, Ecil Post, Hyderabad - 500062 </address>
+    <contact>64631172 </contact>
     <micrCode>500072005</micrCode>
     <ifscCode>DCBL0000051</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8455</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Virar (052)</name>
-    <city>Virar</city>
-    <address>Shree Panth Samarth, Chhatrapatri Shivaji Marg, Virar (W), Dist Thana</address>
-    <contact></contact>
+    <name>Virar </name>
+    <city>Thane </city>
+    <address>Shree Panth Samarth,opp Vithal Mandir, C.S .MARG,VIRAR [w], PIN - 401303 </address>
+    <contact>6450391 </contact>
     <micrCode>400072033</micrCode>
     <ifscCode>DCBL0000052</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Saboo Siddique Ec (053)</name>
-    <city>Mumbai</city>
-    <address>Counter 8, Shepard Road, Byculla, Mumbai 400008</address>
-    <contact></contact>
+    <name>Saboo Siddique </name>
+    <city>Mumbai </city>
+    <address>Saboo Siddik Branch, M.H.S.S. College OF ENGG., 8, Shepherd RD., Byculla, Mumbai - 400008 </address>
+    <contact>23014149 </contact>
     <micrCode>400072034</micrCode>
     <ifscCode>DCBL0000053</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vasco-da-gama (054)</name>
-    <city>Vasco</city>
-    <address>Vasco Citicentre, Swatantra Path, Vasco Da Gama 403 802</address>
-    <contact></contact>
+    <name>Vasco-da-gama </name>
+    <city>South GOA </city>
+    <address>Shop NO.9 TO 11, Vasco Citi Centre, Swatantra Path, Vasco, GOA 403 802 </address>
+    <contact>2147483647 </contact>
     <micrCode>403072005</micrCode>
     <ifscCode>DCBL0000054</ifscCode>
-    <bankLoc>5522</bankLoc>
+    <bankLoc>8471</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Panaji (055)</name>
-    <city>Panaji</city>
-    <address>El Dorado, Nr Panjim Muncipal Market, Panjim 403 001</address>
-    <contact></contact>
+    <name>Panaji </name>
+    <city>North GOA </city>
+    <address>Heliodoro Salgado Road, EL- Dorado Plaza, Panaji - GOA 403001 </address>
+    <contact>2147483647 </contact>
     <micrCode>403072002</micrCode>
     <ifscCode>DCBL0000055</ifscCode>
-    <bankLoc>5521</bankLoc>
+    <bankLoc>8470</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Margao (056)</name>
-    <city>Margao</city>
-    <address>Cd Blue Chip Business Centre, Isidore Baptista Road, Pajifond, Margao -1</address>
-    <contact></contact>
+    <name>Margao </name>
+    <city>South GOA </city>
+    <address>Karpe House, Ground Floor,hotel Gold Star, Next TO Raymond Showroom, Isidore Baptista Road, Margao GOA - 403601 </address>
+    <contact>2147483647 </contact>
     <micrCode>403072003</micrCode>
     <ifscCode>DCBL0000056</ifscCode>
-    <bankLoc>5522</bankLoc>
+    <bankLoc>8471</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mapusa (057)</name>
-    <city>Mapusa</city>
-    <address>Rijim Plaza, Near Bardez Bazar, Mapusa - 403507</address>
-    <contact></contact>
+    <name>Mapusa </name>
+    <city>North GOA </city>
+    <address>Rijim Plaza , OPP. Poshak, NR Bardez BAZAR,MAPUSA,GOA.403507 </address>
+    <contact>2147483647 </contact>
     <micrCode>403072004</micrCode>
     <ifscCode>DCBL0000057</ifscCode>
-    <bankLoc>5521</bankLoc>
+    <bankLoc>8470</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Secundrabad (058)</name>
-    <city>Secunderabad Cantonment</city>
-    <address>Sidharth Plaza, 44, Sarojini Devi Road, Secunderabad 500 003</address>
-    <contact></contact>
+    <name>Secundrabad </name>
+    <city>Hyderabad </city>
+    <address>9-1-125/1, Siddhartha Plaza, 44, Sarojini Devi Road, Secunderabad - 500003 </address>
+    <contact>66143801 </contact>
     <micrCode>500072006</micrCode>
     <ifscCode>DCBL0000058</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8455</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nakkalgutta (059)</name>
-    <city>Warangal</city>
-    <address>Aes, K L N Reddy Colony, Subedari, Hanumakonda</address>
-    <contact></contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Nakkalgutta </name>
+    <city>Warangal </city>
+    <address>DNO 2-5-837 KLN Reddy Coloney,circuit House Road,hanmakonda,warangal-506001 </address>
+    <contact>6450349 </contact>
+    <micrCode>72059</micrCode>
     <ifscCode>DCBL0000059</ifscCode>
-    <bankLoc>5511</bankLoc>
+    <bankLoc>8459</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chennai (060)</name>
-    <city>Chennai</city>
-    <address>28a, Nungabakam , High Road, Chennai 600 034</address>
-    <contact></contact>
+    <name>Chennai </name>
+    <city>Chennai </city>
+    <address>37, Jambulingam Street, Nungambakkam, Chennai - 600 034. </address>
+    <contact>2147483647 </contact>
     <micrCode>600072002</micrCode>
     <ifscCode>DCBL0000060</ifscCode>
-    <bankLoc>5571</bankLoc>
+    <bankLoc>8530</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Andheri East (061)</name>
-    <city>Mumbai</city>
-    <address>Shree Amba Shanti Chambers, Andheri Kurla Road, Andheri(E), Mumbai</address>
-    <contact></contact>
-    <micrCode>400072035</micrCode>
+    <name>Andheri East </name>
+    <city>Mumbai </city>
+    <address>Shree Amba Shanti Chambers  Andheri Kurla Road  Andheri Emumbai </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>DCBL0000061</ifscCode>
-    <bankLoc>5547</bankLoc>
+    <bankLoc>8502</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jharsa (062)</name>
-    <city>Jharsa</city>
-    <address>Prem Deep Bldg, Jharsa Road, Sector 15, Jharsa Dist Gurgaon 122 001</address>
-    <contact></contact>
+    <name>Jharsa </name>
+    <city>Gurgaon </city>
+    <address>Prem Deep Building, Jharsa Road, OPP. Hope Apartments, Sector 15 ( Part 2), Gurgaon, Haryana - 122001 </address>
+    <contact>1246461721 </contact>
     <micrCode>110072003</micrCode>
     <ifscCode>DCBL0000062</ifscCode>
-    <bankLoc>5536</bankLoc>
+    <bankLoc>8486</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Preet Vihar (069)</name>
-    <city>Delhi</city>
-    <address>13, Sruya Niketanop Anand Vihar Gurudwara, New Delhi 110 092</address>
-    <contact></contact>
+    <name>Preet Vihar </name>
+    <city>Delhi </city>
+    <address>13, Surya Niketan, OPP.ANAND Vihar Gurudwara, Delhi - 110092 </address>
+    <contact>1164649137 </contact>
     <micrCode>110072004</micrCode>
     <ifscCode>DCBL0000069</ifscCode>
-    <bankLoc>5520</bankLoc>
+    <bankLoc>8468</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Greater Kailash (070)</name>
-    <city>Delhi</city>
-    <address>Block- S-484, Greater Kailash Ii, New Delhi 110 048</address>
-    <contact></contact>
+    <name>Greater Kailash </name>
+    <city>Delhi </city>
+    <address>S-484, Greater Kailash-ii, NEW Delhi - 110048 </address>
+    <contact>1164649101 </contact>
     <micrCode>110072005</micrCode>
     <ifscCode>DCBL0000070</ifscCode>
-    <bankLoc>5520</bankLoc>
+    <bankLoc>8468</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rajaji Nagar - Blr (071)</name>
-    <city>Bangalore</city>
-    <address>Bee Em Avenue 650/12, Dr Raj Kumar Road, D Block Gayatri Nagar, Bangalore</address>
-    <contact></contact>
+    <name>Rajaji Nagar </name>
+    <city>Bangalore </city>
+    <address>BEE EM Avenue, 650/12, DR. RAJ Kumar Road, 1ST Main Road, D Block, Gayathrinagar, Bangalore - 560010 </address>
+    <contact>2147483647 </contact>
     <micrCode>560072003</micrCode>
     <ifscCode>DCBL0000071</ifscCode>
-    <bankLoc>5538</bankLoc>
+    <bankLoc>8488</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>S.R.Nagar (072)</name>
-    <city>Hyderabad</city>
-    <address>Hyderabad Tirumala Manasa, Sanjeeva Reddy Nagar, Hyderabad 500 038</address>
-    <contact></contact>
+    <name>S.R.NAGAR </name>
+    <city>Hyderabad </city>
+    <address>263/3 RT, &quot;tirumala Manas&quot; Main Road, Sanjeeva Reddy Nagar, Hydeabad - 500038 </address>
+    <contact>66565412 </contact>
     <micrCode>500072007</micrCode>
     <ifscCode>DCBL0000072</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8455</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Gaddiannaramm (076)</name>
-    <city>Hyderabad</city>
-    <address>18-99/1, Road #5, Kamlanagr, Dilsokhnagar, Hyderabad -60</address>
-    <contact></contact>
+    <name>Gaddiannaram </name>
+    <city>Rangareddy </city>
+    <address>18/99-1, Opp: Chaitanyapuri Petrol Pump, Kamala Nagar, Gaddiannaram, Dilsukhnagar, Hyderabad - 500060 </address>
+    <contact>64631137 </contact>
     <micrCode>500072008</micrCode>
     <ifscCode>DCBL0000076</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8458</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Shakespear Sarani (079)</name>
-    <city>Kolkatta</city>
-    <address>Premlata Bldg, 39, Shakespear Sarani, Kolkatta</address>
-    <contact></contact>
+    <name>Shakespear Sarani </name>
+    <city>Kolkatta </city>
+    <address>Premlata Building , 39 Shakespeare Sarani, Kolkata - 700017 </address>
+    <contact>2147483647 </contact>
     <micrCode>700072002</micrCode>
     <ifscCode>DCBL0000079</ifscCode>
-    <bankLoc>5576</bankLoc>
+    <bankLoc>8537</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vejalpur (080)</name>
-    <city>Vejalpur</city>
-    <address>Medlink Hospital Bldg, Shymal Cross Road, 132ft Ring Road, Vejalpur, 380015</address>
-    <contact></contact>
+    <name>Vejalpur </name>
+    <city>Ahmedabad </city>
+    <address>1-4 GR. Floor, Medilink Hospital BLDG., Shyamal Cross Road, 132 FT. Ring Road, Vejalpur, Satellite, Ahmedabad 380015 </address>
+    <contact>2147483647 </contact>
     <micrCode>380072005</micrCode>
     <ifscCode>DCBL0000080</ifscCode>
-    <bankLoc>5523</bankLoc>
+    <bankLoc>8472</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Satara Road Pune (081)</name>
-    <city>Pune</city>
-    <address>Sharda Arcade, Bibvevadi, Pune Satara Road, Pune 411 037</address>
-    <contact></contact>
+    <name>Satara Road, Pune </name>
+    <city>Pune </city>
+    <address>Sharada Arcade,ground Floor, Pune Satara Road ,bibwewadi,pune 411037 </address>
+    <contact>65601306 </contact>
     <micrCode>411072004</micrCode>
     <ifscCode>DCBL0000081</ifscCode>
-    <bankLoc>5551</bankLoc>
+    <bankLoc>8508</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jaya Nagar (082)</name>
-    <city>Bangalore</city>
-    <address>239/26, Rajisree Towers, 9th Main Road, 3rd Block, Jayanagr, Bangalore</address>
-    <contact></contact>
+    <name>Jaya Nagar </name>
+    <city>Bangalore </city>
+    <address># 239/26, Rajasree Towers, 9TH Main Road, 3RD Block, Jayanagar, Bangalore - 560011 </address>
+    <contact>2147483647 </contact>
     <micrCode>560072004</micrCode>
     <ifscCode>DCBL0000082</ifscCode>
-    <bankLoc>5538</bankLoc>
+    <bankLoc>8488</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatlodia (083)</name>
-    <city>Ahmedabad</city>
-    <address>L 15/16, Agarwal Complex, Sola Road, Ghatlodia, Ahmedabad 380 061</address>
-    <contact></contact>
-    <micrCode>380072006</micrCode>
+    <name>Ghatlodia </name>
+    <city>Ghatlodiya </city>
+    <address>L 15 BY 16  Agarwal Complex  Sola Road  Ghatlodia  Ahmedabad 380 061 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>DCBL0000083</ifscCode>
-    <bankLoc>5523</bankLoc>
+    <bankLoc>8472</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kalamboli</name>
-    <city>Kalamboli</city>
-    <address>Unit No. 7 &amp; 8, Neel Udhyan,
-sanjay Co - Operative Housing Society, Plot No. 19, 
-sector No. 3e, Kalamboli, 
-navi Mumbai - 410218</address>
-    <contact>Mr. Vinod Shinde
-mob.9892531476.
-
- </contact>
-    <micrCode>400 072 036</micrCode>
+    <name>Kalamboli </name>
+    <city>Raigad </city>
+    <address>Unit NO. 7 &amp; 8 Neel Udhyan, Sanjay Co-op HSG Society, Plot NO. 19 Sector NO. 3E, Kalamboli, Navi Mumbai - 410218 </address>
+    <contact>65992075 </contact>
+    <micrCode>400072036</micrCode>
     <ifscCode>DCBL0000084</ifscCode>
-    <bankLoc>5548</bankLoc>
+    <bankLoc>8509</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chandanagar  (085)</name>
-    <city>Chandanagar</city>
-    <address>Shubham Plaza, 4-91, Chanda Nagar, Hyderabad- 500 050</address>
-    <contact></contact>
+    <name>Chandanagar </name>
+    <city>Hyderabad </city>
+    <address>4-91, Subham Plaza, Chandanagar, Hyderabad - 500050 </address>
+    <contact>64631281 </contact>
     <micrCode>500072009</micrCode>
     <ifscCode>DCBL0000085</ifscCode>
-    <bankLoc>5507</bankLoc>
+    <bankLoc>8455</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Muchhala Polytechnic Ec (086)</name>
-    <city>Thane</city>
-    <address>3&amp;4, A/6, Rita Saibaba Vihar Complex, Kavesar, Ghod Bunder Road, Thana</address>
-    <contact></contact>
+    <name>Muchhala Polytechnic </name>
+    <city>Thane </city>
+    <address>3&amp;4 -a/6,rita Bldg,ground Floor, SAI Baba Vihar Complex, Village Kavesar, Adjacent TO Muchhala Polytechnic, Ghodbunder Road, Thane - 400601 </address>
+    <contact>65992158 </contact>
     <micrCode>400072037</micrCode>
     <ifscCode>DCBL0000086</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Gariahat (087)</name>
-    <city>Kolkatta</city>
-    <address>42/1-b, Gariahat Road, Near Gol Park , Kolkatta 700 029</address>
-    <contact></contact>
+    <name>Gariahat </name>
+    <city>Kolkatta </city>
+    <address>42/1b, Gariahat Road, Near GOL Park, Kolkata700029 </address>
+    <contact>2147483647 </contact>
     <micrCode>700072003</micrCode>
     <ifscCode>DCBL0000087</ifscCode>
-    <bankLoc>5576</bankLoc>
+    <bankLoc>8537</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dediapada</name>
-    <city>Narmada</city>
-    <address>Dediapada Char Rasta, Next To Dena Bank Br, Dediapada Main Road, Dediapada, Dist - Narmada, Gujarat - 393040</address>
-    <contact></contact>
-    <micrCode></micrCode>
+    <name>Dediapada </name>
+    <city>Dediapada </city>
+    <address>Dediapada Char Rasta, Next TO Dena Bank Branch, Dediapada Main Road, Dediapada, DIST. Narmada, GUJARAT. PIN 393040 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72088</micrCode>
     <ifscCode>DCBL0000088</ifscCode>
-    <bankLoc>5530</bankLoc>
+    <bankLoc>8479</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Brabourne Road</name>
-    <city>Kolkata</city>
-    <address>Banerjee Bhavan, 15, Brabourne Road, Ground Floor, Kolkatta 700 001</address>
-    <contact></contact>
+    <name>Brabourne Road </name>
+    <city>Kolkatta </city>
+    <address>Banerjee Bhavan, 15, Brabourne Road, Ground Floor, Kolkata - 700 001. </address>
+    <contact>2147483647 </contact>
     <micrCode>700072004</micrCode>
     <ifscCode>DCBL0000089</ifscCode>
-    <bankLoc>5576</bankLoc>
+    <bankLoc>8537</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jakkasandra</name>
-    <city>Bangalore Urban</city>
-    <address>98/1, Mmr Plaza, Sarjapur Main Road, Jakkasandra, 1st Block, Kormangala, Bangalore 560 034</address>
-    <contact></contact>
+    <name>Jakkasandra </name>
+    <city>Bangalore Rural </city>
+    <address># 98/1 MMR Plaza, Sarjapur Main Road, Jakkasandra 1ST Block, Kormangala, Bangalore - 560 034 </address>
+    <contact>2147483647 </contact>
     <micrCode>560072005</micrCode>
     <ifscCode>DCBL0000090</ifscCode>
-    <bankLoc>5538</bankLoc>
+    <bankLoc>8489</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chandni Chowk</name>
-    <city>Delhi</city>
-    <address>1488 - 1489 Main Riad, Chandni Chowk, New Delhi 110 006</address>
-    <contact></contact>
+    <name>Chandni Chowk </name>
+    <city>Delhi </city>
+    <address>1488-1489, Main Road, Chandni Chowk, NEW Delhi ?û 110 006. </address>
+    <contact>1164649057 </contact>
     <micrCode>110072007</micrCode>
     <ifscCode>DCBL0000091</ifscCode>
-    <bankLoc>5520</bankLoc>
+    <bankLoc>8468</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kapashera</name>
-    <city>Delhi</city>
-    <address>Shiv Chand Complex, Old Gurgoan Road, Opp Fun And Food Village, Kapashera, New Delhi 110 037</address>
-    <contact></contact>
+    <name>Kapashera </name>
+    <city>Delhi </city>
+    <address>Shiv Chand Complex, OLD Gurgaon Road,  OPP. FUN AND Food Village, Kapashera, NEW Delhi ?û 110 037. </address>
+    <contact>1164649110 </contact>
     <micrCode>110072006</micrCode>
     <ifscCode>DCBL0000092</ifscCode>
-    <bankLoc>5520</bankLoc>
+    <bankLoc>8468</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kondli</name>
-    <city>Delhi</city>
-    <address>V-4, Mayur Plaza, Plot No 5, Block G, Mayur Vihar Phase Iii, Kondli, Gharoli, New Delhi 110 096</address>
-    <contact></contact>
+    <name>Kondli </name>
+    <city>Delhi </city>
+    <address>V-4, Mayur Plaza, Plot 5, Block G, Mayur Vihar, Phase ?û Iii,  Kondli Gharoli, NEW Delhi ?û 110 096. </address>
+    <contact>1164649118 </contact>
     <micrCode>110072008</micrCode>
     <ifscCode>DCBL0000093</ifscCode>
-    <bankLoc>5520</bankLoc>
+    <bankLoc>8468</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vasai Road</name>
-    <city>Thane</city>
-    <address>Gautam Govind, Ambadi Road, Next To Suryoday Bajaj Showroom, Vasai Road (W), Thane 401 202</address>
-    <contact></contact>
+    <name>Vasai Road </name>
+    <city>Thane </city>
+    <address>Gautam Govind, Ambadi Road, Next Suryoday Bajaj Show Room,vasai Road (W), Thane - 401 202 </address>
+    <contact>6453528 </contact>
     <micrCode>400072038</micrCode>
     <ifscCode>DCBL0000094</ifscCode>
-    <bankLoc>5552</bankLoc>
+    <bankLoc>8510</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nashik</name>
-    <city>Nasik</city>
-    <address>R Square Building, Near Yamaha Showroom, Wadnagare Automobiles, College Road, Nashik 422 005</address>
-    <contact></contact>
+    <name>Nashik </name>
+    <city>Nasik </city>
+    <address>Plot NO. 49, Dwarkamai Building, Shivgiri Colony, D?æsouza Colony, Opposite K Kathiyawad, Nasik ?û 422 005. </address>
+    <contact>6510002 </contact>
     <micrCode>422072002</micrCode>
     <ifscCode>DCBL0000095</ifscCode>
-    <bankLoc>5550</bankLoc>
+    <bankLoc>8507</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jodhpur</name>
-    <city>Jodhpur</city>
-    <address>Near New Kohinoor Cinema, Chopasni Road, Jodhpur 342 001</address>
-    <contact></contact>
+    <name>Jodhpur </name>
+    <city>Jodhpur </city>
+    <address>LIG Scheme 3, Plot NO 8, Near NEW Kohinoor Cinema, Chopasni Road, Jodhpur - 342 001 </address>
+    <contact>0</contact>
     <micrCode>342072002</micrCode>
     <ifscCode>DCBL0000096</ifscCode>
-    <bankLoc>5569</bankLoc>
+    <bankLoc>8528</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Parrys Corner</name>
-    <city>Chennai</city>
-    <address>New No 177 ( Old No 89 ) Broadway, Chennai 600 108</address>
-    <contact></contact>
+    <name>Parrys Corner </name>
+    <city>Chennai </city>
+    <address>NEW NO. 177 (old NO. 89), Broadway, Chennai ?û 600 108. </address>
+    <contact>2147483647 </contact>
     <micrCode>600072003</micrCode>
     <ifscCode>DCBL0000097</ifscCode>
-    <bankLoc>5571</bankLoc>
+    <bankLoc>8530</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kondwe</name>
-    <city>Pune</city>
-    <address>Khurd Shop,No. 1/2/3 , Brahma Majestic, Nibm Road, Kondhwa Khurd, Pune</address>
-    <contact></contact>
+    <name>Kondwa </name>
+    <city>Pune </city>
+    <address>Shop NO. 1/2/3 , Brahma Majestic, Nibm Road, Kondhwa Khurd, Pune 411048 </address>
+    <contact>65602011 </contact>
     <micrCode>411072005</micrCode>
     <ifscCode>DCBL0000098</ifscCode>
-    <bankLoc>5551</bankLoc>
+    <bankLoc>8508</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mandvi</name>
-    <city>Mandvi</city>
-    <address>Bhanrajpoonamchand Dalwala Compound, Opp S T Bus Stop, Kim Mandvi Road, Mandvi , Dist - Surat - 394160, Gujarat</address>
-    <contact></contact>
-    <micrCode>N A </micrCode>
+    <name>Vadodara </name>
+    <city>Vadodara </city>
+    <address>Startrek Building, O P Road, Near Chakli Circle, Vadodara - 390007 </address>
+    <contact>2147483647 </contact>
+    <micrCode>390072002</micrCode>
+    <ifscCode>DCBL0000100</ifscCode>
+    <bankLoc>8484</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandvi </name>
+    <city>Surat </city>
+    <address>Dhanraj Poonam Chand Dalwala Compound, OPP. S. T. BUS Stop, Kim-mandvi Road, Mandvi, DIST. SURAT. 394160 </address>
+    <contact>2147483647 </contact>
+    <micrCode>394072091</micrCode>
     <ifscCode>DCBL0000101</ifscCode>
-    <bankLoc>5533</bankLoc>
+    <bankLoc>8482</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Netrang</name>
-    <city>Netrang</city>
-    <address>Shop No 7, Gurjari Talkies Complex, Jawahar Bazar Char Rasta, Dediapada Road, Netrang, Taluka - Valiya, Dist - Bharuch, Gujarat 393 601</address>
-    <contact></contact>
-    <micrCode>N A </micrCode>
+    <name>Netrang </name>
+    <city>Bharuch </city>
+    <address>Shop NO. 7, Gurjari Talkies Complex, Jawahar Bazar Char Rasta, Dediapada Road, Netrang, TAL Valiya, Dist - Bharuch, Gujarat - 393130 </address>
+    <contact>2147483647 </contact>
+    <micrCode>72102</micrCode>
     <ifscCode>DCBL0000102</ifscCode>
-    <bankLoc>5527</bankLoc>
+    <bankLoc>8475</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bargarh</name>
-    <city>Bargarh</city>
-    <address>Kripal Tower,Nh 6,Near Gurudwara,
-bargarh ,Odisha,Pin 768028</address>
-    <contact></contact>
-    <micrCode>768 072 302</micrCode>
+    <name>Bargarh </name>
+    <city>Bargarh </city>
+    <address>DCB Bank , Ground Floor, Kripal Tower, Near Gurudwara , Bargarh , Odisha , PIN - 768028 </address>
+    <contact>2147483647 </contact>
+    <micrCode>768072302</micrCode>
     <ifscCode>DCBL0000103</ifscCode>
-    <bankLoc>5555</bankLoc>
+    <bankLoc>8513</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Itarsi</name>
-    <city>Itarsi</city>
-    <address>Shop No.17,Plot No.82,5th Line,Azad Nagar,
-itarsi,Dist Hoshangabad.Mp 461111</address>
-    <contact></contact>
-    <micrCode>461 072 201</micrCode>
+    <name>Itarsi </name>
+    <city>Hoshangabad </city>
+    <address>DCB Bank Itarsi, Shop NO. 17, Plot NO. 82, 5TH Line , Azad Nagar, Itarsi, District-hoshangabad, MP - 461111 </address>
+    <contact>2147483647 </contact>
+    <micrCode>461072201</micrCode>
     <ifscCode>DCBL0000104</ifscCode>
-    <bankLoc>5540</bankLoc>
+    <bankLoc>8492</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Cochin</name>
-    <city>Cochin</city>
-    <address>Chamber Of Commerce Building,
- Shanmugham Road, Cochin 682031</address>
-    <contact>0484 6069001 / 02 </contact>
-    <micrCode>682 072 002</micrCode>
+    <name>Kochi </name>
+    <city>Ernakulam </city>
+    <address>Kerala Chamber OF Commerce AND Industry Building, Ground Floor, Chamber Corner, Shanmugham Road, Kochi ?û 682031. </address>
+    <contact>2147483647 </contact>
+    <micrCode>682072002</micrCode>
     <ifscCode>DCBL0000105</ifscCode>
-    <bankLoc>5539</bankLoc>
+    <bankLoc>8490</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Pipariya</name>
-    <city>Pipariya</city>
-    <address>Plot No 52, Radha Krishnan Ward, Sobhapur Road,
- Ward No 18, Pipariya, Dist- Hoshangabad
-madhya Pradesh - 461 775</address>
-    <contact>Mr. Prashant Arya (bm)
- 094251 93131 </contact>
+    <name>Pipariya </name>
+    <city>Hoshangabad </city>
+    <address>Plot NO. 52, Radha Krishnan Ward, Shobhapur Road, Ward NO 18, Pipariya, DIST. Hoshangabad, Madhya Pradesh - 461775 </address>
+    <contact>2147483647 </contact>
     <micrCode>461072301</micrCode>
     <ifscCode>DCBL0000106</ifscCode>
-    <bankLoc>5540</bankLoc>
+    <bankLoc>8492</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Central Clearing Unit</name>
-    <city>Mumbai</city>
-    <address>1/f, 154, S V Patel Road, Dongri (EAST), Mumbai 400 009</address>
-    <contact></contact>
-    <micrCode></micrCode>
-    <ifscCode>DCBL000NPC2</ifscCode>
-    <bankLoc>5547</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ludhiana</name>
-    <city>Ludhiana</city>
-    <address>Dcb Bank Ltd., Sco 10-11, Feroze Gandhi Market, 
-ferozepur Road, Ludhiana – 141001 (punjab)</address>
-    <contact> Mr. Vikas Sofat
-  7837100050
- </contact>
-    <micrCode>141 072 002</micrCode>
+    <name>Ludhiana </name>
+    <city>Ludhiana </city>
+    <address>SCO 10-11, Feroze Gandhi Market, OPP. Maruti Showroom, Ferozepur Road, Ludhiana-141001 </address>
+    <contact>1616620221 </contact>
+    <micrCode>141072002</micrCode>
     <ifscCode>DCBL0000107</ifscCode>
-    <bankLoc>5564</bankLoc>
+    <bankLoc>8522</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kadodara</name>
-    <city>Kadodara</city>
-    <address>Saibaba Society, Kadodara Char Rasta, Near Bus Stand, Kadodara, District Surat, State : Gujarat – 394327</address>
-    <contact>9879111166
-contact Person: Mr Imran Shaikh- Bm </contact>
-    <micrCode>395 072 003</micrCode>
-    <ifscCode>DCBL0000109</ifscCode>
-    <bankLoc>5533</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hinjilicut</name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-hinjilicut Branch, Khata No 115, 
-plot No. 628 / 632, Laxmi Bazar,
- Main Road, Hinjilicut - 761102 – 
-dist. Ganjam, State - Odisha</address>
-    <contact>Mr.  Siba Prasad Patra
-branch Manager
-phone - 9337588889
- </contact>
-    <micrCode>761 072 501</micrCode>
-    <ifscCode>DCBL0000110</ifscCode>
-    <bankLoc>5556</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gadarwara</name>
-    <city>North</city>
-    <address>Development Credit Bank Ltd.
-gadarwara Branch,
-bhama Ward, New Galla Mandi Road, Gadarwara – 487551
-dist. Narsinghpur, State – Madhya Pradesh</address>
-    <contact>Mr.  Vishal Gulati
-branch Manager
-phone - 9826487024
- </contact>
-    <micrCode>487 072 501</micrCode>
-    <ifscCode>DCBL0000112</ifscCode>
-    <bankLoc>5542</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dunguripali</name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-dunguripali Branch,
-khata No. 380 / 287, Plot No. 2049 / 2377, Mouza – Gambharipali, Main Road,Dunguripali – 767023. 
-district – Sonepur, State – Odisha</address>
-    <contact>Mr.  Debidutta Sadangi
-branch Manager
-phone - 7894444390
- </contact>
-    <micrCode>767 072 501 </micrCode>
-    <ifscCode>DCBL0000113</ifscCode>
-    <bankLoc>5561</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lucknow</name>
-    <city>Lucknow</city>
-    <address>Development Credit Bank Ltd.
-shalimar Tower,  Gf, Tc-57/v,
-vibhuti Khand,  Gomti Nagar.
-lucknow - 226 010
-uttar Pradesh</address>
-    <contact>Alok Kapur
-branch Manager
-phone - 9454 711 788 </contact>
-    <micrCode>226 072 002</micrCode>
+    <name>Lucknow </name>
+    <city>Lucknow </city>
+    <address>Shalimar Tower, GF, Tc-57/v, Vibhuti Khand, Gomti Nagar, Lucknow - 226 010. Uttar Pradesh </address>
+    <contact>2147483647 </contact>
+    <micrCode>226072002</micrCode>
     <ifscCode>DCBL0000108</ifscCode>
-    <bankLoc>5575</bankLoc>
+    <bankLoc>8536</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vasad</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-vasad Branch,
-at &amp; Post Vasad, Yash Way Bridge, Borsad Road, Vasad, Tal &amp; Dist.  anand, Gujarat – 388306</address>
-    <contact>Mr.  Kamlesh Rohit-
-branch Manager
-phone - 8758523132 </contact>
-    <micrCode>388 072 501</micrCode>
-    <ifscCode>DCBL0000114</ifscCode>
-    <bankLoc>5524</bankLoc>
+    <name>Kadodara </name>
+    <city>Surat </city>
+    <address>DCB Bank LTD., SAI Baba Society, NR.SARDAR Complex, AT.POST:KADODARA, Taluka:palsana, Kadodara, Surat - 394327. </address>
+    <contact>2147483647 </contact>
+    <micrCode>395072003</micrCode>
+    <ifscCode>DCBL0000109</ifscCode>
+    <bankLoc>8482</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Songadh</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-songadh Branch,
-plot No. 384, Near Sbi, Brahmin Faliya Navagam Post Songadh, Dist Tapi,  gujarat – 394670</address>
-    <contact>Mr.  Girish Joshi -
-branch Manager
-phone – 9998000991/
-   8128985538 </contact>
-    <micrCode>394 072 501</micrCode>
-    <ifscCode>DCBL0000115</ifscCode>
-    <bankLoc>5534</bankLoc>
+    <name>Hinjilicut </name>
+    <city>Ganjam </city>
+    <address>Khata NO 115, Plot NO 628/632, Laxmi Bazar, Main Road, Hinjilicut, Dist- Ganjam, Orissa- 761102 </address>
+    <contact>2147483647 </contact>
+    <micrCode>761072501</micrCode>
+    <ifscCode>DCBL0000110</ifscCode>
+    <bankLoc>8514</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Attabira</name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-attabira Branch,
-at / Po – Attabira, Main Road,
-opp. Rmc Complex, Attabira,
-district – Bargarh, State – Odisha</address>
-    <contact>Mr.  Manoj Sahu
-branch Manager
-phone - 7381002131 </contact>
-    <micrCode>768 072 501</micrCode>
-    <ifscCode>DCBL0000116</ifscCode>
-    <bankLoc>5555</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mandideep</name>
-    <city>North</city>
-    <address>Development Credit Bank Ltd.
-mandideep Branch,
-plot No. 203, B–sector, Indra Nagar, Mandideep, Tehsil Goharganj, District – Raisen, State – Madhya Pradesh – 462 046</address>
-    <contact>Mr.  Krishan Kant Yadav
-branch Manager
-phone - 7415708013 </contact>
-    <micrCode>464 072 501</micrCode>
-    <ifscCode>DCBL0000117</ifscCode>
-    <bankLoc>5543</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nana Rasana</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-nana Rasana Branch, 
-deesa Palanpur Highway,
-taluka: Deesa, District: Banaskantha,
-gujarat – 385535</address>
-    <contact>Mr. Mukesh Baldha Officiating Branch Manager
-phone - 9909949503 </contact>
-    <micrCode>385 072 031</micrCode>
-    <ifscCode>DCBL0000118</ifscCode>
-    <bankLoc>5525</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jaipur</name>
-    <city>Jaipur</city>
-    <address>Development Credit Bank Ltd.S13-s14, Ground Floor , Geejgarh Tower, Hawa Sarak, Civil Lines, Jaipur (rajasthan) 302006</address>
-    <contact>Amit Pareekbranch Managerphone -09983333796 </contact>
-    <micrCode>302 072 002</micrCode>
+    <name>Jaipur </name>
+    <city>Jaipur </city>
+    <address>Development Credit Bank Limited Geejgarh Towers, Hawa Sadak, Civil Lines, Jaipur, RAJASTHAN. PIN - 302006 </address>
+    <contact>1412211361 </contact>
+    <micrCode>302072002</micrCode>
     <ifscCode>DCBL0000111</ifscCode>
-    <bankLoc>5568</bankLoc>
+    <bankLoc>8527</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Noida</name>
-    <city>Noida</city>
-    <address>Development Credit Bank Ltd.
-f-25 Sector 18,Noida  Pin Code 201301 
-uttar Pradesh</address>
-    <contact>Vaneet Malik
-branch Manager
-phone -09811313123 </contact>
-    <micrCode>110 072 009</micrCode>
+    <name>Gadarwara </name>
+    <city>Narsinghpur </city>
+    <address>Bhama Ward, NEW Galla Mandi Road, Gadarwara ?û 487551, DIST. Narsinghpur, State ?û Madhya Pradesh </address>
+    <contact>2147483647 </contact>
+    <micrCode>487072501</micrCode>
+    <ifscCode>DCBL0000112</ifscCode>
+    <bankLoc>8495</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dunguripali </name>
+    <city>Sonepur </city>
+    <address>Khata NO. 380 / 287, Plot NO. 2049 / 2377, Mouza ?û Gambharipali, Main Road, Dunguripali ?û 767023.  District ?û Sonepur, State ?û Odisha </address>
+    <contact>2147483647 </contact>
+    <micrCode>767072501</micrCode>
+    <ifscCode>DCBL0000113</ifscCode>
+    <bankLoc>8519</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vasad </name>
+    <city>Anand </city>
+    <address>AT &amp; Post Vasad, Yash WAY Bridge, Borsad Road, Vasad, TAL &amp; DIST.  Anand, Gujarat ?û 388306 </address>
+    <contact>0</contact>
+    <micrCode>388072501</micrCode>
+    <ifscCode>DCBL0000114</ifscCode>
+    <bankLoc>8473</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Songadh </name>
+    <city>Tapi </city>
+    <address>Plot NO. 384, Near Sbi, Brahmin Faliya Navagam Post Songadh, Dist Tapi,  Gujarat ?û 394670 </address>
+    <contact>2147483647 </contact>
+    <micrCode>394072501</micrCode>
+    <ifscCode>DCBL0000115</ifscCode>
+    <bankLoc>8483</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Attabira </name>
+    <city>Bargarh </city>
+    <address>AT / PO - Attabira, Main Road, OPP. RMC Complex, Attabira, District - Bargarh, State - Odisha,  PIN - 768027 </address>
+    <contact>2147483647 </contact>
+    <micrCode>768072501</micrCode>
+    <ifscCode>DCBL0000116</ifscCode>
+    <bankLoc>8513</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandideep </name>
+    <city>Raisen </city>
+    <address>Plot NO. 203, B?ûsector, Indra Nagar, Mandideep, Tehsil Goharganj, District ?û Raisen, State ?û Madhya Pradesh, PIN - 462046 </address>
+    <contact>2147483647 </contact>
+    <micrCode>462072501</micrCode>
+    <ifscCode>DCBL0000117</ifscCode>
+    <bankLoc>8496</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nana Rasana </name>
+    <city>Banaskantha </city>
+    <address>Deesa Palanpur Highway, Taluka: Deesa, District: Banaskantha, Gujarat 385535 </address>
+    <contact>2147483647 </contact>
+    <micrCode>385072031</micrCode>
+    <ifscCode>DCBL0000118</ifscCode>
+    <bankLoc>8474</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Noida </name>
+    <city>Gautam Budha Nagar </city>
+    <address>Development Credit Bank Limited F-25, Sector 18, Noida, PIN - 201 301. District - Gautam Budha Nagar Uttar Pradesh - 201301 </address>
+    <contact>1202510423 </contact>
+    <micrCode>110072009</micrCode>
     <ifscCode>DCBL0000119</ifscCode>
-    <bankLoc>5574</bankLoc>
+    <bankLoc>8535</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jagannathpur</name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-jagannathpur Branch,
-plot No.1141, Nh 5, Jagannathpur, 
-berhampur, District – Ganjam
-odisha, Pin – 760007</address>
-    <contact>Mr. Krishna Chandra Das
-branch Manager
-phone :–      9937285481 / 
-9937518555 </contact>
-    <micrCode>760 072 002</micrCode>
-    <ifscCode>DCBL0000121</ifscCode>
-    <bankLoc>5556</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Akividu</name>
-    <city>Akividu</city>
-    <address>Development Credit Bank Ltd.Akividu Branch,J S R Tower, P.P. Road,Akividu – 534235west Godavari District,Andhra Pradesh</address>
-    <contact>Mr. Mohan Babu  Branch Manager Phone :–  9848235553
- </contact>
-    <micrCode> 534 072 722</micrCode>
-    <ifscCode>DCBL0000122</ifscCode>
-    <bankLoc>5512</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vijayawada </name>
-    <city>Vijayawada</city>
-    <address>Development Credit Bank Ltd.27-39-23, Eluru Road, Vijayawada , Andhra Pradesh – 520 002</address>
-    <contact>Krishna Mohan Yedida Branch Manager Ph:  9676842424 </contact>
-    <micrCode>520 072 002 </micrCode>
+    <name>Vijaywada </name>
+    <city>Krishna </city>
+    <address>Development Credit Bank Limited 29-37-23, Eluru Road, Vijaywada - 520 002. </address>
+    <contact>6460311 </contact>
+    <micrCode>520072002</micrCode>
     <ifscCode>DCBL0000120</ifscCode>
-    <bankLoc>5510</bankLoc>
+    <bankLoc>8457</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Basoda </name>
-    <city>North</city>
-    <address>Development Credit Bank Ltd.
-basoda Branch,
-bareth Road, In Front Of Church,
-basoda – 464221,
-district :– Vidisha,
-state :– Madhya Pradesh</address>
-    <contact>Mr. Majid Hussain
-branch Manager
-phone :–  9826067005 </contact>
-    <micrCode>464 072 051</micrCode>
+    <name>Jagannathpur </name>
+    <city>Ganjam </city>
+    <address>Plot NO.1141, Nh5, Jagannathpur, Berhampur, District ?û Ganjam, Odisha, PIN ?û 760007 </address>
+    <contact>2147483647 </contact>
+    <micrCode>760072002</micrCode>
+    <ifscCode>DCBL0000121</ifscCode>
+    <bankLoc>8514</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Akividu </name>
+    <city>West Godavari </city>
+    <address>J S R Tower, P.P. Road, Akividu ?û 534235 West Godavari District, Andhra PRADESH. </address>
+    <contact>254855 </contact>
+    <micrCode>534072722</micrCode>
+    <ifscCode>DCBL0000122</ifscCode>
+    <bankLoc>8460</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anaparthy </name>
+    <city>East Godavari </city>
+    <address>Canal Road, Anaparthy, District ?û East Godavari, State ?û Andhra Pradesh PIN ?û 533342 </address>
+    <contact>2147483647 </contact>
+    <micrCode>533072562</micrCode>
+    <ifscCode>DCBL0000123</ifscCode>
+    <bankLoc>8453</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kaikalur </name>
+    <city>Kaikalur </city>
+    <address>D C B Bank LTD.D NO.1081,OPP S B I Main Branch,railway Station Road,kaikalur District Krishna,state A P PIN 521333 </address>
+    <contact>2147483647 </contact>
+    <micrCode>520072722</micrCode>
+    <ifscCode>DCBL0000124</ifscCode>
+    <bankLoc>8457</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baloda Bazar </name>
+    <city>Baloda Bazar </city>
+    <address>Main Road,ambedkarchowk,baloda Bazar,baloda Bazar,chhattisgarh,493332 </address>
+    <contact>2147483647 </contact>
+    <micrCode>493072151</micrCode>
+    <ifscCode>DCBL0000125</ifscCode>
+    <bankLoc>8461</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nokha </name>
+    <city>Bikaner </city>
+    <address>N H 89, OPP. Baba Chhotu Nath School,  Bikaner Road, Nokha, District :bikaner, Rajasthan ?û 334803 </address>
+    <contact>1531220395 </contact>
+    <micrCode>334072051</micrCode>
+    <ifscCode>DCBL0000126</ifscCode>
+    <bankLoc>8525</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kumhari </name>
+    <city>Kumhari </city>
+    <address>DCB Bank LTD.KUMHARI Branch,main Road,kumhari,district Durg,state Chhattisgarh,pin 490042 </address>
+    <contact>247001 </contact>
+    <micrCode>491072502</micrCode>
+    <ifscCode>DCBL0000127</ifscCode>
+    <bankLoc>8463</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Basoda </name>
+    <city>Vidisha </city>
+    <address>Bareth Road, IN Front OF Church, Basoda ?û 464221, District :?û Vidisha, State :?û Madhya Pradesh </address>
+    <contact>0</contact>
+    <micrCode>464072051</micrCode>
     <ifscCode>DCBL0000128</ifscCode>
-    <bankLoc>5544</bankLoc>
+    <bankLoc>8498</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bahirwadi</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-bahirwadi Branch,
-premises Of Late Ashokchand Sancheti Shikshan Prasarak Mandal, House No. 3891, Bahirwadi,
-  Taluka &amp; District Beed,
-maharashtra Pin :- 431122</address>
-    <contact>Mr. Anil R Kadam
-branch Manager
-
-phone :–  09850699791
- </contact>
+    <name>Bahirwadi </name>
+    <city>Beed </city>
+    <address>Premises OF Late Ashokchand Sancheti Shikshan Prasarak Mandal, House NO. 3891, Bahirwadi, Taluka &amp; District Beed, Maharashtra PIN :- 431122 </address>
+    <contact>2147483647 </contact>
     <micrCode>431072302</micrCode>
     <ifscCode>DCBL0000129</ifscCode>
-    <bankLoc>5546</bankLoc>
+    <bankLoc>8501</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nokha</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-nokha Branch,
-n H 89, Opp. Baba Chhotu Nath School, 
- Bikaner Road, Nokha, 
-district :bikaner,
-rajasthan – 334803</address>
-    <contact>Mr. Pankaj Chandak
-branch Manager
-
-phone :–  09214511399
-
- </contact>
-    <micrCode>334 072 051</micrCode>
-    <ifscCode>DCBL0000126</ifscCode>
-    <bankLoc>5566</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jarasingha </name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-jarasingha Branch,
-main Road, Jarasingha, 
-district – Angul, 
-odisha – 759143</address>
-    <contact>Mr. Manoj Sahu
-branch Manager
-
-phone :–  7894444396
- </contact>
-    <micrCode>759 072 102</micrCode>
+    <name>Jarasingha </name>
+    <city>Angul </city>
+    <address>Main Road, Jarasingha, District ?û Angul, Odisha ?û 759143 </address>
+    <contact>2147483647 </contact>
+    <micrCode>759072102</micrCode>
     <ifscCode>DCBL0000130</ifscCode>
-    <bankLoc>5553</bankLoc>
+    <bankLoc>8511</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Anaparthy</name>
-    <city>South</city>
-    <address>Development Credit Bank Ltd.
-anaparthy Branch,
-canal Road, Anaparthy,
-district – East Godavari, 
-state – Andhra Pradesh
-pin – 533342</address>
-    <contact>Mr. Raghunath N V  
-branch Manager
-
-phone :–  77310 33777
-
- </contact>
-    <micrCode>533 072 562</micrCode>
-    <ifscCode>DCBL0000123</ifscCode>
-    <bankLoc>5506</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Surala Junction</name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-surala Junction Branch,
-plot 607, Surala Junction,
-at Post – Girisola, District – Ganjam, 
-odisha – 761009</address>
-    <contact>Mr. Suriya Sahu
-officiating Branch Manager
-
-phone :–  7894434135
- </contact>
-    <micrCode>761 072 502</micrCode>
+    <name>Surala Junction </name>
+    <city>Ganjam </city>
+    <address>Plot 607, Surala Junction, AT Post ?û Girisola, District ?û Ganjam, Odisha ?û 761009 </address>
+    <contact>2147483647 </contact>
+    <micrCode>761072502</micrCode>
     <ifscCode>DCBL0000131</ifscCode>
-    <bankLoc>5556</bankLoc>
+    <bankLoc>8514</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nayakheda</name>
-    <city>North</city>
-    <address>Development Credit Bank Ltd.
-nayakheda Branch,
-plot No. 23 / 37, Near Railway Gate, Nayakheda, Tehsil – Bankhedi
-district – Hoshangabad,
-state – Madhya Pradesh
-pin – 461990</address>
-    <contact>Mr. Sankalp Maheshwari
-branch Manager
-
-phone :–  9893358225
-
- </contact>
-    <micrCode>461 072 501</micrCode>
+    <name>Nayakheda </name>
+    <city>Hoshangabad </city>
+    <address>Plot NO. 23 / 37, Near Railway Gate, Nayakheda, Tehsil ?û Bankhedi District ?û Hoshangabad, State ?û Madhya Pradesh PIN ?û 461990 </address>
+    <contact>2147483647 </contact>
+    <micrCode>461072501</micrCode>
     <ifscCode>DCBL0000132</ifscCode>
-    <bankLoc>5540</bankLoc>
+    <bankLoc>8492</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Redhakhol</name>
-    <city>East</city>
-    <address>Development Credit Bank Ltd.
-redhakhol Branch,
-main Road, At Post Redhakhol, District – Sambalpur Pin – 768106, State – Odisha</address>
-    <contact>Mr. Rakesh Sahoo
-branch Manager
-
-phone :–  9437334017
- </contact>
-    <micrCode>768 072 502</micrCode>
-    <ifscCode>DCBL0000136</ifscCode>
-    <bankLoc>5560</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bemetara</name>
-    <city>Chattisgarh</city>
-    <address>Development Credit Bank Ltd.
-bemetara  Branch,
-durg Road, Bemetara,
-district – Bemetara, 
-state – Chattisgarh,
-pin – 491335</address>
-    <contact>Mr. Urvesh Chandra
-branch Manager
-
-phone :–  9630671672
-
-
- </contact>
-    <micrCode></micrCode>
-    <ifscCode>DCBL0000137</ifscCode>
-    <bankLoc>5514</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Berla</name>
-    <city>Chattisgarh</city>
-    <address>Development Credit Bank Ltd.
-berla Branch,
-old Bus Stand Road, Berla, 
-district – Bemetara, 
-state – Chattisgarh, 
-pin – 491332</address>
-    <contact>Mr. Brajesh Narayan (interim Branch Manager)
-phone :–   +919584309706,                  
- </contact>
-    <micrCode>492 072 502</micrCode>
-    <ifscCode>DCBL0000138</ifscCode>
-    <bankLoc>5514</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sateepura</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-sateepura Branch,
-plot No. 10, Malkeet Singh Colony, Sangaria Road, Sateepura, Hanumangarh Junction. 
-district – Hanumangarh, 
-state – Rajasthan – 335513</address>
-    <contact>Mr. Subh Karan
-branch Manager
-
-phone :–   +919460076655,                  +919828018954
- </contact>
-    <micrCode>335 072 051</micrCode>
-    <ifscCode>DCBL0000139</ifscCode>
-    <bankLoc>5567</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>4ml</name>
-    <city>West</city>
-    <address>Development Credit Bank Ltd.
-4 Ml Branch,
-29, Homeland City Projects Ltd., 
-4 Ml, Sriganganagar, 
-district – Sriganganagar, 
-state – Rajasthan, Pin – 335001</address>
-    <contact>Mr. Amit Verma
-branch Manager
-phone :–  +919829020975,                    +919828018954
- </contact>
-    <micrCode>335 072 052</micrCode>
-    <ifscCode>DCBL0000140</ifscCode>
-    <bankLoc>5570</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jagraon</name>
-    <city>North</city>
-    <address>Baba Nand Singh Market,
-kamal Chowk,
-jagraon, 
-punjab - 142 026</address>
-    <contact>Mohit Kansal
-branch Manager
-ph:  8437711114 </contact>
+    <name>Jagraon </name>
+    <city>Ludhiana </city>
+    <address>Baba Nand Singh Market, Kamla Chowk, Jagraon, Punjab - 142026 </address>
+    <contact>1624224434 </contact>
     <micrCode>142072052</micrCode>
     <ifscCode>DCBL0000133</ifscCode>
-    <bankLoc>5564</bankLoc>
+    <bankLoc>8522</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Minjur</name>
-    <city>South</city>
-    <address>Development Credit Bank Ltd.
-35 T H Road , Ponneri Taluk, Minjur, Thiruvallur,
-dist. – Thiruvallur,
-chennai - 601 203
-state - Tamilnadu</address>
-    <contact>Mr. Arvind Kumar Tiwari
- (branch Manager)
-
-phone :– +919884618890
-                
- </contact>
+    <name>Ferozepur </name>
+    <city>Ferozepur </city>
+    <address>Malhotra Building, Ground Floor, Near Baghdadi Gate, National Road, OPP. PNB Bank, Ferozepur - 152002 </address>
+    <contact>2147483647 </contact>
+    <micrCode>152072002</micrCode>
+    <ifscCode>DCBL0000134</ifscCode>
+    <bankLoc>8521</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Minjur </name>
+    <city>Thiruvallur </city>
+    <address>35 T H Road, Ponneri Taluk, Minjur, Thiruvallur, Chennai - 601203 </address>
+    <contact>2147483647 </contact>
     <micrCode>600072004</micrCode>
     <ifscCode>DCBL0000135</ifscCode>
-    <bankLoc>5572</bankLoc>
+    <bankLoc>8532</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nabha</name>
-    <city>North</city>
-    <address>Development Credit Bank Ltd.
-jindal Tower,Ground Floor,
-cinema Road,
-nabha
-punjab  147201</address>
-    <contact>Mr. Rajiv Bhatia
- (branch Manager)
-
-phone :9814316627
-01765-223540,223541,223542                 
- </contact>
-    <micrCode>147 072 152</micrCode>
+    <name>Redhakhol </name>
+    <city>Sambalpur </city>
+    <address>Main Road, AT Post Redhakhol, District ?û Sambalpur PIN ?û 768106, State ?û Odisha </address>
+    <contact>2147483647 </contact>
+    <micrCode>768072502</micrCode>
+    <ifscCode>DCBL0000136</ifscCode>
+    <bankLoc>8518</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bemetara </name>
+    <city>Bemetara </city>
+    <address>Durg Road, Bemetara, District ?û Bemetara, State ?û Chattisgarh, PIN ?û 491335 </address>
+    <contact>2147483647 </contact>
+    <micrCode>492072501</micrCode>
+    <ifscCode>DCBL0000137</ifscCode>
+    <bankLoc>8462</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Berla </name>
+    <city>Bemetara </city>
+    <address>OLD BUS Stand Road, Berla, District ?û Bemetara, State ?û Chattisgarh, PIN ?û 491332 </address>
+    <contact>2147483647 </contact>
+    <micrCode>492072502</micrCode>
+    <ifscCode>DCBL0000138</ifscCode>
+    <bankLoc>8462</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sateepura </name>
+    <city>Hanumangarh </city>
+    <address>Plot NO. 10, Malkeet Singh Colony, Sangaria Road, Sateepura, Hanumangarh JUNCTION.  District ?û Hanumangarh, State ?û Rajasthan ?û 335513 </address>
+    <contact>2147483647 </contact>
+    <micrCode>335072051</micrCode>
+    <ifscCode>DCBL0000139</ifscCode>
+    <bankLoc>8526</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>4 ML </name>
+    <city>Sriganganagar </city>
+    <address>29, Homeland City Projects LTD., 4 ML, Sriganganagar, District ?û Sriganganagar,  State ?û Rajasthan, PIN ?û 335001 </address>
+    <contact>2147483647 </contact>
+    <micrCode>335072052</micrCode>
+    <ifscCode>DCBL0000140</ifscCode>
+    <bankLoc>8529</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nabha </name>
+    <city>Patiala </city>
+    <address>Jindal Tower, Ground Floor, Cinema Road, Nabha, Punjab, PIN 147201 </address>
+    <contact>1765223540 </contact>
+    <micrCode>147072152</micrCode>
     <ifscCode>DCBL0000141</ifscCode>
-    <bankLoc>5565</bankLoc>
+    <bankLoc>8523</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ferozepur</name>
-    <city>Ferozepur</city>
-    <address>Development Credit Bank Ltd.
-malhotra Building, Ground Floor,
-near Baghdadi Gate,
-national Road, Opp. Pnb Bank,
-ferozepur - 152002</address>
-    <contact>
-9888341631
-9872300498
-            
- </contact>
-    <micrCode>152 072 002</micrCode>
-    <ifscCode>DCBL0000134</ifscCode>
-    <bankLoc>5563</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dharamgarh Branch</name>
-    <city>Kalahandi</city>
-    <address>Development Credit Bank Ltd.Dharamgarh Branch,College Road, Dharamgarh, District – Kalahandi, State – Odisha Pin – 766015</address>
-    <contact>7752008021  </contact>
-    <micrCode>766 072 501</micrCode>
-    <ifscCode>DCBL0000143</ifscCode>
-    <bankLoc>5557</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rangaipura</name>
-    <city>Rangaipura</city>
-    <address>Development Credit Bank Ltd.
-rangaipura Branch,
-368,Nadiad – Petlad Road, Near Paras Steel,
-village – Rangaipura, Taluka – Petlad
-district – Anand, State – Gujarat
-pin Code 388450</address>
-    <contact>224432 </contact>
-    <micrCode>388 072 051</micrCode>
-    <ifscCode>DCBL0000144</ifscCode>
-    <bankLoc>5524</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Baloda Bazar</name>
-    <city>Baloda Bazar</city>
-    <address>Development Credit Bank Ltd.
-baloda Bazar Branch,
-main Road, Ambedkar Chowk, Baloda Bazar, 
-district –  Baloda Bazar, 
-state - Chhattisgarh, 
-pin – 493332</address>
+    <name>Faridkot </name>
+    <city>Faridkot </city>
+    <address>D C B Bank LTD.DHIR S Complex,ground Floor,adjoining Easy DAY Circular Road,faridkot 151203 </address>
     <contact>2147483647 </contact>
-    <micrCode>493 072 151</micrCode>
-    <ifscCode>DCBL0000125</ifscCode>
-    <bankLoc>5513</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gotegaon</name>
-    <city>Gotegaon</city>
-    <address>Development Credit Bank Ltd.
-gotegaon  Branch,
-near Old Bus Stand, Main Road, Gotegaon
-tehsil – Gotegaon
-district – Narsinghpur, 
-state – Madhya Pradesh
-pin – 487118</address>
-    <contact>283633 </contact>
-    <micrCode>487 072 001</micrCode>
-    <ifscCode>DCBL0000145</ifscCode>
-    <bankLoc>5542</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Faridkot</name>
-    <city>Faridkot</city>
-    <address>D C B Bank Ltd. Dhir&apos;s Complex, Ground Floor, Adjoining Easy Day Circular Road, Faridkot – 151203</address>
-    <contact>2147483647 </contact>
-    <micrCode>151 072 102</micrCode>
+    <micrCode>151072102</micrCode>
     <ifscCode>DCBL0000142</ifscCode>
-    <bankLoc>5562</bankLoc>
+    <bankLoc>8520</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Panjh</name>
-    <city>Panjh</city>
-    <address>D C B Bank Ltd.Panjh Branch,Ground Floor, C/o Shree Shubham Logistics Limited, Sagar Road, Village – Panjh, 
-tehsil &amp; District – Vidisha, State – Madhya Pradesh Pin – 464 001</address>
+    <name>Dharamgarh Branch </name>
+    <city>Kalahandi </city>
+    <address>Development Credit Bank LTD.DHARAMGARH Branch,college Road,dharamgarh Kalahandi Odisha 766015 </address>
     <contact>2147483647 </contact>
-    <micrCode>464 072 201</micrCode>
-    <ifscCode>DCBL0000154</ifscCode>
-    <bankLoc>5544</bankLoc>
+    <micrCode>766072501</micrCode>
+    <ifscCode>DCBL0000143</ifscCode>
+    <bankLoc>8515</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rekurthi</name>
-    <city>Rekurthi</city>
-    <address>D C B Bank Ltd. Rekurthi  Branch, Himabindu Bhavan, Jagityal Road, Rekurthi, District – Karimnagar,
-state – Andhra Pradesh Pin – 505002</address>
+    <name>Rangaipura </name>
+    <city>Rangaipura </city>
+    <address>368,nadiad ?û Petlad Road, Near Paras Steel, Rangaipura, Taluka ?û Petlad,anand, State ?û Gujaratpin Code 388450 </address>
+    <contact>224432 </contact>
+    <micrCode>388072051</micrCode>
+    <ifscCode>DCBL0000144</ifscCode>
+    <bankLoc>8473</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gotegaon </name>
+    <city>Gotegaon </city>
+    <address>Near OLD BUS Stand,main Road,gotegaontehsil,narsinghpur,madhya Pradesh 487118 </address>
+    <contact>283633 </contact>
+    <micrCode>487072001</micrCode>
+    <ifscCode>DCBL0000145</ifscCode>
+    <bankLoc>8495</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cheeka </name>
+    <city>Cheeka </city>
+    <address>Laxmi Complex,ground Floor,guhla Road,cheeka,dist Kaithal State Haryana PIN 136034 </address>
     <contact>2147483647 </contact>
-    <micrCode>505 072 002</micrCode>
-    <ifscCode>DCBL0000155</ifscCode>
-    <bankLoc>5508</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kumhari</name>
-    <city>Kumhari</city>
-    <address>Dcb Bank Ltd.Kumhari Branch,Main Road, Kumhari,District –  Durg, State – Chhattisgarh, Pin – 490042</address>
-    <contact>247001 </contact>
-    <micrCode>
-491 072 502
-</micrCode>
-    <ifscCode>DCBL0000127</ifscCode>
-    <bankLoc>5515</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Cheeka </name>
-    <city>Cheeka </city>
-    <address>Dcb Bank Ltd. Cheeka Branch, Laxmi Complex, Ground Floor, Guhla Road, Cheeka, Dist – Kaithal State – Haryana Pin – 136034</address>
-    <contact>2147483647 </contact>
-    <micrCode>136 072 352</micrCode>
+    <micrCode>136072352</micrCode>
     <ifscCode>DCBL0000146</ifscCode>
-    <bankLoc>5537</bankLoc>
+    <bankLoc>8487</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dongergaon</name>
-    <city>Dongergaon</city>
-    <address>Dcb Bank Ltd.Dongergaon Branch, Bazar Chowk, Dongergaon, Dist – Rajnandgaon, State – Chhattisgarh, Pin – 491661</address>
+    <name>Dongergaon </name>
+    <city>Dongergaon </city>
+    <address>Dongergaon Branch,bazar Chowk,dongergaon,dist Rajnandgaon,state Chhattisgarh,pin 491661 </address>
     <contact>2147483647 </contact>
-    <micrCode>491 072 501</micrCode>
+    <micrCode>491072501</micrCode>
     <ifscCode>DCBL0000147</ifscCode>
-    <bankLoc>5517</bankLoc>
+    <bankLoc>8465</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Patnagarh </name>
-    <city>Patnagarh </city>
-    <address>D C B Bank Ltd. Patnagarh Branch Bholanath Complex, S.H. 42, Patnagarh,District – Balangir, State – Odisha, Pin – 767025</address>
+    <name>Patnagarh </name>
+    <city>Patnagarh </city>
+    <address>Bholanath COMPLEX,S.H.42,PATNAGARH,DISTRICT Balangir,odisha,pin 767025 </address>
     <contact>2147483647 </contact>
-    <micrCode>767 072 502</micrCode>
+    <micrCode>767072502</micrCode>
     <ifscCode>DCBL0000148</ifscCode>
-    <bankLoc>5554</bankLoc>
+    <bankLoc>8512</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kurra </name>
-    <city>Kurra </city>
-    <address>D C B Bank Ltd. Kurra Branch Main Road,  Kurra, Po Patewa, Tehsil – Abhanpur, District – Raipur, State – Chhattisgarh Pin – 492 001</address>
+    <name>Kurra </name>
+    <city>Kurra </city>
+    <address>Main Road,kurra,po Patewa,tehsil Abhanpur,district Raipur,state Chhattisgarh 492 001 </address>
     <contact>2147483647 </contact>
-    <micrCode>492 072 503</micrCode>
+    <micrCode>492072503</micrCode>
     <ifscCode>DCBL0000149</ifscCode>
-    <bankLoc>5516</bankLoc>
+    <bankLoc>8464</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Durgaprasad </name>
-    <city>Durgaprasad </city>
-    <address>D C B Bank Ltd. Durgaprasad Branch Main Road, Durgaprasad District : Nayagarh, State : Odisha Pin – 752 069</address>
+    <name>Durgaprasad </name>
+    <city>Durgaprasad </city>
+    <address>D C B Bank LTD. Durgaprasad Branch Main Road, Durgaprasad DIST.NAYAGARH, Odisha 752069 </address>
     <contact>2147483647 </contact>
-    <micrCode>752 072 102</micrCode>
+    <micrCode>751072002</micrCode>
     <ifscCode>DCBL0000150</ifscCode>
-    <bankLoc>5559</bankLoc>
+    <bankLoc>8517</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Raghunathpur </name>
-    <city>Raghunathpur </city>
-    <address>D C B Bank Ltd.Raghunathpur  Branch, Near Gangua Bridge,  Nh 203, Cuttack – Puri Road, Raghunathpur District – Khurda, State – Odisha Pin – 751002</address>
+    <name>Raghunathpur </name>
+    <city>Raghunathpur </city>
+    <address>Near Gangua Bridge,nh 203,cuttack Puri Road,raghunathpur District Khurda,state Odisha 751002 </address>
     <contact>2147483647 </contact>
-    <micrCode>751 072 002</micrCode>
+    <micrCode>751072002</micrCode>
     <ifscCode>DCBL0000151</ifscCode>
-    <bankLoc>5558</bankLoc>
+    <bankLoc>8516</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Karmeta </name>
-    <city>Karmeta </city>
-    <address>D C B Bank Ltd. Karmeta  Branch, Plot No. 1, Survey No. 259/2, Kiran Palace, Bajrang Nagar, Katangi Road, Karmeta, District – Jabalpur,  State – Madhya Pradesh Pin – 482001</address>
+    <name>Karmeta </name>
+    <city>Karmeta?á </city>
+    <address>Plot NO.1,SURVEY NO.259 BY 2,kiran Palace,bajrang Nagar,katangi RD,KARMETA,DIST.JABALPUR,MP 482001 </address>
     <contact>2147483647 </contact>
-    <micrCode>482 072 001</micrCode>
+    <micrCode>482072001</micrCode>
     <ifscCode>DCBL0000152</ifscCode>
-    <bankLoc>5541</bankLoc>
+    <bankLoc>8494</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Balangir </name>
-    <city>Balangir </city>
-    <address>D C B Bank Ltd. Balangir  Branch, Main Road, Gandhinagar Pada,  Nh 26, Balangir, District – Balangir, State – Odisha, Pin – 767 001</address>
+    <name>Balangir </name>
+    <city>Balangir </city>
+    <address>Main Road,gandhinagar Pada,nh 26,balangir,district Balangir,state Odisha,pin 767 001 </address>
     <contact>234686 </contact>
-    <micrCode>767 072 002</micrCode>
+    <micrCode>767072002</micrCode>
     <ifscCode>DCBL0000153</ifscCode>
-    <bankLoc>5554</bankLoc>
+    <bankLoc>8512</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Tiruchirapalli</name>
-    <city>Tiruchirapalli</city>
-    <address>D C B Bank Ltd. C 70 , 1st Floor, 4th Cross Thillai Nagar West Tiruchirapalli 620003</address>
-    <contact></contact>
-    <micrCode></micrCode>
+    <name>Panjh </name>
+    <city>Panjh </city>
+    <address>C BY O Shree Shubham Logistics Ltd,sagar Rd,village Panjh,tehsil AND District Vidisha,mp 464 001 </address>
+    <contact>2147483647 </contact>
+    <micrCode>464072201</micrCode>
+    <ifscCode>DCBL0000154</ifscCode>
+    <bankLoc>8498</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rekurthi </name>
+    <city>Rekurthi </city>
+    <address>Rekurthi,himabindu Bhavan,jagityal Road,rekurthi,district Karimnagar,state Andhra Pradesh 505002 </address>
+    <contact>2147483647 </contact>
+    <micrCode>505072002</micrCode>
+    <ifscCode>DCBL0000155</ifscCode>
+    <bankLoc>8456</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malerkotla </name>
+    <city>Malerkotla </city>
+    <address>DCB Bank Ltd,hudbust NO.58,STADIUM Road,alfalah Colony, Malerkotla 148023 </address>
+    <contact>2147483647 </contact>
+    <micrCode>148072102</micrCode>
+    <ifscCode>DCBL0000156</ifscCode>
+    <bankLoc>8524</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pitampura </name>
+    <city>Pitampura </city>
+    <address>FD 6, Pitampura, NEW Delhi, PIN Code 110034 </address>
+    <contact>2147483647 </contact>
+    <micrCode>110072010</micrCode>
+    <ifscCode>DCBL0000157</ifscCode>
+    <bankLoc>8469</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tambaram </name>
+    <city>Tambaram </city>
+    <address>DCB Bank LTD.GROUND Floor, 27 / 8,kamarajar Street, West Tambaram, Chennai - 600045 </address>
+    <contact>2147483647 </contact>
+    <micrCode>600072005</micrCode>
+    <ifscCode>DCBL0000158</ifscCode>
+    <bankLoc>8531</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tiruchirapalli </name>
+    <city>Tiruchirapalli </city>
+    <address>D C B Bank LTD.C 70 , 1ST Floor, 4TH Cross Thillai Nagar West Tiruchirapalli 620003 </address>
+    <contact>2147483647 </contact>
+    <micrCode>620072002</micrCode>
     <ifscCode>DCBL0000159</ifscCode>
-    <bankLoc>5573</bankLoc>
+    <bankLoc>8533</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bareja</name>
-    <city>Bareja, 
-tal Daskoi
-dist Ahmedabad</city>
-    <address>101, 104 Gr Flr,
-suryadeep Enclave
-bareja Kheda Road
- Daskoi
-ahmedabad 
-state Gujarat
-pin 382425</address>
+    <name>Bareja </name>
+    <city>Bareja </city>
+    <address>DCB Bank LTD. 101, 104 ,suryadeep Enclave Bareja Kheda Road  Daskoi Ahmedabad  Gujarat  382425 </address>
     <contact>2147483647 </contact>
     <micrCode>380072007</micrCode>
     <ifscCode>DCBL0000160</ifscCode>
-    <bankLoc>5523</bankLoc>
+    <bankLoc>8472</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dhokheda</name>
-    <city>Dhokheda</city>
-    <address>D C B Bank Ltd. Phn No. 30,
-dhokheda,Bareli,Raisen, Madhya Pradesh
-464668</address>
+    <name>Dhokheda </name>
+    <city>Dhokheda </city>
+    <address>D C B Bank LTD. PHN NO. 30,dhokheda,bareli,raisen, Madhya Pradesh 464668 </address>
     <contact>2147483647 </contact>
     <micrCode>464072501</micrCode>
     <ifscCode>DCBL0000161</ifscCode>
-    <bankLoc>5543</bankLoc>
+    <bankLoc>8496</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nallapadu </name>
+    <city>Nallapadu </city>
+    <address>D C B Bank LTD. Nallapadu Branch, D. NO. 422, Railway Station Road, Nallapadu, Guntur, A P 522005 </address>
+    <contact>2147483647 </contact>
+    <micrCode>520072102</micrCode>
+    <ifscCode>DCBL0000162</ifscCode>
+    <bankLoc>8454</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indore </name>
+    <city>Indore </city>
+    <address>Cnt,shopno1/2,princesprie,21/3newplsi,inore,452001 </address>
+    <contact>2147483647 </contact>
+    <micrCode>452072001</micrCode>
+    <ifscCode>DCBL0000163</ifscCode>
+    <bankLoc>8493</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhopal </name>
+    <city>Bhopal </city>
+    <address>D C B Bank LTD. Plot NO.160, Zone 1,devashish COMPLEX,M.P. Nagar, Bhopal,state M P </address>
+    <contact>2147483647 </contact>
+    <micrCode>462072001</micrCode>
+    <ifscCode>DCBL0000166</ifscCode>
+    <bankLoc>8491</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhubaneswar </name>
+    <city>Bhubaneswar </city>
+    <address>DCB Bank LTD.BHUBANESWAR Branch, Plot NO 16, Ground AND First Floor,cuttack Road, Laxmi Sagar,near Falcon House,district Khurda, State Odisha PIN 751006 </address>
+    <contact>2147483647 </contact>
+    <micrCode>751072003</micrCode>
+    <ifscCode>DCBL0000167</ifscCode>
+    <bankLoc>8516</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Valabh Vidyanagar </name>
+    <city>Valabh Vidyanagar </city>
+    <address>Shop NO 1,radha Vanan Complex,mota Bazar, OPP Ratna Motors,vallabh Vidyanagar, PIN Code - 388120 </address>
+    <contact>2147483647 </contact>
+    <micrCode>388072001</micrCode>
+    <ifscCode>DCBL0000168</ifscCode>
+    <bankLoc>8473</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pachore </name>
+    <city>Pachore </city>
+    <address>DCB Bank Ltd,pachore Branch,khasra NO.289/1/3, Balaji Nagar,ab Road,pachore, Rajgarh, MP 465683 </address>
+    <contact>2147483647 </contact>
+    <micrCode>465072501</micrCode>
+    <ifscCode>DCBL0000169</ifscCode>
+    <bankLoc>8497</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamla </name>
+    <city>Kamla Nadiad </city>
+    <address>DCB Bank Ltd,kamla Branch,shree RAM Shopping Centre,kamla Char Rasta Kamla,tal-nadiad, Dis-kheda, Gujrat, Pin- 387320 </address>
+    <contact>2147483647 </contact>
+    <micrCode>387072001</micrCode>
+    <ifscCode>DCBL0000173</ifscCode>
+    <bankLoc>8478</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nashirabad </name>
+    <city>Nashirabad </city>
+    <address>DCB Bank Ltd, Nashirabad Branch, Near Nashirabad BUS Stand,nashirabad,tal AND DIS - Jalgaon,maharashtra, Pin- 425309 </address>
+    <contact>2147483647 </contact>
+    <micrCode>425072002</micrCode>
+    <ifscCode>DCBL0000174</ifscCode>
+    <bankLoc>8503</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Madlapur </name>
+    <city>Madlapur </city>
+    <address>DCB Bank Ltd,madlapur Branch,plot NO.2,SARVEY NO.14A,NANDED Bidar Road,opp Kale Petrol Pump,madlapur,taluka Udgir,pin 413517 </address>
+    <contact>2147483647 </contact>
+    <micrCode>413072227</micrCode>
+    <ifscCode>DCBL0000175</ifscCode>
+    <bankLoc>8504</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pedda  Thanda </name>
+    <city>Pedda Thanda </city>
+    <address>DCB Bank Ltd, Pedda Thanda Branch,d NO.3-103,PEDDA Thanda,khammam Rural,district Khammam,state Telangana,pin 507003 </address>
+    <contact>2147483647 </contact>
+    <micrCode>507072002</micrCode>
+    <ifscCode>DCBL0000176</ifscCode>
+    <bankLoc>8534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>DCB Bank LTD </name>
+    <city>Navnagapur </city>
+    <address>DCB Bank Ltd, Navnagapur Branch, Dongare Complex, Gajanan Colony, Nagar Manmad Road, Midc, Navnagapur </address>
+    <contact>2147483647 </contact>
+    <micrCode>414072002</micrCode>
+    <ifscCode>DCBL0000177</ifscCode>
+    <bankLoc>8499</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>National Processing Centre </name>
+    <city>Mumbai </city>
+    <address>Peninsula Business Park,  Tower A , 9TH Floor, Senapati Bapat Marg, Lower Parel Mumbai  400 013. </address>
+    <contact>66848262 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DCBL000NPC2</ifscCode>
+    <bankLoc>8505</bankLoc>
   </bankbranch>
 </bankBranchs>

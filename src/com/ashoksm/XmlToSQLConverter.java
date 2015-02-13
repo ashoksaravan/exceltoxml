@@ -22,7 +22,7 @@ public class XmlToSQLConverter {
 	private static final Map<String, String> DISTRICT_MAP = new HashMap<String, String>();
 
 	private static final Map<String, String> LOCATION_MAP = new HashMap<String, String>();
-	
+
 	private static final Map<String, String> STATUS_MAP = new HashMap<String, String>();
 
 	public static void main(String[] args) throws IOException {
@@ -35,35 +35,38 @@ public class XmlToSQLConverter {
 		xStream.addImplicitCollection(Offices.class, "offices");
 		File root = new File("xml");
 		for (final File state : root.listFiles()) {
-			System.out.println(state.getName());
-			BufferedWriter writer = new BufferedWriter(new FileWriter(args[0] + "\\"
-					+ state.getName().substring(0, state.getName().lastIndexOf(".")) + ".sql"));
-			FileInputStream file = new FileInputStream(state);
-			Offices offices = (Offices) xStream.fromXML(file);
-			for (Office office : offices.getOffices()) {
-				String line = null;
-				try {
-					String districtName = office.getLocation().substring(
-							office.getLocation().toLowerCase().indexOf("taluk of ") + 9,
-							office.getLocation().toLowerCase().indexOf("district"));
-					String stateCode = getStateCode(state.getName());
-					line = SQL.replaceAll("<OfficeName>", office.getName().trim().replaceAll("'", "''"))
-							.replaceAll("<Pincode>", office.getPinCode())
-							.replaceAll("<Status>", STATUS_MAP.get(office.getStatus().trim()))
-							.replaceAll("<HeadOffice>", office.getHeadoffice().trim().replaceAll("'", "''"))
-							.replaceAll("<SubOffice>", office.getSuboffice().trim().replaceAll("'", "''"))
-							.replaceAll("<Location>", LOCATION_MAP.get(office.getLocation().trim()))
-							.replaceAll("<Telephone>", office.getTelephone().trim()).replaceAll("<State>", stateCode)
-							.replaceAll("<District>", DISTRICT_MAP.get(districtName.trim()));
-				} catch (Exception ex) {
-					ex.printStackTrace();
-					System.out.println("In exception ::::: " + office.getName() + "::::" + office.getLocation());
+			if (!"ifsc".equals(state.getName())) {
+				System.out.println(state.getName());
+				BufferedWriter writer = new BufferedWriter(new FileWriter(args[0] + "\\"
+						+ state.getName().substring(0, state.getName().lastIndexOf(".")) + ".sql"));
+				FileInputStream file = new FileInputStream(state);
+				Offices offices = (Offices) xStream.fromXML(file);
+				for (Office office : offices.getOffices()) {
+					String line = null;
+					try {
+						String districtName = office.getLocation().substring(
+								office.getLocation().toLowerCase().indexOf("taluk of ") + 9,
+								office.getLocation().toLowerCase().indexOf("district"));
+						String stateCode = getStateCode(state.getName());
+						line = SQL.replaceAll("<OfficeName>", office.getName().trim().replaceAll("'", "''"))
+								.replaceAll("<Pincode>", office.getPinCode())
+								.replaceAll("<Status>", STATUS_MAP.get(office.getStatus().trim()))
+								.replaceAll("<HeadOffice>", office.getHeadoffice().trim().replaceAll("'", "''"))
+								.replaceAll("<SubOffice>", office.getSuboffice().trim().replaceAll("'", "''"))
+								.replaceAll("<Location>", LOCATION_MAP.get(office.getLocation().trim()))
+								.replaceAll("<Telephone>", office.getTelephone().trim())
+								.replaceAll("<State>", stateCode)
+								.replaceAll("<District>", DISTRICT_MAP.get(districtName.trim()));
+					} catch (Exception ex) {
+						ex.printStackTrace();
+						System.out.println("In exception ::::: " + office.getName() + "::::" + office.getLocation());
+					}
+					writer.write(line);
+					writer.newLine();
 				}
-				writer.write(line);
-				writer.newLine();
+				writer.flush();
+				writer.close();
 			}
-			writer.flush();
-			writer.close();
 		}
 	}
 
@@ -131,15 +134,15 @@ public class XmlToSQLConverter {
 			LOCATION_MAP.put(stateName, String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue()));
 		}
 	}
-	
+
 	private static void getStatusCode() throws IOException {
-			STATUS_MAP.put("Branch Office(Non Delivery)", "1");
-			STATUS_MAP.put("Sub Office(Non Delivery)", "2");
-			STATUS_MAP.put("Sub Office(Delivery)", "3");
-			STATUS_MAP.put("Branch Office(Delivery) directly a/w Head Office", "4");
-			STATUS_MAP.put("Head Office(Delivery)", "5");
-			STATUS_MAP.put("Branch Office(Delivery)", "6");
-			STATUS_MAP.put("Branch Office(Non Delivery) directly a/w Head Office", "7");
-			STATUS_MAP.put("Head Office(Non Delivery)", "8");
+		STATUS_MAP.put("Branch Office(Non Delivery)", "1");
+		STATUS_MAP.put("Sub Office(Non Delivery)", "2");
+		STATUS_MAP.put("Sub Office(Delivery)", "3");
+		STATUS_MAP.put("Branch Office(Delivery) directly a/w Head Office", "4");
+		STATUS_MAP.put("Head Office(Delivery)", "5");
+		STATUS_MAP.put("Branch Office(Delivery)", "6");
+		STATUS_MAP.put("Branch Office(Non Delivery) directly a/w Head Office", "7");
+		STATUS_MAP.put("Head Office(Non Delivery)", "8");
 	}
 }

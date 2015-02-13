@@ -1,11 +1,524 @@
 <bankBranchs>
   <bankbranch>
-    <name>Head Office Branch</name>
-    <city>Bangalore</city>
-    <address>&quot;uthunga&quot;, No 1, Pampamahakavi Road, Chamarajpet, Bangalore-560 018</address>
-    <contact>080-22976614 </contact>
+    <name>Rtgs-ho </name>
+    <city>Bangalore </city>
+    <address>NO.1, Uthunga, Pampamahakavi Raod, Chamarajpet, Bangalore - 560018 </address>
+    <contact>22676614 </contact>
     <micrCode>560226001</micrCode>
     <ifscCode>KSCB0000001</ifscCode>
-    <bankLoc>9240</bankLoc>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gandhinagar </name>
+    <city>Bangalore </city>
+    <address>Janatha Bazar Building,k G Road,gandhinagar,bangalore 560009 </address>
+    <contact>22976662 </contact>
+    <micrCode>560226011</micrCode>
+    <ifscCode>KSCB0001002</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vidhana Soudha </name>
+    <city>Bangalore </city>
+    <address>DR Ambedkar Veedi,vidhana Soudha,bangalore 560001 </address>
+    <contact>22976661 </contact>
+    <micrCode>560226026</micrCode>
+    <ifscCode>KSCB0001003</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jayanagar Market Complex </name>
+    <city>Bangalore </city>
+    <address>9TH Main,jayanagar 4TH Block,bangalore 560011 </address>
+    <contact>22976665 </contact>
+    <micrCode>560226012</micrCode>
+    <ifscCode>KSCB0001004</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shivajinagar </name>
+    <city>Bangalore </city>
+    <address>Ansari Building,no 26/3,opp Sultan Shah Masjid,bowring Hospital Road Shivajinagar Bangalore 560001 </address>
+    <contact>22946667 </contact>
+    <micrCode>560226015</micrCode>
+    <ifscCode>KSCB0001005</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajaji Nagar </name>
+    <city>Bangalore </city>
+    <address>NO 491,64th Cross,5th Block,near Basham Circle,rajajinagar,bangalore 560010 </address>
+    <contact>22976666 </contact>
+    <micrCode>560226024</micrCode>
+    <ifscCode>KSCB0001006</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Banashankari </name>
+    <city>Bangalore </city>
+    <address>NO 108/13,50 Feet Road,srinagar,2nd Block,bsk 1ST Stage,bangalore 560050 </address>
+    <contact>22976663 </contact>
+    <micrCode>560226004</micrCode>
+    <ifscCode>KSCB0001009</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Public Utility Building </name>
+    <city>Bangalore </city>
+    <address>Public Utility Building,m G Road,bangalore 560001 </address>
+    <contact>22976677 </contact>
+    <micrCode>560226023</micrCode>
+    <ifscCode>KSCB0001011</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mahalakshmi Puram </name>
+    <city>Bangalore </city>
+    <address>NO 117,2nd Stage,west OF Chord Road,bangalore 560086 </address>
+    <contact>22976675 </contact>
+    <micrCode>560226005</micrCode>
+    <ifscCode>KSCB0001012</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vyalikaval </name>
+    <city>Bangalore </city>
+    <address>NO 29,anugraha Complex,12th Main Road,sudheendra Nagar,guttahalli,malleshwaram,bangalore 560003 </address>
+    <contact>22976669 </contact>
+    <micrCode>560226028</micrCode>
+    <ifscCode>KSCB0001014</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indiranagar </name>
+    <city>Bangalore </city>
+    <address>NO 310,100 Feet Road,indiranagar,1st Stage,bangalore 560038 </address>
+    <contact>22976670 </contact>
+    <micrCode>560226010</micrCode>
+    <ifscCode>KSCB0001015</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ashoka Pillar </name>
+    <city>Bangalore </city>
+    <address>NO 1/7,1st Block,jayanagar,bangalore 560050 </address>
+    <contact>22976671 </contact>
+    <micrCode>560226002</micrCode>
+    <ifscCode>KSCB0001016</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijayanagar </name>
+    <city>Bangalore </city>
+    <address>NO Ac-17,1st Main,vijayanagar,bangalore 560040 </address>
+    <contact>22976672 </contact>
+    <micrCode>560226007</micrCode>
+    <ifscCode>KSCB0001017</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gokula </name>
+    <city>Bangalore </city>
+    <address>NO 29,ms Ramaiah Road,mathikere,bangalore 560054 </address>
+    <contact>22976673 </contact>
+    <micrCode>560226009</micrCode>
+    <ifscCode>KSCB0001020</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Magadi Road </name>
+    <city>Bangalore </city>
+    <address>NO 70,11th Cross,magadi Road,bangalore 560023 </address>
+    <contact>22976674 </contact>
+    <micrCode>560226020</micrCode>
+    <ifscCode>KSCB0001021</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lakkasandra </name>
+    <city>Bangalore </city>
+    <address>NO 257/03,13th Cross,wilson Garden,hosur Main Road,bangalore 560027 </address>
+    <contact>22976668 </contact>
+    <micrCode>560226018</micrCode>
+    <ifscCode>KSCB0001022</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jayanagar Ninth Block </name>
+    <city>Bangalore </city>
+    <address>NO 487/109,east END Road,jayanagar 9TH Block,bangalore 560069 </address>
+    <contact>22976676 </contact>
+    <micrCode>560226013</micrCode>
+    <ifscCode>KSCB0001023</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Basaveshwara Nagar </name>
+    <city>Bangalore </city>
+    <address>NO 1,1st Main,3rd Stage,3rd Block,basaveshwara Nagar,bangalore 560079 </address>
+    <contact>22976664 </contact>
+    <micrCode>560226006</micrCode>
+    <ifscCode>KSCB0001024</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ganganagar </name>
+    <city>Bangalore </city>
+    <address>NO 18/2,5th Main Road,gangenahalli Layout,bangalore 560032 </address>
+    <contact>22976678 </contact>
+    <micrCode>560226021</micrCode>
+    <ifscCode>KSCB0001025</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Legislators Home </name>
+    <city>Bangalore </city>
+    <address>Legislators Home Building,bangalore 560001 </address>
+    <contact>22976679 </contact>
+    <micrCode>560226019</micrCode>
+    <ifscCode>KSCB0001026</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koramangala </name>
+    <city>Bangalore </city>
+    <address>NO 120/a,khb Colony,kormangala,bangalore 560095 </address>
+    <contact>22976680 </contact>
+    <micrCode>560226017</micrCode>
+    <ifscCode>KSCB0001028</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Padmanabha Nagar </name>
+    <city>Bangalore </city>
+    <address>Cooperative Training College Premises,padmanabha Nagar,bangalore 560070 </address>
+    <contact>22976681 </contact>
+    <micrCode>560226022</micrCode>
+    <ifscCode>KSCB0001029</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Multi Stored Building </name>
+    <city>Bangalore </city>
+    <address>DR Ambedkar Veedi,bangalore 560001 </address>
+    <contact>22976682 </contact>
+    <micrCode>560226027</micrCode>
+    <ifscCode>KSCB0001030</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Girinagar </name>
+    <city>Bangalore </city>
+    <address>NO 404,80 Feet Road,girinagar,bangalore 560085 </address>
+    <contact>22976683 </contact>
+    <micrCode>560226008</micrCode>
+    <ifscCode>KSCB0001031</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>J P Nagar </name>
+    <city>Bangalore </city>
+    <address>NO 128/117,2nd Phase,j P Nagar,bangalore 560078 </address>
+    <contact>22976684 </contact>
+    <micrCode>560226014</micrCode>
+    <ifscCode>KSCB0001032</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Agara </name>
+    <city>Bangalore </city>
+    <address>NO 259,ring Road,hsr Layout,agara Village,bangalore 560034 </address>
+    <contact>22976685 </contact>
+    <micrCode>560226003</micrCode>
+    <ifscCode>KSCB0001033</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>RPC Layout </name>
+    <city>Bangalore </city>
+    <address>NO 199,9th B Main Road,pipeline Road,vijayanagar,rpc Layout,bangalore 560040 </address>
+    <contact>22976686 </contact>
+    <micrCode>560226025</micrCode>
+    <ifscCode>KSCB0001034</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kengeri Sattelite Town </name>
+    <city>Bangalore </city>
+    <address>NO 63,near Shreya Hospital,bda Kengeri Satellite Town,bangalore 560060 </address>
+    <contact>22976687 </contact>
+    <micrCode>560226016</micrCode>
+    <ifscCode>KSCB0001035</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandra Layout </name>
+    <city>Bangalore </city>
+    <address>NO 32,8th Cross,chandra Layout,bangalore 560040 </address>
+    <contact>22976688 </contact>
+    <micrCode>560226029</micrCode>
+    <ifscCode>KSCB0001036</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vivekananda College Extension </name>
+    <city>Bangalore </city>
+    <address>V C Extension,dr Rajkumar Road,rajajinagar,bangalore 560055 </address>
+    <contact>22976689 </contact>
+    <micrCode>560226032</micrCode>
+    <ifscCode>KSCB0001037</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>R T Nagar </name>
+    <city>Bangalore </city>
+    <address>NO 19/4&amp;3,dinnur Main Road, R T Nagar,bangalore 560032 </address>
+    <contact>22976690 </contact>
+    <micrCode>560226031</micrCode>
+    <ifscCode>KSCB0001038</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sunkadakatte </name>
+    <city>Bangalore </city>
+    <address>NO 80/1,herohalli Village,yeshwanthapura Hobli,bangalore North Taluk,bangalore 560091 </address>
+    <contact>22976691 </contact>
+    <micrCode>560226033</micrCode>
+    <ifscCode>KSCB0001039</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Krishnaraja Puram </name>
+    <city>Bangalore </city>
+    <address>No17,pooja Complex,k R Puram Hobli,old Madras Road,bangalore East Taluk,bangalore 560036 </address>
+    <contact>22976692 </contact>
+    <micrCode>560226034</micrCode>
+    <ifscCode>KSCB0001040</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mahadevapura </name>
+    <city>Bangalore </city>
+    <address>Survey NO 191,no 49&amp;54,hoodi Nagappa Layout,basavanna Nagar Road,hoodi Village,k R Puram Hobli,bangalore East 560048 </address>
+    <contact>22976699 </contact>
+    <micrCode>560226035</micrCode>
+    <ifscCode>KSCB0001041</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Yelahanka </name>
+    <city>Bangalore </city>
+    <address>NO 1461,munikoti,1st Main Nehru Nagar,yelahanka,bangalore 560064 </address>
+    <contact>22976693 </contact>
+    <micrCode>560226036</micrCode>
+    <ifscCode>KSCB0001042</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bommasandra </name>
+    <city>Bangalore </city>
+    <address>NO 10&amp;21,kithinganahalli,hennagara Gate,nh 7 Anekal Taluk,bangalore 560099 </address>
+    <contact>22976632 </contact>
+    <micrCode>560226037</micrCode>
+    <ifscCode>KSCB0001043</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>T Dasarahalli </name>
+    <city>Bangalore </city>
+    <address>NO 19&amp;43,sri Lakshminarasimha Complex Building,heasaraghatta Main Road,ward NO 14,dasarahalli,bangalore 560057 </address>
+    <contact>22976695 </contact>
+    <micrCode>560226038</micrCode>
+    <ifscCode>KSCB0001044</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Banashankari Third Stage </name>
+    <city>Bangalore </city>
+    <address>NO 569,3rd Phase,3rd Block,bda Layout,bsk 3RD Stage,bangalore 560085 </address>
+    <contact>22976700 </contact>
+    <micrCode>560226039</micrCode>
+    <ifscCode>KSCB0001045</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>BTM Layout </name>
+    <city>Bangalore </city>
+    <address>NO 18,100 Feet Ring Road,1st Phase 2ND Stage,btm Layout,bangalore 560076 </address>
+    <contact>22976696 </contact>
+    <micrCode>560226040</micrCode>
+    <ifscCode>KSCB0001046</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajarajeshwari Nagar </name>
+    <city>Bangalore </city>
+    <address>NO 3926/3900/3840/13,5th A Stage,halagevadrahally Village,kengeri Hobli,bangalore South Taluk,bangalore 560098 </address>
+    <contact>22976697 </contact>
+    <micrCode>560226041</micrCode>
+    <ifscCode>KSCB0001047</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thanisandra </name>
+    <city>Bangalore </city>
+    <address>NO 107/108,1st Floor,sri Lakshmi Venkateshwara Arcade,shivaram Karanth Nagar,thanisandra,bangalore 560077 </address>
+    <contact>25446554 </contact>
+    <micrCode>560226043</micrCode>
+    <ifscCode>KSCB0001048</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ngef </name>
+    <city>Bangalore </city>
+    <address>NO 24,ngef East,kasturinagar,bennigana Halli,bangalore 560043 </address>
+    <contact>22976634 </contact>
+    <micrCode>560226042</micrCode>
+    <ifscCode>KSCB0001049</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore Rural Ramanagar Coop Bank </name>
+    <city>Bangalore </city>
+    <address>NO 6,lakshmisadana,5th Main Road,chamarajpet, Bangalore 560018 </address>
+    <contact>22427940 </contact>
+    <micrCode>560226299</micrCode>
+    <ifscCode>KSCB0002001</ifscCode>
+    <bankLoc>12546</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolar Chikkaballapur Co-op Bank LTD </name>
+    <city>Kolar </city>
+    <address>Ammavaripet,kolar 563101 </address>
+    <contact>222042 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>KSCB0003001</ifscCode>
+    <bankLoc>12554</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chitradurga Central Co-op Bank LTD </name>
+    <city>Chitradurga </city>
+    <address>D C Office Road,chitradurga 577501 </address>
+    <contact>422546 </contact>
+    <micrCode>577814502</micrCode>
+    <ifscCode>KSCB0004001</ifscCode>
+    <bankLoc>12550</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shimoga Central Co-op Bank LTD </name>
+    <city>Shimoga </city>
+    <address>Balaraj URS Road,shimoga 577201 </address>
+    <contact>222396 </contact>
+    <micrCode>577843202</micrCode>
+    <ifscCode>KSCB0005001</ifscCode>
+    <bankLoc>12558</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tumkur District Coop Bank LTD </name>
+    <city>Tumkur </city>
+    <address>P B NO 44,town Police Station Road,tumkur 572101 </address>
+    <contact>2278418 </contact>
+    <micrCode>572804000</micrCode>
+    <ifscCode>KSCB0006001</ifscCode>
+    <bankLoc>12559</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mysore Chamarajanagar Co-op Bank </name>
+    <city>Mysore </city>
+    <address>Nehru Circle,ashoka Road,mysore 570001 </address>
+    <contact>2520836 </contact>
+    <micrCode>570573002</micrCode>
+    <ifscCode>KSCB0007001</ifscCode>
+    <bankLoc>12557</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandya District Coop Bank LTD </name>
+    <city>Mandya </city>
+    <address>P B NO 14, H O Mandya 571401 </address>
+    <contact>226010 </contact>
+    <micrCode>571841502</micrCode>
+    <ifscCode>KSCB0008001</ifscCode>
+    <bankLoc>12556</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kodagu Central Co-op Bank LTD </name>
+    <city>Madikeri </city>
+    <address>M G Road,near G T Circle,madikeri 571201 </address>
+    <contact>228590 </contact>
+    <micrCode>571833152</micrCode>
+    <ifscCode>KSCB0011001</ifscCode>
+    <bankLoc>12555</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chikmagalur District Coop Bank LTD </name>
+    <city>Chikamgalur </city>
+    <address>Rathnagiri Road,chikmagalur 577101 </address>
+    <contact>231240 </contact>
+    <micrCode>577816102</micrCode>
+    <ifscCode>KSCB0012001</ifscCode>
+    <bankLoc>12549</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bijapur Co-op Central Bank LTD </name>
+    <city>Bijapur </city>
+    <address>K C Nagar,sholapur Road,bijapur 586103 </address>
+    <contact>261142 </contact>
+    <micrCode>586864003</micrCode>
+    <ifscCode>KSCB0014001</ifscCode>
+    <bankLoc>12548</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karnataka Central Coop Bank LTD </name>
+    <city>Dharwad </city>
+    <address>Subash Road,dharwad 580001 </address>
+    <contact>2444864 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>KSCB0015001</ifscCode>
+    <bankLoc>12552</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanara District Central Co-op Bank </name>
+    <city>Sirsi </city>
+    <address>Kanara District Central Cooperative Bank Ltd, NEW Market Yard, Sirsi, Uttara Kannada District 581402 </address>
+    <contact>236304 </contact>
+    <micrCode>581801402</micrCode>
+    <ifscCode>KSCB0016001</ifscCode>
+    <bankLoc>12560</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gulbarga Yadagir Co-op Bank LTD </name>
+    <city>Gulbarga </city>
+    <address>Jagat Circle,main Road,gulbarga 585101 </address>
+    <contact>221894 </contact>
+    <micrCode>585801002</micrCode>
+    <ifscCode>KSCB0017001</ifscCode>
+    <bankLoc>12553</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>THE District Coop Central Bank LTD Bidar </name>
+    <city>Bidar </city>
+    <address>THE District Coop Central Bank Ltd,basaveshwar Chowk,bidar 585401 </address>
+    <contact>226402 </contact>
+    <micrCode>585867102</micrCode>
+    <ifscCode>KSCB0018001</ifscCode>
+    <bankLoc>12547</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Davanagere Central Co-op Bank LTD </name>
+    <city>Davanagere </city>
+    <address>NO 311,a Block,sri D Devaraj URS Layout,p B Road,davanagere 577006 </address>
+    <contact>237691 </contact>
+    <micrCode>577873004</micrCode>
+    <ifscCode>KSCB0701001</ifscCode>
+    <bankLoc>12551</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bagalkot District Central Coop Bank </name>
+    <city>Bagalkot </city>
+    <address>Sector NO 24,navanagar,bagalkot 587102 </address>
+    <contact>236443 </contact>
+    <micrCode>587801103</micrCode>
+    <ifscCode>KSCB0702001</ifscCode>
+    <bankLoc>12545</bankLoc>
   </bankbranch>
 </bankBranchs>

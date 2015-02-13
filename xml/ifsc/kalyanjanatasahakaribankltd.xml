@@ -1,305 +1,281 @@
 <bankBranchs>
   <bankbranch>
-    <name>Borivali(W)</name>
-    <city>Mumbai</city>
-    <address>Shop-1,Mohan Palace Coop. Hsg. Scty., F.P.No.199, 57th Road, Opp. Veer Savarkar Udyan,Bhatiya Wadi, Tps Iii, Borivali West , Mumbai 400092</address>
-    <contact>022-28995486; avbele@kalyanja </contact>
-    <micrCode>400367020</micrCode>
-    <ifscCode>KJSB0000020</ifscCode>
-    <bankLoc>9066</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nasik</name>
-    <city>Nasik</city>
-    <address>Vishal Point,Groung Floor,S No. 707/4/19,Plot No 19,Swamisamarth Chowk,Gangapur Road, Nasik- 422005</address>
-    <contact>0253-2340291 </contact>
-    <micrCode>NON-MICR</micrCode>
-    <ifscCode>KJSB0000210</ifscCode>
-    <bankLoc>9069</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Main                                (service Center)</name>
-    <city>Kalyan</city>
-    <address>Janata Bhavan, 2nd Floor, Bharatacharya
-vaidya Chowk, Kalyan (W) - 421 301</address>
-    <contact>0251-2219004 </contact>
-    <micrCode>400367000</micrCode>
-    <ifscCode>KJSB0000001</ifscCode>
-    <bankLoc>9073</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tilak Chowk</name>
-    <city>Kalyan</city>
-    <address>Janata Bhavan, 1st Floor, Bharatacharya
-vaidya Chowk, Kalyan (W) - 421 301</address>
-    <contact>0251-2219030 </contact>
+    <name>Main </name>
+    <city>Kalyan </city>
+    <address>Gayan Samaj, Tilak  Chowk,kalyan (W)-421301 </address>
+    <contact>2220710 </contact>
     <micrCode>400367002</micrCode>
     <ifscCode>KJSB0000002</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rambaug</name>
-    <city>Kalyan</city>
-    <address>&quot;ashirwad&quot;, Rambaug Lane No. 4,
-kalyan (W) - 421 301</address>
-    <contact>0251-2219002 </contact>
+    <name>Rambaug </name>
+    <city>Kalyan </city>
+    <address>Aashirwad, Rambaug Lane NO.4,KALYAN(W) 421301 </address>
+    <contact>2301011 </contact>
     <micrCode>400367003</micrCode>
     <ifscCode>KJSB0000003</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kolsewadi</name>
-    <city>Kalyan</city>
-    <address>“utekar Palace”, Kolsewadi,
-kalyan (E)  421 306</address>
-    <contact>0251-2219004 </contact>
+    <name>Kolsewadi </name>
+    <city>Kalyan </city>
+    <address>Utekarpalace,kolshewadi,kalyan(E) 421306 </address>
+    <contact>2364461 </contact>
     <micrCode>400367004</micrCode>
     <ifscCode>KJSB0000004</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kala Talao</name>
-    <city>Kalyan</city>
-    <address>&quot;vitthalesh&quot;, Sahajanand Chowk, Agra Road, Kalyan (W) 421 301</address>
-    <contact>0251-2219030 </contact>
+    <name>Kalatalav </name>
+    <city>Kalyan </city>
+    <address>Sahajanand Chowk Agra RD Kalatalav Kalyan(W)421301 </address>
+    <contact>2211130 </contact>
     <micrCode>400367005</micrCode>
     <ifscCode>KJSB0000005</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Syndicate</name>
-    <city>Kalyan</city>
-    <address>“yakub Manzil”, Syndicate, 
-murbad Road, Kalyan (W)</address>
-    <contact>0251-2219002 </contact>
+    <name>Syndicate </name>
+    <city>Kalyan </city>
+    <address>Yakub Manzil Syndicate Murbad Road Kalyan(W)421301 </address>
+    <contact>2220709 </contact>
     <micrCode>400367006</micrCode>
     <ifscCode>KJSB0000006</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ulhasnagar-4</name>
-    <city>Ulhasnagar</city>
-    <address>“tejwani Complex”, Daulatram Mangtani
-chowk,  Shreeram Talkies, Ulhasnagar</address>
-    <contact>0251-2219004 </contact>
+    <name>Ulhasnagar-4 </name>
+    <city>Ulhasnagar </city>
+    <address>Maruti Chambers Plot NO 394 OPP Vitthalwadi </address>
+    <contact>2583701 </contact>
     <micrCode>400367007</micrCode>
     <ifscCode>KJSB0000007</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Netivali</name>
-    <city>Kalyan</city>
-    <address>“darshan Bldg“,  Atmaram Nagar, 
-lokgram, Kalyan (E)  421306</address>
-    <contact>0251-2219030 </contact>
+    <name>Netivali </name>
+    <city>Kalyan </city>
+    <address>Darshan Bldg&quot;,atmaram Nagar,lokgram Netivali Kalyan East -421306 </address>
+    <contact>2355673 </contact>
     <micrCode>400367008</micrCode>
     <ifscCode>KJSB0000008</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bail Bazar</name>
-    <city>Kalyan</city>
-    <address>“usha Sankul”, Oak Baug, Vali Peer 
-road, Kalyan (W)-421301</address>
-    <contact>0251-2219002 </contact>
+    <name>Bailbazar </name>
+    <city>Kalyan </city>
+    <address>Usha Sankul, OAK Baug, Vali Peer Road,bail Bazar Kalyan(W)-421301 </address>
+    <contact>2220704 </contact>
     <micrCode>400367009</micrCode>
     <ifscCode>KJSB0000009</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Adharwadi</name>
-    <city>Kalyan</city>
-    <address>Ghodake Sankul, Adharwadi Chowk, 
-kalyan (W) 421 301</address>
-    <contact>0251-2219004 </contact>
+    <name>Adharwadi </name>
+    <city>Kalyan </city>
+    <address>Ghodke Sankul,adharwadi Chowkadharwadi,kalyan(W)421301 </address>
+    <contact>2220703 </contact>
     <micrCode>400367010</micrCode>
     <ifscCode>KJSB0000010</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatkopar</name>
-    <city>Mumbai</city>
-    <address>309, Trikal Co-op. Hsg Soc., 90 Ft. Road,
-pant Nagar, Ghatkopar (E)</address>
-    <contact>0251-2219030 </contact>
+    <name>Ghatkopar </name>
+    <city>Mumbai </city>
+    <address>309,trikal CO-OP.HSG.SOC.,90FT.ROAD,PANT Nagar,ghatkopar 400075 </address>
+    <contact>25013286 </contact>
     <micrCode>400367011</micrCode>
     <ifscCode>KJSB0000011</ifscCode>
-    <bankLoc>9068</bankLoc>
+    <bankLoc>12361</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Khadakpada</name>
-    <city>Kalyan</city>
-    <address>Vasundhara Archade, Opp. Shri Complex, Ph-4, Godrej Hill Road, Khadakpada, Kalyan (WEST) 421 301</address>
-    <contact>0251-2219002 </contact>
+    <name>Khadakpada </name>
+    <city>Kalyan </city>
+    <address>Vasundhra ARCADE,OPP.SHRI Complex, Barave Road, Khadakpada,kalyan(W)421301 </address>
+    <contact>2220707 </contact>
     <micrCode>400367012</micrCode>
     <ifscCode>KJSB0000012</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Badlapur Ext</name>
-    <city>Ulhasnagar</city>
-    <address>Adarsha Vidya Mandir, Kulgaon, 
-badlapur (E)</address>
-    <contact>0251-2219004 </contact>
+    <name>Badalapur </name>
+    <city>Badalapur </city>
+    <address>Adarsha Vidya Mandir,kulgaon, Badalapur 421503 </address>
+    <contact>2691109 </contact>
     <micrCode>400367013</micrCode>
     <ifscCode>KJSB0000013</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ulhasnagar -1 Ext</name>
-    <city>Ulhasnagar</city>
-    <address>Maharashtra Mitra Mandal, Behind S.T. 
-stand, Ulhasnagar – 421 001</address>
-    <contact>0251-2219030 </contact>
-    <micrCode>400367014</micrCode>
+    <name>Ulhasnagar Extn </name>
+    <city>Ulhasnagar </city>
+    <address>Maharashra Mitra Mandal Highschool,behind BUS Stop Ulhasnagar 1 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>KJSB0000014</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ulhasnagar-2</name>
-    <city>Thane</city>
-    <address>Shop No. 2 &amp; 3, Shivshakti Complex, 
-ulhasnagar - 421 002</address>
-    <contact>0251-2219030 </contact>
-    <micrCode>NONMICR</micrCode>
+    <name>Ulhasnagar-2 </name>
+    <city>Ulhasnagar </city>
+    <address>Shop NO.2&amp;3,SHIV Shakti Complex,near Geeta ,complex,nehru Chowk,central Hospital Road,ulhasnagar -421 002 </address>
+    <contact>2709457 </contact>
+    <micrCode>400367015</micrCode>
     <ifscCode>KJSB0000015</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Thane(W)</name>
-    <city>Thane</city>
-    <address>Shop No. 2 (part),3&amp;4, Horizon Tower,Hariniwas Circle,Panchpakhadi,Thane (W) 
-ulhasnagar - 421 002</address>
-    <contact>022-25337296 </contact>
-    <micrCode>NONMICR</micrCode>
+    <name>Thane </name>
+    <city>Thane </city>
+    <address>Horizon Towers,shop NO.2,3,4, NR. Hari Niwas,circle,bhakti Mandir Road, OPP.THANAWALA,GARAGE,PANCHPAKHADI,THANE(W) 400 602 </address>
+    <contact>25337296 </contact>
+    <micrCode>400367016</micrCode>
     <ifscCode>KJSB0000016</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kharghar, Navi Mumbai</name>
-    <city>Panvel</city>
-    <address>Shop No. 1, A Wing, Neelam Heights,Plot No 139, Sector 13, Kharghar, Navi Mumbai-410210</address>
-    <contact>022-27746915 </contact>
-    <micrCode>400-367-018</micrCode>
+    <name>Kharghar </name>
+    <city>Navi-mumbai </city>
+    <address>Shop NO.1, A- Wing, Neelam Heights, Plot NO. 139, Sector- 13, OPP. Raghunath Vihar,yakub Manzil Syndicate Murbad Road Kalyan(W)421301/ </address>
+    <contact>27746915 </contact>
+    <micrCode>400367018</micrCode>
     <ifscCode>KJSB0000018</ifscCode>
-    <bankLoc>9071</bankLoc>
+    <bankLoc>12363</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>Shop No 1 To 4, Gr. Flr., Sunshine Plaza, Naigaon Cross Road, Dadar ( East), Mumbai 400014</address>
-    <contact>022-24156501 </contact>
-    <micrCode>NON MICR</micrCode>
+    <name>Dadar </name>
+    <city>Mumbai </city>
+    <address>Shop NO.1 TO 4, Ground Floor, Sunshine Plaza, Naigaon Cross Road, Dadar (E) 400 014. </address>
+    <contact>24156501 </contact>
+    <micrCode>400367019</micrCode>
     <ifscCode>KJSB0000019</ifscCode>
-    <bankLoc>9068</bankLoc>
+    <bankLoc>12361</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Wada</name>
-    <city>Wada</city>
-    <address>“patkar Sadan”, At &amp; Post Wada, Tal. 
-wada, Dist. Thane</address>
-    <contact>0251-2219002 </contact>
-    <micrCode>NON-MICR</micrCode>
-    <ifscCode>KJSB0000201</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <name>Borivali </name>
+    <city>Mumbai </city>
+    <address>Shop NO. 1, Mohan Palace CO-OP.HSG.SOCT., ., F.P. NO. 199,OPP. Veer Savarkar Udyan,near Bhatiya Wadi Hall, Borivali 400 092 </address>
+    <contact>28995486 </contact>
+    <micrCode>400367020</micrCode>
+    <ifscCode>KJSB0000020</ifscCode>
+    <bankLoc>12361</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Murbad</name>
-    <city>Murbad</city>
-    <address>“guruprasad”, Shivaji Chowk, Murbad</address>
-    <contact>0251-2219004 </contact>
-    <micrCode>NON-MICR</micrCode>
-    <ifscCode>KJSB0000202</ifscCode>
-    <bankLoc>9073</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Satara Main</name>
-    <city>Satara</city>
-    <address>177, Bhavani Peth, Rajpath ,Opp. City Post Office, Satara-415002</address>
-    <contact>02162-232611 </contact>
-    <micrCode>415-367-002</micrCode>
-    <ifscCode>KJSB0000203</ifscCode>
-    <bankLoc>9072</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Karad</name>
-    <city>Karad</city>
-    <address>Nav Durga Complex&quot;a&quot;, Plot No. 42,43,Vijapur Road, Shanivar Peth, Karad- 415110</address>
-    <contact>02164-225231 </contact>
-    <micrCode>NON-MICR</micrCode>
-    <ifscCode>KJSB0000207</ifscCode>
-    <bankLoc>9072</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chinchwad</name>
-    <city>Pune</city>
-    <address>Shop No.1 To 5, Sundermoti, Opp. Shantiban Soc, Chaphekar Chowk, Chinchwad, Pune</address>
-    <contact>020-32602513 </contact>
-    <micrCode>NONMICR</micrCode>
-    <ifscCode>KJSB0000208</ifscCode>
-    <bankLoc>9070</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hadapsar</name>
-    <city>Pune</city>
-    <address>Shop No. 3, A- Wing,Tulsi Complex, Near Aakashwani, Solapur Rd, Hadapsar ,Pune</address>
-    <contact>020-26997821 </contact>
-    <micrCode>NONMICR</micrCode>
-    <ifscCode>KJSB0000209</ifscCode>
-    <bankLoc>9070</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhosari</name>
-    <city>Pune</city>
-    <address>Ground Floor, Sadashiv Palace, 681/1,, Gavhane Industrial Estate,Lande Wadi, Bhosari, Pune-411039</address>
-    <contact>020-27110086,avbele@kalyanjanata.in </contact>
-    <micrCode>411367004</micrCode>
-    <ifscCode>KJSB0000212</ifscCode>
-    <bankLoc>9070</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chinchpada</name>
-    <city>Kalyan</city>
-    <address>Shop No. 106, Ground Floor, Shradhha Mahal, Chinchpada Road, Near Saket College, Kalyan East</address>
-    <contact>0251-2250840,2250841,avbele@kalyanjanata.in </contact>
-    <micrCode>400367023</micrCode>
-    <ifscCode>KJSB0000023</ifscCode>
-    <bankLoc>9073</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dombivali  (EAST)</name>
-    <city>Dombivali</city>
-    <address>Ground Floor, Trimbak Palace, Patharli Road, Gograswadi, Dombivali East 421201</address>
-    <contact>0251-2439599,2439597,avbele@kalyanjanata.in </contact>
-    <micrCode>400367024</micrCode>
-    <ifscCode>KJSB0000024</ifscCode>
-    <bankLoc>9073</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>L B S Road Thane</name>
-    <city>Thane</city>
-    <address>Shop No . 1, Fround Floor,Rajashree Plaza, Lbs Road Panchpakhadi, Thane  West 400602</address>
-    <contact>022-25382763,25382764,avbele@kalyanjanata.in </contact>
-    <micrCode>400367025</micrCode>
-    <ifscCode>KJSB0000025</ifscCode>
-    <bankLoc>9073</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kolhapur</name>
-    <city>Kolhapur</city>
-    <address>Shop No. S/10, Office No. 16, Akshar Plaza, Cts No. 264/k, E Ward, Tarabai Park, Opp. Sasane Ground, Kolhapur-416001</address>
-    <contact>0231-2662277,avbele@kalyanjanata.in </contact>
-    <micrCode>416 367 002</micrCode>
-    <ifscCode>KJSB0000211</ifscCode>
-    <bankLoc>9067</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ulhasnagar-5</name>
-    <city>Ulhasnagar</city>
-    <address>Nijdham Ashram, Nijdham Marg, Gandhi Road,Opp. Petrol Pump, Ulhasnagar-421005</address>
-    <contact>0251-2520181;avbele@kalyanjanata.in </contact>
+    <name>Ulhasnagar-5 </name>
+    <city>Ulhasnagar </city>
+    <address>Nijdham Ashram, Nijdham Marg, Gandhi ROADOPP. Petrol Pump Ulhasnagar 5 </address>
+    <contact>2520181 </contact>
     <micrCode>400367021</micrCode>
     <ifscCode>KJSB0000021</ifscCode>
-    <bankLoc>9073</bankLoc>
+    <bankLoc>12366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chinchpada </name>
+    <city>Kalyan </city>
+    <address>Shop NO.106, Shradha Mahal,near Saket College,chinchpada,kalyan (E)-421306 </address>
+    <contact>2250840 </contact>
+    <micrCode>400367023</micrCode>
+    <ifscCode>KJSB0000023</ifscCode>
+    <bankLoc>12366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gograswadi Dombivali </name>
+    <city>Dombivali </city>
+    <address>Shop NO.1 TO 6 ,trimbak PALACE,.GOGRASWADI,DOMBIVALI (E)-421201 </address>
+    <contact>2439599 </contact>
+    <micrCode>400367024</micrCode>
+    <ifscCode>KJSB0000024</ifscCode>
+    <bankLoc>12366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>LBS Thane </name>
+    <city>Thane </city>
+    <address>Shop NO.1,GROUND Floor, Rajashree Plaza ,lbs Road, Panchpakhadi, Thane (W) 400602 </address>
+    <contact>25382763 </contact>
+    <micrCode>400367025</micrCode>
+    <ifscCode>KJSB0000025</ifscCode>
+    <bankLoc>12366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Wada </name>
+    <city>Wada </city>
+    <address>Patkar Sadan, AT &amp; Post WADA,TAL.WADA,DIST.THANE </address>
+    <contact>272191 </contact>
+    <micrCode>400367017</micrCode>
+    <ifscCode>KJSB0000201</ifscCode>
+    <bankLoc>12366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Murbad </name>
+    <city>Murbad </city>
+    <address>Vivek Aprt, Jogeshwari Ali, Murbad, DIST. Thane </address>
+    <contact>222171 </contact>
+    <micrCode>400367022</micrCode>
+    <ifscCode>KJSB0000202</ifscCode>
+    <bankLoc>12366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satara </name>
+    <city>Satara </city>
+    <address>177,bhavani Peth, Satara,maharashtra-415 002 </address>
+    <contact>231611 </contact>
+    <micrCode>415367002</micrCode>
+    <ifscCode>KJSB0000203</ifscCode>
+    <bankLoc>12365</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karad </name>
+    <city>Karad </city>
+    <address>Navdurga Complex, PLOT.42 To43, Vaijapur Road, OPP. S.T.STAND, Shanivar Peth, Karad, Dist:-satara </address>
+    <contact>225231 </contact>
+    <micrCode>415367352</micrCode>
+    <ifscCode>KJSB0000207</ifscCode>
+    <bankLoc>12365</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chinchwad </name>
+    <city>Pune </city>
+    <address>Sundar Moti, Shop NO. 1 TO 5, Shantivan Society,near Chafekar Chowk, Chinchwad, Pune-411 033 </address>
+    <contact>32602513 </contact>
+    <micrCode>411367002</micrCode>
+    <ifscCode>KJSB0000208</ifscCode>
+    <bankLoc>12364</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hadapsar </name>
+    <city>Pune </city>
+    <address>Tulsi Complex, A-wing, Shop NO.2&amp;3 Pune - Solapur Road, NR.AKASHWANI, Vithal Nagar Hadapsar, Pune, Pune-411028 </address>
+    <contact>26997821 </contact>
+    <micrCode>411367003</micrCode>
+    <ifscCode>KJSB0000209</ifscCode>
+    <bankLoc>12364</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nashik </name>
+    <city>Nashik </city>
+    <address>Vishal Point, Ground Floor,swami Samarthchowk, Gangapur Road, Nashik-422013 </address>
+    <contact>2340291 </contact>
+    <micrCode>422367002</micrCode>
+    <ifscCode>KJSB0000210</ifscCode>
+    <bankLoc>12362</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolhapur </name>
+    <city>Kolhapur </city>
+    <address>Shop Unit No-office Unit-no S-16 Akshar PLAZA,C.S.T NO. 264/&apos;k&apos; Eward,tarabai Park, OPP.SASANE,GROUND, Kolhapur 416001 </address>
+    <contact>2662277 </contact>
+    <micrCode>416367002</micrCode>
+    <ifscCode>KJSB0000211</ifscCode>
+    <bankLoc>12360</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhosari </name>
+    <city>Pune </city>
+    <address>681/1, Sadashiv Palace, Gavane Industrial Estate,lande Wadi,bhosri ? Pune-411039 </address>
+    <contact>27110086 </contact>
+    <micrCode>411367004</micrCode>
+    <ifscCode>KJSB0000212</ifscCode>
+    <bankLoc>12364</bankLoc>
   </bankbranch>
 </bankBranchs>

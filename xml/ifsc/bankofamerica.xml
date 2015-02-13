@@ -1,49 +1,47 @@
 <bankBranchs>
   <bankbranch>
-    <name>Bank Of America, Bangalore</name>
-    <city>Bangalore</city>
-    <address>29 M.G. Road, 9th Floor, Bangalore,1</address>
-    <contact></contact>
-    <micrCode>560032001</micrCode>
+    <name>Bangalore Branch </name>
+    <city>Bangalore </city>
+    <address>Salarpuria Windsor, 5TH Floor,b-wing, No-3, Ulsoor Road,bangalore 560042 </address>
+    <contact>66006203 </contact>
+    <micrCode>560032002</micrCode>
     <ifscCode>BOFA0BG3978</ifscCode>
-    <bankLoc>1780</bankLoc>
+    <bankLoc>1594</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bank Of America, Chennai</name>
-    <city>Chennai</city>
-    <address>748 Anna Salai,
-mount Road,
-chennai 2</address>
-    <contact></contact>
-    <micrCode>600032001</micrCode>
+    <name>Chennai Branch </name>
+    <city>Chennai </city>
+    <address>EA Chambers,express Avenue,8th Floor NO.49,50 L,whites Road,royapettah,chennai 600014 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>BOFA0CN6215</ifscCode>
-    <bankLoc>1782</bankLoc>
+    <bankLoc>1596</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bank Of America, Kolkata</name>
-    <city>Kolkata</city>
-    <address>Block B 46 D Jawaharlal Nehru Road Calcutta, 71</address>
-    <contact></contact>
-    <micrCode>700032001</micrCode>
+    <name>Kolkata Branch </name>
+    <city>Kolkata </city>
+    <address>J.K. Millennium Centre,46d,jawaharlal Nehru Road,5th Floor, Block ? B, Kolkata ? 700 071. </address>
+    <contact>6634 5065 </contact>
+    <micrCode>700032002</micrCode>
     <ifscCode>BOFA0CT6206</ifscCode>
-    <bankLoc>1783</bankLoc>
+    <bankLoc>1597</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bank Of America, Mumbai</name>
-    <city>Mumbai</city>
-    <address>Express Towers, Gnd Floor, Nariman Point, P. O. Box 11506 Mumbai 21</address>
-    <contact></contact>
-    <micrCode>400032002</micrCode>
+    <name>Rtgs-ho </name>
+    <city>Ámumbai </city>
+    <address>Ábank OF America N.A GR.FLOOR Express Towers Nariman Point Mumbai-21 </address>
+    <contact>66323109 </contact>
+    <micrCode>32002</micrCode>
     <ifscCode>BOFA0MM6205</ifscCode>
-    <bankLoc>1781</bankLoc>
+    <bankLoc>1595</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bank Of America, New Delhi</name>
-    <city>Delhi</city>
-    <address>Dcm, Building, 5th Floor, 16 Barakhamba Road P.O. Box 735 New Delhi 1</address>
-    <contact></contact>
+    <name>NEW Delhi </name>
+    <city>NEW Delhi </city>
+    <address>Ábank OF America N.A,1ST Floor,dlf Centre,sansad Marg, NEW Delhi 110001 </address>
+    <contact>23715565 </contact>
     <micrCode>110032001</micrCode>
     <ifscCode>BOFA0ND6216</ifscCode>
-    <bankLoc>1779</bankLoc>
+    <bankLoc>1593</bankLoc>
   </bankbranch>
 </bankBranchs>

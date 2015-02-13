@@ -1,20 +1,20 @@
 <bankBranchs>
   <bankbranch>
-    <name>Societe Generale - Mumbai</name>
-    <city>Mumbai</city>
-    <address>Societe Generale, Maker Chamber Iv, 13th Floor, Nariman Point, Mumbai-400 021</address>
-    <contact>022-66309500 </contact>
+    <name>Societe Generale </name>
+    <city>Mumbai </city>
+    <address>13th Floor, Maker Chambers-iv, Nariman Point,mumbai-400021, India </address>
+    <contact>400021 </contact>
     <micrCode>400608002</micrCode>
     <ifscCode>SOGE0INBB01</ifscCode>
-    <bankLoc>11304</bankLoc>
+    <bankLoc>18787</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Societe Generale - Delhi</name>
-    <city>Delhi</city>
-    <address>Societe Generale, Mohandev, 6th Floor, Tolstoy Marg,New Delhi-1100 01</address>
-    <contact>011-23329747 </contact>
-    <micrCode>110240254</micrCode>
+    <name>Societe Generale </name>
+    <city>Delhi </city>
+    <address>6TH Floor, Mohan DEV Building </address>
+    <contact>110001 </contact>
+    <micrCode>110608002</micrCode>
     <ifscCode>SOGE0INDL01</ifscCode>
-    <bankLoc>11303</bankLoc>
+    <bankLoc>18786</bankLoc>
   </bankbranch>
 </bankBranchs>

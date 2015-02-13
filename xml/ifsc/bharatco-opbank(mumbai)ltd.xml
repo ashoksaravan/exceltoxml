@@ -1,506 +1,587 @@
 <bankBranchs>
   <bankbranch>
-    <name>Main Branch</name>
-    <city>Mumbai</city>
-    <address>Meghdoot Chambers, 85, Mody Street, Fort,Mumbai-400001</address>
-    <contact>2267 9152,2269 0738 </contact>
+    <name>Rtgs-ho </name>
+    <city>Mumbai </city>
+    <address>Mohan Terrace, 64/72, Mody Street, Fort,mumbai-400001 </address>
+    <contact>22616174 </contact>
+    <micrCode>400112001</micrCode>
+    <ifscCode>BCBM0000001</ifscCode>
+    <bankLoc>6086</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch </name>
+    <city>Mumbai </city>
+    <address>45/47, Mint Chambers, Mint Road, OPP G.P.O, Fort, Mumbai 400001 </address>
+    <contact>61890999 </contact>
     <micrCode>400112002</micrCode>
     <ifscCode>BCBM0000002</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhandup Branch</name>
-    <city>Mumbai</city>
-    <address>Gautam Udyog Bhavan,1st Floor,  L.B.S.Marg, Bhandup(WEST),Mumbai-400078</address>
-    <contact>2594 7345,2594 7427 </contact>
+    <name>Bhandup Branch </name>
+    <city>Mumbai </city>
+    <address>Gautam Udyog BHAVAN,GR. Floor,  L.B.S.MARG, Bhandup(WEST),mumbai-400078 </address>
+    <contact>65134902 </contact>
     <micrCode>400112003</micrCode>
     <ifscCode>BCBM0000003</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Goregaon Branch</name>
-    <city>Mumbai</city>
-    <address>&apos;shivgiri&apos; Plot No.11, Ground Floor, Samant Estate, Goregaon (EAST), Mumbai-400063</address>
-    <contact>2686 2707,2686 2705 </contact>
+    <name>Goregaon Branch </name>
+    <city>Mumbai </city>
+    <address>&apos;shivgiri&apos; Plot NO.11, Ground Floor, Samant Estate, Goregaon (EAST), MUMBAI-400063. </address>
+    <contact>61890301 </contact>
     <micrCode>400112004</micrCode>
     <ifscCode>BCBM0000004</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chembur Branch</name>
-    <city>Mumbai</city>
-    <address>Gangangiri Complex, 18th Road, Near Ambedkar Garden, Chembur, Mumbai-400071</address>
-    <contact>2528 5066,2528 7273 </contact>
+    <name>Chembur Branch </name>
+    <city>Mumbai </city>
+    <address>Gangangiri Complex, 18th Road, Near Ambedkar Garden, Chembur, MUMBAI-400071. </address>
+    <contact>61890501 </contact>
     <micrCode>400112005</micrCode>
     <ifscCode>BCBM0000005</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mulund Branch</name>
-    <city>Mumbai</city>
-    <address>Neelam Nagar, Bldg. No.7, Gavanpada, Mulund (EAST) Mumbai-400081</address>
-    <contact>2163 5597,2163 6558 </contact>
+    <name>Mulund Branch </name>
+    <city>Mumbai </city>
+    <address>Neelam Nagar, BLDG. NO.7, Gavanpada, Mulund (EAST) Mumbai-400081 </address>
+    <contact>21635597 </contact>
     <micrCode>400112006</micrCode>
     <ifscCode>BCBM0000006</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Borivali Branch</name>
-    <city>Mumbai</city>
-    <address>B(6 To 8),  Mandapeshwar Indl.  Premises  Co-op. Society Ltd., S.V.P. Road, Borivili(WEST), Mumbai-400092</address>
-    <contact>2892 6300,2890 6679 </contact>
+    <name>Borivali Branch </name>
+    <city>Mumbai </city>
+    <address>B(6 TO 8),  Mandapeshwar INDL. Premises  CO-OP. Society LTD., S.V.P. Road, Borivili(WEST), MUMBAI-400092. </address>
+    <contact>28926300 </contact>
     <micrCode>400112007</micrCode>
     <ifscCode>BCBM0000007</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Andheri(WEST) Branch</name>
-    <city>Mumbai</city>
-    <address>Gala No. 4-e, Laxmi Industrial Estate, Off.J.P. Road, (new Link Road) Andheri(WEST), Mumbai 400058</address>
-    <contact>2674 2234,2674 2235 </contact>
+    <name>Andheri(WEST) Branch </name>
+    <city>Mumbai </city>
+    <address>G-11 A&amp;b, Shalimar Morya Premises CO-OP. Society LTD., Swastik IND. Estate, Andheri(W), Andheri(WEST), Mumbai 400058. </address>
+    <contact>26742234 </contact>
     <micrCode>400112008</micrCode>
     <ifscCode>BCBM0000008</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Andheri(EAST) Branch</name>
-    <city>Mumbai</city>
-    <address>B-28, Mittal Industrial Estate, Sanjay Bldg. No.5, M. Vasanji Road Maorl, Andheri(EAST), Mumbai-400059</address>
-    <contact>6451 1798, 2850 4074 </contact>
+    <name>Andheri(EAST) Branch </name>
+    <city>Mumbai </city>
+    <address>6 &amp; 106, Town Centre, Near Mittal Industrial Estate, Andheri-kurla RD., Andheri(EAST), MUMBAI-400059. </address>
+    <contact>61890700 </contact>
     <micrCode>400112009</micrCode>
     <ifscCode>BCBM0000009</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatkopar Branch</name>
-    <city>Mumbai</city>
-    <address>103 To 106, Jyoti Chambers, 1st Floor, Junction Of J.V. Rd. &amp; Hirachand Desai Rd., Ghatkopar (WEST) Mumbai-400086</address>
-    <contact>2515 5347,2516 6908 </contact>
+    <name>Ghatkopar Branch </name>
+    <city>Mumbai </city>
+    <address>103 TO 106, Jyoti Chambers, 1ST Floor, Junction OF J.V. RD. &amp; Hirachand Desai RD., Ghatkopar (WEST) MUMBAI-400086. </address>
+    <contact>25155347 </contact>
     <micrCode>400112010</micrCode>
     <ifscCode>BCBM0000010</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dahisar Branch</name>
-    <city>Mumbai</city>
-    <address>102, &apos;sagar&apos;, Prabhat Indl. Estate, Before Check Naka, W.E. Highway, Dahisar (EAST), Mumbai-400068</address>
-    <contact>2896 3793,2896 1930 </contact>
+    <name>Dahisar Branch </name>
+    <city>Mumbai </city>
+    <address>Sarita II, 1ST Floor, Prabhat INDL. &amp; RES. Complex, OPP Toll Plaza, Dahisar (EAST), MUMBAI-400068. </address>
+    <contact>28963793 </contact>
     <micrCode>400112011</micrCode>
     <ifscCode>BCBM0000011</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kalina Branch</name>
-    <city>Mumbai</city>
-    <address>Geese Co-op.Housing Society Ltd. Opp. Vidyanagri University Complex, Kalina, Santacruz (EAST), Mumbai-400098</address>
-    <contact>2665 2258,2667 0822 </contact>
+    <name>Kalina Branch </name>
+    <city>Mumbai </city>
+    <address>Geese CO-OP.HOUSING Society LTD. OPP. Vidyanagri University Complex, Kalina, Santacruz (EAST), Mumbai-400098 </address>
+    <contact>26652258 </contact>
     <micrCode>400112012</micrCode>
     <ifscCode>BCBM0000012</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vile Parle Branch</name>
-    <city>Mumbai</city>
-    <address>Vireshwar Chambers, Next To Shaan Talkies, Opp.Parle Biscuit Company, Vile Parle (EAST), Mumbai-400057</address>
-    <contact>2616 9814, 2616 6583 </contact>
+    <name>Vile Parle Branch </name>
+    <city>Mumbai </city>
+    <address>First Floor, Suncity Theatres, OPP. Shaan Talkies, Mahatma Gandhi Road, Vile Parle (EAST), MUMBAI-400057. </address>
+    <contact>26169814 </contact>
     <micrCode>400112013</micrCode>
     <ifscCode>BCBM0000013</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bandra Branch</name>
-    <city>Mumbai</city>
-    <address>Nadabramha Mandir, Ground Floor,  Madhusudan Kalekar Marg. Kalanagar, Bandra (EAST) Mumbai-400051</address>
-    <contact>2659 0742 </contact>
+    <name>Bandra Branch </name>
+    <city>Mumbai </city>
+    <address>Nadabramha Mandir, Ground Floor,  Madhusudan Kalekar MARG. Kalanagar, Bandra (EAST) Mumbai-400051 </address>
+    <contact>26590742 </contact>
     <micrCode>400112014</micrCode>
     <ifscCode>BCBM0000014</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Govandi Branch</name>
-    <city>Mumbai</city>
-    <address>Sagar Apartment Shop No.1-6, Ground Floor, Station Road, Govandi Mumbai-400088</address>
-    <contact>2557 9505 </contact>
+    <name>Govandi Branch </name>
+    <city>Mumbai </city>
+    <address>Unit NO. 3 &amp; 5, Ground Floor, Vikrant Industrial Estate, Govandi MUMBAI-400088. </address>
+    <contact>25579505 </contact>
     <micrCode>400112015</micrCode>
     <ifscCode>BCBM0000015</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kandivli Branch</name>
-    <city>Mumbai</city>
-    <address>Balaji Arcade, Next To Bubna House, S.V. Road, Kandivili(WEST), Mumbai-400067</address>
-    <contact>2863 7020,2863 7059 </contact>
+    <name>Kandivli(WEST) Branch </name>
+    <city>Mumbai </city>
+    <address>First FLR. Nand Dham, M. G. Cross Road NO. 1, Kandivili West,mumbai 400067 </address>
+    <contact>28637020 </contact>
     <micrCode>400112016</micrCode>
     <ifscCode>BCBM0000016</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Thane Branch</name>
-    <city>Thane</city>
-    <address>360, Netaji Subhash Chandra Road, Opp. Nagrik Stores, Thane (WEST) 400601</address>
-    <contact>2537 6552,2537 8332 </contact>
+    <name>Thane Branch </name>
+    <city>Thane </city>
+    <address>Panama Planet 1ST Floor, OPP Amruta Hotel Gokhale Road, Naupada,thane (WEST) 401602 </address>
+    <contact>25376552 </contact>
     <micrCode>400112017</micrCode>
     <ifscCode>BCBM0000017</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Miraroad Branch</name>
-    <city>Thane</city>
-    <address>218, (a), A-wing, Shanti Commercial Complex, Mira Road, (EAST), Dist Thane 401107</address>
-    <contact>2810 6193 </contact>
+    <name>Miraroad Branch </name>
+    <city>Thane </city>
+    <address>218, (a), A-wing, Shanti Commercial Complex, Mira Road, (EAST), Dist Thane 401107. </address>
+    <contact>28106193 </contact>
     <micrCode>400112018</micrCode>
     <ifscCode>BCBM0000018</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhandup Village Road Branch</name>
-    <city>Mumbai</city>
-    <address>Sika Apartments, Oriental Compound, Village Road, Bhandup (WEST) Mumbai-400078</address>
-    <contact>2566 1386 </contact>
+    <name>Bhandup Village Road Branch </name>
+    <city>Mumbai </city>
+    <address>SAI Ashish, Sangeetkar Sudhir Phadke Margvillage Road, Bhandup (WEST) MUMBAI-400078. </address>
+    <contact>25661386 </contact>
     <micrCode>400112019</micrCode>
     <ifscCode>BCBM0000019</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vashi Branch</name>
-    <city>Mumbai</city>
-    <address>2,&apos;f&apos; Type Building,Sector 6, Vashi, Navi Mumbai-400703</address>
-    <contact>2782 4385 </contact>
+    <name>Vashi Branch </name>
+    <city>Mumbai </city>
+    <address>2,&apos;f&apos; Type Building,sector 6, Vashi, Navi MUMBAI-400703. </address>
+    <contact>27824385 </contact>
     <micrCode>400112020</micrCode>
     <ifscCode>BCBM0000020</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dombivli Branch</name>
-    <city>Dombivli</city>
-    <address>Vij Prabha Complex, Near Rly. Station, Patkar Road, Dombivili (EAST) 421201</address>
-    <contact>(95251) 2861 403 </contact>
+    <name>Dombivli Branch </name>
+    <city>Dombivli </city>
+    <address>GR. Floor, Neelkanth CHS LTD., Fateh ALI Road, Behind Kdmc Office, Dombivili (EAST) 421201. </address>
+    <contact>2861403 </contact>
     <micrCode>400112021</micrCode>
     <ifscCode>BCBM0000021</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>K.H. Road Branch</name>
-    <city>Bangalore</city>
-    <address>Money Terrace, K.H Road (double Road), Bangalore 560027</address>
-    <contact>(080) 229 1942 </contact>
+    <name>K.H. Road Branch </name>
+    <city>Bangalore </city>
+    <address>Money Terrace, K.H Road (double Road), Bangalore 560027. </address>
+    <contact>2291942 </contact>
     <micrCode>560112002</micrCode>
     <ifscCode>BCBM0000022</ifscCode>
-    <bankLoc>3056</bankLoc>
+    <bankLoc>6078</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Malleshwaram Branch</name>
-    <city>Bangalore</city>
-    <address>17, Victoria Road, Victoria Layout , Bangalore 560047</address>
-    <contact>(080) 233 47755 </contact>
+    <name>Malleshwaram Branch </name>
+    <city>Bangalore </city>
+    <address>SRI Nanjundeshwara Complex, NO. 16, 1ST Floor, 10th Cross, Sampige Road, Malleswaram, Bangalore 560003 </address>
+    <contact>23347755 </contact>
     <micrCode>560112003</micrCode>
     <ifscCode>BCBM0000023</ifscCode>
-    <bankLoc>3056</bankLoc>
+    <bankLoc>6078</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Indira Nagar Branch</name>
-    <city>Bangalore</city>
-    <address>Varspromenade, 1st Floor, 548, Chinmaya Mission Hospital Road, Indira Nagar, Bangalore 560038</address>
-    <contact>(080) 2528 1785 </contact>
+    <name>Indira Nagar Branch </name>
+    <city>Bangalore </city>
+    <address># 623, 11th Main, Hal, II Stage, 80 Feet Road, Indira Nagar, Bangalore 560038 </address>
+    <contact>2528 1785 </contact>
     <micrCode>560112004</micrCode>
     <ifscCode>BCBM0000024</ifscCode>
-    <bankLoc>3056</bankLoc>
+    <bankLoc>6078</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vasai Road Branch</name>
-    <city>Thane</city>
-    <address>Varun, 1st Floor, Plot No.8, Ambadi Main Road, Vasai (WEST), 401202, Dist Thane</address>
-    <contact>(95250) 2330 300 </contact>
+    <name>Vasai Road Branch </name>
+    <city>Thane </city>
+    <address>Varun, 1ST Floor, Plot NO.8, Ambadi Main Road, Vasai (WEST), 401202, Dist Thane </address>
+    <contact>330308 </contact>
     <micrCode>400112022</micrCode>
     <ifscCode>BCBM0000025</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Hampankatta Branch</name>
-    <city>Mangalore</city>
-    <address>Classique Arcade, K.S.Rao Road, Hampankatta , Managalore 575001</address>
-    <contact>(0824) 421 076 </contact>
+    <name>Hampankatta Branch </name>
+    <city>Mangalore </city>
+    <address>Classique Arcade, K.S.RAO Road, Hampankatta , Managalore 575001. </address>
+    <contact>421076 </contact>
     <micrCode>575112002</micrCode>
     <ifscCode>BCBM0000026</ifscCode>
-    <bankLoc>3059</bankLoc>
+    <bankLoc>6081</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhiwandi Branch</name>
-    <city>Thane</city>
-    <address>Nandan Arcade, 1st Floor Ashok Nagar , Agra Road, Bhiwandi-421302, Dist- Thane</address>
-    <contact>(952522) 220 444 </contact>
+    <name>Bhiwandi Branch </name>
+    <city>Thane </city>
+    <address>R.K.BUSINESS Centre, 1ST Flr, Near State Bank OF India, Agra Road, Bhiwandi-421302, Dist- THANE. </address>
+    <contact>220444 </contact>
     <micrCode>400112023</micrCode>
     <ifscCode>BCBM0000027</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Malad Branch</name>
-    <city>Mumbai</city>
-    <address>Monalisa Apartment , Kasturba Road, Malad (WEST), Mumbai-400064</address>
-    <contact>2880 3811 </contact>
+    <name>Malad Branch </name>
+    <city>Mumbai </city>
+    <address>Monalisa Apartment , Kasturba Road, Malad (WEST), MUMBAI-400064. </address>
+    <contact>28803811 </contact>
     <micrCode>400112024</micrCode>
     <ifscCode>BCBM0000028</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Santacruz Branch</name>
-    <city>Mumbai</city>
-    <address>Rizvi Park, S.V. Road, Santcruz(WEST), Mumbai-400054</address>
-    <contact>2614 1980, 2660 4465 </contact>
+    <name>Santacruz Branch </name>
+    <city>Mumbai </city>
+    <address>Rizvi Park, S.V. Road, Santcruz(WEST), MUMBAI-400054. </address>
+    <contact>26141980 </contact>
     <micrCode>400112025</micrCode>
     <ifscCode>BCBM0000029</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Lamington Road</name>
-    <city>Mumbai</city>
-    <address>251, Amir House, Lamington Road Mumbai-400007</address>
-    <contact>2309 0235 </contact>
+    <name>Lamington Road </name>
+    <city>Mumbai </city>
+    <address>GR. Flr, Apsara Cinema PVT Ltd, Dadasaheb Bhadkamkar Marg, Grant Road (EAST), MUMBAI-400007. </address>
+    <contact>23090235 </contact>
     <micrCode>400112026</micrCode>
     <ifscCode>BCBM0000030</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dadar Branch</name>
-    <city>Mumbai</city>
-    <address>Shop No.2 &amp; 3, Ground Floor, Priyadarshini Mahila Co-op Hsg. Ltd., Bhawani Shankar Road, Dadar (WEST) Mumbai-400028</address>
+    <name>Dadar Branch </name>
+    <city>Mumbai </city>
+    <address>Shop NO. 4 &amp; 5, Swapna Bhoomi, GR.FLOOR, S.K.BHOLE Road, Dadar (WEST) MUMBAI-400028. </address>
     <contact>2438 5155 </contact>
     <micrCode>400112027</micrCode>
     <ifscCode>BCBM0000031</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dhankawadi, Pune</name>
-    <city>Pune</city>
-    <address>Gr. Floor, Pancharatna Heights, Chaitanya Nagar, Pune-satara Road, Dhankawadi, Pune - 411043</address>
-    <contact>020-24362698/24362699 </contact>
+    <name>Dhankawadi, Pune </name>
+    <city>Pune </city>
+    <address>GR. Floor, Pancharatna Heights, Chaitanya Nagar, Pune-satara Road, Dhankawadi, Pune - 411043 </address>
+    <contact>24362698 </contact>
     <micrCode>411026252</micrCode>
     <ifscCode>BCBM0000032</ifscCode>
-    <bankLoc>3066</bankLoc>
+    <bankLoc>6088</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Udipi</name>
-    <city>Udipi</city>
-    <address>Ground Floor, Vasuki, Near Taluk Office, (behind District Court, Next To Vishwas Commercials), Udipi - 576 101</address>
-    <contact>0820 - 2525620 / 2525621 </contact>
+    <name>Udipi </name>
+    <city>Udipi </city>
+    <address>Ground Floor, Vasuki, Near Taluk Office, (behind District Court, Next TO Vishwas Commercials), Udipi - 576 101. </address>
+    <contact>2525620 </contact>
     <micrCode>576112002</micrCode>
     <ifscCode>BCBM0000033</ifscCode>
-    <bankLoc>3063</bankLoc>
+    <bankLoc>6085</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Panvel Branch</name>
-    <city>Mumbai</city>
-    <address>Shop No. 1, 2 &amp; 3 Gr. Floor, Shree Sahay Galaxy, Plot No. 205/74, Panvel - 410 206</address>
-    <contact>26857627/26857766 </contact>
+    <name>Panvel Branch </name>
+    <city>Mumbai </city>
+    <address>Shop NO. 1, 2 &amp; 3 GR. Floor, Shree Sahay Galaxy, Plot NO. 205/74, Panvel - 410 206 </address>
+    <contact>27492101 </contact>
     <micrCode>400112028</micrCode>
     <ifscCode>BCBM0000034</ifscCode>
-    <bankLoc>3067</bankLoc>
+    <bankLoc>6089</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jayanagar</name>
-    <city>Bangalore</city>
-    <address>Shiva Sadan, 9th Main Road, 5th Block, Jayanagar, Bangalore - 560 041</address>
-    <contact>26857627/26857766 </contact>
+    <name>Jayanagar </name>
+    <city>Bangalore </city>
+    <address>Shiva Sadan, 9TH Main Road, 5TH Block, Jayanagar, Bangalore - 560 041. </address>
+    <contact>22446030 </contact>
     <micrCode>560112005</micrCode>
     <ifscCode>BCBM0000035</ifscCode>
-    <bankLoc>3055</bankLoc>
+    <bankLoc>6077</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Suratkal</name>
-    <city>Suratkal</city>
-    <address>Veenu Complex, National Highway, Next To Natraj Theatre, Suratkal, Mangalore - 574158</address>
-    <contact>Shobha Dayanand               26857660/ 26857777 </contact>
-    <micrCode>NA</micrCode>
+    <name>Suratkal </name>
+    <city>Suratkal </city>
+    <address>Veenu Complex, National Highway, Next TO Natraj Theatre, Suratkal, Mangalore - 574158 </address>
+    <contact>2477076 </contact>
+    <micrCode>575112003</micrCode>
     <ifscCode>BCBM0000036</ifscCode>
-    <bankLoc>3060</bankLoc>
+    <bankLoc>6082</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jogeshwari (EAST)</name>
-    <city>Mumbai</city>
-    <address>Dinbhai Chs Ltd., Near Sbi, Caves Road, Jogeshwari (EAST), Mumbai 400 060</address>
-    <contact>28310527/28310547 </contact>
-    <micrCode>400112032</micrCode>
-    <ifscCode>BCBM0000040</ifscCode>
-    <bankLoc>3064</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kalyan</name>
-    <city>Kalyan</city>
-    <address>Ground Floor, Suchak Hospital Building, Agra Road, Kalyan 421301</address>
-    <contact>0251-2310011/2310021 </contact>
-    <micrCode>400112033</micrCode>
-    <ifscCode>BCBM0000041</ifscCode>
-    <bankLoc>3068</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Puttur Branch</name>
-    <city>Mangalore</city>
-    <address>Puttur Branch, Om Arcade 1-659a, Near Mayura Talkies, Bolvar, Puttur-574201, Dakshina Kannada</address>
-    <contact>08251-233241 08251-233242 </contact>
-    <micrCode>575112004</micrCode>
-    <ifscCode>BCBM0000042</ifscCode>
-    <bankLoc>3058</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kandivali (EAST)</name>
-    <city>Mumbai</city>
-    <address>4,Ground Floor,Svitland,Near Saidham, Nr Western Express Highway,Kandivali (E) Mumbai-400101</address>
-    <contact>28543356, 28543350 </contact>
-    <micrCode>400112034</micrCode>
-    <ifscCode>BCBM0000043</ifscCode>
-    <bankLoc>3064</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ghodbunder Road</name>
-    <city>Mumbai</city>
-    <address>Ground Floor &quot;display Shop C &quot; Solitaire Towers, Chitalsat, Manpada, Ghodbunder Road, Thane (W) 400 607</address>
-    <contact>25892531,25892540 </contact>
-    <micrCode>400112035</micrCode>
-    <ifscCode>BCBM0000044</ifscCode>
-    <bankLoc>3068</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pimpri Chinchwad</name>
-    <city>Pimpri Chinchwad</city>
-    <address>Shop No B/17 &amp; 18, Empire Estate, Chinchwad, Pune 411 019</address>
-    <contact>020-27443535,27443536 </contact>
-    <micrCode>411026265</micrCode>
-    <ifscCode>BCBM0000045</ifscCode>
-    <bankLoc>3066</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Peenya</name>
-    <city>Peenya</city>
-    <address>1st Cross,1st  Stage, Peenya Industrial  Estate, Bengaluru</address>
-    <contact>0802-8391995,8391996 </contact>
-    <micrCode>560112006</micrCode>
-    <ifscCode>BCBM0000046</ifscCode>
-    <bankLoc>3055</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Moodabidri</name>
-    <city>Moodabidri</city>
-    <address>Hotel Veenu Sky Plaza, Moodbidri Karkala Road, Tal Mangalore, Karnataka State 574227</address>
-    <contact>08258-238700, 238701 </contact>
-    <micrCode>575112005</micrCode>
-    <ifscCode>BCBM0000047</ifscCode>
-    <bankLoc>3061</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kalwa</name>
-    <city>Thane</city>
-    <address>Gr. Floor, Kaveri Heights, Old Bombay Pune Road, Kharegaon, Kalwa (WEST), Thane 400605</address>
-    <contact>25366238/25366239 </contact>
-    <micrCode>400112036</micrCode>
-    <ifscCode>BCBM0000048</ifscCode>
-    <bankLoc>3068</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Goregaon West</name>
-    <city>Mumbai</city>
-    <address>Shree Chintamani Chs Ltd., M. G. Road, Near Waman Hari Pethe Jewellers, Goregaon (WEST) Mumbai -62</address>
-    <contact>Shobha Dayanand 26857660/ 26857777 </contact>
-    <micrCode></micrCode>
+    <name>Goregaon West </name>
+    <city>Mumbai </city>
+    <address>Shree Chintamani CHS LTD., M. G. Road, Near Waman Hari Pethe Jewellers, Goregaon (WEST) Mumbai -62 </address>
+    <contact>65669501 </contact>
+    <micrCode>400112029</micrCode>
     <ifscCode>BCBM0000037</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bhayander (EAST)</name>
-    <city>Mumbai</city>
-    <address>Shop No. 5 &amp; 11, Anil Niwas, B. P. Road, Goddev Naka, Bhayander [east), Dist Thane – 401 101</address>
-    <contact>28152265/28152275 </contact>
+    <name>Bhayander (EAST) </name>
+    <city>Mumbai </city>
+    <address>Shop NO. 5 &amp; 11, Anil Niwas, B. P. Road, Goddev Naka, Bhayander [east), Dist Thane ?û 401 101. </address>
+    <contact>28152265 </contact>
     <micrCode>400112031</micrCode>
     <ifscCode>BCBM0000038</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghansoli</name>
-    <city>Navi Mumbai</city>
-    <address>Shiv Complex, Plot No.14/15, Sector-4, Ghansoli, Navi Mumbai 400 701</address>
-    <contact>27548341/27548342 </contact>
+    <name>Ghansoli </name>
+    <city>Navi Mumbai </city>
+    <address>Shiv Complex, Plot NO.14/15, Sector-4, Ghansoli, Navi Mumbai 400 701 </address>
+    <contact>27548341 </contact>
     <micrCode>400112030</micrCode>
     <ifscCode>BCBM0000039</ifscCode>
-    <bankLoc>3068</bankLoc>
+    <bankLoc>6090</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Karkala</name>
-    <city>Karkala</city>
-    <address>1st Floor, Sovereign Bldg., Opp. Mannagopura, A.S.Road, Karkala 574104</address>
-    <contact>08258-235780 / 235781 </contact>
+    <name>Jogeshwari (EAST) </name>
+    <city>Mumbai </city>
+    <address>Dinbhai CHS LTD., Near Sbi, Caves Road, Jogeshwari (EAST), Mumbai 400 060 </address>
+    <contact>28310527 </contact>
+    <micrCode>400112032</micrCode>
+    <ifscCode>BCBM0000040</ifscCode>
+    <bankLoc>6086</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalyan </name>
+    <city>Kalyan </city>
+    <address>Ground Floor, Suchak Hospital Building, Agra Road, Kalyan 421301 </address>
+    <contact>2310011 </contact>
+    <micrCode>400112033</micrCode>
+    <ifscCode>BCBM0000041</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Puttur Branch </name>
+    <city>Mangalore </city>
+    <address>OM Arcade 1-659a, Near Mayura Talkies, Bolvar, Puttur-574201, Dakshina KANNADA. </address>
+    <contact>233241 </contact>
+    <micrCode>575112004</micrCode>
+    <ifscCode>BCBM0000042</ifscCode>
+    <bankLoc>6080</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kandivali (EAST) </name>
+    <city>Mumbai </city>
+    <address>4,ground Floor,svitland,near Saidham, NR Western Express Highway,kandivali (E) Mumbai-400101 </address>
+    <contact>28543356 </contact>
+    <micrCode>400112034</micrCode>
+    <ifscCode>BCBM0000043</ifscCode>
+    <bankLoc>6086</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghodbunder Road </name>
+    <city>Mumbai </city>
+    <address>Ground Floor &quot;display Shop C &quot; Solitaire Towers, Chitalsat, Manpada, Ghodbunder Road, Thane (W) 400 607 </address>
+    <contact>25892531 </contact>
+    <micrCode>400112035</micrCode>
+    <ifscCode>BCBM0000044</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pimpri Chinchwad </name>
+    <city>Pimpri Chinchwad </city>
+    <address>Shop NO B/17 &amp; 18, Empire Estate, Chinchwad, Pune 411 019 </address>
+    <contact>27443535 </contact>
+    <micrCode>411026265</micrCode>
+    <ifscCode>BCBM0000045</ifscCode>
+    <bankLoc>6088</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Peenya </name>
+    <city>Peenya </city>
+    <address>1ST Cross,1st  Stage, Peenya Industrial  Estate, Bengaluru </address>
+    <contact>8391995 </contact>
+    <micrCode>560112006</micrCode>
+    <ifscCode>BCBM0000046</ifscCode>
+    <bankLoc>6077</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Moodabidri </name>
+    <city>Moodabidri </city>
+    <address>Hotel Veenu SKY Plaza, Moodbidri Karkala Road, TAL Mangalore, Karnataka State 574227 </address>
+    <contact>238700 </contact>
+    <micrCode>575112005</micrCode>
+    <ifscCode>BCBM0000047</ifscCode>
+    <bankLoc>6083</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalwa </name>
+    <city>Thane </city>
+    <address>GR. Floor, Kaveri Heights, OLD Bombay Pune Road, Kharegaon, Kalwa (WEST), Thane 400605 </address>
+    <contact>25366238 </contact>
+    <micrCode>400112036</micrCode>
+    <ifscCode>BCBM0000048</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karkala </name>
+    <city>Karkala </city>
+    <address>1ST Floor, Sovereign BLDG., OPP. Mannagopura, A.S.ROAD, Karkala 574104 </address>
+    <contact>235780 </contact>
     <micrCode>575112006</micrCode>
     <ifscCode>BCBM0000049</ifscCode>
-    <bankLoc>3062</bankLoc>
+    <bankLoc>6084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kundapura</name>
-    <city>Udupi</city>
-    <address>Veenu Complex, Main Raod, Near Bus Stand, Opp Canara Bank, Dist: Udupi, Karnataka State 576 201</address>
-    <contact>08254-234620/ 234621 </contact>
+    <name>Kundapura </name>
+    <city>Udupi </city>
+    <address>Veenu Complex, Main Raod, Near BUS Stand, OPP Canara Bank, Dist: Udupi, Karnataka State 576 201 </address>
+    <contact>234620 </contact>
     <micrCode>576112202</micrCode>
     <ifscCode>BCBM0000050</ifscCode>
-    <bankLoc>3062</bankLoc>
+    <bankLoc>6084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Buntwal</name>
-    <city>Bantval</city>
-    <address>Veenu Pundalik Enclave, Mittabail, Main Road,B.C Road, Bantwal, Dist- Dakshina Kannada, Karnataka State  574 219</address>
-    <contact>08255-230176/ 230184 </contact>
+    <name>Buntwal </name>
+    <city>Bantval </city>
+    <address>Trade Center, Main Road, B.C. Road, Bantwal, Dist- Dakshina Kannada, Karnataka State?á 574 219 </address>
+    <contact>230176 </contact>
     <micrCode>575112007</micrCode>
     <ifscCode>BCBM0000051</ifscCode>
-    <bankLoc>3057</bankLoc>
+    <bankLoc>6079</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nashik</name>
-    <city>Nashik</city>
-    <address>Ground Floor, Rushiraj Annex,D&apos;souza Colony,Opp. College Road, Nashik 422 005</address>
-    <contact>0253 2340455, 2340456 </contact>
+    <name>Nashik </name>
+    <city>Nashik </city>
+    <address>Ground Floor, Rushiraj Annex,d&apos;souza COLONY,OPP. College Road, Nashik 422 005 </address>
+    <contact>2340455 </contact>
     <micrCode>422112002</micrCode>
     <ifscCode>BCBM0000052</ifscCode>
-    <bankLoc>3065</bankLoc>
+    <bankLoc>6087</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mulund West</name>
-    <city>Mumbai</city>
-    <address>Ground Floor, Hansa Villa, J. N. Road, Near Apna Bazar, Mulund (WEST), Mumbai 400 080</address>
-    <contact>022 25646574, 25690574 </contact>
+    <name>Mulund West </name>
+    <city>Mumbai </city>
+    <address>Ground Floor, Hansa Villa, J. N. Road, Near Apna Bazar, Mulund (WEST), Mumbai 400 080 </address>
+    <contact>25646574 </contact>
     <micrCode>400112037</micrCode>
     <ifscCode>BCBM0000053</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mulki</name>
-    <city>Mulki</city>
-    <address>Shambhavi Complex, Near Bus Stand, Mulky 574154</address>
-    <contact>0824 2294001, 2294002 </contact>
+    <name>Mulki </name>
+    <city>Mulki </city>
+    <address>Shambhavi Complex, Near BUS Stand, Mulky 574154 </address>
+    <contact>2294001 </contact>
     <micrCode>575112008</micrCode>
     <ifscCode>BCBM0000054</ifscCode>
-    <bankLoc>3057</bankLoc>
+    <bankLoc>6079</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Dharavi West</name>
-    <city>Mumbai</city>
-    <address>Ground Floor, Gold Filled Plaza, Sion Bandra Link Road, Mumbai 400 017</address>
-    <contact>022-61890106, 61890107 </contact>
+    <name>Dharavi West </name>
+    <city>Mumbai </city>
+    <address>Ground Floor, Gold Filled Plaza, Sion Bandra Link Road, Mumbai 400 017 </address>
+    <contact>24023218 </contact>
     <micrCode>400112038</micrCode>
     <ifscCode>BCBM0000055</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kurla West</name>
-    <city>Mumbai</city>
-    <address>Ground Floor, Keshav Baug Chs Ltd., 170 Lbs Marg, Kurla West, Mumbai 400 070</address>
-    <contact>022-61890106, 61890107 </contact>
+    <name>Kurla West </name>
+    <city>Mumbai </city>
+    <address>Ground Floor, Keshav Baug CHS LTD., 170 LBS Marg, Kurla West, Mumbai 400 070 </address>
+    <contact>25039068 </contact>
     <micrCode>400112039</micrCode>
     <ifscCode>BCBM0000056</ifscCode>
-    <bankLoc>3064</bankLoc>
+    <bankLoc>6086</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Central Office</name>
-    <city>Mumbai</city>
-    <address>Marutagiri, Plot No 13/9a,Sonawala Road,Samant Wadi,Goregaon (E), Mumbai-400063</address>
-    <contact>022-61890106, 61890107 </contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BCBM0000999 </ifscCode>
-    <bankLoc>3064</bankLoc>
+    <name>Virar West </name>
+    <city>Thane </city>
+    <address>Unit 1-2, Poonam Kalpavruksh, Virat Nagar, Virar West, Thane 401303 </address>
+    <contact>2147483647 </contact>
+    <micrCode>400112040</micrCode>
+    <ifscCode>BCBM0000057</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ujire </name>
+    <city>Mangalore </city>
+    <address>Sairam Central, 1ST Floor, Belal Cross, Ujire, DIST. Dakshina Kannada 574240 </address>
+    <contact>2147483647 </contact>
+    <micrCode>575112009</micrCode>
+    <ifscCode>BCBM0000058</ifscCode>
+    <bankLoc>6079</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kankanady </name>
+    <city>Mangalore </city>
+    <address>Exotica, GR. Floor, Balmatta Road, Kankanady, Mangalore DIST. Dakshina Kannada 575002. </address>
+    <contact>2147483647 </contact>
+    <micrCode>575112010</micrCode>
+    <ifscCode>BCBM0000059</ifscCode>
+    <bankLoc>6079</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Wadala </name>
+    <city>Mumbai </city>
+    <address>Shop NO 2,3 &amp; 4, GR Flr, Shree Krishna Gyan Mandir Patshala BLDG., Station RD, Wadala, Mumbai 400031 </address>
+    <contact>2147483647 </contact>
+    <micrCode>400112041</micrCode>
+    <ifscCode>BCBM0000060</ifscCode>
+    <bankLoc>6086</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nerul </name>
+    <city>Navi Mumbai </city>
+    <address>Shop NO 22, 23 AND 24, Krishna Kamal Chs, Sector 21, Nerul, Navi Mumbai 400706. </address>
+    <contact>61890107 </contact>
+    <micrCode>400112042</micrCode>
+    <ifscCode>BCBM0000061</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anjur Phata Bhiwandi </name>
+    <city>Thane </city>
+    <address>First Floor, Navkar Heights A, Anjur Phata, TAL Bhiwandi, Thane 421302 </address>
+    <contact>61890107 </contact>
+    <micrCode>400112043</micrCode>
+    <ifscCode>BCBM0000062</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nallasopara West </name>
+    <city>Thane </city>
+    <address>102,103,104 NEW Patankar CHS LTD., Nilemore, Nallasopara West, Thane 401203 </address>
+    <contact>61890107 </contact>
+    <micrCode>400112044</micrCode>
+    <ifscCode>BCBM0000063</ifscCode>
+    <bankLoc>6090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koparkhairne </name>
+    <city>Navi Mumbai </city>
+    <address>Shubham BLDG., Shop NO. 3 AND 4, Plot 77, SEC 18, Koparkhairne, Navimumbai 400709 </address>
+    <contact>61890107 </contact>
+    <micrCode>400112045</micrCode>
+    <ifscCode>BCBM0000064</ifscCode>
+    <bankLoc>6086</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lonavala </name>
+    <city>Pune </city>
+    <address>Ground Floor,agarwal Bldg,78 G Ward,bhaji Market Road,lonavala Dist Pune </address>
+    <contact>61890107 </contact>
+    <micrCode>410112002</micrCode>
+    <ifscCode>BCBM0000065</ifscCode>
+    <bankLoc>6088</bankLoc>
   </bankbranch>
 </bankBranchs>

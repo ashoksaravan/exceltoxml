@@ -177,6 +177,10 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Woori Bank");
 		BANK_NAMES.add("Yes Bank Ltd");
 		BANK_NAMES.add("Zila Sahkari Bank Ltd. Ghaziabad");
+		BANK_NAMES.add("Bharatiya Mahila Bank Ltd");
+		BANK_NAMES.add("Kerala Gramin Bank");
+		BANK_NAMES.add("Pragathi Krishna Gramin Bank");
+		BANK_NAMES.add("The Kangra Central Co-Operative Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {

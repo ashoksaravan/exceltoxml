@@ -1,44 +1,47 @@
 <bankBranchs>
   <bankbranch>
-    <name>Chennai Branch</name>
-    <city>Chennai</city>
-    <address>6th Floor, Venkatramana Centre,
-563/2, Anna Salai, Teynampet,
-chennai-600 018</address>
-    <contact></contact>
-    <micrCode>600033001</micrCode>
+    <name>Bangalore </name>
+    <city>Bangalore </city>
+    <address>World Trade Center,brigade Gateway Campus,26 BY 1,DR.RAJKUMAR Road,malleshwaram West,bangalore </address>
+    <contact>6758000 </contact>
+    <micrCode>560033002</micrCode>
+    <ifscCode>BOTM0BL3626</ifscCode>
+    <bankLoc>6068</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Branch </name>
+    <city>Chennai </city>
+    <address>Seshachalam Centre, 6TH AND 7TH Floor Door NO. 636 BY 1, Anna Salai Nandanam Chennai 600035 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>BOTM0CN3615</ifscCode>
-    <bankLoc>3050</bankLoc>
+    <bankLoc>6071</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbai Branch</name>
-    <city>Mumbai</city>
-    <address>15th Floor, Hoechst House, 193,
-vinay K. Shah Marg
-backbay Reclamation, Nariman Point,
-mumbai - 400 021</address>
-    <contact></contact>
-    <micrCode>400033001</micrCode>
+    <name>Mumbai </name>
+    <city>Mumbai </city>
+    <address>Hoechst House,15th Floor,vinay K Shah Marg,nariman Point,mumbai 400 005 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>BOTM0MB3612</ifscCode>
-    <bankLoc>3048</bankLoc>
+    <bankLoc>6069</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>New Delhi Branch</name>
-    <city>Delhi</city>
-    <address>Jeevan Vihar Building,  3, Parliament Street,
-new Delhi - 110 001</address>
-    <contact></contact>
-    <micrCode>110033001</micrCode>
+    <name>NEW Delhi Branch </name>
+    <city>NEW Delhi </city>
+    <address>3, Parliament Street, Jeevan Vihar Building, NEW Delhi- 110001 </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>BOTM0ND3611</ifscCode>
-    <bankLoc>3047</bankLoc>
+    <bankLoc>6067</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Neemrana</name>
-    <city>Neemrana</city>
-    <address>G47, Industrial Area, Neemrana, Tehsil Behrod, Distt. Alwar 301705, Rajasthan</address>
-    <contact>09810730151, 01494246223, 01494246224 </contact>
-    <micrCode>301033025</micrCode>
+    <name>Neemrana </name>
+    <city>Alwar </city>
+    <address>G47,industrial Area,neemrana,tehsil BEHROD,DISTT.ALWAR 301705,rajasthan </address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
     <ifscCode>BOTM0NEEMRA</ifscCode>
-    <bankLoc>3049</bankLoc>
+    <bankLoc>6070</bankLoc>
   </bankbranch>
 </bankBranchs>
