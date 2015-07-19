@@ -1,0 +1,29 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Rtgs-ho </name>
+    <city>Mumbai </city>
+    <address>GR.FLOOR, Sakhar Bhavan, Nariman Point,40021 </address>
+    <contact>33941133 </contact>
+    <micrCode>400234252</micrCode>
+    <ifscCode>DOHB0000001</ifscCode>
+    <bankLoc>8861</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raheja Center </name>
+    <city>Mumbai </city>
+    <address>201,raheja Center, Free Press Marg, Nariman Point,mumbai 400021 </address>
+    <contact>33941120 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DOHB0000002</ifscCode>
+    <bankLoc>8861</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kochi </name>
+    <city>Kochi </city>
+    <address>1ST Floor, Golden Plaza, Chittoor Road, OPP Mymoon Theater, Ernakulam, Kochi 682018 </address>
+    <contact>2370507 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DOHB0000003</ifscCode>
+    <bankLoc>8860</bankLoc>
+  </bankbranch>
+</bankBranchs>

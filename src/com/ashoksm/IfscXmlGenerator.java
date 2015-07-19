@@ -29,7 +29,7 @@ public class IfscXmlGenerator {
 		loadBankAddMap(args[0]);
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
-			if (!bank.getName().equals("BankNames.xls") && !bank.getName().equals("BankBranchAddress.xls")) {
+			if (!bank.getName().equals("BankNames.xls") && !bank.getName().startsWith("BankBranchAddress")) {
 				System.out.println("***** " + bank.getName() + " *****");
 				List<BankBranch> bankBranchs = new ArrayList<BankBranch>();
 				bankBranchs.addAll(buildBanks(bank));
@@ -42,7 +42,7 @@ public class IfscXmlGenerator {
 	}
 
 	private static void loadBankAddMap(String loc) throws Exception {
-		File bankAddFile = new File(loc + "/BankBranchAddress.xls");
+		File bankAddFile = new File(loc + "/BankBranchAddress_1.xls");
 		FileInputStream file = new FileInputStream(bankAddFile);
 		// Get the workbook instance for XLS file
 		HSSFWorkbook workbook = new HSSFWorkbook(file);
@@ -56,7 +56,7 @@ public class IfscXmlGenerator {
 				String key = row.getCell(1).getStringCellValue().replaceAll(" ", "")
 						+ row.getCell(3).getStringCellValue() + row.getCell(2).getStringCellValue();
 				Double value = row.getCell(0).getNumericCellValue();
-				bankAddMap.put(key, value.intValue());
+				bankAddMap.put(key.toLowerCase(), value.intValue());
 			}
 		}
 	}
@@ -114,7 +114,7 @@ public class IfscXmlGenerator {
 				bankBranch.setMicrCode(cellValue);
 			} else if ("IFSC Code:".equalsIgnoreCase(cellHeader)) {
 				bankBranch.setIfscCode(cellValue);
-				bankBranch.setBankLoc(bankAddMap.get(key));
+				bankBranch.setBankLoc(bankAddMap.get(key.toLowerCase()));
 			} else if ("District:".equalsIgnoreCase(cellHeader)) {
 				key = bankFile.getName().substring(0, bankFile.getName().lastIndexOf("."));
 				if (key.endsWith("0") || key.endsWith("1") || key.endsWith("2") || key.endsWith("3")) {

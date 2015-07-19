@@ -44,12 +44,12 @@ public class IfscXmlTOSQLConverter {
 						System.out.println(loc);
 					}
 				} catch (Exception ex) {
-					ex.printStackTrace();
-					System.out.println("In exception ::::: " + bankBranch.getName());
-				}
-				if (line != null) {
-					writer.write(line);
-					writer.newLine();
+					throw new Exception("In exception ::::: " + bankBranch.getName(), ex);
+				} finally {
+					if (line != null) {
+						writer.write(line);
+						writer.newLine();
+					}
 				}
 			}
 			writer.flush();

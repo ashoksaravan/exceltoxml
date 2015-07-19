@@ -47,7 +47,7 @@ public class IFSCDataCorrection {
 					continue;
 				}
 				if (bankName == null) {
-					bankName = row.getCell(0).getStringCellValue().replaceAll(" ", "").toLowerCase().trim();
+					bankName = formatBankName(getCellValue(row, 0)).replaceAll(" ", "").trim();
 				}
 				HSSFRow ifscRow = sheetNew.createRow(row.getRowNum());
 				ifscRow.createCell(0).setCellValue(getCellValue(row, 1));
@@ -94,7 +94,7 @@ public class IFSCDataCorrection {
 					String formated = null;
 					if (cat.contains("@")) {
 						formated = cat.toLowerCase();
-					} else if(!cat.equals("P.O.") && cat.length() > 3 && !cat.contains(".")) {
+					} else if (!cat.equals("P.O.") && cat.length() > 3 && !cat.contains(".")) {
 						formated = StringUtils.capitalize(cat.toLowerCase());
 					} else {
 						formated = cat;
@@ -113,5 +113,20 @@ public class IFSCDataCorrection {
 		} else {
 			return orginal.toUpperCase();
 		}
+	}
+
+	private static String formatBankName(String orginal) {
+		String[] temp = orginal.split(" ");
+		StringBuffer sb = new StringBuffer();
+		for (String cat : temp) {
+			if ("Cooperative".equalsIgnoreCase(cat)) {
+				sb.append("Co-Op");
+			} else if ("Limited".equalsIgnoreCase(cat)) {
+				sb.append("Ltd");
+			} else {
+				sb.append(StringUtils.capitalize(cat.toLowerCase()));
+			}
+		}
+		return sb.toString();
 	}
 }
