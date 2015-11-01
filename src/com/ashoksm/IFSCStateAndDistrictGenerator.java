@@ -31,6 +31,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Apna Sahakari Bank Ltd");
 		BANK_NAMES.add("Australia And New Zealand Banking Group Ltd");
 		BANK_NAMES.add("Axis Bank");
+		BANK_NAMES.add("Bandhan Bank Ltd");
 		BANK_NAMES.add("Bank Internasional Indonesia");
 		BANK_NAMES.add("Bank Of America");
 		BANK_NAMES.add("Bank Of Bahrain And Kuwait BSC");
@@ -76,6 +77,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Hsbc Bank Oman Saog");
 		BANK_NAMES.add("Icici Bank Ltd");
 		BANK_NAMES.add("Idbi Bank");
+		BANK_NAMES.add("IDFC Bank Ltd");
 		BANK_NAMES.add("Indian Bank");
 		BANK_NAMES.add("Indian Overseas Bank");
 		BANK_NAMES.add("Indusind Bank");
@@ -150,7 +152,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("The Tamilnadu State Apex Co-Op Bank");
 		BANK_NAMES.add("The Thane Bharat Sahakari Bank Ltd");
 		BANK_NAMES.add("The Thane District Central Co-Op Bank Ltd");
-		BANK_NAMES.add("Thane Janata Sahakari Bank Ltd");
+		BANK_NAMES.add("TJSB Sahakari Bank Ltd");
 		BANK_NAMES.add("The A.P. Mahesh Co-Op Urban Bank Ltd");
 		BANK_NAMES.add("The Akola District Central Co-Op Bank");
 		BANK_NAMES.add("Akola Janata Commercial Co-Op Bank");
@@ -189,6 +191,8 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Bharatiya Mahila Bank Ltd");
 		BANK_NAMES.add("Kerala Gramin Bank");
 		BANK_NAMES.add("Pragathi Krishna Gramin Bank");
+		BANK_NAMES.add("Surat National Co-Op Bank Ltd");
+		BANK_NAMES.add("The HASTI Co-Op Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {

@@ -6,7 +6,7 @@
     <contact>22886638 </contact>
     <micrCode>400694002</micrCode>
     <ifscCode>MHCB0000002</ifscCode>
-    <bankLoc>13334</bankLoc>
+    <bankLoc>13696</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho </name>
@@ -15,7 +15,7 @@
     <contact>22886638 </contact>
     <micrCode>400694002</micrCode>
     <ifscCode>MHCB0000532</ifscCode>
-    <bankLoc>13334</bankLoc>
+    <bankLoc>13696</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devanahalli </name>
@@ -24,7 +24,7 @@
     <contact>30807304 </contact>
     <micrCode>560017251</micrCode>
     <ifscCode>MHCB0000716</ifscCode>
-    <bankLoc>13333</bankLoc>
+    <bankLoc>13695</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai </name>
@@ -33,7 +33,16 @@
     <contact>42986648 </contact>
     <micrCode>600694002</micrCode>
     <ifscCode>MHCB0000717</ifscCode>
-    <bankLoc>13335</bankLoc>
+    <bankLoc>13697</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmedabad Branch </name>
+    <city>Ahmedabad </city>
+    <address>Mizuho Bank, LTD., NO. 402, 4TH Floor, Commerce House-5, NR. Vodafone House, Prahaladnagar Corporate RD.,AHMEDABAD-380051 </address>
+    <contact>49112047 </contact>
+    <micrCode>380694002</micrCode>
+    <ifscCode>MHCB0000718</ifscCode>
+    <bankLoc>13694</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Branch </name>
@@ -42,6 +51,6 @@
     <contact>30410900 </contact>
     <micrCode>100694002</micrCode>
     <ifscCode>MHCB0000793</ifscCode>
-    <bankLoc>13332</bankLoc>
+    <bankLoc>13693</bankLoc>
   </bankbranch>
 </bankBranchs>
