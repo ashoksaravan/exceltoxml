@@ -82,6 +82,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Indian Overseas Bank");
 		BANK_NAMES.add("Indusind Bank");
 		BANK_NAMES.add("Industrial and Commercial Bank of China Ltd");
+		BANK_NAMES.add("Industrial Bank of Korea");
 		BANK_NAMES.add("Ing Vysya Bank");
 		BANK_NAMES.add("Jalgaon Janata Sahkari Bank Ltd");
 		BANK_NAMES.add("Jammu And Kashmir Bank Ltd");

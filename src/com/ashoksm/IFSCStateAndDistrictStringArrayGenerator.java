@@ -80,6 +80,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Indian Overseas Bank");
 		BANK_NAMES.add("Indusind Bank");
 		BANK_NAMES.add("Industrial and Commercial Bank of China Ltd");
+		BANK_NAMES.add("Industrial Bank of Korea");
 		BANK_NAMES.add("Ing Vysya Bank");
 		BANK_NAMES.add("Jalgaon Janata Sahkari Bank Ltd");
 		BANK_NAMES.add("Jammu And Kashmir Bank Ltd");
@@ -260,9 +261,9 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 				String districtBankWise = "<string-array name=" + '"'
 						+ bankName.toLowerCase().replace('.', ' ').replaceAll(" ", "").replaceAll("-", "_") + "_"
 						+ stateName.toLowerCase().replaceAll(" ", "") + "_districts" + '"' + ">\n";
-				stateBankWise = stateBankWise + "<item>" + stateName + "</item>\n";
+				stateBankWise = stateBankWise + "<item>" + stateName.trim() + "</item>\n";
 				for (String districtName : district.getValue()) {
-					districtBankWise = districtBankWise + "<item>" + districtName.replaceAll("&", "&amp;")
+					districtBankWise = districtBankWise + "<item>" + districtName.trim().replaceAll("&", "&amp;")
 							+ "</item>\n";
 				}
 				districtBankWise = districtBankWise + "</string-array>";
