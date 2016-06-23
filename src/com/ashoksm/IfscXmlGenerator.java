@@ -107,9 +107,9 @@ public class IfscXmlGenerator {
 			if ("City:".equalsIgnoreCase(cellHeader)) {
 				bankBranch.setCity(cellValue);
 			} else if ("Address:".equalsIgnoreCase(cellHeader)) {
-				bankBranch.setContact(cellValue);
-			} else if ("Contact:".equalsIgnoreCase(cellHeader)) {
 				bankBranch.setAddress(cellValue);
+			} else if ("Contact:".equalsIgnoreCase(cellHeader)) {
+				bankBranch.setContact(cellValue);
 			} else if ("MICR Code:".equalsIgnoreCase(cellHeader)) {
 				bankBranch.setMicrCode(cellValue);
 			} else if ("IFSC Code:".equalsIgnoreCase(cellHeader)) {

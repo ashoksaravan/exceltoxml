@@ -107,6 +107,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Mizuho Corporate Bank Ltd");
 		BANK_NAMES.add("The Mumbai District Central Co-Op Bank Ltd");
 		BANK_NAMES.add("Nagar Urban Co-Op Bank");
+		BANK_NAMES.add("National Bank of Abu Dhabi PJSC");
 		BANK_NAMES.add("Nagpur Nagarik Sahakari Bank Ltd");
 		BANK_NAMES.add("The Nainital Bank Ltd");
 		BANK_NAMES.add("National Australia Bank Ltd");
@@ -125,7 +126,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Rabobank International");
 		BANK_NAMES.add("Rajgurunagar Sahakari Bank Ltd");
 		BANK_NAMES.add("Rajkot Nagarik Sahakari Bank Ltd");
-		BANK_NAMES.add("Ratnakar Bank Ltd");
+		BANK_NAMES.add("RBL Bank Ltd");
 		BANK_NAMES.add("Reserve Bank Of India");
 		BANK_NAMES.add("The Royal Bank Of Scotland");
 		BANK_NAMES.add("Saraswat Co-Op Bank Ltd");
@@ -192,6 +193,11 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Pragathi Krishna Gramin Bank");
 		BANK_NAMES.add("Surat National Co-Op Bank Ltd");
 		BANK_NAMES.add("The HASTI Co-Op Bank Ltd");
+		BANK_NAMES.add("KEB Hana Bank");
+		BANK_NAMES.add("Samarth Sahakari Bank Ltd");
+		BANK_NAMES.add("SBM Bank Mauritius Ltd");
+		BANK_NAMES.add("Shivalik Mercantile Co Operative Bank Ltd");
+		BANK_NAMES.add("The Pandharpur Urban Co Op. Bank Ltd. Pandharpur");
 	}
 
 	public static void main(String[] args) throws Exception {

@@ -1,21 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Service Centre </name>
-    <city>Kolkata </city>
-    <address>Dn-32,sector -v,salt Lake City,kolkata,west Bengal,pin -700091 </address>
-    <contact>66090909 </contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BDBL00000SC</ifscCode>
-    <bankLoc>1919</bankLoc>
-  </bankbranch>
-  <bankbranch>
     <name>HO Accounts </name>
     <city>Kolkata </city>
     <address>Dn-32,sector -v,salt Lake City,kolkata,west Bengal,pin -700091 </address>
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001000</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Treasury </name>
@@ -24,7 +15,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001001</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CPU </name>
@@ -33,7 +24,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001002</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salt Lake Sector V DN </name>
@@ -42,7 +33,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750064</micrCode>
     <ifscCode>BDBL0001011</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barasat </name>
@@ -51,7 +42,16 @@
     <contact>2147483647 </contact>
     <micrCode>700750010</micrCode>
     <ifscCode>BDBL0001012</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aurangabad </name>
+    <city>Pune </city>
+    <address>Plot NO.4,YESHWANT CO Operative Society,near Pawan GAS Agencies,new Osmanpura,aurangabad,maharashtra,pin 431005 </address>
+    <contact>66090909 </contact>
+    <micrCode>431750002</micrCode>
+    <ifscCode>BDBL0001013</ifscCode>
+    <bankLoc>1882</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Akra Fatak </name>
@@ -60,7 +60,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750002</micrCode>
     <ifscCode>BDBL0001014</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonarpur </name>
@@ -69,7 +69,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750071</micrCode>
     <ifscCode>BDBL0001015</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Garia </name>
@@ -78,7 +78,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750058</micrCode>
     <ifscCode>BDBL0001016</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malkapur Karad </name>
@@ -87,7 +87,7 @@
     <contact>66090909 </contact>
     <micrCode>415750352</micrCode>
     <ifscCode>BDBL0001017</ifscCode>
-    <bankLoc>1845</bankLoc>
+    <bankLoc>1891</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Konnagar </name>
@@ -96,7 +96,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750047</micrCode>
     <ifscCode>BDBL0001018</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sanpuipara Basukati </name>
@@ -105,7 +105,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750065</micrCode>
     <ifscCode>BDBL0001019</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhyamgram </name>
@@ -114,7 +114,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750049</micrCode>
     <ifscCode>BDBL0001020</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narayanpur </name>
@@ -123,7 +123,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750055</micrCode>
     <ifscCode>BDBL0001021</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kankurgachi </name>
@@ -132,7 +132,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750043</micrCode>
     <ifscCode>BDBL0001022</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasba </name>
@@ -141,7 +141,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750044</micrCode>
     <ifscCode>BDBL0001023</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Habra </name>
@@ -150,7 +150,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750038</micrCode>
     <ifscCode>BDBL0001024</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangamner </name>
@@ -159,7 +159,7 @@
     <contact>66090909 </contact>
     <micrCode>422750201</micrCode>
     <ifscCode>BDBL0001025</ifscCode>
-    <bankLoc>1837</bankLoc>
+    <bankLoc>1881</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Asansol </name>
@@ -168,7 +168,16 @@
     <contact>2147483647 </contact>
     <micrCode>713750002</micrCode>
     <ifscCode>BDBL0001026</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baruipur </name>
+    <city>Kolkata </city>
+    <address>104 A,kulpi Road,baruipur,kolkata,west Bengal,pin 700144 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750085</micrCode>
+    <ifscCode>BDBL0001027</ifscCode>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajpur </name>
@@ -177,7 +186,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001028</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sekati </name>
@@ -186,7 +195,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750505</micrCode>
     <ifscCode>BDBL0001029</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhubaneswar </name>
@@ -195,7 +204,7 @@
     <contact>66090909 </contact>
     <micrCode>751750003</micrCode>
     <ifscCode>BDBL0001030</ifscCode>
-    <bankLoc>1856</bankLoc>
+    <bankLoc>1902</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uttarpara </name>
@@ -204,7 +213,7 @@
     <contact>983002330 </contact>
     <micrCode>700750078</micrCode>
     <ifscCode>BDBL0001031</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Serampore </name>
@@ -213,7 +222,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750069</micrCode>
     <ifscCode>BDBL0001032</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gopinagar </name>
@@ -222,7 +231,7 @@
     <contact>66090909 </contact>
     <micrCode>712750603</micrCode>
     <ifscCode>BDBL0001033</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baghadari </name>
@@ -231,7 +240,16 @@
     <contact>2147483647 </contact>
     <micrCode>721750801</micrCode>
     <ifscCode>BDBL0001034</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Puri </name>
+    <city>Puri </city>
+    <address>PLOT.NO.41,NEAR Pkda Office,vip ROAD,P.O.PURI,ORISSA,PIN 752001 </address>
+    <contact>66090909 </contact>
+    <micrCode>752750002</micrCode>
+    <ifscCode>BDBL0001035</ifscCode>
+    <bankLoc>1904</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keotosha </name>
@@ -240,7 +258,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750502</micrCode>
     <ifscCode>BDBL0001036</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dongaria </name>
@@ -249,7 +267,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750030</micrCode>
     <ifscCode>BDBL0001037</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deganga </name>
@@ -258,7 +276,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750027</micrCode>
     <ifscCode>BDBL0001038</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Englishbazar </name>
@@ -267,7 +285,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750102</micrCode>
     <ifscCode>BDBL0001039</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Simhat </name>
@@ -276,7 +294,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750605</micrCode>
     <ifscCode>BDBL0001040</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narikelbar </name>
@@ -285,7 +303,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750056</micrCode>
     <ifscCode>BDBL0001041</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarapul </name>
@@ -294,7 +312,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750504</micrCode>
     <ifscCode>BDBL0001042</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhagawanpur </name>
@@ -303,7 +321,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750701</micrCode>
     <ifscCode>BDBL0001043</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Midnapur </name>
@@ -312,7 +330,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750302</micrCode>
     <ifscCode>BDBL0001044</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Makuli </name>
@@ -321,7 +339,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750506</micrCode>
     <ifscCode>BDBL0001045</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panitanki </name>
@@ -330,7 +348,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750604</micrCode>
     <ifscCode>BDBL0001046</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Berhampore </name>
@@ -339,7 +357,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750002</micrCode>
     <ifscCode>BDBL0001047</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadubari </name>
@@ -348,7 +366,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750504</micrCode>
     <ifscCode>BDBL0001048</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hajrapota </name>
@@ -357,7 +375,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750502</micrCode>
     <ifscCode>BDBL0001049</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naldugari </name>
@@ -366,7 +384,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750503</micrCode>
     <ifscCode>BDBL0001050</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basirhat </name>
@@ -375,7 +393,7 @@
     <contact>66090909 </contact>
     <micrCode>743750501</micrCode>
     <ifscCode>BDBL0001051</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kutipara </name>
@@ -384,7 +402,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750701</micrCode>
     <ifscCode>BDBL0001052</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Simulia </name>
@@ -393,7 +411,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750506</micrCode>
     <ifscCode>BDBL0001053</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purba Jagananandapur </name>
@@ -402,7 +420,7 @@
     <contact>965313336 </contact>
     <micrCode>741750504</micrCode>
     <ifscCode>BDBL0001054</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ganti </name>
@@ -411,7 +429,7 @@
     <contact>2147483647 </contact>
     <micrCode>722750501</micrCode>
     <ifscCode>BDBL0001055</ifscCode>
-    <bankLoc>1906</bankLoc>
+    <bankLoc>1963</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chamrail </name>
@@ -420,7 +438,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750021</micrCode>
     <ifscCode>BDBL0001056</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sharrang </name>
@@ -429,7 +447,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750051</micrCode>
     <ifscCode>BDBL0001057</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajapur </name>
@@ -438,7 +456,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750060</micrCode>
     <ifscCode>BDBL0001058</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uttar Gardaha </name>
@@ -447,7 +465,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750077</micrCode>
     <ifscCode>BDBL0001059</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ganak Bandhi </name>
@@ -456,7 +474,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750803</micrCode>
     <ifscCode>BDBL0001060</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mirbazar </name>
@@ -465,7 +483,7 @@
     <contact>66090909 </contact>
     <micrCode>700750051</micrCode>
     <ifscCode>BDBL0001061</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonatala </name>
@@ -474,7 +492,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750606</micrCode>
     <ifscCode>BDBL0001062</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bagnan </name>
@@ -483,7 +501,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750006</micrCode>
     <ifscCode>BDBL0001063</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasimpur </name>
@@ -492,7 +510,7 @@
     <contact>956333720 </contact>
     <micrCode>733750605</micrCode>
     <ifscCode>BDBL0001064</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarbera </name>
@@ -501,7 +519,7 @@
     <contact>983608335 </contact>
     <micrCode>721750807</micrCode>
     <ifscCode>BDBL0001065</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pamlia </name>
@@ -510,7 +528,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750603</micrCode>
     <ifscCode>BDBL0001066</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurdha </name>
@@ -519,7 +537,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750501</micrCode>
     <ifscCode>BDBL0001067</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bejuar </name>
@@ -528,7 +546,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750601</micrCode>
     <ifscCode>BDBL0001068</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guzarpur, Ghoshpara </name>
@@ -537,7 +555,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750037</micrCode>
     <ifscCode>BDBL0001069</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ratanpur </name>
@@ -546,7 +564,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750609</micrCode>
     <ifscCode>BDBL0001070</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barasat Champadali More </name>
@@ -555,7 +573,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750011</micrCode>
     <ifscCode>BDBL0001071</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balarambati </name>
@@ -564,7 +582,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750601</micrCode>
     <ifscCode>BDBL0001072</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chak Kanthalia </name>
@@ -573,7 +591,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750020</micrCode>
     <ifscCode>BDBL0001073</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Natna </name>
@@ -582,7 +600,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750503</micrCode>
     <ifscCode>BDBL0001074</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kamlai </name>
@@ -591,7 +609,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750604</micrCode>
     <ifscCode>BDBL0001075</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Porsa </name>
@@ -600,7 +618,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750607</micrCode>
     <ifscCode>BDBL0001076</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhaktinagar </name>
@@ -609,7 +627,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750601</micrCode>
     <ifscCode>BDBL0001077</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dubrajpur </name>
@@ -618,7 +636,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750802</micrCode>
     <ifscCode>BDBL0001078</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kantabon </name>
@@ -627,7 +645,7 @@
     <contact>2147483647 </contact>
     <micrCode>722750502</micrCode>
     <ifscCode>BDBL0001079</ifscCode>
-    <bankLoc>1906</bankLoc>
+    <bankLoc>1963</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangur Avenue </name>
@@ -636,7 +654,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750008</micrCode>
     <ifscCode>BDBL0001080</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Joynagar </name>
@@ -645,7 +663,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750040</micrCode>
     <ifscCode>BDBL0001081</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nalpukur Baganati </name>
@@ -654,7 +672,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750054</micrCode>
     <ifscCode>BDBL0001082</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamsedpur </name>
@@ -663,7 +681,7 @@
     <contact>2147483647 </contact>
     <micrCode>831750002</micrCode>
     <ifscCode>BDBL0001083</ifscCode>
-    <bankLoc>1808</bankLoc>
+    <bankLoc>1849</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rudel </name>
@@ -672,7 +690,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750610</micrCode>
     <ifscCode>BDBL0001084</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangapur </name>
@@ -681,7 +699,7 @@
     <contact>2147483647 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001085</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Diamond Harbour </name>
@@ -690,7 +708,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750028</micrCode>
     <ifscCode>BDBL0001086</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nabadwip </name>
@@ -699,7 +717,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750302</micrCode>
     <ifscCode>BDBL0001087</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranchi </name>
@@ -708,7 +726,7 @@
     <contact>2147483647 </contact>
     <micrCode>834750002</micrCode>
     <ifscCode>BDBL0001088</ifscCode>
-    <bankLoc>1815</bankLoc>
+    <bankLoc>1856</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalyani </name>
@@ -717,7 +735,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750041</micrCode>
     <ifscCode>BDBL0001089</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raiganj </name>
@@ -726,7 +744,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750202</micrCode>
     <ifscCode>BDBL0001090</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sainthia </name>
@@ -735,7 +753,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750202</micrCode>
     <ifscCode>BDBL0001091</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dakshin Parangerpara </name>
@@ -744,7 +762,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750702</micrCode>
     <ifscCode>BDBL0001092</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dakshin Narathali </name>
@@ -753,7 +771,7 @@
     <contact>2147483647 </contact>
     <micrCode>735750501</micrCode>
     <ifscCode>BDBL0001093</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mirzapur </name>
@@ -762,7 +780,7 @@
     <contact>2147483647 </contact>
     <micrCode>231750002</micrCode>
     <ifscCode>BDBL0001094</ifscCode>
-    <bankLoc>1898</bankLoc>
+    <bankLoc>1951</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Doigrung </name>
@@ -771,7 +789,7 @@
     <contact>66090909 </contact>
     <micrCode>785750502</micrCode>
     <ifscCode>BDBL0001095</ifscCode>
-    <bankLoc>1729</bankLoc>
+    <bankLoc>1769</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedpur </name>
@@ -780,7 +798,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750801</micrCode>
     <ifscCode>BDBL0001096</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amtala </name>
@@ -789,7 +807,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750501</micrCode>
     <ifscCode>BDBL0001097</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Araria </name>
@@ -798,7 +816,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750002</micrCode>
     <ifscCode>BDBL0001098</ifscCode>
-    <bankLoc>1740</bankLoc>
+    <bankLoc>1780</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aurangabad, Bihar </name>
@@ -807,7 +825,7 @@
     <contact>2147483647 </contact>
     <micrCode>824750002</micrCode>
     <ifscCode>BDBL0001099</ifscCode>
-    <bankLoc>1741</bankLoc>
+    <bankLoc>1781</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Babhangama </name>
@@ -816,7 +834,7 @@
     <contact>66090909 </contact>
     <micrCode>812750501</micrCode>
     <ifscCode>BDBL0001100</ifscCode>
-    <bankLoc>1744</bankLoc>
+    <bankLoc>1784</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Babhnouli </name>
@@ -825,7 +843,7 @@
     <contact>66090909 </contact>
     <micrCode>841750501</micrCode>
     <ifscCode>BDBL0001101</ifscCode>
-    <bankLoc>1767</bankLoc>
+    <bankLoc>1808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bahadurganj </name>
@@ -834,7 +852,7 @@
     <contact>2147483647 </contact>
     <micrCode>855750501</micrCode>
     <ifscCode>BDBL0001102</ifscCode>
-    <bankLoc>1755</bankLoc>
+    <bankLoc>1796</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banka </name>
@@ -843,7 +861,7 @@
     <contact>2147483647 </contact>
     <micrCode>813750002</micrCode>
     <ifscCode>BDBL0001103</ifscCode>
-    <bankLoc>1742</bankLoc>
+    <bankLoc>1782</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baripada </name>
@@ -852,7 +870,7 @@
     <contact>2147483647 </contact>
     <micrCode>757750002</micrCode>
     <ifscCode>BDBL0001104</ifscCode>
-    <bankLoc>1857</bankLoc>
+    <bankLoc>1903</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Begusarai </name>
@@ -861,7 +879,7 @@
     <contact>2147483647 </contact>
     <micrCode>851750102</micrCode>
     <ifscCode>BDBL0001105</ifscCode>
-    <bankLoc>1743</bankLoc>
+    <bankLoc>1783</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belakoba </name>
@@ -870,7 +888,7 @@
     <contact>2147483647 </contact>
     <micrCode>735750002</micrCode>
     <ifscCode>BDBL0001106</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Beldanga </name>
@@ -879,7 +897,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750502</micrCode>
     <ifscCode>BDBL0001107</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bettiah </name>
@@ -888,7 +906,7 @@
     <contact>2147483647 </contact>
     <micrCode>845750102</micrCode>
     <ifscCode>BDBL0001108</ifscCode>
-    <bankLoc>1773</bankLoc>
+    <bankLoc>1814</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhadrak Town </name>
@@ -897,7 +915,7 @@
     <contact>66090909 </contact>
     <micrCode>756750102</micrCode>
     <ifscCode>BDBL0001109</ifscCode>
-    <bankLoc>1852</bankLoc>
+    <bankLoc>1898</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhagalpur </name>
@@ -906,7 +924,7 @@
     <contact>2147483647 </contact>
     <micrCode>812750002</micrCode>
     <ifscCode>BDBL0001110</ifscCode>
-    <bankLoc>1744</bankLoc>
+    <bankLoc>1784</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Biharsharif </name>
@@ -915,7 +933,7 @@
     <contact>2147483647 </contact>
     <micrCode>803750002</micrCode>
     <ifscCode>BDBL0001111</ifscCode>
-    <bankLoc>1760</bankLoc>
+    <bankLoc>1801</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijnor </name>
@@ -924,7 +942,7 @@
     <contact>2147483647 </contact>
     <micrCode>246750002</micrCode>
     <ifscCode>BDBL0001112</ifscCode>
-    <bankLoc>1890</bankLoc>
+    <bankLoc>1941</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chaibasa </name>
@@ -933,7 +951,7 @@
     <contact>2147483647 </contact>
     <micrCode>833750002</micrCode>
     <ifscCode>BDBL0001113</ifscCode>
-    <bankLoc>1817</bankLoc>
+    <bankLoc>1858</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chakia </name>
@@ -942,7 +960,7 @@
     <contact>2147483647 </contact>
     <micrCode>845750502</micrCode>
     <ifscCode>BDBL0001114</ifscCode>
-    <bankLoc>1747</bankLoc>
+    <bankLoc>1788</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalantapara </name>
@@ -951,7 +969,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750503</micrCode>
     <ifscCode>BDBL0001115</ifscCode>
-    <bankLoc>1720</bankLoc>
+    <bankLoc>1760</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandrapur </name>
@@ -960,7 +978,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750505</micrCode>
     <ifscCode>BDBL0001116</ifscCode>
-    <bankLoc>1728</bankLoc>
+    <bankLoc>1768</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chapra </name>
@@ -969,7 +987,7 @@
     <contact>2147483647 </contact>
     <micrCode>841750002</micrCode>
     <ifscCode>BDBL0001117</ifscCode>
-    <bankLoc>1767</bankLoc>
+    <bankLoc>1808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chopda </name>
@@ -978,7 +996,7 @@
     <contact>2147483647 </contact>
     <micrCode>425750501</micrCode>
     <ifscCode>BDBL0001118</ifscCode>
-    <bankLoc>1839</bankLoc>
+    <bankLoc>1883</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chowrangee </name>
@@ -987,7 +1005,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750504</micrCode>
     <ifscCode>BDBL0001119</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dahali , Bijaynagar </name>
@@ -996,7 +1014,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750502</micrCode>
     <ifscCode>BDBL0001120</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Darbhanga </name>
@@ -1005,7 +1023,7 @@
     <contact>2147483647 </contact>
     <micrCode>846750002</micrCode>
     <ifscCode>BDBL0001121</ifscCode>
-    <bankLoc>1746</bankLoc>
+    <bankLoc>1787</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dehradun </name>
@@ -1014,7 +1032,7 @@
     <contact>2147483647 </contact>
     <micrCode>248750002</micrCode>
     <ifscCode>BDBL0001122</ifscCode>
-    <bankLoc>1903</bankLoc>
+    <bankLoc>1958</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deoghar </name>
@@ -1023,7 +1041,7 @@
     <contact>2147483647 </contact>
     <micrCode>814750102</micrCode>
     <ifscCode>BDBL0001123</ifscCode>
-    <bankLoc>1806</bankLoc>
+    <bankLoc>1847</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhamnagar </name>
@@ -1032,7 +1050,7 @@
     <contact>2147483647 </contact>
     <micrCode>756750501</micrCode>
     <ifscCode>BDBL0001124</ifscCode>
-    <bankLoc>1852</bankLoc>
+    <bankLoc>1898</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhanbad </name>
@@ -1041,7 +1059,7 @@
     <contact>2147483647 </contact>
     <micrCode>826750002</micrCode>
     <ifscCode>BDBL0001125</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1848</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhaneswarpur </name>
@@ -1050,7 +1068,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750802</micrCode>
     <ifscCode>BDBL0001126</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhuparguri </name>
@@ -1059,7 +1077,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750503</micrCode>
     <ifscCode>BDBL0001127</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dudhnoi </name>
@@ -1068,7 +1086,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750505</micrCode>
     <ifscCode>BDBL0001128</ifscCode>
-    <bankLoc>1726</bankLoc>
+    <bankLoc>1766</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>DUM DUM Nager Bazar </name>
@@ -1077,7 +1095,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750031</micrCode>
     <ifscCode>BDBL0001129</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dunlop </name>
@@ -1086,7 +1104,7 @@
     <contact>66090909 </contact>
     <micrCode>700750032</micrCode>
     <ifscCode>BDBL0001130</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fultala Gulzarbagh </name>
@@ -1095,7 +1113,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750504</micrCode>
     <ifscCode>BDBL0001131</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gadarpur </name>
@@ -1104,7 +1122,7 @@
     <contact>2147483647 </contact>
     <micrCode>263750402</micrCode>
     <ifscCode>BDBL0001132</ifscCode>
-    <bankLoc>1905</bankLoc>
+    <bankLoc>1961</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhi Colony </name>
@@ -1113,7 +1131,7 @@
     <contact>2147483647 </contact>
     <micrCode>247750202</micrCode>
     <ifscCode>BDBL0001133</ifscCode>
-    <bankLoc>1900</bankLoc>
+    <bankLoc>1955</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghusia Kurd </name>
@@ -1122,7 +1140,7 @@
     <contact>2147483647 </contact>
     <micrCode>821750702</micrCode>
     <ifscCode>BDBL0001134</ifscCode>
-    <bankLoc>1764</bankLoc>
+    <bankLoc>1805</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Giridih </name>
@@ -1131,7 +1149,7 @@
     <contact>2147483647 </contact>
     <micrCode>815750002</micrCode>
     <ifscCode>BDBL0001135</ifscCode>
-    <bankLoc>1809</bankLoc>
+    <bankLoc>1850</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gonawa </name>
@@ -1140,7 +1158,7 @@
     <contact>2147483647 </contact>
     <micrCode>805750002</micrCode>
     <ifscCode>BDBL0001136</ifscCode>
-    <bankLoc>1761</bankLoc>
+    <bankLoc>1802</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gopalpur </name>
@@ -1149,7 +1167,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750603</micrCode>
     <ifscCode>BDBL0001137</ifscCode>
-    <bankLoc>1923</bankLoc>
+    <bankLoc>1983</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hajipur </name>
@@ -1158,7 +1176,7 @@
     <contact>2147483647 </contact>
     <micrCode>844750002</micrCode>
     <ifscCode>BDBL0001138</ifscCode>
-    <bankLoc>1772</bankLoc>
+    <bankLoc>1813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haldibari </name>
@@ -1167,7 +1185,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750507</micrCode>
     <ifscCode>BDBL0001139</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hamiltonganj </name>
@@ -1176,7 +1194,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750703</micrCode>
     <ifscCode>BDBL0001140</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harharia </name>
@@ -1185,7 +1203,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750506</micrCode>
     <ifscCode>BDBL0001141</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hazaribag </name>
@@ -1194,7 +1212,7 @@
     <contact>2147483647 </contact>
     <micrCode>825750002</micrCode>
     <ifscCode>BDBL0001142</ifscCode>
-    <bankLoc>1811</bankLoc>
+    <bankLoc>1852</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hilsa </name>
@@ -1203,7 +1221,7 @@
     <contact>2147483647 </contact>
     <micrCode>801750102</micrCode>
     <ifscCode>BDBL0001143</ifscCode>
-    <bankLoc>1760</bankLoc>
+    <bankLoc>1801</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoglabari </name>
@@ -1212,7 +1230,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750508</micrCode>
     <ifscCode>BDBL0001144</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Idar </name>
@@ -1221,7 +1239,7 @@
     <contact>2147483647 </contact>
     <micrCode>383750031</micrCode>
     <ifscCode>BDBL0001145</ifscCode>
-    <bankLoc>1794</bankLoc>
+    <bankLoc>1835</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jajpur Town </name>
@@ -1230,7 +1248,7 @@
     <contact>2147483647 </contact>
     <micrCode>755750002</micrCode>
     <ifscCode>BDBL0001146</ifscCode>
-    <bankLoc>1854</bankLoc>
+    <bankLoc>1900</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalalabad Nagar </name>
@@ -1239,7 +1257,7 @@
     <contact>2147483647 </contact>
     <micrCode>811750701</micrCode>
     <ifscCode>BDBL0001147</ifscCode>
-    <bankLoc>1758</bankLoc>
+    <bankLoc>1799</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaleswar </name>
@@ -1248,7 +1266,7 @@
     <contact>2147483647 </contact>
     <micrCode>756750202</micrCode>
     <ifscCode>BDBL0001148</ifscCode>
-    <bankLoc>1851</bankLoc>
+    <bankLoc>1897</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kahalgaon </name>
@@ -1257,7 +1275,7 @@
     <contact>2147483647 </contact>
     <micrCode>812750502</micrCode>
     <ifscCode>BDBL0001149</ifscCode>
-    <bankLoc>1744</bankLoc>
+    <bankLoc>1784</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakratali </name>
@@ -1266,7 +1284,7 @@
     <contact>66090909 </contact>
     <micrCode>786750502</micrCode>
     <ifscCode>BDBL0001150</ifscCode>
-    <bankLoc>1739</bankLoc>
+    <bankLoc>1779</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaldoba </name>
@@ -1275,7 +1293,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750502</micrCode>
     <ifscCode>BDBL0001151</ifscCode>
-    <bankLoc>1724</bankLoc>
+    <bankLoc>1764</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kankarbagh, Patna </name>
@@ -1284,7 +1302,7 @@
     <contact>2147483647 </contact>
     <micrCode>800750003</micrCode>
     <ifscCode>BDBL0001152</ifscCode>
-    <bankLoc>1762</bankLoc>
+    <bankLoc>1803</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karjat </name>
@@ -1293,7 +1311,7 @@
     <contact>66090909 </contact>
     <micrCode>400750005</micrCode>
     <ifscCode>BDBL0001153</ifscCode>
-    <bankLoc>1844</bankLoc>
+    <bankLoc>1890</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karmala </name>
@@ -1302,7 +1320,7 @@
     <contact>66090909 </contact>
     <micrCode>413750501</micrCode>
     <ifscCode>BDBL0001154</ifscCode>
-    <bankLoc>1846</bankLoc>
+    <bankLoc>1892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kashipur </name>
@@ -1311,7 +1329,7 @@
     <contact>2147483647 </contact>
     <micrCode>244750202</micrCode>
     <ifscCode>BDBL0001155</ifscCode>
-    <bankLoc>1905</bankLoc>
+    <bankLoc>1961</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kendukana </name>
@@ -1320,7 +1338,7 @@
     <contact>66090909 </contact>
     <micrCode>781750504</micrCode>
     <ifscCode>BDBL0001156</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khagaria </name>
@@ -1329,7 +1347,7 @@
     <contact>66090909 </contact>
     <micrCode>851750002</micrCode>
     <ifscCode>BDBL0001157</ifscCode>
-    <bankLoc>1754</bankLoc>
+    <bankLoc>1795</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khagrabari </name>
@@ -1338,7 +1356,7 @@
     <contact>2147483647 </contact>
     <micrCode>735750502</micrCode>
     <ifscCode>BDBL0001158</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kirnahar </name>
@@ -1347,7 +1365,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750803</micrCode>
     <ifscCode>BDBL0001159</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Konhauli Sangram </name>
@@ -1356,7 +1374,7 @@
     <contact>2147483647 </contact>
     <micrCode>841750503</micrCode>
     <ifscCode>BDBL0001160</ifscCode>
-    <bankLoc>1767</bankLoc>
+    <bankLoc>1808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Krishnapur </name>
@@ -1365,7 +1383,7 @@
     <contact>66090909 </contact>
     <micrCode>424750102</micrCode>
     <ifscCode>BDBL0001161</ifscCode>
-    <bankLoc>1839</bankLoc>
+    <bankLoc>1883</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kukran </name>
@@ -1374,7 +1392,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750601</micrCode>
     <ifscCode>BDBL0001162</ifscCode>
-    <bankLoc>1763</bankLoc>
+    <bankLoc>1804</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhepura </name>
@@ -1383,7 +1401,7 @@
     <contact>2147483647 </contact>
     <micrCode>852750202</micrCode>
     <ifscCode>BDBL0001163</ifscCode>
-    <bankLoc>1757</bankLoc>
+    <bankLoc>1798</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malahi </name>
@@ -1392,7 +1410,7 @@
     <contact>2147483647 </contact>
     <micrCode>800750004</micrCode>
     <ifscCode>BDBL0001164</ifscCode>
-    <bankLoc>1762</bankLoc>
+    <bankLoc>1803</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mallikpur </name>
@@ -1401,7 +1419,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750509</micrCode>
     <ifscCode>BDBL0001165</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mandro </name>
@@ -1410,7 +1428,7 @@
     <contact>763138330 </contact>
     <micrCode>814750701</micrCode>
     <ifscCode>BDBL0001166</ifscCode>
-    <bankLoc>1744</bankLoc>
+    <bankLoc>1784</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maratibpur </name>
@@ -1419,7 +1437,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750502</micrCode>
     <ifscCode>BDBL0001167</ifscCode>
-    <bankLoc>1740</bankLoc>
+    <bankLoc>1780</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mathabhanga </name>
@@ -1428,7 +1446,7 @@
     <contact>66090909 </contact>
     <micrCode>736750510</micrCode>
     <ifscCode>BDBL0001168</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Meerut </name>
@@ -1437,7 +1455,7 @@
     <contact>2147483647 </contact>
     <micrCode>250750002</micrCode>
     <ifscCode>BDBL0001169</ifscCode>
-    <bankLoc>1897</bankLoc>
+    <bankLoc>1950</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohanpur </name>
@@ -1446,7 +1464,7 @@
     <contact>2147483647 </contact>
     <micrCode>814750202</micrCode>
     <ifscCode>BDBL0001170</ifscCode>
-    <bankLoc>1810</bankLoc>
+    <bankLoc>1851</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohol </name>
@@ -1455,7 +1473,7 @@
     <contact>2147483647 </contact>
     <micrCode>413750502</micrCode>
     <ifscCode>BDBL0001171</ifscCode>
-    <bankLoc>1846</bankLoc>
+    <bankLoc>1892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muktarpur </name>
@@ -1464,7 +1482,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750503</micrCode>
     <ifscCode>BDBL0001172</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mundamala </name>
@@ -1473,7 +1491,7 @@
     <contact>66090909 </contact>
     <micrCode>788750504</micrCode>
     <ifscCode>BDBL0001173</ifscCode>
-    <bankLoc>1731</bankLoc>
+    <bankLoc>1771</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Munger </name>
@@ -1482,7 +1500,7 @@
     <contact>2147483647 </contact>
     <micrCode>811750202</micrCode>
     <ifscCode>BDBL0001174</ifscCode>
-    <bankLoc>1758</bankLoc>
+    <bankLoc>1799</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NA ALI </name>
@@ -1491,7 +1509,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750508</micrCode>
     <ifscCode>BDBL0001175</ifscCode>
-    <bankLoc>1737</bankLoc>
+    <bankLoc>1777</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nabi Nagar </name>
@@ -1500,7 +1518,7 @@
     <contact>2147483647 </contact>
     <micrCode>800750501</micrCode>
     <ifscCode>BDBL0001176</ifscCode>
-    <bankLoc>1762</bankLoc>
+    <bankLoc>1803</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naharkatia </name>
@@ -1509,7 +1527,7 @@
     <contact>2147483647 </contact>
     <micrCode>786750252</micrCode>
     <ifscCode>BDBL0001177</ifscCode>
-    <bankLoc>1725</bankLoc>
+    <bankLoc>1765</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nazira </name>
@@ -1518,7 +1536,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750202</micrCode>
     <ifscCode>BDBL0001178</ifscCode>
-    <bankLoc>1737</bankLoc>
+    <bankLoc>1777</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Notunpara </name>
@@ -1527,7 +1545,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750511</micrCode>
     <ifscCode>BDBL0001179</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paithan </name>
@@ -1536,7 +1554,7 @@
     <contact>66090909 </contact>
     <micrCode>431750503</micrCode>
     <ifscCode>BDBL0001180</ifscCode>
-    <bankLoc>1838</bankLoc>
+    <bankLoc>1882</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paroo </name>
@@ -1545,7 +1563,7 @@
     <contact>733154355 </contact>
     <micrCode>842750501</micrCode>
     <ifscCode>BDBL0001181</ifscCode>
-    <bankLoc>1759</bankLoc>
+    <bankLoc>1800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Powakhali </name>
@@ -1554,7 +1572,7 @@
     <contact>2147483647 </contact>
     <micrCode>855750503</micrCode>
     <ifscCode>BDBL0001182</ifscCode>
-    <bankLoc>1755</bankLoc>
+    <bankLoc>1796</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purnea </name>
@@ -1563,7 +1581,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750102</micrCode>
     <ifscCode>BDBL0001183</ifscCode>
-    <bankLoc>1763</bankLoc>
+    <bankLoc>1804</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raghunathpur - Donwan </name>
@@ -1572,7 +1590,7 @@
     <contact>2147483647 </contact>
     <micrCode>842750502</micrCode>
     <ifscCode>BDBL0001184</ifscCode>
-    <bankLoc>1759</bankLoc>
+    <bankLoc>1800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajnagar </name>
@@ -1581,7 +1599,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750804</micrCode>
     <ifscCode>BDBL0001185</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajpipla </name>
@@ -1590,7 +1608,7 @@
     <contact>2147483647 </contact>
     <micrCode>393750001</micrCode>
     <ifscCode>BDBL0001186</ifscCode>
-    <bankLoc>1793</bankLoc>
+    <bankLoc>1834</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramgarh Cantt </name>
@@ -1599,7 +1617,7 @@
     <contact>2147483647 </contact>
     <micrCode>829750002</micrCode>
     <ifscCode>BDBL0001187</ifscCode>
-    <bankLoc>1814</bankLoc>
+    <bankLoc>1855</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rangia </name>
@@ -1608,7 +1626,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750302</micrCode>
     <ifscCode>BDBL0001188</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raxaul </name>
@@ -1617,7 +1635,7 @@
     <contact>2147483647 </contact>
     <micrCode>845750202</micrCode>
     <ifscCode>BDBL0001189</ifscCode>
-    <bankLoc>1747</bankLoc>
+    <bankLoc>1788</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Roorkee </name>
@@ -1626,7 +1644,7 @@
     <contact>2147483647 </contact>
     <micrCode>247750102</micrCode>
     <ifscCode>BDBL0001190</ifscCode>
-    <bankLoc>1904</bankLoc>
+    <bankLoc>1959</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rudrapur </name>
@@ -1635,7 +1653,7 @@
     <contact>2147483647 </contact>
     <micrCode>263750202</micrCode>
     <ifscCode>BDBL0001191</ifscCode>
-    <bankLoc>1905</bankLoc>
+    <bankLoc>1961</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saharsa </name>
@@ -1644,7 +1662,7 @@
     <contact>66090909 </contact>
     <micrCode>852750002</micrCode>
     <ifscCode>BDBL0001192</ifscCode>
-    <bankLoc>1765</bankLoc>
+    <bankLoc>1806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahebganj </name>
@@ -1653,7 +1671,7 @@
     <contact>2147483647 </contact>
     <micrCode>842750503</micrCode>
     <ifscCode>BDBL0001193</ifscCode>
-    <bankLoc>1759</bankLoc>
+    <bankLoc>1800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahpur Undi </name>
@@ -1662,7 +1680,7 @@
     <contact>2147483647 </contact>
     <micrCode>848750501</micrCode>
     <ifscCode>BDBL0001194</ifscCode>
-    <bankLoc>1766</bankLoc>
+    <bankLoc>1807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salempur </name>
@@ -1671,7 +1689,7 @@
     <contact>66090909 </contact>
     <micrCode>274750302</micrCode>
     <ifscCode>BDBL0001195</ifscCode>
-    <bankLoc>1893</bankLoc>
+    <bankLoc>1944</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Samastipur </name>
@@ -1680,7 +1698,7 @@
     <contact>2147483647 </contact>
     <micrCode>848750002</micrCode>
     <ifscCode>BDBL0001196</ifscCode>
-    <bankLoc>1766</bankLoc>
+    <bankLoc>1807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santipur </name>
@@ -1689,7 +1707,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750604</micrCode>
     <ifscCode>BDBL0001197</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saraswatipur </name>
@@ -1698,7 +1716,7 @@
     <contact>2147483647 </contact>
     <micrCode>756750502</micrCode>
     <ifscCode>BDBL0001198</ifscCode>
-    <bankLoc>1851</bankLoc>
+    <bankLoc>1897</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shamli </name>
@@ -1707,7 +1725,7 @@
     <contact>2147483647 </contact>
     <micrCode>247750302</micrCode>
     <ifscCode>BDBL0001199</ifscCode>
-    <bankLoc>1899</bankLoc>
+    <bankLoc>1953</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shikandarpur </name>
@@ -1716,7 +1734,7 @@
     <contact>2147483647 </contact>
     <micrCode>800750005</micrCode>
     <ifscCode>BDBL0001200</ifscCode>
-    <bankLoc>1762</bankLoc>
+    <bankLoc>1803</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sillod </name>
@@ -1725,7 +1743,7 @@
     <contact>66090909 </contact>
     <micrCode>431750504</micrCode>
     <ifscCode>BDBL0001201</ifscCode>
-    <bankLoc>1838</bankLoc>
+    <bankLoc>1882</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Siwan </name>
@@ -1734,7 +1752,7 @@
     <contact>66090909 </contact>
     <micrCode>841750202</micrCode>
     <ifscCode>BDBL0001202</ifscCode>
-    <bankLoc>1770</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Soro </name>
@@ -1743,7 +1761,7 @@
     <contact>2147483647 </contact>
     <micrCode>756750503</micrCode>
     <ifscCode>BDBL0001203</ifscCode>
-    <bankLoc>1851</bankLoc>
+    <bankLoc>1897</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sujapur </name>
@@ -1752,7 +1770,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750102</micrCode>
     <ifscCode>BDBL0001204</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tetelisara </name>
@@ -1761,7 +1779,7 @@
     <contact>2147483647 </contact>
     <micrCode>782750503</micrCode>
     <ifscCode>BDBL0001205</ifscCode>
-    <bankLoc>1735</bankLoc>
+    <bankLoc>1775</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>UDA Kishanganj </name>
@@ -1770,7 +1788,7 @@
     <contact>2147483647 </contact>
     <micrCode>852750702</micrCode>
     <ifscCode>BDBL0001206</ifscCode>
-    <bankLoc>1757</bankLoc>
+    <bankLoc>1798</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaijapur </name>
@@ -1779,7 +1797,7 @@
     <contact>2147483647 </contact>
     <micrCode>431750505</micrCode>
     <ifscCode>BDBL0001207</ifscCode>
-    <bankLoc>1838</bankLoc>
+    <bankLoc>1882</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Viramgam </name>
@@ -1788,7 +1806,7 @@
     <contact>2147483647 </contact>
     <micrCode>380750003</micrCode>
     <ifscCode>BDBL0001208</ifscCode>
-    <bankLoc>1788</bankLoc>
+    <bankLoc>1829</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dewanhat </name>
@@ -1797,7 +1815,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750505</micrCode>
     <ifscCode>BDBL0001209</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malpula </name>
@@ -1806,7 +1824,7 @@
     <contact>2147483647 </contact>
     <micrCode>782750504</micrCode>
     <ifscCode>BDBL0001210</ifscCode>
-    <bankLoc>1734</bankLoc>
+    <bankLoc>1774</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andul </name>
@@ -1815,7 +1833,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750004</micrCode>
     <ifscCode>BDBL0001211</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manasadwip </name>
@@ -1824,7 +1842,16 @@
     <contact>2147483647 </contact>
     <micrCode>700750050</micrCode>
     <ifscCode>BDBL0001212</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandigarh </name>
+    <city>Chandigarh </city>
+    <address>SCO 149 150,sector 9 C,madhya Marg,chandigarh,pin 160009 </address>
+    <contact>66090909 </contact>
+    <micrCode>160750002</micrCode>
+    <ifscCode>BDBL0001213</ifscCode>
+    <bankLoc>1907</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chas </name>
@@ -1833,7 +1860,7 @@
     <contact>66090909 </contact>
     <micrCode>827750002</micrCode>
     <ifscCode>BDBL0001214</ifscCode>
-    <bankLoc>1805</bankLoc>
+    <bankLoc>1846</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalkaji </name>
@@ -1842,7 +1869,7 @@
     <contact>2147483647 </contact>
     <micrCode>110750002</micrCode>
     <ifscCode>BDBL0001215</ifscCode>
-    <bankLoc>1787</bankLoc>
+    <bankLoc>1828</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tezpur </name>
@@ -1851,7 +1878,7 @@
     <contact>66090909 </contact>
     <micrCode>784750002</micrCode>
     <ifscCode>BDBL0001216</ifscCode>
-    <bankLoc>1738</bankLoc>
+    <bankLoc>1778</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mughalsarai </name>
@@ -1860,7 +1887,7 @@
     <contact>2147483647 </contact>
     <micrCode>232750102</micrCode>
     <ifscCode>BDBL0001217</ifscCode>
-    <bankLoc>1892</bankLoc>
+    <bankLoc>1943</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nishiganj </name>
@@ -1869,7 +1896,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750511</micrCode>
     <ifscCode>BDBL0001218</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhubri </name>
@@ -1878,7 +1905,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750102</micrCode>
     <ifscCode>BDBL0001219</ifscCode>
-    <bankLoc>1724</bankLoc>
+    <bankLoc>1764</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muzaffarpur </name>
@@ -1887,7 +1914,7 @@
     <contact>2147483647 </contact>
     <micrCode>842750002</micrCode>
     <ifscCode>BDBL0001220</ifscCode>
-    <bankLoc>1759</bankLoc>
+    <bankLoc>1800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamtara </name>
@@ -1896,7 +1923,7 @@
     <contact>2147483647 </contact>
     <micrCode>815750102</micrCode>
     <ifscCode>BDBL0001221</ifscCode>
-    <bankLoc>1812</bankLoc>
+    <bankLoc>1853</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dawgaon </name>
@@ -1905,7 +1932,7 @@
     <contact>2147483647 </contact>
     <micrCode>784750501</micrCode>
     <ifscCode>BDBL0001222</ifscCode>
-    <bankLoc>1738</bankLoc>
+    <bankLoc>1778</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dinhata </name>
@@ -1914,7 +1941,7 @@
     <contact>66090909 </contact>
     <micrCode>736750506</micrCode>
     <ifscCode>BDBL0001223</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maligaon </name>
@@ -1923,7 +1950,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750002</micrCode>
     <ifscCode>BDBL0001224</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sitamarhi </name>
@@ -1932,7 +1959,7 @@
     <contact>2147483647 </contact>
     <micrCode>843750002</micrCode>
     <ifscCode>BDBL0001225</ifscCode>
-    <bankLoc>1769</bankLoc>
+    <bankLoc>1810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SF Road </name>
@@ -1941,7 +1968,7 @@
     <contact>66090909 </contact>
     <micrCode>734750003</micrCode>
     <ifscCode>BDBL0001226</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanchrapara </name>
@@ -1950,7 +1977,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750042</micrCode>
     <ifscCode>BDBL0001227</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paltan Bazar </name>
@@ -1959,7 +1986,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750003</micrCode>
     <ifscCode>BDBL0001228</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhyarang </name>
@@ -1968,7 +1995,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750605</micrCode>
     <ifscCode>BDBL0001229</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indore </name>
@@ -1977,7 +2004,7 @@
     <contact>2147483647 </contact>
     <micrCode>452750002</micrCode>
     <ifscCode>BDBL0001230</ifscCode>
-    <bankLoc>1825</bankLoc>
+    <bankLoc>1867</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dakbanglow </name>
@@ -1986,7 +2013,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750502</micrCode>
     <ifscCode>BDBL0001231</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dihigram </name>
@@ -1995,7 +2022,7 @@
     <contact>66090909 </contact>
     <micrCode>742750601</micrCode>
     <ifscCode>BDBL0001232</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kawakhari </name>
@@ -2004,7 +2031,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750602</micrCode>
     <ifscCode>BDBL0001233</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malbazar </name>
@@ -2013,7 +2040,7 @@
     <contact>2147483647 </contact>
     <micrCode>735750503</micrCode>
     <ifscCode>BDBL0001234</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Birpara </name>
@@ -2022,7 +2049,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750701</micrCode>
     <ifscCode>BDBL0001235</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baranagar </name>
@@ -2031,7 +2058,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750009</micrCode>
     <ifscCode>BDBL0001236</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghutiarisharif </name>
@@ -2040,7 +2067,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750036</micrCode>
     <ifscCode>BDBL0001237</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kusumgram </name>
@@ -2049,7 +2076,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750606</micrCode>
     <ifscCode>BDBL0001238</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nungi </name>
@@ -2058,7 +2085,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750059</micrCode>
     <ifscCode>BDBL0001239</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tararat </name>
@@ -2067,7 +2094,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750072</micrCode>
     <ifscCode>BDBL0001240</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sitalkuchi </name>
@@ -2076,7 +2103,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750512</micrCode>
     <ifscCode>BDBL0001241</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patiram </name>
@@ -2085,7 +2112,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750606</micrCode>
     <ifscCode>BDBL0001242</ifscCode>
-    <bankLoc>1923</bankLoc>
+    <bankLoc>1983</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalpaiguri </name>
@@ -2094,7 +2121,7 @@
     <contact>2147483647 </contact>
     <micrCode>735750003</micrCode>
     <ifscCode>BDBL0001243</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Birati </name>
@@ -2103,7 +2130,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750018</micrCode>
     <ifscCode>BDBL0001244</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chilakhana </name>
@@ -2112,7 +2139,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750502</micrCode>
     <ifscCode>BDBL0001245</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Changrabandha </name>
@@ -2121,7 +2148,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750501</micrCode>
     <ifscCode>BDBL0001246</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khamar Sitai </name>
@@ -2130,7 +2157,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750509</micrCode>
     <ifscCode>BDBL0001247</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaliyagar </name>
@@ -2139,7 +2166,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750604</micrCode>
     <ifscCode>BDBL0001248</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shantiniketan </name>
@@ -2148,7 +2175,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001249</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Siliguri </name>
@@ -2157,7 +2184,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750002</micrCode>
     <ifscCode>BDBL0001251</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fulchari </name>
@@ -2166,7 +2193,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750509</micrCode>
     <ifscCode>BDBL0001252</ifscCode>
-    <bankLoc>1880</bankLoc>
+    <bankLoc>1930</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agartala </name>
@@ -2175,7 +2202,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750002</micrCode>
     <ifscCode>BDBL0001253</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amarpur </name>
@@ -2184,7 +2211,7 @@
     <contact>66090909 </contact>
     <micrCode>799750204</micrCode>
     <ifscCode>BDBL0001254</ifscCode>
-    <bankLoc>1885</bankLoc>
+    <bankLoc>1935</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bardowali </name>
@@ -2193,7 +2220,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750003</micrCode>
     <ifscCode>BDBL0001255</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baspokur </name>
@@ -2202,7 +2229,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750502</micrCode>
     <ifscCode>BDBL0001256</ifscCode>
-    <bankLoc>1884</bankLoc>
+    <bankLoc>1934</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharat Chandra Nagar </name>
@@ -2211,7 +2238,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750513</micrCode>
     <ifscCode>BDBL0001257</ifscCode>
-    <bankLoc>1885</bankLoc>
+    <bankLoc>1935</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bishalgarh </name>
@@ -2220,7 +2247,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750203</micrCode>
     <ifscCode>BDBL0001258</ifscCode>
-    <bankLoc>1884</bankLoc>
+    <bankLoc>1934</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bamutia </name>
@@ -2229,7 +2256,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750501</micrCode>
     <ifscCode>BDBL0001259</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalafa </name>
@@ -2238,7 +2265,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750511</micrCode>
     <ifscCode>BDBL0001260</ifscCode>
-    <bankLoc>1885</bankLoc>
+    <bankLoc>1935</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanthaltali </name>
@@ -2247,7 +2274,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750512</micrCode>
     <ifscCode>BDBL0001261</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lake Chomohani </name>
@@ -2256,7 +2283,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750004</micrCode>
     <ifscCode>BDBL0001262</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Melagarh </name>
@@ -2265,7 +2292,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750005</micrCode>
     <ifscCode>BDBL0001263</ifscCode>
-    <bankLoc>1884</bankLoc>
+    <bankLoc>1934</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narayanpur Bazar </name>
@@ -2274,7 +2301,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750503</micrCode>
     <ifscCode>BDBL0001264</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramchandraghat </name>
@@ -2283,7 +2310,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750505</micrCode>
     <ifscCode>BDBL0001265</ifscCode>
-    <bankLoc>1882</bankLoc>
+    <bankLoc>1932</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranirgaon </name>
@@ -2292,7 +2319,7 @@
     <contact>66090909 </contact>
     <micrCode>799750506</micrCode>
     <ifscCode>BDBL0001266</ifscCode>
-    <bankLoc>1886</bankLoc>
+    <bankLoc>1936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Singinala </name>
@@ -2301,7 +2328,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750507</micrCode>
     <ifscCode>BDBL0001267</ifscCode>
-    <bankLoc>1880</bankLoc>
+    <bankLoc>1930</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tuchindrai </name>
@@ -2310,7 +2337,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750508</micrCode>
     <ifscCode>BDBL0001268</ifscCode>
-    <bankLoc>1882</bankLoc>
+    <bankLoc>1932</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udaipur </name>
@@ -2319,7 +2346,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750202</micrCode>
     <ifscCode>BDBL0001269</ifscCode>
-    <bankLoc>1881</bankLoc>
+    <bankLoc>1931</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baramati </name>
@@ -2328,7 +2355,7 @@
     <contact>66090909 </contact>
     <micrCode>413750101</micrCode>
     <ifscCode>BDBL0001270</ifscCode>
-    <bankLoc>1843</bankLoc>
+    <bankLoc>1889</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangapur </name>
@@ -2337,7 +2364,7 @@
     <contact>2147483647 </contact>
     <micrCode>431750502</micrCode>
     <ifscCode>BDBL0001271</ifscCode>
-    <bankLoc>1838</bankLoc>
+    <bankLoc>1882</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kedgaon </name>
@@ -2346,7 +2373,7 @@
     <contact>66090909 </contact>
     <micrCode>414750001</micrCode>
     <ifscCode>BDBL0001272</ifscCode>
-    <bankLoc>1837</bankLoc>
+    <bankLoc>1881</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolhapur </name>
@@ -2355,7 +2382,7 @@
     <contact>2147483647 </contact>
     <micrCode>416750002</micrCode>
     <ifscCode>BDBL0001273</ifscCode>
-    <bankLoc>1840</bankLoc>
+    <bankLoc>1884</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rahata </name>
@@ -2364,7 +2391,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001274</ifscCode>
-    <bankLoc>1837</bankLoc>
+    <bankLoc>1881</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pakur </name>
@@ -2373,7 +2400,7 @@
     <contact>2147483647 </contact>
     <micrCode>816750002</micrCode>
     <ifscCode>BDBL0001275</ifscCode>
-    <bankLoc>1813</bankLoc>
+    <bankLoc>1854</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangola </name>
@@ -2382,7 +2409,7 @@
     <contact>66090909 </contact>
     <micrCode>413750352</micrCode>
     <ifscCode>BDBL0001276</ifscCode>
-    <bankLoc>1846</bankLoc>
+    <bankLoc>1892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satara </name>
@@ -2391,7 +2418,7 @@
     <contact>66090909 </contact>
     <micrCode>415750001</micrCode>
     <ifscCode>BDBL0001277</ifscCode>
-    <bankLoc>1845</bankLoc>
+    <bankLoc>1891</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhitora </name>
@@ -2400,7 +2427,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750503</micrCode>
     <ifscCode>BDBL0001278</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hamidhati Pilkhandi </name>
@@ -2409,7 +2436,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750505</micrCode>
     <ifscCode>BDBL0001279</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kandi </name>
@@ -2418,7 +2445,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750507</micrCode>
     <ifscCode>BDBL0001280</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurapara </name>
@@ -2427,7 +2454,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750508</micrCode>
     <ifscCode>BDBL0001281</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manikyahar </name>
@@ -2436,7 +2463,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750508</micrCode>
     <ifscCode>BDBL0001282</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narasinghapur </name>
@@ -2445,7 +2472,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750510</micrCode>
     <ifscCode>BDBL0001283</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santoshpur </name>
@@ -2454,7 +2481,7 @@
     <contact>2147483647 </contact>
     <micrCode>742750602</micrCode>
     <ifscCode>BDBL0001284</ifscCode>
-    <bankLoc>1917</bankLoc>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ballia </name>
@@ -2463,7 +2490,16 @@
     <contact>2147483647 </contact>
     <micrCode>277750002</micrCode>
     <ifscCode>BDBL0001285</ifscCode>
-    <bankLoc>1888</bankLoc>
+    <bankLoc>1939</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Buxar </name>
+    <city>Buxar </city>
+    <address>Ward NO.14,THANA ROAD,DIST.BUXAR,BIHAR,PIN 802101 </address>
+    <contact>66090909 </contact>
+    <micrCode>802750002</micrCode>
+    <ifscCode>BDBL0001286</ifscCode>
+    <bankLoc>1786</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chachya </name>
@@ -2472,7 +2508,16 @@
     <contact>2147483647 </contact>
     <micrCode>277750501</micrCode>
     <ifscCode>BDBL0001287</ifscCode>
-    <bankLoc>1888</bankLoc>
+    <bankLoc>1939</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghazipur </name>
+    <city>Ghazipur </city>
+    <address>Kothi Shiv SAHAI,LALDARWAZA,P.O.GHAZIPUR,DIST.GHAZIPUR,UTTAR Pradesh,pin 233001 </address>
+    <contact>66090909 </contact>
+    <micrCode>233750002</micrCode>
+    <ifscCode>BDBL0001288</ifscCode>
+    <bankLoc>1946</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohammadabad </name>
@@ -2481,7 +2526,7 @@
     <contact>2147483647 </contact>
     <micrCode>232750151</micrCode>
     <ifscCode>BDBL0001289</ifscCode>
-    <bankLoc>1892</bankLoc>
+    <bankLoc>1943</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NAI Bazar </name>
@@ -2490,7 +2535,7 @@
     <contact>2147483647 </contact>
     <micrCode>221750102</micrCode>
     <ifscCode>BDBL0001290</ifscCode>
-    <bankLoc>1888</bankLoc>
+    <bankLoc>1939</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raghavpur </name>
@@ -2499,7 +2544,7 @@
     <contact>2147483647 </contact>
     <micrCode>274750501</micrCode>
     <ifscCode>BDBL0001291</ifscCode>
-    <bankLoc>1895</bankLoc>
+    <bankLoc>1947</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rudrapur </name>
@@ -2508,7 +2553,7 @@
     <contact>2147483647 </contact>
     <micrCode>274750502</micrCode>
     <ifscCode>BDBL0001292</ifscCode>
-    <bankLoc>1893</bankLoc>
+    <bankLoc>1944</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Varanasi </name>
@@ -2517,7 +2562,7 @@
     <contact>66090909 </contact>
     <micrCode>221750002</micrCode>
     <ifscCode>BDBL0001293</ifscCode>
-    <bankLoc>1902</bankLoc>
+    <bankLoc>1957</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baguiati </name>
@@ -2526,7 +2571,16 @@
     <contact>2147483647 </contact>
     <micrCode>700750007</micrCode>
     <ifscCode>BDBL0001294</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Girish Park </name>
+    <city>Kolkata </city>
+    <address>187 C.R.AVENUE Girish Park,kolkata,west Bengal,pin 700007 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750080</micrCode>
+    <ifscCode>BDBL0001295</ifscCode>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sodepur </name>
@@ -2535,7 +2589,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750070</micrCode>
     <ifscCode>BDBL0001296</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gosaba </name>
@@ -2544,7 +2598,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750601</micrCode>
     <ifscCode>BDBL0001297</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udhwa </name>
@@ -2553,7 +2607,7 @@
     <contact>2147483647 </contact>
     <micrCode>816750601</micrCode>
     <ifscCode>BDBL0001298</ifscCode>
-    <bankLoc>1816</bankLoc>
+    <bankLoc>1857</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Canning </name>
@@ -2562,7 +2616,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750019</micrCode>
     <ifscCode>BDBL0001299</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakdwip </name>
@@ -2571,7 +2625,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750102</micrCode>
     <ifscCode>BDBL0001300</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharisrinagar </name>
@@ -2580,7 +2634,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750045</micrCode>
     <ifscCode>BDBL0001301</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijayganj Bazar </name>
@@ -2589,7 +2643,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750017</micrCode>
     <ifscCode>BDBL0001302</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indira Nagar Lucknow </name>
@@ -2598,7 +2652,16 @@
     <contact>66090909 </contact>
     <micrCode>226750002</micrCode>
     <ifscCode>BDBL0001303</ifscCode>
-    <bankLoc>1896</bankLoc>
+    <bankLoc>1949</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sikandra </name>
+    <city>Bhagalpur </city>
+    <address>Vill AND P.O.SIKANDRA,DIST.JAMUI,JAMUI Road,bihar,pin 811315 </address>
+    <contact>66090909 </contact>
+    <micrCode>811750502</micrCode>
+    <ifscCode>BDBL0001304</ifscCode>
+    <bankLoc>1791</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barauni </name>
@@ -2607,7 +2670,7 @@
     <contact>66090909 </contact>
     <micrCode>851750601</micrCode>
     <ifscCode>BDBL0001305</ifscCode>
-    <bankLoc>1743</bankLoc>
+    <bankLoc>1783</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gidhour </name>
@@ -2616,7 +2679,7 @@
     <contact>2147483647 </contact>
     <micrCode>811750501</micrCode>
     <ifscCode>BDBL0001306</ifscCode>
-    <bankLoc>1750</bankLoc>
+    <bankLoc>1791</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lakhi Sarai </name>
@@ -2625,7 +2688,7 @@
     <contact>2147483647 </contact>
     <micrCode>811750102</micrCode>
     <ifscCode>BDBL0001307</ifscCode>
-    <bankLoc>1756</bankLoc>
+    <bankLoc>1797</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalipara </name>
@@ -2634,7 +2697,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750501</micrCode>
     <ifscCode>BDBL0001308</ifscCode>
-    <bankLoc>1724</bankLoc>
+    <bankLoc>1764</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barpeta Town </name>
@@ -2643,7 +2706,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750102</micrCode>
     <ifscCode>BDBL0001309</ifscCode>
-    <bankLoc>1719</bankLoc>
+    <bankLoc>1759</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barpeta Road </name>
@@ -2652,7 +2715,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750152</micrCode>
     <ifscCode>BDBL0001310</ifscCode>
-    <bankLoc>1719</bankLoc>
+    <bankLoc>1759</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bongaigaon </name>
@@ -2661,7 +2724,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750002</micrCode>
     <ifscCode>BDBL0001311</ifscCode>
-    <bankLoc>1720</bankLoc>
+    <bankLoc>1760</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kawatika </name>
@@ -2670,7 +2733,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750504</micrCode>
     <ifscCode>BDBL0001312</ifscCode>
-    <bankLoc>1722</bankLoc>
+    <bankLoc>1762</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kenduguri </name>
@@ -2679,7 +2742,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750505</micrCode>
     <ifscCode>BDBL0001313</ifscCode>
-    <bankLoc>1719</bankLoc>
+    <bankLoc>1759</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ujanpetla </name>
@@ -2688,7 +2751,7 @@
     <contact>2147483647 </contact>
     <micrCode>783750506</micrCode>
     <ifscCode>BDBL0001314</ifscCode>
-    <bankLoc>1732</bankLoc>
+    <bankLoc>1772</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amila </name>
@@ -2697,7 +2760,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750601</micrCode>
     <ifscCode>BDBL0001315</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Babla </name>
@@ -2706,7 +2769,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750602</micrCode>
     <ifscCode>BDBL0001316</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Burdwan </name>
@@ -2715,7 +2778,7 @@
     <contact>66090909 </contact>
     <micrCode>713750102</micrCode>
     <ifscCode>BDBL0001317</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chowberia </name>
@@ -2724,7 +2787,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750603</micrCode>
     <ifscCode>BDBL0001318</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dainhat </name>
@@ -2733,7 +2796,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750901</micrCode>
     <ifscCode>BDBL0001319</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Durgapur, Bidhanagar </name>
@@ -2742,7 +2805,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750202</micrCode>
     <ifscCode>BDBL0001320</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yashapur </name>
@@ -2751,7 +2814,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750608</micrCode>
     <ifscCode>BDBL0001321</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaluidanga </name>
@@ -2760,7 +2823,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750605</micrCode>
     <ifscCode>BDBL0001322</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tinna </name>
@@ -2769,7 +2832,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750607</micrCode>
     <ifscCode>BDBL0001323</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chilkirhat </name>
@@ -2778,7 +2841,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750503</micrCode>
     <ifscCode>BDBL0001324</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Coochbehar </name>
@@ -2787,7 +2850,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750002</micrCode>
     <ifscCode>BDBL0001325</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Station Choupathi, Coochbehar </name>
@@ -2796,7 +2859,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750003</micrCode>
     <ifscCode>BDBL0001326</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tufanganj </name>
@@ -2805,7 +2868,7 @@
     <contact>66090909 </contact>
     <micrCode>736750513</micrCode>
     <ifscCode>BDBL0001327</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uttar Lauchapra </name>
@@ -2814,7 +2877,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750514</micrCode>
     <ifscCode>BDBL0001328</ifscCode>
-    <bankLoc>1909</bankLoc>
+    <bankLoc>1967</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balasore </name>
@@ -2823,7 +2886,7 @@
     <contact>66090909 </contact>
     <micrCode>756750002</micrCode>
     <ifscCode>BDBL0001329</ifscCode>
-    <bankLoc>1851</bankLoc>
+    <bankLoc>1897</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cuttack </name>
@@ -2832,7 +2895,7 @@
     <contact>66090909 </contact>
     <micrCode>753750002</micrCode>
     <ifscCode>BDBL0001330</ifscCode>
-    <bankLoc>1853</bankLoc>
+    <bankLoc>1899</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khurda </name>
@@ -2841,7 +2904,7 @@
     <contact>2147483647 </contact>
     <micrCode>751750002</micrCode>
     <ifscCode>BDBL0001331</ifscCode>
-    <bankLoc>1855</bankLoc>
+    <bankLoc>1901</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gogri Jamalpur </name>
@@ -2850,7 +2913,7 @@
     <contact>66090909 </contact>
     <micrCode>851750501</micrCode>
     <ifscCode>BDBL0001332</ifscCode>
-    <bankLoc>1754</bankLoc>
+    <bankLoc>1795</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambala City </name>
@@ -2859,7 +2922,7 @@
     <contact>2147483647 </contact>
     <micrCode>133750002</micrCode>
     <ifscCode>BDBL0001333</ifscCode>
-    <bankLoc>1799</bankLoc>
+    <bankLoc>1840</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baraut </name>
@@ -2868,7 +2931,7 @@
     <contact>2147483647 </contact>
     <micrCode>250750402</micrCode>
     <ifscCode>BDBL0001334</ifscCode>
-    <bankLoc>1887</bankLoc>
+    <bankLoc>1938</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhatinda </name>
@@ -2877,7 +2940,7 @@
     <contact>2147483647 </contact>
     <micrCode>151750002</micrCode>
     <ifscCode>BDBL0001335</ifscCode>
-    <bankLoc>1860</bankLoc>
+    <bankLoc>1906</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bulandshahar </name>
@@ -2886,7 +2949,7 @@
     <contact>2147483647 </contact>
     <micrCode>203750002</micrCode>
     <ifscCode>BDBL0001336</ifscCode>
-    <bankLoc>1891</bankLoc>
+    <bankLoc>1942</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahibganj </name>
@@ -2895,7 +2958,7 @@
     <contact>2147483647 </contact>
     <micrCode>816750102</micrCode>
     <ifscCode>BDBL0001337</ifscCode>
-    <bankLoc>1816</bankLoc>
+    <bankLoc>1857</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hapur </name>
@@ -2904,7 +2967,7 @@
     <contact>2147483647 </contact>
     <micrCode>245750002</micrCode>
     <ifscCode>BDBL0001338</ifscCode>
-    <bankLoc>1901</bankLoc>
+    <bankLoc>1956</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Modinagar </name>
@@ -2913,7 +2976,7 @@
     <contact>2147483647 </contact>
     <micrCode>201750002</micrCode>
     <ifscCode>BDBL0001339</ifscCode>
-    <bankLoc>1894</bankLoc>
+    <bankLoc>1945</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shillong </name>
@@ -2922,7 +2985,7 @@
     <contact>66090909 </contact>
     <micrCode>793750002</micrCode>
     <ifscCode>BDBL0001340</ifscCode>
-    <bankLoc>1848</bankLoc>
+    <bankLoc>1894</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panipat </name>
@@ -2931,7 +2994,7 @@
     <contact>2147483647 </contact>
     <micrCode>132750002</micrCode>
     <ifscCode>BDBL0001341</ifscCode>
-    <bankLoc>1801</bankLoc>
+    <bankLoc>1842</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patiala </name>
@@ -2940,7 +3003,7 @@
     <contact>2147483647 </contact>
     <micrCode>147750002</micrCode>
     <ifscCode>BDBL0001342</ifscCode>
-    <bankLoc>1863</bankLoc>
+    <bankLoc>1910</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rewari </name>
@@ -2949,7 +3012,7 @@
     <contact>66090909 </contact>
     <micrCode>123750002</micrCode>
     <ifscCode>BDBL0001343</ifscCode>
-    <bankLoc>1802</bankLoc>
+    <bankLoc>1843</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonepat </name>
@@ -2958,7 +3021,7 @@
     <contact>2147483647 </contact>
     <micrCode>110750006</micrCode>
     <ifscCode>BDBL0001344</ifscCode>
-    <bankLoc>1803</bankLoc>
+    <bankLoc>1844</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Garia </name>
@@ -2967,7 +3030,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750034</micrCode>
     <ifscCode>BDBL0001345</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gariahat </name>
@@ -2976,7 +3039,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750035</micrCode>
     <ifscCode>BDBL0001346</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haridevpur </name>
@@ -2985,7 +3048,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750039</micrCode>
     <ifscCode>BDBL0001347</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurgaon </name>
@@ -2994,7 +3057,7 @@
     <contact>66090909 </contact>
     <micrCode>110750003</micrCode>
     <ifscCode>BDBL0001348</ifscCode>
-    <bankLoc>1804</bankLoc>
+    <bankLoc>1845</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tollygunge </name>
@@ -3003,7 +3066,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750074</micrCode>
     <ifscCode>BDBL0001349</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alipurduar </name>
@@ -3012,7 +3075,7 @@
     <contact>2147483647 </contact>
     <micrCode>736750051</micrCode>
     <ifscCode>BDBL0001350</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhupguri </name>
@@ -3021,7 +3084,7 @@
     <contact>2147483647 </contact>
     <micrCode>735750102</micrCode>
     <ifscCode>BDBL0001351</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaigaon </name>
@@ -3030,7 +3093,7 @@
     <contact>66090909 </contact>
     <micrCode>736750102</micrCode>
     <ifscCode>BDBL0001352</ifscCode>
-    <bankLoc>1914</bankLoc>
+    <bankLoc>1973</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Borpara Boko </name>
@@ -3039,7 +3102,7 @@
     <contact>2147483647 </contact>
     <micrCode>781750501</micrCode>
     <ifscCode>BDBL0001353</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nalbari </name>
@@ -3048,7 +3111,7 @@
     <contact>66090909 </contact>
     <micrCode>781750202</micrCode>
     <ifscCode>BDBL0001354</ifscCode>
-    <bankLoc>1736</bankLoc>
+    <bankLoc>1776</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karnal </name>
@@ -3057,7 +3120,7 @@
     <contact>66090909 </contact>
     <micrCode>132750102</micrCode>
     <ifscCode>BDBL0001355</ifscCode>
-    <bankLoc>1800</bankLoc>
+    <bankLoc>1841</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bongaon </name>
@@ -3066,7 +3129,7 @@
     <contact>2147483647 </contact>
     <micrCode>743750002</micrCode>
     <ifscCode>BDBL0001356</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandannagore </name>
@@ -3075,7 +3138,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750022</micrCode>
     <ifscCode>BDBL0001357</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dankuni </name>
@@ -3084,7 +3147,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750026</micrCode>
     <ifscCode>BDBL0001358</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhaniakhali </name>
@@ -3093,7 +3156,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750602</micrCode>
     <ifscCode>BDBL0001359</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maheshpur </name>
@@ -3102,7 +3165,7 @@
     <contact>2147483647 </contact>
     <micrCode>712750501</micrCode>
     <ifscCode>BDBL0001360</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Betul </name>
@@ -3111,7 +3174,7 @@
     <contact>2147483647 </contact>
     <micrCode>460750001</micrCode>
     <ifscCode>BDBL0001361</ifscCode>
-    <bankLoc>1820</bankLoc>
+    <bankLoc>1862</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal </name>
@@ -3120,7 +3183,7 @@
     <contact>2147483647 </contact>
     <micrCode>462750002</micrCode>
     <ifscCode>BDBL0001362</ifscCode>
-    <bankLoc>1821</bankLoc>
+    <bankLoc>1863</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bina </name>
@@ -3129,7 +3192,7 @@
     <contact>2147483647 </contact>
     <micrCode>470750101</micrCode>
     <ifscCode>BDBL0001363</ifscCode>
-    <bankLoc>1832</bankLoc>
+    <bankLoc>1876</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harda </name>
@@ -3138,7 +3201,7 @@
     <contact>2147483647 </contact>
     <micrCode>461750101</micrCode>
     <ifscCode>BDBL0001364</ifscCode>
-    <bankLoc>1823</bankLoc>
+    <bankLoc>1865</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoshangabad </name>
@@ -3147,7 +3210,7 @@
     <contact>2147483647 </contact>
     <micrCode>461750001</micrCode>
     <ifscCode>BDBL0001365</ifscCode>
-    <bankLoc>1824</bankLoc>
+    <bankLoc>1866</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khandwa </name>
@@ -3156,7 +3219,7 @@
     <contact>66090909 </contact>
     <micrCode>450750101</micrCode>
     <ifscCode>BDBL0001366</ifscCode>
-    <bankLoc>1827</bankLoc>
+    <bankLoc>1869</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dobson Road </name>
@@ -3165,7 +3228,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750029</micrCode>
     <ifscCode>BDBL0001367</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amodiya </name>
@@ -3174,7 +3237,7 @@
     <contact>66090909 </contact>
     <micrCode>454750501</micrCode>
     <ifscCode>BDBL0001368</ifscCode>
-    <bankLoc>1826</bankLoc>
+    <bankLoc>1868</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhanpura </name>
@@ -3183,7 +3246,7 @@
     <contact>2147483647 </contact>
     <micrCode>458750501</micrCode>
     <ifscCode>BDBL0001369</ifscCode>
-    <bankLoc>1828</bankLoc>
+    <bankLoc>1871</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Biaora </name>
@@ -3192,7 +3255,7 @@
     <contact>2147483647 </contact>
     <micrCode>465750001</micrCode>
     <ifscCode>BDBL0001370</ifscCode>
-    <bankLoc>1830</bankLoc>
+    <bankLoc>1874</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bimakhedi </name>
@@ -3201,7 +3264,7 @@
     <contact>2147483647 </contact>
     <micrCode>457750501</micrCode>
     <ifscCode>BDBL0001371</ifscCode>
-    <bankLoc>1831</bankLoc>
+    <bankLoc>1875</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guna </name>
@@ -3210,7 +3273,7 @@
     <contact>66090909 </contact>
     <micrCode>473750001</micrCode>
     <ifscCode>BDBL0001372</ifscCode>
-    <bankLoc>1822</bankLoc>
+    <bankLoc>1864</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shivpuri </name>
@@ -3219,7 +3282,7 @@
     <contact>2147483647 </contact>
     <micrCode>473750051</micrCode>
     <ifscCode>BDBL0001373</ifscCode>
-    <bankLoc>1835</bankLoc>
+    <bankLoc>1879</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajmer </name>
@@ -3228,7 +3291,7 @@
     <contact>2147483647 </contact>
     <micrCode>305750002</micrCode>
     <ifscCode>BDBL0001374</ifscCode>
-    <bankLoc>1864</bankLoc>
+    <bankLoc>1911</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baran </name>
@@ -3237,7 +3300,7 @@
     <contact>2147483647 </contact>
     <micrCode>325750002</micrCode>
     <ifscCode>BDBL0001375</ifscCode>
-    <bankLoc>1866</bankLoc>
+    <bankLoc>1913</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bikaner </name>
@@ -3246,7 +3309,7 @@
     <contact>2147483647 </contact>
     <micrCode>334750002</micrCode>
     <ifscCode>BDBL0001376</ifscCode>
-    <bankLoc>1868</bankLoc>
+    <bankLoc>1915</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dausa </name>
@@ -3255,7 +3318,7 @@
     <contact>66090909 </contact>
     <micrCode>303750002</micrCode>
     <ifscCode>BDBL0001377</ifscCode>
-    <bankLoc>1869</bankLoc>
+    <bankLoc>1916</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur </name>
@@ -3264,7 +3327,7 @@
     <contact>66090909 </contact>
     <micrCode>342750002</micrCode>
     <ifscCode>BDBL0001378</ifscCode>
-    <bankLoc>1871</bankLoc>
+    <bankLoc>1918</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kota </name>
@@ -3273,7 +3336,7 @@
     <contact>2147483647 </contact>
     <micrCode>324750002</micrCode>
     <ifscCode>BDBL0001379</ifscCode>
-    <bankLoc>1872</bankLoc>
+    <bankLoc>1919</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagaur </name>
@@ -3282,7 +3345,7 @@
     <contact>2147483647 </contact>
     <micrCode>341750003</micrCode>
     <ifscCode>BDBL0001380</ifscCode>
-    <bankLoc>1870</bankLoc>
+    <bankLoc>1917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udaipur </name>
@@ -3291,7 +3354,7 @@
     <contact>2147483647 </contact>
     <micrCode>313750003</micrCode>
     <ifscCode>BDBL0001381</ifscCode>
-    <bankLoc>1875</bankLoc>
+    <bankLoc>1923</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khumtai </name>
@@ -3300,7 +3363,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750501</micrCode>
     <ifscCode>BDBL0001382</ifscCode>
-    <bankLoc>1725</bankLoc>
+    <bankLoc>1765</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Boreara </name>
@@ -3309,7 +3372,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750507</micrCode>
     <ifscCode>BDBL0001383</ifscCode>
-    <bankLoc>1729</bankLoc>
+    <bankLoc>1769</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dibrugarh </name>
@@ -3318,7 +3381,7 @@
     <contact>66090909 </contact>
     <micrCode>786750002</micrCode>
     <ifscCode>BDBL0001384</ifscCode>
-    <bankLoc>1725</bankLoc>
+    <bankLoc>1765</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Golai </name>
@@ -3327,7 +3390,7 @@
     <contact>2147483647 </contact>
     <micrCode>786750501</micrCode>
     <ifscCode>BDBL0001385</ifscCode>
-    <bankLoc>1739</bankLoc>
+    <bankLoc>1779</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ludhiana </name>
@@ -3336,7 +3399,7 @@
     <contact>2147483647 </contact>
     <micrCode>141750002</micrCode>
     <ifscCode>BDBL0001386</ifscCode>
-    <bankLoc>1862</bankLoc>
+    <bankLoc>1909</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jorhat </name>
@@ -3345,7 +3408,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750002</micrCode>
     <ifscCode>BDBL0001387</ifscCode>
-    <bankLoc>1729</bankLoc>
+    <bankLoc>1769</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bundashil </name>
@@ -3354,7 +3417,7 @@
     <contact>66090909 </contact>
     <micrCode>788750501</micrCode>
     <ifscCode>BDBL0001388</ifscCode>
-    <bankLoc>1731</bankLoc>
+    <bankLoc>1771</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalinagar </name>
@@ -3363,7 +3426,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750503</micrCode>
     <ifscCode>BDBL0001389</ifscCode>
-    <bankLoc>1731</bankLoc>
+    <bankLoc>1771</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karimganj </name>
@@ -3372,7 +3435,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750102</micrCode>
     <ifscCode>BDBL0001390</ifscCode>
-    <bankLoc>1731</bankLoc>
+    <bankLoc>1771</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lakhipur </name>
@@ -3381,7 +3444,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750506</micrCode>
     <ifscCode>BDBL0001391</ifscCode>
-    <bankLoc>1721</bankLoc>
+    <bankLoc>1761</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nandirgram </name>
@@ -3390,7 +3453,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750507</micrCode>
     <ifscCode>BDBL0001392</ifscCode>
-    <bankLoc>1721</bankLoc>
+    <bankLoc>1761</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basantapur </name>
@@ -3399,7 +3462,7 @@
     <contact>2147483647 </contact>
     <micrCode>852750601</micrCode>
     <ifscCode>BDBL0001393</ifscCode>
-    <bankLoc>1771</bankLoc>
+    <bankLoc>1812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chahatpur </name>
@@ -3408,7 +3471,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750501</micrCode>
     <ifscCode>BDBL0001394</ifscCode>
-    <bankLoc>1740</bankLoc>
+    <bankLoc>1780</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Forbesganj </name>
@@ -3417,7 +3480,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750302</micrCode>
     <ifscCode>BDBL0001395</ifscCode>
-    <bankLoc>1740</bankLoc>
+    <bankLoc>1780</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadwa </name>
@@ -3426,7 +3489,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750701</micrCode>
     <ifscCode>BDBL0001396</ifscCode>
-    <bankLoc>1753</bankLoc>
+    <bankLoc>1794</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kathamatha </name>
@@ -3435,7 +3498,7 @@
     <contact>2147483647 </contact>
     <micrCode>855750502</micrCode>
     <ifscCode>BDBL0001397</ifscCode>
-    <bankLoc>1755</bankLoc>
+    <bankLoc>1796</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Katihar </name>
@@ -3444,7 +3507,7 @@
     <contact>2147483647 </contact>
     <micrCode>854750202</micrCode>
     <ifscCode>BDBL0001398</ifscCode>
-    <bankLoc>1753</bankLoc>
+    <bankLoc>1794</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Debagram </name>
@@ -3453,7 +3516,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750501</micrCode>
     <ifscCode>BDBL0001399</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Goribpur </name>
@@ -3462,7 +3525,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750602</micrCode>
     <ifscCode>BDBL0001400</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Krishnanagar </name>
@@ -3471,7 +3534,7 @@
     <contact>2147483647 </contact>
     <micrCode>741750102</micrCode>
     <ifscCode>BDBL0001401</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Durgapur ,malda </name>
@@ -3480,7 +3543,7 @@
     <contact>66090909 </contact>
     <micrCode>732750503</micrCode>
     <ifscCode>BDBL0001402</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaliachak </name>
@@ -3489,7 +3552,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750505</micrCode>
     <ifscCode>BDBL0001403</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baragachhia </name>
@@ -3498,7 +3561,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750501</micrCode>
     <ifscCode>BDBL0001404</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malior </name>
@@ -3507,7 +3570,7 @@
     <contact>2147483647 </contact>
     <micrCode>732750507</micrCode>
     <ifscCode>BDBL0001405</ifscCode>
-    <bankLoc>1916</bankLoc>
+    <bankLoc>1975</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bagha Jatin </name>
@@ -3516,7 +3579,7 @@
     <contact>66090909 </contact>
     <micrCode>700750005</micrCode>
     <ifscCode>BDBL0001406</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bishnupur </name>
@@ -3525,7 +3588,7 @@
     <contact>2147483647 </contact>
     <micrCode>722750202</micrCode>
     <ifscCode>BDBL0001407</ifscCode>
-    <bankLoc>1906</bankLoc>
+    <bankLoc>1963</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chapaboni </name>
@@ -3534,7 +3597,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750901</micrCode>
     <ifscCode>BDBL0001408</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haldia </name>
@@ -3543,7 +3606,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750002</micrCode>
     <ifscCode>BDBL0001409</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Math Chandipur </name>
@@ -3552,7 +3615,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750702</micrCode>
     <ifscCode>BDBL0001410</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanthi </name>
@@ -3561,7 +3624,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750402</micrCode>
     <ifscCode>BDBL0001411</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lalpur </name>
@@ -3570,7 +3633,7 @@
     <contact>2147483647 </contact>
     <micrCode>723750501</micrCode>
     <ifscCode>BDBL0001412</ifscCode>
-    <bankLoc>1921</bankLoc>
+    <bankLoc>1981</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mamudpur </name>
@@ -3579,7 +3642,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750805</micrCode>
     <ifscCode>BDBL0001413</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohammadpur </name>
@@ -3588,7 +3651,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750806</micrCode>
     <ifscCode>BDBL0001414</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paikpari </name>
@@ -3597,7 +3660,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750151</micrCode>
     <ifscCode>BDBL0001415</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pathar Mohora </name>
@@ -3606,7 +3669,7 @@
     <contact>2147483647 </contact>
     <micrCode>723750502</micrCode>
     <ifscCode>BDBL0001416</ifscCode>
-    <bankLoc>1921</bankLoc>
+    <bankLoc>1981</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purulia </name>
@@ -3615,7 +3678,7 @@
     <contact>2147483647 </contact>
     <micrCode>723750002</micrCode>
     <ifscCode>BDBL0001417</ifscCode>
-    <bankLoc>1921</bankLoc>
+    <bankLoc>1981</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tamluk </name>
@@ -3624,7 +3687,7 @@
     <contact>66090909 </contact>
     <micrCode>721750202</micrCode>
     <ifscCode>BDBL0001418</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amalner </name>
@@ -3633,7 +3696,7 @@
     <contact>2147483647 </contact>
     <micrCode>425750152</micrCode>
     <ifscCode>BDBL0001419</ifscCode>
-    <bankLoc>1839</bankLoc>
+    <bankLoc>1883</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Boxipur Raver </name>
@@ -3642,7 +3705,16 @@
     <contact>2147483647 </contact>
     <micrCode>425750252</micrCode>
     <ifscCode>BDBL0001420</ifscCode>
-    <bankLoc>1839</bankLoc>
+    <bankLoc>1883</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamti </name>
+    <city>Bhopal </city>
+    <address>224 Kamti Gram P.O.AAMGAON Chhota GADARWADA,DIST.NARSINGHPUR,MADHYA Pradesh,pin 487551 </address>
+    <contact>66090909 </contact>
+    <micrCode>487750501</micrCode>
+    <ifscCode>BDBL0001421</ifscCode>
+    <bankLoc>1872</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satna </name>
@@ -3651,7 +3723,7 @@
     <contact>66090909 </contact>
     <micrCode>485750001</micrCode>
     <ifscCode>BDBL0001422</ifscCode>
-    <bankLoc>1833</bankLoc>
+    <bankLoc>1877</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Takali Pracha </name>
@@ -3660,7 +3732,7 @@
     <contact>2147483647 </contact>
     <micrCode>424750202</micrCode>
     <ifscCode>BDBL0001423</ifscCode>
-    <bankLoc>1839</bankLoc>
+    <bankLoc>1883</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delapeer </name>
@@ -3669,7 +3741,7 @@
     <contact>66090909 </contact>
     <micrCode>243750002</micrCode>
     <ifscCode>BDBL0001424</ifscCode>
-    <bankLoc>1889</bankLoc>
+    <bankLoc>1940</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chhutmalpur </name>
@@ -3678,7 +3750,7 @@
     <contact>66090909 </contact>
     <micrCode>247750051</micrCode>
     <ifscCode>BDBL0001425</ifscCode>
-    <bankLoc>1900</bankLoc>
+    <bankLoc>1955</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhampur </name>
@@ -3687,7 +3759,25 @@
     <contact>2147483647 </contact>
     <micrCode>246750602</micrCode>
     <ifscCode>BDBL0001426</ifscCode>
-    <bankLoc>1890</bankLoc>
+    <bankLoc>1941</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Moradabad </name>
+    <city>Moradabad </city>
+    <address>Near Jaipur Golden Transport Company,kapoor Company Chauraha,moradabad,uttar Pradesh,pin 244001 </address>
+    <contact>66090909 </contact>
+    <micrCode>244750002</micrCode>
+    <ifscCode>BDBL0001427</ifscCode>
+    <bankLoc>1952</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rampur </name>
+    <city>Moradabad </city>
+    <address>M J Complex,near Shagbad GATE,RAMPUR,P.O.RAMPUR,UTTAR Pradesh,pin 244901 </address>
+    <contact>66090909 </contact>
+    <micrCode>244750102</micrCode>
+    <ifscCode>BDBL0001428</ifscCode>
+    <bankLoc>1954</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Areraj </name>
@@ -3696,7 +3786,7 @@
     <contact>66090909 </contact>
     <micrCode>845750501</micrCode>
     <ifscCode>BDBL0001429</ifscCode>
-    <bankLoc>1747</bankLoc>
+    <bankLoc>1788</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhagwanpur </name>
@@ -3705,7 +3795,7 @@
     <contact>2147483647 </contact>
     <micrCode>844750501</micrCode>
     <ifscCode>BDBL0001430</ifscCode>
-    <bankLoc>1772</bankLoc>
+    <bankLoc>1813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dalsingsarai </name>
@@ -3714,7 +3804,7 @@
     <contact>2147483647 </contact>
     <micrCode>848750102</micrCode>
     <ifscCode>BDBL0001431</ifscCode>
-    <bankLoc>1766</bankLoc>
+    <bankLoc>1807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhum Nagar </name>
@@ -3723,7 +3813,7 @@
     <contact>2147483647 </contact>
     <micrCode>845750601</micrCode>
     <ifscCode>BDBL0001432</ifscCode>
-    <bankLoc>1773</bankLoc>
+    <bankLoc>1814</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Motihari </name>
@@ -3732,7 +3822,7 @@
     <contact>66090909 </contact>
     <micrCode>845750002</micrCode>
     <ifscCode>BDBL0001433</ifscCode>
-    <bankLoc>1747</bankLoc>
+    <bankLoc>1788</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amoni </name>
@@ -3741,7 +3831,7 @@
     <contact>66090909 </contact>
     <micrCode>782750501</micrCode>
     <ifscCode>BDBL0001434</ifscCode>
-    <bankLoc>1735</bankLoc>
+    <bankLoc>1775</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagaon </name>
@@ -3750,7 +3840,7 @@
     <contact>2147483647 </contact>
     <micrCode>782750102</micrCode>
     <ifscCode>BDBL0001435</ifscCode>
-    <bankLoc>1735</bankLoc>
+    <bankLoc>1775</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Natun Gaon </name>
@@ -3759,7 +3849,7 @@
     <contact>2147483647 </contact>
     <micrCode>782750505</micrCode>
     <ifscCode>BDBL0001436</ifscCode>
-    <bankLoc>1734</bankLoc>
+    <bankLoc>1774</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PUB Dhaniram Pather </name>
@@ -3768,7 +3858,7 @@
     <contact>2147483647 </contact>
     <micrCode>782750502</micrCode>
     <ifscCode>BDBL0001437</ifscCode>
-    <bankLoc>1735</bankLoc>
+    <bankLoc>1775</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tatikata </name>
@@ -3777,7 +3867,7 @@
     <contact>2147483647 </contact>
     <micrCode>782750506</micrCode>
     <ifscCode>BDBL0001438</ifscCode>
-    <bankLoc>1734</bankLoc>
+    <bankLoc>1774</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arrah </name>
@@ -3786,7 +3876,7 @@
     <contact>2147483647 </contact>
     <micrCode>802750102</micrCode>
     <ifscCode>BDBL0001439</ifscCode>
-    <bankLoc>1745</bankLoc>
+    <bankLoc>1785</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dariyapur </name>
@@ -3795,7 +3885,7 @@
     <contact>2147483647 </contact>
     <micrCode>800750502</micrCode>
     <ifscCode>BDBL0001440</ifscCode>
-    <bankLoc>1745</bankLoc>
+    <bankLoc>1785</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jehanabad </name>
@@ -3804,7 +3894,7 @@
     <contact>2147483647 </contact>
     <micrCode>804750002</micrCode>
     <ifscCode>BDBL0001441</ifscCode>
-    <bankLoc>1751</bankLoc>
+    <bankLoc>1792</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Boring Road, Patna </name>
@@ -3813,7 +3903,7 @@
     <contact>2147483647 </contact>
     <micrCode>800750002</micrCode>
     <ifscCode>BDBL0001442</ifscCode>
-    <bankLoc>1762</bankLoc>
+    <bankLoc>1803</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sheikhpura </name>
@@ -3822,7 +3912,7 @@
     <contact>2147483647 </contact>
     <micrCode>811750302</micrCode>
     <ifscCode>BDBL0001443</ifscCode>
-    <bankLoc>1768</bankLoc>
+    <bankLoc>1809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balod </name>
@@ -3831,7 +3921,7 @@
     <contact>2147483647 </contact>
     <micrCode>491750501</micrCode>
     <ifscCode>BDBL0001444</ifscCode>
-    <bankLoc>1774</bankLoc>
+    <bankLoc>1815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bemetara </name>
@@ -3840,7 +3930,7 @@
     <contact>2147483647 </contact>
     <micrCode>491750301</micrCode>
     <ifscCode>BDBL0001445</ifscCode>
-    <bankLoc>1775</bankLoc>
+    <bankLoc>1816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhatapara </name>
@@ -3849,7 +3939,7 @@
     <contact>2147483647 </contact>
     <micrCode>493750201</micrCode>
     <ifscCode>BDBL0001446</ifscCode>
-    <bankLoc>1783</bankLoc>
+    <bankLoc>1824</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bilaspur </name>
@@ -3858,7 +3948,7 @@
     <contact>66090909 </contact>
     <micrCode>495750002</micrCode>
     <ifscCode>BDBL0001447</ifscCode>
-    <bankLoc>1776</bankLoc>
+    <bankLoc>1817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhamtari </name>
@@ -3867,7 +3957,7 @@
     <contact>2147483647 </contact>
     <micrCode>493750001</micrCode>
     <ifscCode>BDBL0001448</ifscCode>
-    <bankLoc>1777</bankLoc>
+    <bankLoc>1818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dongargarh </name>
@@ -3876,7 +3966,7 @@
     <contact>2147483647 </contact>
     <micrCode>491750502</micrCode>
     <ifscCode>BDBL0001449</ifscCode>
-    <bankLoc>1784</bankLoc>
+    <bankLoc>1825</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Durg </name>
@@ -3885,7 +3975,7 @@
     <contact>2147483647 </contact>
     <micrCode>491750001</micrCode>
     <ifscCode>BDBL0001450</ifscCode>
-    <bankLoc>1783</bankLoc>
+    <bankLoc>1824</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanker </name>
@@ -3894,7 +3984,7 @@
     <contact>2147483647 </contact>
     <micrCode>494750101</micrCode>
     <ifscCode>BDBL0001451</ifscCode>
-    <bankLoc>1779</bankLoc>
+    <bankLoc>1820</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Egarkunda </name>
@@ -3903,7 +3993,7 @@
     <contact>2147483647 </contact>
     <micrCode>826750501</micrCode>
     <ifscCode>BDBL0001452</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1848</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rairangpur </name>
@@ -3912,7 +4002,7 @@
     <contact>66090909 </contact>
     <micrCode>757750102</micrCode>
     <ifscCode>BDBL0001453</ifscCode>
-    <bankLoc>1857</bankLoc>
+    <bankLoc>1903</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dalkhola </name>
@@ -3921,7 +4011,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750602</micrCode>
     <ifscCode>BDBL0001454</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Islampur </name>
@@ -3930,7 +4020,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750402</micrCode>
     <ifscCode>BDBL0001455</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaliyaganj </name>
@@ -3939,7 +4029,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750302</micrCode>
     <ifscCode>BDBL0001456</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kishanganj </name>
@@ -3948,7 +4038,7 @@
     <contact>2147483647 </contact>
     <micrCode>855750002</micrCode>
     <ifscCode>BDBL0001457</ifscCode>
-    <bankLoc>1755</bankLoc>
+    <bankLoc>1796</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rasidpur </name>
@@ -3957,7 +4047,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750608</micrCode>
     <ifscCode>BDBL0001458</ifscCode>
-    <bankLoc>1923</bankLoc>
+    <bankLoc>1983</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>TIN Mile </name>
@@ -3966,7 +4056,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750611</micrCode>
     <ifscCode>BDBL0001459</ifscCode>
-    <bankLoc>1920</bankLoc>
+    <bankLoc>1980</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dalurbandh </name>
@@ -3975,7 +4065,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750604</micrCode>
     <ifscCode>BDBL0001460</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nutanhat </name>
@@ -3984,7 +4074,7 @@
     <contact>2147483647 </contact>
     <micrCode>713750607</micrCode>
     <ifscCode>BDBL0001461</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paikpara </name>
@@ -3993,7 +4083,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750601</micrCode>
     <ifscCode>BDBL0001462</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Seorakuri </name>
@@ -4002,7 +4092,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750805</micrCode>
     <ifscCode>BDBL0001463</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sundipur </name>
@@ -4011,7 +4101,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001464</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Suri </name>
@@ -4020,7 +4110,7 @@
     <contact>2147483647 </contact>
     <micrCode>731750302</micrCode>
     <ifscCode>BDBL0001465</ifscCode>
-    <bankLoc>1908</bankLoc>
+    <bankLoc>1965</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bagdogra </name>
@@ -4029,7 +4119,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750501</micrCode>
     <ifscCode>BDBL0001466</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangtok </name>
@@ -4038,7 +4128,7 @@
     <contact>2147483647 </contact>
     <micrCode>737750002</micrCode>
     <ifscCode>BDBL0001467</ifscCode>
-    <bankLoc>1876</bankLoc>
+    <bankLoc>1924</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalimpong </name>
@@ -4047,7 +4137,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750202</micrCode>
     <ifscCode>BDBL0001468</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurseong </name>
@@ -4056,7 +4146,7 @@
     <contact>2147483647 </contact>
     <micrCode>734750603</micrCode>
     <ifscCode>BDBL0001469</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andar </name>
@@ -4065,7 +4155,7 @@
     <contact>2147483647 </contact>
     <micrCode>841750701</micrCode>
     <ifscCode>BDBL0001470</ifscCode>
-    <bankLoc>1770</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bahrauli </name>
@@ -4074,7 +4164,7 @@
     <contact>2147483647 </contact>
     <micrCode>841750502</micrCode>
     <ifscCode>BDBL0001471</ifscCode>
-    <bankLoc>1767</bankLoc>
+    <bankLoc>1808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gopalganj </name>
@@ -4083,7 +4173,7 @@
     <contact>2147483647 </contact>
     <micrCode>841750102</micrCode>
     <ifscCode>BDBL0001472</ifscCode>
-    <bankLoc>1749</bankLoc>
+    <bankLoc>1790</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parsa </name>
@@ -4092,7 +4182,7 @@
     <contact>2147483647 </contact>
     <micrCode>841750504</micrCode>
     <ifscCode>BDBL0001473</ifscCode>
-    <bankLoc>1767</bankLoc>
+    <bankLoc>1808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad </name>
@@ -4101,7 +4191,7 @@
     <contact>2147483647 </contact>
     <micrCode>380750001</micrCode>
     <ifscCode>BDBL0001474</ifscCode>
-    <bankLoc>1788</bankLoc>
+    <bankLoc>1829</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anand </name>
@@ -4110,7 +4200,7 @@
     <contact>2147483647 </contact>
     <micrCode>388750001</micrCode>
     <ifscCode>BDBL0001475</ifscCode>
-    <bankLoc>1789</bankLoc>
+    <bankLoc>1830</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bardoli </name>
@@ -4119,7 +4209,7 @@
     <contact>66090909 </contact>
     <micrCode>394750051</micrCode>
     <ifscCode>BDBL0001476</ifscCode>
-    <bankLoc>1795</bankLoc>
+    <bankLoc>1836</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharuch </name>
@@ -4128,7 +4218,7 @@
     <contact>66090909 </contact>
     <micrCode>392750001</micrCode>
     <ifscCode>BDBL0001477</ifscCode>
-    <bankLoc>1790</bankLoc>
+    <bankLoc>1831</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surendranagar </name>
@@ -4137,7 +4227,7 @@
     <contact>2147483647 </contact>
     <micrCode>363750001</micrCode>
     <ifscCode>BDBL0001478</ifscCode>
-    <bankLoc>1796</bankLoc>
+    <bankLoc>1837</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Unjha </name>
@@ -4146,7 +4236,7 @@
     <contact>2147483647 </contact>
     <micrCode>384750051</micrCode>
     <ifscCode>BDBL0001479</ifscCode>
-    <bankLoc>1792</bankLoc>
+    <bankLoc>1833</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadodara </name>
@@ -4155,7 +4245,7 @@
     <contact>66090909 </contact>
     <micrCode>390750001</micrCode>
     <ifscCode>BDBL0001480</ifscCode>
-    <bankLoc>1797</bankLoc>
+    <bankLoc>1838</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vapi </name>
@@ -4164,7 +4254,7 @@
     <contact>66090909 </contact>
     <micrCode>396750031</micrCode>
     <ifscCode>BDBL0001481</ifscCode>
-    <bankLoc>1798</bankLoc>
+    <bankLoc>1839</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bokakhat </name>
@@ -4173,7 +4263,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750503</micrCode>
     <ifscCode>BDBL0001482</ifscCode>
-    <bankLoc>1727</bankLoc>
+    <bankLoc>1767</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Misamari </name>
@@ -4182,7 +4272,7 @@
     <contact>2147483647 </contact>
     <micrCode>784750503</micrCode>
     <ifscCode>BDBL0001483</ifscCode>
-    <bankLoc>1738</bankLoc>
+    <bankLoc>1778</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dergaon </name>
@@ -4191,7 +4281,7 @@
     <contact>66090909 </contact>
     <micrCode>785750504</micrCode>
     <ifscCode>BDBL0001484</ifscCode>
-    <bankLoc>1727</bankLoc>
+    <bankLoc>1767</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Golaghat </name>
@@ -4200,7 +4290,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750102</micrCode>
     <ifscCode>BDBL0001485</ifscCode>
-    <bankLoc>1727</bankLoc>
+    <bankLoc>1767</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gamariguri </name>
@@ -4209,7 +4299,7 @@
     <contact>66090909 </contact>
     <micrCode>785750505</micrCode>
     <ifscCode>BDBL0001486</ifscCode>
-    <bankLoc>1727</bankLoc>
+    <bankLoc>1767</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>North Lakhimpur </name>
@@ -4218,7 +4308,7 @@
     <contact>66090909 </contact>
     <micrCode>787750002</micrCode>
     <ifscCode>BDBL0001487</ifscCode>
-    <bankLoc>1733</bankLoc>
+    <bankLoc>1773</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangaldai </name>
@@ -4227,7 +4317,7 @@
     <contact>66090909 </contact>
     <micrCode>784750102</micrCode>
     <ifscCode>BDBL0001488</ifscCode>
-    <bankLoc>1723</bankLoc>
+    <bankLoc>1763</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mitham Bangali </name>
@@ -4236,7 +4326,16 @@
     <contact>2147483647 </contact>
     <micrCode>784750504</micrCode>
     <ifscCode>BDBL0001489</ifscCode>
-    <bankLoc>1738</bankLoc>
+    <bankLoc>1778</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vipatpura </name>
+    <city>Bhopal </city>
+    <address>Vill VIPATPURA,P.O.MAGARDHA,DIST.NARSINGHPUR,MADHYA Pradesh,pin 487001 </address>
+    <contact>66090909 </contact>
+    <micrCode>487750001</micrCode>
+    <ifscCode>BDBL0001490</ifscCode>
+    <bankLoc>1872</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tengahola Sarupathar </name>
@@ -4245,7 +4344,7 @@
     <contact>2147483647 </contact>
     <micrCode>785750506</micrCode>
     <ifscCode>BDBL0001491</ifscCode>
-    <bankLoc>1727</bankLoc>
+    <bankLoc>1767</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamugurihat </name>
@@ -4254,7 +4353,7 @@
     <contact>2147483647 </contact>
     <micrCode>784750502</micrCode>
     <ifscCode>BDBL0001492</ifscCode>
-    <bankLoc>1738</bankLoc>
+    <bankLoc>1778</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gakul Nagar </name>
@@ -4263,7 +4362,7 @@
     <contact>2147483647 </contact>
     <micrCode>799750510</micrCode>
     <ifscCode>BDBL0001493</ifscCode>
-    <bankLoc>1884</bankLoc>
+    <bankLoc>1934</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naihati </name>
@@ -4272,7 +4371,7 @@
     <contact>66090909 </contact>
     <micrCode>700750053</micrCode>
     <ifscCode>BDBL0001494</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barrackpore </name>
@@ -4281,7 +4380,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750012</micrCode>
     <ifscCode>BDBL0001495</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thakurpukur </name>
@@ -4290,7 +4389,7 @@
     <contact>66090909 </contact>
     <micrCode>700750073</micrCode>
     <ifscCode>BDBL0001496</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uluberia </name>
@@ -4299,7 +4398,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750075</micrCode>
     <ifscCode>BDBL0001497</ifscCode>
-    <bankLoc>1913</bankLoc>
+    <bankLoc>1972</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>East Patel Nagar </name>
@@ -4308,7 +4407,7 @@
     <contact>2147483647 </contact>
     <micrCode>110750004</micrCode>
     <ifscCode>BDBL0001498</ifscCode>
-    <bankLoc>1785</bankLoc>
+    <bankLoc>1826</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mandsaur </name>
@@ -4317,7 +4416,25 @@
     <contact>2147483647 </contact>
     <micrCode>458750001</micrCode>
     <ifscCode>BDBL0001499</ifscCode>
-    <bankLoc>1828</bankLoc>
+    <bankLoc>1871</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khargone </name>
+    <city>Bhopal </city>
+    <address>Show Room NO.C/16,C-BLOCK,GROUND Floor,radha Vallabh Market,near Dhfl Khargone 451001 </address>
+    <contact>66090909 </contact>
+    <micrCode>451750001</micrCode>
+    <ifscCode>BDBL0001500</ifscCode>
+    <bankLoc>1870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shujalpur </name>
+    <city>Indore </city>
+    <address>Plot NO.32,WARD NO 15,shastri MARG,P.O.SHUJALPUR,MADHYA Pradesh,pin 465333 </address>
+    <contact>66090909 </contact>
+    <micrCode>465750051</micrCode>
+    <ifscCode>BDBL0001501</ifscCode>
+    <bankLoc>1878</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chahata </name>
@@ -4326,7 +4443,7 @@
     <contact>66090909 </contact>
     <micrCode>755750202</micrCode>
     <ifscCode>BDBL0001502</ifscCode>
-    <bankLoc>1854</bankLoc>
+    <bankLoc>1900</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Usthi </name>
@@ -4335,7 +4452,16 @@
     <contact>66090909 </contact>
     <micrCode>700750076</micrCode>
     <ifscCode>BDBL0001503</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jagduar </name>
+    <city>Jagduar </city>
+    <address>Jogduar Tini ALI,P.O.TEOK,DIST.JORHAT,ASSAM,PIN 785112 </address>
+    <contact>66090909 </contact>
+    <micrCode>785750509</micrCode>
+    <ifscCode>BDBL0001504</ifscCode>
+    <bankLoc>1769</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Beliaghata </name>
@@ -4344,7 +4470,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750014</micrCode>
     <ifscCode>BDBL0001505</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tinsukia </name>
@@ -4353,7 +4479,7 @@
     <contact>66090909 </contact>
     <micrCode>786750202</micrCode>
     <ifscCode>BDBL0001506</ifscCode>
-    <bankLoc>1739</bankLoc>
+    <bankLoc>1779</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Darjeeling </name>
@@ -4362,7 +4488,16 @@
     <contact>2147483647 </contact>
     <micrCode>734750102</micrCode>
     <ifscCode>BDBL0001507</ifscCode>
-    <bankLoc>1910</bankLoc>
+    <bankLoc>1969</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ranaghat </name>
+    <city>Krishnanagar </city>
+    <address>12,s V SARANI,P.O.RANAGHAT,NADIA,WEST Bengal,pin 741201 </address>
+    <contact>66090909 </contact>
+    <micrCode>741750202</micrCode>
+    <ifscCode>BDBL0001508</ifscCode>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chinsurah </name>
@@ -4371,7 +4506,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750024</micrCode>
     <ifscCode>BDBL0001509</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kholaghata </name>
@@ -4380,7 +4515,7 @@
     <contact>66090909 </contact>
     <micrCode>700750046</micrCode>
     <ifscCode>BDBL0001510</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhadura </name>
@@ -4389,7 +4524,7 @@
     <contact>66090909 </contact>
     <micrCode>700750015</micrCode>
     <ifscCode>BDBL0001511</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagda </name>
@@ -4398,7 +4533,7 @@
     <contact>2147483647 </contact>
     <micrCode>456750101</micrCode>
     <ifscCode>BDBL0001512</ifscCode>
-    <bankLoc>1836</bankLoc>
+    <bankLoc>1880</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neemuch </name>
@@ -4407,7 +4542,7 @@
     <contact>2147483647 </contact>
     <micrCode>458750051</micrCode>
     <ifscCode>BDBL0001513</ifscCode>
-    <bankLoc>1829</bankLoc>
+    <bankLoc>1873</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shajapur </name>
@@ -4416,7 +4551,7 @@
     <contact>2147483647 </contact>
     <micrCode>465750101</micrCode>
     <ifscCode>BDBL0001514</ifscCode>
-    <bankLoc>1834</bankLoc>
+    <bankLoc>1878</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ujjain </name>
@@ -4425,7 +4560,7 @@
     <contact>66090909 </contact>
     <micrCode>456750002</micrCode>
     <ifscCode>BDBL0001515</ifscCode>
-    <bankLoc>1836</bankLoc>
+    <bankLoc>1880</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alwar </name>
@@ -4434,7 +4569,7 @@
     <contact>2147483647 </contact>
     <micrCode>301750002</micrCode>
     <ifscCode>BDBL0001516</ifscCode>
-    <bankLoc>1865</bankLoc>
+    <bankLoc>1912</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhilwara </name>
@@ -4443,7 +4578,7 @@
     <contact>66090909 </contact>
     <micrCode>311750002</micrCode>
     <ifscCode>BDBL0001517</ifscCode>
-    <bankLoc>1867</bankLoc>
+    <bankLoc>1914</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur </name>
@@ -4452,7 +4587,7 @@
     <contact>2147483647 </contact>
     <micrCode>302750001</micrCode>
     <ifscCode>BDBL0001518</ifscCode>
-    <bankLoc>1870</bankLoc>
+    <bankLoc>1917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rolsahabsar </name>
@@ -4461,7 +4596,7 @@
     <contact>2147483647 </contact>
     <micrCode>332750002</micrCode>
     <ifscCode>BDBL0001519</ifscCode>
-    <bankLoc>1874</bankLoc>
+    <bankLoc>1922</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sikar </name>
@@ -4470,7 +4605,7 @@
     <contact>66090909 </contact>
     <micrCode>332750003</micrCode>
     <ifscCode>BDBL0001520</ifscCode>
-    <bankLoc>1874</bankLoc>
+    <bankLoc>1922</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tonk </name>
@@ -4479,7 +4614,7 @@
     <contact>66090909 </contact>
     <micrCode>304750002</micrCode>
     <ifscCode>BDBL0001521</ifscCode>
-    <bankLoc>1865</bankLoc>
+    <bankLoc>1912</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kailashahar </name>
@@ -4488,7 +4623,7 @@
     <contact>825893338 </contact>
     <micrCode>799750302</micrCode>
     <ifscCode>BDBL0001522</ifscCode>
-    <bankLoc>1883</bankLoc>
+    <bankLoc>1933</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalacharra </name>
@@ -4497,7 +4632,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750502</micrCode>
     <ifscCode>BDBL0001523</ifscCode>
-    <bankLoc>1731</bankLoc>
+    <bankLoc>1771</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolasib </name>
@@ -4506,7 +4641,7 @@
     <contact>66090909 </contact>
     <micrCode>796750501</micrCode>
     <ifscCode>BDBL0001524</ifscCode>
-    <bankLoc>1849</bankLoc>
+    <bankLoc>1895</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumarghat </name>
@@ -4515,7 +4650,16 @@
     <contact>2147483647 </contact>
     <micrCode>799750303</micrCode>
     <ifscCode>BDBL0001525</ifscCode>
-    <bankLoc>1883</bankLoc>
+    <bankLoc>1933</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>North Fulbari </name>
+    <city>Karimganj </city>
+    <address>Vill North FULBARI,P.O Premtala CHURAIBARI,DIST.NORTH Tripura,pin 799262 </address>
+    <contact>66090909 </contact>
+    <micrCode>799750504</micrCode>
+    <ifscCode>BDBL0001526</ifscCode>
+    <bankLoc>1933</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pangram </name>
@@ -4524,7 +4668,7 @@
     <contact>66090909 </contact>
     <micrCode>788750508</micrCode>
     <ifscCode>BDBL0001527</ifscCode>
-    <bankLoc>1721</bankLoc>
+    <bankLoc>1761</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Silchar </name>
@@ -4533,7 +4677,7 @@
     <contact>66090909 </contact>
     <micrCode>788750002</micrCode>
     <ifscCode>BDBL0001528</ifscCode>
-    <bankLoc>1721</bankLoc>
+    <bankLoc>1761</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tulagram </name>
@@ -4542,7 +4686,7 @@
     <contact>2147483647 </contact>
     <micrCode>788750509</micrCode>
     <ifscCode>BDBL0001529</ifscCode>
-    <bankLoc>1721</bankLoc>
+    <bankLoc>1761</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mirganj </name>
@@ -4551,7 +4695,7 @@
     <contact>2147483647 </contact>
     <micrCode>852750701</micrCode>
     <ifscCode>BDBL0001530</ifscCode>
-    <bankLoc>1757</bankLoc>
+    <bankLoc>1798</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balurghat </name>
@@ -4560,7 +4704,7 @@
     <contact>2147483647 </contact>
     <micrCode>733750102</micrCode>
     <ifscCode>BDBL0001531</ifscCode>
-    <bankLoc>1923</bankLoc>
+    <bankLoc>1983</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharagpur </name>
@@ -4569,7 +4713,7 @@
     <contact>2147483647 </contact>
     <micrCode>721750102</micrCode>
     <ifscCode>BDBL0001532</ifscCode>
-    <bankLoc>1924</bankLoc>
+    <bankLoc>1984</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nimbhora Khurd </name>
@@ -4578,7 +4722,7 @@
     <contact>66090909 </contact>
     <micrCode>425750101</micrCode>
     <ifscCode>BDBL0001533</ifscCode>
-    <bankLoc>1839</bankLoc>
+    <bankLoc>1883</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vashi </name>
@@ -4587,7 +4731,16 @@
     <contact>2147483647 </contact>
     <micrCode>400750003</micrCode>
     <ifscCode>BDBL0001534</ifscCode>
-    <bankLoc>1841</bankLoc>
+    <bankLoc>1886</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Haldwani </name>
+    <city>Moradabad </city>
+    <address>Aoitalliandobasti,neasaihospital,mukhanichouaha,haldwani,uttaakhand,pin263139 </address>
+    <contact>66090909 </contact>
+    <micrCode>263750002</micrCode>
+    <ifscCode>BDBL0001535</ifscCode>
+    <bankLoc>1960</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haridwar </name>
@@ -4596,7 +4749,25 @@
     <contact>66090909 </contact>
     <micrCode>249750002</micrCode>
     <ifscCode>BDBL0001536</ifscCode>
-    <bankLoc>1904</bankLoc>
+    <bankLoc>1959</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khatima </name>
+    <city>Khatima </city>
+    <address>OPP.CIVIL Hospital,sitarganj ROAD,KHATIMA,DIST.U.S Nagar,uttarakhand,pin 262308 </address>
+    <contact>66090909 </contact>
+    <micrCode>262750302</micrCode>
+    <ifscCode>BDBL0001537</ifscCode>
+    <bankLoc>1961</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saharanpur </name>
+    <city>Muradabad </city>
+    <address>3/135,dehradun ROAD,P.O.SAHARANPUR,UTTAR Pradesh,pin -247001 </address>
+    <contact>66090909 </contact>
+    <micrCode>247750002</micrCode>
+    <ifscCode>BDBL0001538</ifscCode>
+    <bankLoc>1955</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rosera </name>
@@ -4605,7 +4776,16 @@
     <contact>66090909 </contact>
     <micrCode>848750202</micrCode>
     <ifscCode>BDBL0001539</ifscCode>
-    <bankLoc>1766</bankLoc>
+    <bankLoc>1807</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bankura </name>
+    <city>Bankura </city>
+    <address>438,provincial Road,indragora,bankura,west Bengal,pin-722101 </address>
+    <contact>66090909 </contact>
+    <micrCode>722750002</micrCode>
+    <ifscCode>BDBL0001540</ifscCode>
+    <bankLoc>1963</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dehri ON Sone </name>
@@ -4614,7 +4794,7 @@
     <contact>66090909 </contact>
     <micrCode>821750701</micrCode>
     <ifscCode>BDBL0001542</ifscCode>
-    <bankLoc>1764</bankLoc>
+    <bankLoc>1805</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gaya </name>
@@ -4623,7 +4803,7 @@
     <contact>66090909 </contact>
     <micrCode>NA</micrCode>
     <ifscCode>BDBL0001543</ifscCode>
-    <bankLoc>1748</bankLoc>
+    <bankLoc>1789</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohania </name>
@@ -4632,7 +4812,7 @@
     <contact>2147483647 </contact>
     <micrCode>821750102</micrCode>
     <ifscCode>BDBL0001544</ifscCode>
-    <bankLoc>1752</bankLoc>
+    <bankLoc>1793</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Korba </name>
@@ -4641,7 +4821,7 @@
     <contact>66090909 </contact>
     <micrCode>495750301</micrCode>
     <ifscCode>BDBL0001545</ifscCode>
-    <bankLoc>1781</bankLoc>
+    <bankLoc>1822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kawardha </name>
@@ -4650,7 +4830,7 @@
     <contact>2147483647 </contact>
     <micrCode>491750201</micrCode>
     <ifscCode>BDBL0001546</ifscCode>
-    <bankLoc>1780</bankLoc>
+    <bankLoc>1821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahasamund </name>
@@ -4659,7 +4839,7 @@
     <contact>66090909 </contact>
     <micrCode>493750101</micrCode>
     <ifscCode>BDBL0001547</ifscCode>
-    <bankLoc>1783</bankLoc>
+    <bankLoc>1824</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mungeli </name>
@@ -4668,7 +4848,7 @@
     <contact>2147483647 </contact>
     <micrCode>495750501</micrCode>
     <ifscCode>BDBL0001548</ifscCode>
-    <bankLoc>1782</bankLoc>
+    <bankLoc>1823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur </name>
@@ -4677,7 +4857,7 @@
     <contact>2147483647 </contact>
     <micrCode>492750002</micrCode>
     <ifscCode>BDBL0001549</ifscCode>
-    <bankLoc>1783</bankLoc>
+    <bankLoc>1824</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajnandgaon </name>
@@ -4686,7 +4866,7 @@
     <contact>66090909 </contact>
     <micrCode>491750101</micrCode>
     <ifscCode>BDBL0001550</ifscCode>
-    <bankLoc>1784</bankLoc>
+    <bankLoc>1825</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malkharoda </name>
@@ -4695,7 +4875,7 @@
     <contact>2147483647 </contact>
     <micrCode>495750504</micrCode>
     <ifscCode>BDBL0001551</ifscCode>
-    <bankLoc>1778</bankLoc>
+    <bankLoc>1819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarkho </name>
@@ -4704,7 +4884,7 @@
     <contact>2147483647 </contact>
     <micrCode>495750502</micrCode>
     <ifscCode>BDBL0001552</ifscCode>
-    <bankLoc>1778</bankLoc>
+    <bankLoc>1819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sheorinarayan </name>
@@ -4713,7 +4893,7 @@
     <contact>2147483647 </contact>
     <micrCode>495750503</micrCode>
     <ifscCode>BDBL0001553</ifscCode>
-    <bankLoc>1778</bankLoc>
+    <bankLoc>1819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamaniguri </name>
@@ -4722,7 +4902,7 @@
     <contact>2147483647 </contact>
     <micrCode>855750504</micrCode>
     <ifscCode>BDBL0001554</ifscCode>
-    <bankLoc>1755</bankLoc>
+    <bankLoc>1796</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhamsana </name>
@@ -4731,7 +4911,7 @@
     <contact>66090909 </contact>
     <micrCode>380750002</micrCode>
     <ifscCode>BDBL0001555</ifscCode>
-    <bankLoc>1791</bankLoc>
+    <bankLoc>1832</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valetva </name>
@@ -4740,7 +4920,7 @@
     <contact>2147483647 </contact>
     <micrCode>388750003</micrCode>
     <ifscCode>BDBL0001556</ifscCode>
-    <bankLoc>1789</bankLoc>
+    <bankLoc>1830</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat </name>
@@ -4749,7 +4929,7 @@
     <contact>66090909 </contact>
     <micrCode>395750001</micrCode>
     <ifscCode>BDBL0001557</ifscCode>
-    <bankLoc>1795</bankLoc>
+    <bankLoc>1836</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jitpura </name>
@@ -4758,7 +4938,34 @@
     <contact>2147483647 </contact>
     <micrCode>388750002</micrCode>
     <ifscCode>BDBL0001558</ifscCode>
-    <bankLoc>1789</bankLoc>
+    <bankLoc>1830</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chembur </name>
+    <city>Mumbai </city>
+    <address>Srinagar Heritage,shop NO.1,11TH Road,off Central Avenue Road,chembur,maharashtra,pin 400071 </address>
+    <contact>66090909 </contact>
+    <micrCode>400750006</micrCode>
+    <ifscCode>BDBL0001559</ifscCode>
+    <bankLoc>1885</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalgaon </name>
+    <city>Mumbai </city>
+    <address>Ground Floor,5 Dhake Colony,khaja Miya Road,jalgaon,ps Jilha Peth,maharashtra,pin 425001 </address>
+    <contact>66090909 </contact>
+    <micrCode>425750001</micrCode>
+    <ifscCode>BDBL0001561</ifscCode>
+    <bankLoc>1883</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Prabhadevi </name>
+    <city>Mumbai </city>
+    <address>Ground Floor,madhukunj Building,s G Road,p O Prabhadevi,mumbai,maharashtra,pin 400025 </address>
+    <contact>66090909 </contact>
+    <micrCode>400750002</micrCode>
+    <ifscCode>BDBL0001562</ifscCode>
+    <bankLoc>1885</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thane </name>
@@ -4767,7 +4974,7 @@
     <contact>2147483647 </contact>
     <micrCode>400750004</micrCode>
     <ifscCode>BDBL0001563</ifscCode>
-    <bankLoc>1847</bankLoc>
+    <bankLoc>1893</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulund </name>
@@ -4776,7 +4983,25 @@
     <contact>66090909 </contact>
     <micrCode>400750007</micrCode>
     <ifscCode>BDBL0001564</ifscCode>
-    <bankLoc>1847</bankLoc>
+    <bankLoc>1893</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vithalwadi </name>
+    <city>Pune </city>
+    <address>Ground Floor,near Water Tank,dehugaon,tal Haveli,vittalwadi Road,district Pune,maharashtra,pin-412109 </address>
+    <contact>66090909 </contact>
+    <micrCode>411750004</micrCode>
+    <ifscCode>BDBL0001565</ifscCode>
+    <bankLoc>1889</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kichha </name>
+    <city>Moradabad </city>
+    <address>Rudrapur ROAD,OPP.BANK OF Baroda,kichha,udham Singh Nagar,uttarakhand,pin 263148 </address>
+    <contact>66090909 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BDBL0001566</ifscCode>
+    <bankLoc>1961</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuchaman City </name>
@@ -4785,7 +5010,7 @@
     <contact>66090909 </contact>
     <micrCode>341750002</micrCode>
     <ifscCode>BDBL0001567</ifscCode>
-    <bankLoc>1873</bankLoc>
+    <bankLoc>1920</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kotputli </name>
@@ -4794,7 +5019,7 @@
     <contact>2147483647 </contact>
     <micrCode>303750003</micrCode>
     <ifscCode>BDBL0001568</ifscCode>
-    <bankLoc>1870</bankLoc>
+    <bankLoc>1917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lake Gardens </name>
@@ -4803,7 +5028,7 @@
     <contact>66090909 </contact>
     <micrCode>700750048</micrCode>
     <ifscCode>BDBL0001569</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raniganj </name>
@@ -4812,7 +5037,7 @@
     <contact>66090909 </contact>
     <micrCode>713750302</micrCode>
     <ifscCode>BDBL0001570</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mogra </name>
@@ -4821,7 +5046,16 @@
     <contact>2147483647 </contact>
     <micrCode>712750502</micrCode>
     <ifscCode>BDBL0001572</ifscCode>
-    <bankLoc>1912</bankLoc>
+    <bankLoc>1971</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Emdi </name>
+    <city>Jaipur </city>
+    <address>VILL&amp;P.OEMDI,DIST.RAJSAMAND,RAJASTHAN,PIN313342 </address>
+    <contact>66090909 </contact>
+    <micrCode>313750002</micrCode>
+    <ifscCode>BDBL0001573</ifscCode>
+    <bankLoc>1921</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Alipore </name>
@@ -4830,7 +5064,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750057</micrCode>
     <ifscCode>BDBL0001574</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jangalbari </name>
@@ -4839,7 +5073,7 @@
     <contact>66090909 </contact>
     <micrCode>752750501</micrCode>
     <ifscCode>BDBL0001575</ifscCode>
-    <bankLoc>1858</bankLoc>
+    <bankLoc>1904</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chougacha </name>
@@ -4848,7 +5082,16 @@
     <contact>2147483647 </contact>
     <micrCode>741750601</micrCode>
     <ifscCode>BDBL0001576</ifscCode>
-    <bankLoc>1918</bankLoc>
+    <bankLoc>1977</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ashiana Nagar </name>
+    <city>Patna </city>
+    <address>Ashiana Nagar Main Road,asiana MORE,OPP.PUSPANJALI Kunj APPARTMENT,P.O.ASHIANA,DIST.PATNA,BIHAR,PIN 800025 </address>
+    <contact>66090909 </contact>
+    <micrCode>800750006</micrCode>
+    <ifscCode>BDBL0001577</ifscCode>
+    <bankLoc>1803</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sapanpur </name>
@@ -4857,7 +5100,16 @@
     <contact>66090909 </contact>
     <micrCode>754750501</micrCode>
     <ifscCode>BDBL0001578</ifscCode>
-    <bankLoc>1853</bankLoc>
+    <bankLoc>1899</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Narsingarh </name>
+    <city>Narsingarh </city>
+    <address>Vill-kokpara Dhalbhumgarh,po - Dhalbhumgarh,dist - East SINGHBHUM,STATE-JHARKHAND.PIN - 832302 </address>
+    <contact>66090909 </contact>
+    <micrCode>821750501</micrCode>
+    <ifscCode>BDBL0001579</ifscCode>
+    <bankLoc>1849</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidhan Sarani </name>
@@ -4866,7 +5118,7 @@
     <contact>66090909 </contact>
     <micrCode>700750016</micrCode>
     <ifscCode>BDBL0001580</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Borkhamti </name>
@@ -4875,7 +5127,43 @@
     <contact>2147483647 </contact>
     <micrCode>787750501</micrCode>
     <ifscCode>BDBL0001581</ifscCode>
-    <bankLoc>1733</bankLoc>
+    <bankLoc>1773</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lalbagh </name>
+    <city>Moradabad </city>
+    <address>G 1,shalimar SQUARE,B.N.ROAD,P.O.LALBAGH,LUCKNOW,UTTAR Pradesh,pin 226001 </address>
+    <contact>66090909 </contact>
+    <micrCode>226750003</micrCode>
+    <ifscCode>BDBL0001582</ifscCode>
+    <bankLoc>1949</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kandivali </name>
+    <city>Mumbai </city>
+    <address>Ground Floor,krishna KUNJ,S.V.P Road,near Chitra Tower,kandivali West,mumbai,maharashtra,pin 400067 </address>
+    <contact>66090909 </contact>
+    <micrCode>400750008</micrCode>
+    <ifscCode>BDBL0001583</ifscCode>
+    <bankLoc>1886</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shiv Mandir </name>
+    <city>Siliguri </city>
+    <address>K P Singha Market Complex,shiv Mandir BAZAR,P.O.KADAMTALA,DIST.DARJEELING,WEST Bengal,pin 734011 </address>
+    <contact>66090909 </contact>
+    <micrCode>734750605</micrCode>
+    <ifscCode>BDBL0001586</ifscCode>
+    <bankLoc>1969</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chuadanga </name>
+    <city>Krishnanagar </city>
+    <address>Vill CHUADANGA,P.O.GOURIPUR,DIST.NADIA,WEST Bengal,pin 741223 </address>
+    <contact>66090909 </contact>
+    <micrCode>741750606</micrCode>
+    <ifscCode>BDBL0001588</ifscCode>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ichapore </name>
@@ -4884,7 +5172,7 @@
     <contact>66090909 </contact>
     <micrCode>700750081</micrCode>
     <ifscCode>BDBL0001589</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shakespeare Sarani </name>
@@ -4893,7 +5181,25 @@
     <contact>66090909 </contact>
     <micrCode>700750082</micrCode>
     <ifscCode>BDBL0001590</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cannaught Place </name>
+    <city>Delhi </city>
+    <address>3LSBLG9STBHMGNDLH. </address>
+    <contact>66090909 </contact>
+    <micrCode>110750007</micrCode>
+    <ifscCode>BDBL0001591</ifscCode>
+    <bankLoc>1828</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalyani Nagar </name>
+    <city>Pune </city>
+    <address>THE Cerebrum,133 Wadgaon Sheri,kalyani Nagar,pune,pune,maharastra,pin 411014 </address>
+    <contact>66090909 </contact>
+    <micrCode>411750002</micrCode>
+    <ifscCode>BDBL0001592</ifscCode>
+    <bankLoc>1889</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhandarkar Road </name>
@@ -4902,7 +5208,7 @@
     <contact>66090909 </contact>
     <micrCode>411750003</micrCode>
     <ifscCode>BDBL0001593</ifscCode>
-    <bankLoc>1843</bankLoc>
+    <bankLoc>1889</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belghoria </name>
@@ -4911,7 +5217,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750013</micrCode>
     <ifscCode>BDBL0001594</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chinar Park </name>
@@ -4920,7 +5226,16 @@
     <contact>2147483647 </contact>
     <micrCode>700750023</micrCode>
     <ifscCode>BDBL0001595</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Town </name>
+    <city>Barasat </city>
+    <address>Plot NO Bg/12,action Area-1b,new Town,rajarhat,north 24 Parganas,west Bengal,pin - 700156 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750112</micrCode>
+    <ifscCode>BDBL0001596</ifscCode>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salt Lake Sector I </name>
@@ -4929,7 +5244,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750062</micrCode>
     <ifscCode>BDBL0001597</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salt Lake Sector III </name>
@@ -4938,7 +5253,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750063</micrCode>
     <ifscCode>BDBL0001598</ifscCode>
-    <bankLoc>1919</bankLoc>
+    <bankLoc>1979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mukundapur </name>
@@ -4947,7 +5262,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750052</micrCode>
     <ifscCode>BDBL0001599</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santoshpur </name>
@@ -4956,7 +5271,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750066</micrCode>
     <ifscCode>BDBL0001600</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Noida </name>
@@ -4965,7 +5280,7 @@
     <contact>2147483647 </contact>
     <micrCode>110750005</micrCode>
     <ifscCode>BDBL0001601</ifscCode>
-    <bankLoc>1894</bankLoc>
+    <bankLoc>1945</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amtala </name>
@@ -4974,7 +5289,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750003</micrCode>
     <ifscCode>BDBL0001602</ifscCode>
-    <bankLoc>1922</bankLoc>
+    <bankLoc>1982</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarat Bose Road </name>
@@ -4983,7 +5298,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750067</micrCode>
     <ifscCode>BDBL0001603</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rashbehari </name>
@@ -4992,7 +5307,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750061</micrCode>
     <ifscCode>BDBL0001604</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sealdah </name>
@@ -5001,7 +5316,7 @@
     <contact>2147483647 </contact>
     <micrCode>700750068</micrCode>
     <ifscCode>BDBL0001605</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mylapore </name>
@@ -5010,7 +5325,25 @@
     <contact>2147483647 </contact>
     <micrCode>600750002</micrCode>
     <ifscCode>BDBL0001606</ifscCode>
-    <bankLoc>1877</bankLoc>
+    <bankLoc>1925</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Edappally </name>
+    <city>Kerala </city>
+    <address>Chakkappan Centre,edapally Pakkattapady ROAD,P.S Kalamasserry Kochi,kerala,pin 682024 </address>
+    <contact>66090909 </contact>
+    <micrCode>682750002</micrCode>
+    <ifscCode>BDBL0001607</ifscCode>
+    <bankLoc>1860</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kukatpally </name>
+    <city>Hyderabad </city>
+    <address>MIG 13 14,dharmareddy Colony,opp Jntu Gate,kphb,kukatpally,hyderabad,pin 500072 </address>
+    <contact>66090909 </contact>
+    <micrCode>500750003</micrCode>
+    <ifscCode>BDBL0001608</ifscCode>
+    <bankLoc>1929</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indira Nagar </name>
@@ -5019,7 +5352,25 @@
     <contact>2147483647 </contact>
     <micrCode>560750003</micrCode>
     <ifscCode>BDBL0001609</ifscCode>
-    <bankLoc>1818</bankLoc>
+    <bankLoc>1859</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanpur </name>
+    <city>Moradabad </city>
+    <address>SAI Avenue,111/425 A,80 FT Road,ashok Nagar,kanpur,uttar Pradesh,pin 208012 </address>
+    <contact>66090909 </contact>
+    <micrCode>208750002</micrCode>
+    <ifscCode>BDBL0001610</ifscCode>
+    <bankLoc>1948</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad </name>
+    <city>Moradabad </city>
+    <address>2 2 Copper Road,allahabad,uttar Pradesh,pin 211001 </address>
+    <contact>66090909 </contact>
+    <micrCode>211750002</micrCode>
+    <ifscCode>BDBL0001611</ifscCode>
+    <bankLoc>1937</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>T. Nagar </name>
@@ -5028,7 +5379,7 @@
     <contact>66090909 </contact>
     <micrCode>600750003</micrCode>
     <ifscCode>BDBL0001612</ifscCode>
-    <bankLoc>1877</bankLoc>
+    <bankLoc>1925</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tambaram </name>
@@ -5037,7 +5388,7 @@
     <contact>2147483647 </contact>
     <micrCode>600750004</micrCode>
     <ifscCode>BDBL0001613</ifscCode>
-    <bankLoc>1878</bankLoc>
+    <bankLoc>1926</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bannerghatta Main Road </name>
@@ -5046,7 +5397,7 @@
     <contact>2147483647 </contact>
     <micrCode>560750002</micrCode>
     <ifscCode>BDBL0001614</ifscCode>
-    <bankLoc>1818</bankLoc>
+    <bankLoc>1859</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharghar </name>
@@ -5055,7 +5406,7 @@
     <contact>66090909 </contact>
     <micrCode>400750009</micrCode>
     <ifscCode>BDBL0001615</ifscCode>
-    <bankLoc>1844</bankLoc>
+    <bankLoc>1890</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amritsar </name>
@@ -5064,7 +5415,7 @@
     <contact>2147483647 </contact>
     <micrCode>143750002</micrCode>
     <ifscCode>BDBL0001616</ifscCode>
-    <bankLoc>1859</bankLoc>
+    <bankLoc>1905</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalandhar </name>
@@ -5073,7 +5424,7 @@
     <contact>66090909 </contact>
     <micrCode>144750002</micrCode>
     <ifscCode>BDBL0001617</ifscCode>
-    <bankLoc>1861</bankLoc>
+    <bankLoc>1908</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nasik </name>
@@ -5082,7 +5433,25 @@
     <contact>2147483647 </contact>
     <micrCode>422750002</micrCode>
     <ifscCode>BDBL0001618</ifscCode>
-    <bankLoc>1842</bankLoc>
+    <bankLoc>1888</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nagpur </name>
+    <city>Mumbai </city>
+    <address>Plot NO.12,C A Road,near L G Show Room,nagpur,maharashtra,pin 440002 </address>
+    <contact>66090909 </contact>
+    <micrCode>440750002</micrCode>
+    <ifscCode>BDBL0001619</ifscCode>
+    <bankLoc>1887</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trichy </name>
+    <city>Trichy </city>
+    <address>NO.M-4,THILLAINAGAR Main Road,thillai Nagar,trichy,tamil Nadu,pin - 620018 </address>
+    <contact>66090909 </contact>
+    <micrCode>620750002</micrCode>
+    <ifscCode>BDBL0001620</ifscCode>
+    <bankLoc>1927</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvananthapuram </name>
@@ -5091,7 +5460,7 @@
     <contact>66090909 </contact>
     <micrCode>695750002</micrCode>
     <ifscCode>BDBL0001621</ifscCode>
-    <bankLoc>1819</bankLoc>
+    <bankLoc>1861</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koramangala </name>
@@ -5100,7 +5469,7 @@
     <contact>2147483647 </contact>
     <micrCode>560750004</micrCode>
     <ifscCode>BDBL0001623</ifscCode>
-    <bankLoc>1818</bankLoc>
+    <bankLoc>1859</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Secunderabad </name>
@@ -5109,7 +5478,7 @@
     <contact>66090909 </contact>
     <micrCode>500750002</micrCode>
     <ifscCode>BDBL0001624</ifscCode>
-    <bankLoc>1879</bankLoc>
+    <bankLoc>1928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dalhousie </name>
@@ -5118,7 +5487,16 @@
     <contact>2147483647 </contact>
     <micrCode>700750025</micrCode>
     <ifscCode>BDBL0001625</ifscCode>
-    <bankLoc>1915</bankLoc>
+    <bankLoc>1974</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Durgapur City Center </name>
+    <city>Burdwan </city>
+    <address>Hotel Citi Residency,sahid Khudiram SARANI,P.O.CITY Centre,durgapur,west Bengal,pin 713216 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750203</micrCode>
+    <ifscCode>BDBL0001626</ifscCode>
+    <bankLoc>1964</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dimapur </name>
@@ -5127,7 +5505,7 @@
     <contact>879473342 </contact>
     <micrCode>797750002</micrCode>
     <ifscCode>BDBL0001628</ifscCode>
-    <bankLoc>1850</bankLoc>
+    <bankLoc>1896</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuspata Ghatal </name>
@@ -5136,7 +5514,16 @@
     <contact>2147483647 </contact>
     <micrCode>721750804</micrCode>
     <ifscCode>BDBL0001631</ifscCode>
-    <bankLoc>1911</bankLoc>
+    <bankLoc>1970</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shondanga </name>
+    <city>Krishnanagar </city>
+    <address>Vill SHONDANGA,P.O.SHONDANGA,DIST.NADIA,WEST Bengal,pin 741125 </address>
+    <contact>66090909 </contact>
+    <micrCode>741750505</micrCode>
+    <ifscCode>BDBL0001632</ifscCode>
+    <bankLoc>1977</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bajepratappur </name>
@@ -5145,7 +5532,25 @@
     <contact>66090909 </contact>
     <micrCode>713750103</micrCode>
     <ifscCode>BDBL0001633</ifscCode>
-    <bankLoc>1907</bankLoc>
+    <bankLoc>1964</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bareilly </name>
+    <city>Moradabad </city>
+    <address>Ground Floor,r S Towers,165,civil Lines,station Road,opp Hotel Bareilly Palace,bareilly,uttar Pradesh,pin 243001 </address>
+    <contact>66090909 </contact>
+    <micrCode>242750003</micrCode>
+    <ifscCode>BDBL0001634</ifscCode>
+    <bankLoc>1940</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>S R Nagar </name>
+    <city>Hyderabad </city>
+    <address>26 A Mig,municipal NO.7 1 397 5 A,sanjeeva Reddy Nagar Colony,hyderabad,telengana,pin 500038 </address>
+    <contact>66090909 </contact>
+    <micrCode>500750004</micrCode>
+    <ifscCode>BDBL0001635</ifscCode>
+    <bankLoc>1928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ZOO Road, Guwahati </name>
@@ -5154,7 +5559,7 @@
     <contact>66090909 </contact>
     <micrCode>781750004</micrCode>
     <ifscCode>BDBL0001636</ifscCode>
-    <bankLoc>1730</bankLoc>
+    <bankLoc>1770</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhavpura </name>
@@ -5163,7 +5568,7 @@
     <contact>66090909 </contact>
     <micrCode>392750002</micrCode>
     <ifscCode>BDBL0001637</ifscCode>
-    <bankLoc>1789</bankLoc>
+    <bankLoc>1830</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Preet Vihar </name>
@@ -5172,6 +5577,483 @@
     <contact>66090909 </contact>
     <micrCode>110750001</micrCode>
     <ifscCode>BDBL0001638</ifscCode>
-    <bankLoc>1786</bankLoc>
+    <bankLoc>1827</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gandhinagar </name>
+    <city>Vadodara </city>
+    <address>Groundr Floor,manilal Chamber,plot NO 282,sector 16,gh Road NR Torrent Power Office,gandhinagar,gujarat,pin - 382016 </address>
+    <contact>66090909 </contact>
+    <micrCode>380750004</micrCode>
+    <ifscCode>BDBL0001639</ifscCode>
+    <bankLoc>1832</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Park Street </name>
+    <city>Kolkata </city>
+    <address>Hall AND Anderson Ltd,bangur BFL Estate,31,chowranghee Road,kolkata,west BENGAL.PIN-700016 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750083</micrCode>
+    <ifscCode>BDBL0001640</ifscCode>
+    <bankLoc>1974</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dwarka Nagar </name>
+    <city>Dwarka Nagar </city>
+    <address>Door NO 47-10-26,rams Plaza,2nd Lane,dwarka Nagar,vishakapattanam,andhra PRADESH.PIN-530016 </address>
+    <contact>66090909 </contact>
+    <micrCode>530750002</micrCode>
+    <ifscCode>BDBL0001641</ifscCode>
+    <bankLoc>1758</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nicco Park </name>
+    <city>Kolkata </city>
+    <address>Jheel Meel,sector Iv,salt Lake City,kolkata,west Bengal,pin 700106 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750084</micrCode>
+    <ifscCode>BDBL0001643</ifscCode>
+    <bankLoc>1979</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jangipara </name>
+    <city>Hooghly </city>
+    <address>First Floor,vill&amp; PO -jangipara,near LIC Office Dist Hooghly,west Bengal,pin-712404 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750092</micrCode>
+    <ifscCode>BDBL0001644</ifscCode>
+    <bankLoc>1971</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhandarhati </name>
+    <city>Hooghly </city>
+    <address>Ground Flloor,vill&amp; PO -BHANDARHATI,P.S Dhaniakhali Dist-hooghly,west Bengal,pin-712301 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750093</micrCode>
+    <ifscCode>BDBL0001645</ifscCode>
+    <bankLoc>1971</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ranihati </name>
+    <city>Howrah </city>
+    <address>First Floor,royal Complex,vill Ranihati,po -joy Nagar,ps Panchla,howrah,west Bengal,pin-711322 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750095</micrCode>
+    <ifscCode>BDBL0001646</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baganda </name>
+    <city>Howrah </city>
+    <address>Ground Floor,vill-ranmahal,po -dhulasimla,ps-uluberia,near BAGANDA,DIST.-HOWRAH,WEST Bengal,pin -711315 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750094</micrCode>
+    <ifscCode>BDBL0001647</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guma </name>
+    <city>Habra </city>
+    <address>Ground Floor Guma Chowmatha North 24 Paraganas West Bengal PIN 743704 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750099</micrCode>
+    <ifscCode>BDBL0001648</ifscCode>
+    <bankLoc>1978</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Maslandapur </name>
+    <city>Habra </city>
+    <address>First Floor,vill-sadpur,po -maslandapur,ps Habra,dist North 24 Paraganas,west Bengal,pin 743289 </address>
+    <contact>66090909 </contact>
+    <micrCode>743750507</micrCode>
+    <ifscCode>BDBL0001649</ifscCode>
+    <bankLoc>1978</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dariapur </name>
+    <city>Barasat </city>
+    <address>First FLOOR,VILL. &amp; PO -dariapur,chandigarh Gram Panchayat,ps-amdanga,north 24 Paraganas,west Bengal,pin-743711 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750101</micrCode>
+    <ifscCode>BDBL0001650</ifscCode>
+    <bankLoc>1978</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rampur More </name>
+    <city>Barasat </city>
+    <address>Ground Floor,vill-rampur,po -arkhali Amdanga,ps-amdanga,sadhanpur Gram Panchayat,north 24 Paraganas,west Bengal,pin-743221 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750102</micrCode>
+    <ifscCode>BDBL0001651</ifscCode>
+    <bankLoc>1978</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aminpur Bazar </name>
+    <city>Barasat </city>
+    <address>Ground Floor,aminpur Bazar,po Sondalia,ps Sashan,block 2,falti,beliaghata Gram Panchayat,north 24 Paraganas,west Bengal,pin 743423 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750103</micrCode>
+    <ifscCode>BDBL0001652</ifscCode>
+    <bankLoc>1978</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Barakar Bazar </name>
+    <city>Burdwan </city>
+    <address>Ground Floor,g T Road,hanuman Charai,barakar,kulti,burdwan,west Bengal,pin 713324 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750502</micrCode>
+    <ifscCode>BDBL0001653</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neamatpur Bazar </name>
+    <city>Burdwan </city>
+    <address>Ground Floor,jog Pharmacy,g T Road,neamatpur,sitarampur,dist - Burdwan,west Bengal,pin 713359 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750501</micrCode>
+    <ifscCode>BDBL0001654</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bogpur </name>
+    <city>Burdwan </city>
+    <address>Bogpur,po -chakbaman Goria,dist -burdwan,west Bengal,pin -713513 </address>
+    <contact>66090909 </contact>
+    <micrCode>741750702</micrCode>
+    <ifscCode>BDBL0001655</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pratappur </name>
+    <city>Burdwan </city>
+    <address>Pratappur Gp,vill Khatgoria,po Jamgora,dist Burdwan,pin 713385 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750701</micrCode>
+    <ifscCode>BDBL0001656</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Champahati </name>
+    <city>Baruipur </city>
+    <address>Ocpdso4gnwebengn40 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750097</micrCode>
+    <ifscCode>BDBL0001657</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhosha </name>
+    <city>Baruipur </city>
+    <address>Vill - Chandeneswar Dhosa,po - Dhosa,ps -joynagar,dist South 24 Parganas,west Bengal,pin-743396 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750098</micrCode>
+    <ifscCode>BDBL0001658</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ramchandrakhali </name>
+    <city>Baruipur </city>
+    <address>Vill -ramchandrakhali,po -sonakhali,ps - Basanti,dist South 24 Parganas,west Bengal,pin -743312 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750107</micrCode>
+    <ifscCode>BDBL0001659</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bakrahat </name>
+    <city>Dhakuria </city>
+    <address>First FLOOR,VILL. &amp; PO -BAKRAHAT,P.S BISHNUPUR,DIST.-SOUTH 24 Parganas,west Bengal,pin 743377 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750086</micrCode>
+    <ifscCode>BDBL0001660</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sarishahat </name>
+    <city>Dhakuria </city>
+    <address>First FLOOR,VILL. &amp; PO -SARISHA,P.S Diamond HARBOUR,DIST.-SOUTH 24 Parganas,west Bengal,pin 743368 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750087</micrCode>
+    <ifscCode>BDBL0001661</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jhinkirhat </name>
+    <city>Dhakuria </city>
+    <address>Ground FLOOR,VILL. &amp; PO -mohanpur,mohanpur Gram PANCHAYAT,P.S-MOGRAHAT,DIST - South24 Parganas,west Bengal,pin 743610 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750090</micrCode>
+    <ifscCode>BDBL0001662</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sahararhat </name>
+    <city>Dhakuria </city>
+    <address>First FLOOR,VILL. &amp; PO -sahararhat,belsingha Gram Panchayat ( II),P.S-FALTA,DIST.-SOUTH 24 Parganas,west Bengal,pin 743504 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750091</micrCode>
+    <ifscCode>BDBL0001663</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khagramuri - Mahisgot </name>
+    <city>Dhakuria </city>
+    <address>First FLOOR,VILL. &amp; PO -nahazari,khagramuri Gram PANCHAYAT,P.S-BISHNUPUR,DIST.-SOUTH24 Parganas,west Bengal,pin 700104 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750089</micrCode>
+    <ifscCode>BDBL0001664</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nepalganj </name>
+    <city>Dhakuria </city>
+    <address>First FLOOR,VILL.-RAGHABPUR,PO -NEPALGANJ,P.S-BISHNUPUR,DIST.-SOUTH24 Parganas,west Bengal,pin 700103 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750088</micrCode>
+    <ifscCode>BDBL0001665</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ukhra </name>
+    <city>Burdwan </city>
+    <address>Slrananabhawananandamremgradukhradisburdwanwesbengalpin73363 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750503</micrCode>
+    <ifscCode>BDBL0001666</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gopalpur More </name>
+    <city>Habra </city>
+    <address>Ground Floor Gopalpur More PO Sikria Kulingram PS Basirhat North 24 Parganas West Bengal PIN 743428 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750100</micrCode>
+    <ifscCode>BDBL0001667</ifscCode>
+    <bankLoc>1978</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Domahani </name>
+    <city>Burdwan </city>
+    <address>Ground Floor Vill AND PO Domani Bazar Dist Burdwan West Bengal PIN 713334 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750504</micrCode>
+    <ifscCode>BDBL0001668</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gosairhat </name>
+    <city>Dhupguri </city>
+    <address>Ground Floor Chhoto Dhaper Chatra P O Gossairhat Bandar P S Sitalkuchi Dist Coochbehar West Bengal PIN 736172 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750518</micrCode>
+    <ifscCode>BDBL0001669</ifscCode>
+    <bankLoc>1968</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kaljani </name>
+    <city>Dhupguri </city>
+    <address>Ground FLOOR,VILL.P.O-KALJANI,DIST.- COOCHBEHAR,P.S-KOTWALI,WEST Bengal 736133 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750517</micrCode>
+    <ifscCode>BDBL0001670</ifscCode>
+    <bankLoc>1968</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Salkumarhat </name>
+    <city>Dhupguri </city>
+    <address>Vill - Munshipara,po - Salkumarhat,dist Alipurduar,pin - 736204 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750704</micrCode>
+    <ifscCode>BDBL0001671</ifscCode>
+    <bankLoc>1962</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shilbarihat </name>
+    <city>Dhupguri </city>
+    <address>Ground Floor Vill Shilbarihat PO Shilbarihat PS Alipurduar Dist Alipurduar West Bengal PIN 736204 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750705</micrCode>
+    <ifscCode>BDBL0001672</ifscCode>
+    <bankLoc>1962</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bandel </name>
+    <city>Hooghly </city>
+    <address>UDF1SSIRDMNDUPIUG7113. </address>
+    <contact>66090909 </contact>
+    <micrCode>700750109</micrCode>
+    <ifscCode>BDBL0001673</ifscCode>
+    <bankLoc>1971</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mankundu </name>
+    <city>Hooghly </city>
+    <address>18,mankundu Station Road Shambhur More Po-chandannagore Hooghly-712136 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750111</micrCode>
+    <ifscCode>BDBL0001674</ifscCode>
+    <bankLoc>1971</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jagatballavpur </name>
+    <city>Howrah </city>
+    <address>Alameen Market 1ST Floor Vill AND PO Bargachia PS Jagatballavpur Dist Howrah West Bengal PIN 711404 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750096</micrCode>
+    <ifscCode>BDBL0001675</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kantagachi Raidighi </name>
+    <city>Howrah </city>
+    <address>First Floor Vill Kantagachi Raidighi PO Naul PS Shyampur Block Shyampur 2 Dist Howrah West Bengal PIN 711312 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750108</micrCode>
+    <ifscCode>BDBL0001676</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Paikbasha </name>
+    <city>Howrah </city>
+    <address>First Floor Vill Paikbasha PO Jhikira PS Joypur Dist Howrah West Bengal PIN 711401 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750104</micrCode>
+    <ifscCode>BDBL0001677</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Purash </name>
+    <city>Howrah </city>
+    <address>First Floor Village Purash PO Kanpur PS Amta District Howrah West Bengal PIN 711410 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750105</micrCode>
+    <ifscCode>BDBL0001678</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bargram </name>
+    <city>Howrah </city>
+    <address>First Floor Mamtaj Bhavan Vill AND PO Bargram PS Shyampur Dist Howrah West Bengal PIN 711312 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750106</micrCode>
+    <ifscCode>BDBL0001679</ifscCode>
+    <bankLoc>1972</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Charial Bazar </name>
+    <city>Dhakuria </city>
+    <address>First Floor,224,mg Road,ward NO - 18,budge Budge,west Bengal,pin - 700137 </address>
+    <contact>66090909 </contact>
+    <micrCode>700750110</micrCode>
+    <ifscCode>BDBL0001680</ifscCode>
+    <bankLoc>1982</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Keshiary </name>
+    <city>Medinipur </city>
+    <address>Vill&amp; PO-KESHIARY,P.S.-KESHIARY,DIST-PASCHIM Medinipur </address>
+    <contact>66090909 </contact>
+    <micrCode>721750601</micrCode>
+    <ifscCode>BDBL0001681</ifscCode>
+    <bankLoc>1984</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rambag </name>
+    <city>Berhampore </city>
+    <address>Vill-rambag,po - Bhagawangola,pin-742135,west Bengal </address>
+    <contact>66090909 </contact>
+    <micrCode>742750515</micrCode>
+    <ifscCode>BDBL0001682</ifscCode>
+    <bankLoc>1976</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Memari </name>
+    <city>Burdwan </city>
+    <address>Ground Floor PO AND PS Memari Memari Kalitala Dist Bardhaman West Bengal PIN 713146 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750351</micrCode>
+    <ifscCode>BDBL0001683</ifscCode>
+    <bankLoc>1964</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rupnarayanpur </name>
+    <city>Burdwan </city>
+    <address>Ground Floor Kaajali Apartment HCL Road Near Kali Mandir PS Salanpur Dist Bardhaman West Bengal PIN 713386 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750506</micrCode>
+    <ifscCode>BDBL0001684</ifscCode>
+    <bankLoc>1964</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Disergarh Ghat </name>
+    <city>Burdwan </city>
+    <address>Ground Floor,disergarh Ghat,killburn More,kulti,dist Burdwan,pin 713333 </address>
+    <contact>66090909 </contact>
+    <micrCode>713750505</micrCode>
+    <ifscCode>BDBL0001685</ifscCode>
+    <bankLoc>1966</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gayeshpur </name>
+    <city>Barasat </city>
+    <address>UF1APEHUPSKDNP71WEBE. </address>
+    <contact>66090909 </contact>
+    <micrCode>741750607</micrCode>
+    <ifscCode>BDBL0001686</ifscCode>
+    <bankLoc>1977</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baranachina </name>
+    <city>Coochbehar </city>
+    <address>Ground Floor,vill P.O -baranachina,anchal Putimari - 2.P.S DINHATA,DIST.- Coochbehar,west Bengal,pin 736174 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750801</micrCode>
+    <ifscCode>BDBL0001687</ifscCode>
+    <bankLoc>1968</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Charaljani Natabari </name>
+    <city>Coochbehar </city>
+    <address>Ground Floor,vill P.O -CHARALJANI,P.S TUFANGANJ,DIST.- Coochbehar,west Bengal,pin 736156 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750515</micrCode>
+    <ifscCode>BDBL0001688</ifscCode>
+    <bankLoc>1968</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khalisa Gosanimari </name>
+    <city>Coochbehar </city>
+    <address>Ground Floor,vill -khalisa GOSANIMARI,P.O -GOSANIMARI,P.S DINHATA,DIST.- Coochbehar,west Bengal,pin 736145 </address>
+    <contact>66090909 </contact>
+    <micrCode>736750516</micrCode>
+    <ifscCode>BDBL0001689</ifscCode>
+    <bankLoc>1968</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Azimganj </name>
+    <city>Berhampore </city>
+    <address>Ground Floor,vill Po-azimganj,ps-jiaganj,dist-murshidabad,pin-742122 </address>
+    <contact>66090909 </contact>
+    <micrCode>742750512</micrCode>
+    <ifscCode>BDBL0001690</ifscCode>
+    <bankLoc>1976</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dubopara </name>
+    <city>Berhampore </city>
+    <address>Vill-dubopara,po-chonya,hariharpara Pin-742185,west Bengal </address>
+    <contact>66090909 </contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BDBL0001691</ifscCode>
+    <bankLoc>1976</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lalbagh(murshidabad) </name>
+    <city>Berhampore </city>
+    <address>First Floor, 328 No. Kalandarbag.(Golabag), P.O.- Murshidabad, Lalbag, Pin-742149, West Bengal </address>
+    <contact>66090909 </contact>
+    <micrCode>742750514</micrCode>
+    <ifscCode>BDBL0001692</ifscCode>
+    <bankLoc>1976</bankLoc>
   </bankbranch>
 </bankBranchs>
