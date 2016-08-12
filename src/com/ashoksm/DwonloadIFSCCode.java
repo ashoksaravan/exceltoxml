@@ -14,14 +14,13 @@ import org.apache.poi.ss.usermodel.Row;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class DwonloadIFSCCode {
 
 	public static void main(String[] args) throws Exception {
-		System.setProperty("webdriver.chrome.driver", "D:\\Download\\chromedriver.exe");
-		WebDriver driver = new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
+		WebDriver driver = new FirefoxDriver();
+		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 
 		File bankNames = new File("banks.xls");
@@ -54,46 +53,26 @@ public class DwonloadIFSCCode {
 
 			int index = 0;
 			for (int i = 0; i < count; i++) {
-				int j = 0;
-				List<WebElement> tr_collection = driver.findElements(By.xpath("id('BC_GridView1')/tbody/tr"));
-				for (WebElement tr : tr_collection) {
-					if (j == 5) {
-						break;
+				WebElement table = driver.findElement(By.id("BC_GridView1"));
+				List<WebElement> innerTables = table.findElements(By.tagName("table"));
+				for (WebElement innerTable : innerTables) {
+					List<WebElement> innerTrs = innerTable.findElements(By.tagName("tr"));
+					for (WebElement innerTr : innerTrs) {
+						List<WebElement> tds = innerTr.findElements(By.tagName("td"));
+						HSSFRow bankRow = sheet.createRow(index);
+						bankRow.createCell(0).setCellValue(tds.get(0).getText());
+						bankRow.createCell(1).setCellValue(tds.get(1).getText());
+						index++;
 					}
-					WebElement leftDiv = tr.findElement(By.className("floatLEFT"));
-
-					WebElement table1 = leftDiv.findElement(By.tagName("table"));
-					List<WebElement> innerTrs = table1.findElements(By.tagName("tr"));
-					writeData(sheet, index, innerTrs.get(1));
-					index++;
-					writeData(sheet, index, innerTrs.get(4));
-					index++;
-					writeData(sheet, index, innerTrs.get(5));
-					index++;
-					writeData(sheet, index, innerTrs.get(6));
-					index++;
-
-					WebElement rightDiv = tr.findElement(By.className("floatRIGHT"));
-					WebElement table2 = rightDiv.findElement(By.tagName("table"));
-					innerTrs = table2.findElements(By.tagName("tr"));
-					writeData(sheet, index, innerTrs.get(1));
-					index++;
-					writeData(sheet, index, innerTrs.get(2));
-					index++;
-					writeData(sheet, index, innerTrs.get(3));
-					index++;
-					writeData(sheet, index, innerTrs.get(6));
-					index++;
-					j++;
 				}
 				if (i != 0 && i % 1500 == 0) {
 					HSSFRow row1 = workbook.getSheetAt(0).getRow(0);
 					for (int colNum = 0; colNum < row1.getLastCellNum(); colNum++) {
 						workbook.getSheetAt(0).autoSizeColumn(colNum);
 					}
-					FileOutputStream out = new FileOutputStream(
-							new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\ifsccodes\\"
-									+ bankName.replaceAll(" ", "") + (i / 1500) + ".xls"));
+					FileOutputStream out = new FileOutputStream(new File(
+							"E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\ifsccodes\\" + bankName.replaceAll(" ", "")
+							+ (i / 1500) + ".xls"));
 					workbook.write(out);
 					out.close();
 					System.out.println((i / 1500) + " Excel written successfully..");
@@ -116,12 +95,5 @@ public class DwonloadIFSCCode {
 			out.close();
 			System.out.println("Excel written successfully..");
 		}
-	}
-
-	private static void writeData(HSSFSheet sheet, int index, WebElement innerTr) {
-		List<WebElement> tds = innerTr.findElements(By.tagName("td"));
-		HSSFRow bankRow = sheet.createRow(index);
-		bankRow.createCell(0).setCellValue(tds.get(0).getText());
-		bankRow.createCell(1).setCellValue(tds.get(1).getText());
 	}
 }

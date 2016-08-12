@@ -52,12 +52,12 @@ public class IFSCDataCorrection {
 				HSSFRow ifscRow = sheetNew.createRow(row.getRowNum());
 				ifscRow.createCell(0).setCellValue(getCellValue(row, 1));
 				ifscRow.createCell(1).setCellValue(getCellValue(row, 2));
-				ifscRow.createCell(2).setCellValue(formatString(getCellValue(row, 3)));
-				ifscRow.createCell(3).setCellValue(formatString(getCellValue(row, 4)));
-				ifscRow.createCell(4).setCellValue(formatString(getCellValue(row, 5)));
-				ifscRow.createCell(5).setCellValue(formatString(getCellValue(row, 6)));
-				ifscRow.createCell(6).setCellValue(formatString(getCellValue(row, 7)));
-				ifscRow.createCell(7).setCellValue(formatString(getCellValue(row, 8)));
+				ifscRow.createCell(2).setCellValue(formatString(formatString(getCellValue(row, 3), ","), " "));
+				ifscRow.createCell(3).setCellValue(formatString(formatString(getCellValue(row, 4), ","), " "));
+				ifscRow.createCell(4).setCellValue(formatString(formatString(getCellValue(row, 5), ","), " "));
+				ifscRow.createCell(5).setCellValue(formatString(formatString(getCellValue(row, 6), ","), " "));
+				ifscRow.createCell(6).setCellValue(formatString(formatString(getCellValue(row, 7), ","), " "));
+				ifscRow.createCell(7).setCellValue(formatString(formatString(getCellValue(row, 8), ","), " "));
 			}
 
 			HSSFRow row = workbookNew.getSheetAt(0).getRow(0);
@@ -85,9 +85,9 @@ public class IFSCDataCorrection {
 		return cellValue;
 	}
 
-	private static String formatString(String orginal) {
+	private static String formatString(String orginal, String delimiter) {
 		if (orginal.length() > 1) {
-			String[] temp = orginal.split(" ");
+			String[] temp = orginal.split(delimiter);
 			StringBuffer sb = new StringBuffer();
 			for (String cat : temp) {
 				if (cat.length() > 1) {
@@ -97,19 +97,23 @@ public class IFSCDataCorrection {
 					} else if (!cat.equals("P.O.") && cat.length() > 3 && !cat.contains(".")) {
 						formated = StringUtils.capitalize(cat.toLowerCase());
 					} else {
-						formated = cat;
+						formated = cat.toUpperCase();
 					}
-					sb.append(formated);
-					sb.append(" ");
+					sb.append(formated.trim());
+					sb.append(delimiter);
+					if(",".equals(delimiter)) {
+						sb.append(" ");
+					}
 				} else {
 					sb.append(cat.toUpperCase());
-					sb.append(" ");
+					sb.append(delimiter);
 				}
 			}
-			return sb.toString().replaceAll("\\(e\\)", "(E)").replaceAll("\\(w\\)", "(W)")
+			String s = sb.toString().replaceAll("\\(e\\)", "(E)").replaceAll("\\(w\\)", "(W)")
 					.replaceAll("\\(s\\)", "\\(S\\)").replaceAll("\\(n\\)", "\\(N\\)")
 					.replaceAll("\\(west\\)", "(WEST)").replaceAll("\\(north\\)", "(NORTH)")
-					.replaceAll("\\(south\\)", "(SOUTH)").replaceAll("\\(east\\)", "(EAST)");
+					.replaceAll("\\(south\\)", "(SOUTH)").replaceAll("\\(east\\)", "(EAST)").trim();
+			return s.endsWith(delimiter) ? s.substring(0, s.length()-1) : s;
 		} else {
 			return orginal.toUpperCase();
 		}
