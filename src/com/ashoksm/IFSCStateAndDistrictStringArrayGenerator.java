@@ -198,6 +198,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("SBM Bank Mauritius Ltd");
 		BANK_NAMES.add("Shivalik Mercantile Co Operative Bank Ltd");
 		BANK_NAMES.add("The Pandharpur Urban Co Op. Bank Ltd. Pandharpur");
+		BANK_NAMES.add("Himachal Pradesh State Co-Op Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {
