@@ -6,7 +6,7 @@
     <contact>61573836</contact>
     <micrCode>400500002</micrCode>
     <ifscCode>CHAS0INBX01</ifscCode>
-    <bankLoc>13112</bankLoc>
+    <bankLoc>13135</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Branch</name>
@@ -15,7 +15,7 @@
     <contact>66111700</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX02</ifscCode>
-    <bankLoc>13110</bankLoc>
+    <bankLoc>13133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devanahalli Branch</name>
@@ -24,7 +24,7 @@
     <contact>67693200</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX03</ifscCode>
-    <bankLoc>13111</bankLoc>
+    <bankLoc>13134</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paranur Branch</name>
@@ -33,6 +33,6 @@
     <contact>0</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX04</ifscCode>
-    <bankLoc>13113</bankLoc>
+    <bankLoc>13136</bankLoc>
   </bankbranch>
 </bankBranchs>

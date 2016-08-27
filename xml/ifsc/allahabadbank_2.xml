@@ -1,12 +1,93 @@
 <bankBranchs>
   <bankbranch>
+    <name>Allahabad UP Gramin-bambhaura</name>
+    <city>Sitapur</city>
+    <address>Bambhaura</address>
+    <contact>2147483647</contact>
+    <micrCode>261699510</micrCode>
+    <ifscCode>ALLA0AU1261</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-sadarpur</name>
+    <city>Biswan</city>
+    <address>Sadarpur</address>
+    <contact>2147483647</contact>
+    <micrCode>261699568</micrCode>
+    <ifscCode>ALLA0AU1262</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-sherpur</name>
+    <city>Biswan</city>
+    <address>Sherpur</address>
+    <contact>2147483647</contact>
+    <micrCode>111699550</micrCode>
+    <ifscCode>ALLA0AU1263</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-sakran</name>
+    <city>Biswan</city>
+    <address>Sakran</address>
+    <contact>2147483647</contact>
+    <micrCode>261699584</micrCode>
+    <ifscCode>ALLA0AU1264</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-rampurkalan</name>
+    <city>Biswan</city>
+    <address>Rampurkalan</address>
+    <contact>2147483647</contact>
+    <micrCode>261699591</micrCode>
+    <ifscCode>ALLA0AU1265</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-seota</name>
+    <city>Biswan</city>
+    <address>Seota, Reosa Block</address>
+    <contact>2147483647</contact>
+    <micrCode>261699580</micrCode>
+    <ifscCode>ALLA0AU1266</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-jharekhapur</name>
+    <city>Sitapur</city>
+    <address>Jharekhapur, Hargaon Block</address>
+    <contact>2147483647</contact>
+    <micrCode>261699023</micrCode>
+    <ifscCode>ALLA0AU1267</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-neri</name>
+    <city>Sitapur</city>
+    <address>Neri, Pisawan Block</address>
+    <contact>2147483647</contact>
+    <micrCode>261699535</micrCode>
+    <ifscCode>ALLA0AU1268</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-neelgaon</name>
+    <city>Biswan</city>
+    <address>Neelgaon</address>
+    <contact>2147483647</contact>
+    <micrCode>261699557</micrCode>
+    <ifscCode>ALLA0AU1269</ifscCode>
+    <bankLoc>543</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Allahabad UP Gramin-kishoreganj</name>
     <city>Biswan</city>
     <address>Kishoreganj</address>
     <contact>2147483647</contact>
     <micrCode>261699582</micrCode>
     <ifscCode>ALLA0AU1270</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-thangaon</name>
@@ -15,7 +96,7 @@
     <contact>2147483647</contact>
     <micrCode>261699588</micrCode>
     <ifscCode>ALLA0AU1271</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-akbarpur</name>
@@ -24,7 +105,7 @@
     <contact>2147483647</contact>
     <micrCode>261699531</micrCode>
     <ifscCode>ALLA0AU1272</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kazikamalpur</name>
@@ -33,7 +114,7 @@
     <contact>2147483647</contact>
     <micrCode>261699022</micrCode>
     <ifscCode>ALLA0AU1273</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-nerikalan</name>
@@ -42,7 +123,7 @@
     <contact>2147483647</contact>
     <micrCode>261699016</micrCode>
     <ifscCode>ALLA0AU1274</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-manpur</name>
@@ -51,7 +132,7 @@
     <contact>2147483647</contact>
     <micrCode>261699512</micrCode>
     <ifscCode>ALLA0AU1275</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -shahpur</name>
@@ -60,7 +141,7 @@
     <contact>2147483647</contact>
     <micrCode>261699570</micrCode>
     <ifscCode>ALLA0AU1276</ifscCode>
-    <bankLoc>465</bankLoc>
+    <bankLoc>466</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -deokalia</name>
@@ -69,7 +150,7 @@
     <contact>2147483647</contact>
     <micrCode>261699545</micrCode>
     <ifscCode>ALLA0AU1277</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kotra Shiv Thana</name>
@@ -78,7 +159,7 @@
     <contact>2147483647</contact>
     <micrCode>261699564</micrCode>
     <ifscCode>ALLA0AU1278</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -mahadev Atra</name>
@@ -87,7 +168,7 @@
     <contact>2147483647</contact>
     <micrCode>261699552</micrCode>
     <ifscCode>ALLA0AU1279</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -mudrasan</name>
@@ -96,7 +177,7 @@
     <contact>2147483647</contact>
     <micrCode>261699541</micrCode>
     <ifscCode>ALLA0AU1280</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sita-rasoi</name>
@@ -105,7 +186,7 @@
     <contact>2147483647</contact>
     <micrCode>261699550</micrCode>
     <ifscCode>ALLA0AU1281</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -godhana</name>
@@ -114,7 +195,7 @@
     <contact>2147483647</contact>
     <micrCode>261699546</micrCode>
     <ifscCode>ALLA0AU1282</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -wazir Nagar</name>
@@ -123,7 +204,7 @@
     <contact>2147483647</contact>
     <micrCode>261699516</micrCode>
     <ifscCode>ALLA0AU1283</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -brahmawali</name>
@@ -132,7 +213,7 @@
     <contact>2147483647</contact>
     <micrCode>261699527</micrCode>
     <ifscCode>ALLA0AU1284</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -auntt</name>
@@ -141,7 +222,7 @@
     <contact>2147483647</contact>
     <micrCode>261699525</micrCode>
     <ifscCode>ALLA0AU1285</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bilauli-bazar</name>
@@ -150,7 +231,7 @@
     <contact>2147483647</contact>
     <micrCode>261699569</micrCode>
     <ifscCode>ALLA0AU1286</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -talgaon</name>
@@ -159,7 +240,7 @@
     <contact>2147483647</contact>
     <micrCode>261699515</micrCode>
     <ifscCode>ALLA0AU1287</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sanda</name>
@@ -168,7 +249,7 @@
     <contact>2147483647</contact>
     <micrCode>261699553</micrCode>
     <ifscCode>ALLA0AU1288</ifscCode>
-    <bankLoc>528</bankLoc>
+    <bankLoc>529</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gondalamau</name>
@@ -177,7 +258,7 @@
     <contact>2147483647</contact>
     <micrCode>261699560</micrCode>
     <ifscCode>ALLA0AU1289</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -shahmaholi</name>
@@ -186,7 +267,7 @@
     <contact>2147483647</contact>
     <micrCode>261699012</micrCode>
     <ifscCode>ALLA0AU1290</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-urdauli</name>
@@ -195,7 +276,7 @@
     <contact>2147483647</contact>
     <micrCode>261699026</micrCode>
     <ifscCode>ALLA0AU1291</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kallie</name>
@@ -204,7 +285,7 @@
     <contact>2147483647</contact>
     <micrCode>261699529</micrCode>
     <ifscCode>ALLA0AU1292</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sandila</name>
@@ -213,7 +294,7 @@
     <contact>2147483647</contact>
     <micrCode>261699021</micrCode>
     <ifscCode>ALLA0AU1293</ifscCode>
-    <bankLoc>499</bankLoc>
+    <bankLoc>500</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bansura</name>
@@ -222,7 +303,7 @@
     <contact>2147483647</contact>
     <micrCode>261699579</micrCode>
     <ifscCode>ALLA0AU1294</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bari</name>
@@ -231,7 +312,7 @@
     <contact>2147483647</contact>
     <micrCode>261699544</micrCode>
     <ifscCode>ALLA0AU1295</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -jahangirabad</name>
@@ -240,7 +321,7 @@
     <contact>2147483647</contact>
     <micrCode>261699561</micrCode>
     <ifscCode>ALLA0AU1296</ifscCode>
-    <bankLoc>472</bankLoc>
+    <bankLoc>473</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -parsehra Dhakhia</name>
@@ -249,7 +330,7 @@
     <contact>2147483647</contact>
     <micrCode>261699528</micrCode>
     <ifscCode>ALLA0AU1297</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-laharpur</name>
@@ -258,7 +339,7 @@
     <contact>2147483647</contact>
     <micrCode>261699526</micrCode>
     <ifscCode>ALLA0AU1298</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bhadfar</name>
@@ -267,7 +348,7 @@
     <contact>2147483647</contact>
     <micrCode>261699549</micrCode>
     <ifscCode>ALLA0AU1299</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -baunabhari</name>
@@ -276,7 +357,7 @@
     <contact>2147483647</contact>
     <micrCode>261699547</micrCode>
     <ifscCode>ALLA0AU1300</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -chandpur</name>
@@ -285,7 +366,7 @@
     <contact>2147483647</contact>
     <micrCode>261699587</micrCode>
     <ifscCode>ALLA0AU1301</ifscCode>
-    <bankLoc>476</bankLoc>
+    <bankLoc>477</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -parsada</name>
@@ -294,7 +375,7 @@
     <contact>2147483647</contact>
     <micrCode>261699014</micrCode>
     <ifscCode>ALLA0AU1302</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -mehndipurwa</name>
@@ -303,7 +384,7 @@
     <contact>2147483647</contact>
     <micrCode>261699522</micrCode>
     <ifscCode>ALLA0AU1303</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -aliya</name>
@@ -312,7 +393,7 @@
     <contact>2147483647</contact>
     <micrCode>261699015</micrCode>
     <ifscCode>ALLA0AU1304</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -emiliya Sultanpur</name>
@@ -321,7 +402,7 @@
     <contact>2147483647</contact>
     <micrCode>261699017</micrCode>
     <ifscCode>ALLA0AU1305</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kunwarpur</name>
@@ -330,7 +411,7 @@
     <contact>2147483647</contact>
     <micrCode>261699566</micrCode>
     <ifscCode>ALLA0AU1306</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-hotel Sukhdei</name>
@@ -339,7 +420,7 @@
     <contact>2147483647</contact>
     <micrCode>261699004</micrCode>
     <ifscCode>ALLA0AU1307</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kachnar</name>
@@ -348,7 +429,7 @@
     <contact>2147483647</contact>
     <micrCode>261699009</micrCode>
     <ifscCode>ALLA0AU1308</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -husainganj</name>
@@ -357,7 +438,7 @@
     <contact>2147483647</contact>
     <micrCode>261699006</micrCode>
     <ifscCode>ALLA0AU1309</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bhithauli</name>
@@ -366,7 +447,7 @@
     <contact>2147483647</contact>
     <micrCode>261699518</micrCode>
     <ifscCode>ALLA0AU1310</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bakahuwa Bazar</name>
@@ -375,7 +456,7 @@
     <contact>2147483647</contact>
     <micrCode>261699575</micrCode>
     <ifscCode>ALLA0AU1311</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kamalapur</name>
@@ -384,7 +465,7 @@
     <contact>2147483647</contact>
     <micrCode>261699520</micrCode>
     <ifscCode>ALLA0AU1312</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-pisawan</name>
@@ -393,7 +474,7 @@
     <contact>2147483647</contact>
     <micrCode>261699540</micrCode>
     <ifscCode>ALLA0AU1313</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -arthana</name>
@@ -402,7 +483,7 @@
     <contact>2147483647</contact>
     <micrCode>261699013</micrCode>
     <ifscCode>ALLA0AU1314</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -neemsar</name>
@@ -411,7 +492,7 @@
     <contact>2147483647</contact>
     <micrCode>261699534</micrCode>
     <ifscCode>ALLA0AU1315</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-purana Sitapur</name>
@@ -420,7 +501,7 @@
     <contact>2147483647</contact>
     <micrCode>261699003</micrCode>
     <ifscCode>ALLA0AU1316</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gopalpur</name>
@@ -429,7 +510,7 @@
     <contact>2147483647</contact>
     <micrCode>261699556</micrCode>
     <ifscCode>ALLA0AU1317</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -khanpur Kankari</name>
@@ -438,7 +519,7 @@
     <contact>2147483647</contact>
     <micrCode>261699581</micrCode>
     <ifscCode>ALLA0AU1318</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sarayan Sani</name>
@@ -447,7 +528,7 @@
     <contact>2147483647</contact>
     <micrCode>261699019</micrCode>
     <ifscCode>ALLA0AU1319</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -behma</name>
@@ -456,7 +537,7 @@
     <contact>2147483647</contact>
     <micrCode>261699571</micrCode>
     <ifscCode>ALLA0AU1320</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sirauli</name>
@@ -465,7 +546,7 @@
     <contact>2147483647</contact>
     <micrCode>261699567</micrCode>
     <ifscCode>ALLA0AU1321</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sahadat Nagar</name>
@@ -474,7 +555,7 @@
     <contact>2147483647</contact>
     <micrCode>261699513</micrCode>
     <ifscCode>ALLA0AU1322</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -khagesiamau</name>
@@ -483,7 +564,7 @@
     <contact>2147483647</contact>
     <micrCode>261699008</micrCode>
     <ifscCode>ALLA0AU1323</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bahadurnagar</name>
@@ -492,7 +573,7 @@
     <contact>2147483647</contact>
     <micrCode>261699572</micrCode>
     <ifscCode>ALLA0AU1324</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gangapurwa</name>
@@ -501,7 +582,7 @@
     <contact>2147483647</contact>
     <micrCode>261699586</micrCode>
     <ifscCode>ALLA0AU1325</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bahadurganj</name>
@@ -510,7 +591,7 @@
     <contact>2147483647</contact>
     <micrCode>261699592</micrCode>
     <ifscCode>ALLA0AU1326</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bilaria</name>
@@ -519,7 +600,7 @@
     <contact>2147483647</contact>
     <micrCode>261699548</micrCode>
     <ifscCode>ALLA0AU1327</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bannikharaila</name>
@@ -528,7 +609,7 @@
     <contact>2147483647</contact>
     <micrCode>261699523</micrCode>
     <ifscCode>ALLA0AU1328</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -tikra</name>
@@ -537,7 +618,7 @@
     <contact>2147483647</contact>
     <micrCode>261699573</micrCode>
     <ifscCode>ALLA0AU1329</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -haiderpur</name>
@@ -546,7 +627,7 @@
     <contact>2147483647</contact>
     <micrCode>261699530</micrCode>
     <ifscCode>ALLA0AU1330</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -babupur</name>
@@ -555,7 +636,7 @@
     <contact>2147483647</contact>
     <micrCode>261699565</micrCode>
     <ifscCode>ALLA0AU1331</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -ratausia</name>
@@ -564,7 +645,7 @@
     <contact>2147483647</contact>
     <micrCode>261699542</micrCode>
     <ifscCode>ALLA0AU1332</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -halim Nagar</name>
@@ -573,7 +654,7 @@
     <contact>2147483647</contact>
     <micrCode>261699589</micrCode>
     <ifscCode>ALLA0AU1333</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -suhetara</name>
@@ -582,7 +663,7 @@
     <contact>2147483647</contact>
     <micrCode>261699018</micrCode>
     <ifscCode>ALLA0AU1334</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -mandarua</name>
@@ -591,7 +672,7 @@
     <contact>2147483647</contact>
     <micrCode>261699514</micrCode>
     <ifscCode>ALLA0AU1335</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -indrauli</name>
@@ -600,7 +681,7 @@
     <contact>2147483647</contact>
     <micrCode>261699025</micrCode>
     <ifscCode>ALLA0AU1336</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kursi</name>
@@ -609,7 +690,7 @@
     <contact>2147483647</contact>
     <micrCode>261699559</micrCode>
     <ifscCode>ALLA0AU1337</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -itaua</name>
@@ -618,7 +699,7 @@
     <contact>2147483647</contact>
     <micrCode>261699590</micrCode>
     <ifscCode>ALLA0AU1338</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -madnapur</name>
@@ -627,7 +708,7 @@
     <contact>2147483647</contact>
     <micrCode>261699577</micrCode>
     <ifscCode>ALLA0AU1339</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -raipur</name>
@@ -636,7 +717,7 @@
     <contact>2147483647</contact>
     <micrCode>261699011</micrCode>
     <ifscCode>ALLA0AU1340</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-talbaghel/rpk</name>
@@ -645,7 +726,7 @@
     <contact>2147483647</contact>
     <micrCode>271699553</micrCode>
     <ifscCode>ALLA0AU1342</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin- Bahraich</name>
@@ -654,7 +735,7 @@
     <contact>2147483647</contact>
     <micrCode>271699002</micrCode>
     <ifscCode>ALLA0AU1344</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-nanpara</name>
@@ -663,7 +744,7 @@
     <contact>2147483647</contact>
     <micrCode>271699402</micrCode>
     <ifscCode>ALLA0AU1345</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-payagpur</name>
@@ -672,7 +753,7 @@
     <contact>2147483647</contact>
     <micrCode>271699540</micrCode>
     <ifscCode>ALLA0AU1346</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-mihinpurwa</name>
@@ -681,7 +762,7 @@
     <contact>2147483647</contact>
     <micrCode>271699580</micrCode>
     <ifscCode>ALLA0AU1347</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kundasar</name>
@@ -690,7 +771,7 @@
     <contact>2147483647</contact>
     <micrCode>271699534</micrCode>
     <ifscCode>ALLA0AU1348</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rupaidiha</name>
@@ -699,7 +780,7 @@
     <contact>2147483647</contact>
     <micrCode>271699581</micrCode>
     <ifscCode>ALLA0AU1349</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -shivpur</name>
@@ -708,7 +789,7 @@
     <contact>2147483647</contact>
     <micrCode>271699582</micrCode>
     <ifscCode>ALLA0AU1350</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-civil Line(brh)</name>
@@ -717,7 +798,7 @@
     <contact>2147483647</contact>
     <micrCode>271699004</micrCode>
     <ifscCode>ALLA0AU1351</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -jamunaha</name>
@@ -726,7 +807,7 @@
     <contact>2147483647</contact>
     <micrCode>271699571</micrCode>
     <ifscCode>ALLA0AU1352</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -mahasi</name>
@@ -735,7 +816,7 @@
     <contact>2147483647</contact>
     <micrCode>271699538</micrCode>
     <ifscCode>ALLA0AU1353</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -ashwamohamadpur</name>
@@ -744,7 +825,7 @@
     <contact>2147483647</contact>
     <micrCode>271699520</micrCode>
     <ifscCode>ALLA0AU1354</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -chaffaria</name>
@@ -753,7 +834,7 @@
     <contact>2147483647</contact>
     <micrCode>271699584</micrCode>
     <ifscCode>ALLA0AU1355</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -sonwa</name>
@@ -762,7 +843,7 @@
     <contact>2147483647</contact>
     <micrCode>271699013</micrCode>
     <ifscCode>ALLA0AU1356</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -khajurar</name>
@@ -771,7 +852,7 @@
     <contact>2147483647</contact>
     <micrCode>271699555</micrCode>
     <ifscCode>ALLA0AU1357</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -nasirganj(nasirganj Mahadeva)</name>
@@ -780,7 +861,7 @@
     <contact>2147483647</contact>
     <micrCode>271699518</micrCode>
     <ifscCode>ALLA0AU1358</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -lakshamanpur Bazar</name>
@@ -789,7 +870,7 @@
     <contact>2147483647</contact>
     <micrCode>271699558</micrCode>
     <ifscCode>ALLA0AU1359</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -rampurwa</name>
@@ -798,7 +879,7 @@
     <contact>2147483647</contact>
     <micrCode>271699519</micrCode>
     <ifscCode>ALLA0AU1360</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gangwal</name>
@@ -807,7 +888,7 @@
     <contact>2147483647</contact>
     <micrCode>271699545</micrCode>
     <ifscCode>ALLA0AU1361</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -badrauli</name>
@@ -816,7 +897,7 @@
     <contact>2147483647</contact>
     <micrCode>271699546</micrCode>
     <ifscCode>ALLA0AU1362</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bhangha</name>
@@ -825,7 +906,7 @@
     <contact>2147483647</contact>
     <micrCode>271699549</micrCode>
     <ifscCode>ALLA0AU1363</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-hardatt Nagar</name>
@@ -834,7 +915,7 @@
     <contact>2147483647</contact>
     <micrCode>271699535</micrCode>
     <ifscCode>ALLA0AU1364</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -pandepurwa</name>
@@ -843,7 +924,7 @@
     <contact>2147483647</contact>
     <micrCode>271699536</micrCode>
     <ifscCode>ALLA0AU1365</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -khutehna</name>
@@ -852,7 +933,7 @@
     <contact>2147483647</contact>
     <micrCode>271699523</micrCode>
     <ifscCode>ALLA0AU1366</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-huzoor PUR</name>
@@ -861,7 +942,7 @@
     <contact>2147483647</contact>
     <micrCode>271699525</micrCode>
     <ifscCode>ALLA0AU1367</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-jaitapur</name>
@@ -870,7 +951,7 @@
     <contact>2147483647</contact>
     <micrCode>271699526</micrCode>
     <ifscCode>ALLA0AU1368</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -J.C. Katghara</name>
@@ -879,7 +960,7 @@
     <contact>2147483647</contact>
     <micrCode>271699527</micrCode>
     <ifscCode>ALLA0AU1369</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-urra</name>
@@ -888,7 +969,7 @@
     <contact>2147483647</contact>
     <micrCode>271699577</micrCode>
     <ifscCode>ALLA0AU1370</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-shankar PUR</name>
@@ -897,7 +978,7 @@
     <contact>2147483647</contact>
     <micrCode>271699530</micrCode>
     <ifscCode>ALLA0AU1371</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -behra</name>
@@ -906,7 +987,7 @@
     <contact>2147483647</contact>
     <micrCode>271699567</micrCode>
     <ifscCode>ALLA0AU1372</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -charda</name>
@@ -915,7 +996,7 @@
     <contact>2147483647</contact>
     <micrCode>271699564</micrCode>
     <ifscCode>ALLA0AU1373</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -tulsipur</name>
@@ -924,7 +1005,7 @@
     <contact>2147483647</contact>
     <micrCode>271699510</micrCode>
     <ifscCode>ALLA0AU1374</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gaighat</name>
@@ -933,7 +1014,7 @@
     <contact>2147483647</contact>
     <micrCode>271699575</micrCode>
     <ifscCode>ALLA0AU1375</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -marocha</name>
@@ -942,7 +1023,7 @@
     <contact>2147483647</contact>
     <micrCode>271699014</micrCode>
     <ifscCode>ALLA0AU1376</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gandara</name>
@@ -951,7 +1032,7 @@
     <contact>2147483647</contact>
     <micrCode>271699554</micrCode>
     <ifscCode>ALLA0AU1377</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bhilaura Basu</name>
@@ -960,7 +1041,7 @@
     <contact>2147483647</contact>
     <micrCode>271699531</micrCode>
     <ifscCode>ALLA0AU1378</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -raipur Thalia</name>
@@ -969,7 +1050,7 @@
     <contact>2147483647</contact>
     <micrCode>271699543</micrCode>
     <ifscCode>ALLA0AU1379</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -jarwal Kasba</name>
@@ -978,7 +1059,7 @@
     <contact>2147483647</contact>
     <micrCode>271699566</micrCode>
     <ifscCode>ALLA0AU1380</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kandaila</name>
@@ -987,7 +1068,7 @@
     <contact>2147483647</contact>
     <micrCode>271699562</micrCode>
     <ifscCode>ALLA0AU1381</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -ghurma Parsia</name>
@@ -996,7 +1077,7 @@
     <contact>2147483647</contact>
     <micrCode>271699537</micrCode>
     <ifscCode>ALLA0AU1382</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -pahelwara  (P.B. Adda)</name>
@@ -1005,7 +1086,7 @@
     <contact>2147483647</contact>
     <micrCode>271699539</micrCode>
     <ifscCode>ALLA0AU1383</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -bhaggarwa Bazar</name>
@@ -1014,7 +1095,7 @@
     <contact>2147483647</contact>
     <micrCode>271699542</micrCode>
     <ifscCode>ALLA0AU1384</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -kutti Premdas</name>
@@ -1023,7 +1104,7 @@
     <contact>2147483647</contact>
     <micrCode>271699583</micrCode>
     <ifscCode>ALLA0AU1385</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -begam PUR</name>
@@ -1032,7 +1113,7 @@
     <contact>2147483647</contact>
     <micrCode>271699008</micrCode>
     <ifscCode>ALLA0AU1386</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -purena</name>
@@ -1041,7 +1122,7 @@
     <contact>2147483647</contact>
     <micrCode>271699560</micrCode>
     <ifscCode>ALLA0AU1387</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -itaha(basthanwa)</name>
@@ -1050,7 +1131,7 @@
     <contact>2147483647</contact>
     <micrCode>271699513</micrCode>
     <ifscCode>ALLA0AU1388</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gambhirwa Bazar</name>
@@ -1059,7 +1140,7 @@
     <contact>2147483647</contact>
     <micrCode>271699011</micrCode>
     <ifscCode>ALLA0AU1389</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-subhikha</name>
@@ -1068,7 +1149,7 @@
     <contact>2147483647</contact>
     <micrCode>271699511</micrCode>
     <ifscCode>ALLA0AU1390</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -ratnapur</name>
@@ -1077,7 +1158,7 @@
     <contact>2147483647</contact>
     <micrCode>271699010</micrCode>
     <ifscCode>ALLA0AU1391</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -khaira Bazar</name>
@@ -1086,7 +1167,7 @@
     <contact>2147483647</contact>
     <micrCode>271699515</micrCode>
     <ifscCode>ALLA0AU1392</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -laxman Nagar</name>
@@ -1095,7 +1176,7 @@
     <contact>2147483647</contact>
     <micrCode>271699514</micrCode>
     <ifscCode>ALLA0AU1393</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin -gothwa</name>
@@ -1104,7 +1185,7 @@
     <contact>2147483647</contact>
     <micrCode>271699570</micrCode>
     <ifscCode>ALLA0AU1394</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-tilakpur</name>
@@ -1113,7 +1194,7 @@
     <contact>2147483647</contact>
     <micrCode>271699574</micrCode>
     <ifscCode>ALLA0AU1395</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-fakhar PUR</name>
@@ -1122,7 +1203,7 @@
     <contact>2147483647</contact>
     <micrCode>271699528</micrCode>
     <ifscCode>ALLA0AU1396</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-hardi</name>
@@ -1131,7 +1212,7 @@
     <contact>2147483647</contact>
     <micrCode>271699532</micrCode>
     <ifscCode>ALLA0AU1397</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-beerpur</name>
@@ -1140,7 +1221,7 @@
     <contact>2147483647</contact>
     <micrCode>271699563</micrCode>
     <ifscCode>ALLA0AU1398</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP GRAMIN-K.B.GANJ (R.B. Pur)</name>
@@ -1149,7 +1230,7 @@
     <contact>2147483647</contact>
     <micrCode>271699006</micrCode>
     <ifscCode>ALLA0AU1399</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-jokhawa Bazar</name>
@@ -1158,7 +1239,7 @@
     <contact>2147483647</contact>
     <micrCode>271699576</micrCode>
     <ifscCode>ALLA0AU1400</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-goorh</name>
@@ -1167,7 +1248,7 @@
     <contact>2147483647</contact>
     <micrCode>271699556</micrCode>
     <ifscCode>ALLA0AU1401</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-lauki</name>
@@ -1176,7 +1257,7 @@
     <contact>2147483647</contact>
     <micrCode>271699529</micrCode>
     <ifscCode>ALLA0AU1402</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gajadharpur</name>
@@ -1185,7 +1266,7 @@
     <contact>2147483647</contact>
     <micrCode>271699521</micrCode>
     <ifscCode>ALLA0AU1403</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kaiserganj</name>
@@ -1194,7 +1275,7 @@
     <contact>2147483647</contact>
     <micrCode>271699550</micrCode>
     <ifscCode>ALLA0AU1404</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bhinga</name>
@@ -1203,7 +1284,7 @@
     <contact>2147483647</contact>
     <micrCode>271699302</micrCode>
     <ifscCode>ALLA0AU1405</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-jarwal Road</name>
@@ -1212,7 +1293,7 @@
     <contact>2147483647</contact>
     <micrCode>271699579</micrCode>
     <ifscCode>ALLA0AU1406</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP GRAMIN-J.P. Shere Bechei</name>
@@ -1221,7 +1302,7 @@
     <contact>2147483647</contact>
     <micrCode>271699552</micrCode>
     <ifscCode>ALLA0AU1407</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-laukahi</name>
@@ -1230,7 +1311,7 @@
     <contact>2147483647</contact>
     <micrCode>271699547</micrCode>
     <ifscCode>ALLA0AU1408</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-newada</name>
@@ -1239,7 +1320,7 @@
     <contact>2147483647</contact>
     <micrCode>271699012</micrCode>
     <ifscCode>ALLA0AU1409</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-deeha</name>
@@ -1248,7 +1329,7 @@
     <contact>2147483647</contact>
     <micrCode>271699410</micrCode>
     <ifscCode>ALLA0AU1410</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kanchhar/mtak</name>
@@ -1257,7 +1338,7 @@
     <contact>2147483647</contact>
     <micrCode>271699557</micrCode>
     <ifscCode>ALLA0AU1411</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-tendwa Basant PUR</name>
@@ -1266,7 +1347,7 @@
     <contact>2147483647</contact>
     <micrCode>271699005</micrCode>
     <ifscCode>ALLA0AU1412</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-rajapur Kalan</name>
@@ -1275,7 +1356,7 @@
     <contact>2147483647</contact>
     <micrCode>261699591</micrCode>
     <ifscCode>ALLA0AU1413</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-narsingh Diha</name>
@@ -1284,7 +1365,7 @@
     <contact>2147483647</contact>
     <micrCode>271699524</micrCode>
     <ifscCode>ALLA0AU1414</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-sisai Salon</name>
@@ -1293,7 +1374,7 @@
     <contact>2147483647</contact>
     <micrCode>271699512</micrCode>
     <ifscCode>ALLA0AU1415</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-majhawa</name>
@@ -1302,7 +1383,7 @@
     <contact>2147483647</contact>
     <micrCode>271699559</micrCode>
     <ifscCode>ALLA0AU1416</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gadwa</name>
@@ -1311,7 +1392,7 @@
     <contact>2147483647</contact>
     <micrCode>271699544</micrCode>
     <ifscCode>ALLA0AU1417</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-purainee</name>
@@ -1320,7 +1401,7 @@
     <contact>2147483647</contact>
     <micrCode>271699572</micrCode>
     <ifscCode>ALLA0AU1418</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-maharaj Ganj</name>
@@ -1329,7 +1410,7 @@
     <contact>2147483647</contact>
     <micrCode>271699517</micrCode>
     <ifscCode>ALLA0AU1419</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-machhiyahi</name>
@@ -1338,7 +1419,7 @@
     <contact>2147483647</contact>
     <micrCode>271699516</micrCode>
     <ifscCode>ALLA0AU1420</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-chakujot</name>
@@ -1347,7 +1428,7 @@
     <contact>2147483647</contact>
     <micrCode>271699009</micrCode>
     <ifscCode>ALLA0AU1421</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kakri</name>
@@ -1356,7 +1437,7 @@
     <contact>2147483647</contact>
     <micrCode>271699551</micrCode>
     <ifscCode>ALLA0AU1422</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-nawab Ganj</name>
@@ -1365,7 +1446,7 @@
     <contact>2147483647</contact>
     <micrCode>271699533</micrCode>
     <ifscCode>ALLA0AU1423</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kishunpur Mitha</name>
@@ -1374,7 +1455,7 @@
     <contact>2147483647</contact>
     <micrCode>271699522</micrCode>
     <ifscCode>ALLA0AU1424</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rasoolabad</name>
@@ -1383,7 +1464,7 @@
     <contact>2147483647</contact>
     <micrCode>271699569</micrCode>
     <ifscCode>ALLA0AU1425</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gulara</name>
@@ -1392,7 +1473,7 @@
     <contact>2147483647</contact>
     <micrCode>271699565</micrCode>
     <ifscCode>ALLA0AU1426</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-badhaia Kalan</name>
@@ -1401,7 +1482,7 @@
     <contact>2147483647</contact>
     <micrCode>271699578</micrCode>
     <ifscCode>ALLA0AU1427</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rajwapur</name>
@@ -1410,7 +1491,7 @@
     <contact>2147483647</contact>
     <micrCode>271699548</micrCode>
     <ifscCode>ALLA0AU1428</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bada Gaon</name>
@@ -1419,7 +1500,7 @@
     <contact>2147483647</contact>
     <micrCode>271699561</micrCode>
     <ifscCode>ALLA0AU1429</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bhujanga</name>
@@ -1428,7 +1509,7 @@
     <contact>2147483647</contact>
     <micrCode>271699568</micrCode>
     <ifscCode>ALLA0AU1430</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-malhi PUR</name>
@@ -1437,7 +1518,7 @@
     <contact>2147483647</contact>
     <micrCode>271699541</micrCode>
     <ifscCode>ALLA0AU1431</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin- Lakhimpur</name>
@@ -1446,7 +1527,7 @@
     <contact>2147483647</contact>
     <micrCode>262699703</micrCode>
     <ifscCode>ALLA0AU1433</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-rosan Nagar</name>
@@ -1455,7 +1536,7 @@
     <contact>2147483647</contact>
     <micrCode>262699529</micrCode>
     <ifscCode>ALLA0AU1434</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-uchaulia</name>
@@ -1464,7 +1545,7 @@
     <contact>2147483647</contact>
     <micrCode>262699545</micrCode>
     <ifscCode>ALLA0AU1435</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-sansarpur</name>
@@ -1473,7 +1554,7 @@
     <contact>2147483647</contact>
     <micrCode>262699530</micrCode>
     <ifscCode>ALLA0AU1436</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mooda-sawaran</name>
@@ -1482,7 +1563,7 @@
     <contact>2147483647</contact>
     <micrCode>262699516</micrCode>
     <ifscCode>ALLA0AU1437</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-balamia Bharkhar</name>
@@ -1491,7 +1572,7 @@
     <contact>2147483647</contact>
     <micrCode>262699536</micrCode>
     <ifscCode>ALLA0AU1438</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bhanpur</name>
@@ -1500,7 +1581,7 @@
     <contact>2147483647</contact>
     <micrCode>262699524</micrCode>
     <ifscCode>ALLA0AU1439</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gulaula</name>
@@ -1509,7 +1590,7 @@
     <contact>2147483647</contact>
     <micrCode>262699515</micrCode>
     <ifscCode>ALLA0AU1440</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-sisaura Nasir</name>
@@ -1518,7 +1599,7 @@
     <contact>2147483647</contact>
     <micrCode>262699539</micrCode>
     <ifscCode>ALLA0AU1441</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-ajan</name>
@@ -1527,7 +1608,7 @@
     <contact>2147483647</contact>
     <micrCode>262699522</micrCode>
     <ifscCode>ALLA0AU1442</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-hasanpur Katauli</name>
@@ -1536,7 +1617,7 @@
     <contact>2147483647</contact>
     <micrCode>262699541</micrCode>
     <ifscCode>ALLA0AU1443</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-sisaya Kalan</name>
@@ -1545,7 +1626,7 @@
     <contact>2147483647</contact>
     <micrCode>262699527</micrCode>
     <ifscCode>ALLA0AU1444</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-amir Nagar</name>
@@ -1554,7 +1635,7 @@
     <contact>2147483647</contact>
     <micrCode>262699523</micrCode>
     <ifscCode>ALLA0AU1445</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mudia Khurd</name>
@@ -1563,7 +1644,7 @@
     <contact>2147483647</contact>
     <micrCode>262699716</micrCode>
     <ifscCode>ALLA0AU1446</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-dhakerwa</name>
@@ -1572,7 +1653,7 @@
     <contact>2147483647</contact>
     <micrCode>262699528</micrCode>
     <ifscCode>ALLA0AU1447</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-abhayapur</name>
@@ -1581,7 +1662,7 @@
     <contact>2147483647</contact>
     <micrCode>262699526</micrCode>
     <ifscCode>ALLA0AU1448</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-nighasan</name>
@@ -1590,7 +1671,7 @@
     <contact>2147483647</contact>
     <micrCode>262699532</micrCode>
     <ifscCode>ALLA0AU1449</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-mullapur</name>
@@ -1599,7 +1680,7 @@
     <contact>2147483647</contact>
     <micrCode>262699542</micrCode>
     <ifscCode>ALLA0AU1450</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-rakehati</name>
@@ -1608,7 +1689,7 @@
     <contact>2147483647</contact>
     <micrCode>262699531</micrCode>
     <ifscCode>ALLA0AU1451</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-suthna Barsola</name>
@@ -1617,7 +1698,7 @@
     <contact>2147483647</contact>
     <micrCode>262699543</micrCode>
     <ifscCode>ALLA0AU1452</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bheekhampur</name>
@@ -1626,7 +1707,7 @@
     <contact>2147483647</contact>
     <micrCode>262699520</micrCode>
     <ifscCode>ALLA0AU1453</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-khamaria</name>
@@ -1635,7 +1716,7 @@
     <contact>2147483647</contact>
     <micrCode>262699519</micrCode>
     <ifscCode>ALLA0AU1454</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-dhaurahra</name>
@@ -1644,7 +1725,7 @@
     <contact>2147483647</contact>
     <micrCode>262699534</micrCode>
     <ifscCode>ALLA0AU1455</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-naugawan</name>
@@ -1653,7 +1734,7 @@
     <contact>2147483647</contact>
     <micrCode>262699538</micrCode>
     <ifscCode>ALLA0AU1456</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-trikolia</name>
@@ -1662,7 +1743,7 @@
     <contact>2147483647</contact>
     <micrCode>262699544</micrCode>
     <ifscCode>ALLA0AU1457</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bamnagar</name>
@@ -1671,7 +1752,7 @@
     <contact>2147483647</contact>
     <micrCode>262699546</micrCode>
     <ifscCode>ALLA0AU1458</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-rama PUR</name>
@@ -1680,7 +1761,7 @@
     <contact>2147483647</contact>
     <micrCode>262699705</micrCode>
     <ifscCode>ALLA0AU1459</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-padaria</name>
@@ -1689,7 +1770,7 @@
     <contact>2147483647</contact>
     <micrCode>262699517</micrCode>
     <ifscCode>ALLA0AU1460</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-saida PUR</name>
@@ -1698,7 +1779,7 @@
     <contact>2147483647</contact>
     <micrCode>262699708</micrCode>
     <ifscCode>ALLA0AU1461</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-patarasi</name>
@@ -1707,7 +1788,7 @@
     <contact>2147483647</contact>
     <micrCode>262699715</micrCode>
     <ifscCode>ALLA0AU1462</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-jat Purwa</name>
@@ -1716,7 +1797,7 @@
     <contact>2147483647</contact>
     <micrCode>262699518</micrCode>
     <ifscCode>ALLA0AU1463</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-raipur</name>
@@ -1725,7 +1806,7 @@
     <contact>2147483647</contact>
     <micrCode>262699514</micrCode>
     <ifscCode>ALLA0AU1464</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-lakesar</name>
@@ -1734,7 +1815,7 @@
     <contact>2147483647</contact>
     <micrCode>262699707</micrCode>
     <ifscCode>ALLA0AU1465</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-moti PUR</name>
@@ -1743,7 +1824,7 @@
     <contact>2147483647</contact>
     <micrCode>262699537</micrCode>
     <ifscCode>ALLA0AU1466</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-gola</name>
@@ -1752,7 +1833,7 @@
     <contact>2147483647</contact>
     <micrCode>262699902</micrCode>
     <ifscCode>ALLA0AU1467</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-palia Kalan</name>
@@ -1761,7 +1842,7 @@
     <contact>2147483647</contact>
     <micrCode>262699421</micrCode>
     <ifscCode>ALLA0AU1468</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-mohammadi</name>
@@ -1770,7 +1851,7 @@
     <contact>2147483647</contact>
     <micrCode>262699535</micrCode>
     <ifscCode>ALLA0AU1469</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-sarsawa</name>
@@ -1779,7 +1860,7 @@
     <contact>2147483647</contact>
     <micrCode>262699512</micrCode>
     <ifscCode>ALLA0AU1470</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gaura</name>
@@ -1788,7 +1869,7 @@
     <contact>2147483647</contact>
     <micrCode>262699711</micrCode>
     <ifscCode>ALLA0AU1471</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-madawa</name>
@@ -1797,7 +1878,7 @@
     <contact>2147483647</contact>
     <micrCode>262699513</micrCode>
     <ifscCode>ALLA0AU1472</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-maigalganj</name>
@@ -1806,7 +1887,7 @@
     <contact>2147483647</contact>
     <micrCode>262699533</micrCode>
     <ifscCode>ALLA0AU1473</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-lrp Road</name>
@@ -1815,7 +1896,7 @@
     <contact>2147483647</contact>
     <micrCode>262699702</micrCode>
     <ifscCode>ALLA0AU1474</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-nakaha Pipri</name>
@@ -1824,7 +1905,7 @@
     <contact>2147483647</contact>
     <micrCode>262699714</micrCode>
     <ifscCode>ALLA0AU1475</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-oel</name>
@@ -1833,7 +1914,7 @@
     <contact>2147483647</contact>
     <micrCode>262699710</micrCode>
     <ifscCode>ALLA0AU1476</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mitauli</name>
@@ -1842,7 +1923,7 @@
     <contact>2147483647</contact>
     <micrCode>262699525</micrCode>
     <ifscCode>ALLA0AU1477</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mela Maidan</name>
@@ -1851,7 +1932,7 @@
     <contact>2147483647</contact>
     <micrCode>262699704</micrCode>
     <ifscCode>ALLA0AU1478</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kaimahara</name>
@@ -1860,7 +1941,7 @@
     <contact>2147483647</contact>
     <micrCode>262699712</micrCode>
     <ifscCode>ALLA0AU1479</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-neem Gaon</name>
@@ -1869,7 +1950,7 @@
     <contact>2147483647</contact>
     <micrCode>262699713</micrCode>
     <ifscCode>ALLA0AU1480</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-behjam</name>
@@ -1878,7 +1959,7 @@
     <contact>2147483647</contact>
     <micrCode>262699510</micrCode>
     <ifscCode>ALLA0AU1481</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mahewa Ganj</name>
@@ -1887,7 +1968,7 @@
     <contact>2147483647</contact>
     <micrCode>262699706</micrCode>
     <ifscCode>ALLA0AU1482</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-andesh Nagar</name>
@@ -1896,7 +1977,7 @@
     <contact>2147483647</contact>
     <micrCode>262699709</micrCode>
     <ifscCode>ALLA0AU1483</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-lagucha</name>
@@ -1905,7 +1986,7 @@
     <contact>2147483647</contact>
     <micrCode>262699511</micrCode>
     <ifscCode>ALLA0AU1484</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-naipalapur</name>
@@ -1914,7 +1995,7 @@
     <contact>2147483647</contact>
     <micrCode>261699007</micrCode>
     <ifscCode>ALLA0AU1485</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bheera Road</name>
@@ -1923,7 +2004,7 @@
     <contact>2147483647</contact>
     <micrCode>262699540</micrCode>
     <ifscCode>ALLA0AU1486</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mill Ward</name>
@@ -1932,7 +2013,7 @@
     <contact>2147483647</contact>
     <micrCode>262699521</micrCode>
     <ifscCode>ALLA0AU1487</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kachwa Bazar</name>
@@ -1941,7 +2022,7 @@
     <contact>2147483647</contact>
     <micrCode>231699060</micrCode>
     <ifscCode>ALLA0AU1488</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kanasi</name>
@@ -1950,7 +2031,7 @@
     <contact>2147483647</contact>
     <micrCode>285699166</micrCode>
     <ifscCode>ALLA0AU1489</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-dakor</name>
@@ -1959,7 +2040,7 @@
     <contact>2147483647</contact>
     <micrCode>285699114</micrCode>
     <ifscCode>ALLA0AU1490</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gaipura</name>
@@ -1968,7 +2049,7 @@
     <contact>2147483647</contact>
     <micrCode>231699052</micrCode>
     <ifscCode>ALLA0AU1491</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-sarila</name>
@@ -1977,7 +2058,7 @@
     <contact>2147483647</contact>
     <micrCode>210699168</micrCode>
     <ifscCode>ALLA0AU1492</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kartal</name>
@@ -1986,7 +2067,7 @@
     <contact>2147483647</contact>
     <micrCode>210699555</micrCode>
     <ifscCode>ALLA0AU1493</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-chandaut Danda</name>
@@ -1995,7 +2076,7 @@
     <contact>2147483647</contact>
     <micrCode>210699171</micrCode>
     <ifscCode>ALLA0AU1494</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-konch Road, Orai</name>
@@ -2004,7 +2085,7 @@
     <contact>2147483647</contact>
     <micrCode>285699105</micrCode>
     <ifscCode>ALLA0AU1495</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-barkacha Kalan</name>
@@ -2013,7 +2094,7 @@
     <contact>2147483647</contact>
     <micrCode>231699012</micrCode>
     <ifscCode>ALLA0AU1496</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-jhanda Chauraha</name>
@@ -2022,7 +2103,7 @@
     <contact>2147483647</contact>
     <micrCode>285699152</micrCode>
     <ifscCode>ALLA0AU1497</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-dabak</name>
@@ -2031,7 +2112,7 @@
     <contact>2147483647</contact>
     <micrCode>231699081</micrCode>
     <ifscCode>ALLA0AU1498</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-pakka Pokhra</name>
@@ -2040,7 +2121,7 @@
     <contact>2147483647</contact>
     <micrCode>231699011</micrCode>
     <ifscCode>ALLA0AU1499</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-lamiyari</name>
@@ -2049,7 +2130,7 @@
     <contact>2147483647</contact>
     <micrCode>210699560</micrCode>
     <ifscCode>ALLA0AU1500</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-dingwahi</name>
@@ -2058,7 +2139,7 @@
     <contact>2147483647</contact>
     <micrCode>210699312</micrCode>
     <ifscCode>ALLA0AU1501</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-lodhipur Newada</name>
@@ -2067,7 +2148,7 @@
     <contact>2147483647</contact>
     <micrCode>210699156</micrCode>
     <ifscCode>ALLA0AU1502</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin- Chhawni Bz(brh)</name>
@@ -2076,7 +2157,7 @@
     <contact>2147483647</contact>
     <micrCode>271699003</micrCode>
     <ifscCode>ALLA0AU1503</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-chopan</name>
@@ -2085,7 +2166,7 @@
     <contact>2147483647</contact>
     <micrCode>231699152</micrCode>
     <ifscCode>ALLA0AU1504</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-nadihar</name>
@@ -2094,7 +2175,7 @@
     <contact>2147483647</contact>
     <micrCode>231699076</micrCode>
     <ifscCode>ALLA0AU1505</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-lalganj</name>
@@ -2103,7 +2184,7 @@
     <contact>2147483647</contact>
     <micrCode>231699056</micrCode>
     <ifscCode>ALLA0AU1506</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-pali</name>
@@ -2112,7 +2193,7 @@
     <contact>2147483647</contact>
     <micrCode>231699071</micrCode>
     <ifscCode>ALLA0AU1507</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-ichauli</name>
@@ -2121,7 +2202,7 @@
     <contact>2147483647</contact>
     <micrCode>210699165</micrCode>
     <ifscCode>ALLA0AU1508</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-nadigaon</name>
@@ -2130,7 +2211,7 @@
     <contact>2147483647</contact>
     <micrCode>285699180</micrCode>
     <ifscCode>ALLA0AU1509</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-medical College, Orai</name>
@@ -2139,7 +2220,7 @@
     <contact>2147483647</contact>
     <micrCode>285699106</micrCode>
     <ifscCode>ALLA0AU1510</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mardan Naka</name>
@@ -2148,7 +2229,7 @@
     <contact>2147483647</contact>
     <micrCode>210699310</micrCode>
     <ifscCode>ALLA0AU1511</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-kotra</name>
@@ -2157,7 +2238,7 @@
     <contact>2147483647</contact>
     <micrCode>285699164</micrCode>
     <ifscCode>ALLA0AU1512</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-iton</name>
@@ -2166,7 +2247,7 @@
     <contact>2147483647</contact>
     <micrCode>285699172</micrCode>
     <ifscCode>ALLA0AU1513</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-muhkonchwa</name>
@@ -2175,7 +2256,7 @@
     <contact>2147483647</contact>
     <micrCode>231699005</micrCode>
     <ifscCode>ALLA0AU1514</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-dala</name>
@@ -2184,7 +2265,7 @@
     <contact>2147483647</contact>
     <micrCode>231699156</micrCode>
     <ifscCode>ALLA0AU1515</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-fatha</name>
@@ -2193,7 +2274,7 @@
     <contact>2147483647</contact>
     <micrCode>231699007</micrCode>
     <ifscCode>ALLA0AU1516</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-sujanpur</name>
@@ -2202,7 +2283,7 @@
     <contact>2147483647</contact>
     <micrCode>262699547</micrCode>
     <ifscCode>ALLA0AU1517</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-ludhauri</name>
@@ -2211,7 +2292,7 @@
     <contact>2147483647</contact>
     <micrCode>262699548</micrCode>
     <ifscCode>ALLA0AU1518</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-moodagalib</name>
@@ -2220,7 +2301,7 @@
     <contact>2147483647</contact>
     <micrCode>262699951</micrCode>
     <ifscCode>ALLA0AU1519</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-beni Rajapur</name>
@@ -2229,7 +2310,7 @@
     <contact>2147483647</contact>
     <micrCode>262699952</micrCode>
     <ifscCode>ALLA0AU1520</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-chatauni</name>
@@ -2238,7 +2319,7 @@
     <contact>2147483647</contact>
     <micrCode>261699593</micrCode>
     <ifscCode>ALLA0AU1521</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-korauna</name>
@@ -2247,7 +2328,7 @@
     <contact>2147483647</contact>
     <micrCode>261699594</micrCode>
     <ifscCode>ALLA0AU1522</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bhadmara</name>
@@ -2256,7 +2337,7 @@
     <contact>2147483647</contact>
     <micrCode>261699595</micrCode>
     <ifscCode>ALLA0AU1523</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-shamsabad</name>
@@ -2265,7 +2346,7 @@
     <contact>2147483647</contact>
     <micrCode>261699596</micrCode>
     <ifscCode>ALLA0AU1524</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-rihar</name>
@@ -2274,7 +2355,7 @@
     <contact>2147483647</contact>
     <micrCode>261699597</micrCode>
     <ifscCode>ALLA0AU1525</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-fateh Nagar</name>
@@ -2283,7 +2364,7 @@
     <contact>2147483647</contact>
     <micrCode>261699598</micrCode>
     <ifscCode>ALLA0AU1526</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-deorania</name>
@@ -2292,7 +2373,7 @@
     <contact>2147483647</contact>
     <micrCode>271699351</micrCode>
     <ifscCode>ALLA0AU1527</ifscCode>
-    <bankLoc>545</bankLoc>
+    <bankLoc>546</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-parsadeharia</name>
@@ -2301,7 +2382,7 @@
     <contact>2147483647</contact>
     <micrCode>271699352</micrCode>
     <ifscCode>ALLA0AU1528</ifscCode>
-    <bankLoc>545</bankLoc>
+    <bankLoc>546</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-chichri</name>
@@ -2310,7 +2391,7 @@
     <contact>2147483647</contact>
     <micrCode>271699353</micrCode>
     <ifscCode>ALLA0AU1529</ifscCode>
-    <bankLoc>545</bankLoc>
+    <bankLoc>546</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mujehara Kala</name>
@@ -2319,7 +2400,7 @@
     <contact>2147483647</contact>
     <micrCode>231699017</micrCode>
     <ifscCode>ALLA0AU1530</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-dubara Pahari</name>
@@ -2328,7 +2409,7 @@
     <contact>2147483647</contact>
     <micrCode>231699018</micrCode>
     <ifscCode>ALLA0AU1531</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-khaira</name>
@@ -2337,7 +2418,7 @@
     <contact>2147483647</contact>
     <micrCode>231699083</micrCode>
     <ifscCode>ALLA0AU1532</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-khandeh</name>
@@ -2346,7 +2427,7 @@
     <contact>2147483647</contact>
     <micrCode>210699179</micrCode>
     <ifscCode>ALLA0AU1533</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-surauli Bujurg</name>
@@ -2355,7 +2436,7 @@
     <contact>2147483647</contact>
     <micrCode>210699180</micrCode>
     <ifscCode>ALLA0AU1534</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-saidnagar</name>
@@ -2364,7 +2445,7 @@
     <contact>2147483647</contact>
     <micrCode>285699183</micrCode>
     <ifscCode>ALLA0AU1535</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-muderi</name>
@@ -2373,7 +2454,7 @@
     <contact>2147483647</contact>
     <micrCode>210699266</micrCode>
     <ifscCode>ALLA0AU1536</ifscCode>
-    <bankLoc>520</bankLoc>
+    <bankLoc>521</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-bhainsaudha</name>
@@ -2382,7 +2463,7 @@
     <contact>2147483647</contact>
     <micrCode>210699068</micrCode>
     <ifscCode>ALLA0AU1537</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-gadariya</name>
@@ -2391,7 +2472,7 @@
     <contact>2147483647</contact>
     <micrCode>210699561</micrCode>
     <ifscCode>ALLA0AU1538</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-singhpur Pahariya</name>
@@ -2400,7 +2481,7 @@
     <contact>2147483647</contact>
     <micrCode>210699562</micrCode>
     <ifscCode>ALLA0AU1539</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mahokhar Jamuni</name>
@@ -2409,7 +2490,7 @@
     <contact>2147483647</contact>
     <micrCode>210699317</micrCode>
     <ifscCode>ALLA0AU1540</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad  UP Gramin-mawai Bujurg</name>
@@ -2418,7 +2499,7 @@
     <contact>2147483647</contact>
     <micrCode>210699318</micrCode>
     <ifscCode>ALLA0AU1541</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kurrahi</name>
@@ -2427,7 +2508,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1546</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-sadha</name>
@@ -2436,7 +2517,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1547</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-ingua MAU</name>
@@ -2445,7 +2526,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1548</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-darery</name>
@@ -2454,7 +2535,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1549</ifscCode>
-    <bankLoc>511</bankLoc>
+    <bankLoc>512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rampur Grant NO 18</name>
@@ -2463,7 +2544,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1550</ifscCode>
-    <bankLoc>511</bankLoc>
+    <bankLoc>512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-dhakherwa Nankar</name>
@@ -2472,7 +2553,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1551</ifscCode>
-    <bankLoc>511</bankLoc>
+    <bankLoc>512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-khasaha Mohammadpur</name>
@@ -2481,7 +2562,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1552</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-harkhapur</name>
@@ -2490,7 +2571,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1553</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-jhala</name>
@@ -2499,7 +2580,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1554</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-mohnipur</name>
@@ -2508,7 +2589,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1555</ifscCode>
-    <bankLoc>547</bankLoc>
+    <bankLoc>548</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-wajirganj</name>
@@ -2517,7 +2598,7 @@
     <contact>2147483647</contact>
     <micrCode>271699585</micrCode>
     <ifscCode>ALLA0AU1556</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-birhimpur Belahaura</name>
@@ -2526,7 +2607,7 @@
     <contact>2147483647</contact>
     <micrCode>271699586</micrCode>
     <ifscCode>ALLA0AU1557</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bhuredi</name>
@@ -2535,7 +2616,7 @@
     <contact>2147483647</contact>
     <micrCode>210699319</micrCode>
     <ifscCode>ALLA0AU1558</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-garchappa</name>
@@ -2544,7 +2625,7 @@
     <contact>2147483647</contact>
     <micrCode>210699069</micrCode>
     <ifscCode>ALLA0AU1559</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-chureh Keserua</name>
@@ -2553,7 +2634,7 @@
     <contact>2147483647</contact>
     <micrCode>210699070</micrCode>
     <ifscCode>ALLA0AU1560</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bhallia Bujurg</name>
@@ -2562,7 +2643,7 @@
     <contact>2147483647</contact>
     <micrCode>262699902</micrCode>
     <ifscCode>ALLA0AU1561</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bela Parsua</name>
@@ -2571,7 +2652,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1562</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kuldomari</name>
@@ -2580,7 +2661,7 @@
     <contact>2147483647</contact>
     <micrCode>231699165</micrCode>
     <ifscCode>ALLA0AU1563</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-sangobandh</name>
@@ -2589,7 +2670,7 @@
     <contact>2147483647</contact>
     <micrCode>231699166</micrCode>
     <ifscCode>ALLA0AU1564</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-beehatgaur</name>
@@ -2598,7 +2679,7 @@
     <contact>2147483647</contact>
     <micrCode>261699599</micrCode>
     <ifscCode>ALLA0AU1565</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-patabojh</name>
@@ -2607,7 +2688,7 @@
     <contact>2147483647</contact>
     <micrCode>261699600</micrCode>
     <ifscCode>ALLA0AU1566</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-lengari Gular</name>
@@ -2616,7 +2697,7 @@
     <contact>2147483647</contact>
     <micrCode>271699354</micrCode>
     <ifscCode>ALLA0AU1567</ifscCode>
-    <bankLoc>546</bankLoc>
+    <bankLoc>547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-emiliya Karanpur</name>
@@ -2625,7 +2706,7 @@
     <contact>2147483647</contact>
     <micrCode>271699355</micrCode>
     <ifscCode>ALLA0AU1568</ifscCode>
-    <bankLoc>546</bankLoc>
+    <bankLoc>547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin- Babura</name>
@@ -2634,7 +2715,7 @@
     <contact>2147483647</contact>
     <micrCode>231699084</micrCode>
     <ifscCode>ALLA0AU1569</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin- Nuaan</name>
@@ -2643,7 +2724,7 @@
     <contact>2147483647</contact>
     <micrCode>231699085</micrCode>
     <ifscCode>ALLA0AU1570</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kirbil</name>
@@ -2652,7 +2733,7 @@
     <contact>2147483647</contact>
     <micrCode>231699167</micrCode>
     <ifscCode>ALLA0AU1571</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-parevpur</name>
@@ -2661,7 +2742,7 @@
     <contact>2147483647</contact>
     <micrCode>271699015</micrCode>
     <ifscCode>ALLA0AU1572</ifscCode>
-    <bankLoc>541</bankLoc>
+    <bankLoc>542</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bhartha Kalan</name>
@@ -2670,7 +2751,7 @@
     <contact>2147483647</contact>
     <micrCode>271699303</micrCode>
     <ifscCode>ALLA0AU1573</ifscCode>
-    <bankLoc>541</bankLoc>
+    <bankLoc>542</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-harbanshpur</name>
@@ -2679,7 +2760,7 @@
     <contact>2147483647</contact>
     <micrCode>271699587</micrCode>
     <ifscCode>ALLA0AU1574</ifscCode>
-    <bankLoc>541</bankLoc>
+    <bankLoc>542</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kamla Bhari</name>
@@ -2688,7 +2769,7 @@
     <contact>2147483647</contact>
     <micrCode>271699588</micrCode>
     <ifscCode>ALLA0AU1575</ifscCode>
-    <bankLoc>541</bankLoc>
+    <bankLoc>542</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-sorahiya</name>
@@ -2697,7 +2778,7 @@
     <contact>2147483647</contact>
     <micrCode>271699403</micrCode>
     <ifscCode>ALLA0AU1576</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-baundi Fatehullapur</name>
@@ -2706,7 +2787,7 @@
     <contact>2147483647</contact>
     <micrCode>271699016</micrCode>
     <ifscCode>ALLA0AU1577</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-singhai</name>
@@ -2715,7 +2796,7 @@
     <contact>2147483647</contact>
     <micrCode>271699589</micrCode>
     <ifscCode>ALLA0AU1578</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bulbul Newaj</name>
@@ -2724,7 +2805,7 @@
     <contact>2147483647</contact>
     <micrCode>271699404</micrCode>
     <ifscCode>ALLA0AU1579</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-nauwa Gaon</name>
@@ -2733,7 +2814,7 @@
     <contact>2147483647</contact>
     <micrCode>271699451</micrCode>
     <ifscCode>ALLA0AU1580</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-moglaha</name>
@@ -2742,7 +2823,7 @@
     <contact>2147483647</contact>
     <micrCode>271699017</micrCode>
     <ifscCode>ALLA0AU1581</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-banwari Gopalpur</name>
@@ -2751,7 +2832,7 @@
     <contact>2147483647</contact>
     <micrCode>271699018</micrCode>
     <ifscCode>ALLA0AU1582</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bankashi</name>
@@ -2760,7 +2841,7 @@
     <contact>2147483647</contact>
     <micrCode>272699452</micrCode>
     <ifscCode>ALLA0AU1583</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rithauda</name>
@@ -2769,7 +2850,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1584</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bari Maheshpur</name>
@@ -2778,7 +2859,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1585</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-katiliya Bhoop Singh</name>
@@ -2787,7 +2868,7 @@
     <contact>2147483647</contact>
     <micrCode>271699019</micrCode>
     <ifscCode>ALLA0AU1586</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-sabada</name>
@@ -2796,7 +2877,7 @@
     <contact>2147483647</contact>
     <micrCode>210699563</micrCode>
     <ifscCode>ALLA0AU1587</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-pangara</name>
@@ -2805,7 +2886,7 @@
     <contact>2147483647</contact>
     <micrCode>210699564</micrCode>
     <ifscCode>ALLA0AU1588</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-gurera</name>
@@ -2814,7 +2895,7 @@
     <contact>2147483647</contact>
     <micrCode>261699601</micrCode>
     <ifscCode>ALLA0AU1589</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-parsehra</name>
@@ -2823,7 +2904,7 @@
     <contact>2147483647</contact>
     <micrCode>261699602</micrCode>
     <ifscCode>ALLA0AU1590</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-khalgaon</name>
@@ -2832,7 +2913,7 @@
     <contact>2147483647</contact>
     <micrCode>261699603</micrCode>
     <ifscCode>ALLA0AU1591</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-miranagar</name>
@@ -2841,7 +2922,7 @@
     <contact>2147483647</contact>
     <micrCode>261699604</micrCode>
     <ifscCode>ALLA0AU1592</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kaluwa Moti</name>
@@ -2850,7 +2931,7 @@
     <contact>2147483647</contact>
     <micrCode>262699549</micrCode>
     <ifscCode>ALLA0AU1593</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-sakethu</name>
@@ -2859,7 +2940,7 @@
     <contact>2147483647</contact>
     <micrCode>262699550</micrCode>
     <ifscCode>ALLA0AU1594</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-katia</name>
@@ -2868,7 +2949,7 @@
     <contact>2147483647</contact>
     <micrCode>262699551</micrCode>
     <ifscCode>ALLA0AU1595</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rura Sultanpur</name>
@@ -2877,7 +2958,7 @@
     <contact>2147483647</contact>
     <micrCode>262699552</micrCode>
     <ifscCode>ALLA0AU1596</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-jalalpur</name>
@@ -2886,7 +2967,7 @@
     <contact>2147483647</contact>
     <micrCode>262699553</micrCode>
     <ifscCode>ALLA0AU1597</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-senpur</name>
@@ -2895,7 +2976,7 @@
     <contact>2147483647</contact>
     <micrCode>262699554</micrCode>
     <ifscCode>ALLA0AU1598</ifscCode>
-    <bankLoc>513</bankLoc>
+    <bankLoc>514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-mishripur</name>
@@ -2904,7 +2985,7 @@
     <contact>2147483647</contact>
     <micrCode>210699106</micrCode>
     <ifscCode>ALLA0AU1599</ifscCode>
-    <bankLoc>497</bankLoc>
+    <bankLoc>498</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-kachwakala</name>
@@ -2913,7 +2994,7 @@
     <contact>2147483647</contact>
     <micrCode>210699407</micrCode>
     <ifscCode>ALLA0AU1600</ifscCode>
-    <bankLoc>497</bankLoc>
+    <bankLoc>498</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-khera Shilajeet</name>
@@ -2922,7 +3003,7 @@
     <contact>2147483647</contact>
     <micrCode>210699406</micrCode>
     <ifscCode>ALLA0AU1601</ifscCode>
-    <bankLoc>497</bankLoc>
+    <bankLoc>498</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-itailiya Raja</name>
@@ -2931,7 +3012,7 @@
     <contact>2147483647</contact>
     <micrCode>210699405</micrCode>
     <ifscCode>ALLA0AU1602</ifscCode>
-    <bankLoc>497</bankLoc>
+    <bankLoc>498</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-magar Dahan</name>
@@ -2940,7 +3021,7 @@
     <contact>2147483647</contact>
     <micrCode>231699168</micrCode>
     <ifscCode>ALLA0AU1603</ifscCode>
-    <bankLoc>544</bankLoc>
+    <bankLoc>545</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-rahimabad</name>
@@ -2949,7 +3030,7 @@
     <contact>2147483647</contact>
     <micrCode>261699027</micrCode>
     <ifscCode>ALLA0AU1604</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-makhuwapur Chaubeypur</name>
@@ -2958,7 +3039,7 @@
     <contact>2147483647</contact>
     <micrCode>261699028</micrCode>
     <ifscCode>ALLA0AU1605</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-bandhi</name>
@@ -2967,7 +3048,7 @@
     <contact>2147483647</contact>
     <micrCode>210699071</micrCode>
     <ifscCode>ALLA0AU1606</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-balapur Khalsha</name>
@@ -2976,7 +3057,7 @@
     <contact>2147483647</contact>
     <micrCode>210699015</micrCode>
     <ifscCode>ALLA0AU1607</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-ghuretanpur</name>
@@ -2985,7 +3066,7 @@
     <contact>2147483647</contact>
     <micrCode>210699072</micrCode>
     <ifscCode>ALLA0AU1608</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-baraur</name>
@@ -2994,7 +3075,7 @@
     <contact>2147483647</contact>
     <micrCode>210699073</micrCode>
     <ifscCode>ALLA0AU1609</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Lohandi</name>
@@ -3003,7 +3084,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1610</ifscCode>
-    <bankLoc>502</bankLoc>
+    <bankLoc>503</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Jamu</name>
@@ -3012,7 +3093,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1611</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Mungus</name>
@@ -3021,7 +3102,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1612</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Obra</name>
@@ -3030,7 +3111,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1613</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Aata</name>
@@ -3039,7 +3120,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1614</ifscCode>
-    <bankLoc>490</bankLoc>
+    <bankLoc>491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Luktara</name>
@@ -3048,7 +3129,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1615</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Bangra</name>
@@ -3057,7 +3138,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1616</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Biyawal</name>
@@ -3066,7 +3147,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1617</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bankpoorabpatai</name>
@@ -3075,7 +3156,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1618</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Dari Nagra</name>
@@ -3084,7 +3165,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1619</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabadupgraminbank Singaha Khurd</name>
@@ -3093,7 +3174,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1620</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Bhulanpur</name>
@@ -3102,7 +3183,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1621</ifscCode>
-    <bankLoc>462</bankLoc>
+    <bankLoc>463</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Baraincha</name>
@@ -3111,7 +3192,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1622</ifscCode>
-    <bankLoc>515</bankLoc>
+    <bankLoc>516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Biyawal</name>
@@ -3120,7 +3201,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1623</ifscCode>
-    <bankLoc>481</bankLoc>
+    <bankLoc>482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad Upgraminbank Ahamad Nagar</name>
@@ -3129,7 +3210,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1624</ifscCode>
-    <bankLoc>529</bankLoc>
+    <bankLoc>530</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aupgb Konch Mand Samiti</name>
@@ -3138,7 +3219,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1625</ifscCode>
-    <bankLoc>501</bankLoc>
+    <bankLoc>502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Kajitola</name>
@@ -3147,7 +3228,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1626</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Jasaipur</name>
@@ -3156,7 +3237,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1627</ifscCode>
-    <bankLoc>471</bankLoc>
+    <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aupgb Lalpur Prahlada</name>
@@ -3165,7 +3246,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1628</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Geruha</name>
@@ -3174,7 +3255,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1629</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad Upgraminbank Dhaukal Ganj</name>
@@ -3183,7 +3264,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1630</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Suraicha</name>
@@ -3192,7 +3273,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1631</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Baba Kuti</name>
@@ -3201,7 +3282,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1632</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad Upgramin Bank Kunwargaddi</name>
@@ -3210,7 +3291,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1633</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Neorajpur</name>
@@ -3219,7 +3300,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1634</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Kotara</name>
@@ -3228,7 +3309,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1635</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Hariharpur</name>
@@ -3237,7 +3318,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1636</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad Upgramin Bank Chandraseni</name>
@@ -3246,7 +3327,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1637</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Mador</name>
@@ -3255,7 +3336,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1638</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bankmarsanda</name>
@@ -3264,7 +3345,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1639</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Pokhara</name>
@@ -3273,7 +3354,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1640</ifscCode>
-    <bankLoc>475</bankLoc>
+    <bankLoc>476</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Angarasi</name>
@@ -3282,7 +3363,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1641</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Samaisa</name>
@@ -3291,7 +3372,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1642</ifscCode>
-    <bankLoc>542</bankLoc>
+    <bankLoc>543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Devpura</name>
@@ -3300,7 +3381,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1643</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Ramapur</name>
@@ -3309,7 +3390,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1644</ifscCode>
-    <bankLoc>524</bankLoc>
+    <bankLoc>525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad Upgraminbank Dharti Dolwa</name>
@@ -3318,7 +3399,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1645</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Ramgarh</name>
@@ -3327,7 +3408,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1646</ifscCode>
-    <bankLoc>539</bankLoc>
+    <bankLoc>540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Mallepur</name>
@@ -3336,7 +3417,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1647</ifscCode>
-    <bankLoc>543</bankLoc>
+    <bankLoc>544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aupgb Kota Shiv Pratap Singh</name>
@@ -3345,7 +3426,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1648</ifscCode>
-    <bankLoc>529</bankLoc>
+    <bankLoc>530</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aupgb Khadehi Lohan</name>
@@ -3354,7 +3435,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1649</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Jarakhar</name>
@@ -3363,7 +3444,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1650</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Tolamaf</name>
@@ -3372,7 +3453,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1651</ifscCode>
-    <bankLoc>498</bankLoc>
+    <bankLoc>499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Dihwa</name>
@@ -3381,7 +3462,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1652</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Baraipara</name>
@@ -3390,7 +3471,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1653</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Raybojha</name>
@@ -3399,7 +3480,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1654</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Bardaha KA</name>
@@ -3408,7 +3489,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1655</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Dharmanpur</name>
@@ -3417,7 +3498,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1656</ifscCode>
-    <bankLoc>459</bankLoc>
+    <bankLoc>460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad Upgramin Bank Narhargauda</name>
@@ -3426,7 +3507,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1657</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Shivdaha</name>
@@ -3435,7 +3516,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1658</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Gendharia</name>
@@ -3444,7 +3525,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1659</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Gulriha G</name>
@@ -3453,7 +3534,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1660</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Harchanda</name>
@@ -3462,7 +3543,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1661</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Bhediari</name>
@@ -3471,7 +3552,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1662</ifscCode>
-    <bankLoc>467</bankLoc>
+    <bankLoc>468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin Bank Belatad</name>
@@ -3480,6 +3561,6 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ALLA0AU1663</ifscCode>
-    <bankLoc>502</bankLoc>
+    <bankLoc>503</bankLoc>
   </bankbranch>
 </bankBranchs>

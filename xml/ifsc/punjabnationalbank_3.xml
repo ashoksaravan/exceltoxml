@@ -1,0 +1,101 @@
+<bankBranchs>
+  <bankbranch>
+    <name>Cirlce Office Bilaspur</name>
+    <city>Bilaspur</city>
+    <address>Plot NO A 48 Ring Road NO 2 Gaurav Path Bilaspur Chattisgarh 495001</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999400</ifscCode>
+    <bankLoc>16422</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Circle Office Bokaro</name>
+    <city>Bokaro</city>
+    <address>PNB Bokaro Circle Bokaro Steel City SEC IV, Bokaro Jharkhand 827001</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999500</ifscCode>
+    <bankLoc>17181</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hadapsar</name>
+    <city>Hadapsar</city>
+    <address>Shop NO 37 40 Plot NO 58 Solapur Road Hadapsar Pune Maharashtra 411028</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999600</ifscCode>
+    <bankLoc>17809</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Undri</name>
+    <city>Pune</city>
+    <address>PNB Ward NO 3 Undri Near Hanuman Mandir Chowk TAL Haveli Dist Pune Maharashtra 411060</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999700</ifscCode>
+    <bankLoc>17809</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gagaul</name>
+    <city>Meerut</city>
+    <address>Vill Gagaul Tehsil Meerut District Meerut Uttarpradesh 245206</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999800</ifscCode>
+    <bankLoc>19248</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sfms Test Server</name>
+    <city>NEW Delhi</city>
+    <address>Head Office IT Division, 5, Sansad Marg, NEW Delhi</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PUNB0999900</ifscCode>
+    <bankLoc>16470</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neft Nodal Branch HGB RRB</name>
+    <city>Rohtak</city>
+    <address>Neft Centralized Processing Centre Haryana Gramin Bank, Near Bajrang Bhawan, Delhi Road Rohtak, 124001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PUNB0HGB001</ifscCode>
+    <bankLoc>16489</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neft Nodal Branch Hpgb RRB</name>
+    <city>Mandi</city>
+    <address>Neft Centralized Processing Centre FOR Himachal Gramin Bank, Jawaharnagar Mandi PIN 175001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PUNB0HPGB04</ifscCode>
+    <bankLoc>17021</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neft Nodal Branch Mbgb RRB</name>
+    <city>Patna</city>
+    <address>Neft Centralized Processing Cntr Madhya Bihar Gramin Bank, Meena Plaza South OF Museaum, Patna 800001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PUNB0MBGB06</ifscCode>
+    <bankLoc>19739</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neft Nodal Branch PGB RRB</name>
+    <city>Kapurthala</city>
+    <address>Neft Centralized Processing Centre FOR Punjab Gramin Bank, Jalandhar Roadkapurthalapin 144601</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PUNB0PGB003</ifscCode>
+    <bankLoc>18178</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neft Nodal Branch Supgb RRB</name>
+    <city>Meerut</city>
+    <address>Neft Processing Centre FOR Sarva U P Gramin Bank, C 39 Upon 5 Jagriti Vihar Meerut 250004 U P</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PUNB0SUPGB5</ifscCode>
+    <bankLoc>19248</bankLoc>
+  </bankbranch>
+</bankBranchs>
