@@ -1,12 +1,75 @@
 <bankBranchs>
   <bankbranch>
+    <name>Alamcode Changaramkulam</name>
+    <city>Malappuram</city>
+    <address>First Floor, Marva Shoping Complex, Kunnamkula East Road, Nannammukkupo Malappuram KE Malap 679575</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0998700</ifscCode>
+    <bankLoc>17417</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Daruhi Hamirpur</name>
+    <city>Hamirpur</city>
+    <address>VPO Daruhi Tehsil AND Distt Hamirpur Himachal Pradesh Hampu 174001</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0998800</ifscCode>
+    <bankLoc>16986</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Circle Office Mumbai</name>
+    <city>Mumbai</city>
+    <address>7TH Floor Maker Towers F Wings Cuffe Parade Colaba Mumbai Maharashtra 400005</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0998900</ifscCode>
+    <bankLoc>17757</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>CO Andhra</name>
+    <city>Vijayawada</city>
+    <address>D NO 9 35 Kavuri Towers First Floor Kamya Topu Centre, Kanuru, Vijayawada Andhra Pradesh 520007</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999000</ifscCode>
+    <bankLoc>15857</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Circle Office Udaipur</name>
+    <city>Udaipur</city>
+    <address>Vinayak Complex, Uday POL Toran Bawri, Udaipur RJ Udapu 313001</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999100</ifscCode>
+    <bankLoc>18638</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Circle Office Allahabad</name>
+    <city>Allahabad</city>
+    <address>PNB Circle Office, First Floor Sangam Place, Civil Line Allahabad UP Allah 211001</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999200</ifscCode>
+    <bankLoc>18815</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Circle Office Gwalior</name>
+    <city>Gwalior</city>
+    <address>7 C Vatsal Mansion Ground Floor IN Front OF Aditya College City Centre Gwalior Madhya Pradesh 474001</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>PUNB0999300</ifscCode>
+    <bankLoc>17575</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Cirlce Office Bilaspur</name>
     <city>Bilaspur</city>
     <address>Plot NO A 48 Ring Road NO 2 Gaurav Path Bilaspur Chattisgarh 495001</address>
     <contact>0</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>PUNB0999400</ifscCode>
-    <bankLoc>16422</bankLoc>
+    <bankLoc>16440</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Circle Office Bokaro</name>
@@ -15,7 +78,7 @@
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>PUNB0999500</ifscCode>
-    <bankLoc>17181</bankLoc>
+    <bankLoc>17199</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hadapsar</name>
@@ -24,7 +87,7 @@
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>PUNB0999600</ifscCode>
-    <bankLoc>17809</bankLoc>
+    <bankLoc>17827</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Undri</name>
@@ -33,7 +96,7 @@
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>PUNB0999700</ifscCode>
-    <bankLoc>17809</bankLoc>
+    <bankLoc>17827</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gagaul</name>
@@ -42,7 +105,7 @@
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>PUNB0999800</ifscCode>
-    <bankLoc>19248</bankLoc>
+    <bankLoc>19266</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sfms Test Server</name>
@@ -51,7 +114,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PUNB0999900</ifscCode>
-    <bankLoc>16470</bankLoc>
+    <bankLoc>16488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neft Nodal Branch HGB RRB</name>
@@ -60,7 +123,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PUNB0HGB001</ifscCode>
-    <bankLoc>16489</bankLoc>
+    <bankLoc>16507</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neft Nodal Branch Hpgb RRB</name>
@@ -69,7 +132,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PUNB0HPGB04</ifscCode>
-    <bankLoc>17021</bankLoc>
+    <bankLoc>17039</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neft Nodal Branch Mbgb RRB</name>
@@ -78,7 +141,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PUNB0MBGB06</ifscCode>
-    <bankLoc>19739</bankLoc>
+    <bankLoc>19757</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neft Nodal Branch PGB RRB</name>
@@ -87,7 +150,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PUNB0PGB003</ifscCode>
-    <bankLoc>18178</bankLoc>
+    <bankLoc>18196</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neft Nodal Branch Supgb RRB</name>
@@ -96,6 +159,6 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PUNB0SUPGB5</ifscCode>
-    <bankLoc>19248</bankLoc>
+    <bankLoc>19266</bankLoc>
   </bankbranch>
 </bankBranchs>
