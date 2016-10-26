@@ -1,20 +1,20 @@
 <bankBranchs>
   <bankbranch>
-    <name>Head Office</name>
-    <city>Chennai</city>
-    <address>Chennai Branch, NO.1090, Poonamallee High Road, Chennai 600 084</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BCEY0000001</ifscCode>
-    <bankLoc>3333</bankLoc>
-  </bankbranch>
-  <bankbranch>
     <name>Rtgs-ho</name>
     <city>Chennai</city>
     <address>NO 20/21 Casa Major Road N.N0 2(O.NO.11)ZERAT Garden, 2ND Lane, Egmore Chennai 600 008</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>BCEY0CHEN01</ifscCode>
-    <bankLoc>3333</bankLoc>
+    <bankLoc>3349</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Head Office</name>
+    <city>Chennai</city>
+    <address>Chennai Branch, NO.1090, Poonamallee High Road, Chennai 600 084</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BCEY0000001</ifscCode>
+    <bankLoc>3349</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -1,174 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Main Branch</name>
-    <city>Dondaicha</city>
-    <address>Hasti Sahakar Deep Station Area Dondaicha Dist Dhule PIN 425408</address>
-    <contact>2147483647</contact>
+    <name>THE Hasti Co-op Bank LTD</name>
+    <city>Pune</city>
+    <address>THE Hasti Co-op Bank LTD Paud Phata Kotharud Pune -411038</address>
+    <contact>744743780</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000101</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shindkheda</name>
-    <city>Shindkheda</city>
-    <address>Near S.T. Stand, Shindkheda, Dist   Dhule  PIN  425408</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000102</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Songir</name>
-    <city>Songir</city>
-    <address>Bazar Peth, Songir, Dist   Dhule   PIN  424309</address>
-    <contact>2147483647</contact>
-    <micrCode>425804202</micrCode>
-    <ifscCode>HCBL0000103</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nandurbar</name>
-    <city>Nandurbar</city>
-    <address>Near Ahilyabai Vihir, HAT Darwaja, TAL. Dist   Nandurbar PIN 425412</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000104</ifscCode>
-    <bankLoc>23266</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pimpalner</name>
-    <city>Pimpalner</city>
-    <address>Satana Road, Pimpalner, TAL.SAKRI, Dist   Dhule  PIN  424306</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000105</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sakri</name>
-    <city>Sakri</city>
-    <address>3,panzara Colony, Sakri, Dist   Dhule  PIN  424308</address>
-    <contact>2147483647</contact>
-    <micrCode>424806001</micrCode>
-    <ifscCode>HCBL0000106</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhule</name>
-    <city>Dhule</city>
-    <address>1350, Lane NO 5th, Nagarpatti, DHULE. PIN  424001</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000107</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Akkalkuwa</name>
-    <city>Akkalkuwa</city>
-    <address>Main Road, Akkalkuwa, Dist   Nandurbar  PIN  425415</address>
-    <contact>2147483647</contact>
-    <micrCode>425868302</micrCode>
-    <ifscCode>HCBL0000108</ifscCode>
-    <bankLoc>23266</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shahada</name>
-    <city>Shahada</city>
-    <address>Bohari Market, Near BUS Stand, TAL.SHAHADA  Dist  Nandurbar  PIN  425409</address>
-    <contact>2147483647</contact>
-    <micrCode>425868001</micrCode>
-    <ifscCode>HCBL0000109</ifscCode>
-    <bankLoc>23266</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Market Yard Jalgaon</name>
-    <city>Jalgaon</city>
-    <address>Market Yard, Jalgaon  Dist   Jalgaon   PIN  425001</address>
-    <contact>2147483647</contact>
-    <micrCode>425868052</micrCode>
-    <ifscCode>HCBL0000111</ifscCode>
-    <bankLoc>23265</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shirpur</name>
-    <city>Shirpur</city>
-    <address>237, Aadarsh Nagar, Near Gayatri Mandir, Shirpur  Dist   Dhule  PIN  425405</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000112</ifscCode>
-    <bankLoc>23264</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Navapur</name>
-    <city>Navapur</city>
-    <address>Limdiwadi, Navapur PIN</address>
-    <contact>2147483647</contact>
-    <micrCode>424806202</micrCode>
-    <ifscCode>HCBL0000113</ifscCode>
-    <bankLoc>23266</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chalisgaon</name>
-    <city>Chalisgaon</city>
-    <address>Ghat Road, Chalisgaon</address>
-    <contact>2147483647</contact>
-    <micrCode>425804152</micrCode>
-    <ifscCode>HCBL0000114</ifscCode>
-    <bankLoc>23265</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Amalner</name>
-    <city>Amalner</city>
-    <address>NEW Plot, Bank Street, Amalner Dist Jalgaon</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000115</ifscCode>
-    <bankLoc>23265</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Satana</name>
-    <city>Satana</city>
-    <address>Near UMA Hospital Satana Dist Nasik</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000116</ifscCode>
-    <bankLoc>23267</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Taloda</name>
-    <city>Taloda</city>
-    <address>Main Road Taloda Dist Nandurbar MH PIN 425413</address>
-    <contact>233002</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000117</ifscCode>
-    <bankLoc>23269</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Girivihar Nandurbar</name>
-    <city>Nandurbar</city>
-    <address>Girivihar Gate Nandurbar 425412</address>
-    <contact>233118</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000118</ifscCode>
-    <bankLoc>23269</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Deopur Dhule</name>
-    <city>Dhule</city>
-    <address>Plot NO 65 Saraswati Colony Gondur Road Deoupr Dhule 424002</address>
-    <contact>244306</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000119</ifscCode>
-    <bankLoc>23268</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Visarwadi Branch</name>
-    <city>Visarwadi</city>
-    <address>Visarwadi TAL Navapur DIS Nandurbar 425426</address>
-    <contact>240306</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HCBL0000120</ifscCode>
-    <bankLoc>23269</bankLoc>
+    <ifscCode>HCBL0000122</ifscCode>
+    <bankLoc>23875</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hasti Co-op Bank LTD</name>
@@ -177,6 +15,177 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>HCBL0000121</ifscCode>
-    <bankLoc>23268</bankLoc>
+    <bankLoc>23873</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Visarwadi Branch</name>
+    <city>Visarwadi</city>
+    <address>Visarwadi TAL Navapur DIS Nandurbar 425426</address>
+    <contact>240306</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000120</ifscCode>
+    <bankLoc>23874</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Deopur Dhule</name>
+    <city>Dhule</city>
+    <address>Plot NO 65 Saraswati Colony Gondur Road Deoupr Dhule 424002</address>
+    <contact>244306</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000119</ifscCode>
+    <bankLoc>23873</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Girivihar Nandurbar</name>
+    <city>Nandurbar</city>
+    <address>Girivihar Gate Nandurbar 425412</address>
+    <contact>233118</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000118</ifscCode>
+    <bankLoc>23874</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Taloda</name>
+    <city>Taloda</city>
+    <address>Main Road Taloda Dist Nandurbar MH PIN 425413</address>
+    <contact>233002</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000117</ifscCode>
+    <bankLoc>23874</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satana</name>
+    <city>Satana</city>
+    <address>Near UMA Hospital Satana Dist Nasik</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000116</ifscCode>
+    <bankLoc>23872</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amalner</name>
+    <city>Amalner</city>
+    <address>NEW Plot, Bank Street, Amalner Dist Jalgaon</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000115</ifscCode>
+    <bankLoc>23870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chalisgaon</name>
+    <city>Chalisgaon</city>
+    <address>Ghat Road, Chalisgaon</address>
+    <contact>2147483647</contact>
+    <micrCode>425804152</micrCode>
+    <ifscCode>HCBL0000114</ifscCode>
+    <bankLoc>23870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Navapur</name>
+    <city>Navapur</city>
+    <address>Limdiwadi, Navapur PIN</address>
+    <contact>2147483647</contact>
+    <micrCode>424806202</micrCode>
+    <ifscCode>HCBL0000113</ifscCode>
+    <bankLoc>23871</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shirpur</name>
+    <city>Shirpur</city>
+    <address>237, Aadarsh Nagar, Near Gayatri Mandir, Shirpur  Dist   Dhule  PIN  425405</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000112</ifscCode>
+    <bankLoc>23869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Market Yard Jalgaon</name>
+    <city>Jalgaon</city>
+    <address>Market Yard, Jalgaon  Dist   Jalgaon   PIN  425001</address>
+    <contact>2147483647</contact>
+    <micrCode>425868052</micrCode>
+    <ifscCode>HCBL0000111</ifscCode>
+    <bankLoc>23870</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahada</name>
+    <city>Shahada</city>
+    <address>Bohari Market, Near BUS Stand, TAL.SHAHADA  Dist  Nandurbar  PIN  425409</address>
+    <contact>2147483647</contact>
+    <micrCode>425868001</micrCode>
+    <ifscCode>HCBL0000109</ifscCode>
+    <bankLoc>23871</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Akkalkuwa</name>
+    <city>Akkalkuwa</city>
+    <address>Main Road, Akkalkuwa, Dist   Nandurbar  PIN  425415</address>
+    <contact>2147483647</contact>
+    <micrCode>425868302</micrCode>
+    <ifscCode>HCBL0000108</ifscCode>
+    <bankLoc>23871</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhule</name>
+    <city>Dhule</city>
+    <address>1350, Lane NO 5th, Nagarpatti, DHULE. PIN  424001</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000107</ifscCode>
+    <bankLoc>23869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sakri</name>
+    <city>Sakri</city>
+    <address>3,panzara Colony, Sakri, Dist   Dhule  PIN  424308</address>
+    <contact>2147483647</contact>
+    <micrCode>424806001</micrCode>
+    <ifscCode>HCBL0000106</ifscCode>
+    <bankLoc>23869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pimpalner</name>
+    <city>Pimpalner</city>
+    <address>Satana Road, Pimpalner, TAL.SAKRI, Dist   Dhule  PIN  424306</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000105</ifscCode>
+    <bankLoc>23869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nandurbar</name>
+    <city>Nandurbar</city>
+    <address>Near Ahilyabai Vihir, HAT Darwaja, TAL. Dist   Nandurbar PIN 425412</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000104</ifscCode>
+    <bankLoc>23871</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Songir</name>
+    <city>Songir</city>
+    <address>Bazar Peth, Songir, Dist   Dhule   PIN  424309</address>
+    <contact>2147483647</contact>
+    <micrCode>425804202</micrCode>
+    <ifscCode>HCBL0000103</ifscCode>
+    <bankLoc>23869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shindkheda</name>
+    <city>Shindkheda</city>
+    <address>Near S.T. Stand, Shindkheda, Dist   Dhule  PIN  425408</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000102</ifscCode>
+    <bankLoc>23869</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch</name>
+    <city>Dondaicha</city>
+    <address>Hasti Sahakar Deep Station Area Dondaicha Dist Dhule PIN 425408</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HCBL0000101</ifscCode>
+    <bankLoc>23869</bankLoc>
   </bankbranch>
 </bankBranchs>

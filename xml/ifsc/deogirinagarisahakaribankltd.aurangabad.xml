@@ -1,264 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Kranti Chowk</name>
-    <city>Aurangabad</city>
-    <address>A.M.C.COMPLEX Bldg, Near Rani Laxmibai Udyan, Kranti Chowk, Aurangabad</address>
+    <name>Chikhli</name>
+    <city>Chikhli</city>
+    <address>Plot NO.6-B, 7-b, 8-b, CTS NO.1799 Ward NO.7, Bus-stand Road, Chikhli DIST.BULDHANA</address>
     <contact>2240212</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000002</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jawahar Colony</name>
-    <city>Aurangabad</city>
-    <address>CTS.NO.15855/2/9, Near Vedant Gruhkul, NEW Shreyanagar, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000003</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Cidco</name>
-    <city>Aurangabad</city>
-    <address>N-7 Shopping Complex, OPP.WOKHARDT Company, Cidco, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000004</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Waluj</name>
-    <city>Aurangabad</city>
-    <address>Plot NO.8, S.NO.14, Pandharpur POST.VALADGAON TQ.GANGAPUR DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000005</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Railway Station Road</name>
-    <city>Aurangabad</city>
-    <address>Desh Videsh Market, Railway Station Road, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000006</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mukundwadi</name>
-    <city>Aurangabad</city>
-    <address>Plot NO.10 Mayanagar, N-2, Cidco, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000007</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gulmandi</name>
-    <city>Aurangabad</city>
-    <address>Balkrishna Maharaj Mandir BLDG.NEAR Z.P.OFFICE, Aurangpura, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000008</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>T.V.CENTRE</name>
-    <city>Aurangabad</city>
-    <address>Plot NO.2, S.NO.12/1, Ward NO.2, Jadhavwadi, Jalgaon-road, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000009</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lasur Station</name>
-    <city>Lasur Station</city>
-    <address>Main Road, Lasur Station TQ.GANGAPUR DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>431582503</micrCode>
-    <ifscCode>DEOB0000010</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jalna</name>
-    <city>Jalna</city>
-    <address>Block NO.3, Show Room NO.4, Arjun Khotkar Business Center, OLD Mondha, Jalna</address>
-    <contact>2240212</contact>
-    <micrCode>431582052</micrCode>
-    <ifscCode>DEOB0000011</ifscCode>
-    <bankLoc>9194</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shivajinagar</name>
-    <city>Aurangabad</city>
-    <address>Disha Square, OPP.SUT Girni, Garkheda Parisar, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>431582010</micrCode>
-    <ifscCode>DEOB0000012</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mayur Park</name>
-    <city>Aurangabad</city>
-    <address>Mayur Park Area, Jalgaon-road, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>431582012</micrCode>
-    <ifscCode>DEOB0000013</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Selu</name>
-    <city>Selu</city>
-    <address>Nutan Road, Selu DIST.PARBHANI</address>
-    <contact>2240212</contact>
-    <micrCode>431582502</micrCode>
-    <ifscCode>DEOB0000014</ifscCode>
-    <bankLoc>9195</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Satara Parisar</name>
-    <city>Aurangabad</city>
-    <address>Patil Plaza, Near Mhaske Petrol Pump, Beed-by Pass Road, Aurangabad</address>
-    <contact>2240212</contact>
-    <micrCode>431582011</micrCode>
-    <ifscCode>DEOB0000015</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ahmednagar</name>
-    <city>Ahmednagar</city>
-    <address>Shop NO.8, 9,10, Raunak Center, Pipe Line Road, Bhistabhag Chowk, Savedi, Ahmednagar</address>
-    <contact>2240212</contact>
-    <micrCode>414582002</micrCode>
-    <ifscCode>DEOB0000016</ifscCode>
-    <bankLoc>9190</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jalgaon</name>
-    <city>Jalgaon</city>
-    <address>52, Navi Peth, Jalgaon DIST.JALGAON</address>
-    <contact>2240212</contact>
-    <micrCode>425582002</micrCode>
-    <ifscCode>DEOB0000017</ifscCode>
-    <bankLoc>9193</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hadapsar</name>
-    <city>Pune</city>
-    <address>S.NO.225/5, Gadital, Pune-solapur Highway, Hadapsar, Pune</address>
-    <contact>2240212</contact>
-    <micrCode>411582002</micrCode>
-    <ifscCode>DEOB0000018</ifscCode>
-    <bankLoc>9196</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kothrud</name>
-    <city>Pune</city>
-    <address>Shop NO.13, 14, 15, 16 Part, Damodhar Villa, Kothrud, Pune</address>
-    <contact>2240212</contact>
-    <micrCode>411582003</micrCode>
-    <ifscCode>DEOB0000019</ifscCode>
-    <bankLoc>9196</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hussainpur</name>
-    <city>Hussainpur</city>
-    <address>Dindayalnagar, POST.HUSSAINPUR TQ.DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000020</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Karmad</name>
-    <city>Karmad</city>
-    <address>OPP.POLICE Station, Jalna-road, Karmad TQ.DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000021</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kannad</name>
-    <city>Kannad</city>
-    <address>Plot NO.40, Snehnagar, Chalisgaon-road, Kannad TQ.KANNAD DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000022</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pachora</name>
-    <city>Pachora</city>
-    <address>Shop NO.7, Mansinghka Complex, DR.AMBEDKAR-ROAD, Pachora DIST.JALGAON</address>
-    <contact>2240212</contact>
-    <micrCode>424582102</micrCode>
-    <ifscCode>DEOB0000023</ifscCode>
-    <bankLoc>9193</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dombivli</name>
-    <city>Dombivli</city>
-    <address>H56c565043ulcelgbvle</address>
-    <contact>2240212</contact>
-    <micrCode>400582002</micrCode>
-    <ifscCode>DEOB0000024</ifscCode>
-    <bankLoc>9197</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Phulambri</name>
-    <city>Phulambri</city>
-    <address>HL.55JH-DHLBD.BD.</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000025</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bidkin</name>
-    <city>Bidkin</city>
-    <address>Plot NO.1, GUT NO.8, Savtanagar, Near Nilaggaon Phata, Bidkin TQ.PAITHAN DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000026</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shahagad</name>
-    <city>Shahagad</city>
-    <address>S.NO.2, Aurangabad-solapur Highway, Shahagad TQ.AMBAD DIST.JALNA</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000027</ifscCode>
-    <bankLoc>9194</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sillod</name>
-    <city>Sillod</city>
-    <address>Plot NO.3, Malmatta NO.3134, Priyadarshani Chowk, Bhokardan-road, Sillod DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000028</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gangapur</name>
-    <city>Gangapur</city>
-    <address>Milkat NO.240/8, Ward NO.10, Aurangabad-road, Lasur Naka, Gangapur DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000029</ifscCode>
-    <bankLoc>9191</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Paithan</name>
-    <city>Paithan</city>
-    <address>OPP.COURT, Paithan Road, Paithan DIST.AURANGABAD</address>
-    <contact>2240212</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000030</ifscCode>
-    <bankLoc>9191</bankLoc>
+    <ifscCode>DEOB0000032</ifscCode>
+    <bankLoc>9222</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalisgaon</name>
@@ -267,15 +15,267 @@
     <contact>2240212</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DEOB0000031</ifscCode>
-    <bankLoc>9193</bankLoc>
+    <bankLoc>9223</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chikhli</name>
-    <city>Chikhli</city>
-    <address>Plot NO.6-B, 7-b, 8-b, CTS NO.1799 Ward NO.7, Bus-stand Road, Chikhli DIST.BULDHANA</address>
+    <name>Paithan</name>
+    <city>Paithan</city>
+    <address>OPP.COURT, Paithan Road, Paithan DIST.AURANGABAD</address>
     <contact>2240212</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>DEOB0000032</ifscCode>
-    <bankLoc>9192</bankLoc>
+    <ifscCode>DEOB0000030</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gangapur</name>
+    <city>Gangapur</city>
+    <address>Milkat NO.240/8, Ward NO.10, Aurangabad-road, Lasur Naka, Gangapur DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000029</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sillod</name>
+    <city>Sillod</city>
+    <address>Plot NO.3, Malmatta NO.3134, Priyadarshani Chowk, Bhokardan-road, Sillod DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000028</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahagad</name>
+    <city>Shahagad</city>
+    <address>S.NO.2, Aurangabad-solapur Highway, Shahagad TQ.AMBAD DIST.JALNA</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000027</ifscCode>
+    <bankLoc>9224</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bidkin</name>
+    <city>Bidkin</city>
+    <address>Plot NO.1, GUT NO.8, Savtanagar, Near Nilaggaon Phata, Bidkin TQ.PAITHAN DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000026</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Phulambri</name>
+    <city>Phulambri</city>
+    <address>HL.55JH-DHLBD.BD.</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000025</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dombivli</name>
+    <city>Dombivli</city>
+    <address>H56c565043ulcelgbvle</address>
+    <contact>2240212</contact>
+    <micrCode>400582002</micrCode>
+    <ifscCode>DEOB0000024</ifscCode>
+    <bankLoc>9227</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pachora</name>
+    <city>Pachora</city>
+    <address>Shop NO.7, Mansinghka Complex, DR.AMBEDKAR-ROAD, Pachora DIST.JALGAON</address>
+    <contact>2240212</contact>
+    <micrCode>424582102</micrCode>
+    <ifscCode>DEOB0000023</ifscCode>
+    <bankLoc>9223</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kannad</name>
+    <city>Kannad</city>
+    <address>Plot NO.40, Snehnagar, Chalisgaon-road, Kannad TQ.KANNAD DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000022</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karmad</name>
+    <city>Karmad</city>
+    <address>OPP.POLICE Station, Jalna-road, Karmad TQ.DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000021</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hussainpur</name>
+    <city>Hussainpur</city>
+    <address>Dindayalnagar, POST.HUSSAINPUR TQ.DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000020</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kothrud</name>
+    <city>Pune</city>
+    <address>Shop NO.13, 14, 15, 16 Part, Damodhar Villa, Kothrud, Pune</address>
+    <contact>2240212</contact>
+    <micrCode>411582003</micrCode>
+    <ifscCode>DEOB0000019</ifscCode>
+    <bankLoc>9226</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hadapsar</name>
+    <city>Pune</city>
+    <address>S.NO.225/5, Gadital, Pune-solapur Highway, Hadapsar, Pune</address>
+    <contact>2240212</contact>
+    <micrCode>411582002</micrCode>
+    <ifscCode>DEOB0000018</ifscCode>
+    <bankLoc>9226</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalgaon</name>
+    <city>Jalgaon</city>
+    <address>52, Navi Peth, Jalgaon DIST.JALGAON</address>
+    <contact>2240212</contact>
+    <micrCode>425582002</micrCode>
+    <ifscCode>DEOB0000017</ifscCode>
+    <bankLoc>9223</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmednagar</name>
+    <city>Ahmednagar</city>
+    <address>Shop NO.8, 9,10, Raunak Center, Pipe Line Road, Bhistabhag Chowk, Savedi, Ahmednagar</address>
+    <contact>2240212</contact>
+    <micrCode>414582002</micrCode>
+    <ifscCode>DEOB0000016</ifscCode>
+    <bankLoc>9220</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satara Parisar</name>
+    <city>Aurangabad</city>
+    <address>Patil Plaza, Near Mhaske Petrol Pump, Beed-by Pass Road, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>431582011</micrCode>
+    <ifscCode>DEOB0000015</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Selu</name>
+    <city>Selu</city>
+    <address>Nutan Road, Selu DIST.PARBHANI</address>
+    <contact>2240212</contact>
+    <micrCode>431582502</micrCode>
+    <ifscCode>DEOB0000014</ifscCode>
+    <bankLoc>9225</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mayur Park</name>
+    <city>Aurangabad</city>
+    <address>Mayur Park Area, Jalgaon-road, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>431582012</micrCode>
+    <ifscCode>DEOB0000013</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shivajinagar</name>
+    <city>Aurangabad</city>
+    <address>Disha Square, OPP.SUT Girni, Garkheda Parisar, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>431582010</micrCode>
+    <ifscCode>DEOB0000012</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalna</name>
+    <city>Jalna</city>
+    <address>Block NO.3, Show Room NO.4, Arjun Khotkar Business Center, OLD Mondha, Jalna</address>
+    <contact>2240212</contact>
+    <micrCode>431582052</micrCode>
+    <ifscCode>DEOB0000011</ifscCode>
+    <bankLoc>9224</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lasur Station</name>
+    <city>Lasur Station</city>
+    <address>Main Road, Lasur Station TQ.GANGAPUR DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>431582503</micrCode>
+    <ifscCode>DEOB0000010</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>T.V.CENTRE</name>
+    <city>Aurangabad</city>
+    <address>Plot NO.2, S.NO.12/1, Ward NO.2, Jadhavwadi, Jalgaon-road, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000009</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gulmandi</name>
+    <city>Aurangabad</city>
+    <address>Balkrishna Maharaj Mandir BLDG.NEAR Z.P.OFFICE, Aurangpura, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000008</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mukundwadi</name>
+    <city>Aurangabad</city>
+    <address>Plot NO.10 Mayanagar, N-2, Cidco, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000007</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Railway Station Road</name>
+    <city>Aurangabad</city>
+    <address>Desh Videsh Market, Railway Station Road, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000006</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Waluj</name>
+    <city>Aurangabad</city>
+    <address>Plot NO.8, S.NO.14, Pandharpur POST.VALADGAON TQ.GANGAPUR DIST.AURANGABAD</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000005</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cidco</name>
+    <city>Aurangabad</city>
+    <address>N-7 Shopping Complex, OPP.WOKHARDT Company, Cidco, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000004</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jawahar Colony</name>
+    <city>Aurangabad</city>
+    <address>CTS.NO.15855/2/9, Near Vedant Gruhkul, NEW Shreyanagar, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000003</ifscCode>
+    <bankLoc>9221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kranti Chowk</name>
+    <city>Aurangabad</city>
+    <address>A.M.C.COMPLEX Bldg, Near Rani Laxmibai Udyan, Kranti Chowk, Aurangabad</address>
+    <contact>2240212</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DEOB0000002</ifscCode>
+    <bankLoc>9221</bankLoc>
   </bankbranch>
 </bankBranchs>

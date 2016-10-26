@@ -1,318 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Jalgaon</city>
-    <address>Seva, 117/119, Navi Peth, Jalgaon-425 001</address>
-    <contact>2232175</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>JJSB0000001</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dana Bajar</name>
-    <city>Jalgaon</city>
-    <address>Madhav Kunj, 99, Polan Peth, CTS.NO.1948 A, Jalgaon ?Û 425 001</address>
-    <contact>2236402</contact>
-    <micrCode>425507002</micrCode>
-    <ifscCode>JJSB0000002</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Market Yard  Jalgaon</name>
-    <city>Jalgaon</city>
-    <address>Krishi Utpanna Bazar Samiti, Ajintha Road, Jalgaon ?Û 425003</address>
-    <contact>2210943</contact>
-    <micrCode>425507003</micrCode>
-    <ifscCode>JJSB0000003</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Station Road</name>
-    <city>Jalgaon</city>
-    <address>Keshav Kripa, CTS NO.2117/3, Navi Peth, Jalgaon ?Û 425 001</address>
-    <contact>2236521</contact>
-    <micrCode>425507004</micrCode>
-    <ifscCode>JJSB0000004</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Omkareshwar</name>
-    <city>Jalgaon</city>
-    <address>Balwant, GAT NO.432+492/1+568, Near Omkareshwar Mandir, 50, JAY Nagar, Jalgaon ?Û 425002</address>
-    <contact>2238138</contact>
-    <micrCode>425507005</micrCode>
-    <ifscCode>JJSB0000005</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhule</name>
-    <city>Dhule</city>
-    <address>CTS.NO.1461A, SHRI.DATTABARI Bhavan, Maharanapratap Chouk, Near Swastik Cinema, ,dhule ?Û 424 001</address>
-    <contact>232974</contact>
-    <micrCode>424507001</micrCode>
-    <ifscCode>JJSB0000006</ifscCode>
-    <bankLoc>13156</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Deopur</name>
-    <city>Dhule</city>
-    <address>Main Road, OLD Agra Highway, CTS NO.4493, Gf+basement, Deopur, Dhule ?Û 424 001</address>
-    <contact>225693</contact>
-    <micrCode>425507002</micrCode>
-    <ifscCode>JJSB0000007</ifscCode>
-    <bankLoc>13156</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Savada</name>
-    <city>Savada</city>
-    <address>Indira Gandhi Chowk, Main Road, CTS NO.1860, Savada, Taluka ?Û Raver, Dist ?Û Jalgaon, PIN ?Û 425502</address>
-    <contact>222553</contact>
-    <micrCode>425507501</micrCode>
-    <ifscCode>JJSB0000008</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bodwad</name>
-    <city>Bodwad</city>
-    <address>GPH NO. ?Û 2501 &amp; 2591, CTS NO. ?Û 2583 &amp; 2691, ?ôsarlabai Milapchand Lalwani?ö Shoping Complex, Main Road, Bodwad, Dist ?Û Jalgaon</address>
-    <contact>275420</contact>
-    <micrCode>425507502</micrCode>
-    <ifscCode>JJSB0000009</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhusawal</name>
-    <city>Bhusawal</city>
-    <address>Kinhikar Villa, House NO.1/5711/572, Vitthal Mandir Ward, Near Bazarpeth Police Station, Bhusawal, Dist ?Û Jalgaon, PIN ?Û 425201</address>
-    <contact>222101</contact>
-    <micrCode>425507101</micrCode>
-    <ifscCode>JJSB0000010</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Amalner</name>
-    <city>Amalner</city>
-    <address>T.P.NO.60/3/1, OPP.MUNICIPLE Shopping Complex, Amalner, Dist ?Û Jalgaon, PIN ?Û 425401</address>
-    <contact>222990</contact>
-    <micrCode>425507152</micrCode>
-    <ifscCode>JJSB0000011</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chalisgaon</name>
-    <city>Chalisgaon</city>
-    <address>Shop NO.U15-17, 18, 25, Gayatri Plaza, Bhadgaon Road, Neharu Chouk Signal Point, Chalisgaon, Dist ?Û Jalgaon, PIN ?Û 424101</address>
-    <contact>223904</contact>
-    <micrCode>424507202</micrCode>
-    <ifscCode>JJSB0000012</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nandurbar</name>
-    <city>Nandurbar</city>
-    <address>Ghar NO.577/A, Pardeshi Pura, Nandurbar ?Û 425412</address>
-    <contact>223438</contact>
-    <micrCode>425507202</micrCode>
-    <ifscCode>JJSB0000013</ifscCode>
-    <bankLoc>13161</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ganesh Colony</name>
-    <city>Jalgaon</city>
-    <address>13, Ganesh Colony, Seven Square Road, CTS NO.8021, Jalgaon ?Û 425 002</address>
-    <contact>2252038</contact>
-    <micrCode>425507009</micrCode>
-    <ifscCode>JJSB0000014</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Navi Peth</name>
-    <city>Jalgaon</city>
-    <address>Seva, 117/119, Navi Peth, Jalgaon ?Û 425001</address>
-    <contact>2223442</contact>
-    <micrCode>425507006</micrCode>
-    <ifscCode>JJSB0000015</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Yawal</name>
-    <city>Yawal</city>
-    <address>OPP. Post Office, Main Road, CTS NO.2361/64, Yawal, Dist ?Û Jalgaon, PIN ?Û 425301</address>
-    <contact>260066</contact>
-    <micrCode>425507504</micrCode>
-    <ifscCode>JJSB0000016</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jamner</name>
-    <city>Jamner</city>
-    <address>Balaji Market, House NO.2378, Jamner, Dist ?Û Jalgaon, PIN ?Û 424206</address>
-    <contact>233211</contact>
-    <micrCode>425507505</micrCode>
-    <ifscCode>JJSB0000017</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kurha Kakoda</name>
-    <city>Kurha Kakoda</city>
-    <address>Main Road, Bazar Lane, House NO.369, Ground Floor, Kurha-kakoda, Taluka ?Û Muktai Nagar, Dist ?Û Jalgaon, PIN ?Û 425306</address>
-    <contact>232314</contact>
-    <micrCode>443507501</micrCode>
-    <ifscCode>JJSB0000018</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nasik</name>
-    <city>Nasik</city>
-    <address>Shop NO.3-6, Madhav Complex, Near Adarsha School, OLD Agra Road, OPP Cbs, Nasik ?Û 422007</address>
-    <contact>2504030</contact>
-    <micrCode>422507002</micrCode>
-    <ifscCode>JJSB0000019</ifscCode>
-    <bankLoc>13162</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vivekanad</name>
-    <city>Jalgaon</city>
-    <address>Parijat Sankul, Shop NO. 16 &amp; 17, Suyog Colony, Girna Tank Road, Jalgaon ?Û 425002</address>
-    <contact>2240537</contact>
-    <micrCode>425507007</micrCode>
-    <ifscCode>JJSB0000020</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dharangaon</name>
-    <city>Jalgaon</city>
-    <address>CTS.NO.1262, Sushilalbai Pannalal Pagariya Near Subhash Darwaja Main Road, Dharangaon-425105</address>
-    <contact>251122</contact>
-    <micrCode>425507008</micrCode>
-    <ifscCode>JJSB0000021</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thane</name>
-    <city>Thane</city>
-    <address>OPP.GAVDEVI Mandir, Gokhale Road, 4, Krishnakala BLDG., Naupada, Thane (WEST) ?Û 400602</address>
-    <contact>25382918</contact>
-    <micrCode>400082631</micrCode>
-    <ifscCode>JJSB0000022</ifscCode>
-    <bankLoc>13164</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Fort</name>
-    <city>Fort</city>
-    <address>174, Groud Floor, Vardhaman Chambers, Kawasji Patel Street, Fort, Mumbai ?Û 400001</address>
-    <contact>22851975</contact>
-    <micrCode>400082630</micrCode>
-    <ifscCode>JJSB0000023</ifscCode>
-    <bankLoc>13157</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Aurangabad</name>
-    <city>Aurangabad</city>
-    <address>Gulmandi Chouk, CTS.NO.5688, Diwan Devdi, Aurangabad ?Û 431001</address>
-    <contact>2346174</contact>
-    <micrCode>431507003</micrCode>
-    <ifscCode>JJSB0000024</ifscCode>
-    <bankLoc>13154</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhosala Military School, Nasik</name>
-    <city>Nasik</city>
-    <address>Ramrajya Bldg NO. 6, Ground Floor, Shop NO. 3, Samarth Nagar, Nasik ?Û 422 005</address>
-    <contact>2341325</contact>
-    <micrCode>422507003</micrCode>
-    <ifscCode>JJSB0000025</ifscCode>
-    <bankLoc>13162</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khamgaon</name>
-    <city>Khamgaon</city>
-    <address>OPP. Kela Hindi Highschool, Tuljai Complex, Nandura Road, Khamgaon, Tl-khamgaon, Dist-buldhana</address>
-    <contact>255948</contact>
-    <micrCode>444507302</micrCode>
-    <ifscCode>JJSB0000026</ifscCode>
-    <bankLoc>13155</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kalyan</name>
-    <city>Kalyan</city>
-    <address>Serve NO.35, Shri Complex 4, Shop NO. 9A, B,11, 12, Shoping Premises Co-operative Society LTD. Godrej Hill Road, Village  Gandhare, Khadakpada, Kalyan West  Dist-thane</address>
-    <contact>2230355</contact>
-    <micrCode>400082651</micrCode>
-    <ifscCode>JJSB0000027</ifscCode>
-    <bankLoc>13160</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Parola</name>
-    <city>Parola</city>
-    <address>542, Chintamani Complex, Main Road Parola, TAL. Parola, Dist-jalgaon</address>
-    <contact>224488</contact>
-    <micrCode>425507503</micrCode>
-    <ifscCode>JJSB0000028</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shahada</name>
-    <city>Shahada</city>
-    <address>Opp, Kharedivikri Sangha, Dondaicha Road, TAL-SHAHADA. Dist-nandurbar ?Û 425409</address>
-    <contact>225699</contact>
-    <micrCode>425507302</micrCode>
-    <ifscCode>JJSB0000029</ifscCode>
-    <bankLoc>13161</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pune</name>
-    <city>Pune</city>
-    <address>167/A.2/26 Plot NO..30, Chandrashobha Building, Suvarnabag Colony, Warje Road, Kothrud, Pune-411038</address>
-    <contact>25455382</contact>
-    <micrCode>411240253</micrCode>
-    <ifscCode>JJSB0000030</ifscCode>
-    <bankLoc>13163</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Raver</name>
-    <city>Raver</city>
-    <address>GAT NO.510, Devichand Choriya Market, Shop NO, 221-224 &amp; 227-230, Burhanpur Road, Raver -425508</address>
-    <contact>250271</contact>
-    <micrCode>425507506</micrCode>
-    <ifscCode>JJSB0000031</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jalana</name>
-    <city>Jalana</city>
-    <address>Plot NO.1025, Sarve NO.3120, Rajendra Prasad Road, Opp-arya Samaj School Jalana -431203</address>
-    <contact>233770</contact>
-    <micrCode>431507051</micrCode>
-    <ifscCode>JJSB0000032</ifscCode>
-    <bankLoc>13158</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chopada</name>
-    <city>Chopada</city>
-    <address>Ground Floor C T S NO 2378, 2379 Pathak Galli, Main Road, Chopda</address>
-    <contact>222080</contact>
-    <micrCode>425507507</micrCode>
-    <ifscCode>JJSB0000033</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pachora</name>
-    <city>Pachora</city>
-    <address>27, Gaurav Appartments, C T S NO 3365 BY A, Shivaji Chowk, Jamner Road, Pachora</address>
-    <contact>243311</contact>
-    <micrCode>424507102</micrCode>
-    <ifscCode>JJSB0000034</ifscCode>
-    <bankLoc>13159</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Erandol</name>
-    <city>Erandol</city>
-    <address>C Surve NO 727, Marwadi Galli, Erandol, Dist Jalgaon</address>
-    <contact>246146</contact>
-    <micrCode>425507508</micrCode>
-    <ifscCode>JJSB0000035</ifscCode>
-    <bankLoc>13159</bankLoc>
+    <name>Shirpur</name>
+    <city>Shirpur</city>
+    <address>Shivsadan, CTS NO.1602, Near Arvind Medical, Neharu Road, Shirpur</address>
+    <contact>2147483647</contact>
+    <micrCode>425507052</micrCode>
+    <ifscCode>JJSB0000037</ifscCode>
+    <bankLoc>13531</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pimpri Chinchwad</name>
@@ -321,15 +15,321 @@
     <contact>2147483647</contact>
     <micrCode>411507003</micrCode>
     <ifscCode>JJSB0000036</ifscCode>
-    <bankLoc>13163</bankLoc>
+    <bankLoc>13538</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Shirpur</name>
-    <city>Shirpur</city>
-    <address>Shivsadan, CTS NO.1602, Near Arvind Medical, Neharu Road, Shirpur</address>
-    <contact>2147483647</contact>
-    <micrCode>425507052</micrCode>
-    <ifscCode>JJSB0000037</ifscCode>
-    <bankLoc>13156</bankLoc>
+    <name>Erandol</name>
+    <city>Erandol</city>
+    <address>C Surve NO 727, Marwadi Galli, Erandol, Dist Jalgaon</address>
+    <contact>246146</contact>
+    <micrCode>425507508</micrCode>
+    <ifscCode>JJSB0000035</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pachora</name>
+    <city>Pachora</city>
+    <address>27, Gaurav Appartments, C T S NO 3365 BY A, Shivaji Chowk, Jamner Road, Pachora</address>
+    <contact>243311</contact>
+    <micrCode>424507102</micrCode>
+    <ifscCode>JJSB0000034</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chopada</name>
+    <city>Chopada</city>
+    <address>Ground Floor C T S NO 2378, 2379 Pathak Galli, Main Road, Chopda</address>
+    <contact>222080</contact>
+    <micrCode>425507507</micrCode>
+    <ifscCode>JJSB0000033</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalana</name>
+    <city>Jalana</city>
+    <address>Plot NO.1025, Sarve NO.3120, Rajendra Prasad Road, Opp-arya Samaj School Jalana -431203</address>
+    <contact>233770</contact>
+    <micrCode>431507051</micrCode>
+    <ifscCode>JJSB0000032</ifscCode>
+    <bankLoc>13533</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raver</name>
+    <city>Raver</city>
+    <address>GAT NO.510, Devichand Choriya Market, Shop NO, 221-224 &amp; 227-230, Burhanpur Road, Raver -425508</address>
+    <contact>250271</contact>
+    <micrCode>425507506</micrCode>
+    <ifscCode>JJSB0000031</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>167/A.2/26 Plot NO..30, Chandrashobha Building, Suvarnabag Colony, Warje Road, Kothrud, Pune-411038</address>
+    <contact>25455382</contact>
+    <micrCode>411240253</micrCode>
+    <ifscCode>JJSB0000030</ifscCode>
+    <bankLoc>13538</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahada</name>
+    <city>Shahada</city>
+    <address>Opp, Kharedivikri Sangha, Dondaicha Road, TAL-SHAHADA. Dist-nandurbar ?Û 425409</address>
+    <contact>225699</contact>
+    <micrCode>425507302</micrCode>
+    <ifscCode>JJSB0000029</ifscCode>
+    <bankLoc>13536</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Parola</name>
+    <city>Parola</city>
+    <address>542, Chintamani Complex, Main Road Parola, TAL. Parola, Dist-jalgaon</address>
+    <contact>224488</contact>
+    <micrCode>425507503</micrCode>
+    <ifscCode>JJSB0000028</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalyan</name>
+    <city>Kalyan</city>
+    <address>Serve NO.35, Shri Complex 4, Shop NO. 9A, B,11, 12, Shoping Premises Co-operative Society LTD. Godrej Hill Road, Village  Gandhare, Khadakpada, Kalyan West  Dist-thane</address>
+    <contact>2230355</contact>
+    <micrCode>400082651</micrCode>
+    <ifscCode>JJSB0000027</ifscCode>
+    <bankLoc>13535</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khamgaon</name>
+    <city>Khamgaon</city>
+    <address>OPP. Kela Hindi Highschool, Tuljai Complex, Nandura Road, Khamgaon, Tl-khamgaon, Dist-buldhana</address>
+    <contact>255948</contact>
+    <micrCode>444507302</micrCode>
+    <ifscCode>JJSB0000026</ifscCode>
+    <bankLoc>13530</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhosala Military School, Nasik</name>
+    <city>Nasik</city>
+    <address>Ramrajya Bldg NO. 6, Ground Floor, Shop NO. 3, Samarth Nagar, Nasik ?Û 422 005</address>
+    <contact>2341325</contact>
+    <micrCode>422507003</micrCode>
+    <ifscCode>JJSB0000025</ifscCode>
+    <bankLoc>13537</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aurangabad</name>
+    <city>Aurangabad</city>
+    <address>Gulmandi Chouk, CTS.NO.5688, Diwan Devdi, Aurangabad ?Û 431001</address>
+    <contact>2346174</contact>
+    <micrCode>431507003</micrCode>
+    <ifscCode>JJSB0000024</ifscCode>
+    <bankLoc>13529</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Fort</name>
+    <city>Fort</city>
+    <address>174, Groud Floor, Vardhaman Chambers, Kawasji Patel Street, Fort, Mumbai ?Û 400001</address>
+    <contact>22851975</contact>
+    <micrCode>400082630</micrCode>
+    <ifscCode>JJSB0000023</ifscCode>
+    <bankLoc>13532</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thane</name>
+    <city>Thane</city>
+    <address>OPP.GAVDEVI Mandir, Gokhale Road, 4, Krishnakala BLDG., Naupada, Thane (WEST) ?Û 400602</address>
+    <contact>25382918</contact>
+    <micrCode>400082631</micrCode>
+    <ifscCode>JJSB0000022</ifscCode>
+    <bankLoc>13539</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dharangaon</name>
+    <city>Jalgaon</city>
+    <address>CTS.NO.1262, Sushilalbai Pannalal Pagariya Near Subhash Darwaja Main Road, Dharangaon-425105</address>
+    <contact>251122</contact>
+    <micrCode>425507008</micrCode>
+    <ifscCode>JJSB0000021</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vivekanad</name>
+    <city>Jalgaon</city>
+    <address>Parijat Sankul, Shop NO. 16 &amp; 17, Suyog Colony, Girna Tank Road, Jalgaon ?Û 425002</address>
+    <contact>2240537</contact>
+    <micrCode>425507007</micrCode>
+    <ifscCode>JJSB0000020</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nasik</name>
+    <city>Nasik</city>
+    <address>Shop NO.3-6, Madhav Complex, Near Adarsha School, OLD Agra Road, OPP Cbs, Nasik ?Û 422007</address>
+    <contact>2504030</contact>
+    <micrCode>422507002</micrCode>
+    <ifscCode>JJSB0000019</ifscCode>
+    <bankLoc>13537</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kurha Kakoda</name>
+    <city>Kurha Kakoda</city>
+    <address>Main Road, Bazar Lane, House NO.369, Ground Floor, Kurha-kakoda, Taluka ?Û Muktai Nagar, Dist ?Û Jalgaon, PIN ?Û 425306</address>
+    <contact>232314</contact>
+    <micrCode>443507501</micrCode>
+    <ifscCode>JJSB0000018</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jamner</name>
+    <city>Jamner</city>
+    <address>Balaji Market, House NO.2378, Jamner, Dist ?Û Jalgaon, PIN ?Û 424206</address>
+    <contact>233211</contact>
+    <micrCode>425507505</micrCode>
+    <ifscCode>JJSB0000017</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Yawal</name>
+    <city>Yawal</city>
+    <address>OPP. Post Office, Main Road, CTS NO.2361/64, Yawal, Dist ?Û Jalgaon, PIN ?Û 425301</address>
+    <contact>260066</contact>
+    <micrCode>425507504</micrCode>
+    <ifscCode>JJSB0000016</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Navi Peth</name>
+    <city>Jalgaon</city>
+    <address>Seva, 117/119, Navi Peth, Jalgaon ?Û 425001</address>
+    <contact>2223442</contact>
+    <micrCode>425507006</micrCode>
+    <ifscCode>JJSB0000015</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ganesh Colony</name>
+    <city>Jalgaon</city>
+    <address>13, Ganesh Colony, Seven Square Road, CTS NO.8021, Jalgaon ?Û 425 002</address>
+    <contact>2252038</contact>
+    <micrCode>425507009</micrCode>
+    <ifscCode>JJSB0000014</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nandurbar</name>
+    <city>Nandurbar</city>
+    <address>Ghar NO.577/A, Pardeshi Pura, Nandurbar ?Û 425412</address>
+    <contact>223438</contact>
+    <micrCode>425507202</micrCode>
+    <ifscCode>JJSB0000013</ifscCode>
+    <bankLoc>13536</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chalisgaon</name>
+    <city>Chalisgaon</city>
+    <address>Shop NO.U15-17, 18, 25, Gayatri Plaza, Bhadgaon Road, Neharu Chouk Signal Point, Chalisgaon, Dist ?Û Jalgaon, PIN ?Û 424101</address>
+    <contact>223904</contact>
+    <micrCode>424507202</micrCode>
+    <ifscCode>JJSB0000012</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amalner</name>
+    <city>Amalner</city>
+    <address>T.P.NO.60/3/1, OPP.MUNICIPLE Shopping Complex, Amalner, Dist ?Û Jalgaon, PIN ?Û 425401</address>
+    <contact>222990</contact>
+    <micrCode>425507152</micrCode>
+    <ifscCode>JJSB0000011</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhusawal</name>
+    <city>Bhusawal</city>
+    <address>Kinhikar Villa, House NO.1/5711/572, Vitthal Mandir Ward, Near Bazarpeth Police Station, Bhusawal, Dist ?Û Jalgaon, PIN ?Û 425201</address>
+    <contact>222101</contact>
+    <micrCode>425507101</micrCode>
+    <ifscCode>JJSB0000010</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bodwad</name>
+    <city>Bodwad</city>
+    <address>GPH NO. ?Û 2501 &amp; 2591, CTS NO. ?Û 2583 &amp; 2691, ?ôsarlabai Milapchand Lalwani?ö Shoping Complex, Main Road, Bodwad, Dist ?Û Jalgaon</address>
+    <contact>275420</contact>
+    <micrCode>425507502</micrCode>
+    <ifscCode>JJSB0000009</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Savada</name>
+    <city>Savada</city>
+    <address>Indira Gandhi Chowk, Main Road, CTS NO.1860, Savada, Taluka ?Û Raver, Dist ?Û Jalgaon, PIN ?Û 425502</address>
+    <contact>222553</contact>
+    <micrCode>425507501</micrCode>
+    <ifscCode>JJSB0000008</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Deopur</name>
+    <city>Dhule</city>
+    <address>Main Road, OLD Agra Highway, CTS NO.4493, Gf+basement, Deopur, Dhule ?Û 424 001</address>
+    <contact>225693</contact>
+    <micrCode>425507002</micrCode>
+    <ifscCode>JJSB0000007</ifscCode>
+    <bankLoc>13531</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhule</name>
+    <city>Dhule</city>
+    <address>CTS.NO.1461A, SHRI.DATTABARI Bhavan, Maharanapratap Chouk, Near Swastik Cinema, ,dhule ?Û 424 001</address>
+    <contact>232974</contact>
+    <micrCode>424507001</micrCode>
+    <ifscCode>JJSB0000006</ifscCode>
+    <bankLoc>13531</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Omkareshwar</name>
+    <city>Jalgaon</city>
+    <address>Balwant, GAT NO.432+492/1+568, Near Omkareshwar Mandir, 50, JAY Nagar, Jalgaon ?Û 425002</address>
+    <contact>2238138</contact>
+    <micrCode>425507005</micrCode>
+    <ifscCode>JJSB0000005</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Station Road</name>
+    <city>Jalgaon</city>
+    <address>Keshav Kripa, CTS NO.2117/3, Navi Peth, Jalgaon ?Û 425 001</address>
+    <contact>2236521</contact>
+    <micrCode>425507004</micrCode>
+    <ifscCode>JJSB0000004</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Market Yard  Jalgaon</name>
+    <city>Jalgaon</city>
+    <address>Krishi Utpanna Bazar Samiti, Ajintha Road, Jalgaon ?Û 425003</address>
+    <contact>2210943</contact>
+    <micrCode>425507003</micrCode>
+    <ifscCode>JJSB0000003</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dana Bajar</name>
+    <city>Jalgaon</city>
+    <address>Madhav Kunj, 99, Polan Peth, CTS.NO.1948 A, Jalgaon ?Û 425 001</address>
+    <contact>2236402</contact>
+    <micrCode>425507002</micrCode>
+    <ifscCode>JJSB0000002</ifscCode>
+    <bankLoc>13534</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Jalgaon</city>
+    <address>Seva, 117/119, Navi Peth, Jalgaon-425 001</address>
+    <contact>2232175</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>JJSB0000001</ifscCode>
+    <bankLoc>13534</bankLoc>
   </bankbranch>
 </bankBranchs>

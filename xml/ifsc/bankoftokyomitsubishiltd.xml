@@ -1,30 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Bangalore</name>
-    <city>Bangalore</city>
-    <address>World Trade Center, Brigade Gateway Campus, 26 BY 1, DR.RAJKUMAR Road, Malleshwaram West, Bangalore</address>
-    <contact>6758000</contact>
-    <micrCode>560033002</micrCode>
-    <ifscCode>BOTM0BL3626</ifscCode>
-    <bankLoc>6565</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai Branch</name>
-    <city>Chennai</city>
-    <address>Seshachalam Centre, 6TH AND 7TH Floor Door NO. 636 BY 1, Anna Salai Nandanam Chennai 600035</address>
+    <name>Neemrana</name>
+    <city>Alwar</city>
+    <address>G47, Industrial Area, Neemrana, Tehsil Behrod, DISTT.ALWAR 301705, Rajasthan</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>BOTM0CN3615</ifscCode>
-    <bankLoc>6568</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>Hoechst House, 15th Floor, Vinay K Shah Marg, Nariman Point, Mumbai 400 005</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BOTM0MB3612</ifscCode>
-    <bankLoc>6566</bankLoc>
+    <ifscCode>BOTM0NEEMRA</ifscCode>
+    <bankLoc>6586</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Branch</name>
@@ -33,15 +15,33 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>BOTM0ND3611</ifscCode>
-    <bankLoc>6564</bankLoc>
+    <bankLoc>6583</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Neemrana</name>
-    <city>Alwar</city>
-    <address>G47, Industrial Area, Neemrana, Tehsil Behrod, DISTT.ALWAR 301705, Rajasthan</address>
+    <name>Mumbai</name>
+    <city>Mumbai</city>
+    <address>Hoechst House, 15th Floor, Vinay K Shah Marg, Nariman Point, Mumbai 400 005</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>BOTM0NEEMRA</ifscCode>
-    <bankLoc>6567</bankLoc>
+    <ifscCode>BOTM0MB3612</ifscCode>
+    <bankLoc>6585</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Branch</name>
+    <city>Chennai</city>
+    <address>Seshachalam Centre, 6TH AND 7TH Floor Door NO. 636 BY 1, Anna Salai Nandanam Chennai 600035</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BOTM0CN3615</ifscCode>
+    <bankLoc>6587</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore</name>
+    <city>Bangalore</city>
+    <address>World Trade Center, Brigade Gateway Campus, 26 BY 1, DR.RAJKUMAR Road, Malleshwaram West, Bangalore</address>
+    <contact>6758000</contact>
+    <micrCode>560033002</micrCode>
+    <ifscCode>BOTM0BL3626</ifscCode>
+    <bankLoc>6584</bankLoc>
   </bankbranch>
 </bankBranchs>

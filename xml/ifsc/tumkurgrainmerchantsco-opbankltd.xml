@@ -1,228 +1,21 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Tumkur</city>
-    <address>B H Road, Tumkur 572103</address>
+    <name>Shivamogga Branch</name>
+    <city>Shivamogga</city>
+    <address>NO.1, Arkis Arcade, Tilak Nagar Main Road, Shivamogga - 577201.</address>
     <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000001</ifscCode>
-    <bankLoc>23596</bankLoc>
+    <micrCode>577574202</micrCode>
+    <ifscCode>TGMB0000028</ifscCode>
+    <bankLoc>24206</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>J C Road Branch</name>
-    <city>Tumkur</city>
-    <address>J.C.ROAD, Tumkur 572101</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000002</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>S S Puram Branch</name>
-    <city>Tumkur</city>
-    <address>B.H.ROAD, Tumkur 572103</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000003</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>R N Branch</name>
-    <city>Tumkur</city>
-    <address>SIT Main Road, Tumkur 572103</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000004</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>SDN Branch</name>
-    <city>Tumkur</city>
-    <address>Sira Road, OPP.SBM, Tumkur 572103</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000005</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tiptur Branch</name>
-    <city>Tiptur</city>
-    <address>Makan Road, Kamadhenu Building, Tiptur 572201</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000006</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sira Branch</name>
-    <city>Sira</city>
-    <address>Manjushri Complex, DR.B.R.AMBEDKAR Road, Sira 572137</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000007</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Apmc Branch</name>
-    <city>Tumkur</city>
-    <address>1ST Cross, Apmc Yard, Tumkur 572103</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000008</ifscCode>
-    <bankLoc>23596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajajinagar Branch</name>
-    <city>Bengaluru</city>
-    <address>2ND Cross, ESI Road, 4TH Block, Rajajinagar, Bengaluru 560010</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000009</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Devaraj URS Road Branch</name>
-    <city>Mysore</city>
-    <address>140, Devaraj URS Road, Devraj Mohalla, Mysore 570001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000010</ifscCode>
-    <bankLoc>23595</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Basaveshwar Nagar Branch</name>
-    <city>Bengaluru</city>
-    <address>43, 1ST Main, 3RD Block, 3RD Stage, Basaveshwaranagar, Bengaluru 560079</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000011</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jaya Nagar Branch</name>
-    <city>Bengaluru</city>
-    <address>232 BY 19, Pavithra South Avenue, 9TH Main, 3RD Block, Jayanagar, Bengaluru 560011</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000012</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Indiranagar Branch</name>
-    <city>Bengaluru</city>
-    <address>421 BY N, Krishna Temple Road, 1ST Stage, Indiranagar, Bengaluru 560038</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000013</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>R T Nagar Branch</name>
-    <city>Bengaluru</city>
-    <address>544, 3RD Cross, 3RD Main, 2ND Block, R.T.NAGAR, Bengaluru 560032</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000014</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chitradurga Branch</name>
-    <city>Chitradurga</city>
-    <address>Swanthal Centre, B.D.ROAD, Chitradurga 577501</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000015</ifscCode>
-    <bankLoc>23592</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kuvempunagar Mysore Branch</name>
-    <city>Mysore</city>
-    <address>Mudra Archade, MIG 27, KHB Colony, Nrupathunga Road, Kuvempu Nagar, Mysore 570023</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000016</ifscCode>
-    <bankLoc>23595</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hassan Branch</name>
-    <city>Hassan</city>
-    <address>805 AND 806, K G Towers B M Road, Hassan 573201</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000017</ifscCode>
-    <bankLoc>23593</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>H S R Layout Branch</name>
-    <city>Bengaluru</city>
-    <address>NO.671, 7TH Sector, 9TH Main, HSR Layout Bengaluru 560102</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000018</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Marathahalli Branch</name>
-    <city>Bengaluru</city>
-    <address>NO.17, Krishna Grand, Outer Ring Road, Marathahalli, Bengaluru 560037</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000019</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>J P Nagar Branch</name>
+    <name>Rajarajeshwari Nagar</name>
     <city>Bangalore</city>
-    <address>726 BY A, 24th Main, J.P Nagar, 6TH Phase, Bangalore 560078</address>
+    <address>Tgmc Bank LTD., No-1147, Jawaharlalnehru Road, 3RD Stage, Beml Layout, Ward NO 160, Rajarajeshwarinagar, Bengaluru-98</address>
     <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>TGMB0000020</ifscCode>
-    <bankLoc>23590</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Yelahanka Branch</name>
-    <city>Bengaluru</city>
-    <address>685, A Sector, OPP Seshadripuram P U College, Yelhanka NEW Town, Bangalore 560064</address>
-    <contact>41499299</contact>
-    <micrCode>560574010</micrCode>
-    <ifscCode>TGMB0000021</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hesaraghatta Main Road Branch</name>
-    <city>Bengaluru</city>
-    <address>Bhuvaneshwari Nagar, T-dasarahalli Hesaraghatta Main Road, Bengaluru - 560057</address>
-    <contact>32564129</contact>
-    <micrCode>560574011</micrCode>
-    <ifscCode>TGMB0000022</ifscCode>
-    <bankLoc>23591</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vijanagar Branch</name>
-    <city>Mysore</city>
-    <address>NO 24, 6TH Main, 1ST Stage, Vijayanagar, Mysore - 570017</address>
-    <contact>4269222</contact>
-    <micrCode>570574004</micrCode>
-    <ifscCode>TGMB0000023</ifscCode>
-    <bankLoc>23595</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mandya</name>
-    <city>Mandya</city>
-    <address>2ND Cross Ward NO 19 Ashoknagar Mandya 571401</address>
-    <contact>400156</contact>
-    <micrCode>571574502</micrCode>
-    <ifscCode>TGMB0000024</ifscCode>
-    <bankLoc>23594</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mathikere Branch</name>
-    <city>Bengaluru</city>
-    <address>NO 33, HMT Main Road, Gokula First Stage, 2ND Phase, Mathikere, Bengaluru - 560054</address>
-    <contact>41160699</contact>
-    <micrCode>560574013</micrCode>
-    <ifscCode>TGMB0000025</ifscCode>
-    <bankLoc>23591</bankLoc>
+    <micrCode>560574014</micrCode>
+    <ifscCode>TGMB0000027</ifscCode>
+    <bankLoc>24200</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahakaranagar Branch</name>
@@ -231,6 +24,231 @@
     <contact>42160022</contact>
     <micrCode>560574012</micrCode>
     <ifscCode>TGMB0000026</ifscCode>
-    <bankLoc>23591</bankLoc>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mathikere Branch</name>
+    <city>Bengaluru</city>
+    <address>NO 33, HMT Main Road, Gokula First Stage, 2ND Phase, Mathikere, Bengaluru - 560054</address>
+    <contact>41160699</contact>
+    <micrCode>560574013</micrCode>
+    <ifscCode>TGMB0000025</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandya</name>
+    <city>Mandya</city>
+    <address>2ND Cross Ward NO 19 Ashoknagar Mandya 571401</address>
+    <contact>400156</contact>
+    <micrCode>571574502</micrCode>
+    <ifscCode>TGMB0000024</ifscCode>
+    <bankLoc>24204</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijanagar Branch</name>
+    <city>Mysore</city>
+    <address>NO 24, 6TH Main, 1ST Stage, Vijayanagar, Mysore - 570017</address>
+    <contact>4269222</contact>
+    <micrCode>570574004</micrCode>
+    <ifscCode>TGMB0000023</ifscCode>
+    <bankLoc>24205</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hesaraghatta Main Road Branch</name>
+    <city>Bengaluru</city>
+    <address>Bhuvaneshwari Nagar, T-dasarahalli Hesaraghatta Main Road, Bengaluru - 560057</address>
+    <contact>32564129</contact>
+    <micrCode>560574011</micrCode>
+    <ifscCode>TGMB0000022</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Yelahanka Branch</name>
+    <city>Bengaluru</city>
+    <address>685, A Sector, OPP Seshadripuram P U College, Yelhanka NEW Town, Bangalore 560064</address>
+    <contact>41499299</contact>
+    <micrCode>560574010</micrCode>
+    <ifscCode>TGMB0000021</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>J P Nagar Branch</name>
+    <city>Bangalore</city>
+    <address>726 BY A, 24th Main, J.P Nagar, 6TH Phase, Bangalore 560078</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000020</ifscCode>
+    <bankLoc>24200</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Marathahalli Branch</name>
+    <city>Bengaluru</city>
+    <address>NO.17, Krishna Grand, Outer Ring Road, Marathahalli, Bengaluru 560037</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000019</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>H S R Layout Branch</name>
+    <city>Bengaluru</city>
+    <address>NO.671, 7TH Sector, 9TH Main, HSR Layout Bengaluru 560102</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000018</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hassan Branch</name>
+    <city>Hassan</city>
+    <address>805 AND 806, K G Towers B M Road, Hassan 573201</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000017</ifscCode>
+    <bankLoc>24203</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kuvempunagar Mysore Branch</name>
+    <city>Mysore</city>
+    <address>Mudra Archade, MIG 27, KHB Colony, Nrupathunga Road, Kuvempu Nagar, Mysore 570023</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000016</ifscCode>
+    <bankLoc>24205</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chitradurga Branch</name>
+    <city>Chitradurga</city>
+    <address>Swanthal Centre, B.D.ROAD, Chitradurga 577501</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000015</ifscCode>
+    <bankLoc>24202</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>R T Nagar Branch</name>
+    <city>Bengaluru</city>
+    <address>544, 3RD Cross, 3RD Main, 2ND Block, R.T.NAGAR, Bengaluru 560032</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000014</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indiranagar Branch</name>
+    <city>Bengaluru</city>
+    <address>421 BY N, Krishna Temple Road, 1ST Stage, Indiranagar, Bengaluru 560038</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000013</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaya Nagar Branch</name>
+    <city>Bengaluru</city>
+    <address>232 BY 19, Pavithra South Avenue, 9TH Main, 3RD Block, Jayanagar, Bengaluru 560011</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000012</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Basaveshwar Nagar Branch</name>
+    <city>Bengaluru</city>
+    <address>43, 1ST Main, 3RD Block, 3RD Stage, Basaveshwaranagar, Bengaluru 560079</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000011</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Devaraj URS Road Branch</name>
+    <city>Mysore</city>
+    <address>140, Devaraj URS Road, Devraj Mohalla, Mysore 570001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000010</ifscCode>
+    <bankLoc>24205</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajajinagar Branch</name>
+    <city>Bengaluru</city>
+    <address>2ND Cross, ESI Road, 4TH Block, Rajajinagar, Bengaluru 560010</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000009</ifscCode>
+    <bankLoc>24201</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Apmc Branch</name>
+    <city>Tumkur</city>
+    <address>1ST Cross, Apmc Yard, Tumkur 572103</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000008</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sira Branch</name>
+    <city>Sira</city>
+    <address>Manjushri Complex, DR.B.R.AMBEDKAR Road, Sira 572137</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000007</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tiptur Branch</name>
+    <city>Tiptur</city>
+    <address>Makan Road, Kamadhenu Building, Tiptur 572201</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000006</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>SDN Branch</name>
+    <city>Tumkur</city>
+    <address>Sira Road, OPP.SBM, Tumkur 572103</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000005</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>R N Branch</name>
+    <city>Tumkur</city>
+    <address>SIT Main Road, Tumkur 572103</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000004</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>S S Puram Branch</name>
+    <city>Tumkur</city>
+    <address>B.H.ROAD, Tumkur 572103</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000003</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>J C Road Branch</name>
+    <city>Tumkur</city>
+    <address>J.C.ROAD, Tumkur 572101</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000002</ifscCode>
+    <bankLoc>24207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Tumkur</city>
+    <address>B H Road, Tumkur 572103</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>TGMB0000001</ifscCode>
+    <bankLoc>24207</bankLoc>
   </bankbranch>
 </bankBranchs>

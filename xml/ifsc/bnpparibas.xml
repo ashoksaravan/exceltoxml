@@ -1,57 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Kolkata</name>
-    <city>Kolkata</city>
-    <address>Unit NO. 301, Office NO. 2, 3RD Floor, Avani Signature, 91a/1, Park Street, Kolkata :- 700016</address>
-    <contact>0</contact>
-    <micrCode>700034002</micrCode>
-    <ifscCode>BNPA0009008</ifscCode>
-    <bankLoc>6686</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>BNP Paribas, BNP Paribas House, 1 North Avenue, Ground Floor, Maker Maxity, Bandra Kurla Complex, Bandra East, Mumbai 400051</address>
-    <contact>33704000</contact>
-    <micrCode>400034002</micrCode>
-    <ifscCode>BNPA0009009</ifscCode>
-    <bankLoc>6683</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Delhi</name>
-    <city>Delhi</city>
-    <address>8TH Floor East Tower (sood Tower), 25, Barakhamba Road, NEW Delhi - 110001</address>
-    <contact>41796600</contact>
-    <micrCode>110034002</micrCode>
-    <ifscCode>BNPA0009065</ifscCode>
-    <bankLoc>6680</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bangalore</name>
-    <city>Bangalore</city>
-    <address>Salarpuria Windsor, Ground Floor, NO.3, Ulsoor Road, Bengaluru - 560 042</address>
-    <contact>66076200</contact>
-    <micrCode>560034002</micrCode>
-    <ifscCode>BNPA0009067</ifscCode>
-    <bankLoc>6682</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pune</name>
-    <city>Pune</city>
-    <address>5 &amp; 6, Godrej Millenium Park, 9,koregaon Road, Pune-411 001</address>
-    <contact>0</contact>
-    <micrCode>411034002</micrCode>
-    <ifscCode>BNPA0009069</ifscCode>
-    <bankLoc>6684</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ahmedabad</name>
-    <city>Ahmedabad</city>
-    <address>203, Sakar II, Ellis Bridge, OFF Ashram RD, Ahmedabad-380 006</address>
-    <contact>25581347</contact>
-    <micrCode>380034002</micrCode>
-    <ifscCode>BNPA0009077</ifscCode>
-    <bankLoc>6681</bankLoc>
+    <name>Hyderabad</name>
+    <city>Hyderabad</city>
+    <address>BNP Paribas, Trend SET Towers, 101, Ground Floor 8-2-269/10, Road NO.2, Banjara Hills, Hyderabad - 500034</address>
+    <contact>66216500</contact>
+    <micrCode>500034002</micrCode>
+    <ifscCode>BNPA0009378</ifscCode>
+    <bankLoc>6698</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai</name>
@@ -60,15 +15,60 @@
     <contact>0</contact>
     <micrCode>600034002</micrCode>
     <ifscCode>BNPA0009088</ifscCode>
-    <bankLoc>6685</bankLoc>
+    <bankLoc>6704</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Hyderabad</name>
-    <city>Hyderabad</city>
-    <address>BNP Paribas, Trend SET Towers, 101, Ground Floor 8-2-269/10, Road NO.2, Banjara Hills, Hyderabad - 500034</address>
-    <contact>66216500</contact>
-    <micrCode>500034002</micrCode>
-    <ifscCode>BNPA0009378</ifscCode>
-    <bankLoc>6679</bankLoc>
+    <name>Ahmedabad</name>
+    <city>Ahmedabad</city>
+    <address>203, Sakar II, Ellis Bridge, OFF Ashram RD, Ahmedabad-380 006</address>
+    <contact>25581347</contact>
+    <micrCode>380034002</micrCode>
+    <ifscCode>BNPA0009077</ifscCode>
+    <bankLoc>6700</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>5 &amp; 6, Godrej Millenium Park, 9,koregaon Road, Pune-411 001</address>
+    <contact>0</contact>
+    <micrCode>411034002</micrCode>
+    <ifscCode>BNPA0009069</ifscCode>
+    <bankLoc>6703</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore</name>
+    <city>Bangalore</city>
+    <address>Salarpuria Windsor, Ground Floor, NO.3, Ulsoor Road, Bengaluru - 560 042</address>
+    <contact>66076200</contact>
+    <micrCode>560034002</micrCode>
+    <ifscCode>BNPA0009067</ifscCode>
+    <bankLoc>6701</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Delhi</name>
+    <city>Delhi</city>
+    <address>8TH Floor East Tower (sood Tower), 25, Barakhamba Road, NEW Delhi - 110001</address>
+    <contact>41796600</contact>
+    <micrCode>110034002</micrCode>
+    <ifscCode>BNPA0009065</ifscCode>
+    <bankLoc>6699</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mumbai</name>
+    <city>Mumbai</city>
+    <address>BNP Paribas, BNP Paribas House, 1 North Avenue, Ground Floor, Maker Maxity, Bandra Kurla Complex, Bandra East, Mumbai 400051</address>
+    <contact>33704000</contact>
+    <micrCode>400034002</micrCode>
+    <ifscCode>BNPA0009009</ifscCode>
+    <bankLoc>6702</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolkata</name>
+    <city>Kolkata</city>
+    <address>Unit NO. 301, Office NO. 2, 3RD Floor, Avani Signature, 91a/1, Park Street, Kolkata :- 700016</address>
+    <contact>0</contact>
+    <micrCode>700034002</micrCode>
+    <ifscCode>BNPA0009008</ifscCode>
+    <bankLoc>6705</bankLoc>
   </bankbranch>
 </bankBranchs>

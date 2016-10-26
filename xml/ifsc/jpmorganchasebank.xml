@@ -1,21 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Mumbai</city>
-    <address>J.P. Morgan Tower, OFF. C.S.T. Road, Kalina, Santacruz-east, Mumbai - 400098 India</address>
-    <contact>61573836</contact>
-    <micrCode>400500002</micrCode>
-    <ifscCode>CHAS0INBX01</ifscCode>
-    <bankLoc>13152</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>NEW Delhi Branch</name>
-    <city>NEW Delhi</city>
-    <address>Unit NOS. 401 AND 402, 4TH Floor, NEW Tower, Block A, Hyatt Regency Delhi, Bhikaji Cama Place, NEW Delhi 100066.</address>
-    <contact>66111700</contact>
+    <name>Paranur Branch</name>
+    <city>Chennai</city>
+    <address>THE Canopy, 2ND Avenue, 2ND Floor, Mahindra World City Sub-post, Paranur, Chengalpattu Taluk, Kanchipuram District 603004.</address>
+    <contact>0</contact>
     <micrCode>WAITING</micrCode>
-    <ifscCode>CHAS0INBX02</ifscCode>
-    <bankLoc>13150</bankLoc>
+    <ifscCode>CHAS0INBX04</ifscCode>
+    <bankLoc>13528</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devanahalli Branch</name>
@@ -24,15 +15,24 @@
     <contact>67693200</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX03</ifscCode>
-    <bankLoc>13151</bankLoc>
+    <bankLoc>13526</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Paranur Branch</name>
-    <city>Chennai</city>
-    <address>THE Canopy, 2ND Avenue, 2ND Floor, Mahindra World City Sub-post, Paranur, Chengalpattu Taluk, Kanchipuram District 603004.</address>
-    <contact>0</contact>
+    <name>NEW Delhi Branch</name>
+    <city>NEW Delhi</city>
+    <address>Unit NOS. 401 AND 402, 4TH Floor, NEW Tower, Block A, Hyatt Regency Delhi, Bhikaji Cama Place, NEW Delhi 100066.</address>
+    <contact>66111700</contact>
     <micrCode>WAITING</micrCode>
-    <ifscCode>CHAS0INBX04</ifscCode>
-    <bankLoc>13153</bankLoc>
+    <ifscCode>CHAS0INBX02</ifscCode>
+    <bankLoc>13525</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Mumbai</city>
+    <address>J.P. Morgan Tower, OFF. C.S.T. Road, Kalina, Santacruz-east, Mumbai - 400098 India</address>
+    <contact>61573836</contact>
+    <micrCode>400500002</micrCode>
+    <ifscCode>CHAS0INBX01</ifscCode>
+    <bankLoc>13527</bankLoc>
   </bankbranch>
 </bankBranchs>

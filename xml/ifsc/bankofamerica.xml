@@ -1,21 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Bangalore Branch</name>
-    <city>Bangalore</city>
-    <address>Salarpuria Windsor, 5TH Floor, B-wing, No-3, Ulsoor Road, Bangalore 560042</address>
-    <contact>66006203</contact>
-    <micrCode>560032002</micrCode>
-    <ifscCode>BOFA0BG3978</ifscCode>
-    <bankLoc>2013</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai Branch</name>
-    <city>Chennai</city>
-    <address>EA Chambers, Express Avenue, 8TH Floor NO.49, 50 L, Whites Road, Royapettah, Chennai 600014</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BOFA0CN6215</ifscCode>
-    <bankLoc>2015</bankLoc>
+    <name>NEW Delhi</name>
+    <city>NEW Delhi</city>
+    <address>?ábank OF America N.A, 1ST Floor, DLF Centre, Sansad Marg, NEW Delhi 110001</address>
+    <contact>23715565</contact>
+    <micrCode>110032001</micrCode>
+    <ifscCode>BOFA0ND6216</ifscCode>
+    <bankLoc>2026</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -24,15 +15,24 @@
     <contact>66323109</contact>
     <micrCode>32002</micrCode>
     <ifscCode>BOFA0MM6205</ifscCode>
-    <bankLoc>2014</bankLoc>
+    <bankLoc>2028</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>NEW Delhi</name>
-    <city>NEW Delhi</city>
-    <address>?ábank OF America N.A, 1ST Floor, DLF Centre, Sansad Marg, NEW Delhi 110001</address>
-    <contact>23715565</contact>
-    <micrCode>110032001</micrCode>
-    <ifscCode>BOFA0ND6216</ifscCode>
-    <bankLoc>2012</bankLoc>
+    <name>Chennai Branch</name>
+    <city>Chennai</city>
+    <address>EA Chambers, Express Avenue, 8TH Floor NO.49, 50 L, Whites Road, Royapettah, Chennai 600014</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BOFA0CN6215</ifscCode>
+    <bankLoc>2029</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore Branch</name>
+    <city>Bangalore</city>
+    <address>Salarpuria Windsor, 5TH Floor, B-wing, No-3, Ulsoor Road, Bangalore 560042</address>
+    <contact>66006203</contact>
+    <micrCode>560032002</micrCode>
+    <ifscCode>BOFA0BG3978</ifscCode>
+    <bankLoc>2027</bankLoc>
   </bankbranch>
 </bankBranchs>

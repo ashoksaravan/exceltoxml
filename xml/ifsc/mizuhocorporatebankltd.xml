@@ -1,39 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Nariman Point</name>
-    <city>Mumbai</city>
-    <address>Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013</address>
-    <contact>22886638</contact>
-    <micrCode>400694002</micrCode>
-    <ifscCode>MHCB0000002</ifscCode>
-    <bankLoc>14236</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Mumbai</city>
-    <address>Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013</address>
-    <contact>22886638</contact>
-    <micrCode>400694002</micrCode>
-    <ifscCode>MHCB0000532</ifscCode>
-    <bankLoc>14236</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Devanahalli</name>
-    <city>Bangalore</city>
-    <address>N.H. 7/4-207, B.B. Road, Vijayapura Cross</address>
-    <contact>30807304</contact>
-    <micrCode>560017251</micrCode>
-    <ifscCode>MHCB0000716</ifscCode>
-    <bankLoc>14235</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai</name>
-    <city>Chennai</city>
-    <address>Prestige Palladium Bayan, Greams Road, Chennai</address>
-    <contact>42986648</contact>
-    <micrCode>600694002</micrCode>
-    <ifscCode>MHCB0000717</ifscCode>
-    <bankLoc>14237</bankLoc>
+    <name>NEW Delhi Branch</name>
+    <city>NEW Delhi</city>
+    <address>4 Floor, East Tower Sood Tower, Barakhamba Road</address>
+    <contact>30410900</contact>
+    <micrCode>100694002</micrCode>
+    <ifscCode>MHCB0000793</ifscCode>
+    <bankLoc>14628</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad Branch</name>
@@ -42,15 +15,42 @@
     <contact>49112047</contact>
     <micrCode>380694002</micrCode>
     <ifscCode>MHCB0000718</ifscCode>
-    <bankLoc>14234</bankLoc>
+    <bankLoc>14629</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>NEW Delhi Branch</name>
-    <city>NEW Delhi</city>
-    <address>4 Floor, East Tower Sood Tower, Barakhamba Road</address>
-    <contact>30410900</contact>
-    <micrCode>100694002</micrCode>
-    <ifscCode>MHCB0000793</ifscCode>
-    <bankLoc>14233</bankLoc>
+    <name>Chennai</name>
+    <city>Chennai</city>
+    <address>Prestige Palladium Bayan, Greams Road, Chennai</address>
+    <contact>42986648</contact>
+    <micrCode>600694002</micrCode>
+    <ifscCode>MHCB0000717</ifscCode>
+    <bankLoc>14632</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Devanahalli</name>
+    <city>Bangalore</city>
+    <address>N.H. 7/4-207, B.B. Road, Vijayapura Cross</address>
+    <contact>30807304</contact>
+    <micrCode>560017251</micrCode>
+    <ifscCode>MHCB0000716</ifscCode>
+    <bankLoc>14630</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Mumbai</city>
+    <address>Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013</address>
+    <contact>22886638</contact>
+    <micrCode>400694002</micrCode>
+    <ifscCode>MHCB0000532</ifscCode>
+    <bankLoc>14631</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nariman Point</name>
+    <city>Mumbai</city>
+    <address>Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013</address>
+    <contact>22886638</contact>
+    <micrCode>400694002</micrCode>
+    <ifscCode>MHCB0000002</ifscCode>
+    <bankLoc>14631</bankLoc>
   </bankbranch>
 </bankBranchs>

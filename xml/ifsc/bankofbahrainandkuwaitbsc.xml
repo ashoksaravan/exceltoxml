@@ -1,21 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Mumbai</city>
-    <address>225, Jolly Makers Chambers II, Nariman Point, Mumbai</address>
-    <contact>22823698</contact>
-    <micrCode>400150002</micrCode>
-    <ifscCode>BBKM0000001</ifscCode>
-    <bankLoc>2019</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hyderabad</name>
-    <city>Hyderabad</city>
-    <address>6 3 550, Akashganga, Somajiguda, Hyderabad 500082</address>
-    <contact>23305859</contact>
-    <micrCode>500150002</micrCode>
-    <ifscCode>BBKM0000003</ifscCode>
-    <bankLoc>2016</bankLoc>
+    <name>NEW Delhi</name>
+    <city>NEW Delhi</city>
+    <address>Unit NO 3 &amp; 4, Ground Flr, Eros Corporate Tower, OPP Nehru Place Metro Station, Nehru Place, NEW Delhi, PIN Code -110019</address>
+    <contact>2147483647</contact>
+    <micrCode>110150002</micrCode>
+    <ifscCode>BBKM0000005</ifscCode>
+    <bankLoc>2031</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aluva</name>
@@ -24,15 +15,24 @@
     <contact>4037437</contact>
     <micrCode>682150002</micrCode>
     <ifscCode>BBKM0000004</ifscCode>
-    <bankLoc>2018</bankLoc>
+    <bankLoc>2032</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>NEW Delhi</name>
-    <city>NEW Delhi</city>
-    <address>Unit NO 3 &amp; 4, Ground Flr, Eros Corporate Tower, OPP Nehru Place Metro Station, Nehru Place, NEW Delhi, PIN Code -110019</address>
-    <contact>2147483647</contact>
-    <micrCode>110150002</micrCode>
-    <ifscCode>BBKM0000005</ifscCode>
-    <bankLoc>2017</bankLoc>
+    <name>Hyderabad</name>
+    <city>Hyderabad</city>
+    <address>6 3 550, Akashganga, Somajiguda, Hyderabad 500082</address>
+    <contact>23305859</contact>
+    <micrCode>500150002</micrCode>
+    <ifscCode>BBKM0000003</ifscCode>
+    <bankLoc>2030</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Mumbai</city>
+    <address>225, Jolly Makers Chambers II, Nariman Point, Mumbai</address>
+    <contact>22823698</contact>
+    <micrCode>400150002</micrCode>
+    <ifscCode>BBKM0000001</ifscCode>
+    <bankLoc>2033</bankLoc>
   </bankbranch>
 </bankBranchs>

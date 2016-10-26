@@ -1,363 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Begum Bazar</name>
-    <city>Hyderabad</city>
-    <address>15-7-241/1, Yadav Towers Begum Bazar HYD 500012</address>
-    <contact>23437131</contact>
-    <micrCode>500142002</micrCode>
-    <ifscCode>APMC0000002</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Balanagar</name>
-    <city>Hyderabad</city>
-    <address>3-66, Shobhana Complex Balanagar HYD -37</address>
-    <contact>23770307</contact>
-    <micrCode>500142003</micrCode>
-    <ifscCode>APMC0000003</ifscCode>
-    <bankLoc>23148</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khairtabad</name>
-    <city>Hyderabad</city>
-    <address>6-1-1060 Hafez Complex Saifabad HYD - 500004</address>
-    <contact>23431801</contact>
-    <micrCode>500142004</micrCode>
-    <ifscCode>APMC0000004</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shamsheer Gunj</name>
-    <city>Hyderabad</city>
-    <address>18-4-568 Main Road Shamsheer Gunj HYD - 253</address>
-    <contact>23437110</contact>
-    <micrCode>500142005</micrCode>
-    <ifscCode>APMC0000005</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sultan Bazar</name>
-    <city>Hyderabad</city>
-    <address>4-3-339 Bank Street Sultan Bazar Hyd-500095</address>
-    <contact>23437151</contact>
-    <micrCode>500142006</micrCode>
-    <ifscCode>APMC0000006</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>MG Road</name>
-    <city>Hyderabad</city>
-    <address>2-2-57/19  MG Road Secunderabad -500003</address>
-    <contact>23437139</contact>
-    <micrCode>500142007</micrCode>
-    <ifscCode>APMC0000007</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Himayatnagar</name>
-    <city>Hyderabad</city>
-    <address>3-6-276/2 OLD MLA Quarters Hngr HYD - 500029</address>
-    <contact>23431804</contact>
-    <micrCode>500142008</micrCode>
-    <ifscCode>APMC0000008</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Serilingampally</name>
-    <city>Hyderabad</city>
-    <address>50-20-1&amp;2 Main Road Serilingampally HYD -500138</address>
-    <contact>23437130</contact>
-    <micrCode>500142009</micrCode>
-    <ifscCode>APMC0000009</ifscCode>
-    <bankLoc>23148</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kachiguda</name>
-    <city>Hyderabad</city>
-    <address>3-4-4 Kachiguda Station Road HYD -500027</address>
-    <contact>23437144</contact>
-    <micrCode>500142010</micrCode>
-    <ifscCode>APMC0000010</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Siddiamber Bazar</name>
-    <city>Hyderabad</city>
-    <address>15-9-363 TO 367 Siddiamber Bazar Hyd-500012</address>
-    <contact>23437150</contact>
-    <micrCode>500142011</micrCode>
-    <ifscCode>APMC0000011</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ramanthapur</name>
-    <city>Hyderabad</city>
-    <address>Plot 3 Ramanthapur Hyderabad - 500013</address>
-    <contact>23437137</contact>
-    <micrCode>500142012</micrCode>
-    <ifscCode>APMC0000012</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Monda Market</name>
-    <city>Hyderabad</city>
-    <address>7-1-753 Monda Market Hyderabad -500003</address>
-    <contact>23437136</contact>
-    <micrCode>500142013</micrCode>
-    <ifscCode>APMC0000013</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dilsukhnagar</name>
-    <city>Hyderabad</city>
-    <address>18-97/1 Rajinigandha Appt Chaitanyapuri Dsnr  - 60</address>
-    <contact>23437133</contact>
-    <micrCode>500142014</micrCode>
-    <ifscCode>APMC0000014</ifscCode>
-    <bankLoc>23148</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Malakpet</name>
-    <city>Hyderabad</city>
-    <address>Plot  102 SRI Krupa Market  Mahaboob Mansion Malakpet -500036</address>
-    <contact>23437135</contact>
-    <micrCode>500142015</micrCode>
-    <ifscCode>APMC0000015</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mehdipatnam</name>
-    <city>Hyderabad</city>
-    <address>12-2-831/86 Mehdipatnam Colony HYD - 500028</address>
-    <contact>23431803</contact>
-    <micrCode>500142016</micrCode>
-    <ifscCode>APMC0000016</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Charminar</name>
-    <city>Hyderabad</city>
-    <address>III Floor Rikab Gunj Charminar Hyd-500002</address>
-    <contact>23437132</contact>
-    <micrCode>500142017</micrCode>
-    <ifscCode>APMC0000017</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ameerpet</name>
-    <city>Hyderabad</city>
-    <address>6-3-850/1 Ameerpet Sirisha Plaza Hyd-500016</address>
-    <contact>23431811</contact>
-    <micrCode>500142018</micrCode>
-    <ifscCode>APMC0000018</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Malakajgiri</name>
-    <city>Hyderabad</city>
-    <address>5-32-3 OPP Municipal OFF  Malkajgiri HYD - 5000036</address>
-    <contact>27050754</contact>
-    <micrCode>500142019</micrCode>
-    <ifscCode>APMC0000019</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>RTC Cross Roads</name>
-    <city>Hyderabad</city>
-    <address>1-8-518/19/a Chikkad Pally HYD -500020</address>
-    <contact>23437138</contact>
-    <micrCode>500142020</micrCode>
-    <ifscCode>APMC0000020</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kukatpally</name>
-    <city>Hyderabad</city>
-    <address>22-276/1 &amp;2 Bhagyanagar Coop Housing Society Kukatpally 500072</address>
-    <contact>23061578</contact>
-    <micrCode>500142021</micrCode>
-    <ifscCode>APMC0000021</ifscCode>
-    <bankLoc>23148</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>West Maredpally</name>
-    <city>Hyderabad</city>
-    <address>10-1-624 Shenoy Nursing Home Wmardpally Sec- 500026</address>
-    <contact>23437162</contact>
-    <micrCode>500142022</micrCode>
-    <ifscCode>APMC0000022</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tarnaka</name>
-    <city>Hyderabad</city>
-    <address>Plot 1/D Street 3 Habsiguda Tarnaka Hyd-500007</address>
-    <contact>23437152</contact>
-    <micrCode>500142023</micrCode>
-    <ifscCode>APMC0000023</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>AS ROA Nagar</name>
-    <city>Hyderabad</city>
-    <address>1-15-1/3 Beside Water Tank  AS RAO Nagar HYD -500062</address>
-    <contact>23437104</contact>
-    <micrCode>500142024</micrCode>
-    <ifscCode>APMC0000024</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vanastalipuram</name>
-    <city>Hyderabad</city>
-    <address>6-2-690 LB Nagar Circle  Vanastalipuram  HYD - 500070</address>
-    <contact>23437124</contact>
-    <micrCode>500142025</micrCode>
-    <ifscCode>APMC0000025</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Karkhana</name>
-    <city>Hyderabad</city>
-    <address>Plot 12 OPP  Releiance Fresh Karkhana SEC -500009</address>
-    <contact>23437126</contact>
-    <micrCode>500142026</micrCode>
-    <ifscCode>APMC0000026</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Motinagar</name>
-    <city>Hyderabad</city>
-    <address>Door 13-1-116/116/a Kukatpally Circle Motinagar HYD -500018</address>
-    <contact>23431816</contact>
-    <micrCode>500142027</micrCode>
-    <ifscCode>APMC0000027</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Banjara Hills</name>
-    <city>Hyderabad</city>
-    <address>8-2-293/k Kamalapuri Colony Krishna Nagar HYD - 500073</address>
-    <contact>23334029</contact>
-    <micrCode>500142028</micrCode>
-    <ifscCode>APMC0000028</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Attapur</name>
-    <city>Hyderabad</city>
-    <address>3-4-174/7/2 Attapur HYD - 500048</address>
-    <contact>24012057</contact>
-    <micrCode>500142029</micrCode>
-    <ifscCode>APMC0000029</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Champapet</name>
-    <city>Hyderabad</city>
-    <address>17-1-382/v/1/v/4 SAI Nilayam Champapet HYD - 500079</address>
-    <contact>23437120</contact>
-    <micrCode>500142030</micrCode>
-    <ifscCode>APMC0000030</ifscCode>
-    <bankLoc>23148</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Seetaphalmandi</name>
-    <city>Hyderabad</city>
-    <address>11-1-47 48 49 Seethaphalmandi Hyd- 500061</address>
-    <contact>23437129</contact>
-    <micrCode>500142031</micrCode>
-    <ifscCode>APMC0000031</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chintal</name>
-    <city>Hyderabad</city>
-    <address>32-212 OPP Ranga Theater Chintal HYD - 500055</address>
-    <contact>23437168</contact>
-    <micrCode>500142032</micrCode>
-    <ifscCode>APMC0000032</ifscCode>
-    <bankLoc>23143</bankLoc>
-  </bankbranch>
-  <bankbranch>
     <name>A.P. Mahesh Co-operative Urban Bank LTD</name>
-    <city>Hyderabad</city>
-    <address>Municipal NO.5-9-211, Ground Floor Ganapathi Residency, Chirag ALI Lane, Abids, HYDERABAD.500001</address>
-    <contact>234371001</contact>
-    <micrCode>500142033</micrCode>
-    <ifscCode>APMC0000033</ifscCode>
-    <bankLoc>23152</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>A.P. Mahesh Co-operative Urban Bank LTD</name>
-    <city>Hyderabad</city>
-    <address>Plot NO 96 &amp; 97, Survey NO.83, Ground Floor, Venkateshwara Enclave, Jeedimetla Village, Quthbullapur Mandal &amp; Ghmc Circle, R.R.DIST., Kompally, HYDERABAD. 500014.</address>
-    <contact>23437102</contact>
-    <micrCode>500142034</micrCode>
-    <ifscCode>APMC0000034</ifscCode>
-    <bankLoc>23153</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khammam</name>
-    <city>Khammam</city>
-    <address>2-2-49 TO 52 Gandhi Chowk Khammam - 507003</address>
-    <contact>224128</contact>
-    <micrCode>507142002</micrCode>
-    <ifscCode>APMC0000900</ifscCode>
-    <bankLoc>23144</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vijayawada</name>
-    <city>Vijayawada</city>
-    <address>27-37-147 TO 152 Bandar Road Vijayawada 520002</address>
-    <contact>2574654</contact>
-    <micrCode>520142001</micrCode>
-    <ifscCode>APMC0000901</ifscCode>
-    <bankLoc>23145</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Guntur</name>
-    <city>Guntur</city>
-    <address>22-7-33 Lalapet Guntur 522003</address>
-    <contact>2212102</contact>
-    <micrCode>520142102</micrCode>
-    <ifscCode>APMC0000902</ifscCode>
-    <bankLoc>23142</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajamundry</name>
-    <city>Rajamundry</city>
-    <address>8-24-121 OPP I Town Police  Station Rajmundry 533101</address>
-    <contact>2426295</contact>
-    <micrCode>533142102</micrCode>
-    <ifscCode>APMC0000903</ifscCode>
-    <bankLoc>23141</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vizag</name>
-    <city>Vizag</city>
-    <address>30-15-41 Leela Plaza Daba Garden Vizag 530020</address>
-    <contact>2591173</contact>
-    <micrCode>530142002</micrCode>
-    <ifscCode>APMC0000904</ifscCode>
-    <bankLoc>23149</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Warangal</name>
-    <city>Warangal</city>
-    <address>8-3-121 Station Road Warangal 506002</address>
-    <contact>2506758</contact>
-    <micrCode>506142002</micrCode>
-    <ifscCode>APMC0000905</ifscCode>
-    <bankLoc>23150</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jaipur</name>
-    <city>Jaipur</city>
-    <address>Plot  10 MJ Road Jaipur 302001</address>
-    <contact>5107702</contact>
-    <micrCode>302142002</micrCode>
-    <ifscCode>APMC0000906</ifscCode>
-    <bankLoc>23147</bankLoc>
+    <city>Rajasthan</city>
+    <address>Ashok Towers, Shop Number 11, 12, 13, 14&amp;15, Ground Floor, Near Gandhi Marg, Trilok Marg, Gandhi Nagar, Bhilwara, RAJASTHAN.311001</address>
+    <contact>234371003</contact>
+    <micrCode>311142002</micrCode>
+    <ifscCode>APMC0000908</ifscCode>
+    <bankLoc>23756</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai</name>
@@ -366,15 +15,375 @@
     <contact>22412410</contact>
     <micrCode>400240257</micrCode>
     <ifscCode>APMC0000907</ifscCode>
-    <bankLoc>23146</bankLoc>
+    <bankLoc>23751</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur</name>
+    <city>Jaipur</city>
+    <address>Plot  10 MJ Road Jaipur 302001</address>
+    <contact>5107702</contact>
+    <micrCode>302142002</micrCode>
+    <ifscCode>APMC0000906</ifscCode>
+    <bankLoc>23752</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Warangal</name>
+    <city>Warangal</city>
+    <address>8-3-121 Station Road Warangal 506002</address>
+    <contact>2506758</contact>
+    <micrCode>506142002</micrCode>
+    <ifscCode>APMC0000905</ifscCode>
+    <bankLoc>23755</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vizag</name>
+    <city>Vizag</city>
+    <address>30-15-41 Leela Plaza Daba Garden Vizag 530020</address>
+    <contact>2591173</contact>
+    <micrCode>530142002</micrCode>
+    <ifscCode>APMC0000904</ifscCode>
+    <bankLoc>23754</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajamundry</name>
+    <city>Rajamundry</city>
+    <address>8-24-121 OPP I Town Police  Station Rajmundry 533101</address>
+    <contact>2426295</contact>
+    <micrCode>533142102</micrCode>
+    <ifscCode>APMC0000903</ifscCode>
+    <bankLoc>23746</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guntur</name>
+    <city>Guntur</city>
+    <address>22-7-33 Lalapet Guntur 522003</address>
+    <contact>2212102</contact>
+    <micrCode>520142102</micrCode>
+    <ifscCode>APMC0000902</ifscCode>
+    <bankLoc>23747</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijayawada</name>
+    <city>Vijayawada</city>
+    <address>27-37-147 TO 152 Bandar Road Vijayawada 520002</address>
+    <contact>2574654</contact>
+    <micrCode>520142001</micrCode>
+    <ifscCode>APMC0000901</ifscCode>
+    <bankLoc>23750</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khammam</name>
+    <city>Khammam</city>
+    <address>2-2-49 TO 52 Gandhi Chowk Khammam - 507003</address>
+    <contact>224128</contact>
+    <micrCode>507142002</micrCode>
+    <ifscCode>APMC0000900</ifscCode>
+    <bankLoc>23749</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gachibowli</name>
+    <city>Hyderabad</city>
+    <address>SP Square, Survey No-91, Ground Floor, Indranagar, Gachibowli, Hyderabad - 500032</address>
+    <contact>23437171</contact>
+    <micrCode>500142035</micrCode>
+    <ifscCode>APMC0000035</ifscCode>
+    <bankLoc>23757</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>A.P. Mahesh Co-operative Urban Bank LTD</name>
-    <city>Rajasthan</city>
-    <address>Ashok Towers, Shop Number 11, 12, 13, 14&amp;15, Ground Floor, Near Gandhi Marg, Trilok Marg, Gandhi Nagar, Bhilwara, RAJASTHAN.311001</address>
-    <contact>234371003</contact>
-    <micrCode>311142002</micrCode>
-    <ifscCode>APMC0000908</ifscCode>
-    <bankLoc>23151</bankLoc>
+    <city>Hyderabad</city>
+    <address>Plot NO 96 &amp; 97, Survey NO.83, Ground Floor, Venkateshwara Enclave, Jeedimetla Village, Quthbullapur Mandal &amp; Ghmc Circle, R.R.DIST., Kompally, HYDERABAD. 500014.</address>
+    <contact>23437102</contact>
+    <micrCode>500142034</micrCode>
+    <ifscCode>APMC0000034</ifscCode>
+    <bankLoc>23759</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>A.P. Mahesh Co-operative Urban Bank LTD</name>
+    <city>Hyderabad</city>
+    <address>Municipal NO.5-9-211, Ground Floor Ganapathi Residency, Chirag ALI Lane, Abids, HYDERABAD.500001</address>
+    <contact>234371001</contact>
+    <micrCode>500142033</micrCode>
+    <ifscCode>APMC0000033</ifscCode>
+    <bankLoc>23758</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chintal</name>
+    <city>Hyderabad</city>
+    <address>32-212 OPP Ranga Theater Chintal HYD - 500055</address>
+    <contact>23437168</contact>
+    <micrCode>500142032</micrCode>
+    <ifscCode>APMC0000032</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Seetaphalmandi</name>
+    <city>Hyderabad</city>
+    <address>11-1-47 48 49 Seethaphalmandi Hyd- 500061</address>
+    <contact>23437129</contact>
+    <micrCode>500142031</micrCode>
+    <ifscCode>APMC0000031</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Champapet</name>
+    <city>Hyderabad</city>
+    <address>17-1-382/v/1/v/4 SAI Nilayam Champapet HYD - 500079</address>
+    <contact>23437120</contact>
+    <micrCode>500142030</micrCode>
+    <ifscCode>APMC0000030</ifscCode>
+    <bankLoc>23753</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Attapur</name>
+    <city>Hyderabad</city>
+    <address>3-4-174/7/2 Attapur HYD - 500048</address>
+    <contact>24012057</contact>
+    <micrCode>500142029</micrCode>
+    <ifscCode>APMC0000029</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Banjara Hills</name>
+    <city>Hyderabad</city>
+    <address>8-2-293/k Kamalapuri Colony Krishna Nagar HYD - 500073</address>
+    <contact>23334029</contact>
+    <micrCode>500142028</micrCode>
+    <ifscCode>APMC0000028</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Motinagar</name>
+    <city>Hyderabad</city>
+    <address>Door 13-1-116/116/a Kukatpally Circle Motinagar HYD -500018</address>
+    <contact>23431816</contact>
+    <micrCode>500142027</micrCode>
+    <ifscCode>APMC0000027</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karkhana</name>
+    <city>Hyderabad</city>
+    <address>Plot 12 OPP  Releiance Fresh Karkhana SEC -500009</address>
+    <contact>23437126</contact>
+    <micrCode>500142026</micrCode>
+    <ifscCode>APMC0000026</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vanastalipuram</name>
+    <city>Hyderabad</city>
+    <address>6-2-690 LB Nagar Circle  Vanastalipuram  HYD - 500070</address>
+    <contact>23437124</contact>
+    <micrCode>500142025</micrCode>
+    <ifscCode>APMC0000025</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>AS ROA Nagar</name>
+    <city>Hyderabad</city>
+    <address>1-15-1/3 Beside Water Tank  AS RAO Nagar HYD -500062</address>
+    <contact>23437104</contact>
+    <micrCode>500142024</micrCode>
+    <ifscCode>APMC0000024</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tarnaka</name>
+    <city>Hyderabad</city>
+    <address>Plot 1/D Street 3 Habsiguda Tarnaka Hyd-500007</address>
+    <contact>23437152</contact>
+    <micrCode>500142023</micrCode>
+    <ifscCode>APMC0000023</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>West Maredpally</name>
+    <city>Hyderabad</city>
+    <address>10-1-624 Shenoy Nursing Home Wmardpally Sec- 500026</address>
+    <contact>23437162</contact>
+    <micrCode>500142022</micrCode>
+    <ifscCode>APMC0000022</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kukatpally</name>
+    <city>Hyderabad</city>
+    <address>22-276/1 &amp;2 Bhagyanagar Coop Housing Society Kukatpally 500072</address>
+    <contact>23061578</contact>
+    <micrCode>500142021</micrCode>
+    <ifscCode>APMC0000021</ifscCode>
+    <bankLoc>23753</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>RTC Cross Roads</name>
+    <city>Hyderabad</city>
+    <address>1-8-518/19/a Chikkad Pally HYD -500020</address>
+    <contact>23437138</contact>
+    <micrCode>500142020</micrCode>
+    <ifscCode>APMC0000020</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malakajgiri</name>
+    <city>Hyderabad</city>
+    <address>5-32-3 OPP Municipal OFF  Malkajgiri HYD - 5000036</address>
+    <contact>27050754</contact>
+    <micrCode>500142019</micrCode>
+    <ifscCode>APMC0000019</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ameerpet</name>
+    <city>Hyderabad</city>
+    <address>6-3-850/1 Ameerpet Sirisha Plaza Hyd-500016</address>
+    <contact>23431811</contact>
+    <micrCode>500142018</micrCode>
+    <ifscCode>APMC0000018</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Charminar</name>
+    <city>Hyderabad</city>
+    <address>III Floor Rikab Gunj Charminar Hyd-500002</address>
+    <contact>23437132</contact>
+    <micrCode>500142017</micrCode>
+    <ifscCode>APMC0000017</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mehdipatnam</name>
+    <city>Hyderabad</city>
+    <address>12-2-831/86 Mehdipatnam Colony HYD - 500028</address>
+    <contact>23431803</contact>
+    <micrCode>500142016</micrCode>
+    <ifscCode>APMC0000016</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malakpet</name>
+    <city>Hyderabad</city>
+    <address>Plot  102 SRI Krupa Market  Mahaboob Mansion Malakpet -500036</address>
+    <contact>23437135</contact>
+    <micrCode>500142015</micrCode>
+    <ifscCode>APMC0000015</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dilsukhnagar</name>
+    <city>Hyderabad</city>
+    <address>18-97/1 Rajinigandha Appt Chaitanyapuri Dsnr  - 60</address>
+    <contact>23437133</contact>
+    <micrCode>500142014</micrCode>
+    <ifscCode>APMC0000014</ifscCode>
+    <bankLoc>23753</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Monda Market</name>
+    <city>Hyderabad</city>
+    <address>7-1-753 Monda Market Hyderabad -500003</address>
+    <contact>23437136</contact>
+    <micrCode>500142013</micrCode>
+    <ifscCode>APMC0000013</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ramanthapur</name>
+    <city>Hyderabad</city>
+    <address>Plot 3 Ramanthapur Hyderabad - 500013</address>
+    <contact>23437137</contact>
+    <micrCode>500142012</micrCode>
+    <ifscCode>APMC0000012</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Siddiamber Bazar</name>
+    <city>Hyderabad</city>
+    <address>15-9-363 TO 367 Siddiamber Bazar Hyd-500012</address>
+    <contact>23437150</contact>
+    <micrCode>500142011</micrCode>
+    <ifscCode>APMC0000011</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kachiguda</name>
+    <city>Hyderabad</city>
+    <address>3-4-4 Kachiguda Station Road HYD -500027</address>
+    <contact>23437144</contact>
+    <micrCode>500142010</micrCode>
+    <ifscCode>APMC0000010</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Serilingampally</name>
+    <city>Hyderabad</city>
+    <address>50-20-1&amp;2 Main Road Serilingampally HYD -500138</address>
+    <contact>23437130</contact>
+    <micrCode>500142009</micrCode>
+    <ifscCode>APMC0000009</ifscCode>
+    <bankLoc>23753</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Himayatnagar</name>
+    <city>Hyderabad</city>
+    <address>3-6-276/2 OLD MLA Quarters Hngr HYD - 500029</address>
+    <contact>23431804</contact>
+    <micrCode>500142008</micrCode>
+    <ifscCode>APMC0000008</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>MG Road</name>
+    <city>Hyderabad</city>
+    <address>2-2-57/19  MG Road Secunderabad -500003</address>
+    <contact>23437139</contact>
+    <micrCode>500142007</micrCode>
+    <ifscCode>APMC0000007</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sultan Bazar</name>
+    <city>Hyderabad</city>
+    <address>4-3-339 Bank Street Sultan Bazar Hyd-500095</address>
+    <contact>23437151</contact>
+    <micrCode>500142006</micrCode>
+    <ifscCode>APMC0000006</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shamsheer Gunj</name>
+    <city>Hyderabad</city>
+    <address>18-4-568 Main Road Shamsheer Gunj HYD - 253</address>
+    <contact>23437110</contact>
+    <micrCode>500142005</micrCode>
+    <ifscCode>APMC0000005</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khairtabad</name>
+    <city>Hyderabad</city>
+    <address>6-1-1060 Hafez Complex Saifabad HYD - 500004</address>
+    <contact>23431801</contact>
+    <micrCode>500142004</micrCode>
+    <ifscCode>APMC0000004</ifscCode>
+    <bankLoc>23748</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Balanagar</name>
+    <city>Hyderabad</city>
+    <address>3-66, Shobhana Complex Balanagar HYD -37</address>
+    <contact>23770307</contact>
+    <micrCode>500142003</micrCode>
+    <ifscCode>APMC0000003</ifscCode>
+    <bankLoc>23753</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Begum Bazar</name>
+    <city>Hyderabad</city>
+    <address>15-7-241/1, Yadav Towers Begum Bazar HYD 500012</address>
+    <contact>23437131</contact>
+    <micrCode>500142002</micrCode>
+    <ifscCode>APMC0000002</ifscCode>
+    <bankLoc>23748</bankLoc>
   </bankbranch>
 </bankBranchs>

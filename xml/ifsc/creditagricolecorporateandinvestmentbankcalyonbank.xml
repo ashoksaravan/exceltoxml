@@ -1,30 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>NEW Delhi</name>
-    <city>NEW Delhi</city>
-    <address>Birla Tower, 6TH Floor, Barakhamba Road</address>
-    <contact>66251000</contact>
-    <micrCode>110240252</micrCode>
-    <ifscCode>CRLY0000002</ifscCode>
-    <bankLoc>8601</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai</name>
-    <city>Chennai</city>
-    <address>Westminster Building, 2 Flr, DR Radhakrsn Salai</address>
-    <contact>66351000</contact>
-    <micrCode>600151001</micrCode>
-    <ifscCode>CRLY0000004</ifscCode>
-    <bankLoc>8605</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bangalore</name>
-    <city>Bangalore</city>
-    <address>106 Prestige Towers, Cariappa Road</address>
-    <contact>67221010</contact>
-    <micrCode>560151002</micrCode>
-    <ifscCode>CRLY0000005</ifscCode>
-    <bankLoc>8602</bankLoc>
+    <name>Mumbai</name>
+    <city>Mumbai</city>
+    <address>Hoechst House 11th Floor, Nariman Point</address>
+    <contact>67371000</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>CRLY0000010</ifscCode>
+    <bankLoc>8624</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
@@ -33,15 +15,33 @@
     <contact>66141800</contact>
     <micrCode>411240252</micrCode>
     <ifscCode>CRLY0000006</ifscCode>
-    <bankLoc>8604</bankLoc>
+    <bankLoc>8625</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbai</name>
-    <city>Mumbai</city>
-    <address>Hoechst House 11th Floor, Nariman Point</address>
-    <contact>67371000</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>CRLY0000010</ifscCode>
-    <bankLoc>8603</bankLoc>
+    <name>Bangalore</name>
+    <city>Bangalore</city>
+    <address>106 Prestige Towers, Cariappa Road</address>
+    <contact>67221010</contact>
+    <micrCode>560151002</micrCode>
+    <ifscCode>CRLY0000005</ifscCode>
+    <bankLoc>8623</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai</name>
+    <city>Chennai</city>
+    <address>Westminster Building, 2 Flr, DR Radhakrsn Salai</address>
+    <contact>66351000</contact>
+    <micrCode>600151001</micrCode>
+    <ifscCode>CRLY0000004</ifscCode>
+    <bankLoc>8626</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Delhi</name>
+    <city>NEW Delhi</city>
+    <address>Birla Tower, 6TH Floor, Barakhamba Road</address>
+    <contact>66251000</contact>
+    <micrCode>110240252</micrCode>
+    <ifscCode>CRLY0000002</ifscCode>
+    <bankLoc>8622</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -1,182 +1,551 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Mumbai</city>
-    <address>Apna Bank Bhavan, DR.S.SRAO Road, Parel, Mumbai 400012.</address>
-    <contact>24110149</contact>
-    <micrCode>400098001</micrCode>
-    <ifscCode>ASBL0000001</ifscCode>
-    <bankLoc>1081</bankLoc>
+    <name>Satara</name>
+    <city>Satara</city>
+    <address>Servey NO 287/1 TO 7/6, Plot NO 3 Shop NO. 4/5/6/7 8 AND 9 Adarsh Corner Radhika RD Karanje Satara 415001</address>
+    <contact>0</contact>
+    <micrCode>415098002</micrCode>
+    <ifscCode>ASBL0000082</ifscCode>
+    <bankLoc>1094</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Administration Office</name>
-    <city>Mumbai</city>
-    <address>Apna Bank Bhavan, DR.S.SRAO Road, Parel, Mumbai 400012.</address>
-    <contact>24174860</contact>
-    <micrCode>400098002</micrCode>
-    <ifscCode>ASBL0000002</ifscCode>
-    <bankLoc>1081</bankLoc>
+    <name>Karad</name>
+    <city>Karad</city>
+    <address>36 A/1 Ekopa Buliding, Magalawar Peth, Karad DIST. Satara 415110</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000081</ifscCode>
+    <bankLoc>1094</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Naigaon</name>
-    <city>Mumbai</city>
-    <address>Apna Bazar, 1ST Floor, Govindji Keny Road, Naigaon, Mumbai 400014</address>
-    <contact>24127875</contact>
-    <micrCode>400098003</micrCode>
-    <ifscCode>ASBL0000003</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lower Parel</name>
-    <city>Mumbai</city>
-    <address>Matulya Centre, JN.OF G.K.MARG &amp; J Phatankar Marg, Mumbai 400013</address>
-    <contact>24947332</contact>
-    <micrCode>400098004</micrCode>
-    <ifscCode>ASBL0000004</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>DR Ambedkar Road</name>
-    <city>Mumbai</city>
-    <address>Dhanu BLDG., DR Ambedkar Road, Parel, Mumbai 400012</address>
-    <contact>24130752</contact>
-    <micrCode>400098005</micrCode>
-    <ifscCode>ASBL0000005</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dadasaheb Sarfare Chowk</name>
-    <city>Mumbai</city>
-    <address>A-4/5, Rayol Industrial Estate, Wadala, Mumbai 400031</address>
-    <contact>24148481</contact>
-    <micrCode>400098006</micrCode>
-    <ifscCode>ASBL0000006</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Andheri</name>
-    <city>Mumbai</city>
-    <address>1ST Floor, Apna Bazar, J.P.ROAD, Andheri (W), Mumbai 400058</address>
-    <contact>26744861</contact>
-    <micrCode>400098007</micrCode>
-    <ifscCode>ASBL0000007</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Malad (W)</name>
-    <city>Mumbai</city>
-    <address>Shyam Sadam, Mith Chowki, Marve Link Road, Malad (W), Mumbai 400064</address>
-    <contact>28820732</contact>
-    <micrCode>400098008</micrCode>
-    <ifscCode>ASBL0000008</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dindoshi</name>
-    <city>Mumbai</city>
-    <address>Gaurav, Gokuldham, Gen, Arunkumar Vaidya Marg, Goregaon (E), Mumbai 400063</address>
-    <contact>28400446</contact>
-    <micrCode>400098009</micrCode>
-    <ifscCode>ASBL0000009</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Powai</name>
-    <city>Mumbai</city>
-    <address>Daffodil, 1ST Floor, Hiranandani Garden, Powai, Mumbai 400076</address>
-    <contact>25703097</contact>
-    <micrCode>400098010</micrCode>
-    <ifscCode>ASBL0000010</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kurla</name>
-    <city>Mumbai</city>
-    <address>Shatrunjay Complex, Tanaji Chowk, Kurla (W), Mumbai 400070</address>
-    <contact>26501515</contact>
-    <micrCode>400098011</micrCode>
-    <ifscCode>ASBL0000011</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Charkop</name>
-    <city>Mumbai</city>
-    <address>Sector-5, Apna Bazar BLDG., DR. Ambedkar Road, Charkop, Kandivali (W), Mumbai 400067</address>
-    <contact>28688666</contact>
-    <micrCode>400098012</micrCode>
-    <ifscCode>ASBL0000012</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhandup</name>
-    <city>Mumbai</city>
-    <address>Shiv Sagar Complex, Ashok Kadare Chowk, Tembhi Pada Road, Bhandup (W), Mumbai 400078</address>
-    <contact>25942423</contact>
-    <micrCode>400098013</micrCode>
-    <ifscCode>ASBL0000013</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Borivli</name>
-    <city>Mumbai</city>
-    <address>Indraprastha Chs, Datta Pada, Borivli (E), Mumbai 400066</address>
-    <contact>28706127</contact>
-    <micrCode>400098014</micrCode>
-    <ifscCode>ASBL0000014</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Parel Main</name>
-    <city>Mumbai</city>
-    <address>Apna Bank Bhavan, DR.S.SRAO Road, Parel, Mumbai 400012.</address>
-    <contact>24172155</contact>
-    <micrCode>400098015</micrCode>
-    <ifscCode>ASBL0000015</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vashi</name>
-    <city>Mumbai</city>
-    <address>Central Facility BLDG., NO.II, Plot NO.13, Sector NO.19, Apmc Market, Vashi, Navi Mumbai 400709</address>
-    <contact>27897882</contact>
-    <micrCode>400098016</micrCode>
-    <ifscCode>ASBL0000016</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Malad (E)</name>
-    <city>Mumbai</city>
-    <address>Deora Compound, Rani Sati Marg, Malad (E), Mumbai 400097</address>
-    <contact>28784411</contact>
-    <micrCode>400098017</micrCode>
-    <ifscCode>ASBL0000017</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vasai (E)</name>
-    <city>Vasai</city>
-    <address>Vasant BLDG., Agrawal Naka, Sativali Road, Vasai (E), DIST.-THANE 401208</address>
-    <contact>2454647</contact>
-    <micrCode>400098018</micrCode>
-    <ifscCode>ASBL0000018</ifscCode>
+    <name>Islampur</name>
+    <city>Islampur</city>
+    <address>Ground Floor, Shakutala Niwas Kacheri Road, Islampur Dist Sangli 415409</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000080</ifscCode>
     <bankLoc>1093</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatkopar</name>
+    <name>Khed</name>
+    <city>Khed</city>
+    <address>Shop NO 6, 7,14 AND 15, Groung Floor, Mukadam Landmark, Bulding NO 1, Survey NO 22 A1, Hissa NO 2a/1/2 Kked Ratnagiri 415709</address>
+    <contact>0</contact>
+    <micrCode>98000</micrCode>
+    <ifscCode>ASBL0000079</ifscCode>
+    <bankLoc>1092</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ratnagiri</name>
+    <city>Ratnagiri</city>
+    <address>Navakr Plaza, 1 ST Floor, A Wing, Shop NO 14, 115, 116 Ratnagiri Kolhapur Highway, Maruti Mandir Circle Ratnagiri 415 612</address>
+    <contact>0</contact>
+    <micrCode>415098051</micrCode>
+    <ifscCode>ASBL0000078</ifscCode>
+    <bankLoc>1092</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Margaon</name>
+    <city>Margaon</city>
+    <address>Shop NO 1, 2 AND 3 Ground Floor, Laxmi Building NEW Market Margaon GOA 403601</address>
+    <contact>0</contact>
+    <micrCode>403098003</micrCode>
+    <ifscCode>ASBL0000077</ifscCode>
+    <bankLoc>1080</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Erandwane Pune</name>
+    <city>Pune</city>
+    <address>Shop NO 4 Klapna Tarang, 42/9 Maharshi Karve RD. Erandwane Pune 411004</address>
+    <contact>0</contact>
+    <micrCode>411098003</micrCode>
+    <ifscCode>ASBL0000076</ifscCode>
+    <bankLoc>1090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shilphata</name>
+    <city>Shilphata</city>
+    <address>1/8, House NO 17 Choudhari House, Katai Kalyan Shilphata Road, DIST. Thane</address>
+    <contact>0</contact>
+    <micrCode>400098056</micrCode>
+    <ifscCode>ASBL0000075</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karjat</name>
+    <city>Karjat</city>
+    <address>GR. Floor AND First Floor, Karjat Muncipal Council Administration Building, CTS NO 8A, Mouje Karjat Dist Raigad 410201</address>
+    <contact>0</contact>
+    <micrCode>400098074</micrCode>
+    <ifscCode>ASBL0000074</ifscCode>
+    <bankLoc>1091</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ulwe</name>
+    <city>Ulwe</city>
+    <address>Shop NO 10, 11, 12 OM SAI Shrushti Building Plot NO 31 Sector 17 Ulwe Navi Mumbai 410206</address>
+    <contact>0</contact>
+    <micrCode>400098054</micrCode>
+    <ifscCode>ASBL0000073</ifscCode>
+    <bankLoc>1088</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vangani</name>
+    <city>Vangani</city>
+    <address>Plot NO 2 Survey NO 17b, GUTNO. 126, Station Road, Vangni East Dist Thane 421503</address>
+    <contact>0</contact>
+    <micrCode>400098053</micrCode>
+    <ifscCode>ASBL0000072</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nerul Navi Mumbai</name>
+    <city>NEW Mumbai</city>
+    <address>Shop NO 11 AND 12, F-2, Ashirwad Apartment Sector NO 3 Nerul East Navi Mumbai 400706</address>
+    <contact>0</contact>
+    <micrCode>400098052</micrCode>
+    <ifscCode>ASBL0000071</ifscCode>
+    <bankLoc>1088</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nallasopara</name>
+    <city>Nallasopara</city>
+    <address>Shop NO 11 TO 16 Tujeshwari Hill Survey NO 40 Ambavadi Rambhau Nager Tulinj Nallasopara East Dist Palghar</address>
+    <contact>0</contact>
+    <micrCode>400098051</micrCode>
+    <ifscCode>ASBL0000070</ifscCode>
+    <bankLoc>1089</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bandra</name>
+    <city>Greater Mumbai</city>
+    <address>Shop NO 1, 2 AND 3 Monarch, Gandhi Nager Varsha CHS Ltd, Gnadhi Nager Bandra East Mumbai 400051</address>
+    <contact>0</contact>
+    <micrCode>400098050</micrCode>
+    <ifscCode>ASBL0000069</ifscCode>
+    <bankLoc>1082</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalackowki</name>
     <city>Mumbai</city>
-    <address>Shivaji Shikshan Sanstha, NEW BLDG., GR. Floor, DR.ANKUSH Gawde Marg, Pant Nagar, Ghatkopar (E), Mumbai 400077</address>
-    <contact>25010138</contact>
-    <micrCode>400098019</micrCode>
-    <ifscCode>ASBL0000019</ifscCode>
+    <address>C.S. NP 770, Groung Floor, Jaihind Cinema DR. Ambedakr RD., Kalackowki Mumbai 400033</address>
+    <contact>0</contact>
+    <micrCode>400098049</micrCode>
+    <ifscCode>ASBL0000068</ifscCode>
+    <bankLoc>1083</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ulhasnager</name>
+    <city>Ulhasnager</city>
+    <address>Shop NO 1/2/3, GR. FLOOR., Prem Yesh, BRK NO 802/1 Link Road Ulhasnager</address>
+    <contact>0</contact>
+    <micrCode>400098048</micrCode>
+    <ifscCode>ASBL0000067</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Airoli</name>
+    <city>Navi Mumbai</city>
+    <address>Shop NO 1 AND 2, Ridhi Sidhi Height Chs, Sector 19 Airoli Navi Mumbai</address>
+    <contact>0</contact>
+    <micrCode>400098047</micrCode>
+    <ifscCode>ASBL0000066</ifscCode>
+    <bankLoc>1088</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koperkhairane</name>
+    <city>Navi Mumbai</city>
+    <address>Shop NO 1 TO 4, Shree Sidhivinayak Tower, Sector 5 Koerkhairane Navi Mumbai</address>
+    <contact>0</contact>
+    <micrCode>400098046</micrCode>
+    <ifscCode>ASBL0000065</ifscCode>
+    <bankLoc>1088</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghatkoper West</name>
+    <city>Mumbai</city>
+    <address>Shop NO 1/2/3/4, Samarpan Chs, Narsi Mehta Marg, Ghatkoper West</address>
+    <contact>0</contact>
+    <micrCode>400098045</micrCode>
+    <ifscCode>ASBL0000064</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mulund West</name>
+    <city>Mumbai</city>
+    <address>Shop NO 2 To4, GR. Floor, Bhagyashree APT., Ganesh Gawade RD JN., Mulund West</address>
+    <contact>0</contact>
+    <micrCode>400098044</micrCode>
+    <ifscCode>ASBL0000063</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chembur</name>
+    <city>Mumbai</city>
+    <address>Shop NO E4/5/6, Mary Land APT. Chs, Sandu Wadi Chembur</address>
+    <contact>0</contact>
+    <micrCode>400098043</micrCode>
+    <ifscCode>ASBL0000062</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Goragoan West</name>
+    <city>Mumbai</city>
+    <address>Plto No1, First Floor, Ganesh Niwas, M.G. Road Goregaon West</address>
+    <contact>0</contact>
+    <micrCode>400098042</micrCode>
+    <ifscCode>ASBL0000061</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kharghar</name>
+    <city>Navi Mumbai</city>
+    <address>Shop NO 25/26/27, Rahul Apartment, Plot NO E, 125, Sector 12, Kharghar, Navi Mumbai 410210.</address>
+    <contact>0</contact>
+    <micrCode>400098041</micrCode>
+    <ifscCode>ASBL0000060</ifscCode>
+    <bankLoc>1088</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghodbandar RD</name>
+    <city>Thane</city>
+    <address>Shop NO 5 &amp; 6, Shree MAA Trust, Ground Floor, S N 146, Patlipada, Ghodbandar Road, Hiranandani Estate, Thane 400607.</address>
+    <contact>0</contact>
+    <micrCode>400098040</micrCode>
+    <ifscCode>ASBL0000059</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Diva East</name>
+    <city>Thane</city>
+    <address>Shop NO 4 &amp; 5, Ground Floor, Dhanraj Residency, Dhanraj Nagar, Diva East, Thane 400612.</address>
+    <contact>0</contact>
+    <micrCode>400098039</micrCode>
+    <ifscCode>ASBL0000058</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Virar  East</name>
+    <city>Thane</city>
+    <address>Vidyasadan, Ground &amp; First Floor, Manvelpada Road Virar East, Dist Thane 401303.</address>
+    <contact>0</contact>
+    <micrCode>400098038</micrCode>
+    <ifscCode>ASBL0000057</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dahisar East</name>
+    <city>Mumbai</city>
+    <address>Shop NO 1 AND 11, Nandanvan Chs, Serve NO 242, Share NO 1A AND 3, S V Road, Dahisar East, Mumbai 4000068</address>
+    <contact>0</contact>
+    <micrCode>400098037</micrCode>
+    <ifscCode>ASBL0000056</ifscCode>
+    <bankLoc>1086</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Uran</name>
+    <city>Uran</city>
+    <address>Shree Krupa CHS Ltd, GRD Floor, Uran Kamitha Road, Near Vimal Talav, Uran, DIST. Raigad 400702</address>
+    <contact>24164860</contact>
+    <micrCode>400098036</micrCode>
+    <ifscCode>ASBL0000055</ifscCode>
+    <bankLoc>1091</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mapusa</name>
+    <city>Mapusa</city>
+    <address>Kandalkal Building, Angod, Near Jama Masjid, Chalta NO 129 OF P T Sheet NO 147, Mapusa, GOA 403507</address>
+    <contact>2255345</contact>
+    <micrCode>403098002</micrCode>
+    <ifscCode>ASBL0000054</ifscCode>
     <bankLoc>1081</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Thane</name>
-    <city>Thane</city>
-    <address>Everest Samrudhi, Bhaskar Colony, Mahatma Gandhi Riad, OPP. Times IF India, Navpada, Thane (W), 400706</address>
-    <contact>25406161</contact>
-    <micrCode>400098020</micrCode>
-    <ifscCode>ASBL0000020</ifscCode>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>47/1, B. O. Bhavan, Ground Floor, Pune Satara Road, Pune 411037</address>
+    <contact>24226300</contact>
+    <micrCode>411098002</micrCode>
+    <ifscCode>ASBL0000053</ifscCode>
+    <bankLoc>1090</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhayander</name>
+    <city>Bhayander</city>
+    <address>Ritu Horizon, Ground Floor, Commercial Wing, 100 Wide, Kanakia Road, Near Ankur Building, Bhayander Kashimira Cross Road, Bhayander East, Dist Thane 401107</address>
+    <contact>28110020</contact>
+    <micrCode>400098035</micrCode>
+    <ifscCode>ASBL0000052</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ambernath</name>
+    <city>Ambernath</city>
+    <address>Mandar Apartments, Shop NO.1 &amp; 2, Ground Loor, Near Shiv Sena Office, Vadavli Section, Ambernath East, Dist Thane 421501</address>
+    <contact>32600018</contact>
+    <micrCode>400098034</micrCode>
+    <ifscCode>ASBL0000051</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Badlapur</name>
+    <city>Badlapur</city>
+    <address>Shop NO.1 TO 6, Ground Floor, Saraswati C.H.S, OPP Kalyanvastu Hall, Near Atithi Hotel, Kulgaon, Badlapur East, Dist Thane 421503</address>
+    <contact>2695222</contact>
+    <micrCode>400098033</micrCode>
+    <ifscCode>ASBL0000050</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalyan</name>
+    <city>Kalyan</city>
+    <address>Vedmantra Apartments, Ground Floor, Ghodekhat Lane, Agra Cross Road, Kalyan West, Dist Thane 421301</address>
+    <contact>2026077</contact>
+    <micrCode>400098032</micrCode>
+    <ifscCode>ASBL0000049</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Taloja</name>
+    <city>Taloja</city>
+    <address>House NO.362, AT &amp; Post Nawda Phata, Near Taloja Midc Bridge, Mumbai-pune-road, Taloja, Navi Mumbai 410206</address>
+    <contact>27412811</contact>
+    <micrCode>400098031</micrCode>
+    <ifscCode>ASBL0000048</ifscCode>
+    <bankLoc>1091</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satpur-nashik</name>
+    <city>Nashik</city>
+    <address>Shop NO.2-5, Rahul Prasad Chs, ABB Circle CORNER. OPP. Hotal Emerald Park, Mahatma Nagar, Satpur, Nashik 422007</address>
+    <contact>2360029</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000047</ifscCode>
+    <bankLoc>1087</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamothe</name>
+    <city>Kamothe</city>
+    <address>Shop NO 4, 5,6,pratapgadh Chs, Plot NO.37, Sector NO.34 Mansarovar, Kamothe, Navi Mumbai 410209</address>
+    <contact>27480627</contact>
+    <micrCode>400098030</micrCode>
+    <ifscCode>ASBL0000046</ifscCode>
+    <bankLoc>1091</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kankavli</name>
+    <city>Kankavli</city>
+    <address>Shop NO.A5, GR.FLOOR, Bandal Complex, OPP. Prant Office, Mumbai-goa Highway, Kankavli, DIST. Sindhurga</address>
+    <contact>231981</contact>
+    <micrCode>416098326</micrCode>
+    <ifscCode>ASBL0000045</ifscCode>
+    <bankLoc>1095</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhiwandi</name>
+    <city>Bhiwandi</city>
+    <address>223, Durga Krupa, Teli Pada, Agra Road, Dhamankar Naka, Bhiwandi, Dist-thane 421302</address>
+    <contact>254411</contact>
+    <micrCode>400098029</micrCode>
+    <ifscCode>ASBL0000044</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dadar (W)</name>
+    <city>Mumbai</city>
+    <address>Madhukala Chs, R.K.VAIDYA Marg, Dadar (W) Mumbai 400028</address>
+    <contact>24328337</contact>
+    <micrCode>400098028</micrCode>
+    <ifscCode>ASBL0000043</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jogeshwari</name>
+    <city>Mumbai</city>
+    <address>Rjmds&apos;s INST. Mumbai, BAL Vikas Vidyamandir School, Ratnasindhu, Meghwadi, Jogeshwari (E), Mumbai 400060</address>
+    <contact>28302700</contact>
+    <micrCode>400098027</micrCode>
+    <ifscCode>ASBL0000042</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gargoti</name>
+    <city>Gargoti</city>
+    <address>S.S.NO.1277, Vani Galli, Gargoti, TAL.BHUDARGAD, Kolhapur 416209</address>
+    <contact>221476</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000041</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gadhinglaj</name>
+    <city>Gadhinglaj</city>
+    <address>Makandar Complex, Main Road, Gadhinglaj, Kolhapur 416052</address>
+    <contact>224340</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000040</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bambavade</name>
+    <city>Bambavade</city>
+    <address>Bauchkar BLDG., AT Post-bambavade, TAL.-SHAHUWADI, Kolhapur 416213</address>
+    <contact>234484</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000039</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Laxmipuri</name>
+    <city>Kolhapur</city>
+    <address>883 K, C Ward, Near Uma, Laxmipuri, Kolhapur 416004</address>
+    <contact>2640658</contact>
+    <micrCode>416098003</micrCode>
+    <ifscCode>ASBL0000038</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajarampuri</name>
+    <city>Kolhapur</city>
+    <address>C.S.NO.1382, E Ward, Shivaji Vidyapithroad, Rajarapuri, Kolhapur 416008</address>
+    <contact>2521078</contact>
+    <micrCode>416098008</micrCode>
+    <ifscCode>ASBL0000037</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kshirsagar</name>
+    <city>Kolhapur</city>
+    <address>2053/a-1, C Ward, Minch Complex, Kolhapur 416002</address>
+    <contact>2542221</contact>
+    <micrCode>416098007</micrCode>
+    <ifscCode>ASBL0000036</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sadar Bazar</name>
+    <city>Kolhapur</city>
+    <address>C.S.NO.233, Plot NO.12/13, Flat NO.7/8, E Ward, Sadar Bazar, Kolhapur 416002</address>
+    <contact>2650058</contact>
+    <micrCode>416098066</micrCode>
+    <ifscCode>ASBL0000035</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Phule Wadi</name>
+    <city>Kolhapur</city>
+    <address>Plot NO.359, Mahatma Phule HSG.SOC., Phulewadi, Kolhapur 416010</address>
+    <contact>2631717</contact>
+    <micrCode>416098005</micrCode>
+    <ifscCode>ASBL0000034</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Timber Market</name>
+    <city>Kolhapur</city>
+    <address>712/1/2b, A Ward, Kalamba Road, Kolhapur 416012</address>
+    <contact>2627658</contact>
+    <micrCode>416098004</micrCode>
+    <ifscCode>ASBL0000033</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shivaji Peth</name>
+    <city>Kolhapur</city>
+    <address>2402/2, A Ward, Ubha Maruti Chowk, Shivaji Peth, Kolhapur 416012</address>
+    <contact>2622958</contact>
+    <micrCode>416098009</micrCode>
+    <ifscCode>ASBL0000032</ifscCode>
+    <bankLoc>1085</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dombivli (E)</name>
+    <city>Dombivli</city>
+    <address>Shri Sneha BLDG., GR. Floor, Shiv Mandir Road, Dombivli (E), DIST.-THANE</address>
+    <contact>2861251</contact>
+    <micrCode>400098026</micrCode>
+    <ifscCode>ASBL0000031</ifscCode>
+    <bankLoc>1096</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vikhroli (E)</name>
+    <city>Mumbai</city>
+    <address>Vikhroli Vidyalaya, Tagore Nagar, Group NO.3, Vikhroli (E), Mumbai</address>
+    <contact>25747011</contact>
+    <micrCode>400098025</micrCode>
+    <ifscCode>ASBL0000030</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Devrukh</name>
+    <city>Devrukh</city>
+    <address>Audhut Krupa, Near S.T. Stand, Bazar Peth, Devrukh, TAL.-SANGMESHWAR, DIST.-RATNAGIRI 415804</address>
+    <contact>240300</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000029</ifscCode>
+    <bankLoc>1092</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mulund (E)</name>
+    <city>Mumbai</city>
+    <address>Shiv Sidhi APT., Plot NO.6/A, G.V.SCHEME Road, Road NO.1, Mulund (E) Mumbai 400081</address>
+    <contact>21638661</contact>
+    <micrCode>400098024</micrCode>
+    <ifscCode>ASBL0000028</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pratiksha Nagar</name>
+    <city>Mumbai</city>
+    <address>M 2 Chs, D Wing, Gala NO.1 TO 6, Pratiksha Nagar, Sion, Mumbai 400022</address>
+    <contact>24028000</contact>
+    <micrCode>400098023</micrCode>
+    <ifscCode>ASBL0000027</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dharavi</name>
+    <city>Mumbai</city>
+    <address>1ST Floor, Kamraj Chs, 90 Feet Road, Dharavi, Mumbai 400017</address>
+    <contact>24091410</contact>
+    <micrCode>400098022</micrCode>
+    <ifscCode>ASBL0000026</ifscCode>
+    <bankLoc>1084</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Miraj</name>
+    <city>Miraj</city>
+    <address>Bhramanpuri, Patwardhan Hall, Miraj, DIST.-SANGLI 416313</address>
+    <contact>2223089</contact>
+    <micrCode>416098152</micrCode>
+    <ifscCode>ASBL0000025</ifscCode>
+    <bankLoc>1093</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Peth Bhag, Sangli</name>
+    <city>Sangli</city>
+    <address>Shrishaliya APT., Harbat Road, OPP.ARWADE Highschool, Peth Bhag, Sangli 416416</address>
+    <contact>2322489</contact>
+    <micrCode>416098151</micrCode>
+    <ifscCode>ASBL0000024</ifscCode>
+    <bankLoc>1093</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Walwa</name>
+    <city>Walwa</city>
+    <address>TAL.-WALWA, Dist-sangli-416410</address>
+    <contact>267525</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000023</ifscCode>
+    <bankLoc>1093</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ashta</name>
+    <city>Ashta</city>
+    <address>Bhawki Road, AT Post Ashta, DIST.-SANGLI-416301</address>
+    <contact>243926</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ASBL0000022</ifscCode>
     <bankLoc>1093</bankLoc>
   </bankbranch>
   <bankbranch>
@@ -186,555 +555,186 @@
     <contact>27483366</contact>
     <micrCode>400098021</micrCode>
     <ifscCode>ASBL0000021</ifscCode>
-    <bankLoc>1088</bankLoc>
+    <bankLoc>1091</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ashta</name>
-    <city>Ashta</city>
-    <address>Bhawki Road, AT Post Ashta, DIST.-SANGLI-416301</address>
-    <contact>243926</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000022</ifscCode>
-    <bankLoc>1090</bankLoc>
+    <name>Thane</name>
+    <city>Thane</city>
+    <address>Everest Samrudhi, Bhaskar Colony, Mahatma Gandhi Riad, OPP. Times IF India, Navpada, Thane (W), 400706</address>
+    <contact>25406161</contact>
+    <micrCode>400098020</micrCode>
+    <ifscCode>ASBL0000020</ifscCode>
+    <bankLoc>1096</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Walwa</name>
-    <city>Walwa</city>
-    <address>TAL.-WALWA, Dist-sangli-416410</address>
-    <contact>267525</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000023</ifscCode>
-    <bankLoc>1090</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Peth Bhag, Sangli</name>
-    <city>Sangli</city>
-    <address>Shrishaliya APT., Harbat Road, OPP.ARWADE Highschool, Peth Bhag, Sangli 416416</address>
-    <contact>2322489</contact>
-    <micrCode>416098151</micrCode>
-    <ifscCode>ASBL0000024</ifscCode>
-    <bankLoc>1090</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Miraj</name>
-    <city>Miraj</city>
-    <address>Bhramanpuri, Patwardhan Hall, Miraj, DIST.-SANGLI 416313</address>
-    <contact>2223089</contact>
-    <micrCode>416098152</micrCode>
-    <ifscCode>ASBL0000025</ifscCode>
-    <bankLoc>1090</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dharavi</name>
+    <name>Ghatkopar</name>
     <city>Mumbai</city>
-    <address>1ST Floor, Kamraj Chs, 90 Feet Road, Dharavi, Mumbai 400017</address>
-    <contact>24091410</contact>
-    <micrCode>400098022</micrCode>
-    <ifscCode>ASBL0000026</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pratiksha Nagar</name>
-    <city>Mumbai</city>
-    <address>M 2 Chs, D Wing, Gala NO.1 TO 6, Pratiksha Nagar, Sion, Mumbai 400022</address>
-    <contact>24028000</contact>
-    <micrCode>400098023</micrCode>
-    <ifscCode>ASBL0000027</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mulund (E)</name>
-    <city>Mumbai</city>
-    <address>Shiv Sidhi APT., Plot NO.6/A, G.V.SCHEME Road, Road NO.1, Mulund (E) Mumbai 400081</address>
-    <contact>21638661</contact>
-    <micrCode>400098024</micrCode>
-    <ifscCode>ASBL0000028</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Devrukh</name>
-    <city>Devrukh</city>
-    <address>Audhut Krupa, Near S.T. Stand, Bazar Peth, Devrukh, TAL.-SANGMESHWAR, DIST.-RATNAGIRI 415804</address>
-    <contact>240300</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000029</ifscCode>
-    <bankLoc>1089</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vikhroli (E)</name>
-    <city>Mumbai</city>
-    <address>Vikhroli Vidyalaya, Tagore Nagar, Group NO.3, Vikhroli (E), Mumbai</address>
-    <contact>25747011</contact>
-    <micrCode>400098025</micrCode>
-    <ifscCode>ASBL0000030</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dombivli (E)</name>
-    <city>Dombivli</city>
-    <address>Shri Sneha BLDG., GR. Floor, Shiv Mandir Road, Dombivli (E), DIST.-THANE</address>
-    <contact>2861251</contact>
-    <micrCode>400098026</micrCode>
-    <ifscCode>ASBL0000031</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shivaji Peth</name>
-    <city>Kolhapur</city>
-    <address>2402/2, A Ward, Ubha Maruti Chowk, Shivaji Peth, Kolhapur 416012</address>
-    <contact>2622958</contact>
-    <micrCode>416098009</micrCode>
-    <ifscCode>ASBL0000032</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Timber Market</name>
-    <city>Kolhapur</city>
-    <address>712/1/2b, A Ward, Kalamba Road, Kolhapur 416012</address>
-    <contact>2627658</contact>
-    <micrCode>416098004</micrCode>
-    <ifscCode>ASBL0000033</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Phule Wadi</name>
-    <city>Kolhapur</city>
-    <address>Plot NO.359, Mahatma Phule HSG.SOC., Phulewadi, Kolhapur 416010</address>
-    <contact>2631717</contact>
-    <micrCode>416098005</micrCode>
-    <ifscCode>ASBL0000034</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sadar Bazar</name>
-    <city>Kolhapur</city>
-    <address>C.S.NO.233, Plot NO.12/13, Flat NO.7/8, E Ward, Sadar Bazar, Kolhapur 416002</address>
-    <contact>2650058</contact>
-    <micrCode>416098066</micrCode>
-    <ifscCode>ASBL0000035</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kshirsagar</name>
-    <city>Kolhapur</city>
-    <address>2053/a-1, C Ward, Minch Complex, Kolhapur 416002</address>
-    <contact>2542221</contact>
-    <micrCode>416098007</micrCode>
-    <ifscCode>ASBL0000036</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajarampuri</name>
-    <city>Kolhapur</city>
-    <address>C.S.NO.1382, E Ward, Shivaji Vidyapithroad, Rajarapuri, Kolhapur 416008</address>
-    <contact>2521078</contact>
-    <micrCode>416098008</micrCode>
-    <ifscCode>ASBL0000037</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Laxmipuri</name>
-    <city>Kolhapur</city>
-    <address>883 K, C Ward, Near Uma, Laxmipuri, Kolhapur 416004</address>
-    <contact>2640658</contact>
-    <micrCode>416098003</micrCode>
-    <ifscCode>ASBL0000038</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bambavade</name>
-    <city>Bambavade</city>
-    <address>Bauchkar BLDG., AT Post-bambavade, TAL.-SHAHUWADI, Kolhapur 416213</address>
-    <contact>234484</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000039</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gadhinglaj</name>
-    <city>Gadhinglaj</city>
-    <address>Makandar Complex, Main Road, Gadhinglaj, Kolhapur 416052</address>
-    <contact>224340</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000040</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gargoti</name>
-    <city>Gargoti</city>
-    <address>S.S.NO.1277, Vani Galli, Gargoti, TAL.BHUDARGAD, Kolhapur 416209</address>
-    <contact>221476</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000041</ifscCode>
-    <bankLoc>1082</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jogeshwari</name>
-    <city>Mumbai</city>
-    <address>Rjmds&apos;s INST. Mumbai, BAL Vikas Vidyamandir School, Ratnasindhu, Meghwadi, Jogeshwari (E), Mumbai 400060</address>
-    <contact>28302700</contact>
-    <micrCode>400098027</micrCode>
-    <ifscCode>ASBL0000042</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dadar (W)</name>
-    <city>Mumbai</city>
-    <address>Madhukala Chs, R.K.VAIDYA Marg, Dadar (W) Mumbai 400028</address>
-    <contact>24328337</contact>
-    <micrCode>400098028</micrCode>
-    <ifscCode>ASBL0000043</ifscCode>
-    <bankLoc>1081</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhiwandi</name>
-    <city>Bhiwandi</city>
-    <address>223, Durga Krupa, Teli Pada, Agra Road, Dhamankar Naka, Bhiwandi, Dist-thane 421302</address>
-    <contact>254411</contact>
-    <micrCode>400098029</micrCode>
-    <ifscCode>ASBL0000044</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kankavli</name>
-    <city>Kankavli</city>
-    <address>Shop NO.A5, GR.FLOOR, Bandal Complex, OPP. Prant Office, Mumbai-goa Highway, Kankavli, DIST. Sindhurga</address>
-    <contact>231981</contact>
-    <micrCode>416098326</micrCode>
-    <ifscCode>ASBL0000045</ifscCode>
-    <bankLoc>1092</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kamothe</name>
-    <city>Kamothe</city>
-    <address>Shop NO 4, 5,6,pratapgadh Chs, Plot NO.37, Sector NO.34 Mansarovar, Kamothe, Navi Mumbai 410209</address>
-    <contact>27480627</contact>
-    <micrCode>400098030</micrCode>
-    <ifscCode>ASBL0000046</ifscCode>
-    <bankLoc>1088</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Satpur-nashik</name>
-    <city>Nashik</city>
-    <address>Shop NO.2-5, Rahul Prasad Chs, ABB Circle CORNER. OPP. Hotal Emerald Park, Mahatma Nagar, Satpur, Nashik 422007</address>
-    <contact>2360029</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000047</ifscCode>
+    <address>Shivaji Shikshan Sanstha, NEW BLDG., GR. Floor, DR.ANKUSH Gawde Marg, Pant Nagar, Ghatkopar (E), Mumbai 400077</address>
+    <contact>25010138</contact>
+    <micrCode>400098019</micrCode>
+    <ifscCode>ASBL0000019</ifscCode>
     <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Taloja</name>
-    <city>Taloja</city>
-    <address>House NO.362, AT &amp; Post Nawda Phata, Near Taloja Midc Bridge, Mumbai-pune-road, Taloja, Navi Mumbai 410206</address>
-    <contact>27412811</contact>
-    <micrCode>400098031</micrCode>
-    <ifscCode>ASBL0000048</ifscCode>
-    <bankLoc>1088</bankLoc>
+    <name>Vasai (E)</name>
+    <city>Vasai</city>
+    <address>Vasant BLDG., Agrawal Naka, Sativali Road, Vasai (E), DIST.-THANE 401208</address>
+    <contact>2454647</contact>
+    <micrCode>400098018</micrCode>
+    <ifscCode>ASBL0000018</ifscCode>
+    <bankLoc>1096</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Kalyan</name>
-    <city>Kalyan</city>
-    <address>Vedmantra Apartments, Ground Floor, Ghodekhat Lane, Agra Cross Road, Kalyan West, Dist Thane 421301</address>
-    <contact>2026077</contact>
-    <micrCode>400098032</micrCode>
-    <ifscCode>ASBL0000049</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Badlapur</name>
-    <city>Badlapur</city>
-    <address>Shop NO.1 TO 6, Ground Floor, Saraswati C.H.S, OPP Kalyanvastu Hall, Near Atithi Hotel, Kulgaon, Badlapur East, Dist Thane 421503</address>
-    <contact>2695222</contact>
-    <micrCode>400098033</micrCode>
-    <ifscCode>ASBL0000050</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ambernath</name>
-    <city>Ambernath</city>
-    <address>Mandar Apartments, Shop NO.1 &amp; 2, Ground Loor, Near Shiv Sena Office, Vadavli Section, Ambernath East, Dist Thane 421501</address>
-    <contact>32600018</contact>
-    <micrCode>400098034</micrCode>
-    <ifscCode>ASBL0000051</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhayander</name>
-    <city>Bhayander</city>
-    <address>Ritu Horizon, Ground Floor, Commercial Wing, 100 Wide, Kanakia Road, Near Ankur Building, Bhayander Kashimira Cross Road, Bhayander East, Dist Thane 401107</address>
-    <contact>28110020</contact>
-    <micrCode>400098035</micrCode>
-    <ifscCode>ASBL0000052</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pune</name>
-    <city>Pune</city>
-    <address>47/1, B. O. Bhavan, Ground Floor, Pune Satara Road, Pune 411037</address>
-    <contact>24226300</contact>
-    <micrCode>411098002</micrCode>
-    <ifscCode>ASBL0000053</ifscCode>
-    <bankLoc>1087</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mapusa</name>
-    <city>Mapusa</city>
-    <address>Kandalkal Building, Angod, Near Jama Masjid, Chalta NO 129 OF P T Sheet NO 147, Mapusa, GOA 403507</address>
-    <contact>2255345</contact>
-    <micrCode>403098002</micrCode>
-    <ifscCode>ASBL0000054</ifscCode>
-    <bankLoc>1078</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Uran</name>
-    <city>Uran</city>
-    <address>Shree Krupa CHS Ltd, GRD Floor, Uran Kamitha Road, Near Vimal Talav, Uran, DIST. Raigad 400702</address>
-    <contact>24164860</contact>
-    <micrCode>400098036</micrCode>
-    <ifscCode>ASBL0000055</ifscCode>
-    <bankLoc>1088</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dahisar East</name>
+    <name>Malad (E)</name>
     <city>Mumbai</city>
-    <address>Shop NO 1 AND 11, Nandanvan Chs, Serve NO 242, Share NO 1A AND 3, S V Road, Dahisar East, Mumbai 4000068</address>
-    <contact>0</contact>
-    <micrCode>400098037</micrCode>
-    <ifscCode>ASBL0000056</ifscCode>
-    <bankLoc>1083</bankLoc>
+    <address>Deora Compound, Rani Sati Marg, Malad (E), Mumbai 400097</address>
+    <contact>28784411</contact>
+    <micrCode>400098017</micrCode>
+    <ifscCode>ASBL0000017</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Virar  East</name>
-    <city>Thane</city>
-    <address>Vidyasadan, Ground &amp; First Floor, Manvelpada Road Virar East, Dist Thane 401303.</address>
-    <contact>0</contact>
-    <micrCode>400098038</micrCode>
-    <ifscCode>ASBL0000057</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Diva East</name>
-    <city>Thane</city>
-    <address>Shop NO 4 &amp; 5, Ground Floor, Dhanraj Residency, Dhanraj Nagar, Diva East, Thane 400612.</address>
-    <contact>0</contact>
-    <micrCode>400098039</micrCode>
-    <ifscCode>ASBL0000058</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ghodbandar RD</name>
-    <city>Thane</city>
-    <address>Shop NO 5 &amp; 6, Shree MAA Trust, Ground Floor, S N 146, Patlipada, Ghodbandar Road, Hiranandani Estate, Thane 400607.</address>
-    <contact>0</contact>
-    <micrCode>400098040</micrCode>
-    <ifscCode>ASBL0000059</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kharghar</name>
-    <city>Navi Mumbai</city>
-    <address>Shop NO 25/26/27, Rahul Apartment, Plot NO E, 125, Sector 12, Kharghar, Navi Mumbai 410210.</address>
-    <contact>0</contact>
-    <micrCode>400098041</micrCode>
-    <ifscCode>ASBL0000060</ifscCode>
-    <bankLoc>1085</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Goragoan West</name>
+    <name>Vashi</name>
     <city>Mumbai</city>
-    <address>Plto No1, First Floor, Ganesh Niwas, M.G. Road Goregaon West</address>
-    <contact>0</contact>
-    <micrCode>400098042</micrCode>
-    <ifscCode>ASBL0000061</ifscCode>
-    <bankLoc>1081</bankLoc>
+    <address>Central Facility BLDG., NO.II, Plot NO.13, Sector NO.19, Apmc Market, Vashi, Navi Mumbai 400709</address>
+    <contact>27897882</contact>
+    <micrCode>400098016</micrCode>
+    <ifscCode>ASBL0000016</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Chembur</name>
+    <name>Parel Main</name>
     <city>Mumbai</city>
-    <address>Shop NO E4/5/6, Mary Land APT. Chs, Sandu Wadi Chembur</address>
-    <contact>0</contact>
-    <micrCode>400098043</micrCode>
-    <ifscCode>ASBL0000062</ifscCode>
-    <bankLoc>1081</bankLoc>
+    <address>Apna Bank Bhavan, DR.S.SRAO Road, Parel, Mumbai 400012.</address>
+    <contact>24172155</contact>
+    <micrCode>400098015</micrCode>
+    <ifscCode>ASBL0000015</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mulund West</name>
+    <name>Borivli</name>
     <city>Mumbai</city>
-    <address>Shop NO 2 To4, GR. Floor, Bhagyashree APT., Ganesh Gawade RD JN., Mulund West</address>
-    <contact>0</contact>
-    <micrCode>400098044</micrCode>
-    <ifscCode>ASBL0000063</ifscCode>
-    <bankLoc>1081</bankLoc>
+    <address>Indraprastha Chs, Datta Pada, Borivli (E), Mumbai 400066</address>
+    <contact>28706127</contact>
+    <micrCode>400098014</micrCode>
+    <ifscCode>ASBL0000014</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ghatkoper West</name>
+    <name>Bhandup</name>
     <city>Mumbai</city>
-    <address>Shop NO 1/2/3/4, Samarpan Chs, Narsi Mehta Marg, Ghatkoper West</address>
-    <contact>0</contact>
-    <micrCode>400098045</micrCode>
-    <ifscCode>ASBL0000064</ifscCode>
-    <bankLoc>1081</bankLoc>
+    <address>Shiv Sagar Complex, Ashok Kadare Chowk, Tembhi Pada Road, Bhandup (W), Mumbai 400078</address>
+    <contact>25942423</contact>
+    <micrCode>400098013</micrCode>
+    <ifscCode>ASBL0000013</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Koperkhairane</name>
-    <city>Navi Mumbai</city>
-    <address>Shop NO 1 TO 4, Shree Sidhivinayak Tower, Sector 5 Koerkhairane Navi Mumbai</address>
-    <contact>0</contact>
-    <micrCode>400098046</micrCode>
-    <ifscCode>ASBL0000065</ifscCode>
-    <bankLoc>1085</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Airoli</name>
-    <city>Navi Mumbai</city>
-    <address>Shop NO 1 AND 2, Ridhi Sidhi Height Chs, Sector 19 Airoli Navi Mumbai</address>
-    <contact>0</contact>
-    <micrCode>400098047</micrCode>
-    <ifscCode>ASBL0000066</ifscCode>
-    <bankLoc>1085</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ulhasnager</name>
-    <city>Ulhasnager</city>
-    <address>Shop NO 1/2/3, GR. FLOOR., Prem Yesh, BRK NO 802/1 Link Road Ulhasnager</address>
-    <contact>0</contact>
-    <micrCode>400098048</micrCode>
-    <ifscCode>ASBL0000067</ifscCode>
-    <bankLoc>1093</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kalackowki</name>
+    <name>Charkop</name>
     <city>Mumbai</city>
-    <address>C.S. NP 770, Groung Floor, Jaihind Cinema DR. Ambedakr RD., Kalackowki Mumbai 400033</address>
-    <contact>0</contact>
-    <micrCode>400098049</micrCode>
-    <ifscCode>ASBL0000068</ifscCode>
-    <bankLoc>1080</bankLoc>
+    <address>Sector-5, Apna Bazar BLDG., DR. Ambedkar Road, Charkop, Kandivali (W), Mumbai 400067</address>
+    <contact>28688666</contact>
+    <micrCode>400098012</micrCode>
+    <ifscCode>ASBL0000012</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Bandra</name>
-    <city>Greater Mumbai</city>
-    <address>Shop NO 1, 2 AND 3 Monarch, Gandhi Nager Varsha CHS Ltd, Gnadhi Nager Bandra East Mumbai 400051</address>
-    <contact>0</contact>
-    <micrCode>400098050</micrCode>
-    <ifscCode>ASBL0000069</ifscCode>
-    <bankLoc>1079</bankLoc>
+    <name>Kurla</name>
+    <city>Mumbai</city>
+    <address>Shatrunjay Complex, Tanaji Chowk, Kurla (W), Mumbai 400070</address>
+    <contact>26501515</contact>
+    <micrCode>400098011</micrCode>
+    <ifscCode>ASBL0000011</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nallasopara</name>
-    <city>Nallasopara</city>
-    <address>Shop NO 11 TO 16 Tujeshwari Hill Survey NO 40 Ambavadi Rambhau Nager Tulinj Nallasopara East Dist Palghar</address>
-    <contact>0</contact>
-    <micrCode>400098051</micrCode>
-    <ifscCode>ASBL0000070</ifscCode>
-    <bankLoc>1086</bankLoc>
+    <name>Powai</name>
+    <city>Mumbai</city>
+    <address>Daffodil, 1ST Floor, Hiranandani Garden, Powai, Mumbai 400076</address>
+    <contact>25703097</contact>
+    <micrCode>400098010</micrCode>
+    <ifscCode>ASBL0000010</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Nerul Navi Mumbai</name>
-    <city>NEW Mumbai</city>
-    <address>Shop NO 11 AND 12, F-2, Ashirwad Apartment Sector NO 3 Nerul East Navi Mumbai 400706</address>
-    <contact>0</contact>
-    <micrCode>400098052</micrCode>
-    <ifscCode>ASBL0000071</ifscCode>
-    <bankLoc>1085</bankLoc>
+    <name>Dindoshi</name>
+    <city>Mumbai</city>
+    <address>Gaurav, Gokuldham, Gen, Arunkumar Vaidya Marg, Goregaon (E), Mumbai 400063</address>
+    <contact>28400446</contact>
+    <micrCode>400098009</micrCode>
+    <ifscCode>ASBL0000009</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Vangani</name>
-    <city>Vangani</city>
-    <address>Plot NO 2 Survey NO 17b, GUTNO. 126, Station Road, Vangni East Dist Thane 421503</address>
-    <contact>0</contact>
-    <micrCode>400098053</micrCode>
-    <ifscCode>ASBL0000072</ifscCode>
-    <bankLoc>1093</bankLoc>
+    <name>Malad (W)</name>
+    <city>Mumbai</city>
+    <address>Shyam Sadam, Mith Chowki, Marve Link Road, Malad (W), Mumbai 400064</address>
+    <contact>28820732</contact>
+    <micrCode>400098008</micrCode>
+    <ifscCode>ASBL0000008</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ulwe</name>
-    <city>Ulwe</city>
-    <address>Shop NO 10, 11, 12 OM SAI Shrushti Building Plot NO 31 Sector 17 Ulwe Navi Mumbai 410206</address>
-    <contact>0</contact>
-    <micrCode>400098054</micrCode>
-    <ifscCode>ASBL0000073</ifscCode>
-    <bankLoc>1085</bankLoc>
+    <name>Andheri</name>
+    <city>Mumbai</city>
+    <address>1ST Floor, Apna Bazar, J.P.ROAD, Andheri (W), Mumbai 400058</address>
+    <contact>26744861</contact>
+    <micrCode>400098007</micrCode>
+    <ifscCode>ASBL0000007</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Karjat</name>
-    <city>Karjat</city>
-    <address>GR. Floor AND First Floor, Karjat Muncipal Council Administration Building, CTS NO 8A, Mouje Karjat Dist Raigad 410201</address>
-    <contact>0</contact>
-    <micrCode>400098074</micrCode>
-    <ifscCode>ASBL0000074</ifscCode>
-    <bankLoc>1088</bankLoc>
+    <name>Dadasaheb Sarfare Chowk</name>
+    <city>Mumbai</city>
+    <address>A-4/5, Rayol Industrial Estate, Wadala, Mumbai 400031</address>
+    <contact>24148481</contact>
+    <micrCode>400098006</micrCode>
+    <ifscCode>ASBL0000006</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Shilphata</name>
-    <city>Shilphata</city>
-    <address>1/8, House NO 17 Choudhari House, Katai Kalyan Shilphata Road, DIST. Thane</address>
-    <contact>0</contact>
-    <micrCode>400098056</micrCode>
-    <ifscCode>ASBL0000075</ifscCode>
-    <bankLoc>1093</bankLoc>
+    <name>DR Ambedkar Road</name>
+    <city>Mumbai</city>
+    <address>Dhanu BLDG., DR Ambedkar Road, Parel, Mumbai 400012</address>
+    <contact>24130752</contact>
+    <micrCode>400098005</micrCode>
+    <ifscCode>ASBL0000005</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Erandwane Pune</name>
-    <city>Pune</city>
-    <address>Shop NO 4 Klapna Tarang, 42/9 Maharshi Karve RD. Erandwane Pune 411004</address>
-    <contact>0</contact>
-    <micrCode>411098003</micrCode>
-    <ifscCode>ASBL0000076</ifscCode>
-    <bankLoc>1087</bankLoc>
+    <name>Lower Parel</name>
+    <city>Mumbai</city>
+    <address>Matulya Centre, JN.OF G.K.MARG &amp; J Phatankar Marg, Mumbai 400013</address>
+    <contact>24947332</contact>
+    <micrCode>400098004</micrCode>
+    <ifscCode>ASBL0000004</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Margaon</name>
-    <city>Margaon</city>
-    <address>Shop NO 1, 2 AND 3 Ground Floor, Laxmi Building NEW Market Margaon GOA 403601</address>
-    <contact>0</contact>
-    <micrCode>403098003</micrCode>
-    <ifscCode>ASBL0000077</ifscCode>
-    <bankLoc>1077</bankLoc>
+    <name>Naigaon</name>
+    <city>Mumbai</city>
+    <address>Apna Bazar, 1ST Floor, Govindji Keny Road, Naigaon, Mumbai 400014</address>
+    <contact>24127875</contact>
+    <micrCode>400098003</micrCode>
+    <ifscCode>ASBL0000003</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Ratnagiri</name>
-    <city>Ratnagiri</city>
-    <address>Navakr Plaza, 1 ST Floor, A Wing, Shop NO 14, 115, 116 Ratnagiri Kolhapur Highway, Maruti Mandir Circle Ratnagiri 415 612</address>
-    <contact>0</contact>
-    <micrCode>415098051</micrCode>
-    <ifscCode>ASBL0000078</ifscCode>
-    <bankLoc>1089</bankLoc>
+    <name>Administration Office</name>
+    <city>Mumbai</city>
+    <address>Apna Bank Bhavan, DR.S.SRAO Road, Parel, Mumbai 400012.</address>
+    <contact>24174860</contact>
+    <micrCode>400098002</micrCode>
+    <ifscCode>ASBL0000002</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Khed</name>
-    <city>Khed</city>
-    <address>Shop NO 6, 7,14 AND 15, Groung Floor, Mukadam Landmark, Bulding NO 1, Survey NO 22 A1, Hissa NO 2a/1/2 Kked Ratnagiri 415709</address>
-    <contact>0</contact>
-    <micrCode>98000</micrCode>
-    <ifscCode>ASBL0000079</ifscCode>
-    <bankLoc>1089</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Islampur</name>
-    <city>Islampur</city>
-    <address>Ground Floor, Shakutala Niwas Kacheri Road, Islampur Dist Sangli 415409</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000080</ifscCode>
-    <bankLoc>1090</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Karad</name>
-    <city>Karad</city>
-    <address>36 A/1 Ekopa Buliding, Magalawar Peth, Karad DIST. Satara 415110</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ASBL0000081</ifscCode>
-    <bankLoc>1091</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Satara</name>
-    <city>Satara</city>
-    <address>Servey NO 287/1 TO 7/6, Plot NO 3 Shop NO. 4/5/6/7 8 AND 9 Adarsh Corner Radhika RD Karanje Satara 415001</address>
-    <contact>0</contact>
-    <micrCode>415098002</micrCode>
-    <ifscCode>ASBL0000082</ifscCode>
-    <bankLoc>1091</bankLoc>
+    <name>Rtgs-ho</name>
+    <city>Mumbai</city>
+    <address>Apna Bank Bhavan, DR.S.SRAO Road, Parel, Mumbai 400012.</address>
+    <contact>24110149</contact>
+    <micrCode>400098001</micrCode>
+    <ifscCode>ASBL0000001</ifscCode>
+    <bankLoc>1084</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -200,6 +200,8 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("The Pandharpur Urban Co Op. Bank Ltd. Pandharpur");
 		BANK_NAMES.add("Himachal Pradesh State Co-Op Bank Ltd");
 		BANK_NAMES.add("Deogiri Nagari Sahakari Bank Ltd. Aurangabad");
+		BANK_NAMES.add("Maharashtra Gramin Bank");
+		BANK_NAMES.add("PT Bank Maybank Indonesia TBK");
 	}
 
 	public static void main(String[] args) throws Exception {

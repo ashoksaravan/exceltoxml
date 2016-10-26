@@ -1,462 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Main Branch  NEW Delhi</name>
-    <city>Delhi</city>
-    <address>NO  25  Barakhamba Road  NEW Delhi 110 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110002</ifscCode>
-    <bankLoc>10413</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>South Extension</name>
-    <city>Delhi</city>
-    <address>F 43  South Extensioni  NEW Delhi 110 049</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110004</ifscCode>
-    <bankLoc>10413</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gurgaon</name>
-    <city>Gurgaon</city>
-    <address>JMD Regent Square  Gurgaon Mehrauli Road  DLF Phas II  Gurgaon 122 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110005</ifscCode>
-    <bankLoc>10417</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Greater Kailash</name>
-    <city>Delhi</city>
-    <address>R 47  Greater Kailash I  NEW Delhi 110 048</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110006</ifscCode>
-    <bankLoc>10413</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Noida  U P</name>
-    <city>Noida</city>
-    <address>K 14 18  Sector 18  Gautam Budh Nagar  Noida 201 301</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110007</ifscCode>
-    <bankLoc>10434</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Basant LOK  NEW Delhi</name>
-    <city>Delhi</city>
-    <address>NO  12  Basant LOK  NEW Delhi 110 057</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110008</ifscCode>
-    <bankLoc>10413</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Punjabi Bagh  NEW Delhi</name>
-    <city>Delhi</city>
-    <address>Central Market  Punjabi Bagh  Westnew Delhi110023</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0110009</ifscCode>
-    <bankLoc>10413</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ludhiana</name>
-    <city>Ludhiana</city>
-    <address>Ludhiana Stock Exchange Building  GR Floor  Feroze Gandhi Market  Ludhiana 141 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0141002</ifscCode>
-    <bankLoc>10429</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chandigarh</name>
-    <city>Chandigarh</city>
-    <address>SCO 1  Sector 9 D  Chandigarh 160 017</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0160002</ifscCode>
-    <bankLoc>10411</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Fort</name>
+    <name>Rtgs-ho</name>
     <city>Mumbai</city>
-    <address>Fort, MUMBAI.</address>
+    <address>52/60, M G Road, Fort, Mumbai 400 001</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>HSBC01INDIA</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lucknow</name>
-    <city>Lucknow</city>
-    <address>1  Shahnajaf Road  OPP  Saharaganj Mall  Lucknow 226001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0226002</ifscCode>
-    <bankLoc>10435</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jaipur</name>
-    <city>Jaipur</city>
-    <address>61 A  Vasanti Building  Sardar Patel Marg  C  Scheme  Jaipur 302 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0302002</ifscCode>
-    <bankLoc>10430</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jodhpur</name>
-    <city>Jodhpur</city>
-    <address>Plot NO  C43a  2pwd Colony  Jodhpur342001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0342002</ifscCode>
-    <bankLoc>10431</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ahmedabad</name>
-    <city>Ahmedabad</city>
-    <address>Mardia Plaza C G Road  Ahmedabad 380 006</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0380002</ifscCode>
-    <bankLoc>10414</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vadodara</name>
-    <city>Vadodara</city>
-    <address>Sheel 1  BY  2  Kalpana Society  Inox Multiplex Road  Race Course Circle Vadodara 390 007</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0390002</ifscCode>
-    <bankLoc>10416</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Surat</name>
-    <city>Hazira Surat</city>
-    <address>Riddhi Plaza, Opposite Kribhco Township, Hazira, Surat District, Gujarat394510</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0395003</ifscCode>
-    <bankLoc>10415</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Payments Division</name>
-    <city>Mumbai</city>
-    <address>52 BY 60, M.G.ROAD, Mumbai 400 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC03INDIA</ifscCode>
-    <bankLoc>10424</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Main Branch  Mumbai</name>
-    <city>Mumbai</city>
-    <address>52 BY 60  M G  Road  Mumbai 400 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400002</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Andheri  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Kamala Bhavan  Swami Nityanand Marg  Andheri  Eastmumbai 400 069</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400003</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bandra  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Hsbc Centre  DR Ambedkar Road  Bandra  Westmumbai 400 050</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400004</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Borivali  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Siddharth Arcade  L T Roadfactory Lane Junction  Borivli  Westmumbai 400 092</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400005</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chembur  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Mercantile Apartments  DR Choitram Gidwani Road  Chembur  Mumbai 400 074</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400006</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Peddar Road  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Asha Mahal  46 B  DR G Deshmukh Marg  Mumbai 400 026</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400007</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Juhu  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Saroj  B7  Kapole Society  V L Mehta Road  Juhu  Mumbai 400 049</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400008</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lokhandwala  Mumbai</name>
-    <city>Mumbai</city>
-    <address>E 2 BY 3 BY 4  Manish Garden  Ground Floor  J P Road  Andheri  Wmumbai 400 053</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400010</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thane</name>
-    <city>Thane</city>
-    <address>ISH Krupa  RAM Maruti Road  Naupada  Thane  West  400 602</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400011</ifscCode>
-    <bankLoc>10428</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Powai  Mumbai</name>
-    <city>Mumbai</city>
-    <address>Prudential House  Ground Floor  Hiranandani Business Park  Powai  Mumbai 400 076</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0400012</ifscCode>
-    <bankLoc>10423</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pune</name>
-    <city>Pune</city>
-    <address>Amar Avinash Corporate City  Sector NO  11  Bund Garden Road  Pune 411 011</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0411002</ifscCode>
-    <bankLoc>10427</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhandarkar Road  Pune</name>
-    <city>Pune</city>
-    <address>Pradeep Chambers  Bhandarkar Road  Shivaji Nagar  Pune411 004</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0411003</ifscCode>
-    <bankLoc>10427</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nasik</name>
-    <city>Deolali Camp</city>
-    <address>Deolali Centre Mall, H NO 27, LAM Road, Deolali Camp, Nasik Dist, MAHARASHTRA422401.</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0422002</ifscCode>
-    <bankLoc>10426</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nagpur</name>
-    <city>Nagpur</city>
-    <address>Shriram Shyam Towers  S V Patel Road  Kingsway  Nagpur440 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0440002</ifscCode>
-    <bankLoc>10425</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Indore</name>
-    <city>Indore</city>
-    <address>Darshan Mall  Upper Ground Floor  15 BY 2  Race Course Road  Indore 452 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0452002</ifscCode>
-    <bankLoc>10422</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Raipur</name>
-    <city>Raipur</city>
-    <address>D M Plaza  Holding NO  8 BY 127  Moulana Abdul Rauf Ward NO 36  Chhotapara  Raipur492001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0492002</ifscCode>
-    <bankLoc>10412</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hyderabad</name>
-    <city>Hyderabad</city>
-    <address>UMA Plazarajagopal Towers  Road NO 1  Nagarjuna Hills  Hyderabad  500 082</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0500002</ifscCode>
-    <bankLoc>10407</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vishakhapatnam</name>
-    <city>Visakhapatnam</city>
-    <address>28 16 31  Suryabagh  Visakhapatnam 530 020</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0530002</ifscCode>
-    <bankLoc>10408</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Main Branch  Bangalore</name>
-    <city>Bangalore</city>
-    <address>NO  7  Mahatma Gandhi Road  Bangalore 560 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0560002</ifscCode>
-    <bankLoc>10418</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jayanagar  Bangalore</name>
-    <city>Bangalore</city>
-    <address>Suraj Ganga Arcade  332 BY 7  14th Cross  II Block  Jayanagar  Bangalore 560 011</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0560003</ifscCode>
-    <bankLoc>10418</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mysore</name>
-    <city>Mysore</city>
-    <address>1  Kalidasa Road  Jayalakshmi Puram  Mysore 570002</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0570002</ifscCode>
-    <bankLoc>10419</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Main Branch  Chennai</name>
-    <city>Chennai</city>
-    <address>96  DR Radhakrishnan Salai  Mylapore  Chennai 600 004</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0600002</ifscCode>
-    <bankLoc>10432</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Adyar  Chennai</name>
-    <city>Chennai</city>
-    <address>Rajalakshmi Palace  NO 43  I Main Road  Adyar  Chennai 600 020</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0600003</ifscCode>
-    <bankLoc>10432</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Coimbatore</name>
-    <city>Coimbatore</city>
-    <address>Srivari Gokul Towers  108  Race Course Road  Coimbatore 641 018</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0641002</ifscCode>
-    <bankLoc>10433</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kochi</name>
-    <city>Kochi</city>
-    <address>39 BY 6765  Harbour View Residency  Opposite Shipyard  M G Road  Kochi  682 015</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0682002</ifscCode>
-    <bankLoc>10420</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Trivandrum</name>
-    <city>Thrivendrum</city>
-    <address>Diamond Hill  Vellayambalam  Trivandrum 695 010</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0695002</ifscCode>
-    <bankLoc>10421</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Main Branch  Kolkata</name>
-    <city>Kolkata</city>
-    <address>31 BBD Bagh  Dalhousie Square  Kolkata 700 001</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700004</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gariahat  Kolkata</name>
-    <city>Kolkata</city>
-    <address>NO  2 BY 1  Ekdalia Road  Kolkata 700 019</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700005</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Howrah  Kolkata</name>
-    <city>Kolkata</city>
-    <address>NO  21  Grand Trunk Road  Southhowrah  711 101</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700006</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ultadanga  Kolkata</name>
-    <city>Kolkata</city>
-    <address>P 158 Nazrul Islam Avenue  Kolkata 700 054</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700008</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shakespeare Sarani</name>
-    <city>Kolkata</city>
-    <address>Jasmine Towers  31  Shakespeare Sarani  Kolkata 700 017</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700010</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ballygunge  Kolkata</name>
-    <city>Kolkata</city>
-    <address>15  Gariahat Road  Ballygunge  Kolkata 700 019</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700012</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>NEW Alipore  Kolkata</name>
-    <city>Kolkata</city>
-    <address>375  Block G NEW Alipore  Kolkata 700 053</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0700013</ifscCode>
-    <bankLoc>10436</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Guwahati</name>
-    <city>Guwahati</city>
-    <address>G.S.ROAD, Bhangagarh, Guwahati, Assam 781005</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HSBC0781002</ifscCode>
-    <bankLoc>10409</bankLoc>
+    <ifscCode>HSBC0RTGSMI</ifscCode>
+    <bankLoc>10600</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patna</name>
@@ -465,15 +15,465 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>HSBC0800002</ifscCode>
-    <bankLoc>10410</bankLoc>
+    <bankLoc>10586</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Mumbai</city>
-    <address>52/60, M G Road, Fort, Mumbai 400 001</address>
+    <name>Guwahati</name>
+    <city>Guwahati</city>
+    <address>G.S.ROAD, Bhangagarh, Guwahati, Assam 781005</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>HSBC0RTGSMI</ifscCode>
-    <bankLoc>10424</bankLoc>
+    <ifscCode>HSBC0781002</ifscCode>
+    <bankLoc>10585</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Alipore  Kolkata</name>
+    <city>Kolkata</city>
+    <address>375  Block G NEW Alipore  Kolkata 700 053</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700013</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ballygunge  Kolkata</name>
+    <city>Kolkata</city>
+    <address>15  Gariahat Road  Ballygunge  Kolkata 700 019</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700012</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shakespeare Sarani</name>
+    <city>Kolkata</city>
+    <address>Jasmine Towers  31  Shakespeare Sarani  Kolkata 700 017</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700010</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ultadanga  Kolkata</name>
+    <city>Kolkata</city>
+    <address>P 158 Nazrul Islam Avenue  Kolkata 700 054</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700008</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Howrah  Kolkata</name>
+    <city>Kolkata</city>
+    <address>NO  21  Grand Trunk Road  Southhowrah  711 101</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700006</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gariahat  Kolkata</name>
+    <city>Kolkata</city>
+    <address>NO  2 BY 1  Ekdalia Road  Kolkata 700 019</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700005</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch  Kolkata</name>
+    <city>Kolkata</city>
+    <address>31 BBD Bagh  Dalhousie Square  Kolkata 700 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0700004</ifscCode>
+    <bankLoc>10612</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trivandrum</name>
+    <city>Thrivendrum</city>
+    <address>Diamond Hill  Vellayambalam  Trivandrum 695 010</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0695002</ifscCode>
+    <bankLoc>10597</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kochi</name>
+    <city>Kochi</city>
+    <address>39 BY 6765  Harbour View Residency  Opposite Shipyard  M G Road  Kochi  682 015</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0682002</ifscCode>
+    <bankLoc>10596</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Coimbatore</name>
+    <city>Coimbatore</city>
+    <address>Srivari Gokul Towers  108  Race Course Road  Coimbatore 641 018</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0641002</ifscCode>
+    <bankLoc>10609</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Adyar  Chennai</name>
+    <city>Chennai</city>
+    <address>Rajalakshmi Palace  NO 43  I Main Road  Adyar  Chennai 600 020</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0600003</ifscCode>
+    <bankLoc>10608</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch  Chennai</name>
+    <city>Chennai</city>
+    <address>96  DR Radhakrishnan Salai  Mylapore  Chennai 600 004</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0600002</ifscCode>
+    <bankLoc>10608</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mysore</name>
+    <city>Mysore</city>
+    <address>1  Kalidasa Road  Jayalakshmi Puram  Mysore 570002</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0570002</ifscCode>
+    <bankLoc>10595</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jayanagar  Bangalore</name>
+    <city>Bangalore</city>
+    <address>Suraj Ganga Arcade  332 BY 7  14th Cross  II Block  Jayanagar  Bangalore 560 011</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0560003</ifscCode>
+    <bankLoc>10594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch  Bangalore</name>
+    <city>Bangalore</city>
+    <address>NO  7  Mahatma Gandhi Road  Bangalore 560 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0560002</ifscCode>
+    <bankLoc>10594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vishakhapatnam</name>
+    <city>Visakhapatnam</city>
+    <address>28 16 31  Suryabagh  Visakhapatnam 530 020</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0530002</ifscCode>
+    <bankLoc>10584</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hyderabad</name>
+    <city>Hyderabad</city>
+    <address>UMA Plazarajagopal Towers  Road NO 1  Nagarjuna Hills  Hyderabad  500 082</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0500002</ifscCode>
+    <bankLoc>10583</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raipur</name>
+    <city>Raipur</city>
+    <address>D M Plaza  Holding NO  8 BY 127  Moulana Abdul Rauf Ward NO 36  Chhotapara  Raipur492001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0492002</ifscCode>
+    <bankLoc>10588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indore</name>
+    <city>Indore</city>
+    <address>Darshan Mall  Upper Ground Floor  15 BY 2  Race Course Road  Indore 452 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0452002</ifscCode>
+    <bankLoc>10598</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nagpur</name>
+    <city>Nagpur</city>
+    <address>Shriram Shyam Towers  S V Patel Road  Kingsway  Nagpur440 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0440002</ifscCode>
+    <bankLoc>10601</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nasik</name>
+    <city>Deolali Camp</city>
+    <address>Deolali Centre Mall, H NO 27, LAM Road, Deolali Camp, Nasik Dist, MAHARASHTRA422401.</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0422002</ifscCode>
+    <bankLoc>10602</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhandarkar Road  Pune</name>
+    <city>Pune</city>
+    <address>Pradeep Chambers  Bhandarkar Road  Shivaji Nagar  Pune411 004</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0411003</ifscCode>
+    <bankLoc>10603</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>Amar Avinash Corporate City  Sector NO  11  Bund Garden Road  Pune 411 011</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0411002</ifscCode>
+    <bankLoc>10603</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Powai  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Prudential House  Ground Floor  Hiranandani Business Park  Powai  Mumbai 400 076</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400012</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thane</name>
+    <city>Thane</city>
+    <address>ISH Krupa  RAM Maruti Road  Naupada  Thane  West  400 602</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400011</ifscCode>
+    <bankLoc>10604</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lokhandwala  Mumbai</name>
+    <city>Mumbai</city>
+    <address>E 2 BY 3 BY 4  Manish Garden  Ground Floor  J P Road  Andheri  Wmumbai 400 053</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400010</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Juhu  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Saroj  B7  Kapole Society  V L Mehta Road  Juhu  Mumbai 400 049</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400008</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Peddar Road  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Asha Mahal  46 B  DR G Deshmukh Marg  Mumbai 400 026</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400007</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chembur  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Mercantile Apartments  DR Choitram Gidwani Road  Chembur  Mumbai 400 074</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400006</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Borivali  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Siddharth Arcade  L T Roadfactory Lane Junction  Borivli  Westmumbai 400 092</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400005</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bandra  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Hsbc Centre  DR Ambedkar Road  Bandra  Westmumbai 400 050</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400004</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Andheri  Mumbai</name>
+    <city>Mumbai</city>
+    <address>Kamala Bhavan  Swami Nityanand Marg  Andheri  Eastmumbai 400 069</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400003</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch  Mumbai</name>
+    <city>Mumbai</city>
+    <address>52 BY 60  M G  Road  Mumbai 400 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0400002</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Payments Division</name>
+    <city>Mumbai</city>
+    <address>52 BY 60, M.G.ROAD, Mumbai 400 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC03INDIA</ifscCode>
+    <bankLoc>10600</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Surat</name>
+    <city>Hazira Surat</city>
+    <address>Riddhi Plaza, Opposite Kribhco Township, Hazira, Surat District, Gujarat394510</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0395003</ifscCode>
+    <bankLoc>10591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vadodara</name>
+    <city>Vadodara</city>
+    <address>Sheel 1  BY  2  Kalpana Society  Inox Multiplex Road  Race Course Circle Vadodara 390 007</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0390002</ifscCode>
+    <bankLoc>10592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmedabad</name>
+    <city>Ahmedabad</city>
+    <address>Mardia Plaza C G Road  Ahmedabad 380 006</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0380002</ifscCode>
+    <bankLoc>10590</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jodhpur</name>
+    <city>Jodhpur</city>
+    <address>Plot NO  C43a  2pwd Colony  Jodhpur342001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0342002</ifscCode>
+    <bankLoc>10607</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur</name>
+    <city>Jaipur</city>
+    <address>61 A  Vasanti Building  Sardar Patel Marg  C  Scheme  Jaipur 302 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0302002</ifscCode>
+    <bankLoc>10606</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lucknow</name>
+    <city>Lucknow</city>
+    <address>1  Shahnajaf Road  OPP  Saharaganj Mall  Lucknow 226001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0226002</ifscCode>
+    <bankLoc>10611</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Fort</name>
+    <city>Mumbai</city>
+    <address>Fort, MUMBAI.</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC01INDIA</ifscCode>
+    <bankLoc>10599</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandigarh</name>
+    <city>Chandigarh</city>
+    <address>SCO 1  Sector 9 D  Chandigarh 160 017</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0160002</ifscCode>
+    <bankLoc>10587</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ludhiana</name>
+    <city>Ludhiana</city>
+    <address>Ludhiana Stock Exchange Building  GR Floor  Feroze Gandhi Market  Ludhiana 141 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0141002</ifscCode>
+    <bankLoc>10605</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Punjabi Bagh  NEW Delhi</name>
+    <city>Delhi</city>
+    <address>Central Market  Punjabi Bagh  Westnew Delhi110023</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110009</ifscCode>
+    <bankLoc>10589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Basant LOK  NEW Delhi</name>
+    <city>Delhi</city>
+    <address>NO  12  Basant LOK  NEW Delhi 110 057</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110008</ifscCode>
+    <bankLoc>10589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Noida  U P</name>
+    <city>Noida</city>
+    <address>K 14 18  Sector 18  Gautam Budh Nagar  Noida 201 301</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110007</ifscCode>
+    <bankLoc>10610</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Greater Kailash</name>
+    <city>Delhi</city>
+    <address>R 47  Greater Kailash I  NEW Delhi 110 048</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110006</ifscCode>
+    <bankLoc>10589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gurgaon</name>
+    <city>Gurgaon</city>
+    <address>JMD Regent Square  Gurgaon Mehrauli Road  DLF Phas II  Gurgaon 122 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110005</ifscCode>
+    <bankLoc>10593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>South Extension</name>
+    <city>Delhi</city>
+    <address>F 43  South Extensioni  NEW Delhi 110 049</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110004</ifscCode>
+    <bankLoc>10589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Main Branch  NEW Delhi</name>
+    <city>Delhi</city>
+    <address>NO  25  Barakhamba Road  NEW Delhi 110 001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HSBC0110002</ifscCode>
+    <bankLoc>10589</bankLoc>
   </bankbranch>
 </bankBranchs>

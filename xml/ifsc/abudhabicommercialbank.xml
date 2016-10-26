@@ -1,14 +1,5 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Mumbai</city>
-    <address>75, Rehmat Manzil, V. N. Road, Curchgate, Mumbai - 400020</address>
-    <contact>39534100</contact>
-    <micrCode>400269002</micrCode>
-    <ifscCode>ADCB0000001</ifscCode>
-    <bankLoc>18</bankLoc>
-  </bankbranch>
-  <bankbranch>
     <name>Bangalore</name>
     <city>Bangalore</city>
     <address>Citi Centre, 28, Church Street, OFF M. G. Road Bangalore 560001</address>
@@ -16,5 +7,14 @@
     <micrCode>560269002</micrCode>
     <ifscCode>ADCB0000002</ifscCode>
     <bankLoc>17</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Mumbai</city>
+    <address>75, Rehmat Manzil, V. N. Road, Curchgate, Mumbai - 400020</address>
+    <contact>39534100</contact>
+    <micrCode>400269002</micrCode>
+    <ifscCode>ADCB0000001</ifscCode>
+    <bankLoc>18</bankLoc>
   </bankbranch>
 </bankBranchs>

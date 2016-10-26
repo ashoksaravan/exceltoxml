@@ -1,911 +1,56 @@
 <bankBranchs>
   <bankbranch>
-    <name>Rtgs-ho</name>
-    <city>Delhi</city>
-    <address>Ifci Tower, 6TH Floor, 61, Nehru Place, NEW Delhi 110 019</address>
-    <contact>47472105</contact>
+    <name>Central Processing Centre</name>
+    <city>NEW Bombay</city>
+    <address>T 361, 6TH Floor, Tower 8, ITC Park, CBD Belapur, Navi Mumbai 400614</address>
+    <contact>22022603</contact>
     <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0000001</ifscCode>
-    <bankLoc>6612</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>NEW Delhi Nehru Place Branch</name>
-    <city>Delhi</city>
-    <address>Ifci Tower, Ground Floor, 61, Nehru Place, NEW Delhi 110 019</address>
-    <contact>26470728</contact>
-    <micrCode>110733001</micrCode>
-    <ifscCode>BMBL0000002</ifscCode>
-    <bankLoc>6612</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kolkata Park Street Branch</name>
-    <city>Kolkata</city>
-    <address>Apeejay House, 15, Park Street, Kolkata 700 016</address>
-    <contact>22650848</contact>
-    <micrCode>700733002</micrCode>
-    <ifscCode>BMBL0000003</ifscCode>
-    <bankLoc>6677</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai Anna Salai Branch</name>
-    <city>Chennai</city>
-    <address>Ground Floor, Sidbi Chennai, Overseas Towers, 756 L, Anna Salai, Chennai 600 002</address>
-    <contact>28523321</contact>
-    <micrCode>600733002</micrCode>
-    <ifscCode>BMBL0000004</ifscCode>
-    <bankLoc>6657</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bengaluru Hudson Circle Branch</name>
-    <city>Bangalore</city>
-    <address>Ifci Bhawan, 2,cubbonpet Main Road, NR Square Hudson Circle, Bengaluru 560 011</address>
-    <contact>22221415</contact>
-    <micrCode>560733002</micrCode>
-    <ifscCode>BMBL0000005</ifscCode>
-    <bankLoc>6626</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ahmedabad CG Road Branch</name>
-    <city>Ahmedabad</city>
-    <address>Ifci Bhawan, CG Road, Bodyline Churasta, Near LAL Bungalow, Ahmedabad 380 006</address>
-    <contact>20506080</contact>
-    <micrCode>380733002</micrCode>
-    <ifscCode>BMBL0000006</ifscCode>
-    <bankLoc>6615</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lucknow Hazratganj Branch</name>
-    <city>Lucknow</city>
-    <address>UTI Tower, Ground Floor, Regency Plaza, 5 Park Road, OPP.CIVIL Hospital, Hazrat Ganj, Lucknow 226 001</address>
-    <contact>4042038</contact>
-    <micrCode>226733002</micrCode>
-    <ifscCode>BMBL0000007</ifscCode>
-    <bankLoc>6672</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Guwahati Guwahati Shillong Road BR</name>
-    <city>Guwahati</city>
-    <address>Ifci, Christian Baste, Guwahati Shillong Road, Guwahati 781 005</address>
-    <contact>2147483647</contact>
-    <micrCode>781733002</micrCode>
-    <ifscCode>BMBL0000008</ifscCode>
-    <bankLoc>6606</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Indore GPO Branch</name>
-    <city>Indore</city>
-    <address>SBI Complex, GPO Chauraha, Indore 452 001</address>
-    <contact>2715400</contact>
-    <micrCode>452733001</micrCode>
-    <ifscCode>BMBL0000009</ifscCode>
-    <bankLoc>6635</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Treasury Department</name>
-    <city>Delhi</city>
-    <address>Ifci Tower, 6TH Floor, 61, Nehru Place, NEW Delhi 110 019</address>
-    <contact>47472110</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0000011</ifscCode>
-    <bankLoc>6612</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Finanace AND Accounts Department</name>
-    <city>Delhi</city>
-    <address>Ifci Tower, 6TH Floor, 61, Nehru Place, NEW Delhi 110 019</address>
-    <contact>47472105</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0000012</ifscCode>
-    <bankLoc>6612</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dehradun Rajpur Road Branch</name>
-    <city>Dehradun</city>
-    <address>75, Kailash Plaza, Rajpur Road, Dehradun 248001</address>
-    <contact>2747744</contact>
-    <micrCode>248733002</micrCode>
-    <ifscCode>BMBL0000013</ifscCode>
-    <bankLoc>6674</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ranchi Doranda Branch</name>
-    <city>Ranchi</city>
-    <address>Lake View Tower, Near Hotel Yuvraj Palace, Kadru Bypass Road, Doranda, Ranchi 834002</address>
-    <contact>2481059</contact>
-    <micrCode>834733002</micrCode>
-    <ifscCode>BMBL0000014</ifscCode>
-    <bankLoc>6625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Raipur Dhamtri Raod Branch</name>
-    <city>Raipur</city>
-    <address>Pujari Chambers, Dhamtari Road, Raipur 492001</address>
-    <contact>2274908</contact>
-    <micrCode>492733001</micrCode>
-    <ifscCode>BMBL0000015</ifscCode>
-    <bankLoc>6611</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thiruvananthapuram Manacaud Branch</name>
-    <city>Tvananthapuram</city>
-    <address>Kamaleswaram Manacaud, Thiruvananthapuram 695009</address>
-    <contact>2457470</contact>
-    <micrCode>695733002</micrCode>
-    <ifscCode>BMBL0000016</ifscCode>
-    <bankLoc>6632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jaipur IBC Branch</name>
-    <city>Jaipur</city>
-    <address>K 14, International Business Centre, Ashok Marg, C Scheme, Jaipur 302001</address>
-    <contact>2373377</contact>
-    <micrCode>302733002</micrCode>
-    <ifscCode>BMBL0000017</ifscCode>
-    <bankLoc>6653</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chandigarh Madhya Marg Branch</name>
-    <city>Chandigarh</city>
-    <address>SCO 3, Ground Floor, Sector 26, Chandigarh 160019</address>
-    <contact>0</contact>
-    <micrCode>160733002</micrCode>
-    <ifscCode>BMBL0000018</ifscCode>
-    <bankLoc>6608</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hyderabad Ameerpet Branch</name>
-    <city>Hyderabad</city>
-    <address>8 3 214 BY 3 AND 4 Srinivasa Nagar W Opposite TO Near Maitivanam, Ameerpet, Hyderabad 500038</address>
-    <contact>23759113</contact>
-    <micrCode>500733001</micrCode>
-    <ifscCode>BMBL0000019</ifscCode>
-    <bankLoc>6603</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shillong Bsnl NEW CSC Branch</name>
-    <city>Shillong</city>
-    <address>Bsnl NEW CSC OF CTO Building, Shillong 793001</address>
-    <contact>2505566</contact>
-    <micrCode>793733002</micrCode>
-    <ifscCode>BMBL0000020</ifscCode>
-    <bankLoc>6643</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shimla Mall Road Branch</name>
-    <city>Simla</city>
-    <address>Bell Villa, THE Mall, Mall Road, ADJ.UNION Bank OF India, Shimla 170001</address>
-    <contact>2655096</contact>
-    <micrCode>171733002</micrCode>
-    <ifscCode>BMBL0000021</ifscCode>
-    <bankLoc>6620</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gangtok Branch</name>
-    <city>Gangtok</city>
-    <address>Deep Building, Near Ayurvedic Research Centre, 31A National Highway, Sikkim 737102</address>
-    <contact>0</contact>
-    <micrCode>737733002</micrCode>
-    <ifscCode>BMBL0000024</ifscCode>
-    <bankLoc>6656</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhubaneshwar Shahid Nagar Branch</name>
-    <city>Bhubaneshwar</city>
-    <address>778, Maharishi College Road, Sahid Nagar, Bhubaneshwar 751007</address>
-    <contact>2549452</contact>
-    <micrCode>751733002</micrCode>
-    <ifscCode>BMBL0000025</ifscCode>
-    <bankLoc>6645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>GOA Panaji Branch</name>
-    <city>Panaji</city>
-    <address>H.NO.11 BY 52 BY 4, Ground Floor, Karina Chambers ST.INEZ, Panaji, GOA 403001</address>
-    <contact>2423711</contact>
-    <micrCode>403733002</micrCode>
-    <ifscCode>BMBL0000026</ifscCode>
-    <bankLoc>6614</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Agartala RL Tower Branch</name>
-    <city>Agartala</city>
-    <address>R L Towers, Math Chowmani Bazar, A.A.ROAD, Agartala 799002</address>
-    <contact>2315262</contact>
-    <micrCode>799733002</micrCode>
-    <ifscCode>BMBL0000027</ifscCode>
-    <bankLoc>6666</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Patna Frazer Road Branch</name>
-    <city>Patna</city>
-    <address>Hotel MAURYA.FRAZER Road, Patna 800020</address>
-    <contact>231275</contact>
-    <micrCode>800733002</micrCode>
-    <ifscCode>BMBL0000028</ifscCode>
-    <bankLoc>6607</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tilak Nagar</name>
-    <city>Kanpur</city>
-    <address>7/90 A (3), Tilak Nagar, Kanpur-208002</address>
-    <contact>2147483647</contact>
-    <micrCode>208733002</micrCode>
-    <ifscCode>BMBL0000029</ifscCode>
-    <bankLoc>6671</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sikandra</name>
-    <city>Agra</city>
-    <address>Rajendra Space, Plot No-6, Sector-16b, Sikandra-awas Vikas Yojana, Agra-282007</address>
-    <contact>2600321</contact>
-    <micrCode>282733002</micrCode>
-    <ifscCode>BMBL0000030</ifscCode>
-    <bankLoc>6667</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>N.E.B Subash Nagar</name>
-    <city>Alwar</city>
-    <address>Balaji Tower, 81, Subash Nagar, N.E.B. Alwar - 301001</address>
-    <contact>2147483647</contact>
-    <micrCode>301733002</micrCode>
-    <ifscCode>BMBL0000031</ifscCode>
-    <bankLoc>6651</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kakinada</name>
-    <city>Kakinada</city>
-    <address>2-18-24/1, Madhav Nagar, OPP. TO District Supritendent OF Police Office, Kakinada-533003</address>
-    <contact>2342778</contact>
-    <micrCode>533733002</micrCode>
-    <ifscCode>BMBL0000032</ifscCode>
-    <bankLoc>6602</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gurgaon</name>
-    <city>Gurgaon</city>
-    <address>S.C.O -37, Huda Market, Sector-31, Gurgaon, Haryana-122001</address>
-    <contact>2383037</contact>
-    <micrCode>110733002</micrCode>
-    <ifscCode>BMBL0000033</ifscCode>
-    <bankLoc>6618</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sector-14 Panchkula</name>
-    <city>Panchkula</city>
-    <address>SCO -203, Sector-14, Main Shopping Area, Panchkula-134109</address>
-    <contact>2586822</contact>
-    <micrCode>160733003</micrCode>
-    <ifscCode>BMBL0000034</ifscCode>
-    <bankLoc>6619</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thane</name>
-    <city>Thane</city>
-    <address>Ground Floor, Rajashree Chambers, L.B.S. Marg, Near Babubhai Petrol Pump, OPP Muncipality Brahmal Talav Garden, Thane-400601</address>
-    <contact>25475515</contact>
-    <micrCode>400733003</micrCode>
-    <ifscCode>BMBL0000035</ifscCode>
-    <bankLoc>6642</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dholpur</name>
-    <city>Dholpur</city>
-    <address>Kachahari Road, Kothi, Dholpur -328001</address>
-    <contact>2147483647</contact>
-    <micrCode>328733002</micrCode>
-    <ifscCode>BMBL0000036</ifscCode>
-    <bankLoc>6652</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kochi</name>
-    <city>Kochi</city>
-    <address>Sivasailam, Ground Floor, D.NO- 869b, 869b1, Changampuzha Samadhi Road, Edappally, Kochi-682024, Kerala</address>
-    <contact>2341113</contact>
-    <micrCode>682733002</micrCode>
-    <ifscCode>BMBL0000037</ifscCode>
-    <bankLoc>6630</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pune</name>
-    <city>Pune</city>
-    <address>Uttam Tower, Opp-aghakhan Palace, Nagar Road, Kalyani Nagar, Pune-411006</address>
-    <contact>26681165</contact>
-    <micrCode>411733002</micrCode>
-    <ifscCode>BMBL0000038</ifscCode>
-    <bankLoc>6641</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Model Town NEW Delhi</name>
-    <city>NEW Delhi</city>
-    <address>D,2-8, Model Town 3, Delhi-110009</address>
-    <contact>27417050</contact>
-    <micrCode>110733003</micrCode>
-    <ifscCode>BMBL0000039</ifscCode>
-    <bankLoc>6613</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Haridwar-uttarakhand</name>
-    <city>Haridwar</city>
-    <address>Plot No-1 &amp; 2, R.K. Enclave, IRA Avenue, Opp- Hyundai Showroom, Arya Nagar Chowk, Haridwar- 249407</address>
-    <contact>252439</contact>
-    <micrCode>249733002</micrCode>
-    <ifscCode>BMBL0000040</ifscCode>
-    <bankLoc>6675</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Coimbatore</name>
-    <city>Coimbatore</city>
-    <address>Devranjan Centre, Near Ayyappan Pooja Sangam, 206-1, Sathya Moorthy Road, Ramnagar</address>
-    <contact>4373749</contact>
-    <micrCode>641733002</micrCode>
-    <ifscCode>BMBL0000041</ifscCode>
-    <bankLoc>6658</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mumbai-ghatkopar</name>
-    <city>West Central Mumbai</city>
-    <address>Krishna Baugh, Shop NO 1, L B S Marg, Ghatkoper West, Central Mumbai</address>
-    <contact>25155355</contact>
-    <micrCode>400733004</micrCode>
-    <ifscCode>BMBL0000042</ifscCode>
-    <bankLoc>6639</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vadodara</name>
-    <city>Vadodara</city>
-    <address>Ground Floor, Florence Classic 10, Ashapuri Society, Near Unnati Vidyalaya, Akota Vadodara-390020</address>
-    <contact>2359266</contact>
-    <micrCode>390733002</micrCode>
-    <ifscCode>BMBL0000043</ifscCode>
-    <bankLoc>6616</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mangalore</name>
-    <city>Mangalore</city>
-    <address>2-16-1386\18 OPP ksrtc, BUS Stand, Bejai, Kavoor Cross, Mangalore-575004</address>
-    <contact>4252001</contact>
-    <micrCode>575733002</micrCode>
-    <ifscCode>BMBL0000044</ifscCode>
-    <bankLoc>6627</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Komargiri-andhra Pradesh</name>
-    <city>Komaragiripatnam</city>
-    <address>2-16, Main Road, Komargiri, Mahalakshmi Nilayam, East Godavari Distt, Andhra Pradesh</address>
-    <contact>9245599</contact>
-    <micrCode>533733003</micrCode>
-    <ifscCode>BMBL0000045</ifscCode>
-    <bankLoc>6602</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Cuttak-sangarpur</name>
-    <city>Choudwar</city>
-    <address>Bharat Nirman Rajiv Gandhi Seva Kendra, Sankarpur, Tangi-choudwar, Cuttack-754028, Odisha</address>
-    <contact>2147483647</contact>
-    <micrCode>754733501</micrCode>
-    <ifscCode>BMBL0000046</ifscCode>
-    <bankLoc>6644</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Cuttak-nakhara</name>
-    <city>Phulnakhara</city>
-    <address>Nakhara Grampanchayat Office (ground Floor), Nakhara, Choudwar, Cuttack-754025, Odisha</address>
-    <contact>2147483647</contact>
-    <micrCode>754733502</micrCode>
-    <ifscCode>BMBL0000047</ifscCode>
-    <bankLoc>6644</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Cuttak-bentapada</name>
-    <city>Athgarh</city>
-    <address>Near Panchayat Office Building-bharatiya Rajiv Gandhi Seba Kendra, Bentapada, Athagarh, Cuttack-754029, Odisha</address>
-    <contact>2147483647</contact>
-    <micrCode>754733503</micrCode>
-    <ifscCode>BMBL0000048</ifscCode>
-    <bankLoc>6644</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Solan-himachal Pradesh</name>
-    <city>Solan</city>
-    <address>KH.NO. 1195\1196\1198\1200\1201\1202, Rajgarh Road, Near Maharashtra Bank, OPP. Fultron Credits- Solan, HP</address>
-    <contact>220483</contact>
-    <micrCode>173733002</micrCode>
-    <ifscCode>BMBL0000049</ifscCode>
-    <bankLoc>6621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhopal</name>
-    <city>Bhopal</city>
-    <address>53, Zone-2, Near Chetak Complex, M.P. Nagar, Bhopal-462011</address>
-    <contact>2555572</contact>
-    <micrCode>462733001</micrCode>
-    <ifscCode>BMBL0000050</ifscCode>
-    <bankLoc>6634</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mehbubnagar</name>
-    <city>Mahbubnagar</city>
-    <address>1-6-92-14, Subash Nagar, Near Boyapalli Gate, Mahabubnagar, Telangana-509001</address>
-    <contact>244777</contact>
-    <micrCode>509733002</micrCode>
-    <ifscCode>BMBL0000051</ifscCode>
-    <bankLoc>6662</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nawanshahar</name>
-    <city>Nawanshahar</city>
-    <address>RV Tower, Chandigarh Road, District- Nawanshahar, Punjab- 144514</address>
-    <contact>220077</contact>
-    <micrCode>144733302</micrCode>
-    <ifscCode>BMBL0000052</ifscCode>
-    <bankLoc>6649</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ujjain</name>
-    <city>Ujjain</city>
-    <address>33, 34, Varuchu Marg, Madhav Nagar, Ujjain, MP 456010</address>
-    <contact>2526869</contact>
-    <micrCode>456733002</micrCode>
-    <ifscCode>BMBL0000053</ifscCode>
-    <bankLoc>6637</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jamshedpur</name>
-    <city>Jamshedpur</city>
-    <address>96 S.N.P. Area, Near Aambagan, Sakchi, City-jamshedpur, Dist-east Singhbhum</address>
-    <contact>2221290</contact>
-    <micrCode>831733002</micrCode>
-    <ifscCode>BMBL0000054</ifscCode>
-    <bankLoc>6624</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bastar</name>
-    <city>Bastar</city>
-    <address>Bhartiya??mahila??bank Limited, Up-down Road, Mahurbandpara Kanker, Chhattisgarh, PIN Code-??494334</address>
-    <contact>222368</contact>
-    <micrCode>494733101</micrCode>
-    <ifscCode>BMBL0000055</ifscCode>
-    <bankLoc>6609</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jalandhar</name>
-    <city>Jalandhar</city>
-    <address>Plot NO 272, Brand NEW Building, Model Town, Jalandhar, Punjab 144003</address>
-    <contact>2975565</contact>
-    <micrCode>144733002</micrCode>
-    <ifscCode>BMBL0000056</ifscCode>
-    <bankLoc>6648</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nagpur</name>
-    <city>Nagpur</city>
-    <address>Plot NO.42 Lakadganj .OPPOSITE Mahindra Service Centre, Chhapru Chowk C.A. Road, Nagpur, Maharashtra-440008</address>
-    <contact>2735518</contact>
-    <micrCode>440733002</micrCode>
-    <ifscCode>BMBL0000057</ifscCode>
-    <bankLoc>6640</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Noida</name>
-    <city>Noida</city>
-    <address>K K Store, B-1a-10, 1sector -51, Noida -201203</address>
-    <contact>2483145</contact>
-    <micrCode>110733004</micrCode>
-    <ifscCode>BMBL0000058</ifscCode>
-    <bankLoc>6670</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vijayawada</name>
-    <city>Vijayawada</city>
-    <address>NRP Road, D.NO- 26-26-22, Near Nori Hospital, Opp-inox Theatre Line, Gandhi Nagar, Vijayawada, Krishna Dist, Andhra Pradesh 520003</address>
-    <contact>2570789</contact>
-    <micrCode>520733002</micrCode>
-    <ifscCode>BMBL0000059</ifscCode>
-    <bankLoc>6604</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Cuttack</name>
-    <city>Cuttack</city>
-    <address>Iehc Building, Infront OF Buckley Girls High School, Mission Road, Cuttack-753001</address>
-    <contact>2303501</contact>
-    <micrCode>753733002</micrCode>
-    <ifscCode>BMBL0000060</ifscCode>
-    <bankLoc>6644</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mysore</name>
-    <city>Mysore</city>
-    <address>NO. 158k-22, Near Marimallappa College Circle, Narayana Sastry Road, Mysore, Karnataka-570024</address>
-    <contact>2426776</contact>
-    <micrCode>570733002</micrCode>
-    <ifscCode>BMBL0000061</ifscCode>
-    <bankLoc>6629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Trichy</name>
-    <city>Tiruchirappalli</city>
-    <address>No-29b, Rohan S Arcade, 10th Cross, Thillai Nagar, Trichy-18</address>
-    <contact>2744000</contact>
-    <micrCode>620733002</micrCode>
-    <ifscCode>BMBL0000062</ifscCode>
+    <ifscCode>BMBL0009002</ifscCode>
     <bankLoc>6661</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Calicut</name>
-    <city>Calicut</city>
-    <address>Fairmount, 5-86d, Eranhipalam, Calicut, Kerala-673006</address>
-    <contact>2766866</contact>
-    <micrCode>673733002</micrCode>
-    <ifscCode>BMBL0000063</ifscCode>
-    <bankLoc>6631</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jammu</name>
-    <city>Jammu</city>
-    <address>69, B.C Road, Rehari Chowk, Jammu-180001</address>
-    <contact>2545488</contact>
-    <micrCode>180733001</micrCode>
-    <ifscCode>BMBL0000064</ifscCode>
-    <bankLoc>6622</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Madurai</name>
-    <city>Madurai</city>
-    <address>10-386, Main Road, Anna Nagar, Madurai- 625020</address>
-    <contact>2535570</contact>
-    <micrCode>625733002</micrCode>
-    <ifscCode>BMBL0000065</ifscCode>
-    <bankLoc>6660</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Girdharpur</name>
-    <city>Noida</city>
-    <address>Bhati Bhawan, Village Girdharpur, Pargana Dankaur, Tehsil, District Gautam Budh Nagar, U.P.- 203202</address>
-    <contact>25065088</contact>
-    <micrCode>110733005</micrCode>
-    <ifscCode>BMBL0000066</ifscCode>
-    <bankLoc>6670</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Raja Ulatu- Namkum Block</name>
-    <city>Namkum</city>
-    <address>Vill Raja Ulatu, PS Namkum, Distt Ranchi, Jharkhand 834010</address>
-    <contact>0</contact>
-    <micrCode>834733005</micrCode>
-    <ifscCode>BMBL0000067</ifscCode>
-    <bankLoc>6625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kutiyatu-namkum Block</name>
-    <city>Ranchi</city>
-    <address>Bharatiya??mahila Bank??kutiyatu Branch??village??-pindarcom??post??-tetri, Namkum Ranchi??834010</address>
-    <contact>2147483647</contact>
-    <micrCode>834733004</micrCode>
-    <ifscCode>BMBL0000068</ifscCode>
-    <bankLoc>6625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhaneli</name>
-    <city>Raipur</city>
-    <address>Gram Panchayat Bhavan, Village-dhaneli, Block-dharseba, Distt-raipur, Chattisgarh-492015</address>
-    <contact>2147483647</contact>
-    <micrCode>492733501</micrCode>
-    <ifscCode>BMBL0000069</ifscCode>
-    <bankLoc>6611</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Masoodpur</name>
-    <city>Dholpur</city>
-    <address>Village &#x13; Masoodpur, Ondela Road, Khasra NO. 67-69?á, ?Á?ÁDISTT.-?ÁDHOLPUR, Rajasthan- ?á328001</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000070</ifscCode>
-    <bankLoc>6652</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mangrol</name>
-    <city>Dholpur</city>
-    <address>Deepmala School Building, Mania Marena Road, Village-mangrol, DISTT.- Dholpur, Rajasthan - ??328024??</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000071</ifscCode>
-    <bankLoc>6652</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pyarepur Mauda, Lucknow Rural</name>
-    <city>Bijnaur</city>
-    <address>VILL. - Pyarepur, Post &#x13; Mauda, Pargana &#x13; Bijnor, Tehsil &amp; Dist- Lucknow, Uttar ?ápradesh?á- 226008</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000072</ifscCode>
-    <bankLoc>6672</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gohanakala, Lucknow Rural</name>
-    <city>Bakshi-ka-talab</city>
-    <address>VILL. Gohanakala, Pargana Mahona, Post Kotva, Tehsil Bakshi KA Talab, Lucknow, Uttar Pradesh</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000073</ifscCode>
-    <bankLoc>6672</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bommaraspet</name>
-    <city>Thumkunta</city>
-    <address>D.NO. 3-85/1, Village &#x13; Bommaraspet, Shamirpet Mandal, Near GOVT. High SCHOOL.?Á?Á District -K.V.RANGA Reddy - ?á?á500078, Telangana</address>
-    <contact>236366</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000074</ifscCode>
-    <bankLoc>6664</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chavarcode-trivandrum</name>
-    <city>Varkala</city>
-    <address>Saraswathy Building, Varkala &#x13; Paripally Road, Chavarcode Ilakamon Panchayat, ?áchavarcode, Trivendrum-695146, Kerala</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000075</ifscCode>
-    <bankLoc>6632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kottor</name>
-    <city>Mannoorkara</city>
-    <address>Alfia Tower, Kottor PO, Kuttichal Panchayath, Trivandrum 695574, Kerala</address>
-    <contact>2850454</contact>
-    <micrCode>695733003</micrCode>
-    <ifscCode>BMBL0000076</ifscCode>
-    <bankLoc>6632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Punnavoor-trivandrum</name>
-    <city>Panavoor</city>
-    <address>Ponnu Arcade, Punnavoor, Koovalassery P.O, Maranallur - 695512</address>
-    <contact>2298399</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000077</ifscCode>
-    <bankLoc>6632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shahpur, Haridwar Rural</name>
-    <city>Sultanpur Kunhari</city>
-    <address>Khasra NO.3, Shahpur Sheetla Khera, Village-post Shahpur, Main Road, Haridwar-247663</address>
-    <contact>288888</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000078</ifscCode>
-    <bankLoc>6675</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Burha Khukhra-ranchi</name>
-    <city>Mandar</city>
-    <address>Burha Khukhra, P.O. Burha Khukhra, P.S. Mandar Block, Ranchi, Jharkhand??</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000079</ifscCode>
-    <bankLoc>6625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Moxi-vadodara</name>
-    <city>Savli</city>
-    <address>Village Moxi, TAL Savli, DIST. Vadodara- 391780</address>
-    <contact>0</contact>
-    <micrCode>390733004</micrCode>
-    <ifscCode>BMBL0000080</ifscCode>
-    <bankLoc>6616</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mahuvad, Vadodara Rural</name>
-    <city>Padra</city>
-    <address>OM Residency, Mahuvad Chowki, Village Mahuvad, Tahsil Padra, Dist- Vadodara- 391440?á</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000081</ifscCode>
-    <bankLoc>6616</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajapet Mandal Telangana</name>
-    <city>Rajapet</city>
-    <address>House NO 4-59, Rajapet, Nalgonda</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000082</ifscCode>
-    <bankLoc>6663</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gokulpur-agartala</name>
-    <city>Udaipur</city>
-    <address>Gokulpur Branch, Village-dhajanagar, Tepania, Tripura-799114</address>
-    <contact>2147483647</contact>
-    <micrCode>799733202</micrCode>
-    <ifscCode>BMBL0000083</ifscCode>
-    <bankLoc>6665</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sabbanakuppe</name>
-    <city>Srirangapatna</city>
-    <address>NO 263 Sabbannakuppe Gram Panchayat, SR Pattana Taluka, Mandya District, Karnataka-571807</address>
-    <contact>0</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0000084</ifscCode>
-    <bankLoc>6628</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Doddapalaya</name>
-    <city>Srirangapatna</city>
-    <address>Doddapalaya Village, Mundugudore Grama Panchayat&#xb;h, Sriranga Pattana Taluka, Mandya District, Mysore, Karnataka</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000085</ifscCode>
-    <bankLoc>6628</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lalithadripura</name>
-    <city>Mysore</city>
-    <address>Bharatiya Mahila Bank Ltd, NO.656 - OLD NO.141, ??uttanahalli Main Road, Lalithadripura Village, Alanahalli Grama Panchayath, ??mysuru Taluka, ??mysuru Distirct, Karnataka -570010</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000086</ifscCode>
-    <bankLoc>6629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Murshidabad</name>
-    <city>Murshidabad</city>
-    <address>81, Amar Chakraborty Main Road, Indraprastha PO- Khagra Berhampore, Murshidabad - 742103</address>
-    <contact>256034</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000087</ifscCode>
-    <bankLoc>6678</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Beeri Mangalore</name>
-    <city>Mangalore</city>
-    <address>Netravathi Building, DOOR. NO. 3-9-5-3 Maddur Main Road, Beeri Village Kotekar Panchayath, Mangalore &#x13; 575022</address>
-    <contact>0</contact>
-    <micrCode>575733003</micrCode>
-    <ifscCode>BMBL0000088</ifscCode>
-    <bankLoc>6627</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Faridabad</name>
-    <city>Faridabad</city>
-    <address>Plot NO 2, Site NO 1, ??near Mewla Maharajpur Metro Station, Lajwanti Complex, Sector 31, Faridabad -121003</address>
-    <contact>2147483647</contact>
-    <micrCode>110733006</micrCode>
-    <ifscCode>BMBL0000090</ifscCode>
-    <bankLoc>6617</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Najafgarh</name>
-    <city>Chhawla</city>
-    <address>Plot NO. 1, Roshan Mandi, Main Najafgarh Road, Najafgarh, NEW Delhi-110043</address>
-    <contact>0</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0000091</ifscCode>
-    <bankLoc>6612</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Allahabad</name>
-    <city>Allahabad</city>
-    <address>1169 B, Gaughat Road, Mutthiganj Allahabad- 211003</address>
-    <contact>2413961</contact>
-    <micrCode>211733002</micrCode>
-    <ifscCode>BMBL0000092</ifscCode>
-    <bankLoc>6668</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kota</name>
-    <city>Kota</city>
-    <address>Showroom NO. 3 AND 4, Plot NO. 1, Sahyog Bhawan, Aerodrome Circle, Kota-324005, Rajasthan</address>
-    <contact>2630095</contact>
-    <micrCode>324733002</micrCode>
-    <ifscCode>BMBL0000093</ifscCode>
-    <bankLoc>6654</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Visakhapatnam</name>
-    <city>Visakhapatnam</city>
-    <address>Ground Flr, 54-15-10/1, GF 2 Seethammadhara Visakhapatnam A P-530013</address>
-    <contact>2543331</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0000094</ifscCode>
-    <bankLoc>6605</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Trissur</name>
-    <city>Thrissur</city>
-    <address>19/124/1 &amp; 19/124/2, Ground Floor, Atlas Building, Poothole, Thrissur</address>
-    <contact>2380980</contact>
-    <micrCode>680733002</micrCode>
-    <ifscCode>BMBL0000095</ifscCode>
-    <bankLoc>6633</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bilaspur</name>
-    <city>Bilaspur</city>
-    <address>Civil Lines, Near Indu Chowk, NEW BUS Stand, Jarhabhata, Bilaspur, Chhattisgarh-495001</address>
-    <contact>229222</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000096</ifscCode>
-    <bankLoc>6610</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pallavaram</name>
-    <city>Pallavaram</city>
-    <address>170, Pammal Road, Pallavaram, Chennai-600075</address>
-    <contact>2147483647</contact>
-    <micrCode>600733005</micrCode>
-    <ifscCode>BMBL0000097</ifscCode>
-    <bankLoc>6659</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kancheepuram</name>
-    <city>Kancheepuram</city>
-    <address>45a, Karikini Amarthaval Koil Street, Collectorate Road, Kancheepuram, 631501</address>
-    <contact>27233868</contact>
-    <micrCode>600733003</micrCode>
-    <ifscCode>BMBL0000098</ifscCode>
-    <bankLoc>6659</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Meerut</name>
-    <city>Meerut</city>
-    <address>C32, Pocket G, Main Divider Road, Ganganagar, Meerut-250001</address>
-    <contact>2623227</contact>
-    <micrCode>250733002</micrCode>
-    <ifscCode>BMBL0000099</ifscCode>
-    <bankLoc>6673</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bokaro</name>
-    <city>Bokaro</city>
-    <address>Alankar Bhawan, Near Check Post-chas</address>
-    <contact>2234022</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000100</ifscCode>
-    <bankLoc>6623</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rudrapur</name>
-    <city>Rudrapur</city>
-    <address>Plot NO. 16-17/1, Sgad Complex, Nainital Road, Rudrapur-263153, Udham Singh Nagar, Uttarakhand</address>
-    <contact>240052</contact>
-    <micrCode>263733202</micrCode>
-    <ifscCode>BMBL0000101</ifscCode>
-    <bankLoc>6676</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shivapuram</name>
-    <city>Jaggayyapet</city>
-    <address>H.NO 10-26, Sivapuram Village, Penuganchiprolu Mandal, Krishna Dist-521190</address>
-    <contact>2147483647</contact>
-    <micrCode>520733702</micrCode>
-    <ifscCode>BMBL0000102</ifscCode>
-    <bankLoc>6604</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rangarajapuram</name>
-    <city>Chennai</city>
-    <address>SRI Ranga, NEW No-55, OLD No-23, Rangarajapuram Main Road, Chennai-600024</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000103</ifscCode>
+    <name>Mumbai Nariman Point Branch</name>
+    <city>Mumbai</city>
+    <address>Ground Floor Towards Trident Hotel, AIR India Premises, AIR India Building Mumbai 400 021</address>
+    <contact>22022603</contact>
+    <micrCode>400733002</micrCode>
+    <ifscCode>BMBL0009001</ifscCode>
     <bankLoc>6657</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Narike</name>
-    <city>Malerkotla</city>
-    <address>Village-narike, Teshil-malerkotla, DISTT. Sangrur, Punjab-148023</address>
-    <contact>280012</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>BMBL0000104</ifscCode>
-    <bankLoc>6650</bankLoc>
+    <name>Sambalpur</name>
+    <city>Sambalpur</city>
+    <address>944, Bhagawati Complex, Beside Income TAX Office, Nh6, Sambalpur, Odisha, PIN 768004</address>
+    <contact>2147483647</contact>
+    <micrCode>768733002</micrCode>
+    <ifscCode>BMBL0000110</ifscCode>
+    <bankLoc>6665</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Udaipur</name>
-    <city>Udaipur</city>
-    <address>Ground Floor 2B Hazareshwer Colony NR Court Circle Udaipur-313001</address>
-    <contact>2420100</contact>
-    <micrCode>313733002</micrCode>
-    <ifscCode>BMBL0000105</ifscCode>
+    <name>Bareilly</name>
+    <city>Ekta Nagar</city>
+    <address>Door 3-b, M.I.G, Ekta Nagar, Delapeer Road, Philibhit Road, Bareilly 243002</address>
+    <contact>2303670</contact>
+    <micrCode>243733002</micrCode>
+    <ifscCode>BMBL0000109</ifscCode>
+    <bankLoc>6688</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amritsar</name>
+    <city>Amritsar</city>
+    <address>310, Phoenix Building, Akash Avenue Main, Fatehgarh Churian Road, Amritsar, Punjab, 143001</address>
+    <contact>2570081</contact>
+    <micrCode>143733002</micrCode>
+    <ifscCode>BMBL0000108</ifscCode>
+    <bankLoc>6666</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jabalpur</name>
+    <city>Jabalpur</city>
+    <address>1506, Garha Ward, Near Rani Durgawati School, Ganga Nagar, Main Road, Jabalpur 482003</address>
+    <contact>2674500</contact>
+    <micrCode>482733001</micrCode>
+    <ifscCode>BMBL0000107</ifscCode>
     <bankLoc>6655</bankLoc>
   </bankbranch>
   <bankbranch>
@@ -915,60 +60,906 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>BMBL0000106</ifscCode>
-    <bankLoc>6675</bankLoc>
+    <bankLoc>6694</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Jabalpur</name>
-    <city>Jabalpur</city>
-    <address>1506, Garha Ward, Near Rani Durgawati School, Ganga Nagar, Main Road, Jabalpur 482003</address>
-    <contact>2674500</contact>
-    <micrCode>482733001</micrCode>
-    <ifscCode>BMBL0000107</ifscCode>
-    <bankLoc>6636</bankLoc>
+    <name>Udaipur</name>
+    <city>Udaipur</city>
+    <address>Ground Floor 2B Hazareshwer Colony NR Court Circle Udaipur-313001</address>
+    <contact>2420100</contact>
+    <micrCode>313733002</micrCode>
+    <ifscCode>BMBL0000105</ifscCode>
+    <bankLoc>6674</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Amritsar</name>
-    <city>Amritsar</city>
-    <address>310, Phoenix Building, Akash Avenue Main, Fatehgarh Churian Road, Amritsar, Punjab, 143001</address>
-    <contact>2570081</contact>
-    <micrCode>143733002</micrCode>
-    <ifscCode>BMBL0000108</ifscCode>
-    <bankLoc>6647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bareilly</name>
-    <city>Ekta Nagar</city>
-    <address>Door 3-b, M.I.G, Ekta Nagar, Delapeer Road, Philibhit Road, Bareilly 243002</address>
-    <contact>2303670</contact>
-    <micrCode>243733002</micrCode>
-    <ifscCode>BMBL0000109</ifscCode>
+    <name>Narike</name>
+    <city>Malerkotla</city>
+    <address>Village-narike, Teshil-malerkotla, DISTT. Sangrur, Punjab-148023</address>
+    <contact>280012</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000104</ifscCode>
     <bankLoc>6669</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Sambalpur</name>
-    <city>Sambalpur</city>
-    <address>944, Bhagawati Complex, Beside Income TAX Office, Nh6, Sambalpur, Odisha, PIN 768004</address>
+    <name>Shivapuram</name>
+    <city>Jaggayyapet</city>
+    <address>H.NO 10-26, Sivapuram Village, Penuganchiprolu Mandal, Krishna Dist-521190</address>
     <contact>2147483647</contact>
-    <micrCode>768733002</micrCode>
-    <ifscCode>BMBL0000110</ifscCode>
+    <micrCode>520733702</micrCode>
+    <ifscCode>BMBL0000102</ifscCode>
+    <bankLoc>6623</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rudrapur</name>
+    <city>Rudrapur</city>
+    <address>Plot NO. 16-17/1, Sgad Complex, Nainital Road, Rudrapur-263153, Udham Singh Nagar, Uttarakhand</address>
+    <contact>240052</contact>
+    <micrCode>263733202</micrCode>
+    <ifscCode>BMBL0000101</ifscCode>
+    <bankLoc>6695</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bokaro</name>
+    <city>Bokaro</city>
+    <address>Alankar Bhawan, Near Check Post-chas</address>
+    <contact>2234022</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000100</ifscCode>
+    <bankLoc>6642</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Meerut</name>
+    <city>Meerut</city>
+    <address>C32, Pocket G, Main Divider Road, Ganganagar, Meerut-250001</address>
+    <contact>2623227</contact>
+    <micrCode>250733002</micrCode>
+    <ifscCode>BMBL0000099</ifscCode>
+    <bankLoc>6692</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kancheepuram</name>
+    <city>Kancheepuram</city>
+    <address>45a, Karikini Amarthaval Koil Street, Collectorate Road, Kancheepuram, 631501</address>
+    <contact>27233868</contact>
+    <micrCode>600733003</micrCode>
+    <ifscCode>BMBL0000098</ifscCode>
+    <bankLoc>6678</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pallavaram</name>
+    <city>Pallavaram</city>
+    <address>170, Pammal Road, Pallavaram, Chennai-600075</address>
+    <contact>2147483647</contact>
+    <micrCode>600733005</micrCode>
+    <ifscCode>BMBL0000097</ifscCode>
+    <bankLoc>6678</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bilaspur</name>
+    <city>Bilaspur</city>
+    <address>Civil Lines, Near Indu Chowk, NEW BUS Stand, Jarhabhata, Bilaspur, Chhattisgarh-495001</address>
+    <contact>229222</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000096</ifscCode>
+    <bankLoc>6629</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trissur</name>
+    <city>Thrissur</city>
+    <address>19/124/1 &amp; 19/124/2, Ground Floor, Atlas Building, Poothole, Thrissur</address>
+    <contact>2380980</contact>
+    <micrCode>680733002</micrCode>
+    <ifscCode>BMBL0000095</ifscCode>
+    <bankLoc>6652</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Visakhapatnam</name>
+    <city>Visakhapatnam</city>
+    <address>Ground Flr, 54-15-10/1, GF 2 Seethammadhara Visakhapatnam A P-530013</address>
+    <contact>2543331</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>BMBL0000094</ifscCode>
+    <bankLoc>6624</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kota</name>
+    <city>Kota</city>
+    <address>Showroom NO. 3 AND 4, Plot NO. 1, Sahyog Bhawan, Aerodrome Circle, Kota-324005, Rajasthan</address>
+    <contact>2630095</contact>
+    <micrCode>324733002</micrCode>
+    <ifscCode>BMBL0000093</ifscCode>
+    <bankLoc>6673</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad</name>
+    <city>Allahabad</city>
+    <address>1169 B, Gaughat Road, Mutthiganj Allahabad- 211003</address>
+    <contact>2413961</contact>
+    <micrCode>211733002</micrCode>
+    <ifscCode>BMBL0000092</ifscCode>
+    <bankLoc>6687</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Najafgarh</name>
+    <city>Chhawla</city>
+    <address>Plot NO. 1, Roshan Mandi, Main Najafgarh Road, Najafgarh, NEW Delhi-110043</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>BMBL0000091</ifscCode>
+    <bankLoc>6631</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Faridabad</name>
+    <city>Faridabad</city>
+    <address>Plot NO 2, Site NO 1, ??near Mewla Maharajpur Metro Station, Lajwanti Complex, Sector 31, Faridabad -121003</address>
+    <contact>2147483647</contact>
+    <micrCode>110733006</micrCode>
+    <ifscCode>BMBL0000090</ifscCode>
+    <bankLoc>6636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Beeri Mangalore</name>
+    <city>Mangalore</city>
+    <address>Netravathi Building, DOOR. NO. 3-9-5-3 Maddur Main Road, Beeri Village Kotekar Panchayath, Mangalore &#x13; 575022</address>
+    <contact>0</contact>
+    <micrCode>575733003</micrCode>
+    <ifscCode>BMBL0000088</ifscCode>
     <bankLoc>6646</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Mumbai Nariman Point Branch</name>
-    <city>Mumbai</city>
-    <address>Ground Floor Towards Trident Hotel, AIR India Premises, AIR India Building Mumbai 400 021</address>
-    <contact>22022603</contact>
-    <micrCode>400733002</micrCode>
-    <ifscCode>BMBL0009001</ifscCode>
+    <name>Murshidabad</name>
+    <city>Murshidabad</city>
+    <address>81, Amar Chakraborty Main Road, Indraprastha PO- Khagra Berhampore, Murshidabad - 742103</address>
+    <contact>256034</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000087</ifscCode>
+    <bankLoc>6697</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lalithadripura</name>
+    <city>Mysore</city>
+    <address>Bharatiya Mahila Bank Ltd, NO.656 - OLD NO.141, ??uttanahalli Main Road, Lalithadripura Village, Alanahalli Grama Panchayath, ??mysuru Taluka, ??mysuru Distirct, Karnataka -570010</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000086</ifscCode>
+    <bankLoc>6648</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Doddapalaya</name>
+    <city>Srirangapatna</city>
+    <address>Doddapalaya Village, Mundugudore Grama Panchayat&#xb;h, Sriranga Pattana Taluka, Mandya District, Mysore, Karnataka</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000085</ifscCode>
+    <bankLoc>6647</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sabbanakuppe</name>
+    <city>Srirangapatna</city>
+    <address>NO 263 Sabbannakuppe Gram Panchayat, SR Pattana Taluka, Mandya District, Karnataka-571807</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>BMBL0000084</ifscCode>
+    <bankLoc>6647</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gokulpur-agartala</name>
+    <city>Udaipur</city>
+    <address>Gokulpur Branch, Village-dhajanagar, Tepania, Tripura-799114</address>
+    <contact>2147483647</contact>
+    <micrCode>799733202</micrCode>
+    <ifscCode>BMBL0000083</ifscCode>
+    <bankLoc>6684</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajapet Mandal Telangana</name>
+    <city>Rajapet</city>
+    <address>House NO 4-59, Rajapet, Nalgonda</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000082</ifscCode>
+    <bankLoc>6682</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mahuvad, Vadodara Rural</name>
+    <city>Padra</city>
+    <address>OM Residency, Mahuvad Chowki, Village Mahuvad, Tahsil Padra, Dist- Vadodara- 391440?á</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000081</ifscCode>
+    <bankLoc>6635</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Moxi-vadodara</name>
+    <city>Savli</city>
+    <address>Village Moxi, TAL Savli, DIST. Vadodara- 391780</address>
+    <contact>0</contact>
+    <micrCode>390733004</micrCode>
+    <ifscCode>BMBL0000080</ifscCode>
+    <bankLoc>6635</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Burha Khukhra-ranchi</name>
+    <city>Mandar</city>
+    <address>Burha Khukhra, P.O. Burha Khukhra, P.S. Mandar Block, Ranchi, Jharkhand??</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000079</ifscCode>
+    <bankLoc>6644</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahpur, Haridwar Rural</name>
+    <city>Sultanpur Kunhari</city>
+    <address>Khasra NO.3, Shahpur Sheetla Khera, Village-post Shahpur, Main Road, Haridwar-247663</address>
+    <contact>288888</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000078</ifscCode>
+    <bankLoc>6694</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Punnavoor-trivandrum</name>
+    <city>Panavoor</city>
+    <address>Ponnu Arcade, Punnavoor, Koovalassery P.O, Maranallur - 695512</address>
+    <contact>2298399</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000077</ifscCode>
+    <bankLoc>6651</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kottor</name>
+    <city>Mannoorkara</city>
+    <address>Alfia Tower, Kottor PO, Kuttichal Panchayath, Trivandrum 695574, Kerala</address>
+    <contact>2850454</contact>
+    <micrCode>695733003</micrCode>
+    <ifscCode>BMBL0000076</ifscCode>
+    <bankLoc>6651</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chavarcode-trivandrum</name>
+    <city>Varkala</city>
+    <address>Saraswathy Building, Varkala &#x13; Paripally Road, Chavarcode Ilakamon Panchayat, ?áchavarcode, Trivendrum-695146, Kerala</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000075</ifscCode>
+    <bankLoc>6651</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bommaraspet</name>
+    <city>Thumkunta</city>
+    <address>D.NO. 3-85/1, Village &#x13; Bommaraspet, Shamirpet Mandal, Near GOVT. High SCHOOL.?Á?Á District -K.V.RANGA Reddy - ?á?á500078, Telangana</address>
+    <contact>236366</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000074</ifscCode>
+    <bankLoc>6683</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gohanakala, Lucknow Rural</name>
+    <city>Bakshi-ka-talab</city>
+    <address>VILL. Gohanakala, Pargana Mahona, Post Kotva, Tehsil Bakshi KA Talab, Lucknow, Uttar Pradesh</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000073</ifscCode>
+    <bankLoc>6691</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pyarepur Mauda, Lucknow Rural</name>
+    <city>Bijnaur</city>
+    <address>VILL. - Pyarepur, Post &#x13; Mauda, Pargana &#x13; Bijnor, Tehsil &amp; Dist- Lucknow, Uttar ?ápradesh?á- 226008</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000072</ifscCode>
+    <bankLoc>6691</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mangrol</name>
+    <city>Dholpur</city>
+    <address>Deepmala School Building, Mania Marena Road, Village-mangrol, DISTT.- Dholpur, Rajasthan - ??328024??</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000071</ifscCode>
+    <bankLoc>6671</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Masoodpur</name>
+    <city>Dholpur</city>
+    <address>Village &#x13; Masoodpur, Ondela Road, Khasra NO. 67-69?á, ?Á?ÁDISTT.-?ÁDHOLPUR, Rajasthan- ?á328001</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>BMBL0000070</ifscCode>
+    <bankLoc>6671</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhaneli</name>
+    <city>Raipur</city>
+    <address>Gram Panchayat Bhavan, Village-dhaneli, Block-dharseba, Distt-raipur, Chattisgarh-492015</address>
+    <contact>2147483647</contact>
+    <micrCode>492733501</micrCode>
+    <ifscCode>BMBL0000069</ifscCode>
+    <bankLoc>6630</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kutiyatu-namkum Block</name>
+    <city>Ranchi</city>
+    <address>Bharatiya??mahila Bank??kutiyatu Branch??village??-pindarcom??post??-tetri, Namkum Ranchi??834010</address>
+    <contact>2147483647</contact>
+    <micrCode>834733004</micrCode>
+    <ifscCode>BMBL0000068</ifscCode>
+    <bankLoc>6644</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raja Ulatu- Namkum Block</name>
+    <city>Namkum</city>
+    <address>Vill Raja Ulatu, PS Namkum, Distt Ranchi, Jharkhand 834010</address>
+    <contact>0</contact>
+    <micrCode>834733005</micrCode>
+    <ifscCode>BMBL0000067</ifscCode>
+    <bankLoc>6644</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Girdharpur</name>
+    <city>Noida</city>
+    <address>Bhati Bhawan, Village Girdharpur, Pargana Dankaur, Tehsil, District Gautam Budh Nagar, U.P.- 203202</address>
+    <contact>25065088</contact>
+    <micrCode>110733005</micrCode>
+    <ifscCode>BMBL0000066</ifscCode>
+    <bankLoc>6689</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Madurai</name>
+    <city>Madurai</city>
+    <address>10-386, Main Road, Anna Nagar, Madurai- 625020</address>
+    <contact>2535570</contact>
+    <micrCode>625733002</micrCode>
+    <ifscCode>BMBL0000065</ifscCode>
+    <bankLoc>6679</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jammu</name>
+    <city>Jammu</city>
+    <address>69, B.C Road, Rehari Chowk, Jammu-180001</address>
+    <contact>2545488</contact>
+    <micrCode>180733001</micrCode>
+    <ifscCode>BMBL0000064</ifscCode>
+    <bankLoc>6641</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Calicut</name>
+    <city>Calicut</city>
+    <address>Fairmount, 5-86d, Eranhipalam, Calicut, Kerala-673006</address>
+    <contact>2766866</contact>
+    <micrCode>673733002</micrCode>
+    <ifscCode>BMBL0000063</ifscCode>
+    <bankLoc>6650</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trichy</name>
+    <city>Tiruchirappalli</city>
+    <address>No-29b, Rohan S Arcade, 10th Cross, Thillai Nagar, Trichy-18</address>
+    <contact>2744000</contact>
+    <micrCode>620733002</micrCode>
+    <ifscCode>BMBL0000062</ifscCode>
+    <bankLoc>6680</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mysore</name>
+    <city>Mysore</city>
+    <address>NO. 158k-22, Near Marimallappa College Circle, Narayana Sastry Road, Mysore, Karnataka-570024</address>
+    <contact>2426776</contact>
+    <micrCode>570733002</micrCode>
+    <ifscCode>BMBL0000061</ifscCode>
+    <bankLoc>6648</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cuttack</name>
+    <city>Cuttack</city>
+    <address>Iehc Building, Infront OF Buckley Girls High School, Mission Road, Cuttack-753001</address>
+    <contact>2303501</contact>
+    <micrCode>753733002</micrCode>
+    <ifscCode>BMBL0000060</ifscCode>
+    <bankLoc>6663</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijayawada</name>
+    <city>Vijayawada</city>
+    <address>NRP Road, D.NO- 26-26-22, Near Nori Hospital, Opp-inox Theatre Line, Gandhi Nagar, Vijayawada, Krishna Dist, Andhra Pradesh 520003</address>
+    <contact>2570789</contact>
+    <micrCode>520733002</micrCode>
+    <ifscCode>BMBL0000059</ifscCode>
+    <bankLoc>6623</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Noida</name>
+    <city>Noida</city>
+    <address>K K Store, B-1a-10, 1sector -51, Noida -201203</address>
+    <contact>2483145</contact>
+    <micrCode>110733004</micrCode>
+    <ifscCode>BMBL0000058</ifscCode>
+    <bankLoc>6689</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nagpur</name>
+    <city>Nagpur</city>
+    <address>Plot NO.42 Lakadganj .OPPOSITE Mahindra Service Centre, Chhapru Chowk C.A. Road, Nagpur, Maharashtra-440008</address>
+    <contact>2735518</contact>
+    <micrCode>440733002</micrCode>
+    <ifscCode>BMBL0000057</ifscCode>
+    <bankLoc>6659</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalandhar</name>
+    <city>Jalandhar</city>
+    <address>Plot NO 272, Brand NEW Building, Model Town, Jalandhar, Punjab 144003</address>
+    <contact>2975565</contact>
+    <micrCode>144733002</micrCode>
+    <ifscCode>BMBL0000056</ifscCode>
+    <bankLoc>6667</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bastar</name>
+    <city>Bastar</city>
+    <address>Bhartiya??mahila??bank Limited, Up-down Road, Mahurbandpara Kanker, Chhattisgarh, PIN Code-??494334</address>
+    <contact>222368</contact>
+    <micrCode>494733101</micrCode>
+    <ifscCode>BMBL0000055</ifscCode>
+    <bankLoc>6628</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jamshedpur</name>
+    <city>Jamshedpur</city>
+    <address>96 S.N.P. Area, Near Aambagan, Sakchi, City-jamshedpur, Dist-east Singhbhum</address>
+    <contact>2221290</contact>
+    <micrCode>831733002</micrCode>
+    <ifscCode>BMBL0000054</ifscCode>
+    <bankLoc>6643</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ujjain</name>
+    <city>Ujjain</city>
+    <address>33, 34, Varuchu Marg, Madhav Nagar, Ujjain, MP 456010</address>
+    <contact>2526869</contact>
+    <micrCode>456733002</micrCode>
+    <ifscCode>BMBL0000053</ifscCode>
+    <bankLoc>6656</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nawanshahar</name>
+    <city>Nawanshahar</city>
+    <address>RV Tower, Chandigarh Road, District- Nawanshahar, Punjab- 144514</address>
+    <contact>220077</contact>
+    <micrCode>144733302</micrCode>
+    <ifscCode>BMBL0000052</ifscCode>
+    <bankLoc>6668</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mehbubnagar</name>
+    <city>Mahbubnagar</city>
+    <address>1-6-92-14, Subash Nagar, Near Boyapalli Gate, Mahabubnagar, Telangana-509001</address>
+    <contact>244777</contact>
+    <micrCode>509733002</micrCode>
+    <ifscCode>BMBL0000051</ifscCode>
+    <bankLoc>6681</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhopal</name>
+    <city>Bhopal</city>
+    <address>53, Zone-2, Near Chetak Complex, M.P. Nagar, Bhopal-462011</address>
+    <contact>2555572</contact>
+    <micrCode>462733001</micrCode>
+    <ifscCode>BMBL0000050</ifscCode>
+    <bankLoc>6653</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Solan-himachal Pradesh</name>
+    <city>Solan</city>
+    <address>KH.NO. 1195\1196\1198\1200\1201\1202, Rajgarh Road, Near Maharashtra Bank, OPP. Fultron Credits- Solan, HP</address>
+    <contact>220483</contact>
+    <micrCode>173733002</micrCode>
+    <ifscCode>BMBL0000049</ifscCode>
+    <bankLoc>6640</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cuttak-bentapada</name>
+    <city>Athgarh</city>
+    <address>Near Panchayat Office Building-bharatiya Rajiv Gandhi Seba Kendra, Bentapada, Athagarh, Cuttack-754029, Odisha</address>
+    <contact>2147483647</contact>
+    <micrCode>754733503</micrCode>
+    <ifscCode>BMBL0000048</ifscCode>
+    <bankLoc>6663</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cuttak-nakhara</name>
+    <city>Phulnakhara</city>
+    <address>Nakhara Grampanchayat Office (ground Floor), Nakhara, Choudwar, Cuttack-754025, Odisha</address>
+    <contact>2147483647</contact>
+    <micrCode>754733502</micrCode>
+    <ifscCode>BMBL0000047</ifscCode>
+    <bankLoc>6663</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cuttak-sangarpur</name>
+    <city>Choudwar</city>
+    <address>Bharat Nirman Rajiv Gandhi Seva Kendra, Sankarpur, Tangi-choudwar, Cuttack-754028, Odisha</address>
+    <contact>2147483647</contact>
+    <micrCode>754733501</micrCode>
+    <ifscCode>BMBL0000046</ifscCode>
+    <bankLoc>6663</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Komargiri-andhra Pradesh</name>
+    <city>Komaragiripatnam</city>
+    <address>2-16, Main Road, Komargiri, Mahalakshmi Nilayam, East Godavari Distt, Andhra Pradesh</address>
+    <contact>9245599</contact>
+    <micrCode>533733003</micrCode>
+    <ifscCode>BMBL0000045</ifscCode>
+    <bankLoc>6621</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mangalore</name>
+    <city>Mangalore</city>
+    <address>2-16-1386\18 OPP ksrtc, BUS Stand, Bejai, Kavoor Cross, Mangalore-575004</address>
+    <contact>4252001</contact>
+    <micrCode>575733002</micrCode>
+    <ifscCode>BMBL0000044</ifscCode>
+    <bankLoc>6646</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vadodara</name>
+    <city>Vadodara</city>
+    <address>Ground Floor, Florence Classic 10, Ashapuri Society, Near Unnati Vidyalaya, Akota Vadodara-390020</address>
+    <contact>2359266</contact>
+    <micrCode>390733002</micrCode>
+    <ifscCode>BMBL0000043</ifscCode>
+    <bankLoc>6635</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mumbai-ghatkopar</name>
+    <city>West Central Mumbai</city>
+    <address>Krishna Baugh, Shop NO 1, L B S Marg, Ghatkoper West, Central Mumbai</address>
+    <contact>25155355</contact>
+    <micrCode>400733004</micrCode>
+    <ifscCode>BMBL0000042</ifscCode>
+    <bankLoc>6658</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Coimbatore</name>
+    <city>Coimbatore</city>
+    <address>Devranjan Centre, Near Ayyappan Pooja Sangam, 206-1, Sathya Moorthy Road, Ramnagar</address>
+    <contact>4373749</contact>
+    <micrCode>641733002</micrCode>
+    <ifscCode>BMBL0000041</ifscCode>
+    <bankLoc>6677</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Haridwar-uttarakhand</name>
+    <city>Haridwar</city>
+    <address>Plot No-1 &amp; 2, R.K. Enclave, IRA Avenue, Opp- Hyundai Showroom, Arya Nagar Chowk, Haridwar- 249407</address>
+    <contact>252439</contact>
+    <micrCode>249733002</micrCode>
+    <ifscCode>BMBL0000040</ifscCode>
+    <bankLoc>6694</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Model Town NEW Delhi</name>
+    <city>NEW Delhi</city>
+    <address>D,2-8, Model Town 3, Delhi-110009</address>
+    <contact>27417050</contact>
+    <micrCode>110733003</micrCode>
+    <ifscCode>BMBL0000039</ifscCode>
+    <bankLoc>6632</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>Uttam Tower, Opp-aghakhan Palace, Nagar Road, Kalyani Nagar, Pune-411006</address>
+    <contact>26681165</contact>
+    <micrCode>411733002</micrCode>
+    <ifscCode>BMBL0000038</ifscCode>
+    <bankLoc>6660</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kochi</name>
+    <city>Kochi</city>
+    <address>Sivasailam, Ground Floor, D.NO- 869b, 869b1, Changampuzha Samadhi Road, Edappally, Kochi-682024, Kerala</address>
+    <contact>2341113</contact>
+    <micrCode>682733002</micrCode>
+    <ifscCode>BMBL0000037</ifscCode>
+    <bankLoc>6649</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dholpur</name>
+    <city>Dholpur</city>
+    <address>Kachahari Road, Kothi, Dholpur -328001</address>
+    <contact>2147483647</contact>
+    <micrCode>328733002</micrCode>
+    <ifscCode>BMBL0000036</ifscCode>
+    <bankLoc>6671</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thane</name>
+    <city>Thane</city>
+    <address>Ground Floor, Rajashree Chambers, L.B.S. Marg, Near Babubhai Petrol Pump, OPP Muncipality Brahmal Talav Garden, Thane-400601</address>
+    <contact>25475515</contact>
+    <micrCode>400733003</micrCode>
+    <ifscCode>BMBL0000035</ifscCode>
+    <bankLoc>6661</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sector-14 Panchkula</name>
+    <city>Panchkula</city>
+    <address>SCO -203, Sector-14, Main Shopping Area, Panchkula-134109</address>
+    <contact>2586822</contact>
+    <micrCode>160733003</micrCode>
+    <ifscCode>BMBL0000034</ifscCode>
     <bankLoc>6638</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Central Processing Centre</name>
-    <city>NEW Bombay</city>
-    <address>T 361, 6TH Floor, Tower 8, ITC Park, CBD Belapur, Navi Mumbai 400614</address>
-    <contact>22022603</contact>
+    <name>Gurgaon</name>
+    <city>Gurgaon</city>
+    <address>S.C.O -37, Huda Market, Sector-31, Gurgaon, Haryana-122001</address>
+    <contact>2383037</contact>
+    <micrCode>110733002</micrCode>
+    <ifscCode>BMBL0000033</ifscCode>
+    <bankLoc>6637</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kakinada</name>
+    <city>Kakinada</city>
+    <address>2-18-24/1, Madhav Nagar, OPP. TO District Supritendent OF Police Office, Kakinada-533003</address>
+    <contact>2342778</contact>
+    <micrCode>533733002</micrCode>
+    <ifscCode>BMBL0000032</ifscCode>
+    <bankLoc>6621</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>N.E.B Subash Nagar</name>
+    <city>Alwar</city>
+    <address>Balaji Tower, 81, Subash Nagar, N.E.B. Alwar - 301001</address>
+    <contact>2147483647</contact>
+    <micrCode>301733002</micrCode>
+    <ifscCode>BMBL0000031</ifscCode>
+    <bankLoc>6670</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sikandra</name>
+    <city>Agra</city>
+    <address>Rajendra Space, Plot No-6, Sector-16b, Sikandra-awas Vikas Yojana, Agra-282007</address>
+    <contact>2600321</contact>
+    <micrCode>282733002</micrCode>
+    <ifscCode>BMBL0000030</ifscCode>
+    <bankLoc>6686</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tilak Nagar</name>
+    <city>Kanpur</city>
+    <address>7/90 A (3), Tilak Nagar, Kanpur-208002</address>
+    <contact>2147483647</contact>
+    <micrCode>208733002</micrCode>
+    <ifscCode>BMBL0000029</ifscCode>
+    <bankLoc>6690</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Patna Frazer Road Branch</name>
+    <city>Patna</city>
+    <address>Hotel MAURYA.FRAZER Road, Patna 800020</address>
+    <contact>231275</contact>
+    <micrCode>800733002</micrCode>
+    <ifscCode>BMBL0000028</ifscCode>
+    <bankLoc>6626</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Agartala RL Tower Branch</name>
+    <city>Agartala</city>
+    <address>R L Towers, Math Chowmani Bazar, A.A.ROAD, Agartala 799002</address>
+    <contact>2315262</contact>
+    <micrCode>799733002</micrCode>
+    <ifscCode>BMBL0000027</ifscCode>
+    <bankLoc>6685</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>GOA Panaji Branch</name>
+    <city>Panaji</city>
+    <address>H.NO.11 BY 52 BY 4, Ground Floor, Karina Chambers ST.INEZ, Panaji, GOA 403001</address>
+    <contact>2423711</contact>
+    <micrCode>403733002</micrCode>
+    <ifscCode>BMBL0000026</ifscCode>
+    <bankLoc>6633</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhubaneshwar Shahid Nagar Branch</name>
+    <city>Bhubaneshwar</city>
+    <address>778, Maharishi College Road, Sahid Nagar, Bhubaneshwar 751007</address>
+    <contact>2549452</contact>
+    <micrCode>751733002</micrCode>
+    <ifscCode>BMBL0000025</ifscCode>
+    <bankLoc>6664</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gangtok Branch</name>
+    <city>Gangtok</city>
+    <address>Deep Building, Near Ayurvedic Research Centre, 31A National Highway, Sikkim 737102</address>
+    <contact>0</contact>
+    <micrCode>737733002</micrCode>
+    <ifscCode>BMBL0000024</ifscCode>
+    <bankLoc>6675</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shimla Mall Road Branch</name>
+    <city>Simla</city>
+    <address>Bell Villa, THE Mall, Mall Road, ADJ.UNION Bank OF India, Shimla 170001</address>
+    <contact>2655096</contact>
+    <micrCode>171733002</micrCode>
+    <ifscCode>BMBL0000021</ifscCode>
+    <bankLoc>6639</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shillong Bsnl NEW CSC Branch</name>
+    <city>Shillong</city>
+    <address>Bsnl NEW CSC OF CTO Building, Shillong 793001</address>
+    <contact>2505566</contact>
+    <micrCode>793733002</micrCode>
+    <ifscCode>BMBL0000020</ifscCode>
+    <bankLoc>6662</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hyderabad Ameerpet Branch</name>
+    <city>Hyderabad</city>
+    <address>8 3 214 BY 3 AND 4 Srinivasa Nagar W Opposite TO Near Maitivanam, Ameerpet, Hyderabad 500038</address>
+    <contact>23759113</contact>
+    <micrCode>500733001</micrCode>
+    <ifscCode>BMBL0000019</ifscCode>
+    <bankLoc>6622</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandigarh Madhya Marg Branch</name>
+    <city>Chandigarh</city>
+    <address>SCO 3, Ground Floor, Sector 26, Chandigarh 160019</address>
+    <contact>0</contact>
+    <micrCode>160733002</micrCode>
+    <ifscCode>BMBL0000018</ifscCode>
+    <bankLoc>6627</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur IBC Branch</name>
+    <city>Jaipur</city>
+    <address>K 14, International Business Centre, Ashok Marg, C Scheme, Jaipur 302001</address>
+    <contact>2373377</contact>
+    <micrCode>302733002</micrCode>
+    <ifscCode>BMBL0000017</ifscCode>
+    <bankLoc>6672</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thiruvananthapuram Manacaud Branch</name>
+    <city>Tvananthapuram</city>
+    <address>Kamaleswaram Manacaud, Thiruvananthapuram 695009</address>
+    <contact>2457470</contact>
+    <micrCode>695733002</micrCode>
+    <ifscCode>BMBL0000016</ifscCode>
+    <bankLoc>6651</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raipur Dhamtri Raod Branch</name>
+    <city>Raipur</city>
+    <address>Pujari Chambers, Dhamtari Road, Raipur 492001</address>
+    <contact>2274908</contact>
+    <micrCode>492733001</micrCode>
+    <ifscCode>BMBL0000015</ifscCode>
+    <bankLoc>6630</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ranchi Doranda Branch</name>
+    <city>Ranchi</city>
+    <address>Lake View Tower, Near Hotel Yuvraj Palace, Kadru Bypass Road, Doranda, Ranchi 834002</address>
+    <contact>2481059</contact>
+    <micrCode>834733002</micrCode>
+    <ifscCode>BMBL0000014</ifscCode>
+    <bankLoc>6644</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dehradun Rajpur Road Branch</name>
+    <city>Dehradun</city>
+    <address>75, Kailash Plaza, Rajpur Road, Dehradun 248001</address>
+    <contact>2747744</contact>
+    <micrCode>248733002</micrCode>
+    <ifscCode>BMBL0000013</ifscCode>
+    <bankLoc>6693</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Finanace AND Accounts Department</name>
+    <city>Delhi</city>
+    <address>Ifci Tower, 6TH Floor, 61, Nehru Place, NEW Delhi 110 019</address>
+    <contact>47472105</contact>
     <micrCode>WAITING</micrCode>
-    <ifscCode>BMBL0009002</ifscCode>
-    <bankLoc>6642</bankLoc>
+    <ifscCode>BMBL0000012</ifscCode>
+    <bankLoc>6631</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Treasury Department</name>
+    <city>Delhi</city>
+    <address>Ifci Tower, 6TH Floor, 61, Nehru Place, NEW Delhi 110 019</address>
+    <contact>47472110</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>BMBL0000011</ifscCode>
+    <bankLoc>6631</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indore GPO Branch</name>
+    <city>Indore</city>
+    <address>SBI Complex, GPO Chauraha, Indore 452 001</address>
+    <contact>2715400</contact>
+    <micrCode>452733001</micrCode>
+    <ifscCode>BMBL0000009</ifscCode>
+    <bankLoc>6654</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guwahati Guwahati Shillong Road BR</name>
+    <city>Guwahati</city>
+    <address>Ifci, Christian Baste, Guwahati Shillong Road, Guwahati 781 005</address>
+    <contact>2147483647</contact>
+    <micrCode>781733002</micrCode>
+    <ifscCode>BMBL0000008</ifscCode>
+    <bankLoc>6625</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lucknow Hazratganj Branch</name>
+    <city>Lucknow</city>
+    <address>UTI Tower, Ground Floor, Regency Plaza, 5 Park Road, OPP.CIVIL Hospital, Hazrat Ganj, Lucknow 226 001</address>
+    <contact>4042038</contact>
+    <micrCode>226733002</micrCode>
+    <ifscCode>BMBL0000007</ifscCode>
+    <bankLoc>6691</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmedabad CG Road Branch</name>
+    <city>Ahmedabad</city>
+    <address>Ifci Bhawan, CG Road, Bodyline Churasta, Near LAL Bungalow, Ahmedabad 380 006</address>
+    <contact>20506080</contact>
+    <micrCode>380733002</micrCode>
+    <ifscCode>BMBL0000006</ifscCode>
+    <bankLoc>6634</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bengaluru Hudson Circle Branch</name>
+    <city>Bangalore</city>
+    <address>Ifci Bhawan, 2,cubbonpet Main Road, NR Square Hudson Circle, Bengaluru 560 011</address>
+    <contact>22221415</contact>
+    <micrCode>560733002</micrCode>
+    <ifscCode>BMBL0000005</ifscCode>
+    <bankLoc>6645</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai Anna Salai Branch</name>
+    <city>Chennai</city>
+    <address>SRI Ranga, NEW NO 55, OLD NO 23, Rangarajapuram Main Road, Chennai 600024</address>
+    <contact>28523321</contact>
+    <micrCode>600733002</micrCode>
+    <ifscCode>BMBL0000004</ifscCode>
+    <bankLoc>6676</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolkata Park Street Branch</name>
+    <city>Kolkata</city>
+    <address>Apeejay House, 15, Park Street, Kolkata 700 016</address>
+    <contact>22650848</contact>
+    <micrCode>700733002</micrCode>
+    <ifscCode>BMBL0000003</ifscCode>
+    <bankLoc>6696</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Delhi Nehru Place Branch</name>
+    <city>Delhi</city>
+    <address>Ifci Tower, Ground Floor, 61, Nehru Place, NEW Delhi 110 019</address>
+    <contact>26470728</contact>
+    <micrCode>110733001</micrCode>
+    <ifscCode>BMBL0000002</ifscCode>
+    <bankLoc>6631</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rtgs-ho</name>
+    <city>Delhi</city>
+    <address>Ifci Tower, 6TH Floor, 61, Nehru Place, NEW Delhi 110 019</address>
+    <contact>47472105</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>BMBL0000001</ifscCode>
+    <bankLoc>6631</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -1,111 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Borivli</name>
+    <name>Treasury</name>
     <city>Mumbai</city>
-    <address>Giriraj Apartment, Ground Floor, Factory Lane, OPP M K High School, Borivali West, Mumbai 400092</address>
-    <contact>28338001</contact>
-    <micrCode>400804002</micrCode>
-    <ifscCode>JASB0000002</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dahisar</name>
-    <city>Mumbai</city>
-    <address>Mamata, Ground AND 1ST Floor, Wamanrao Sawant Road, Dahisar East, Mumbai 400068</address>
-    <contact>28283549</contact>
-    <micrCode>400804003</micrCode>
-    <ifscCode>JASB0000003</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kandivli</name>
-    <city>Mumbai</city>
-    <address>Laxmi Villa, 1ST Floor, M G Road, OPP Kala Hanuman Mandir, Kandivli West, Mumbai 400067</address>
-    <contact>28619971</contact>
-    <micrCode>400804004</micrCode>
-    <ifscCode>JASB0000004</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Borivli</name>
-    <city>Mumbai</city>
-    <address>Shivhara, 1ST Floor, Kasturba Road NO 2, Borivli East, Mumbai 400066</address>
-    <contact>28705312</contact>
-    <micrCode>400804005</micrCode>
-    <ifscCode>JASB0000005</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Charkop</name>
-    <city>Mumbai</city>
-    <address>101 BY 102, Shvneri, Charkop, Kandivli West, Mumbai 400067</address>
-    <contact>28685082</contact>
-    <micrCode>400804006</micrCode>
-    <ifscCode>JASB0000006</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Malad</name>
-    <city>Mumbai</city>
-    <address>Shop NO.1, Sita Niwas, Plot NO.94, Liberty Garden Road NO.1, Malad West Mumbai 400 064</address>
-    <contact>28825060</contact>
-    <micrCode>400804007</micrCode>
-    <ifscCode>JASB0000007</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kandivli</name>
-    <city>Mumbai</city>
-    <address>Rohan Arcade, Ground Floor, Dattani Road, Thakur Complex, Kandivli East, Mumbai 400101</address>
-    <contact>28843838</contact>
-    <micrCode>400804008</micrCode>
-    <ifscCode>JASB0000008</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhayander</name>
-    <city>Mumbai</city>
-    <address>Janki Avenue, Phatak Road, OPP.RELIANCE Cosomer Care Center, Bhayander East, Thane 401105</address>
-    <contact>28171618</contact>
-    <micrCode>400804009</micrCode>
-    <ifscCode>JASB0000009</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Goregaon</name>
-    <city>Mumbai</city>
-    <address>Acme Amay CO.OP.HSG.SOC Ltd, Vishveshwar Road, Goregaon East, Mumabi 400063</address>
-    <contact>29276242</contact>
-    <micrCode>400804010</micrCode>
-    <ifscCode>JASB0000010</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Goregaon</name>
-    <city>Mumbai</city>
-    <address>Plot NO 75, 104, M G Road, Goregaon West, Mumbai 400 062</address>
-    <contact>28712103</contact>
-    <micrCode>400804011</micrCode>
-    <ifscCode>JASB0000011</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Andheri</name>
-    <city>Mumbai</city>
-    <address>Jeevan Sangam CO OP Housing Society Ltd, Final Plot NO 36, Jaiprakash Road, Andheri West, Mumbai 400 058</address>
-    <contact>26206985</contact>
-    <micrCode>400804012</micrCode>
-    <ifscCode>JASB0000012</ifscCode>
-    <bankLoc>13260</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Virar West</name>
-    <city>Thane</city>
-    <address>Shop NO. 11, Ground Floor, Virar Nand Dham CO Operative Housing Ltd, Viva College Road, Near RAM Nagar, Virar West, Thane 401303.</address>
-    <contact>6012411</contact>
-    <micrCode>400804013</micrCode>
-    <ifscCode>JASB0000013</ifscCode>
-    <bankLoc>13261</bankLoc>
+    <address>Giriraj Apartment, Factory Lane, OPP M K High School, Borivali West, Mumbai 400092</address>
+    <contact>28333522</contact>
+    <micrCode>400804001</micrCode>
+    <ifscCode>JASB0999999</ifscCode>
+    <bankLoc>13636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasai West</name>
@@ -114,15 +15,114 @@
     <contact>0</contact>
     <micrCode>400804014</micrCode>
     <ifscCode>JASB0000014</ifscCode>
-    <bankLoc>13261</bankLoc>
+    <bankLoc>13637</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Treasury</name>
+    <name>Virar West</name>
+    <city>Thane</city>
+    <address>Shop NO. 11, Ground Floor, Virar Nand Dham CO Operative Housing Ltd, Viva College Road, Near RAM Nagar, Virar West, Thane 401303.</address>
+    <contact>6012411</contact>
+    <micrCode>400804013</micrCode>
+    <ifscCode>JASB0000013</ifscCode>
+    <bankLoc>13637</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Andheri</name>
     <city>Mumbai</city>
-    <address>Giriraj Apartment, Factory Lane, OPP M K High School, Borivali West, Mumbai 400092</address>
-    <contact>28333522</contact>
-    <micrCode>400804001</micrCode>
-    <ifscCode>JASB0999999</ifscCode>
-    <bankLoc>13260</bankLoc>
+    <address>Jeevan Sangam CO OP Housing Society Ltd, Final Plot NO 36, Jaiprakash Road, Andheri West, Mumbai 400 058</address>
+    <contact>26206985</contact>
+    <micrCode>400804012</micrCode>
+    <ifscCode>JASB0000012</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Goregaon</name>
+    <city>Mumbai</city>
+    <address>Plot NO 75, 104, M G Road, Goregaon West, Mumbai 400 062</address>
+    <contact>28712103</contact>
+    <micrCode>400804011</micrCode>
+    <ifscCode>JASB0000011</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Goregaon</name>
+    <city>Mumbai</city>
+    <address>Acme Amay CO.OP.HSG.SOC Ltd, Vishveshwar Road, Goregaon East, Mumabi 400063</address>
+    <contact>29276242</contact>
+    <micrCode>400804010</micrCode>
+    <ifscCode>JASB0000010</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhayander</name>
+    <city>Mumbai</city>
+    <address>Janki Avenue, Phatak Road, OPP.RELIANCE Cosomer Care Center, Bhayander East, Thane 401105</address>
+    <contact>28171618</contact>
+    <micrCode>400804009</micrCode>
+    <ifscCode>JASB0000009</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kandivli</name>
+    <city>Mumbai</city>
+    <address>Rohan Arcade, Ground Floor, Dattani Road, Thakur Complex, Kandivli East, Mumbai 400101</address>
+    <contact>28843838</contact>
+    <micrCode>400804008</micrCode>
+    <ifscCode>JASB0000008</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malad</name>
+    <city>Mumbai</city>
+    <address>Shop NO.1, Sita Niwas, Plot NO.94, Liberty Garden Road NO.1, Malad West Mumbai 400 064</address>
+    <contact>28825060</contact>
+    <micrCode>400804007</micrCode>
+    <ifscCode>JASB0000007</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Charkop</name>
+    <city>Mumbai</city>
+    <address>101 BY 102, Shvneri, Charkop, Kandivli West, Mumbai 400067</address>
+    <contact>28685082</contact>
+    <micrCode>400804006</micrCode>
+    <ifscCode>JASB0000006</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Borivli</name>
+    <city>Mumbai</city>
+    <address>Shivhara, 1ST Floor, Kasturba Road NO 2, Borivli East, Mumbai 400066</address>
+    <contact>28705312</contact>
+    <micrCode>400804005</micrCode>
+    <ifscCode>JASB0000005</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kandivli</name>
+    <city>Mumbai</city>
+    <address>Laxmi Villa, 1ST Floor, M G Road, OPP Kala Hanuman Mandir, Kandivli West, Mumbai 400067</address>
+    <contact>28619971</contact>
+    <micrCode>400804004</micrCode>
+    <ifscCode>JASB0000004</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dahisar</name>
+    <city>Mumbai</city>
+    <address>Mamata, Ground AND 1ST Floor, Wamanrao Sawant Road, Dahisar East, Mumbai 400068</address>
+    <contact>28283549</contact>
+    <micrCode>400804003</micrCode>
+    <ifscCode>JASB0000003</ifscCode>
+    <bankLoc>13636</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Borivli</name>
+    <city>Mumbai</city>
+    <address>Giriraj Apartment, Ground Floor, Factory Lane, OPP M K High School, Borivali West, Mumbai 400092</address>
+    <contact>28338001</contact>
+    <micrCode>400804002</micrCode>
+    <ifscCode>JASB0000002</ifscCode>
+    <bankLoc>13636</bankLoc>
   </bankbranch>
 </bankBranchs>
