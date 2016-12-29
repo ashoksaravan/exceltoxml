@@ -2,20 +2,20 @@
   <bankbranch>
     <name>NEW Delhi</name>
     <city>NEW Delhi</city>
-    <address>?ábank OF America N.A, 1ST Floor, DLF Centre, Sansad Marg, NEW Delhi 110001</address>
+    <address>Bank OF America N.A, 1ST Floor, DLF Centre, Sansad Marg, NEW Delhi 110001</address>
     <contact>23715565</contact>
     <micrCode>110032001</micrCode>
     <ifscCode>BOFA0ND6216</ifscCode>
-    <bankLoc>2026</bankLoc>
+    <bankLoc>5037</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
     <city>?ámumbai</city>
-    <address>?ábank OF America N.A GR.FLOOR Express Towers Nariman Point Mumbai-21</address>
+    <address>Bank OF America N.A GR.FLOOR Express Towers Nariman Point Mumbai-21</address>
     <contact>66323109</contact>
     <micrCode>32002</micrCode>
     <ifscCode>BOFA0MM6205</ifscCode>
-    <bankLoc>2028</bankLoc>
+    <bankLoc>5039</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai Branch</name>
@@ -24,7 +24,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>BOFA0CN6215</ifscCode>
-    <bankLoc>2029</bankLoc>
+    <bankLoc>5040</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Branch</name>
@@ -33,6 +33,6 @@
     <contact>66006203</contact>
     <micrCode>560032002</micrCode>
     <ifscCode>BOFA0BG3978</ifscCode>
-    <bankLoc>2027</bankLoc>
+    <bankLoc>5038</bankLoc>
   </bankbranch>
 </bankBranchs>

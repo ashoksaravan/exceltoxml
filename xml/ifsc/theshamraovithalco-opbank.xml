@@ -1,30 +1,48 @@
 <bankBranchs>
   <bankbranch>
+    <name>THE Gooty Co-op Town Bank Ltd- Railway Station Road</name>
+    <city>Anantapur</city>
+    <address>9- 828, Railway Station Road- 515402</address>
+    <contact>252345</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SVCB0053003</ifscCode>
+    <bankLoc>51463</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>THE Gooty Co-op Town Bank Ltd- Gooty</name>
+    <city>Anantapur</city>
+    <address>7- 650/b, Main Road, Near RTC BUS Stand- 515401</address>
+    <contact>252346</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SVCB0053002</ifscCode>
+    <bankLoc>51463</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>THE Arya Vaishya Coop Bank Ltd- Kerur</name>
-    <city>Kerur</city>
+    <city>Bagalkote</city>
     <address>B. N. Totgeri Building, TMC NO 1806, Market Post, Kerur- 587206</address>
     <contact>2147483647</contact>
     <micrCode>587259251</micrCode>
     <ifscCode>SVCB0052006</ifscCode>
-    <bankLoc>24074</bankLoc>
+    <bankLoc>51494</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Arya Vaishya Coop Bank Ltd- Dharwad</name>
-    <city>Hubli-dharwad</city>
+    <city>Dharwad</city>
     <address>Agadi Complex, OLD Dalal Market, Dharwad- 580001</address>
     <contact>2147483647</contact>
     <micrCode>580259254</micrCode>
     <ifscCode>SVCB0052005</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51493</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Arya Vaishya Coop Bank Ltd- Nargund</name>
-    <city>Nargund</city>
+    <city>Gadag</city>
     <address>Nargund Branch, TMC Road, Nargund- 582207</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0052004</ifscCode>
-    <bankLoc>24080</bankLoc>
+    <bankLoc>51499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Arya Vaishya Coop Bank Ltd- Gadag</name>
@@ -33,16 +51,16 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0052003</ifscCode>
-    <bankLoc>24080</bankLoc>
+    <bankLoc>51488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Arya Vaishya Coop Bank Ltd- Hosur</name>
-    <city>Hubli-dharwad</city>
+    <city>Dharwad</city>
     <address>P. B. Road, Near Karnataka State Warehouse, Hosur, Hubli- 580021</address>
     <contact>2147483647</contact>
     <micrCode>580259255</micrCode>
     <ifscCode>SVCB0052002</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51493</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Satya SAI Nagarik Sahakari Bank Maryadit- Bhopal</name>
@@ -51,106 +69,106 @@
     <contact>2559651</contact>
     <micrCode>462425002</micrCode>
     <ifscCode>SVCB0051002</ifscCode>
-    <bankLoc>24086</bankLoc>
+    <bankLoc>51505</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Innespeta Co-operative Urban Bank Ltd- Syamala Nagar</name>
-    <city>Rajahmundry</city>
+    <city>East Godavari</city>
     <address>86-8-8, V.L.PURAM, Tilak Road- 533103</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0049003</ifscCode>
-    <bankLoc>24058</bankLoc>
+    <bankLoc>51468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Innespeta Co-operative Urban Bank Ltd- Rajahmundry</name>
-    <city>Rajahmundry</city>
+    <city>East Godavari</city>
     <address>First Floor, D.NO. 36-26-2/ 1&amp;2, Ballawari Street, Behind Kotipalli BUS Stand- 533101</address>
     <contact>2147483647</contact>
     <micrCode>533821102</micrCode>
     <ifscCode>SVCB0049002</ifscCode>
-    <bankLoc>24058</bankLoc>
+    <bankLoc>51468</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Mahayogi Lakshamma Co-op Bank Ltd- Market Yard</name>
-    <city>Adoni</city>
+    <city>Kurnool</city>
     <address>Agriculture Market Committee, PIN Code- 518301</address>
     <contact>251868</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0048003</ifscCode>
-    <bankLoc>24062</bankLoc>
+    <bankLoc>51460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gautam Sahakari Bank- Pohegaon</name>
-    <city>Pohegaon</city>
+    <city>Ahmadnagar</city>
     <address>A/p- Pohegaon, Taluka- Kopargaon, District- Ahmednagar, Pin- 423605</address>
     <contact>275366</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0047007</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51594</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gautam Sahakari Bank- Sakuri</name>
-    <city>Rahata</city>
+    <city>Ahmadnagar</city>
     <address>A/p- Sakuri, Taluka Rahata, District Ahmednagar, Pin- 423607</address>
     <contact>242521</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0047006</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51599</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gautam Sahakari Bank Ltd- Wavi</name>
-    <city>Sinnar</city>
+    <city>Nasik</city>
     <address>A/p- Wavi, Taluka Sinnar, District Nashik, PIN Code 422104</address>
     <contact>283511</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0047005</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51621</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gautam Sahakari Bank Ltd- Sanvatsar</name>
-    <city>Kopargaon</city>
+    <city>Ahmadnagar</city>
     <address>A/p- Shingnapur, Taluka- Kopargaon, District- Ahmednagar, Pin- 423603</address>
     <contact>222466</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0047004</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gautam Sahakari Bank- Kopargaon</name>
-    <city>Kopargaon</city>
+    <city>Ahmadnagar</city>
     <address>A/p- Kopargaon, District- Ahmednagar, Pin- 423601</address>
     <contact>222790</contact>
     <micrCode>423585001</micrCode>
     <ifscCode>SVCB0047003</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gautam Sahakari Bank Ltd- Gautamnagar</name>
-    <city>Kopargaon</city>
+    <city>Ahmadnagar</city>
     <address>A/p- Kolpewadi, Taluka Kopargaon, District Ahmednagar, Pin- 423602</address>
     <contact>261266</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0047002</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Shalini Sahakari Bank Ltd- N.M. Joshi Marg</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>395, N.M.JOSHI Marg, OPP. Apollo Mill, Mumbai- 400011</address>
     <contact>23093179</contact>
     <micrCode>400068257</micrCode>
     <ifscCode>SVCB0046002</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Ganapathi Urban Co-op Bank Ltd- Hosanagar</name>
-    <city>Hosanagara</city>
+    <city>Shimoga</city>
     <address>Chowdamma Beedi, Hosanagar</address>
     <contact>2147483647</contact>
     <micrCode>577898501</micrCode>
     <ifscCode>SVCB0045004</ifscCode>
-    <bankLoc>24082</bankLoc>
+    <bankLoc>51491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Ganapathi Urban Co-op Bank LT- Shimoga</name>
@@ -159,25 +177,25 @@
     <contact>2147483647</contact>
     <micrCode>577898202</micrCode>
     <ifscCode>SVCB0045003</ifscCode>
-    <bankLoc>24082</bankLoc>
+    <bankLoc>51501</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Ganapathi Urban Co-op Bank Ltd- Sagar</name>
-    <city>Sagar</city>
+    <city>Shimoga</city>
     <address>Chamrajpet, Sagar</address>
     <contact>2147483647</contact>
     <micrCode>577898402</micrCode>
     <ifscCode>SVCB0045002</ifscCode>
-    <bankLoc>24082</bankLoc>
+    <bankLoc>51500</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Janata Sahakari Bank LTD Amravati- Anjangaon Surji</name>
-    <city>Anjangaon Surji</city>
+    <city>Amravati</city>
     <address>PAN Atai, Near Vithal Mandir, Anjangaon Surji, TQ- Anjangaon Surji, District Amravati</address>
     <contact>242099</contact>
     <micrCode>444819502</micrCode>
     <ifscCode>SVCB0043006</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Janata Sahakari Bank LTD Amravati- Rathi Nagar</name>
@@ -186,16 +204,16 @@
     <contact>2550430</contact>
     <micrCode>444819103</micrCode>
     <ifscCode>SVCB0043005</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Janata Sahakar Bank LTD Amravati- Shiragaon Kasba</name>
-    <city>Chandur Bazar</city>
+    <city>Amravati</city>
     <address>Gajari Bazar, Shirasgaon Kasaba, TQ Chandur Bazar, Dist Amravati</address>
     <contact>226465</contact>
     <micrCode>444819501</micrCode>
     <ifscCode>SVCB0043004</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51527</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Janata Sahakari Bank LTD Amravati- Rajapeth</name>
@@ -204,7 +222,7 @@
     <contact>2674297</contact>
     <micrCode>444819102</micrCode>
     <ifscCode>SVCB0043003</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Janata Sahakari Bank LTD Amravati- Amravati</name>
@@ -213,205 +231,205 @@
     <contact>2676457</contact>
     <micrCode>444819101</micrCode>
     <ifscCode>SVCB0043002</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Revdanda Co-op Urban Bank Ltd- Poynad</name>
-    <city>Poynad</city>
+    <city>Raigad</city>
     <address>AT Post- Poynad, Rada Hari Sankul, Taluka Alibag, District Raigad, PIN NO 402108</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0042005</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51595</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Revdanda Co-op Urban Bank Ltd- Roha</name>
-    <city>Roha</city>
+    <city>Raigad</city>
     <address>L.G.SHOPPING Centre, Meena Bazar, AT Post -roha, Taluka Alibag, District Raigad, PIN NO 402109</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0042004</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51603</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Revdanda Co-op Urban Bank Ltd- Alibag</name>
-    <city>Alibag</city>
+    <city>Raigad</city>
     <address>Shriba NO 03, Radika Appartment, Alibag, Taluka Alibag, District Raigad, PIN NO- 402201</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0042003</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51513</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Revdanda Co-op Urban Bank Ltd- Revdanda</name>
-    <city>Revdanda</city>
+    <city>Raigad</city>
     <address>AT Post- Revdanda, Taluka Alibag, District Raigad, PIN NO 402201</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0042002</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51602</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Coop Bank Ltd- Mathikere</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.63, Sahakara Suvarna, Triveni Road, 4TH Main, Gokul, 1ST Stage, 2ND Phase, Mathikere, Bangalore</address>
     <contact>2147483647</contact>
     <micrCode>560226392</micrCode>
     <ifscCode>SVCB0041392</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Ganganagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO. 18/3, 1ST Main, OPP. 108/b BUS Terminus, Ganganagar, Bangalore- 560032</address>
     <contact>22429754</contact>
     <micrCode>560226385</micrCode>
     <ifscCode>SVCB0041385</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Uttarahalli</name>
-    <city>Subramanyapura</city>
+    <city>Bangalore Urban</city>
     <address>NO. 8, Chowdeshwari Complex, 1ST Floor, Uttarahalli Circle, Subramanyapura Post, Bangalore-560061</address>
     <contact>26396465</contact>
     <micrCode>560226350</micrCode>
     <ifscCode>SVCB0041350</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51502</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Halasuru</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO 38, Panna Chambers, Palani Modaliar Road, Halasooru, Bangalore- 560008</address>
     <contact>25566859</contact>
     <micrCode>560226341</micrCode>
     <ifscCode>SVCB0041341</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Rajajinagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Sahakara Vikasa, NO 377, 8TH Cross, 1ST Main, 1ST Stage, 6TH Block, Industrial Town, Rajajinagar, Bangalore - 560044</address>
     <contact>23153555</contact>
     <micrCode>560226319</micrCode>
     <ifscCode>SVCB0041319</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Jayanagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Sahakara Kususma, NO 1350, South END Main Road, 9TH Block, Jayanagar, Bangalore- 560069</address>
     <contact>26589888</contact>
     <micrCode>560226315</micrCode>
     <ifscCode>SVCB0041315</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Balapet</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO 553, 1ST Floor, O.T.C Road, Balapet, Bangalore- 560053</address>
     <contact>22207204</contact>
     <micrCode>560226269</micrCode>
     <ifscCode>SVCB0041269</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hotel Industrialists Co-op Bank Ltd- Chamrajpet</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Sahakara Sourabha, NO 234, 2ND Cross, 4TH Main Road, Chamrajpet, Bangalore- 560018</address>
     <contact>26678329</contact>
     <micrCode>560226268</micrCode>
     <ifscCode>SVCB0041268</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padmashree DR. Vitthalrao Vikhe Patil Co-op Bank LTD - Nashik</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>G-3/4, Suyojit Avadhoot Tower, OLD Gangapur Naka, Gangapur Road, Nashik</address>
     <contact>2314756</contact>
     <micrCode>422506002</micrCode>
     <ifscCode>SVCB0040002</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Citizen CO OP Bank LTD - Rajajinagar, DR. Rajkumar Road</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>651/a, D Block, 2ND Stage, First Main Road, DR. Rajkumar Road, Rajajinagar, Bangalore - 560010</address>
     <contact>23321923</contact>
     <micrCode>560226254</micrCode>
     <ifscCode>SVCB0039002</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kalwan Merchants Coop Bank Ltd-abhona?á</name>
-    <city>Abhona</city>
+    <city>Nashik</city>
     <address>Main Road, Abhona At/post-abhona, Tal-kalwan, Dist-nashik - 423 502</address>
     <contact>240417</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0038003</ifscCode>
-    <bankLoc>24105</bankLoc>
+    <bankLoc>51507</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kalwan Merchants Coop Bank Ltd-kalwan</name>
-    <city>Kalwan</city>
+    <city>Nashik</city>
     <address>Saptashrungi, G.T.KOTHAWADE Path, Shivaji Nagar, Kalwan, Nashik - 423 501</address>
     <contact>221223</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0038002</ifscCode>
-    <bankLoc>24105</bankLoc>
+    <bankLoc>51551</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shri Krishna CO OP Bank Ltd- Bhiwapur</name>
-    <city>Bhiwapur</city>
+    <city>Nagpur</city>
     <address>Gawarishankar Gupta Complex, Main Road, Bhiwapur- 441201</address>
     <contact>2147483647</contact>
     <micrCode>440827502</micrCode>
     <ifscCode>SVCB0037004</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51523</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shrikrishna CO OP Bank Ltd-narsala</name>
-    <city>Narsala</city>
+    <city>Nagpur</city>
     <address>Swastik Sankul, Hudkeshwar Road, Narsala, Mhalginagar, Nagpur</address>
     <contact>2147483647</contact>
     <micrCode>440089251</micrCode>
     <ifscCode>SVCB0037003</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51582</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shri Krishna CO OP Bank Ltd- Umrer</name>
-    <city>Umrer</city>
+    <city>Nagpur</city>
     <address>Nehru Vyayam Mandal Bldg, Main Road, Itwari, Umrer- 441203</address>
     <contact>2147483647</contact>
     <micrCode>440827501</micrCode>
     <ifscCode>SVCB0037002</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51630</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Lasalgaon Merchants Co-op Bank Ltd-ugaon</name>
-    <city>Ugaon</city>
+    <city>Nashik</city>
     <address>Ugaon, TAL Niphad</address>
     <contact>244415</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0036004</ifscCode>
-    <bankLoc>24105</bankLoc>
+    <bankLoc>51627</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Lasalgaon Merchants Co-op Bank Ltd-vadali Bhoi</name>
-    <city>Vadali Bhoi</city>
+    <city>Nashik</city>
     <address>Bazarpeth, Vadali Bhoi</address>
     <contact>270559</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0036003</ifscCode>
-    <bankLoc>24105</bankLoc>
+    <bankLoc>51631</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Lasalgaon Merchants Co-op Bank Ltd-main Lasalgaon</name>
-    <city>Lasalgaon</city>
+    <city>Nashik</city>
     <address>Apekshapurti, 79, M G Road - TAL Niphad - 422 306</address>
     <contact>266058</contact>
     <micrCode>422806152</micrCode>
     <ifscCode>SVCB0036002</ifscCode>
-    <bankLoc>24105</bankLoc>
+    <bankLoc>51564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd- Ahmednagar</name>
@@ -420,7 +438,7 @@
     <contact>2345939</contact>
     <micrCode>414807001</micrCode>
     <ifscCode>SVCB0035009</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd- Aurangabad</name>
@@ -429,70 +447,70 @@
     <contact>2349544</contact>
     <micrCode>431880002</micrCode>
     <ifscCode>SVCB0035008</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd- Lasur Station</name>
-    <city>Lasur</city>
+    <city>Aurangabad</city>
     <address>Near Lasur Station</address>
     <contact>242200</contact>
     <micrCode>431880501</micrCode>
     <ifscCode>SVCB0035007</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51565</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank LTD - Yeola</name>
-    <city>Yeola</city>
+    <city>Nasik</city>
     <address>Balaji Galli, Yeola</address>
     <contact>267260</contact>
     <micrCode>423802352</micrCode>
     <ifscCode>SVCB0035006</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51644</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd- Puntamba</name>
-    <city>Puntamba</city>
+    <city>Ahmadnagar</city>
     <address>Main Bazar Peth, TAL Rahata</address>
     <contact>274267</contact>
     <micrCode>423802501</micrCode>
     <ifscCode>SVCB0035005</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51597</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd- Rahata</name>
-    <city>Rahata</city>
+    <city>Ahmadnagar</city>
     <address>DR. Lodhas Hospital, Khandoba Galli</address>
     <contact>242032</contact>
     <micrCode>423802502</micrCode>
     <ifscCode>SVCB0035004</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51599</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd- Shirdi</name>
-    <city>Shirdi</city>
+    <city>Ahmadnagar</city>
     <address>Sutar Galli, Shirdi</address>
     <contact>255482</contact>
     <micrCode>423802301</micrCode>
     <ifscCode>SVCB0035003</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51617</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Kopargaon Peoples Coop Bank Ltd-kopargaon</name>
-    <city>Kopargaon</city>
+    <city>Ahmadnagar</city>
     <address>M.PHULE Marg, Bank Road, Kopargaon</address>
     <contact>226785</contact>
     <micrCode>423802001</micrCode>
     <ifscCode>SVCB0035002</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Ananthpur Coop Town Bank  LTD - Hindupur</name>
-    <city>Hindupur</city>
+    <city>Anantapur</city>
     <address>R.P.G.T Road, Hindupur</address>
     <contact>227766</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0034005</ifscCode>
-    <bankLoc>24057</bankLoc>
+    <bankLoc>51464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Ananthpur Coop Town Bank LTD - RAM Nagar</name>
@@ -501,7 +519,7 @@
     <contact>238899</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0034004</ifscCode>
-    <bankLoc>24057</bankLoc>
+    <bankLoc>51461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Ananthpur Coop Town Bank Ltd- Gandhi Bazar</name>
@@ -510,7 +528,7 @@
     <contact>231127</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0034003</ifscCode>
-    <bankLoc>24057</bankLoc>
+    <bankLoc>51461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Ananthpur Coop Town Bank LTD - Subhash Road</name>
@@ -519,16 +537,16 @@
     <contact>275475</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0034002</ifscCode>
-    <bankLoc>24057</bankLoc>
+    <bankLoc>51461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank  Hirepeth</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>Jabin Bldg, Akki Honda, Hirepeth</address>
     <contact>2228229</contact>
     <micrCode>580211256</micrCode>
     <ifscCode>SVCB0033008</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank Dharawad</name>
@@ -537,61 +555,61 @@
     <contact>2228379</contact>
     <micrCode>580211257</micrCode>
     <ifscCode>SVCB0033007</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51487</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank Gokul RD</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>Aiyengar Bakery Bldg, Apoorva Nagar Cross, Gokul Road</address>
     <contact>2228329</contact>
     <micrCode>580211255</micrCode>
     <ifscCode>SVCB0033006</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank Keshwapur</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>Deshpande Building, Beside Petrol Bunk, Bengeri Paraswadi Road</address>
     <contact>2228239</contact>
     <micrCode>580211254</micrCode>
     <ifscCode>SVCB0033005</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank Sirur PRK</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>Preeti Aashiyana, Sirur Park, Vidya Nagar</address>
     <contact>2228279</contact>
     <micrCode>580211253</micrCode>
     <ifscCode>SVCB0033004</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank OLD Hubli</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>Hublikar Bldg, Latti Peth Road, OLD Hubli, Durgad Bail</address>
     <contact>2228339</contact>
     <micrCode>580211252</micrCode>
     <ifscCode>SVCB0033003</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Hubli Urban Coop Bank Hubli</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>SIR Siddappa Kambli RD, OPP Municipal Corporation</address>
     <contact>2228249</contact>
     <micrCode>580211251</micrCode>
     <ifscCode>SVCB0033002</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>THE Catholic Coop U B- Secunderabad</name>
-    <city>Secunderabad</city>
+    <city>Hyderabad</city>
     <address>Amruthavani, 50 Sebastian Road, Secunderabad 500003</address>
     <contact>27702130</contact>
     <micrCode>500259253</micrCode>
     <ifscCode>SVCB0032002</ifscCode>
-    <bankLoc>24059</bankLoc>
+    <bankLoc>51469</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaiprakash Naryn NAG SAH BK Hingoli</name>
@@ -600,61 +618,61 @@
     <contact>223230</contact>
     <micrCode>431897402</micrCode>
     <ifscCode>SVCB0031006</ifscCode>
-    <bankLoc>24097</bankLoc>
+    <bankLoc>51543</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaiprakash Naryn NAG SAH Bk-basmath</name>
-    <city>Basmath</city>
+    <city>Hingoli</city>
     <address>Shree Chatrapati Shivaji Chowk, Parbhani Road, Basmathnagar 431512</address>
     <contact>222905</contact>
     <micrCode>431897000</micrCode>
     <ifscCode>SVCB0031002</ifscCode>
-    <bankLoc>24097</bankLoc>
+    <bankLoc>51521</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Malkapur</name>
-    <city>Karad</city>
+    <city>Satara</city>
     <address>Akar Pride, Near Datta Mandir, Agashivnagar, Malkapur, Karad, District Satara 415110</address>
     <contact>242811</contact>
     <micrCode>415869352</micrCode>
     <ifscCode>SVCB0030014</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Nerle</name>
-    <city>Nerle</city>
+    <city>Sangli</city>
     <address>Grampanchayat Milkat NO 1056, City Survey NO 307, Nerle, TAL Walwa, District Sangli 415406</address>
     <contact>278577</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>SVCB0030013</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51585</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK - Wategaon</name>
-    <city>Wategaon</city>
+    <city>Sangli</city>
     <address>Near S.T. Stand, Wategaon, TAL. Walva District, Sangli</address>
     <contact>5272194</contact>
     <micrCode>416869509</micrCode>
     <ifscCode>SVCB0030012</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51642</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shir Bk-bahadurwadi</name>
-    <city>Bahadurwadi</city>
+    <city>Sangli</city>
     <address>Near S.T. Stand, Zilla Parishad School, Bahadurwadi</address>
     <contact>273455</contact>
     <micrCode>416869508</micrCode>
     <ifscCode>SVCB0030011</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51519</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Sarud</name>
-    <city>Sarud</city>
+    <city>Kolhapur</city>
     <address>Gram Sachivalya Building, Sarud</address>
     <contact>244900</contact>
     <micrCode>416869507</micrCode>
     <ifscCode>SVCB0030010</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51612</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala Bk-kolhapur</name>
@@ -663,16 +681,16 @@
     <contact>2653902</contact>
     <micrCode>416012251</micrCode>
     <ifscCode>SVCB0030009</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Kameri</name>
-    <city>Kameri</city>
+    <city>Sangli</city>
     <address>Bazar Peth, Kameri</address>
     <contact>271871</contact>
     <micrCode>416869506</micrCode>
     <ifscCode>SVCB0030008</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Sangli</name>
@@ -681,52 +699,52 @@
     <contact>2373577</contact>
     <micrCode>416012154</micrCode>
     <ifscCode>SVCB0030007</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51609</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK -chikali</name>
-    <city>Chikali</city>
+    <city>Sangli</city>
     <address>Vishwasrao S Naik Kharkhana, Chikali</address>
     <contact>272138</contact>
     <micrCode>416869504</micrCode>
     <ifscCode>SVCB0030006</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51528</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Kokrud</name>
-    <city>Kokrud</city>
+    <city>Sangli</city>
     <address>Near S.T. Stand, Kokrud</address>
     <contact>224002</contact>
     <micrCode>416869505</micrCode>
     <ifscCode>SVCB0030005</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Sagaon</name>
-    <city>Sagaon</city>
+    <city>Sangli</city>
     <address>Near S.T. Stand, Sagaon</address>
     <contact>225035</contact>
     <micrCode>416869503</micrCode>
     <ifscCode>SVCB0030004</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51604</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Mangle</name>
-    <city>Mangle</city>
+    <city>Sangli</city>
     <address>Peth Line, Mangle</address>
     <contact>220176</contact>
     <micrCode>416869501</micrCode>
     <ifscCode>SVCB0030003</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51569</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjerao D Naik Shirala BK- Shirala</name>
-    <city>Shirala</city>
+    <city>Sangli</city>
     <address>Somwar Peth, Jadhav Building, Shirala</address>
     <contact>272194</contact>
     <micrCode>416869502</micrCode>
     <ifscCode>SVCB0030002</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51616</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Secunderabad UCB - Musheerabad</name>
@@ -735,7 +753,7 @@
     <contact>27673537</contact>
     <micrCode>500143262</micrCode>
     <ifscCode>SVCB0029002</ifscCode>
-    <bankLoc>24059</bankLoc>
+    <bankLoc>51465</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tirumala Coop URB BK - Malakpet HYD</name>
@@ -744,7 +762,7 @@
     <contact>24544457</contact>
     <micrCode>500143002</micrCode>
     <ifscCode>SVCB0028002</ifscCode>
-    <bankLoc>24059</bankLoc>
+    <bankLoc>51465</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mysore Merch Coop Bank</name>
@@ -753,7 +771,7 @@
     <contact>2489564</contact>
     <micrCode>570565003</micrCode>
     <ifscCode>SVCB0027003</ifscCode>
-    <bankLoc>24081</bankLoc>
+    <bankLoc>51497</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mysore Merch Coop Bank</name>
@@ -762,61 +780,70 @@
     <contact>2432938</contact>
     <micrCode>570565002</micrCode>
     <ifscCode>SVCB0027002</ifscCode>
-    <bankLoc>24081</bankLoc>
+    <bankLoc>51497</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koilkuntla Coop BK Ltd- Balaji Complex</name>
+    <city>Kurnool</city>
+    <address>2/ 428/ 129, Balaji Complex, Nandyal- 518501</address>
+    <contact>242333</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>SVCB0026004</ifscCode>
+    <bankLoc>51467</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koilkuntla Coop BK LTD Nandyal</name>
-    <city>Nandyal</city>
+    <city>Kurnool</city>
     <address>D NO.3 90, Byrmal Street, Nandyal 518 501</address>
     <contact>220717</contact>
     <micrCode>518869102</micrCode>
     <ifscCode>SVCB0026003</ifscCode>
-    <bankLoc>24062</bankLoc>
+    <bankLoc>51467</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koilkuntla Coop BK LTD Koilkuntla</name>
-    <city>Koilkuntla</city>
+    <city>Kurnool</city>
     <address>D NO.8 13, Main Road, Koilkuntla 518 134</address>
     <contact>225043</contact>
     <micrCode>518869622</micrCode>
     <ifscCode>SVCB0026002</ifscCode>
-    <bankLoc>24062</bankLoc>
+    <bankLoc>51466</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sircilla Urban BK Yellareddy PET</name>
-    <city>Yellareddipet</city>
+    <city>Karimnagar</city>
     <address>H NO 10 252 BY 1 Yellareddypet, 505 303</address>
     <contact>244112</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0025003</ifscCode>
-    <bankLoc>24060</bankLoc>
+    <bankLoc>51472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sircilla Urban BK Sircilla</name>
-    <city>Sircilla</city>
+    <city>Karimnagar</city>
     <address>H NO 6 6 95, Thsil Road, Post Sircilla, Dist Karimnagar, 505301</address>
     <contact>232241</contact>
     <micrCode>505850502</micrCode>
     <ifscCode>SVCB0025002</ifscCode>
-    <bankLoc>24060</bankLoc>
+    <bankLoc>51470</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MAH. Nagari SAH.BK-SHIRUR Anantpal</name>
-    <city>Shirur Anantpal</city>
+    <city>Latur</city>
     <address>Main Road, Shirur Anantpal; DIST. Latur-413544</address>
     <contact>250726</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0024005</ifscCode>
-    <bankLoc>24101</bankLoc>
+    <bankLoc>51618</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MAH. Nagari SAH.BK-AHMEDPUR</name>
-    <city>Ahmedpur</city>
+    <city>Latur</city>
     <address>Nanded ?ûlatur Road, Main Road, Ahmedpur -413515, DIST. Latur</address>
     <contact>264686</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0024004</ifscCode>
-    <bankLoc>24101</bankLoc>
+    <bankLoc>51510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MAH. Nagari SAH.BK-VIVEKANAND Chwk</name>
@@ -825,7 +852,7 @@
     <contact>250726</contact>
     <micrCode>413807053</micrCode>
     <ifscCode>SVCB0024003</ifscCode>
-    <bankLoc>24101</bankLoc>
+    <bankLoc>51566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MAH. Nagari SAH.BK-MARKET Yard</name>
@@ -834,16 +861,16 @@
     <contact>249745</contact>
     <micrCode>413807052</micrCode>
     <ifscCode>SVCB0024002</ifscCode>
-    <bankLoc>24101</bankLoc>
+    <bankLoc>51566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari BK- Hadgaon</name>
-    <city>Hadgaon</city>
+    <city>Nanded</city>
     <address>Near Shri Mahadev Mandir, Main Road, Hadgaon- 431712</address>
     <contact>222840</contact>
     <micrCode>431811507</micrCode>
     <ifscCode>SVCB0023011</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51541</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari BK- Cidco Aurangabad</name>
@@ -852,16 +879,16 @@
     <contact>2472444</contact>
     <micrCode>431811002</micrCode>
     <ifscCode>SVCB0023010</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari BK- Narsi</name>
-    <city>Naigaon</city>
+    <city>Nanded</city>
     <address>Narsi Chowk, Narsi, TQ. Naigaon, DIST. NANDED.</address>
     <contact>266444</contact>
     <micrCode>431811506</micrCode>
     <ifscCode>SVCB0023009</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51579</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari BK- Mudkhed</name>
@@ -870,16 +897,16 @@
     <contact>275544</contact>
     <micrCode>431811505</micrCode>
     <ifscCode>SVCB0023008</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51581</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari BK- Purna</name>
-    <city>Purna</city>
+    <city>Parbhani</city>
     <address>Shastri Nagar, Main Road, Purna, TQ. Purna, District Parbhani</address>
     <contact>255292</contact>
     <micrCode>431811504</micrCode>
     <ifscCode>SVCB0023007</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>51598</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari BK- Kabra Nagar, Nanded</name>
@@ -888,52 +915,52 @@
     <contact>266388</contact>
     <micrCode>431811102</micrCode>
     <ifscCode>SVCB0023006</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51581</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari Bk-loha</name>
-    <city>Loha</city>
+    <city>Nanded</city>
     <address>Market Yard, Loha, Tal: Loha; Dist: Nanded</address>
     <contact>242208</contact>
     <micrCode>431811503</micrCode>
     <ifscCode>SVCB0023005</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51567</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari Bk-bhokar</name>
-    <city>Bhokar</city>
+    <city>Nanded</city>
     <address>Mondha, Bhokar, Tal: Bhokar; Dist: Nanded</address>
     <contact>222995</contact>
     <micrCode>431811502</micrCode>
     <ifscCode>SVCB0023004</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51524</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari Bk-ardhapur</name>
-    <city>Ardhapur</city>
+    <city>Nanded</city>
     <address>Main Road, Ardhapur, Tal: Ardhapur; Dist:nanded</address>
     <contact>272697</contact>
     <micrCode>431811501</micrCode>
     <ifscCode>SVCB0023003</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51516</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankar Nagari Sahkari Bk-nanded</name>
-    <city>NEW Mondha</city>
+    <city>Nanded</city>
     <address>Pokarn Complex, NEW Mondha, Nanded</address>
     <contact>285566</contact>
     <micrCode>431811101</micrCode>
     <ifscCode>SVCB0023002</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51576</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ashok Nagari Sahkari BK Ltd-pimpri</name>
-    <city>Pimpri Chinchwad</city>
+    <city>Pune</city>
     <address>2/9, LIG Sant Tukaram Nagar-pimpri - Pune 411018</address>
     <contact>27423880</contact>
     <micrCode>411174369</micrCode>
     <ifscCode>SVCB0022002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51592</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shreeram Sahakari BK Ltd-ferbunder</name>
@@ -942,70 +969,70 @@
     <contact>0</contact>
     <micrCode>400068331</micrCode>
     <ifscCode>SVCB0021002</ifscCode>
-    <bankLoc>24094</bankLoc>
+    <bankLoc>51538</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Narayan Guru Coop BK- CBD Belapur</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Shop NO 2, Kukreja Plaza, D Wing, Ground Floor, Plot NO 47, Sector 11, CBD Belapur, Navi Mumbai- 400614</address>
     <contact>27564757</contact>
     <micrCode>400068409</micrCode>
     <ifscCode>SVCB0020007</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Narayan Guru Coop BK- Koparkhairane</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Giriraj Darshan CHS LTD., Shop NO 3&amp;4, Plot NO 6, Sector 9, Koparkhairane, Navi Mumbai- 400709</address>
     <contact>27545444</contact>
     <micrCode>400068408</micrCode>
     <ifscCode>SVCB0020006</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Narayan Guru Coop Bk-nerul</name>
-    <city>Kamothe</city>
+    <city>Raigad</city>
     <address>6 &amp; 7, Balshet Apartment, Plot NO. B / 104, Sector 23/b, Darave, Nerul - 400706</address>
     <contact>27710055</contact>
     <micrCode>400068393</micrCode>
     <ifscCode>SVCB0020005</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Narayan Guru Coop Bk-mulund</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>5,hansa?á Villa, J.J. Road, Mulund (W), Mumbai - 400080</address>
     <contact>25617575</contact>
     <micrCode>400068389</micrCode>
     <ifscCode>SVCB0020004</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Narayan Guru Coop Bk-bhandup</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>28/29; Aniraj Tower, Janata Market, L.B.S. Marg, Bhandup (W); Mumbai- 400078</address>
     <contact>25961530</contact>
     <micrCode>400068385</micrCode>
     <ifscCode>SVCB0020003</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sree Narayan Guru Coop Bk-chembur</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Sree Narayan Nagar, P.L. Lokhande Marg, Chembur (W), Mumbai- 400089</address>
     <contact>25251740</contact>
     <micrCode>400068374</micrCode>
     <ifscCode>SVCB0020002</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shri Ganesh Sahakari BK- Baner Balewadi</name>
-    <city>Balewadi</city>
+    <city>Pune</city>
     <address>S.NO. 9/16, Plot NO.1 &amp;2, Near Laxmi Mata Mandir Chowk, Balewadi, Pune 411045</address>
     <contact>2147483647</contact>
     <micrCode>411164324</micrCode>
     <ifscCode>SVCB0019005</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shri Ganesh SAH Bank- Walhekarwadi</name>
@@ -1014,7 +1041,7 @@
     <contact>2147483647</contact>
     <micrCode>411164322</micrCode>
     <ifscCode>SVCB0019004</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shri Ganesh Sahakari Bk-rahatani</name>
@@ -1023,70 +1050,70 @@
     <contact>2147483647</contact>
     <micrCode>411164309</micrCode>
     <ifscCode>SVCB0019003</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shri Ganesh Sahakari Bk-sangavi</name>
-    <city>Sangavi</city>
+    <city>Pune</city>
     <address>SR NO 53/1b 2 &amp; 14, Pimple Gurav, NEW Sangavi, Pune 411061</address>
     <contact>27286314</contact>
     <micrCode>411164287</micrCode>
     <ifscCode>SVCB0019002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51608</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Srirampuram</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.29 BY 1, 3RD Cross, 7TH Main, Srirampuram, Bangalore 560 021</address>
     <contact>0</contact>
     <micrCode>560226337</micrCode>
     <ifscCode>SVCB0018007</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidyaranyapura</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO 703, 3RD Block, B E L Layout, Vidyaranyapura, Bangalore 560 097</address>
     <contact>0</contact>
     <micrCode>560226328</micrCode>
     <ifscCode>SVCB0018006</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijayanagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.326 BY 327, Widia Layout, Chandralayout Main Road, Bangalore 560 040</address>
     <contact>0</contact>
     <micrCode>560226314</micrCode>
     <ifscCode>SVCB0018005</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahalakshmipuram</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.1 Jyothi Complex Nandini Layout Main Road Mahalakshmipuram Bangalore 560 096</address>
     <contact>0</contact>
     <micrCode>560226313</micrCode>
     <ifscCode>SVCB0018004</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kamalanagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.55, 8TH Main B.E.M.L.LAYOUT, Kamalanagar Bangalore 560 079</address>
     <contact>0</contact>
     <micrCode>560226292</micrCode>
     <ifscCode>SVCB0018003</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajajinagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.1703 2ND Block Rajajinagar Bangalore 560 010</address>
     <contact>0</contact>
     <micrCode>560226262</micrCode>
     <ifscCode>SVCB0018002</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Bharathi Coop Bk-himayathngr</name>
@@ -1095,34 +1122,34 @@
     <contact>27634914</contact>
     <micrCode>500015252</micrCode>
     <ifscCode>SVCB0017002</ifscCode>
-    <bankLoc>24059</bankLoc>
+    <bankLoc>51465</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-wai</name>
-    <city>WAI</city>
+    <city>Satara</city>
     <address>591, Ganpati Ali, WAI TAL. Wai, Dist Satara-412803</address>
     <contact>220007</contact>
     <micrCode>412801002</micrCode>
     <ifscCode>SVCB0016101</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd- Nasrapur</name>
-    <city>Nasarapur</city>
+    <city>Pune</city>
     <address>Shop NO 3 &amp; 4, Hariom Building, Plot NO 1&amp; 6, Grampanchayat Milkat NO 620, Nasarapur, Taluka Bhor, Pune- 412213</address>
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>SVCB0016023</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51583</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd- Uttamnagar</name>
-    <city>Shivane</city>
+    <city>Pune</city>
     <address>Pandharinath Nagar Housing Society, Ground Floor, Shop NO 11, 12, 13 NDA Road, SR NO 84/1, AT Post- Shivane Uttamnagar, Taluka Haveli, Pune- 411023</address>
     <contact>2147483647</contact>
     <micrCode>411074264</micrCode>
     <ifscCode>SVCB0016022</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51620</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd- Ambegaon</name>
@@ -1131,7 +1158,7 @@
     <contact>2147483647</contact>
     <micrCode>411074262</micrCode>
     <ifscCode>SVCB0016021</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd- Kothrud</name>
@@ -1140,34 +1167,34 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016020</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK LTD - Thergaon</name>
-    <city>Pimpri Chinchwad</city>
+    <city>Pune</city>
     <address>Survey NO 21/1a, Dange Chowk, Thergaon, Pimpri-chinchwad, Pune 411033</address>
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>SVCB0016019</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51592</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-chakan</name>
-    <city>Chakan</city>
+    <city>Pune</city>
     <address>Nana Smruti, Near Vegetable Market, Property NO. 515/1, 515/2, 515/3, 514, Chakan, Tal:khed; Dist: Pune, 410501</address>
     <contact>249277</contact>
     <micrCode>411074258</micrCode>
     <ifscCode>SVCB0016018</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51526</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-hadapsar</name>
-    <city>Hadapsar</city>
+    <city>Pune</city>
     <address>Shop NO 25/26, Ground Floor, Fortune Estates, Plot NO 58, Pune-solapur Road, Hadapsar- 411028</address>
     <contact>24411977</contact>
     <micrCode>411074257</micrCode>
     <ifscCode>SVCB0016017</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-bibvewadi</name>
@@ -1176,7 +1203,7 @@
     <contact>24223777</contact>
     <micrCode>411074255</micrCode>
     <ifscCode>SVCB0016016</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-sinhagad RD</name>
@@ -1185,16 +1212,16 @@
     <contact>24252777</contact>
     <micrCode>411074254</micrCode>
     <ifscCode>SVCB0016015</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-sangli</name>
-    <city>Sangli-miraj-kupwad</city>
+    <city>Sangli</city>
     <address>25, Kore Terrace, Neminath Nagar, Near Ganpati Mandir, Vishrambag, Sangli-416415</address>
     <contact>2303877</contact>
     <micrCode>416823151</micrCode>
     <ifscCode>SVCB0016014</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51610</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-sadashivpeth</name>
@@ -1203,25 +1230,25 @@
     <contact>24477377</contact>
     <micrCode>411074252</micrCode>
     <ifscCode>SVCB0016013</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-phaltan</name>
-    <city>Phaltan</city>
+    <city>Satara</city>
     <address>Krishna Hights, Raviwar Peth, Shivaji Chowk, Near Dhumal Hospital, Phaltan-115523</address>
     <contact>220077</contact>
     <micrCode>415822151</micrCode>
     <ifscCode>SVCB0016012</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51591</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-arphal</name>
-    <city>Vaduth</city>
+    <city>Satara</city>
     <address>AT Arphal, Post: Vaduth; Tal: Satara; Dist: Satara-415011</address>
     <contact>264208</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016011</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51632</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-satara City</name>
@@ -1230,43 +1257,43 @@
     <contact>280677</contact>
     <micrCode>415822001</micrCode>
     <ifscCode>SVCB0016010</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51613</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-songirwadi</name>
-    <city>WAI</city>
+    <city>Satara</city>
     <address>Dhumal Building, Near Main Post Office, Songirwadi, Wai-421803</address>
     <contact>227177</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016009</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-malkapur</name>
-    <city>Karad</city>
+    <city>Satara</city>
     <address>?á299/2, Kalash Pride, Pune Banglore Highway, Near Hotel Sangam, Malkapur, Karad, Dist: Satara -415101</address>
     <contact>223319</contact>
     <micrCode>415822352</micrCode>
     <ifscCode>SVCB0016008</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-medha</name>
-    <city>Medha</city>
+    <city>Satara</city>
     <address>Mardhekr Building, Medha, Tal: Jawali, Dist: Satara-412012</address>
     <contact>285377</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016007</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51571</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-umbraj</name>
-    <city>Umbraj</city>
+    <city>Satara</city>
     <address>Near Zilla Parishad Prathmik Shala, Gajalaxmi Complex, 1ST Floor, Umbraj, Tal: Karad, Dist- Satara-415109</address>
     <contact>264368</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016006</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51629</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-krishnanagar</name>
@@ -1275,34 +1302,34 @@
     <contact>244119</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016005</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51613</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-shirwal</name>
-    <city>Shirwal</city>
+    <city>Satara</city>
     <address>Jiwala, Near S. T. Stand, Shirwal, TAL.- Khandala; Dist- Satara-415003</address>
     <contact>244203</contact>
     <micrCode>412801152</micrCode>
     <ifscCode>SVCB0016004</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51619</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-lonand</name>
-    <city>Lonand</city>
+    <city>Satara</city>
     <address>Shastri Chowk, Satara Pune Road, AT POST. Lonand, TAL. Khandala; DIST.- Satara-415521</address>
     <contact>225156</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016003</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>WAI Urban Coop BK Ltd-panchgani</name>
-    <city>Panchgani</city>
+    <city>Satara</city>
     <address>OPP. S.T Stand Panchgani TAL. Mahabaleshwar DIST. Satara-412805</address>
     <contact>240220</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0016002</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arvind Sahakari Bank Ltd- Amravati</name>
@@ -1311,16 +1338,16 @@
     <contact>2567656</contact>
     <micrCode>444823102</micrCode>
     <ifscCode>SVCB0015007</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arvind Sahakari Bank Ltd- Warud</name>
-    <city>Warud</city>
+    <city>Amravati</city>
     <address>Approach Road, Behind Kathiwale Complex, Warud- 444906</address>
     <contact>234142</contact>
     <micrCode>444823352</micrCode>
     <ifscCode>SVCB0015006</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arvind Sahakari Bank Ltd- Gandhibag</name>
@@ -1329,16 +1356,16 @@
     <contact>2733314</contact>
     <micrCode>440485252</micrCode>
     <ifscCode>SVCB0015005</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arvind Sahakari Bank Ltd- Saoner</name>
-    <city>Saoner</city>
+    <city>Nagpur</city>
     <address>House NO 42, Awadhut Wadi, Civil Lines, Saoner-441107</address>
     <contact>234451</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0015004</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51611</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arvind Sahakari Bank Ltd- Katol</name>
@@ -1347,16 +1374,16 @@
     <contact>222710</contact>
     <micrCode>441823152</micrCode>
     <ifscCode>SVCB0015003</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arvind Sahkri BK Ltd-digdoh, Hingna</name>
-    <city>Hingna</city>
+    <city>Nagpur</city>
     <address>Radake Layout, Hingna Road, Digdoh, ?ánagpur  440016</address>
     <contact>235830</contact>
     <micrCode>440485251</micrCode>
     <ifscCode>SVCB0015002</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51542</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Defence Accounts Coopbkltd-cda(sc)</name>
@@ -1365,7 +1392,7 @@
     <contact>26134716</contact>
     <micrCode>411164274</micrCode>
     <ifscCode>SVCB0014004</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Defence Accounts Coopbkltd-cda(o)</name>
@@ -1374,7 +1401,7 @@
     <contact>26445519</contact>
     <micrCode>411164273</micrCode>
     <ifscCode>SVCB0014003</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Defence Accounts Coopbkltd-tilakrd</name>
@@ -1383,43 +1410,43 @@
     <contact>24472214</contact>
     <micrCode>411164280</micrCode>
     <ifscCode>SVCB0014002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri  Sahakari Bank- Head Office</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>446, J.S.S Road, Chirabazar, Mumbai- 400002</address>
     <contact>22017477</contact>
     <micrCode>400087001</micrCode>
     <ifscCode>SVCB0013999</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-dombivli</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Shop NO. 11 TO 14 Chirag CHS.LTD, Fadke Road, Dombivli (E)</address>
     <contact>2439896</contact>
     <micrCode>400087009</micrCode>
     <ifscCode>SVCB0013009</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-bhiwandi</name>
-    <city>Bhiwandi</city>
+    <city>Thane</city>
     <address>Shop NO, 1, 2,&amp; 2-a, Arjun Sagar Apartment, Anjur Naka, Agra Road, Bhiwandi, Dist- Thane Pin- 421 302</address>
     <contact>278833</contact>
     <micrCode>400087008</micrCode>
     <ifscCode>SVCB0013008</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51522</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-kamothe</name>
-    <city>Kamothe</city>
+    <city>Raigad</city>
     <address>Suraj Complex, Shop NO 2 &amp; 3, Plot NO. 2 &amp;21, Sector NO. 36, Kamothe Navi Mumbai -410209</address>
     <contact>32194229</contact>
     <micrCode>400087007</micrCode>
     <ifscCode>SVCB0013007</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-satara City</name>
@@ -1428,52 +1455,61 @@
     <contact>232105</contact>
     <micrCode>415087002</micrCode>
     <ifscCode>SVCB0013006</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51613</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-kandivli(W)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Sahyadri Nagar, Charkhop, Kandivli (W), Mumbai -400 067</address>
     <contact>28692529</contact>
     <micrCode>400087005</micrCode>
     <ifscCode>SVCB0013005</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-lalbaug</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Phanse Building, DR. B.A. Road, OPP. Digvijay Mill, Lalbaug, Mumbai -400 012</address>
     <contact>24703583</contact>
     <micrCode>400087004</micrCode>
     <ifscCode>SVCB0013004</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-vithalwadi</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>94/96, Bhagwan Kalachi Wadi, Bhuleshwar Mar, Mumbai -400 002</address>
     <contact>22425589</contact>
     <micrCode>400087003</micrCode>
     <ifscCode>SVCB0013003</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahyadri Sahakari Bank-chira Bazar</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>5/7, Vijay Wadi, DR. N. N. Shaha Marg, Chira Bazar, Mumbai -400 002</address>
     <contact>22054671</contact>
     <micrCode>400087002</micrCode>
     <ifscCode>SVCB0013002</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shree Mahalaxmi Coop CRD BK- Gokak Extension</name>
+    <city>Belgaum</city>
+    <address>Plot NO 14, RS NO. 201, Gokak Extension Area, Pin- 591307</address>
+    <contact>229530</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>SVCB0012005</ifscCode>
+    <bankLoc>51490</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shree Mahalaxmi Coop CRD BK- Ghataprabha</name>
-    <city>Ghataprabha</city>
+    <city>Belgaum</city>
     <address>TPC NO 377/2, Station Road, Ghataprabha</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0012004</ifscCode>
-    <bankLoc>24077</bankLoc>
+    <bankLoc>51489</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shree Mahalaxmi Coop CRD BK- Belgaum</name>
@@ -1482,16 +1518,16 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0012003</ifscCode>
-    <bankLoc>24077</bankLoc>
+    <bankLoc>51485</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shree Mahalaxmi Coop CRD Bk-gokak</name>
-    <city>Gokak</city>
+    <city>Belgaum</city>
     <address>CTS NO.3838A, Guruwarpeth Gokak, Dist Belgaum, Karnataka 591307</address>
     <contact>226530</contact>
     <micrCode>591851502</micrCode>
     <ifscCode>SVCB0012002</ifscCode>
-    <bankLoc>24077</bankLoc>
+    <bankLoc>51490</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaihind Coopbkwakad-pmpri Chinchwd</name>
@@ -1500,7 +1536,7 @@
     <contact>27614522</contact>
     <micrCode>411164290</micrCode>
     <ifscCode>SVCB0011002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank- Head Office</name>
@@ -1509,16 +1545,16 @@
     <contact>24332907</contact>
     <micrCode>411355002</micrCode>
     <ifscCode>SVCB0010999</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank- Hadapsar</name>
-    <city>Hadapsar</city>
+    <city>Pune</city>
     <address>SR. NO.221, Ravi Darshan Building, Shop NO 4, 5,near Akashwani, Hadapsar, Pune 411028</address>
     <contact>2147483647</contact>
     <micrCode>411355009</micrCode>
     <ifscCode>SVCB0010024</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank- Baner</name>
@@ -1527,7 +1563,7 @@
     <contact>2147483647</contact>
     <micrCode>411355008</micrCode>
     <ifscCode>SVCB0010023</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank- Satara</name>
@@ -1536,16 +1572,16 @@
     <contact>2147483647</contact>
     <micrCode>415355002</micrCode>
     <ifscCode>SVCB0010022</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51613</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank- Worli</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Sukhada Co-op Housing Society, Shop NO.6, SIR Pochkhanwala RD, OPP. RTO Office, Worli, Mumbai- 400030</address>
     <contact>2147483647</contact>
     <micrCode>400355003</micrCode>
     <ifscCode>SVCB0010021</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Shkri Bk-erandwane</name>
@@ -1554,43 +1590,43 @@
     <contact>25448502</contact>
     <micrCode>411355007</micrCode>
     <ifscCode>SVCB0010020</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-tasgaon</name>
-    <city>Tasgaon</city>
+    <city>Sangli</city>
     <address>Laxmi-krishna BLDG., Joshi Lane, House NO.1376, Tasgaon, DIST. Sangli - 416 312</address>
     <contact>240230</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010019</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51625</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-islampur</name>
-    <city>Islampur</city>
+    <city>Sangli</city>
     <address>S. NO.39/88 B, SHRI. Karande BLDG. Islampur, TAL. Walwa, DIST. Sangli - 415 409</address>
     <contact>222555</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010018</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51545</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-bhilwadi</name>
-    <city>Palus</city>
+    <city>Sangli</city>
     <address>Agrawal Complex, A/P Bhilwadi, TAL. Palus, DIST. Sangli - 416 303.</address>
     <contact>238099</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010017</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51586</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-palus</name>
-    <city>Palus</city>
+    <city>Sangli</city>
     <address>Hira Complex, Karad Road, Near Pawar Hospital, A/P Palus, TAL. Palus, DIST. Sangli</address>
     <contact>223235</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010016</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51586</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-new Delhi</name>
@@ -1599,43 +1635,43 @@
     <contact>25257230</contact>
     <micrCode>110094282</micrCode>
     <ifscCode>SVCB0010015</ifscCode>
-    <bankLoc>24063</bankLoc>
+    <bankLoc>51473</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bk-malkapur</name>
-    <city>Karad</city>
+    <city>Satara</city>
     <address>240 A, Jaihind Pride, Near Suyash Mangal Karyalaya, Shastrinagar, Malkapur, Karad, TAL. Karad, DIST. Sarata, PIN - 415 539.</address>
     <contact>228885</contact>
     <micrCode>415355352</micrCode>
     <ifscCode>SVCB0010014</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-ambak</name>
-    <city>Kadegaon</city>
+    <city>Sangli</city>
     <address>Sonhira Sahakari Sakhar Karkhana Complex, Ambak, TAL. Kadegaon, DIST.SANGLI, PIN - 415 303.</address>
     <contact>235672</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010013</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51549</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-panchgani</name>
-    <city>Panchgani</city>
+    <city>Satara</city>
     <address>Somnath Complex, Hanuman Mandir Road, Panchgani, DIST. Satara, PIN - 412 805.</address>
     <contact>240601</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010012</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-vita</name>
-    <city>Vita</city>
+    <city>Sangli</city>
     <address>Babaji Complex, OPP. S. T. Stand, Vita, TAL. Khanapur, DIST. Sangli, PIN - 415 311.</address>
     <contact>272079</contact>
     <micrCode>415355476</micrCode>
     <ifscCode>SVCB0010011</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51635</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-kolhapur</name>
@@ -1644,7 +1680,7 @@
     <contact>2666759</contact>
     <micrCode>416355002</micrCode>
     <ifscCode>SVCB0010010</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-solapur</name>
@@ -1653,34 +1689,34 @@
     <contact>2343420</contact>
     <micrCode>413589251</micrCode>
     <ifscCode>SVCB0010009</ifscCode>
-    <bankLoc>24115</bankLoc>
+    <bankLoc>51622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-navi Mumbai</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Bharati Vidyapeeth Educational Complex, Sector NO.8, C.B.D., Belapur, Navi Mumbai ?Û 400 614.</address>
     <contact>27577286</contact>
     <micrCode>400068313</micrCode>
     <ifscCode>SVCB0010008</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-kadegaon</name>
-    <city>Kadegaon</city>
+    <city>Sangli</city>
     <address>Kadegaon, TAL. Kadegaon, DIST. Sangli, PIN - 415 304.</address>
     <contact>242109</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0010007</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51549</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-sangli</name>
-    <city>Kadegaon</city>
+    <city>Sangli</city>
     <address>Bharati Vidyapeeth Bhavan, Rajwada Chowk, Sangli ?Û 416 416.</address>
     <contact>2323750</contact>
     <micrCode>416355151</micrCode>
     <ifscCode>SVCB0010006</ifscCode>
-    <bankLoc>24112</bankLoc>
+    <bankLoc>51549</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-dhankwadi</name>
@@ -1689,7 +1725,7 @@
     <contact>24372875</contact>
     <micrCode>411355005</micrCode>
     <ifscCode>SVCB0010005</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bk-vadgaon</name>
@@ -1698,7 +1734,7 @@
     <contact>24392190</contact>
     <micrCode>411355006</micrCode>
     <ifscCode>SVCB0010004</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-akurdi</name>
@@ -1707,7 +1743,7 @@
     <contact>27657844</contact>
     <micrCode>411355004</micrCode>
     <ifscCode>SVCB0010003</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharati Sahakari Bank-bhavan</name>
@@ -1716,7 +1752,7 @@
     <contact>24333423</contact>
     <micrCode>411355003</micrCode>
     <ifscCode>SVCB0010002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli- Market Yard, Pune</name>
@@ -1725,25 +1761,25 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0009029</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli- Malad East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Deora Estate, Rani Sati Marg, Malad East</address>
     <contact>28735406</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0009028</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-bhokar</name>
-    <city>Bhokar</city>
+    <city>Nanded</city>
     <address>NEW Mondha, Bhokar- TAL Bhokar, Dist Nanded</address>
     <contact>222210</contact>
     <micrCode>431809501</micrCode>
     <ifscCode>SVCB0009027</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51524</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-pune</name>
@@ -1752,16 +1788,16 @@
     <contact>2147483647</contact>
     <micrCode>411240257</micrCode>
     <ifscCode>SVCB0009026</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-chopda</name>
-    <city>Chopda</city>
+    <city>Jalgaon</city>
     <address>Kamal Hospital Building, Ground Floor, Narayanwadi Road, Chopda TQ. Chopda DIST. Jalgaon</address>
     <contact>221021</contact>
     <micrCode>425809501</micrCode>
     <ifscCode>SVCB0009025</ifscCode>
-    <bankLoc>24098</bankLoc>
+    <bankLoc>51530</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-wardha</name>
@@ -1770,7 +1806,7 @@
     <contact>231003</contact>
     <micrCode>442801001</micrCode>
     <ifscCode>SVCB0009024</ifscCode>
-    <bankLoc>24117</bankLoc>
+    <bankLoc>51639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-nagpur</name>
@@ -1779,16 +1815,16 @@
     <contact>2733661</contact>
     <micrCode>440183251</micrCode>
     <ifscCode>SVCB0009023</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-bhaisa</name>
-    <city>Bhainsa</city>
+    <city>Adilabad</city>
     <address>Market Yard, Gandhi Ganj, Bhaisa DIST. Adilabad - 504103, Andhra PRADESH.</address>
     <contact>231651</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0009022</ifscCode>
-    <bankLoc>24056</bankLoc>
+    <bankLoc>51462</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-adilabad</name>
@@ -1797,52 +1833,52 @@
     <contact>232455</contact>
     <micrCode>569002PAB</micrCode>
     <ifscCode>SVCB0009021</ifscCode>
-    <bankLoc>24056</bankLoc>
+    <bankLoc>51459</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-hadgoan</name>
-    <city>Hadgaon</city>
+    <city>Nanded</city>
     <address>Main Road, Hadgoan-431712, TAL Hadgoan, Distnanded</address>
     <contact>222719</contact>
     <micrCode>431809503</micrCode>
     <ifscCode>SVCB0009020</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51541</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-deglur</name>
-    <city>Deglur</city>
+    <city>Nanded</city>
     <address>NEW Mondha, Degloor-431717 TAL Degloor, Dist Nanded</address>
     <contact>256741</contact>
     <micrCode>431801452</micrCode>
     <ifscCode>SVCB0009019</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51531</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-bori</name>
-    <city>Jintur</city>
+    <city>Parbhani</city>
     <address>Bori-431508, TAL Jintur, Distparbhani</address>
     <contact>242691</contact>
     <micrCode>431801506</micrCode>
     <ifscCode>SVCB0009018</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>51548</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-selu</name>
-    <city>Sailu</city>
+    <city>Parbhani</city>
     <address>Kranti Chowk, Near Nitin Talkies TAL Selu, Dist Parbhani, Selu-431503</address>
     <contact>223147</contact>
     <micrCode>431801505</micrCode>
     <ifscCode>SVCB0009017</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>51605</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-dharmabad</name>
-    <city>Dharmabad</city>
+    <city>Nanded</city>
     <address>Market Yard Mondha, TAL Dharmabad, Dist Nanded, Dharmabad-431809</address>
     <contact>244559</contact>
     <micrCode>431809502</micrCode>
     <ifscCode>SVCB0009016</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51535</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-yavatmal</name>
@@ -1851,16 +1887,16 @@
     <contact>241451</contact>
     <micrCode>445801002</micrCode>
     <ifscCode>SVCB0009015</ifscCode>
-    <bankLoc>24118</bankLoc>
+    <bankLoc>51643</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-pandharkawada</name>
-    <city>Pandharkaoda</city>
+    <city>Yavatmal</city>
     <address>Surana Complex, Main Road  Pandharkawada TQ.KELAPUR Pandharkawada-445302  Distyavatmal</address>
     <contact>227817</contact>
     <micrCode>445801501</micrCode>
     <ifscCode>SVCB0009014</ifscCode>
-    <bankLoc>24118</bankLoc>
+    <bankLoc>51588</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-aurangabad</name>
@@ -1869,7 +1905,7 @@
     <contact>2347531</contact>
     <micrCode>431569002</micrCode>
     <ifscCode>SVCB0009013</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-akola</name>
@@ -1878,7 +1914,7 @@
     <contact>2439782</contact>
     <micrCode>444801002</micrCode>
     <ifscCode>SVCB0009012</ifscCode>
-    <bankLoc>24089</bankLoc>
+    <bankLoc>51512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-nanded</name>
@@ -1887,7 +1923,7 @@
     <contact>236069</contact>
     <micrCode>431809101</micrCode>
     <ifscCode>SVCB0009011</ifscCode>
-    <bankLoc>24104</bankLoc>
+    <bankLoc>51581</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-jalna</name>
@@ -1896,52 +1932,52 @@
     <contact>238535</contact>
     <micrCode>431805052</micrCode>
     <ifscCode>SVCB0009010</ifscCode>
-    <bankLoc>24099</bankLoc>
+    <bankLoc>51547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-mantha</name>
-    <city>Mantha</city>
+    <city>Jalna</city>
     <address>AT Post Taluka Mantha-431504, Main Road Dist  Jalna</address>
     <contact>270106</contact>
     <micrCode>431805502</micrCode>
     <ifscCode>SVCB0009009</ifscCode>
-    <bankLoc>24099</bankLoc>
+    <bankLoc>51570</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-deaulgoan Raja</name>
-    <city>Deulgaon Raja</city>
+    <city>Buldhana</city>
     <address>Tambatkar Galli, AT Post Taluka Deaulgoan Raja-443204  Dist Buldhana</address>
     <contact>232403</contact>
     <micrCode>431805501</micrCode>
     <ifscCode>SVCB0009008</ifscCode>
-    <bankLoc>24092</bankLoc>
+    <bankLoc>51533</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-jintur</name>
-    <city>Jintur</city>
+    <city>Parbhani</city>
     <address>AT Post Jintur-431609, Taluka  Jintur, Dist  Parbhani</address>
     <contact>220249</contact>
     <micrCode>431801504</micrCode>
     <ifscCode>SVCB0009007</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>51548</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-jawala Bazar</name>
-    <city>Aundha Nagnath</city>
+    <city>Hingoli</city>
     <address>AT Post Jawala Bazar-431705  Talukaaundha Nagnath, Dist Hingoli</address>
     <contact>240049</contact>
     <micrCode>431801503</micrCode>
     <ifscCode>SVCB0009006</ifscCode>
-    <bankLoc>24097</bankLoc>
+    <bankLoc>51517</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-sengaon</name>
-    <city>Sengaon</city>
+    <city>Hingoli</city>
     <address>AT Post Taluka Sengaon, Sengaon-431542, Dist Hingoli</address>
     <contact>250261</contact>
     <micrCode>431801502</micrCode>
     <ifscCode>SVCB0009005</ifscCode>
-    <bankLoc>24097</bankLoc>
+    <bankLoc>51614</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-parbhani</name>
@@ -1950,16 +1986,16 @@
     <contact>222767</contact>
     <micrCode>431801202</micrCode>
     <ifscCode>SVCB0009004</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>51590</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-akhadabalapur</name>
-    <city>Akhada Balapur</city>
+    <city>Hingoli</city>
     <address>Main Road, Akhada Baluper -431707 Disthingoli</address>
     <contact>242408</contact>
     <micrCode>431801501</micrCode>
     <ifscCode>SVCB0009003</ifscCode>
-    <bankLoc>24097</bankLoc>
+    <bankLoc>51511</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omprakash Deora Peoples Coop BK Hingoli-hingoli</name>
@@ -1968,34 +2004,43 @@
     <contact>220518</contact>
     <micrCode>431801402</micrCode>
     <ifscCode>SVCB0009002</ifscCode>
-    <bankLoc>24097</bankLoc>
+    <bankLoc>51543</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmednagar Shahar S BK- Waluj</name>
+    <city>Aurangabad</city>
+    <address>Plot NO X 369, Midc Area, Aurangabad- 431136</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>SVCB0008022</ifscCode>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S BK- Nashik</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>Shop NO. 2, 3 &amp; 4, Shriji Kunj Apartment, Patahrdi Road, Indira Nagar, Nashik- 422009</address>
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>SVCB0008021</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S BK- Sangamner</name>
-    <city>Sangamner</city>
+    <city>Ahmadnagar</city>
     <address>Survey NO 150, A/4/1 OF 2a17, NEW Nagar Road, Sangamner BK, Sangamner, District Ahmednagar- 422605</address>
     <contact>221222</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>SVCB0008020</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51607</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar SAH BK- Rahuri</name>
-    <city>Rahuri</city>
+    <city>Ahmadnagar</city>
     <address>Ward NO 30, House NO 284/a, Shivaji Chowk, Taluka Rahuri, District Ahmednagar, Maharashtra, PIN 413705</address>
     <contact>232232</contact>
     <micrCode>413802376</micrCode>
     <ifscCode>SVCB0008019</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51600</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Sahar S BK- Garkheda</name>
@@ -2004,7 +2049,7 @@
     <contact>2344636</contact>
     <micrCode>431485084</micrCode>
     <ifscCode>SVCB0008018</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-narayanpeth</name>
@@ -2013,7 +2058,7 @@
     <contact>24443232</contact>
     <micrCode>411485257</micrCode>
     <ifscCode>SVCB0008017</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-tarakpur</name>
@@ -2022,7 +2067,7 @@
     <contact>2320553</contact>
     <micrCode>414802012</micrCode>
     <ifscCode>SVCB0008016</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-nepti Apmc</name>
@@ -2031,7 +2076,7 @@
     <contact>2147483647</contact>
     <micrCode>414802011</micrCode>
     <ifscCode>SVCB0008015</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-sinhgad RD</name>
@@ -2040,16 +2085,16 @@
     <contact>24354041</contact>
     <micrCode>411485254</micrCode>
     <ifscCode>SVCB0008014</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-pimpri</name>
-    <city>Pimpri Chinchwad</city>
+    <city>Pune</city>
     <address>?ôsatsang?ö, Serve NO. 103(p) TO 108(p), Near Ajamera, Udyam Nagar, Neharu Nagar Road, Pimpri, Pune- 18.</address>
     <contact>27432744</contact>
     <micrCode>411485252</micrCode>
     <ifscCode>SVCB0008013</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51592</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-kothrud</name>
@@ -2058,7 +2103,7 @@
     <contact>25386394</contact>
     <micrCode>411485251</micrCode>
     <ifscCode>SVCB0008012</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-navipeth</name>
@@ -2067,7 +2112,7 @@
     <contact>2346217</contact>
     <micrCode>414802001</micrCode>
     <ifscCode>SVCB0008011</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-sukkar Chwk</name>
@@ -2076,16 +2121,16 @@
     <contact>2321188</contact>
     <micrCode>414802009</micrCode>
     <ifscCode>SVCB0008010</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-supa Midc</name>
-    <city>Supa</city>
+    <city>Ahmadnagar</city>
     <address>?ôudyam?ö, Yenare Complex, Walwane Road, Supa, Tal-parner, DIST. AHMEDNAGAR.</address>
     <contact>243683</contact>
     <micrCode>414802010</micrCode>
     <ifscCode>SVCB0008009</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51623</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-manmad RD</name>
@@ -2094,16 +2139,16 @@
     <contact>2426174</contact>
     <micrCode>414802008</micrCode>
     <ifscCode>SVCB0008008</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S BK-M.I.D.C.</name>
-    <city>Nagapur</city>
+    <city>Ahmadnagar</city>
     <address>?ôarthkam?ö, THE Place Shop NO. 1 TO 7, OPP. Nagapur Petrol Pump, Nagar-manmad Road, Nagapur, Ahmednagar- 414027.</address>
     <contact>2778280</contact>
     <micrCode>414802007</micrCode>
     <ifscCode>SVCB0008007</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51577</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-gulmohar RD</name>
@@ -2112,7 +2157,7 @@
     <contact>2424061</contact>
     <micrCode>414802006</micrCode>
     <ifscCode>SVCB0008006</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-market Yard</name>
@@ -2121,7 +2166,7 @@
     <contact>2452268</contact>
     <micrCode>414802005</micrCode>
     <ifscCode>SVCB0008005</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-zendigate</name>
@@ -2130,7 +2175,7 @@
     <contact>2341849</contact>
     <micrCode>414802004</micrCode>
     <ifscCode>SVCB0008004</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-maliwada</name>
@@ -2139,7 +2184,7 @@
     <contact>2343439</contact>
     <micrCode>414802003</micrCode>
     <ifscCode>SVCB0008003</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Shahar S Bk-savedi</name>
@@ -2148,34 +2193,34 @@
     <contact>2430502</contact>
     <micrCode>414802002</micrCode>
     <ifscCode>SVCB0008002</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari BK- Taloja</name>
-    <city>Taloja</city>
+    <city>Raigad</city>
     <address>Shop NO 7&amp; 8, Dream City, Plot NO 41, Sector 11, Phase I, Taloja Panchanand, Navi Mumbai</address>
     <contact>2147483647</contact>
     <micrCode>400345018</micrCode>
     <ifscCode>SVCB0007018</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51624</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari BK- Nandivli</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Ground Floor, Shri Swami Apartment, OPP. Sarvoday Park Complex, Samarth Nagar, Nandivli Panchanand, Dombivali East</address>
     <contact>2147483647</contact>
     <micrCode>400345017</micrCode>
     <ifscCode>SVCB0007017</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari BK Shahapur</name>
-    <city>Shahapur</city>
+    <city>Thane</city>
     <address>Shop NO.14 TO 18, Pandurang Krupa Apartment, Near S.T Stand, Gotheghar, Shahapur 421601</address>
     <contact>2147483647</contact>
     <micrCode>400345016</micrCode>
     <ifscCode>SVCB0007016</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51615</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-titwala</name>
@@ -2184,25 +2229,25 @@
     <contact>2381920</contact>
     <micrCode>400345015</micrCode>
     <ifscCode>SVCB0007015</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-kharghar</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Shop NO 50/51 Kesar Garden Co-op HSG STY Ltd, Plot NO 53, Sector 20, Kharghar-410210</address>
     <contact>2147483647</contact>
     <micrCode>400345014</micrCode>
     <ifscCode>SVCB0007014</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-ambarnath</name>
-    <city>Ulhasnagar</city>
+    <city>Thane</city>
     <address>115, Swanand Shopping Centre, 1ST Floor, B-cabin Road, Ambarnath East-421501</address>
     <contact>2609699</contact>
     <micrCode>400345013</micrCode>
     <ifscCode>SVCB0007013</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51628</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-thane W</name>
@@ -2211,52 +2256,52 @@
     <contact>25403648</contact>
     <micrCode>400345012</micrCode>
     <ifscCode>SVCB0007012</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-nilje</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Chandresh Avenue, 1ST Floor, Lodha Heaven, Nilje, TAL Kalyan-421204</address>
     <contact>2831989</contact>
     <micrCode>400345011</micrCode>
     <ifscCode>SVCB0007011</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-ayre Extn</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>B R Madhav Highschool, Ayre Road, Dombivali East-421201</address>
     <contact>2454299</contact>
     <micrCode>400345010</micrCode>
     <ifscCode>SVCB0007010</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-kalyan West</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Bhagwandas Mension, Shivaji Chowk, Kalyan West-421301</address>
     <contact>2304258</contact>
     <micrCode>400345009</micrCode>
     <ifscCode>SVCB0007009</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-kalyan East</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Kamlakar Bldg, Maratha Kolsewadi, Kalyan East-421306</address>
     <contact>2361359</contact>
     <micrCode>400345008</micrCode>
     <ifscCode>SVCB0007008</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-badlapur E</name>
-    <city>Ulhasnagar</city>
+    <city>Thane</city>
     <address>Shree Apts, Gandhi Chowk, Kulgaon, Badlapur East-421503</address>
     <contact>2690245</contact>
     <micrCode>400345007</micrCode>
     <ifscCode>SVCB0007007</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51628</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-mumbra</name>
@@ -2265,52 +2310,61 @@
     <contact>25465507</contact>
     <micrCode>400345006</micrCode>
     <ifscCode>SVCB0007006</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-ulhasnagar W</name>
-    <city>Ulhasnagar</city>
+    <city>Thane</city>
     <address>Green Land Apts, 1ST Floor, Near Sadhu Waswani Garden, GOL Maidan, Ulhasnagar West-421002</address>
     <contact>2734365</contact>
     <micrCode>400345005</micrCode>
     <ifscCode>SVCB0007005</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51628</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-dombivali Midc</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>P-48, Near Usma Petrol Pump, Midc Residential Zone, Midc Dombivali East-421203</address>
     <contact>2432810</contact>
     <micrCode>400345004</micrCode>
     <ifscCode>SVCB0007004</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-dombivali East</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Anupam Apts, N.C.KELKAR Road, Dombivali East -421201</address>
     <contact>2861648</contact>
     <micrCode>400345003</micrCode>
     <ifscCode>SVCB0007003</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abhinav Sahkari Bk-dombivali West</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Maitri Keshav RAM Sty, 1ST Floor, Subhash Road, Dombivali West-421202</address>
     <contact>2482918</contact>
     <micrCode>400345002</micrCode>
     <ifscCode>SVCB0007002</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chiplun Urban Bank- D.B.J. College Campus</name>
+    <city>Ratnagiri</city>
+    <address>Chiplun Nagar Parishad, House NO. Upnagar 103 J, Ground Floor, Gala NO. 2, Mumbai GOA Highway, Chiplun, DIST. Ratnagiri- 415605.</address>
+    <contact>254387</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>SVCB0006019</ifscCode>
+    <bankLoc>51529</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank- Kankavli</name>
-    <city>Kankavli</city>
+    <city>Sindhudurg</city>
     <address>Shree Bhalchandra Krupa Apartment, First Floor, House NO 331, C(2), Acharya Road, A/P Kankavli, District Sindhudurg 416602</address>
     <contact>233955</contact>
     <micrCode>416810326</micrCode>
     <ifscCode>SVCB0006018</ifscCode>
-    <bankLoc>24114</bankLoc>
+    <bankLoc>51555</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank- Kuwarbhav</name>
@@ -2319,7 +2373,7 @@
     <contact>231025</contact>
     <micrCode>415810052</micrCode>
     <ifscCode>SVCB0006017</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51601</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank- Akurdi, Pimpri Chinchwad</name>
@@ -2328,25 +2382,25 @@
     <contact>27242824</contact>
     <micrCode>411235251</micrCode>
     <ifscCode>SVCB0006016</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank - Lanja</name>
-    <city>Lanja</city>
+    <city>Ratnagiri</city>
     <address>Survey NO 3357, B,house NO 2244, AT AND Post Taluka Lanja, District Ratnagiri, PIN 416701</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006015</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51563</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-margtamhane</name>
-    <city>Chiplun</city>
+    <city>Ratnagiri</city>
     <address>Salvi House NO.61, Near DR.NATU Hospital, A/P.MARGTAMHANE- 415 702</address>
     <contact>261273</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006014</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51529</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-ratnagiri</name>
@@ -2355,106 +2409,106 @@
     <contact>220633</contact>
     <micrCode>415810051</micrCode>
     <ifscCode>SVCB0006013</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51601</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-panvel</name>
-    <city>Panvel</city>
+    <city>Raigad</city>
     <address>Yashashri?á Builidng, CSPNO.1553 Shivaji Chowk, Panvel - 410 206</address>
     <contact>27450617</contact>
     <micrCode>400235251</micrCode>
     <ifscCode>SVCB0006012</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51589</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-sangmeshwar</name>
-    <city>Sangameshwar</city>
+    <city>Ratnagiri</city>
     <address>Bhingarde Complex, Bazarpeth, A/P/TAL.SANGMESHWAR PIN Code NO. 415611</address>
     <contact>253229</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006011</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51606</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-abloli</name>
-    <city>Abloli</city>
+    <city>Ratnagiri</city>
     <address>Bait Complex, Bazarpeth, A/P.ABLOLI, PIN Code NO.415726</address>
     <contact>245092</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006010</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51508</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-lote</name>
-    <city>Khed</city>
+    <city>Ratnagiri</city>
     <address>DR.AMBRE Building, Near Hotel Paigoda, Mumbai-goa Highway A/P.LOTE, PIN Code NO. 415722</address>
     <contact>272943</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006009</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-deorukh</name>
-    <city>Devrukh</city>
+    <city>Ratnagiri</city>
     <address>Vankar Building, Bazarpeth, A/P.DEVRUKH PIN Code NO. 415804</address>
     <contact>240892</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006008</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51534</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-sawarde</name>
-    <city>Chiplun</city>
+    <city>Ratnagiri</city>
     <address>Jayashri Plaza, 1ST Floor, ABC Mumbai-goa Highway, OPP. Sawarde BUS Stop, Sawarde PIN Code NO.415606</address>
     <contact>264294</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006007</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51529</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-upnagar Kherdi</name>
-    <city>Kherdi</city>
+    <city>Ratnagiri</city>
     <address>Shubham APR. Karad Road, A/P Kherdi PIN Code-415604</address>
     <contact>256837</contact>
     <micrCode>415810202</micrCode>
     <ifscCode>SVCB0006006</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51559</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-shrigaon</name>
-    <city>Chiplun</city>
+    <city>Ratnagiri</city>
     <address>Kutarekar Building, A/P.SHRIGAON PIN Code NO.415602</address>
     <contact>230118</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006005</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51529</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-shrungartali</name>
-    <city>Guhagar</city>
+    <city>Ratnagiri</city>
     <address>Bazarpeth, Shrungartali, PIN Code NO.415724</address>
     <contact>244531</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006004</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51539</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-guhagar</name>
-    <city>Guhagar</city>
+    <city>Ratnagiri</city>
     <address>Near Guhagar Panchayat Samiti, ?Á Guhagar PIN Code NO.415703</address>
     <contact>240222</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0006003</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51539</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun Urban Bank-main BR.CHIPLUN</name>
-    <city>Chiplun</city>
+    <city>Ratnagiri</city>
     <address>Bazarpeth, Main Road, Chiplun, PIN Code-415605</address>
     <contact>261273</contact>
     <micrCode>415810201</micrCode>
     <ifscCode>SVCB0006002</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51529</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-sangvi Thergaon</name>
@@ -2463,7 +2517,7 @@
     <contact>27271737</contact>
     <micrCode>411307013</micrCode>
     <ifscCode>SVCB0005013</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-nanded Phata</name>
@@ -2472,7 +2526,7 @@
     <contact>24391610</contact>
     <micrCode>411307012</micrCode>
     <ifscCode>SVCB0005012</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-manjari Phata</name>
@@ -2481,7 +2535,7 @@
     <contact>26990297</contact>
     <micrCode>411307011</micrCode>
     <ifscCode>SVCB0005010</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-katraj Dhankawadi</name>
@@ -2490,7 +2544,7 @@
     <contact>24319693</contact>
     <micrCode>411307009</micrCode>
     <ifscCode>SVCB0005009</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-market Yard</name>
@@ -2499,7 +2553,7 @@
     <contact>24262031</contact>
     <micrCode>411307008</micrCode>
     <ifscCode>SVCB0005008</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-ganeshnagar</name>
@@ -2508,7 +2562,7 @@
     <contact>25463649</contact>
     <micrCode>411307007</micrCode>
     <ifscCode>SVCB0005007</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-phadke Haud</name>
@@ -2517,7 +2571,7 @@
     <contact>24574088</contact>
     <micrCode>411307006</micrCode>
     <ifscCode>SVCB0005006</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-wanawadi</name>
@@ -2526,7 +2580,7 @@
     <contact>26872110</contact>
     <micrCode>411307005</micrCode>
     <ifscCode>SVCB0005005</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-yerawada</name>
@@ -2535,7 +2589,7 @@
     <contact>26695691</contact>
     <micrCode>411307004</micrCode>
     <ifscCode>SVCB0005004</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-uttam Nagar</name>
@@ -2544,7 +2598,7 @@
     <contact>25290685</contact>
     <micrCode>411307003</micrCode>
     <ifscCode>SVCB0005003</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Urban Bank-phule Market</name>
@@ -2553,16 +2607,16 @@
     <contact>24453741</contact>
     <micrCode>411307002</micrCode>
     <ifscCode>SVCB0005002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji BK- Dehu Road</name>
-    <city>Dehu Road</city>
+    <city>Pune</city>
     <address>Railway Station Road, Main Bazar, Dehu Road, Taluka Haveli, Pune- 412101</address>
     <contact>2147483647</contact>
     <micrCode>411532266</micrCode>
     <ifscCode>SVCB0004009</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51532</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji BK- Ambegaon</name>
@@ -2571,25 +2625,25 @@
     <contact>2147483647</contact>
     <micrCode>411532263</micrCode>
     <ifscCode>SVCB0004008</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji BK- Wagholi</name>
-    <city>Wagholi</city>
+    <city>Pune</city>
     <address>Krushnai Gate NO 112, Kesnand Road, Wagholi, Pune 412207</address>
     <contact>2147483647</contact>
     <micrCode>411532260</micrCode>
     <ifscCode>SVCB0004007</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51637</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji Bk-pirangut</name>
-    <city>Pirangut</city>
+    <city>Pune</city>
     <address>SAI Shradha, 1258/4, 5,6 1ST Floor, S NO. 1149, Pirangut, TAL Mulshi, DIST. Pune - 412 115</address>
     <contact>22923030</contact>
     <micrCode>411174458</micrCode>
     <ifscCode>SVCB0004006</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51593</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji Bk-vishrantwadi</name>
@@ -2598,7 +2652,7 @@
     <contact>26615440</contact>
     <micrCode>411174436</micrCode>
     <ifscCode>SVCB0004005</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji Bk-hinjewadi</name>
@@ -2607,7 +2661,7 @@
     <contact>22932500</contact>
     <micrCode>411174417</micrCode>
     <ifscCode>SVCB0004004</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji Bk-sangvi</name>
@@ -2616,7 +2670,7 @@
     <contact>27280389</contact>
     <micrCode>411174404</micrCode>
     <ifscCode>SVCB0004003</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmavir Sambhaji Bk-kasarwadi</name>
@@ -2625,7 +2679,7 @@
     <contact>27119500</contact>
     <micrCode>411174351</micrCode>
     <ifscCode>SVCB0004002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank -head Office</name>
@@ -2634,7 +2688,7 @@
     <contact>24477748</contact>
     <micrCode>411171001</micrCode>
     <ifscCode>SVCB0003999</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank - Sinhgad Road</name>
@@ -2643,7 +2697,7 @@
     <contact>24350733</contact>
     <micrCode>411171014</micrCode>
     <ifscCode>SVCB0003014</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-navi Peth</name>
@@ -2652,7 +2706,7 @@
     <contact>24534530</contact>
     <micrCode>411171013</micrCode>
     <ifscCode>SVCB0003013</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-bhavani Peth</name>
@@ -2661,7 +2715,7 @@
     <contact>26384791</contact>
     <micrCode>411171012</micrCode>
     <ifscCode>SVCB0003012</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-gultekdi</name>
@@ -2670,7 +2724,7 @@
     <contact>24273658</contact>
     <micrCode>411171011</micrCode>
     <ifscCode>SVCB0003011</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-bhosari</name>
@@ -2679,7 +2733,7 @@
     <contact>27111749</contact>
     <micrCode>411171010</micrCode>
     <ifscCode>SVCB0003010</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-baner Road</name>
@@ -2688,7 +2742,7 @@
     <contact>25887299</contact>
     <micrCode>411171009</micrCode>
     <ifscCode>SVCB0003009</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-paud Road</name>
@@ -2697,16 +2751,16 @@
     <contact>25432234</contact>
     <micrCode>411171008</micrCode>
     <ifscCode>SVCB0003008</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-pirangut</name>
-    <city>Mulsi</city>
+    <city>Pune</city>
     <address>GAT NO 78, Mouje Pirangut, TAL Mulashi, Dist Pune</address>
     <contact>20291265</contact>
     <micrCode>411171007</micrCode>
     <ifscCode>SVCB0003007</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51573</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-bibwewadi</name>
@@ -2715,7 +2769,7 @@
     <contact>24219108</contact>
     <micrCode>411171006</micrCode>
     <ifscCode>SVCB0003006</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-kothrud</name>
@@ -2724,7 +2778,7 @@
     <contact>25435836</contact>
     <micrCode>411171005</micrCode>
     <ifscCode>SVCB0003005</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-senapati Bapat Road</name>
@@ -2733,7 +2787,7 @@
     <contact>25656311</contact>
     <micrCode>411171004</micrCode>
     <ifscCode>SVCB0003004</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-sahakar Nagar</name>
@@ -2742,7 +2796,7 @@
     <contact>24222294</contact>
     <micrCode>411171003</micrCode>
     <ifscCode>SVCB0003003</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidya Bank-laxmi Road</name>
@@ -2751,52 +2805,52 @@
     <contact>24454936</contact>
     <micrCode>411171002</micrCode>
     <ifscCode>SVCB0003002</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guardian Bank- Thumbuchetty Palya</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.163, First Floor, Anthonamma &amp; Rathnappa Nilaya, Thumbuchetty Palya Main Road, Bosco Nagar</address>
     <contact>32525722</contact>
     <micrCode>560234257</micrCode>
     <ifscCode>SVCB0002005</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guardian Bank- Singasandra</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO 500, 1ST Floor, Hosa Road, C K Nagar, Singasandra, Electronic City Post, Bangalore- 560100</address>
     <contact>28528496</contact>
     <micrCode>560234255</micrCode>
     <ifscCode>SVCB0002004</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guardian Bank -geddalahalli Branch</name>
-    <city>Kothanur</city>
+    <city>Bangalore Urban</city>
     <address>NO.38, Birds Campus, Geddalahalli, Kothanur Post, Bangalore -560077</address>
     <contact>28443982</contact>
     <micrCode>560234254</micrCode>
     <ifscCode>SVCB0002003</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51495</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guardian Bank -begur Branch</name>
-    <city>Begur</city>
+    <city>Bangalore Urban</city>
     <address>NO.1625, Amalodbava Nagar, OPP-ST.FRANCIS School, Begur Main Road, Begur, Bangalore-560068</address>
     <contact>25742233</contact>
     <micrCode>560234252</micrCode>
     <ifscCode>SVCB0002002</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guardian Bank -infantry Road</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO.139, Infantry Road, Bangalore -560 001</address>
     <contact>25582341</contact>
     <micrCode>560234251</micrCode>
     <ifscCode>SVCB0002001</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop BK- Diva East</name>
@@ -2805,61 +2859,61 @@
     <contact>2147483647</contact>
     <micrCode>400801020</micrCode>
     <ifscCode>SVCB0001020</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop BK- Malad East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO 3, Riddhi-siddhi Apartment, Daftary Road, OPP Saibaba Temple, Kurar Village, Malad East, Mumbai- 400097</address>
     <contact>2147483647</contact>
     <micrCode>400801019</micrCode>
     <ifscCode>SVCB0001019</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-wadala East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>FNG 55/116, Ground Floor, Shivshankar Nagar, Wadala (E), Mumbai-400037</address>
     <contact>2147483647</contact>
     <micrCode>400801018</micrCode>
     <ifscCode>SVCB0001018</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop BK Vikroli East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>236/2343 Ground Floor, Tagore Nagar, OPP B M C S School, Vikroli East, Mumbai 400083.</address>
     <contact>23483780</contact>
     <micrCode>400801017</micrCode>
     <ifscCode>SVCB0001017</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-seawood Darave</name>
-    <city>Kamothe</city>
+    <city>Raigad</city>
     <address>House NO 2361, Dalit Vikas Seva Sangh, Turbhe Store, Turbhe Navi Mumbai 400703</address>
     <contact>27720003</contact>
     <micrCode>400801016</micrCode>
     <ifscCode>SVCB0001016</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-kamothe</name>
-    <city>Kamothe</city>
+    <city>Raigad</city>
     <address>Shri Yogeshwar Complex, Vimum Tower, Building NO.1, First Floor, Sector 12, Plot NO.1, Kamothe, Navi Mumbai</address>
     <contact>22943264</contact>
     <micrCode>400801015</micrCode>
     <ifscCode>SVCB0001015</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coopbk-khadakpada, Kly(W)</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Pushpakdham, Near Swami Samarth Mandir, Khadakpada, Barave Road, Kalyan (W) 421 301.</address>
     <contact>2301208</contact>
     <micrCode>400801013</micrCode>
     <ifscCode>SVCB0001014</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coopbk-lokmanyangr, Thane</name>
@@ -2868,124 +2922,124 @@
     <contact>25881535</contact>
     <micrCode>400801009</micrCode>
     <ifscCode>SVCB0001013</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coopbk-pmgp Cly, Mankhurd</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.392, Mohite Patil Nagar, J.B. Bhosale Road, Mankhurd Panvel Link Road, Mankhurd, Mumbai 400 043.</address>
     <contact>25481159</contact>
     <micrCode>400801012</micrCode>
     <ifscCode>SVCB0001012</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-mhada Cly, Mulund?á</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Mulund Mukti Tower, Mhada Colony, Mulund (E), Mumbai 400 081.</address>
     <contact>25634002</contact>
     <micrCode>400801011</micrCode>
     <ifscCode>SVCB0001011</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-dombivali (W)</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Mahalaxmi Vihar, Mahatma Phule Road, Dombivali (W), DIST. THANE.</address>
     <contact>2495573</contact>
     <micrCode>400801010</micrCode>
     <ifscCode>SVCB0001010</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-trombay?á</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Amar Nagar CO-OP. Housing Society, Dhobighat, Cheeta Camp, Trombay, Mumbai-400 088.</address>
     <contact>25511090</contact>
     <micrCode>400801003</micrCode>
     <ifscCode>SVCB0001009</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coopbk-nehru Ngr, Kurla-e</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Baba Vihar, Angulimal CO-OP. HSG. Society, IST Floor, B/101, S.G. Barve Marg, Nehru Nagar, Kurla (E), Mumbai 400 024.</address>
     <contact>25260809</contact>
     <micrCode>400801014</micrCode>
     <ifscCode>SVCB0001008</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-kolsewadi, Kly(E)</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Devi Dayal Tower, OPP. Kolsewadi Police Station, Kolsewadi, Kalyan (E), DIST. THANE.</address>
     <contact>2363354</contact>
     <micrCode>400801008</micrCode>
     <ifscCode>SVCB0001007</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-kalamboli?á</name>
-    <city>Kalamboli</city>
+    <city>Raigad</city>
     <address>Hindusthan Bank Bhavan, Sector NO.8, Plot NO.11, OPP. M.G.M. Hospital, Kalamboli, Navi Mumbai 410 218.</address>
     <contact>27420003</contact>
     <micrCode>400801007</micrCode>
     <ifscCode>SVCB0001006</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51550</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coopbk-pratapngr, Bhandup</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Jijamata Vidyalaya Building, Pratap Nagar Road Naka, Bhandup (W), Mumbai 400 078.</address>
     <contact>25944662</contact>
     <micrCode>400801006</micrCode>
     <ifscCode>SVCB0001005</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-dharavi?á</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Lokseva CO-OP. Housing Society, First Floor, Garib Nagar, 90 Feet Road, Dharavi, Mumbai-400 017.</address>
     <contact>24078040</contact>
     <micrCode>400801005</micrCode>
     <ifscCode>SVCB0001004</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coopbk-shivaji Nagar</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Pitch NO.3068 TO 3069 A, Gajanan Colony, Shivaji Nagar, Govandi, Mumbai-400 043.</address>
     <contact>32191650</contact>
     <micrCode>400801004</micrCode>
     <ifscCode>SVCB0001003</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Coop Bk-lokhand Bazar?á</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>205, Sant Tukaram Road, ?Á Lokhand Bazar, Masjid (EAST), Mumbai-400 009.</address>
     <contact>23480131</contact>
     <micrCode>400801002</micrCode>
     <ifscCode>SVCB0001002</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijayawada</name>
-    <city>Vijayawada</city>
+    <city>Krishna</city>
     <address>K.S.N. Complex, NO. 74-1-8, M.G.ROAD, Krishnanagar, OPP. Autonagar BUS Stand, Vjayawada, Andhra Pradesh</address>
     <contact>2550078</contact>
     <micrCode>520089002</micrCode>
     <ifscCode>SVCB0000303</ifscCode>
-    <bankLoc>24061</bankLoc>
+    <bankLoc>51471</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Secunderabad</name>
-    <city>Secunderabad</city>
+    <city>Hyderabad</city>
     <address>Golechha Arcade, 1,2,61&amp;62, Park Lane, OPP. Brand Factory Shopping Mall, Secunderabad-500 003</address>
     <contact>27843314</contact>
     <micrCode>500089003</micrCode>
     <ifscCode>SVCB0000302</ifscCode>
-    <bankLoc>24059</bankLoc>
+    <bankLoc>51469</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hyderabad</name>
@@ -2994,7 +3048,7 @@
     <contact>23352057</contact>
     <micrCode>500089002</micrCode>
     <ifscCode>SVCB0000301</ifscCode>
-    <bankLoc>24059</bankLoc>
+    <bankLoc>51465</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Faridabad</name>
@@ -3003,7 +3057,7 @@
     <contact>2423322</contact>
     <micrCode>110089004</micrCode>
     <ifscCode>SVCB0000252</ifscCode>
-    <bankLoc>24073</bankLoc>
+    <bankLoc>51482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>East Patel Nagar</name>
@@ -3012,7 +3066,7 @@
     <contact>25753864</contact>
     <micrCode>110089003</micrCode>
     <ifscCode>SVCB0000251</ifscCode>
-    <bankLoc>24063</bankLoc>
+    <bankLoc>51473</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nehru Place NEW Delhi</name>
@@ -3021,7 +3075,7 @@
     <contact>26411127</contact>
     <micrCode>110089002</micrCode>
     <ifscCode>SVCB0000250</ifscCode>
-    <bankLoc>24063</bankLoc>
+    <bankLoc>51473</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
@@ -3030,7 +3084,7 @@
     <contact>2147483647</contact>
     <micrCode>302089002</micrCode>
     <ifscCode>SVCB0000249</ifscCode>
-    <bankLoc>24119</bankLoc>
+    <bankLoc>51645</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur</name>
@@ -3039,7 +3093,7 @@
     <contact>5104569</contact>
     <micrCode>342089002</micrCode>
     <ifscCode>SVCB0000248</ifscCode>
-    <bankLoc>24120</bankLoc>
+    <bankLoc>51646</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangli</name>
@@ -3048,7 +3102,7 @@
     <contact>2304449</contact>
     <micrCode>416089151</micrCode>
     <ifscCode>SVCB0000205</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaisinghpur</name>
@@ -3057,7 +3111,7 @@
     <contact>225245</contact>
     <micrCode>416089152</micrCode>
     <ifscCode>SVCB0000204</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shahupuri</name>
@@ -3066,7 +3120,7 @@
     <contact>3209803</contact>
     <micrCode>416089002</micrCode>
     <ifscCode>SVCB0000203</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Laxmipuri</name>
@@ -3075,25 +3129,25 @@
     <contact>2642195</contact>
     <micrCode>416089003</micrCode>
     <ifscCode>SVCB0000202</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ichalkaranji</name>
-    <city>Ichalkarnji</city>
+    <city>Kolhapur</city>
     <address>Daima Bhuvan, Ichalkaranji, Taluka Hatkanangale, DIST.KOLHAPUR -416 115</address>
     <contact>2424126</contact>
     <micrCode>416089201</micrCode>
     <ifscCode>SVCB0000201</ifscCode>
-    <bankLoc>24100</bankLoc>
+    <bankLoc>51544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karad</name>
-    <city>Karad</city>
+    <city>Satara</city>
     <address>Plot NO. 118, Station Road, Budhvar Peth, Karad, DIST. Satara ?Û 415 110.</address>
     <contact>226623</contact>
     <micrCode>415089351</micrCode>
     <ifscCode>SVCB0000200</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satara</name>
@@ -3102,16 +3156,16 @@
     <contact>226868</contact>
     <micrCode>415089002</micrCode>
     <ifscCode>SVCB0000199</ifscCode>
-    <bankLoc>24113</bankLoc>
+    <bankLoc>51613</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khamgaon</name>
-    <city>Khamgaon</city>
+    <city>Buldhana</city>
     <address>Upper Ground Floor, Shop NO 2, Shri Chamunda Complex, Plot NO 17, Sheet NO 33/d, Cotton Market Road, Khamgaon 444303</address>
     <contact>2147483647</contact>
     <micrCode>444089302</micrCode>
     <ifscCode>SVCB0000196</ifscCode>
-    <bankLoc>24092</bankLoc>
+    <bankLoc>51557</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raviwarpeth, Pune</name>
@@ -3120,7 +3174,7 @@
     <contact>24461133</contact>
     <micrCode>411089024</micrCode>
     <ifscCode>SVCB0000192</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>LAW College Road, Pune</name>
@@ -3129,70 +3183,70 @@
     <contact>25463761</contact>
     <micrCode>411089023</micrCode>
     <ifscCode>SVCB0000191</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Boisar</name>
-    <city>Boisar</city>
+    <city>Palghar</city>
     <address>Shop NO. 1-3, Ground Floor, Survey NO.121, Kalpavruksha C.H.S.LTD., Ostwal Empire, Village, Saravali, Boisar, Palghar- 401404</address>
     <contact>6051004</contact>
     <micrCode>400089095</micrCode>
     <ifscCode>SVCB0000186</ifscCode>
-    <bankLoc>24107</bankLoc>
+    <bankLoc>51525</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hanuman Road, Vile Parle East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ashok Guruprasad CHS Ltd, BLDG. NO. 04, Shop- 1, Hanuman Road, Vile Parle East, Mumbai- 400057</address>
     <contact>26189001</contact>
     <micrCode>400089093</micrCode>
     <ifscCode>SVCB0000185</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Currey Road</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.3, Ground Floor, Govardhan Building, 275-a, N.M.JOSHI Marg, Currey Road, Mumbai- 400013</address>
     <contact>23099101</contact>
     <micrCode>400089094</micrCode>
     <ifscCode>SVCB0000184</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nallasopara West</name>
-    <city>Nallasopara</city>
+    <city>Thane</city>
     <address>Shop NO 1A, 2,3,4&amp; 5, Ground Floor, Miraj- FUN Fiesta, SRI Prastha Complex, Village Nilemore, Nallasopara West, Taluka Vasai, Thane- 401203</address>
     <contact>2147483647</contact>
     <micrCode>400089092</micrCode>
     <ifscCode>SVCB0000183</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51580</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajaji Path, Dombivali</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Sita Niwas, Plot NO 2, CTS NO 8707 TO 8711, Tikka NO 38, Rajaji Road, Ramnagar, Village Ayare, Taluka Kalyan, District Thane, Dombivali East- 421201</address>
     <contact>6520777</contact>
     <micrCode>400089091</micrCode>
     <ifscCode>SVCB0000182</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thakur Village</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO 12-14, Flat NO C-2, Gokul Residency, Thakur Village, Kandivali East, Mumbai- 400101</address>
     <contact>28872171</contact>
     <micrCode>400089090</micrCode>
     <ifscCode>SVCB0000181</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salem</name>
-    <city>Alagapuram</city>
+    <city>Salem</city>
     <address>130/1, Lions Arcade, Sarada College Road, Alagapuram, Salem- 636016</address>
     <contact>2332166</contact>
     <micrCode>636089002</micrCode>
     <ifscCode>SVCB0000178</ifscCode>
-    <bankLoc>24123</bankLoc>
+    <bankLoc>51647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Coimbatore</name>
@@ -3201,7 +3255,7 @@
     <contact>2322217</contact>
     <micrCode>641089002</micrCode>
     <ifscCode>SVCB0000177</ifscCode>
-    <bankLoc>24122</bankLoc>
+    <bankLoc>51649</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nungambakkam</name>
@@ -3210,7 +3264,7 @@
     <contact>28218899</contact>
     <micrCode>600089003</micrCode>
     <ifscCode>SVCB0000176</ifscCode>
-    <bankLoc>24121</bankLoc>
+    <bankLoc>51648</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Annanagar(E)</name>
@@ -3219,16 +3273,16 @@
     <contact>26208998</contact>
     <micrCode>600089002</micrCode>
     <ifscCode>SVCB0000175</ifscCode>
-    <bankLoc>24121</bankLoc>
+    <bankLoc>51648</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banaswadi, Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Ground Floor, NO 2C, 742 Hrbr Layout, 1ST Block, Banaswadi, Bangalore- 560043</address>
     <contact>25456917</contact>
     <micrCode>560089021</micrCode>
     <ifscCode>SVCB0000174</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tumkur</name>
@@ -3237,16 +3291,16 @@
     <contact>2270612</contact>
     <micrCode>572089002</micrCode>
     <ifscCode>SVCB0000173</ifscCode>
-    <bankLoc>24083</bankLoc>
+    <bankLoc>51503</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naganathapura</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Ground Floor, Site NO 1, 2,3,4,SY. NO. 47/1, Rayasandra Main Road, Hosa Road, Naganathapura, Electronic City Post, Bangalore- 560100</address>
     <contact>2147483647</contact>
     <micrCode>560089020</micrCode>
     <ifscCode>SVCB0000172</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>J. P. Nagar, Bengaluru</name>
@@ -3255,7 +3309,7 @@
     <contact>23852343</contact>
     <micrCode>560089019</micrCode>
     <ifscCode>SVCB0000171</ifscCode>
-    <bankLoc>24075</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udupi</name>
@@ -3264,7 +3318,7 @@
     <contact>2521900</contact>
     <micrCode>576089002</micrCode>
     <ifscCode>SVCB0000170</ifscCode>
-    <bankLoc>24084</bankLoc>
+    <bankLoc>51504</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cidco Aurangabad</name>
@@ -3273,7 +3327,7 @@
     <contact>2473031</contact>
     <micrCode>431089006</micrCode>
     <ifscCode>SVCB0000169</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal</name>
@@ -3282,7 +3336,7 @@
     <contact>2441444</contact>
     <micrCode>462089001</micrCode>
     <ifscCode>SVCB0000168</ifscCode>
-    <bankLoc>24086</bankLoc>
+    <bankLoc>51505</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhule</name>
@@ -3291,7 +3345,7 @@
     <contact>238700</contact>
     <micrCode>424089001</micrCode>
     <ifscCode>SVCB0000167</ifscCode>
-    <bankLoc>24093</bankLoc>
+    <bankLoc>51536</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Akola</name>
@@ -3300,7 +3354,7 @@
     <contact>2490348</contact>
     <micrCode>444089002</micrCode>
     <ifscCode>SVCB0000166</ifscCode>
-    <bankLoc>24089</bankLoc>
+    <bankLoc>51512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalgaon</name>
@@ -3309,124 +3363,124 @@
     <contact>2236540</contact>
     <micrCode>425089002</micrCode>
     <ifscCode>SVCB0000165</ifscCode>
-    <bankLoc>24098</bankLoc>
+    <bankLoc>51546</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambad</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>Parshwanath CHS Ltd, Near Symbiosis College, Plot NO 29, Sector S.S.A.1N.H.SHRAWAN Sector, Ambad Cidco, Nashik-422 009</address>
     <contact>6611691</contact>
     <micrCode>422089003</micrCode>
     <ifscCode>SVCB0000164</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panchavati</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>Mahatma Gandhi Hotel MGT &amp; Catering College, Mumbai-agra Road, Panchavati, Nashik-422 003</address>
     <contact>2510619</contact>
     <micrCode>422089005</micrCode>
     <ifscCode>SVCB0000163</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangapur Road</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>Shop NO 1, 2 Rushiraj High Rise Gangapur Road Nashik 42205</address>
     <contact>2314277</contact>
     <micrCode>422089006</micrCode>
     <ifscCode>SVCB0000162</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basaveshwara NGR</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>38/F.V Giriyappa Complex, 80ft Road, Basaveshwaranager, Bangalore-560 079</address>
     <contact>23287380</contact>
     <micrCode>560089011</micrCode>
     <ifscCode>SVCB0000160</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yeshwanthapur</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Mayur Complex, No:36, 1ST Main, 4TH Cross, 1ST Stage, Yeshwanthapur, Bengaluru ?Û 560022</address>
     <contact>23571244</contact>
     <micrCode>560089013</micrCode>
     <ifscCode>SVCB0000159</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indira Nagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>853-b, 4TH Cross, 10th Main, Indiranagar 2ND Stage, Bengaluru - 560 038</address>
     <contact>25251853</contact>
     <micrCode>560089015</micrCode>
     <ifscCode>SVCB0000158</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R.T.NAGAR</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Ground Floor, NO 207/34, Venkateshwara Nilaya, Next TO Adishwara Showroom; 4TH Main Road, Ganganagar, Bangalore- 560032</address>
     <contact>23639789</contact>
     <micrCode>560089016</micrCode>
     <ifscCode>SVCB0000157</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mysore Road</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>342/18, Bytarayanapura, Mysore Road Bangalore-560 026</address>
     <contact>26753482</contact>
     <micrCode>560089017</micrCode>
     <ifscCode>SVCB0000156</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagarbhavi</name>
-    <city>Nagarabavi</city>
+    <city>Bangalore Urban</city>
     <address>1210/c, 80 Feet Road, Near Hotel Deewar, 1ST Phase, 2ND Stage, Chandra Layout, Bengluru- 560 040</address>
     <contact>23397210</contact>
     <micrCode>560089014</micrCode>
     <ifscCode>SVCB0000155</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51498</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banashankari</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>292, 7TH Block, 4TH Stage, 3RD Phase, 100 Feet Road, Banashankari, Bangalore-560 085</address>
     <contact>26791859</contact>
     <micrCode>560089012</micrCode>
     <ifscCode>SVCB0000154</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jayanagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>921/66, 28th Main Road, 9TH Block, Bangalore - 560 069</address>
     <contact>26542043</contact>
     <micrCode>560089018</micrCode>
     <ifscCode>SVCB0000153</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hanumanth NGR</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>27, Mount JOY Road, Hanumanth Nagar, Bangalore-560 019</address>
     <contact>26603990</contact>
     <micrCode>560089010</micrCode>
     <ifscCode>SVCB0000152</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chamrajpet</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>1,central Bank Road, Chamrajpet, Bangalore-560 018</address>
     <contact>26678718</contact>
     <micrCode>560089009</micrCode>
     <ifscCode>SVCB0000151</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadodara</name>
@@ -3435,7 +3489,7 @@
     <contact>2351370</contact>
     <micrCode>390089002</micrCode>
     <ifscCode>SVCB0000150</ifscCode>
-    <bankLoc>24071</bankLoc>
+    <bankLoc>51480</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat</name>
@@ -3444,25 +3498,25 @@
     <contact>2363633</contact>
     <micrCode>395089002</micrCode>
     <ifscCode>SVCB0000149</ifscCode>
-    <bankLoc>24070</bankLoc>
+    <bankLoc>51479</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad</name>
-    <city>Ahmedabad</city>
+    <city>Ahmadabad</city>
     <address>Shop NO. 1&amp;2, Ashoka Complex, Sardar Patel Stadium Road, Near Sardar Patel Statue, Navjeevan PO, Navrangpura, Ahmedabad 380014.</address>
     <contact>26460614</contact>
     <micrCode>380089002</micrCode>
     <ifscCode>SVCB0000148</ifscCode>
-    <bankLoc>24066</bankLoc>
+    <bankLoc>51476</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vapi</name>
-    <city>Vapi</city>
+    <city>Valsad</city>
     <address>Ground Floor, Shanti Complex, Shop NO.7&amp;8, Plot NO.P-50/1, Gunjan Main Road, Gidc, Vapi ?Û 396 195</address>
     <contact>2400810</contact>
     <micrCode>396089031</micrCode>
     <ifscCode>SVCB0000147</ifscCode>
-    <bankLoc>24072</bankLoc>
+    <bankLoc>51481</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajkot</name>
@@ -3471,7 +3525,7 @@
     <contact>6554141</contact>
     <micrCode>360089002</micrCode>
     <ifscCode>SVCB0000146</ifscCode>
-    <bankLoc>24069</bankLoc>
+    <bankLoc>51478</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karelibaug</name>
@@ -3480,7 +3534,7 @@
     <contact>2490911</contact>
     <micrCode>390089003</micrCode>
     <ifscCode>SVCB0000145</ifscCode>
-    <bankLoc>24071</bankLoc>
+    <bankLoc>51480</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharuch</name>
@@ -3489,7 +3543,7 @@
     <contact>71999999</contact>
     <micrCode>392089001</micrCode>
     <ifscCode>SVCB0000144</ifscCode>
-    <bankLoc>24068</bankLoc>
+    <bankLoc>51477</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satellite Road</name>
@@ -3498,7 +3552,7 @@
     <contact>2147483647</contact>
     <micrCode>380089003</micrCode>
     <ifscCode>SVCB0000143</ifscCode>
-    <bankLoc>24067</bankLoc>
+    <bankLoc>51476</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kopari-thane East</name>
@@ -3507,97 +3561,97 @@
     <contact>25324011</contact>
     <micrCode>400089083</micrCode>
     <ifscCode>SVCB0000142</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalyan East</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Gagangiri Opposite Hotel Prasad Tisgaon Naka Poona Link Road Kalyan East 421306</address>
     <contact>2358973</contact>
     <micrCode>400089084</micrCode>
     <ifscCode>SVCB0000141</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jawahar Nagar- Goregaon</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>City Survey NO 598, Plot NO 193, Ground Floor, Surag Residency, Jawahar Nagar, Road NO 3, Goregaon West, Mumbai- 400062</address>
     <contact>2147483647</contact>
     <micrCode>400089085</micrCode>
     <ifscCode>SVCB0000140</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Oshiwara</name>
-    <city>Mumbai</city>
+    <city>Greater Mumbai</city>
     <address>Hvps International School, Near Income TAX Quarters Oshiwara Mumbai 400053</address>
     <contact>2147483647</contact>
     <micrCode>400089082</micrCode>
     <ifscCode>SVCB0000139</ifscCode>
-    <bankLoc>24096</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panvel</name>
-    <city>Panvel</city>
+    <city>Raigad</city>
     <address>Shop NO.1 TO 4, Sneh Building, Nityanand Marg, Panvel DIST. Raigad 410206.</address>
     <contact>2147483647</contact>
     <micrCode>400089081</micrCode>
     <ifscCode>SVCB0000138</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51589</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sandhurst Road</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO 6 TO 9, Poddar Building NO 1, DR Maheshwari Road, Dongri, Sandhurst Road, Mumbai 400009</address>
     <contact>71999999</contact>
     <micrCode>400089079</micrCode>
     <ifscCode>SVCB0000137</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhandup East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ajinkya Apartments, Datar Colony Road, Bhandup East, Mumbai - 400 042.</address>
     <contact>25662535</contact>
     <micrCode>400089078</micrCode>
     <ifscCode>SVCB0000136</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasai East</name>
-    <city>Vasai</city>
+    <city>Thane</city>
     <address>Ground Floor, A1, A2, A4, NEW Manish C.H.S, Evershine City, Vasai East, Thane 401208</address>
     <contact>2147483647</contact>
     <micrCode>400089080</micrCode>
     <ifscCode>SVCB0000135</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51633</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shanti Garden, Mira Road</name>
-    <city>Mira-bhayandar</city>
+    <city>Thane</city>
     <address>Shop NO 8 TO 12, Flat NO 001, Building NO 2, Shanti Garden, Sector 2, Mira Road East, District Thane- 401107</address>
     <contact>29451552</contact>
     <micrCode>400089088</micrCode>
     <ifscCode>SVCB0000134</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51572</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dombivali West</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>CTS NO 9/5, Survey NO 215, Ground Floor, Guru Dilasa, Gupte Road, Jaihind Colony, Dombivli West, Thane- 421202</address>
     <contact>2147483647</contact>
     <micrCode>400089087</micrCode>
     <ifscCode>SVCB0000133</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poddar Road</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO 1 &amp; 2, Ground Floor, Ganga Vihar B, Poddar Road, Santacruz West, Mumbai- 400054</address>
     <contact>26194572</contact>
     <micrCode>400089086</micrCode>
     <ifscCode>SVCB0000132</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karve Nagar</name>
@@ -3606,7 +3660,7 @@
     <contact>65004020</contact>
     <micrCode>411089016</micrCode>
     <ifscCode>SVCB0000131</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sadashiv Peth</name>
@@ -3615,7 +3669,7 @@
     <contact>24440002</contact>
     <micrCode>411089015</micrCode>
     <ifscCode>SVCB0000130</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahakar Nagar</name>
@@ -3624,25 +3678,25 @@
     <contact>24222552</contact>
     <micrCode>411089017</micrCode>
     <ifscCode>SVCB0000129</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balewadi, Pune</name>
-    <city>Balewadi</city>
+    <city>Pune</city>
     <address>Elite Premio Commercial Complex, Mitcon Road, Balewadi, Pune ?Û 411045.</address>
     <contact>65240002</contact>
     <micrCode>411089018</micrCode>
     <ifscCode>SVCB0000128</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Warje Branch</name>
-    <city>Warje</city>
+    <city>Pune</city>
     <address>Ground Floor, SHOP.NO.9, Spandan, Warje Malwadi, Pune -411058</address>
     <contact>25236222</contact>
     <micrCode>411089019</micrCode>
     <ifscCode>SVCB0000127</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51640</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pimple Saudagar</name>
@@ -3651,7 +3705,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0000126</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paud Road</name>
@@ -3660,7 +3714,7 @@
     <contact>25390023</contact>
     <micrCode>411089022</micrCode>
     <ifscCode>SVCB0000125</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahakar Nagar II</name>
@@ -3669,16 +3723,16 @@
     <contact>24213311</contact>
     <micrCode>411089021</micrCode>
     <ifscCode>SVCB0000124</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Margao</name>
-    <city>Margao</city>
+    <city>South GOA</city>
     <address>Ground Floor, Shop NO 1&amp; 2, Vasant Arcade, Comba, Margao, Goa- 403601</address>
     <contact>2147483647</contact>
     <micrCode>403089003</micrCode>
     <ifscCode>SVCB0000123</ifscCode>
-    <bankLoc>24065</bankLoc>
+    <bankLoc>51474</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhanwar Kuwa-  Indore</name>
@@ -3687,7 +3741,7 @@
     <contact>2147483647</contact>
     <micrCode>452089003</micrCode>
     <ifscCode>SVCB0000122</ifscCode>
-    <bankLoc>24087</bankLoc>
+    <bankLoc>51506</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhibagh Nagpur (E)</name>
@@ -3696,7 +3750,7 @@
     <contact>2734077</contact>
     <micrCode>440089003</micrCode>
     <ifscCode>SVCB0000121</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagpur</name>
@@ -3705,7 +3759,7 @@
     <contact>2542195</contact>
     <micrCode>440089002</micrCode>
     <ifscCode>SVCB0000120</ifscCode>
-    <bankLoc>24103</bankLoc>
+    <bankLoc>51578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amravati</name>
@@ -3714,16 +3768,16 @@
     <contact>2147483647</contact>
     <micrCode>444089101</micrCode>
     <ifscCode>SVCB0000119</ifscCode>
-    <bankLoc>24090</bankLoc>
+    <bankLoc>51514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanded</name>
-    <city>Nanded</city>
+    <city>Jalgaon</city>
     <address>Shop NO 6, 7,22 &amp; 23 Sanman Prestige, Station Road, Near Zilla Parishad Office, Nanded 431601.</address>
     <contact>239144</contact>
     <micrCode>430089101</micrCode>
     <ifscCode>SVCB0000118</ifscCode>
-    <bankLoc>24098</bankLoc>
+    <bankLoc>51581</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ratnagiri</name>
@@ -3732,7 +3786,7 @@
     <contact>234050</contact>
     <micrCode>415089051</micrCode>
     <ifscCode>SVCB0000117</ifscCode>
-    <bankLoc>24111</bankLoc>
+    <bankLoc>51601</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Solapur</name>
@@ -3741,16 +3795,16 @@
     <contact>2724263</contact>
     <micrCode>413089002</micrCode>
     <ifscCode>SVCB0000116</ifscCode>
-    <bankLoc>24115</bankLoc>
+    <bankLoc>51622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Waluj</name>
-    <city>Waluj</city>
+    <city>Aurangabad</city>
     <address>Plot NO.P-102, Meenatai Thakre Market, Bajaj Nagar, Maharanapratap Chowk, Waluj Aurangabad 431136.</address>
     <contact>2554928</contact>
     <micrCode>431089004</micrCode>
     <ifscCode>SVCB0000115</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51638</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indore</name>
@@ -3759,7 +3813,7 @@
     <contact>2539222</contact>
     <micrCode>452089002</micrCode>
     <ifscCode>SVCB0000114</ifscCode>
-    <bankLoc>24087</bankLoc>
+    <bankLoc>51506</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalna</name>
@@ -3768,7 +3822,7 @@
     <contact>242011</contact>
     <micrCode>431089052</micrCode>
     <ifscCode>SVCB0000113</ifscCode>
-    <bankLoc>24099</bankLoc>
+    <bankLoc>51547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Latur</name>
@@ -3777,7 +3831,7 @@
     <contact>250257</contact>
     <micrCode>413089052</micrCode>
     <ifscCode>SVCB0000112</ifscCode>
-    <bankLoc>24101</bankLoc>
+    <bankLoc>51566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmadnagar</name>
@@ -3786,7 +3840,7 @@
     <contact>2430422</contact>
     <micrCode>414089002</micrCode>
     <ifscCode>SVCB0000111</ifscCode>
-    <bankLoc>24088</bankLoc>
+    <bankLoc>51509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aurangabad</name>
@@ -3795,16 +3849,16 @@
     <contact>2324929</contact>
     <micrCode>431089003</micrCode>
     <ifscCode>SVCB0000110</ifscCode>
-    <bankLoc>24091</bankLoc>
+    <bankLoc>51518</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hadapsar</name>
-    <city>Hadapsar</city>
+    <city>Pune</city>
     <address>Ground Floor, Tupe Complex, SR. NO. 84, Hisa NO.04&amp;05, Village Hadapsar, Taluka Haveli, PUNE-411028.</address>
     <contact>26811401</contact>
     <micrCode>411089014</micrCode>
     <ifscCode>SVCB0000109</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51540</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sinhagad Road</name>
@@ -3813,7 +3867,7 @@
     <contact>24355004</contact>
     <micrCode>411089013</micrCode>
     <ifscCode>SVCB0000108</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chinchwad Gaon</name>
@@ -3822,7 +3876,7 @@
     <contact>27615454</contact>
     <micrCode>411089012</micrCode>
     <ifscCode>SVCB0000107</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bibwewadi</name>
@@ -3831,7 +3885,7 @@
     <contact>24410992</contact>
     <micrCode>411089011</micrCode>
     <ifscCode>SVCB0000106</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhosari</name>
@@ -3840,7 +3894,7 @@
     <contact>27230222</contact>
     <micrCode>411089010</micrCode>
     <ifscCode>SVCB0000105</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kothrud</name>
@@ -3849,7 +3903,7 @@
     <contact>25386889</contact>
     <micrCode>411089009</micrCode>
     <ifscCode>SVCB0000104</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aundh - Pune</name>
@@ -3858,7 +3912,7 @@
     <contact>27299110</contact>
     <micrCode>411089008</micrCode>
     <ifscCode>SVCB0000103</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Viman Nagar</name>
@@ -3867,7 +3921,7 @@
     <contact>26630855</contact>
     <micrCode>411089006</micrCode>
     <ifscCode>SVCB0000102</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Camp</name>
@@ -3876,79 +3930,79 @@
     <contact>26052659</contact>
     <micrCode>411089005</micrCode>
     <ifscCode>SVCB0000101</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nashik</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>L-15 &amp;g-16, Utility Centre, N M C Sharanpur RD, Nashik-422 001</address>
     <contact>2311618</contact>
     <micrCode>422089002</micrCode>
     <ifscCode>SVCB0000100</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Eksar Road</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO. 1 TO 4, DEV Krupa Chs, Eksar Road, Near Aquaria Club, Borivali (WEST), Mumbai-400 092.</address>
     <contact>28943626</contact>
     <micrCode>400089028</micrCode>
     <ifscCode>SVCB0000099</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>11th Cross Malleshwaram</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>8TH Main, 14th Cross, Next TO Canara Union, Malleshwaram</address>
     <contact>23316709</contact>
     <micrCode>560089008</micrCode>
     <ifscCode>SVCB0000098</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hessarghatta Road</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Triveni Memorial Educational Trust, 28/29, Hessargatta Main RD, Malla Sandra, Peenya, Bangalore-560057</address>
     <contact>28393699</contact>
     <micrCode>560089007</micrCode>
     <ifscCode>SVCB0000097</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ganapathy High School Road</name>
-    <city>Mangalore</city>
+    <city>Dakshin Kannad</city>
     <address>Ground Floor, Mohini Vilas Commercial Complex, Casaba Bazar Village, 13th Market Yard OF Mangalore City, Ganapathy High School Road, Hampankatta, Mangalore ?Û 575 001</address>
     <contact>2420382</contact>
     <micrCode>575089003</micrCode>
     <ifscCode>SVCB0000096</ifscCode>
-    <bankLoc>24078</bankLoc>
+    <bankLoc>51496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandra East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>IES NEW English High School, GOVT. Colony, Bandra (E), Mumbai-400 051.</address>
     <contact>26571951</contact>
     <micrCode>400089029</micrCode>
     <ifscCode>SVCB0000095</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nashik Road</name>
-    <city>Nashik</city>
+    <city>Nasik</city>
     <address>JDC Bytco (english Medium) High School, Nashik Road, Nashik-422101</address>
     <contact>2461168</contact>
     <micrCode>422089004</micrCode>
     <ifscCode>SVCB0000094</ifscCode>
-    <bankLoc>24106</bankLoc>
+    <bankLoc>51584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijaynagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>KVV English Nursery, Primary &amp; High School, 3 &amp; 3/1, Subbanna Gardens, Behind BTS Garage, Vijay Nagar, Bengaluru - 560 040.</address>
     <contact>23218189</contact>
     <micrCode>560089006</micrCode>
     <ifscCode>SVCB0000093</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wanworie</name>
@@ -3957,7 +4011,7 @@
     <contact>26833949</contact>
     <micrCode>411089007</micrCode>
     <ifscCode>SVCB0000092</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum</name>
@@ -3966,34 +4020,34 @@
     <contact>2461448</contact>
     <micrCode>590089002</micrCode>
     <ifscCode>SVCB0000091</ifscCode>
-    <bankLoc>24077</bankLoc>
+    <bankLoc>51485</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hubli</name>
-    <city>Hubli-dharwad</city>
+    <city>Dharwad</city>
     <address>GND Flr, Satellite Space AGE Complex, Koppikar RD, Hubli-580 020</address>
     <contact>2366973</contact>
     <micrCode>580089002</micrCode>
     <ifscCode>SVCB0000090</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51493</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Worli</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO 8-10, Ground Floor, Ramodiya Mansion NO 1, 257, OFF DR Annie Besant Road, Worli, Mumbai- 400025</address>
     <contact>24365468</contact>
     <micrCode>400089089</micrCode>
     <ifscCode>SVCB0000089</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharwad</name>
-    <city>Hubli-dharwad</city>
+    <city>Dharwad</city>
     <address>Ground Floor, Theja Mahal, CTS NO.150/A, Market Fort, OPP. Regal Talkies, Vijayard, Near Cbt, Dharwad -580 001.</address>
     <contact>2447373</contact>
     <micrCode>580089003</micrCode>
     <ifscCode>SVCB0000088</ifscCode>
-    <bankLoc>24079</bankLoc>
+    <bankLoc>51493</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mysore</name>
@@ -4002,16 +4056,16 @@
     <contact>2341299</contact>
     <micrCode>570089002</micrCode>
     <ifscCode>SVCB0000087</ifscCode>
-    <bankLoc>24081</bankLoc>
+    <bankLoc>51497</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CG Road Chembur</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, Shop NO 1, 2 AND 2A, Vikas Commercial Centre, DR.C G Road, Chembur, Mumbai 400074</address>
     <contact>71999999</contact>
     <micrCode>400089077</micrCode>
     <ifscCode>SVCB0000086</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurlawest</name>
@@ -4020,97 +4074,97 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SVCB0000085</ifscCode>
-    <bankLoc>24102</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazira Naka</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.2 AND 3, Crest Avenue Chs, AT L.T.ROAD, Vazira Naka, Borivali West, Mumbai 400092</address>
     <contact>71999999</contact>
     <micrCode>400089075</micrCode>
     <ifscCode>SVCB0000084</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dadar East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Unit NO. 1 &amp; 2, GR. Floor, Aalap CHS Ltd, Plot NO. 173, SIR Bhalchandra Road, Dadar (EAST), Mumbai ?Û 400 014</address>
     <contact>24144086</contact>
     <micrCode>400089073</micrCode>
     <ifscCode>SVCB0000083</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pandurangwadi, Goregaon (E)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, Murarrao Rane High School BLDG., Road NO.3, Pandurangwadi, Goregaon (E), Mumbai ?Û 400063.</address>
     <contact>28712145</contact>
     <micrCode>400089072</micrCode>
     <ifscCode>SVCB0000082</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Phadke Road</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Ground Floor, Pitre Building, Phadke Road, Dombivali (EAST), Thane ?Û 421 201</address>
     <contact>6064100</contact>
     <micrCode>400089071</micrCode>
     <ifscCode>SVCB0000081</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panjim</name>
-    <city>Panaji</city>
+    <city>North GOA</city>
     <address>Ground Floor, Primavera Bldg, Next TO Edc, DR.ATMARAM Borkar Road, Panjim, Goa- 403001.</address>
     <contact>2432552</contact>
     <micrCode>403089002</micrCode>
     <ifscCode>SVCB0000080</ifscCode>
-    <bankLoc>24064</bankLoc>
+    <bankLoc>51475</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vashi Sector 15</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Shop NOS.1-3, Land View Co-operative Housing Society LTD., OPP. Maratha Bhavan, Sector 15 Vashi, Navi Mumbai-400 705.</address>
     <contact>27880561</contact>
     <micrCode>400089070</micrCode>
     <ifscCode>SVCB0000079</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Airoli</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Ground Floor, Sutar Tower, Plot NO.D4, Sector 20, Airoli, Navi Mumbai 400 708.</address>
     <contact>27792433</contact>
     <micrCode>400089069</micrCode>
     <ifscCode>SVCB0000078</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Filmcity Road</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.1, 2&amp;3, Ground Floor, Satellite Garden D-2, Film City Road, Goregaon- East, Mumbai -400063.</address>
     <contact>28404800</contact>
     <micrCode>400089065</micrCode>
     <ifscCode>SVCB0000077</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Girgaon</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, Sunrise Venetia, J .S .S. Road, Below Ambewadi Post Office, Girgaon, MUMBAI-400004.</address>
     <contact>23811125</contact>
     <micrCode>400089064</micrCode>
     <ifscCode>SVCB0000076</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nallasopara</name>
-    <city>Nallasopara</city>
+    <city>Thane</city>
     <address>Ground Floor, Krishna Retail Space, OPP. Kmpd School, Tulinj Road, Nallasopara (EAST), Taluka Vasai, Dist Thane-401 209</address>
     <contact>2435722</contact>
     <micrCode>400089063</micrCode>
     <ifscCode>SVCB0000075</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51580</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasarvadavli Branch</name>
@@ -4119,7 +4173,7 @@
     <contact>25973722</contact>
     <micrCode>400089068</micrCode>
     <ifscCode>SVCB0000074</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalwa</name>
@@ -4128,133 +4182,133 @@
     <contact>25362870</contact>
     <micrCode>400089067</micrCode>
     <ifscCode>SVCB0000073</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nerul East</name>
-    <city>Kamothe</city>
+    <city>Raigad</city>
     <address>Ground Floor, Shop NO. G-9 H, Havare Centurion, Plot NO. 88 TO 91, Sector 19, Nerul East, Navi Mumbai 400 706.</address>
     <contact>27725040</contact>
     <micrCode>400089066</micrCode>
     <ifscCode>SVCB0000072</ifscCode>
-    <bankLoc>24110</bankLoc>
+    <bankLoc>51554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shirali</name>
-    <city>Bhatkal</city>
+    <city>Uttar Kannad</city>
     <address>OLD Vanita Samaj Building, House NO.IX/25, Survey NO.815/A1, Chitrapur Main RD. Shirali -581354</address>
     <contact>258570</contact>
     <micrCode>581089352</micrCode>
     <ifscCode>SVCB0000071</ifscCode>
-    <bankLoc>24085</bankLoc>
+    <bankLoc>51486</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore</name>
-    <city>Mangalore</city>
+    <city>Dakshin Kannad</city>
     <address>G-7, Crystal Arc, Balmatta RD, Mangalore-575 001</address>
     <contact>2441263</contact>
     <micrCode>575089002</micrCode>
     <ifscCode>SVCB0000070</ifscCode>
-    <bankLoc>24078</bankLoc>
+    <bankLoc>51496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharghar</name>
-    <city>NEW Bombay</city>
+    <city>Thane</city>
     <address>Shop NOS.5-8, Shubharambh Complex, Plot NO.19, Sector 20, Kharghar, Navi Mumbai 410210</address>
     <contact>65307070</contact>
     <micrCode>400089062</micrCode>
     <ifscCode>SVCB0000069</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tilaknagar</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.10, Bhakti Heights, Chembur Sandesh CHS LTD., BLDG. NO.122, Tilaknagar Chembur, MUMBAI-400089.</address>
     <contact>25272218</contact>
     <micrCode>400089061</micrCode>
     <ifscCode>SVCB0000068</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Four Bangalows</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NOS.3-5, Shree Sagvan CHS LTD., RTO Lane, Four Bangalows, Andheri (WEST), MUMBAI-400053.</address>
     <contact>26311037</contact>
     <micrCode>400089060</micrCode>
     <ifscCode>SVCB0000067</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vikroli(W)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.1-3, Kailash Commercial Complex, Near Everest Factory, LBS Marg, Vikroli (WEST) MUMBAI-400083.</address>
     <contact>25778022</contact>
     <micrCode>400089059</micrCode>
     <ifscCode>SVCB0000066</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andheri East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NOS.2, BLDG. NO.F-2, Vijaynagarnityanand Marg, Vijaynagar CHS LTD., Andheri (EAST), MUMBAI-400069.</address>
     <contact>26832611</contact>
     <micrCode>400089058</micrCode>
     <ifscCode>SVCB0000065</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sion</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Unit NO. G-02, Ground Floor, Value Enclave, Ambedkar Road, Sion, MUMBAI-400022.</address>
     <contact>24078010</contact>
     <micrCode>400089057</micrCode>
     <ifscCode>SVCB0000064</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koramangala</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>780, Esszed Meridian, 80 FT.RD, Block-4, Koramangala, Bangalore, 560 034</address>
     <contact>25503861</contact>
     <micrCode>560089005</micrCode>
     <ifscCode>SVCB0000063</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajaji Nagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>815/23, 17th&apos;e&apos;, Main RD, 5TH Block, Rajaji Nagar, Bangalore-560 010</address>
     <contact>23403271</contact>
     <micrCode>560089004</micrCode>
     <ifscCode>SVCB0000062</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peenya</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Kssidc Multistoreyed Bldg, Peenya IND. EST.BANGALORE-560 058</address>
     <contact>28399355</contact>
     <micrCode>560089003</micrCode>
     <ifscCode>SVCB0000061</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maleshwaram</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>49/1, 5TH Cross RD, Malleshwaram, Bangalore-560 003</address>
     <contact>23441629</contact>
     <micrCode>560089002</micrCode>
     <ifscCode>SVCB0000060</ifscCode>
-    <bankLoc>24076</bankLoc>
+    <bankLoc>51483</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vile Parle West</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.01, Saroj Building, 10, Vallabhaai Patel Road, Vile Parle (W), Mumbai 400 056.</address>
     <contact>26124028</contact>
     <micrCode>400089056</micrCode>
     <ifscCode>SVCB0000059</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Louiswadi</name>
@@ -4263,16 +4317,16 @@
     <contact>25800051</contact>
     <micrCode>400089055</micrCode>
     <ifscCode>SVCB0000058</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virar-east</name>
-    <city>Virar</city>
+    <city>Thane</city>
     <address>Ground Floor, Shop NOS. 1-7, Varu Enclave Building, Hari Govind Nagar, Phulpada Road, Virar (EAST), Thane-401 303</address>
     <contact>2520298</contact>
     <micrCode>400089054</micrCode>
     <ifscCode>SVCB0000057</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51634</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badlapur</name>
@@ -4281,34 +4335,34 @@
     <contact>6483116</contact>
     <micrCode>400089053</micrCode>
     <ifscCode>SVCB0000056</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Charkop</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Kesar Residency, Sector-3, Next TO Bhagwati Restaurant, Charkop, Kandivali(W), Mumbai- 400 067.</address>
     <contact>28682570</contact>
     <micrCode>400089052</micrCode>
     <ifscCode>SVCB0000055</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khadakpada</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Ground Floor, Shop NO.3B, Niraj Park, Khadakpada, Kalyan (W) Thane 421301.</address>
     <contact>2305544</contact>
     <micrCode>400089051</micrCode>
     <ifscCode>SVCB0000054</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghatkopar(WEST)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.1-3, Ground Floor, Delite Palace CHS LTD., Plot NO.71/7, M G Road, Ghatkopar(W), MUMBAI-400086.</address>
     <contact>25103366</contact>
     <micrCode>400089050</micrCode>
     <ifscCode>SVCB0000053</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pimpari Chinchwad</name>
@@ -4317,7 +4371,7 @@
     <contact>27659285</contact>
     <micrCode>411089004</micrCode>
     <ifscCode>SVCB0000052</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune Satara Road</name>
@@ -4326,7 +4380,7 @@
     <contact>24215075</contact>
     <micrCode>411089003</micrCode>
     <ifscCode>SVCB0000051</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune D G</name>
@@ -4335,52 +4389,52 @@
     <contact>25538371</contact>
     <micrCode>411089002</micrCode>
     <ifscCode>SVCB0000050</ifscCode>
-    <bankLoc>24109</bankLoc>
+    <bankLoc>51596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anand Nagar Dahisar East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.8C, 13-15, Shivam CHS LTD., Chhatrapati Shivaji Road NO.5, Anand Nagar, Dahisar(E), MUMBAI-400068.</address>
     <contact>28969001</contact>
     <micrCode>400089049</micrCode>
     <ifscCode>SVCB0000049</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dombivali</name>
-    <city>Dombivli</city>
+    <city>Thane</city>
     <address>Shop NOS.4A-C, Gajanan Krupa, Sant Namdev Path, OFF. Manpada Road, Dombivali(E) 421201.</address>
     <contact>2426578</contact>
     <micrCode>400089048</micrCode>
     <ifscCode>SVCB0000048</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lalbaug</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.09, 10, 11 Ground Floor, Hilla Tower CHS LTD. DR. S S Road Mumbai 400 012.</address>
     <contact>24700800</contact>
     <micrCode>400089047</micrCode>
     <ifscCode>SVCB0000047</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wadala West</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Vijay Niwas, Plot NO 193 Station Road, Wadala West Mumbai 400031</address>
     <contact>24160412</contact>
     <micrCode>400089046</micrCode>
     <ifscCode>SVCB0000046</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurla East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Gala NO.G-6, Building NO.42, Kranti Chs, Nehru Nagar, Kurla(EAST), Mumbai-400 024</address>
     <contact>25275007</contact>
     <micrCode>400089045</micrCode>
     <ifscCode>SVCB0000045</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khopat, Thane</name>
@@ -4389,169 +4443,169 @@
     <contact>25472587</contact>
     <micrCode>400089044</micrCode>
     <ifscCode>SVCB0000044</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malad (EAST)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Karishma Plaza, Pushpa Park, Road NO.1, Near Asha Hospital, Malad East, Mumbai -400097</address>
     <contact>28441603</contact>
     <micrCode>400089043</micrCode>
     <ifscCode>SVCB0000043</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virar</name>
-    <city>Virar</city>
+    <city>Thane</city>
     <address>Building NO. 10, M Baria Unique, Tirupati Nagar, Phase 2, Unitech Westend Road, Virar (WEST) 401 303</address>
     <contact>2512696</contact>
     <micrCode>400089042</micrCode>
     <ifscCode>SVCB0000042</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51634</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasai West</name>
-    <city>Vasai</city>
+    <city>Thane</city>
     <address>Gurukripa Building, Station Road, Near Vasai Road Post Office, OPP.MANIKPUR Cricket Ground, Vasai West - 401 202</address>
     <contact>2333012</contact>
     <micrCode>400089041</micrCode>
     <ifscCode>SVCB0000041</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51633</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulund (EAST)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shagun Sadhana, GV Scheme, Road NO 2, Near B.M.C.SCHOOL, Mulund(E), Mumbai-400 081</address>
     <contact>25636778</contact>
     <micrCode>400089040</micrCode>
     <ifscCode>SVCB0000040</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhayander West</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Govind Bldg, Salasar Brij Bhoomi, 150ft Road, Next TO Reliance Fresh, Near Flyover, Bhayander West -401 101</address>
     <contact>28193055</contact>
     <micrCode>400089039</micrCode>
     <ifscCode>SVCB0000039</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koparkhairane</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, FAM COOP. Housing Society LTD., Shop NO.5A TO 9A, Plot NO.19 &amp; 19a, Sector -11, Koparkhairane, Navi Mumbai ?Û 400 709</address>
     <contact>27550151</contact>
     <micrCode>400089038</micrCode>
     <ifscCode>SVCB0000038</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhandup</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Wing&quot;a&quot; Ground Floor, Vakratunda Palace, OFF L.B.S.MARG, Tank Road, Mumbai 400078</address>
     <contact>25962444</contact>
     <micrCode>400089037</micrCode>
     <ifscCode>SVCB0000037</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kamothe</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO.15, 16, &amp; 17, Ground Floor, Blue Heaven, Plot NO 8-a, Sector NO 35, Kamothe, Navi Mumbai -410 206</address>
     <contact>64562200</contact>
     <micrCode>400089036</micrCode>
     <ifscCode>SVCB0000036</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saibaba Nagar, Borivili(W)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, Building NO. D, Basanti CHS Ltd, OPP.SAIBABA Temple, Saibaba Nagar, Borivili(W), Mumbai -400 092</address>
     <contact>28620999</contact>
     <micrCode>400089035</micrCode>
     <ifscCode>SVCB0000035</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sanpada East</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Bhumiraj Manor CHS Ltd, Sector 14, Sanpada (EAST), Navi Mumbai 400705</address>
     <contact>27811791</contact>
     <micrCode>400089034</micrCode>
     <ifscCode>SVCB0000034</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangur Nagar - Goregaon W</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shops NO 31-34, 34A &amp; 34 B, Heeramani Ratan Chs, Bangur Nagar, Goregaon(W), Mumbai - 400090</address>
     <contact>28712690</contact>
     <micrCode>400089033</micrCode>
     <ifscCode>SVCB0000033</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dahisar(EAST)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, Shivani Sankul Vidyabhushan Shikshan Sanstha, Shiv Vallabh Cross Road, Ashok Van, Dahisar(E), Mumbai-400 068</address>
     <contact>28965761</contact>
     <micrCode>400089032</micrCode>
     <ifscCode>SVCB0000032</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dadar</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Ground Floor, Laxmi Narayan Nivas (kane Bldg), Ranade Road, Dadar, Mumbai-400028 MAHARASHTRA.</address>
     <contact>24320791</contact>
     <micrCode>400089031</micrCode>
     <ifscCode>SVCB0000031</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kandivili(E)</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Nirmala Memorial Foundation&apos;s College OF Commerce &amp; Science, Asha Nagar, Kandivili(E), Mumbai-400 101.</address>
     <contact>67256531</contact>
     <micrCode>400089030</micrCode>
     <ifscCode>SVCB0000030</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gamdevi</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Saraswat Colony, DR.K.N.MARG, Grant Road, Mumbai-400 007</address>
     <contact>23885013</contact>
     <micrCode>400089027</micrCode>
     <ifscCode>SVCB0000027</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vakola</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>SVC Tower, Jawaharlal Nehru Road, Vakola Market, Santacruz (E), Mumbai  -400 055</address>
     <contact>66999701</contact>
     <micrCode>400089026</micrCode>
     <ifscCode>SVCB0000026</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khar</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Vanvaria Appt, 2ND Road Corner, S V RD, Khar(W), Mumbai-400 052</address>
     <contact>26465991</contact>
     <micrCode>400089025</micrCode>
     <ifscCode>SVCB0000025</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vashi</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Banking Complex-ii, Unit NO.3, Ground Floor, Commercial CO-OP. Premises Society LTD., Plot NO.9&amp;10, Sector ?Û 19a, Vashi, Navi Mumbai ?Û 400 703</address>
     <contact>27847651</contact>
     <micrCode>400089024</micrCode>
     <ifscCode>SVCB0000024</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thane</name>
@@ -4560,7 +4614,7 @@
     <contact>25338715</contact>
     <micrCode>400089023</micrCode>
     <ifscCode>SVCB0000023</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mira Road</name>
@@ -4569,186 +4623,186 @@
     <contact>28122372</contact>
     <micrCode>400089022</micrCode>
     <ifscCode>SVCB0000022</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malad</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>47/a, S M House Lourdes Colony, Orlem, Malad, Mumbai-400 064</address>
     <contact>28069163</contact>
     <micrCode>400089021</micrCode>
     <ifscCode>SVCB0000021</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chembur</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>913, Natasha Plazza, D K Sandhu Marg, Chembur, Mumbai-400 071</address>
     <contact>25235389</contact>
     <micrCode>400089020</micrCode>
     <ifscCode>SVCB0000020</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kandivali</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>6 Manek Nagar, M G RD, Kandivali (W), Mumbai-400 067</address>
     <contact>28634490</contact>
     <micrCode>400089019</micrCode>
     <ifscCode>SVCB0000019</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghatkopar</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Jayant Arcade, Rajawadi Naka, Ghatkopar(E), Mumbai-400 077</address>
     <contact>21027308</contact>
     <micrCode>400089018</micrCode>
     <ifscCode>SVCB0000018</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahakali Caves RD</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Sanskriti Park, OPP. Canossa High School, Andheri(E), Mumbai-400 093</address>
     <contact>28370781</contact>
     <micrCode>400089017</micrCode>
     <ifscCode>SVCB0000017</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulund</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Sabnis Niwas, RHB RD, Mulund(W), Mumbai-400 080</address>
     <contact>25605735</contact>
     <micrCode>400089016</micrCode>
     <ifscCode>SVCB0000016</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalyan</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>SAI Vihar, Chhatrapati Shivaji Path, Shivaji Chawk, Kalyan-421 301</address>
     <contact>2313479</contact>
     <micrCode>400089015</micrCode>
     <ifscCode>SVCB0000015</ifscCode>
-    <bankLoc>24116</bankLoc>
+    <bankLoc>51552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Versova</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>7,sarkar Corner, J P RD, Andheri(W), Mumbai-400 058</address>
     <contact>26770151</contact>
     <micrCode>400089013</micrCode>
     <ifscCode>SVCB0000013</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mandvi</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>82/84, Anand Bldg, Kazi Syed Street, Mandvi, Mumbai-400 003</address>
     <contact>23446206</contact>
     <micrCode>400089012</micrCode>
     <ifscCode>SVCB0000012</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Goregaon</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>12, Udyog Nagar, Time Star Bldg, S V RD, Goregaon, Mumbai-400 062</address>
     <contact>28740578</contact>
     <micrCode>400089011</micrCode>
     <ifscCode>SVCB0000011</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vile Parle</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Geetanjali, Nehru Road, Vileparle(E), Mumbai-400 057</address>
     <contact>26133210</contact>
     <micrCode>400089010</micrCode>
     <ifscCode>SVCB0000010</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sleater Road</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>A/3-4, Ganesh Prasad, Naushir Bharucha Marg, Mumbai-400 007</address>
     <contact>23812092</contact>
     <micrCode>400089009</micrCode>
     <ifscCode>SVCB0000009</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santacruz</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>8/1, Saraswat Colony, Santacruz(W), Mumbai-400 054</address>
     <contact>26600584</contact>
     <micrCode>400089008</micrCode>
     <ifscCode>SVCB0000008</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sakinaka</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shop NO. 11, 12, 30, 31, Ground Floor, Sagar Tech Plaza ?Û A Premises CHS LTD., Village Mohili, Andheri ?Û Kurla Road, Sakinaka, Mumbai - 400072</address>
     <contact>28522508</contact>
     <micrCode>400089007</micrCode>
     <ifscCode>SVCB0000007</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>S V Marg</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>H/2, Anandashram, Shamrao Vithal Marg, Mumbai-400 007</address>
     <contact>23867924</contact>
     <micrCode>400089006</micrCode>
     <ifscCode>SVCB0000006</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Matunga</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>5,kanara House, Mogal Lane, Mahim, Mumbai-400 016</address>
     <contact>24379927</contact>
     <micrCode>400089005</micrCode>
     <ifscCode>SVCB0000005</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Borivali</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>BAL Vatsalaya Bldg, Kasturba Cross RD No-1, Borivali, Mumbai-400 066</address>
     <contact>28058425</contact>
     <micrCode>400089004</micrCode>
     <ifscCode>SVCB0000004</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandra</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>C,chitrapur Chs, 27th RD TPS Iii, Bandra(W), Mumbai 400 050</address>
     <contact>26426280</contact>
     <micrCode>400089003</micrCode>
     <ifscCode>SVCB0000003</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cuffe Parade</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Maker Towers&apos;e&apos;, Cuffeparade, Mumbai-400 005</address>
     <contact>67444545</contact>
     <micrCode>400089002</micrCode>
     <ifscCode>SVCB0000002</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>S V C Tower, Nehru Road, Santacruz Mumbai 400055</address>
     <contact>71991201</contact>
     <micrCode>400089014</micrCode>
     <ifscCode>SVCB0000001</ifscCode>
-    <bankLoc>24095</bankLoc>
+    <bankLoc>51574</bankLoc>
   </bankbranch>
 </bankBranchs>

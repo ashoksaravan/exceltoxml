@@ -1,1749 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Gatadhar</name>
-    <city>Sangrah</city>
-    <address>PO Sangna Tehsil Sangrah Distt Sirmour 173023</address>
-    <contact>2147483647</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000579</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ronhat</name>
-    <city>Shillai</city>
-    <address>Ronhat Tehsil Shillai</address>
-    <contact>270404</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000578</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nainidhar</name>
-    <city>Shillai</city>
-    <address>Nainidhar Tehsil Shillai PIN</address>
-    <contact>206010</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000577</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jamta</name>
-    <city>Nahan</city>
-    <address>Jamta Tehsil Nahan PIN</address>
-    <contact>258666</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000576</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kheri</name>
-    <city>Rajgarh</city>
-    <address>Kheri Tehsil Rajgarh Distt Sirmour</address>
-    <contact>275021</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000575</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Yashwant Nagar</name>
-    <city>Yashwant Nagar</city>
-    <address>Yashwant Nagar PIN 173212</address>
-    <contact>270400</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000573</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>DC Office Nahan</name>
-    <city>Nahan</city>
-    <address>DC Nahan PIN 173026</address>
-    <contact>222267</contact>
-    <micrCode>173311054</micrCode>
-    <ifscCode>HPSC0000572</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lana Cheta</name>
-    <city>Lana Cheta</city>
-    <address>Lana Cheta PIN 173104</address>
-    <contact>247120</contact>
-    <micrCode>173311058</micrCode>
-    <ifscCode>HPSC0000571</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kamrau</name>
-    <city>Kamrau</city>
-    <address>Kamrau PIN 173029</address>
-    <contact>271443</contact>
-    <micrCode>173311104</micrCode>
-    <ifscCode>HPSC0000570</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Trilokpur</name>
-    <city>Kala AMB</city>
-    <address>Trilokpur PIN 173030</address>
-    <contact>238679</contact>
-    <micrCode>173311060</micrCode>
-    <ifscCode>HPSC0000569</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shillai</name>
-    <city>Shillai</city>
-    <address>Shillai PIN 173027</address>
-    <contact>278545</contact>
-    <micrCode>173311105</micrCode>
-    <ifscCode>HPSC0000568</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sataun</name>
-    <city>Sataun</city>
-    <address>Sataun PIN 173029</address>
-    <contact>262506</contact>
-    <micrCode>173311108</micrCode>
-    <ifscCode>HPSC0000567</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sarahan-sirmour</name>
-    <city>Srahan</city>
-    <address>Sarahan SIRMOUR. PIN 173024</address>
-    <contact>236745</contact>
-    <micrCode>173311061</micrCode>
-    <ifscCode>HPSC0000566</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sangrah</name>
-    <city>Sangrah</city>
-    <address>Sangrah PIN 173023</address>
-    <contact>248163</contact>
-    <micrCode>173311056</micrCode>
-    <ifscCode>HPSC0000565</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>S - Puruwala</name>
-    <city>Paonta Sahib</city>
-    <address>S Prurwala PIN 173025</address>
-    <contact>238838</contact>
-    <micrCode>173311106</micrCode>
-    <ifscCode>HPSC0000564</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajgarh</name>
-    <city>Rajgarh</city>
-    <address>Rajgarh PIN 173101</address>
-    <contact>221021</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000563</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Paonta Sahib</name>
-    <city>Paonta Sahib</city>
-    <address>Paonta Sahib PIN 173025</address>
-    <contact>222336</contact>
-    <micrCode>173311102</micrCode>
-    <ifscCode>HPSC0000562</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nohradhar</name>
-    <city>Nohradhar</city>
-    <address>Nohradhar PIN 173104</address>
-    <contact>240680</contact>
-    <micrCode>173311002</micrCode>
-    <ifscCode>HPSC0000561</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Narag</name>
-    <city>Narag</city>
-    <address>Narag PIN 173024</address>
-    <contact>257335</contact>
-    <micrCode>173311055</micrCode>
-    <ifscCode>HPSC0000560</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nahan</name>
-    <city>Nahan</city>
-    <address>Nahan PIN 173001</address>
-    <contact>222687</contact>
-    <micrCode>173311052</micrCode>
-    <ifscCode>HPSC0000559</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Majra</name>
-    <city>Majra</city>
-    <address>Majra PIN 173021</address>
-    <contact>254047</contact>
-    <micrCode>173311109</micrCode>
-    <ifscCode>HPSC0000558</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Katcha Tank</name>
-    <city>Nahan</city>
-    <address>Katcha Tank PIN 173001</address>
-    <contact>223143</contact>
-    <micrCode>173311053</micrCode>
-    <ifscCode>HPSC0000557</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kala AMB</name>
-    <city>Kaka AMB</city>
-    <address>Kala AMB PIN 173020</address>
-    <contact>254114</contact>
-    <micrCode>173311062</micrCode>
-    <ifscCode>HPSC0000556</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Habban</name>
-    <city>Habban</city>
-    <address>Habban PIN 173101</address>
-    <contact>266080</contact>
-    <micrCode>173311003</micrCode>
-    <ifscCode>HPSC0000555</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dadahu</name>
-    <city>Dadahu</city>
-    <address>Dadahu Distt Sirmour PIN 173022</address>
-    <contact>267353</contact>
-    <micrCode>173311059</micrCode>
-    <ifscCode>HPSC0000553</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhaula Kuan</name>
-    <city>Dhaula Kuan</city>
-    <address>Dhaula Kuan PIN 173020</address>
-    <contact>257619</contact>
-    <micrCode>173311107</micrCode>
-    <ifscCode>HPSC0000552</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Badrinagar</name>
-    <city>Paonta Sahib</city>
-    <address>BO Badari Nagar PIN 173026</address>
-    <contact>224788</contact>
-    <micrCode>173311103</micrCode>
-    <ifscCode>HPSC0000551</ifscCode>
-    <bankLoc>10582</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kupvi</name>
-    <city>Kupvi</city>
-    <address>Kupvi Tehsil Kupvi Distt Shimla</address>
-    <contact>270280</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000462</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Summer Hill</name>
-    <city>Shimla</city>
-    <address>Summer Hill Distt Shimla 171005</address>
-    <contact>2832500</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000461</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Fagu</name>
-    <city>Theog</city>
-    <address>Fagu Tehsil Theog Distt Shimla</address>
-    <contact>239207</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000460</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kharapathar</name>
-    <city>Jubbal</city>
-    <address>Khara Pathar Tehsil Jubbal PIN 171205</address>
-    <contact>2147483647</contact>
-    <micrCode>171311049</micrCode>
-    <ifscCode>HPSC0000459</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bachhunch   Chapoti</name>
-    <city>Rohru</city>
-    <address>Bachhunch Chapoti</address>
-    <contact>244231</contact>
-    <micrCode>171311025</micrCode>
-    <ifscCode>HPSC0000458</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Batar Galu</name>
-    <city>Jubbal</city>
-    <address>Batar Galu PO Kathasu Tehsil Jubbal Pin-171206</address>
-    <contact>2147483647</contact>
-    <micrCode>171311011</micrCode>
-    <ifscCode>HPSC0000457</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kharahan</name>
-    <city>Nankhari</city>
-    <address>Kharahan Tehsil Nankhari PIN 171213</address>
-    <contact>2147483647</contact>
-    <micrCode>171311012</micrCode>
-    <ifscCode>HPSC0000456</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kholi Ghat</name>
-    <city>Nankhari</city>
-    <address>Kholighat Nankhari PIN 171213</address>
-    <contact>268755</contact>
-    <micrCode>171311039</micrCode>
-    <ifscCode>HPSC0000455</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mandal</name>
-    <city>Mandal</city>
-    <address>Mandal PIN 171216</address>
-    <contact>239156</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000454</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Deoli</name>
-    <city>Deoli</city>
-    <address>BO Deoli PIN 171203</address>
-    <contact>2147483647</contact>
-    <micrCode>171311023</micrCode>
-    <ifscCode>HPSC0000453</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Koti</name>
-    <city>Shimla</city>
-    <address>Koti Tehsil Junga PIN 171012</address>
-    <contact>2733451</contact>
-    <micrCode>171311043</micrCode>
-    <ifscCode>HPSC0000451</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shilaroo</name>
-    <city>Shilaroo</city>
-    <address>Shilaroo PIN 171213</address>
-    <contact>2147483647</contact>
-    <micrCode>171311024</micrCode>
-    <ifscCode>HPSC0000450</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Deori Khaneti</name>
-    <city>Kotkhai</city>
-    <address>Deori Khaneti Tehsil Kotkhai PIN 171201</address>
-    <contact>246707</contact>
-    <micrCode>171311045</micrCode>
-    <ifscCode>HPSC0000449</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Saraswati Nagar</name>
-    <city>Saraswati Nagar</city>
-    <address>Saraswati Nagar PIN 171206</address>
-    <contact>238995</contact>
-    <micrCode>171311032</micrCode>
-    <ifscCode>HPSC0000448</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ratnari</name>
-    <city>Kotkhai</city>
-    <address>Ratnari Tehsil Kotkhai PIN 171225</address>
-    <contact>275801</contact>
-    <micrCode>171311044</micrCode>
-    <ifscCode>HPSC0000447</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Totu</name>
-    <city>Shimla</city>
-    <address>BO Totu Shimla PIN 171011</address>
-    <contact>2837608</contact>
-    <micrCode>171311010</micrCode>
-    <ifscCode>HPSC0000446</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tikkar</name>
-    <city>Tikker</city>
-    <address>Tikkar PIN 171203</address>
-    <contact>233277</contact>
-    <micrCode>171311040</micrCode>
-    <ifscCode>HPSC0000445</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Theog</name>
-    <city>Theog</city>
-    <address>Theog PIN 171201</address>
-    <contact>238207</contact>
-    <micrCode>171311026</micrCode>
-    <ifscCode>HPSC0000444</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thanedhar</name>
-    <city>Kumarsain</city>
-    <address>Thanedhar Tehsil Kumarsain PIN 172030</address>
-    <contact>222350</contact>
-    <micrCode>171311030</micrCode>
-    <ifscCode>HPSC0000443</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Taklech</name>
-    <city>Rampur</city>
-    <address>BO Taklech Tehsil Rampur PIN 172022</address>
-    <contact>272206</contact>
-    <micrCode>172311006</micrCode>
-    <ifscCode>HPSC0000442</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>THE Mall Shimla</name>
-    <city>Shimla</city>
-    <address>Shimla THE Mall Shimla 171001</address>
-    <contact>0</contact>
-    <micrCode>171311033</micrCode>
-    <ifscCode>HPSC0000441</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>THE Mall Shimla</name>
-    <city>Shimla</city>
-    <address>Shimla THE Mall Shimla 171001</address>
-    <contact>0</contact>
-    <micrCode>171311013</micrCode>
-    <ifscCode>HPSC0000440</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>THE Mall Shimla</name>
-    <city>Shimla</city>
-    <address>Shimla THE Mall Shimla 171001</address>
-    <contact>0</contact>
-    <micrCode>171311022</micrCode>
-    <ifscCode>HPSC0000439</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>THE Mall Shimla</name>
-    <city>Shimla</city>
-    <address>Shimla THE Mall Shimla 171001</address>
-    <contact>0</contact>
-    <micrCode>171311002</micrCode>
-    <ifscCode>HPSC0000438</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sharontha</name>
-    <city>Shrontha</city>
-    <address>Sharontha Tehsil Tikkar PIN 171203</address>
-    <contact>2147483647</contact>
-    <micrCode>171311047</micrCode>
-    <ifscCode>HPSC0000437</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>H P Secretariat</name>
-    <city>Shimla</city>
-    <address>BO Sectt Chhota Shimla 171002</address>
-    <contact>2620991</contact>
-    <micrCode>171311006</micrCode>
-    <ifscCode>HPSC0000435</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sarahan-bsr</name>
-    <city>Rampur</city>
-    <address>Sarahan BSR Tehsil Rampur PIN 172002</address>
-    <contact>274261</contact>
-    <micrCode>172311005</micrCode>
-    <ifscCode>HPSC0000434</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sanjauli</name>
-    <city>Shimla</city>
-    <address>Sanjauli Shimla PIN 171006</address>
-    <contact>2841140</contact>
-    <micrCode>171311008</micrCode>
-    <ifscCode>HPSC0000433</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rohru</name>
-    <city>Rohru</city>
-    <address>Rohru PIN 171207</address>
-    <contact>240050</contact>
-    <micrCode>171311017</micrCode>
-    <ifscCode>HPSC0000432</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rampur Bushahar</name>
-    <city>Rampur</city>
-    <address>Rampur Main Bazar PIN 172001</address>
-    <contact>233034</contact>
-    <micrCode>172311002</micrCode>
-    <ifscCode>HPSC0000431</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Premnagar</name>
-    <city>Kumarsain</city>
-    <address>Prem Nagar Tehsil Kumarsain</address>
-    <contact>244046</contact>
-    <micrCode>171311031</micrCode>
-    <ifscCode>HPSC0000430</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pragati Nagar</name>
-    <city>Kotkhai</city>
-    <address>Pragati Nagar Tehsil Kotkhai PIN 171202</address>
-    <contact>253304</contact>
-    <micrCode>171311042</micrCode>
-    <ifscCode>HPSC0000429</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nogli</name>
-    <city>Rampur</city>
-    <address>Nogli Tehsil Rampur Bushahar PIN 172022</address>
-    <contact>271296</contact>
-    <micrCode>172311004</micrCode>
-    <ifscCode>HPSC0000428</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nerwa</name>
-    <city>Chopal</city>
-    <address>Nerwa Tehsil Chopal PIN 171210</address>
-    <contact>264427</contact>
-    <micrCode>171311046</micrCode>
-    <ifscCode>HPSC0000427</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Narkanda</name>
-    <city>Kumarsain</city>
-    <address>Narkanda, Tehsil Kumarsain Pin-171213</address>
-    <contact>242433</contact>
-    <micrCode>171311018</micrCode>
-    <ifscCode>HPSC0000426</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nankhari</name>
-    <city>Nankhari</city>
-    <address>Nankhari Tehsil Nankhari PIN 172021</address>
-    <contact>225444</contact>
-    <micrCode>172311009</micrCode>
-    <ifscCode>HPSC0000425</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Maraog</name>
-    <city>Chopal</city>
-    <address>Maraog Tehsil Chopal PIN 171211</address>
-    <contact>261304</contact>
-    <micrCode>171311041</micrCode>
-    <ifscCode>HPSC0000424</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kumarsain</name>
-    <city>Kumarsain</city>
-    <address>BO AND Tehsil Kumarsain PIN 172029</address>
-    <contact>240004</contact>
-    <micrCode>171311027</micrCode>
-    <ifscCode>HPSC0000423</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kotkhai</name>
-    <city>Kotkhai</city>
-    <address>Kotkhai Tehsil Kotkhai Distt Shimla PIN 171202</address>
-    <contact>255313</contact>
-    <micrCode>171311029</micrCode>
-    <ifscCode>HPSC0000422</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kiari</name>
-    <city>Kotkhai</city>
-    <address>Kiari Tehsil Kotkhai PIN 171204</address>
-    <contact>258213</contact>
-    <micrCode>171311037</micrCode>
-    <ifscCode>HPSC0000421</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khaneti Sandoch</name>
-    <city>Kumarsain</city>
-    <address>Khaneti Sadoch PO Batari Tehsil Kumarsain PIN 172031</address>
-    <contact>228123</contact>
-    <micrCode>171311021</micrCode>
-    <ifscCode>HPSC0000420</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khaltu Nala</name>
-    <city>Kotkhai</city>
-    <address>Khaltunala Tehsil Kotkhai PIN 171202</address>
-    <contact>244530</contact>
-    <micrCode>171311014</micrCode>
-    <ifscCode>HPSC0000419</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khalini</name>
-    <city>Shimla</city>
-    <address>Khalini Shimla PIN 171002</address>
-    <contact>2623676</contact>
-    <micrCode>171311004</micrCode>
-    <ifscCode>HPSC0000418</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kasumpati</name>
-    <city>Shimla</city>
-    <address>Kasumpati Shimla 9</address>
-    <contact>2624818</contact>
-    <micrCode>171311007</micrCode>
-    <ifscCode>HPSC0000417</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jubbal</name>
-    <city>Jubbal</city>
-    <address>Jubbal Tehsil Jubbal Distt Shimla PIN 171205</address>
-    <contact>252047</contact>
-    <micrCode>171311028</micrCode>
-    <ifscCode>HPSC0000416</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jikhnipul</name>
-    <city>Chopal</city>
-    <address>Jhiknipul Tehsil Chopal PIN 171211</address>
-    <contact>266530</contact>
-    <micrCode>171311038</micrCode>
-    <ifscCode>HPSC0000415</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jhakri</name>
-    <city>Rampur</city>
-    <address>Jhakri, Tehsil Rampur Pin-172201</address>
-    <contact>275581</contact>
-    <micrCode>172311003</micrCode>
-    <ifscCode>HPSC0000414</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jeori</name>
-    <city>Rampur</city>
-    <address>Jeori Tehsil Rampur PIN 172101</address>
-    <contact>278460</contact>
-    <micrCode>172311008</micrCode>
-    <ifscCode>HPSC0000413</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jangla</name>
-    <city>Rohru</city>
-    <address>Jangla Tehsil Rohru PIN 171214</address>
-    <contact>275801</contact>
-    <micrCode>171311035</micrCode>
-    <ifscCode>HPSC0000412</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ghanahatti</name>
-    <city>Shimla</city>
-    <address>Ganahatti PIN 171011</address>
-    <contact>2774678</contact>
-    <micrCode>171311016</micrCode>
-    <ifscCode>HPSC0000411</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dodra</name>
-    <city>Chirgaon</city>
-    <address>Dodra Kwar PIN 171221</address>
-    <contact>262070</contact>
-    <micrCode>172311007</micrCode>
-    <ifscCode>HPSC0000410</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhalli</name>
-    <city>Shimla</city>
-    <address>Dhalli Distt Shimla PIN 171012</address>
-    <contact>2841099</contact>
-    <micrCode>171311009</micrCode>
-    <ifscCode>HPSC0000409</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Deha</name>
-    <city>Deha</city>
-    <address>BO Deha PIN 171201</address>
-    <contact>231711</contact>
-    <micrCode>171311048</micrCode>
-    <ifscCode>HPSC0000408</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dalan</name>
-    <city>Kumarsain</city>
-    <address>Dalan PO Virgarh Tehsil Kumarsain PIN 172030</address>
-    <contact>222909</contact>
-    <micrCode>171311015</micrCode>
-    <ifscCode>HPSC0000407</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chhota Shimla</name>
-    <city>Shimla</city>
-    <address>Chhota Shimla-2</address>
-    <contact>2621886</contact>
-    <micrCode>171311005</micrCode>
-    <ifscCode>HPSC0000406</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chopal</name>
-    <city>Chopal</city>
-    <address>Chopal</address>
-    <contact>260025</contact>
-    <micrCode>171311020</micrCode>
-    <ifscCode>HPSC0000405</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chirgaon</name>
-    <city>Chirgaon</city>
-    <address>Chirgaon PIN</address>
-    <contact>277258</contact>
-    <micrCode>171311019</micrCode>
-    <ifscCode>HPSC0000404</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chamain</name>
-    <city>Kotkhai</city>
-    <address>Chamain Tehsil Kotkhai</address>
-    <contact>240561</contact>
-    <micrCode>171311034</micrCode>
-    <ifscCode>HPSC0000403</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Isbt Shimla</name>
-    <city>Shimla</city>
-    <address>BO Isbt Shimla PIN 171001</address>
-    <contact>2812945</contact>
-    <micrCode>171311003</micrCode>
-    <ifscCode>HPSC0000402</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bharanu</name>
-    <city>Chopal</city>
-    <address>Bharanu Tehsil Chopal</address>
-    <contact>269521</contact>
-    <micrCode>171311036</micrCode>
-    <ifscCode>HPSC0000401</ifscCode>
-    <bankLoc>10581</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Takoli</name>
-    <city>Takoli</city>
-    <address>Takoli PIN 175025</address>
-    <contact>287213</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000352</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajgarh   MND</name>
-    <city>Rajgarh</city>
-    <address>Rajgarh PIN 175027</address>
-    <contact>244006</contact>
-    <micrCode>175311132</micrCode>
-    <ifscCode>HPSC0000351</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Baga Chanogi</name>
-    <city>Thunag</city>
-    <address>Baga Chanogi Tehsil Thunag VIA Bagsaid PIN 175035</address>
-    <contact>217050</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000349</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Paddar</name>
-    <city>Paddar</city>
-    <address>VPO Paddar TEH Paddar Mandi 175012</address>
-    <contact>260670</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000347</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Awah Devi</name>
-    <city>Saraun</city>
-    <address>Saraun (awha Devi) PIN 175024</address>
-    <contact>275157</contact>
-    <micrCode>175311118</micrCode>
-    <ifscCode>HPSC0000345</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chandesh</name>
-    <city>Sarkaghat</city>
-    <address>Chandesh PO Gahar Tehsil Sarkaghat PIN 175049</address>
-    <contact>257681</contact>
-    <micrCode>175311113</micrCode>
-    <ifscCode>HPSC0000343</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhanotu</name>
-    <city>Sundernagar</city>
-    <address>Dhanotu Tehsil Sunder Nagar Pin-174401</address>
-    <contact>265066</contact>
-    <micrCode>174311005</micrCode>
-    <ifscCode>HPSC0000342</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kunnu</name>
-    <city>Padhar</city>
-    <address>Kunnu Tehsil Padhar PIN 176121</address>
-    <contact>260640</contact>
-    <micrCode>175311110</micrCode>
-    <ifscCode>HPSC0000341</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>BS Joginder Nagar</name>
-    <city>Joginder Nagar</city>
-    <address>Joginder Nagar BUS Stand PIN 17</address>
-    <contact>224307</contact>
-    <micrCode>175311116</micrCode>
-    <ifscCode>HPSC0000340</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nabahi Devi</name>
-    <city>Sarkaghat</city>
-    <address>VPO Nabahi Devi TEH Sarkaghat Mandi 175024</address>
-    <contact>230174</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000339</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Smaila</name>
-    <city>Sarkaghat</city>
-    <address>Smaila, Tehsil Saraghat Pin-175034</address>
-    <contact>256310</contact>
-    <micrCode>174311007</micrCode>
-    <ifscCode>HPSC0000338</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sajao Piplu</name>
-    <city>Sarkaghat</city>
-    <address>Sajao Piplu Tehsil Sarkaghat PIN 175025</address>
-    <contact>251766</contact>
-    <micrCode>175311111</micrCode>
-    <ifscCode>HPSC0000336</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chail Chowk</name>
-    <city>Chail Chowk</city>
-    <address>Chail Chowk Tehsil Chachiot PIN 175045</address>
-    <contact>251048</contact>
-    <micrCode>175311117</micrCode>
-    <ifscCode>HPSC0000335</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Longani</name>
-    <city>Longni</city>
-    <address>Longni Tehsil Sarkaghat DISTT. Mandi Pin-175025</address>
-    <contact>279055</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000334</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Marhi</name>
-    <city>Sarkaghat</city>
-    <address>Marhi Tehsil Sarkaghat PIN 175050</address>
-    <contact>270100</contact>
-    <micrCode>175311127</micrCode>
-    <ifscCode>HPSC0000333</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tihra</name>
-    <city>Sarkaghat</city>
-    <address>Tihra Tehsil Sarkaghat PIN 175026</address>
-    <contact>278401</contact>
-    <micrCode>174311008</micrCode>
-    <ifscCode>HPSC0000332</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhadarwar</name>
-    <city>Sarkaghat</city>
-    <address>Baldwara Tehsil Sarkaghat PIN 175033</address>
-    <contact>271311</contact>
-    <micrCode>175311105</micrCode>
-    <ifscCode>HPSC0000331</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>BSL Sundernagar</name>
-    <city>Sundernagar</city>
-    <address>BSL Colony SNR Purana Bazar Tehsil Sunder Nagar</address>
-    <contact>264154</contact>
-    <micrCode>174311004</micrCode>
-    <ifscCode>HPSC0000330</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chatrokhari</name>
-    <city>Sundernagar</city>
-    <address>Chatrokhri, Tehsil Sunder Nagar Pin-174402</address>
-    <contact>266309</contact>
-    <micrCode>174311003</micrCode>
-    <ifscCode>HPSC0000329</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Saulikhad</name>
-    <city>Mandi</city>
-    <address>Saulikahd PIN 175001</address>
-    <contact>237659</contact>
-    <micrCode>175311103</micrCode>
-    <ifscCode>HPSC0000328</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhambla</name>
-    <city>Sarkaghat</city>
-    <address>Bhambla Tehsil Sarkaghat PIN 175004</address>
-    <contact>256454</contact>
-    <micrCode>175311126</micrCode>
-    <ifscCode>HPSC0000327</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thunag</name>
-    <city>Thunag</city>
-    <address>Thunag PO &amp; Tehsil Thunag PIN 175048</address>
-    <contact>257514</contact>
-    <micrCode>175311115</micrCode>
-    <ifscCode>HPSC0000326</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sunder Nagar</name>
-    <city>Sundernagar</city>
-    <address>Sunder Nagar PIN 175019</address>
-    <contact>262337</contact>
-    <micrCode>174311002</micrCode>
-    <ifscCode>HPSC0000325</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Seri Banglow</name>
-    <city>Karsog</city>
-    <address>Seri Bunlow Tehsil Karsog Mandi Pin-175011</address>
-    <contact>226505</contact>
-    <micrCode>174311012</micrCode>
-    <ifscCode>HPSC0000324</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sarkaghat</name>
-    <city>Sarkaghat</city>
-    <address>Sarkaghat</address>
-    <contact>230057</contact>
-    <micrCode>175311122</micrCode>
-    <ifscCode>HPSC0000323</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sandhole</name>
-    <city>Sandhole</city>
-    <address>Sandhole PIN 176090</address>
-    <contact>273228</contact>
-    <micrCode>175311112</micrCode>
-    <ifscCode>HPSC0000322</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rewalsar</name>
-    <city>Rewalsar</city>
-    <address>Rewalsar PIN 175023</address>
-    <contact>240211</contact>
-    <micrCode>175311106</micrCode>
-    <ifscCode>HPSC0000321</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pandoh</name>
-    <city>Pandoh</city>
-    <address>Pandoh PIN 175124</address>
-    <contact>282207</contact>
-    <micrCode>175311123</micrCode>
-    <ifscCode>HPSC0000320</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>NER Chowk</name>
-    <city>NER Chowk</city>
-    <address>Nerchowk Tehsil Sadar PIN 175008</address>
-    <contact>242358</contact>
-    <micrCode>175311119</micrCode>
-    <ifscCode>HPSC0000319</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nagwain</name>
-    <city>Nagwain</city>
-    <address>Nagwain PIN 175121</address>
-    <contact>287113</contact>
-    <micrCode>175311124</micrCode>
-    <ifscCode>HPSC0000318</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mandi</name>
-    <city>Mandi</city>
-    <address>Chota Bazar Mandi PIN 175001</address>
-    <contact>223035</contact>
-    <micrCode>175311102</micrCode>
-    <ifscCode>HPSC0000317</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Makariri</name>
-    <city>Makriri</city>
-    <address>Makriri Mandi</address>
-    <contact>256104</contact>
-    <micrCode>175311130</micrCode>
-    <ifscCode>HPSC0000316</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ladbadhol</name>
-    <city>Ladbharol</city>
-    <address>LAD Bhrol PIN 176126</address>
-    <contact>278143</contact>
-    <micrCode>175311104</micrCode>
-    <ifscCode>HPSC0000315</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kotli</name>
-    <city>Kotli</city>
-    <address>Kotli PIN 175003</address>
-    <contact>281219</contact>
-    <micrCode>175311109</micrCode>
-    <ifscCode>HPSC0000314</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Karsog</name>
-    <city>Karsog</city>
-    <address>Karsog Mandi PIN 175011</address>
-    <contact>222248</contact>
-    <micrCode>174311010</micrCode>
-    <ifscCode>HPSC0000313</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Joginder Nagar</name>
-    <city>Joginder Nagar</city>
-    <address>Joginder Nagar PIN 175015</address>
-    <contact>222029</contact>
-    <micrCode>175311107</micrCode>
-    <ifscCode>HPSC0000312</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Janjehli</name>
-    <city>Janjehli</city>
-    <address>Janjehli Mandi Pin- 175047</address>
-    <contact>256748</contact>
-    <micrCode>174311013</micrCode>
-    <ifscCode>HPSC0000311</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gohar</name>
-    <city>Gohar</city>
-    <address>Gohar Tehsil Chachyot PIN 175029</address>
-    <contact>250270</contact>
-    <micrCode>175311121</micrCode>
-    <ifscCode>HPSC0000310</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dharmarpur</name>
-    <city>Dharmpur</city>
-    <address>Dharampur Tehsil Sarkaghat PIN 175040</address>
-    <contact>272005</contact>
-    <micrCode>175311125</micrCode>
-    <ifscCode>HPSC0000309</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dehar</name>
-    <city>Dehar</city>
-    <address>Dehar Tehsil Sunder Nagar PIN 175030</address>
-    <contact>283004</contact>
-    <micrCode>174311009</micrCode>
-    <ifscCode>HPSC0000308</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Churag</name>
-    <city>Karsog</city>
-    <address>Churag Tehsil Karsog PIN</address>
-    <contact>224036</contact>
-    <micrCode>175311114</micrCode>
-    <ifscCode>HPSC0000307</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chhatri</name>
-    <city>Chhatri</city>
-    <address>Chhatri Mandi PIN 175047</address>
-    <contact>243201</contact>
-    <micrCode>174311011</micrCode>
-    <ifscCode>HPSC0000306</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chauntra</name>
-    <city>Chauntra</city>
-    <address>Chauntra PIN 175032</address>
-    <contact>252227</contact>
-    <micrCode>175311108</micrCode>
-    <ifscCode>HPSC0000305</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Barot</name>
-    <city>Barot</city>
-    <address>Barot Mandi</address>
-    <contact>267241</contact>
-    <micrCode>175311129</micrCode>
-    <ifscCode>HPSC0000304</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bali Chowki</name>
-    <city>Bali Chowki</city>
-    <address>Balichowki Tehsil Balichowki PIN 175106</address>
-    <contact>229145</contact>
-    <micrCode>175311120</micrCode>
-    <ifscCode>HPSC0000303</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Baldwara</name>
-    <city>Sarkaghat</city>
-    <address>Baldwara Tehsil Sarkaghat PIN 175033</address>
-    <contact>258052</contact>
-    <micrCode>175311128</micrCode>
-    <ifscCode>HPSC0000302</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bagsiad</name>
-    <city>Thunag</city>
-    <address>Bagsaid, Tehsil Thunag Pin-175035</address>
-    <contact>254245</contact>
-    <micrCode>174311006</micrCode>
-    <ifscCode>HPSC0000301</ifscCode>
-    <bankLoc>10580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Spillow</name>
-    <city>Spillow</city>
-    <address>Spillow Distt Kinnaur</address>
-    <contact>2147483647</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000266</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Giabong</name>
-    <city>Giabong</city>
-    <address>Giabong PIN 172110</address>
-    <contact>2147483647</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000264</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Akpa</name>
-    <city>Moorang</city>
-    <address>Akpa, Tehsil Moorang Pin-172116</address>
-    <contact>225564</contact>
-    <micrCode>172311055</micrCode>
-    <ifscCode>HPSC0000262</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tapri</name>
-    <city>Tapri</city>
-    <address>Tapri Kinnaur</address>
-    <contact>261207</contact>
-    <micrCode>172311010</micrCode>
-    <ifscCode>HPSC0000261</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sangla</name>
-    <city>Sangla</city>
-    <address>Sangla PIN 172106</address>
-    <contact>242202</contact>
-    <micrCode>172311058</micrCode>
-    <ifscCode>HPSC0000260</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Powari</name>
-    <city>Kalpa</city>
-    <address>Powari Shanthong Tehsil Kalpa PIN 172107</address>
-    <contact>223523</contact>
-    <micrCode>172311054</micrCode>
-    <ifscCode>HPSC0000259</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pooh</name>
-    <city>Pooh</city>
-    <address>Pooh PIN 172111</address>
-    <contact>232297</contact>
-    <micrCode>172311060</micrCode>
-    <ifscCode>HPSC0000258</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rekong PEO</name>
-    <city>Rekong PEO</city>
-    <address>Reckong PEO Tehsil Kalpa PIN 172107</address>
-    <contact>222485</contact>
-    <micrCode>172311052</micrCode>
-    <ifscCode>HPSC0000257</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pangi</name>
-    <city>Pangi</city>
-    <address>Pangi PIN 172107</address>
-    <contact>228811</contact>
-    <micrCode>172311053</micrCode>
-    <ifscCode>HPSC0000256</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nichar</name>
-    <city>Nichar</city>
-    <address>Nichar Kinnaur</address>
-    <contact>204549</contact>
-    <micrCode>172311011</micrCode>
-    <ifscCode>HPSC0000255</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Moorang</name>
-    <city>Moorang</city>
-    <address>Mooreng PIN 172109</address>
-    <contact>252739</contact>
-    <micrCode>172311061</micrCode>
-    <ifscCode>HPSC0000254</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Katgaon</name>
-    <city>Katgaon</city>
-    <address>Katgaon PIN 172118</address>
-    <contact>262295</contact>
-    <micrCode>172311059</micrCode>
-    <ifscCode>HPSC0000253</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kalpa</name>
-    <city>Kalpa</city>
-    <address>Kalpa Pin-172108</address>
-    <contact>226004</contact>
-    <micrCode>172311056</micrCode>
-    <ifscCode>HPSC0000252</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhaba Nagar</name>
-    <city>Bhaba Nagar</city>
-    <address>Bhaba Nagar Tehsil Nichar PIN 172115</address>
-    <contact>253330</contact>
-    <micrCode>172311057</micrCode>
-    <ifscCode>HPSC0000251</ifscCode>
-    <bankLoc>10579</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajnagar</name>
-    <city>Rajnagar</city>
-    <address>Rajnagar Distt Chamba</address>
-    <contact>2147483647</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000198</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bathari</name>
-    <city>Bathari</city>
-    <address>Bathari Distt Chamba</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>HPSC0000195</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tundi</name>
-    <city>Sihunta</city>
-    <address>Tundi Tehsil Sihunta PIN 176207</address>
-    <contact>200524</contact>
-    <micrCode>176311003</micrCode>
-    <ifscCode>HPSC0000193</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tissa</name>
-    <city>Tissa</city>
-    <address>Tissa Tehsil Churah PIN 176316</address>
-    <contact>227041</contact>
-    <micrCode>176311016</micrCode>
-    <ifscCode>HPSC0000192</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Surgani</name>
-    <city>Surgani</city>
-    <address>Surangani Tehsil Salooni PIN 176317</address>
-    <contact>232007</contact>
-    <micrCode>176311009</micrCode>
-    <ifscCode>HPSC0000191</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sihunta</name>
-    <city>Sihunta</city>
-    <address>Sihuntha PIN</address>
-    <contact>265424</contact>
-    <micrCode>176311006</micrCode>
-    <ifscCode>HPSC0000190</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Salooni</name>
-    <city>Salooni</city>
-    <address>Salooni PIN 176320</address>
-    <contact>233237</contact>
-    <micrCode>176311011</micrCode>
-    <ifscCode>HPSC0000189</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Naini Khad</name>
-    <city>Naini Khad</city>
-    <address>Naini Khad PIN</address>
-    <contact>257645</contact>
-    <micrCode>176311014</micrCode>
-    <ifscCode>HPSC0000188</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kakira</name>
-    <city>Kakira</city>
-    <address>Kakira Tehsil Bhattiyat PIN 176313</address>
-    <contact>257245</contact>
-    <micrCode>176311013</micrCode>
-    <ifscCode>HPSC0000187</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Holi</name>
-    <city>Holi</city>
-    <address>Holi PIN 176309</address>
-    <contact>232315</contact>
-    <micrCode>176311004</micrCode>
-    <ifscCode>HPSC0000186</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hatli</name>
-    <city>Sihunta</city>
-    <address>Hatli PO Darman Tehsil Sihuntha PIN 176223</address>
-    <contact>238076</contact>
-    <micrCode>176311052</micrCode>
-    <ifscCode>HPSC0000185</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Garola</name>
-    <city>Garola</city>
-    <address>Garola Tehsil Bharmaur PIN 176309</address>
-    <contact>224007</contact>
-    <micrCode>176377012</micrCode>
-    <ifscCode>HPSC0000184</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhulara</name>
-    <city>Dhulara</city>
-    <address>Dhulara PIN 176027</address>
-    <contact>200495</contact>
-    <micrCode>176311010</micrCode>
-    <ifscCode>HPSC0000183</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dalhousie</name>
-    <city>Dalhousie</city>
-    <address>Dalhousie PIN 176304</address>
-    <contact>240241</contact>
-    <micrCode>176311005</micrCode>
-    <ifscCode>HPSC0000182</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chowari</name>
-    <city>Chowari</city>
-    <address>Chowari Tehsil Bhattiyat PIN 176302</address>
-    <contact>266332</contact>
-    <micrCode>176311007</micrCode>
-    <ifscCode>HPSC0000180</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chamba</name>
-    <city>Chamba</city>
-    <address>Chamba PIN 176310</address>
-    <contact>222249</contact>
-    <micrCode>176311002</micrCode>
-    <ifscCode>HPSC0000179</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bharmour</name>
-    <city>Bharmour</city>
-    <address>Bharmaur Chamba Pin-176015</address>
-    <contact>225054</contact>
-    <micrCode>176311017</micrCode>
-    <ifscCode>HPSC0000178</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhanjraru</name>
-    <city>Bhanjraru</city>
-    <address>Bhanjraru Tehsil Chamba PIN 176316</address>
-    <contact>227071</contact>
-    <micrCode>176311015</micrCode>
-    <ifscCode>HPSC0000177</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Banikhet</name>
-    <city>Banikhet</city>
-    <address>Banikhet PIN 176303</address>
-    <contact>254051</contact>
-    <micrCode>176311008</micrCode>
-    <ifscCode>HPSC0000176</ifscCode>
-    <bankLoc>10577</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Golthai</name>
-    <city>SRI Naina Devi JI</city>
-    <address>Golthai Tehsil SRI Naina Devi JI</address>
-    <contact>239522</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000130</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hatwar</name>
-    <city>Hatwar</city>
-    <address>Hatwar Tehsil Ghumarwin</address>
-    <contact>252243</contact>
-    <micrCode>WAITING</micrCode>
-    <ifscCode>HPSC0000129</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Malokhar</name>
-    <city>Namhol</city>
-    <address>Malokhar PO Chhakhoh Tehsil Namhol PIN 174001</address>
-    <contact>249183</contact>
-    <micrCode>174311067</micrCode>
-    <ifscCode>HPSC0000128</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>BUM</name>
-    <city>BUM</city>
-    <address>Bum, PO- Pantehra, Tehsil Ghumarwin Pin-174028</address>
-    <contact>250067</contact>
-    <micrCode>174311061</micrCode>
-    <ifscCode>HPSC0000127</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jejhwin</name>
-    <city>Jejwin</city>
-    <address>Jejwin Tehsil Jhandutta PIN 174017</address>
-    <contact>268041</contact>
-    <micrCode>174311070</micrCode>
-    <ifscCode>HPSC0000126</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jukhala</name>
-    <city>Jukhala</city>
-    <address>Jukhala Pin-174033</address>
-    <contact>286253</contact>
-    <micrCode>174311064</micrCode>
-    <ifscCode>HPSC0000125</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Trifalghat</name>
-    <city>Trifalghat</city>
-    <address>Trifal Ghat, Po-hawan Pin-174003</address>
-    <contact>256195</contact>
-    <micrCode>174311057</micrCode>
-    <ifscCode>HPSC0000124</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Guga Mohra</name>
-    <city>Guga Mohra</city>
-    <address>Guga Mohra, PO- Kapahora Tehsil Ghumarwin Pin-174029</address>
-    <contact>260474</contact>
-    <micrCode>174311055</micrCode>
-    <ifscCode>HPSC0000123</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Harnora</name>
-    <city>Harnora</city>
-    <address>Harnora Tehsil Sadar PIN</address>
-    <contact>283141</contact>
-    <micrCode>174311072</micrCode>
-    <ifscCode>HPSC0000120</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kandraur</name>
-    <city>Kandraur</city>
-    <address>Kandraur, Tehsil Sadar Pin-174004</address>
-    <contact>242080</contact>
-    <micrCode>174311059</micrCode>
-    <ifscCode>HPSC0000119</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Swarghat</name>
-    <city>Swarghat</city>
-    <address>Swarghat Tehsil SRI Naina Devi JI Pin-174011</address>
-    <contact>284148</contact>
-    <micrCode>174311056</micrCode>
-    <ifscCode>HPSC0000118</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shah Talai</name>
-    <city>Jhanduta</city>
-    <address>Shahtalai Tehsil Jhanduta Distt Bilaspur</address>
-    <contact>264077</contact>
-    <micrCode>174311077</micrCode>
-    <ifscCode>HPSC0000117</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Namhol</name>
-    <city>Namhol</city>
-    <address>Namhol, Pin-</address>
-    <contact>240056</contact>
-    <micrCode>174311066</micrCode>
-    <ifscCode>HPSC0000116</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Naina Devi</name>
-    <city>Naina Devi</city>
-    <address>SRI Naina Devi JI Pin-174310</address>
-    <contact>288097</contact>
-    <micrCode>174311075</micrCode>
-    <ifscCode>HPSC0000115</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Lakhanpur</name>
-    <city>Bilaspur</city>
-    <address>Lakhanpur Pin-174001</address>
-    <contact>222697</contact>
-    <micrCode>174311062</micrCode>
-    <ifscCode>HPSC0000114</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kuthera</name>
-    <city>Kuthera</city>
-    <address>Kuthera Tehsil Ghumarwin</address>
-    <contact>275080</contact>
-    <micrCode>174311065</micrCode>
-    <ifscCode>HPSC0000113</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kallari</name>
-    <city>Kallari</city>
-    <address>Kallari, PO- Naswal, Tehsil Ghumarwin Pin-174021</address>
-    <contact>254043</contact>
-    <micrCode>174311060</micrCode>
-    <ifscCode>HPSC0000112</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jhandutta</name>
-    <city>Jhanduta</city>
-    <address>Jhandutta PIN 174031</address>
-    <contact>272043</contact>
-    <micrCode>174311074</micrCode>
-    <ifscCode>HPSC0000111</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ghumarwin</name>
-    <city>Ghumarwin</city>
-    <address>Ghumarwin PIN 174021</address>
-    <contact>255243</contact>
-    <micrCode>174311069</micrCode>
-    <ifscCode>HPSC0000110</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gehrwin</name>
-    <city>Gehrwin</city>
-    <address>Gehrwin PIN 174034</address>
-    <contact>270203</contact>
-    <micrCode>174311073</micrCode>
-    <ifscCode>HPSC0000109</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dangar</name>
-    <city>Dangar</city>
-    <address>Dangar Tehsil Ghumarwin Pin-174023</address>
-    <contact>278181</contact>
-    <micrCode>174311054</micrCode>
-    <ifscCode>HPSC0000108</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dadhol</name>
-    <city>Dadhol</city>
-    <address>Dadhol Tehsil Ghumarwin PIN 174023</address>
-    <contact>278031</contact>
-    <micrCode>174311063</micrCode>
-    <ifscCode>HPSC0000107</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bilaspur</name>
-    <city>Bilaspur</city>
-    <address>Bilaspur Main Market Pin-174001</address>
-    <contact>222542</contact>
-    <micrCode>174311052</micrCode>
-    <ifscCode>HPSC0000106</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bharari</name>
-    <city>Bharari</city>
-    <address>Bharari, PO- Lehri Sarel Tehsil Ghumarwin Pin-174027</address>
-    <contact>273039</contact>
-    <micrCode>174311058</micrCode>
-    <ifscCode>HPSC0000105</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Berthin</name>
-    <city>Berthin</city>
-    <address>Berthin Tehsil Jhandutta PIN 174029</address>
-    <contact>266041</contact>
-    <micrCode>174311068</micrCode>
-    <ifscCode>HPSC0000104</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Beri</name>
-    <city>Beri</city>
-    <address>Beri PIN 174001</address>
-    <contact>244522</contact>
-    <micrCode>174311071</micrCode>
-    <ifscCode>HPSC0000103</ifscCode>
-    <bankLoc>10576</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bassi</name>
-    <city>Bassi</city>
-    <address>Bassi Kehloor Tehsil SRI Naina Devi JI PIN 174002</address>
-    <contact>214552</contact>
-    <micrCode>174311076</micrCode>
-    <ifscCode>HPSC0000102</ifscCode>
-    <bankLoc>10576</bankLoc>
+    <name>NEW Subzi Mandi Delhi</name>
+    <city>Delhi</city>
+    <address>NEW Subzi Mandi Azadpur Delhi</address>
+    <contact>27681808</contact>
+    <micrCode>110013251</micrCode>
+    <ifscCode>HPSC0000051</ifscCode>
+    <bankLoc>22590</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barmana</name>
@@ -1752,15 +15,1761 @@
     <contact>245036</contact>
     <micrCode>174311053</micrCode>
     <ifscCode>HPSC0000101</ifscCode>
-    <bankLoc>10576</bankLoc>
+    <bankLoc>22588</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>NEW Subzi Mandi Delhi</name>
-    <city>Delhi</city>
-    <address>NEW Subzi Mandi Azadpur Delhi</address>
-    <contact>27681808</contact>
-    <micrCode>110013251</micrCode>
-    <ifscCode>HPSC0000051</ifscCode>
-    <bankLoc>10578</bankLoc>
+    <name>Bassi</name>
+    <city>Bassi</city>
+    <address>Bassi Kehloor Tehsil SRI Naina Devi JI PIN 174002</address>
+    <contact>214552</contact>
+    <micrCode>174311076</micrCode>
+    <ifscCode>HPSC0000102</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Beri</name>
+    <city>Beri</city>
+    <address>Beri PIN 174001</address>
+    <contact>244522</contact>
+    <micrCode>174311071</micrCode>
+    <ifscCode>HPSC0000103</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Berthin</name>
+    <city>Berthin</city>
+    <address>Berthin Tehsil Jhandutta PIN 174029</address>
+    <contact>266041</contact>
+    <micrCode>174311068</micrCode>
+    <ifscCode>HPSC0000104</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bharari</name>
+    <city>Bharari</city>
+    <address>Bharari, PO- Lehri Sarel Tehsil Ghumarwin Pin-174027</address>
+    <contact>273039</contact>
+    <micrCode>174311058</micrCode>
+    <ifscCode>HPSC0000105</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bilaspur</name>
+    <city>Bilaspur</city>
+    <address>Bilaspur Main Market Pin-174001</address>
+    <contact>222542</contact>
+    <micrCode>174311052</micrCode>
+    <ifscCode>HPSC0000106</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dadhol</name>
+    <city>Dadhol</city>
+    <address>Dadhol Tehsil Ghumarwin PIN 174023</address>
+    <contact>278031</contact>
+    <micrCode>174311063</micrCode>
+    <ifscCode>HPSC0000107</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dangar</name>
+    <city>Dangar</city>
+    <address>Dangar Tehsil Ghumarwin Pin-174023</address>
+    <contact>278181</contact>
+    <micrCode>174311054</micrCode>
+    <ifscCode>HPSC0000108</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gehrwin</name>
+    <city>Gehrwin</city>
+    <address>Gehrwin PIN 174034</address>
+    <contact>270203</contact>
+    <micrCode>174311073</micrCode>
+    <ifscCode>HPSC0000109</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghumarwin</name>
+    <city>Ghumarwin</city>
+    <address>Ghumarwin PIN 174021</address>
+    <contact>255243</contact>
+    <micrCode>174311069</micrCode>
+    <ifscCode>HPSC0000110</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jhandutta</name>
+    <city>Jhanduta</city>
+    <address>Jhandutta PIN 174031</address>
+    <contact>272043</contact>
+    <micrCode>174311074</micrCode>
+    <ifscCode>HPSC0000111</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kallari</name>
+    <city>Kallari</city>
+    <address>Kallari, PO- Naswal, Tehsil Ghumarwin Pin-174021</address>
+    <contact>254043</contact>
+    <micrCode>174311060</micrCode>
+    <ifscCode>HPSC0000112</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kuthera</name>
+    <city>Kuthera</city>
+    <address>Kuthera Tehsil Ghumarwin</address>
+    <contact>275080</contact>
+    <micrCode>174311065</micrCode>
+    <ifscCode>HPSC0000113</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lakhanpur</name>
+    <city>Bilaspur</city>
+    <address>Lakhanpur Pin-174001</address>
+    <contact>222697</contact>
+    <micrCode>174311062</micrCode>
+    <ifscCode>HPSC0000114</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Naina Devi</name>
+    <city>Naina Devi</city>
+    <address>SRI Naina Devi JI Pin-174310</address>
+    <contact>288097</contact>
+    <micrCode>174311075</micrCode>
+    <ifscCode>HPSC0000115</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Namhol</name>
+    <city>Namhol</city>
+    <address>Namhol, Pin-</address>
+    <contact>240056</contact>
+    <micrCode>174311066</micrCode>
+    <ifscCode>HPSC0000116</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shah Talai</name>
+    <city>Jhanduta</city>
+    <address>Shahtalai Tehsil Jhanduta Distt Bilaspur</address>
+    <contact>264077</contact>
+    <micrCode>174311077</micrCode>
+    <ifscCode>HPSC0000117</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Swarghat</name>
+    <city>Swarghat</city>
+    <address>Swarghat Tehsil SRI Naina Devi JI Pin-174011</address>
+    <contact>284148</contact>
+    <micrCode>174311056</micrCode>
+    <ifscCode>HPSC0000118</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kandraur</name>
+    <city>Kandraur</city>
+    <address>Kandraur, Tehsil Sadar Pin-174004</address>
+    <contact>242080</contact>
+    <micrCode>174311059</micrCode>
+    <ifscCode>HPSC0000119</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Harnora</name>
+    <city>Harnora</city>
+    <address>Harnora Tehsil Sadar PIN</address>
+    <contact>283141</contact>
+    <micrCode>174311072</micrCode>
+    <ifscCode>HPSC0000120</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guga Mohra</name>
+    <city>Guga Mohra</city>
+    <address>Guga Mohra, PO- Kapahora Tehsil Ghumarwin Pin-174029</address>
+    <contact>260474</contact>
+    <micrCode>174311055</micrCode>
+    <ifscCode>HPSC0000123</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trifalghat</name>
+    <city>Trifalghat</city>
+    <address>Trifal Ghat, Po-hawan Pin-174003</address>
+    <contact>256195</contact>
+    <micrCode>174311057</micrCode>
+    <ifscCode>HPSC0000124</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jukhala</name>
+    <city>Jukhala</city>
+    <address>Jukhala Pin-174033</address>
+    <contact>286253</contact>
+    <micrCode>174311064</micrCode>
+    <ifscCode>HPSC0000125</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jejhwin</name>
+    <city>Jejwin</city>
+    <address>Jejwin Tehsil Jhandutta PIN 174017</address>
+    <contact>268041</contact>
+    <micrCode>174311070</micrCode>
+    <ifscCode>HPSC0000126</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>BUM</name>
+    <city>BUM</city>
+    <address>Bum, PO- Pantehra, Tehsil Ghumarwin Pin-174028</address>
+    <contact>250067</contact>
+    <micrCode>174311061</micrCode>
+    <ifscCode>HPSC0000127</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malokhar</name>
+    <city>Namhol</city>
+    <address>Malokhar PO Chhakhoh Tehsil Namhol PIN 174001</address>
+    <contact>249183</contact>
+    <micrCode>174311067</micrCode>
+    <ifscCode>HPSC0000128</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hatwar</name>
+    <city>Hatwar</city>
+    <address>Hatwar Tehsil Ghumarwin</address>
+    <contact>252243</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000129</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Golthai</name>
+    <city>SRI Naina Devi JI</city>
+    <address>Golthai Tehsil SRI Naina Devi JI</address>
+    <contact>239522</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000130</ifscCode>
+    <bankLoc>22588</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Banikhet</name>
+    <city>Banikhet</city>
+    <address>Banikhet PIN 176303</address>
+    <contact>254051</contact>
+    <micrCode>176311008</micrCode>
+    <ifscCode>HPSC0000176</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhanjraru</name>
+    <city>Bhanjraru</city>
+    <address>Bhanjraru Tehsil Chamba PIN 176316</address>
+    <contact>227071</contact>
+    <micrCode>176311015</micrCode>
+    <ifscCode>HPSC0000177</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bharmour</name>
+    <city>Bharmour</city>
+    <address>Bharmaur Chamba Pin-176015</address>
+    <contact>225054</contact>
+    <micrCode>176311017</micrCode>
+    <ifscCode>HPSC0000178</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chamba</name>
+    <city>Chamba</city>
+    <address>Chamba PIN 176310</address>
+    <contact>222249</contact>
+    <micrCode>176311002</micrCode>
+    <ifscCode>HPSC0000179</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chowari</name>
+    <city>Chowari</city>
+    <address>Chowari Tehsil Bhattiyat PIN 176302</address>
+    <contact>266332</contact>
+    <micrCode>176311007</micrCode>
+    <ifscCode>HPSC0000180</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dalhousie</name>
+    <city>Dalhousie</city>
+    <address>Dalhousie PIN 176304</address>
+    <contact>240241</contact>
+    <micrCode>176311005</micrCode>
+    <ifscCode>HPSC0000182</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhulara</name>
+    <city>Dhulara</city>
+    <address>Dhulara PIN 176027</address>
+    <contact>200495</contact>
+    <micrCode>176311010</micrCode>
+    <ifscCode>HPSC0000183</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Garola</name>
+    <city>Garola</city>
+    <address>Garola Tehsil Bharmaur PIN 176309</address>
+    <contact>224007</contact>
+    <micrCode>176377012</micrCode>
+    <ifscCode>HPSC0000184</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hatli</name>
+    <city>Sihunta</city>
+    <address>Hatli PO Darman Tehsil Sihuntha PIN 176223</address>
+    <contact>238076</contact>
+    <micrCode>176311052</micrCode>
+    <ifscCode>HPSC0000185</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Holi</name>
+    <city>Holi</city>
+    <address>Holi PIN 176309</address>
+    <contact>232315</contact>
+    <micrCode>176311004</micrCode>
+    <ifscCode>HPSC0000186</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kakira</name>
+    <city>Kakira</city>
+    <address>Kakira Tehsil Bhattiyat PIN 176313</address>
+    <contact>257245</contact>
+    <micrCode>176311013</micrCode>
+    <ifscCode>HPSC0000187</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Naini Khad</name>
+    <city>Naini Khad</city>
+    <address>Naini Khad PIN</address>
+    <contact>257645</contact>
+    <micrCode>176311014</micrCode>
+    <ifscCode>HPSC0000188</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Salooni</name>
+    <city>Salooni</city>
+    <address>Salooni PIN 176320</address>
+    <contact>233237</contact>
+    <micrCode>176311011</micrCode>
+    <ifscCode>HPSC0000189</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sihunta</name>
+    <city>Sihunta</city>
+    <address>Sihuntha PIN</address>
+    <contact>265424</contact>
+    <micrCode>176311006</micrCode>
+    <ifscCode>HPSC0000190</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Surgani</name>
+    <city>Surgani</city>
+    <address>Surangani Tehsil Salooni PIN 176317</address>
+    <contact>232007</contact>
+    <micrCode>176311009</micrCode>
+    <ifscCode>HPSC0000191</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tissa</name>
+    <city>Tissa</city>
+    <address>Tissa Tehsil Churah PIN 176316</address>
+    <contact>227041</contact>
+    <micrCode>176311016</micrCode>
+    <ifscCode>HPSC0000192</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tundi</name>
+    <city>Sihunta</city>
+    <address>Tundi Tehsil Sihunta PIN 176207</address>
+    <contact>200524</contact>
+    <micrCode>176311003</micrCode>
+    <ifscCode>HPSC0000193</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bathari</name>
+    <city>Bathari</city>
+    <address>Bathari Distt Chamba</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HPSC0000195</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajnagar</name>
+    <city>Rajnagar</city>
+    <address>Rajnagar Distt Chamba</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000198</ifscCode>
+    <bankLoc>22589</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhaba Nagar</name>
+    <city>Bhaba Nagar</city>
+    <address>Bhaba Nagar Tehsil Nichar PIN 172115</address>
+    <contact>253330</contact>
+    <micrCode>172311057</micrCode>
+    <ifscCode>HPSC0000251</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalpa</name>
+    <city>Kalpa</city>
+    <address>Kalpa Pin-172108</address>
+    <contact>226004</contact>
+    <micrCode>172311056</micrCode>
+    <ifscCode>HPSC0000252</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Katgaon</name>
+    <city>Katgaon</city>
+    <address>Katgaon PIN 172118</address>
+    <contact>262295</contact>
+    <micrCode>172311059</micrCode>
+    <ifscCode>HPSC0000253</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Moorang</name>
+    <city>Moorang</city>
+    <address>Mooreng PIN 172109</address>
+    <contact>252739</contact>
+    <micrCode>172311061</micrCode>
+    <ifscCode>HPSC0000254</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nichar</name>
+    <city>Nichar</city>
+    <address>Nichar Kinnaur</address>
+    <contact>204549</contact>
+    <micrCode>172311011</micrCode>
+    <ifscCode>HPSC0000255</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pangi</name>
+    <city>Pangi</city>
+    <address>Pangi PIN 172107</address>
+    <contact>228811</contact>
+    <micrCode>172311053</micrCode>
+    <ifscCode>HPSC0000256</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rekong PEO</name>
+    <city>Rekong PEO</city>
+    <address>Reckong PEO Tehsil Kalpa PIN 172107</address>
+    <contact>222485</contact>
+    <micrCode>172311052</micrCode>
+    <ifscCode>HPSC0000257</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pooh</name>
+    <city>Pooh</city>
+    <address>Pooh PIN 172111</address>
+    <contact>232297</contact>
+    <micrCode>172311060</micrCode>
+    <ifscCode>HPSC0000258</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Powari</name>
+    <city>Kalpa</city>
+    <address>Powari Shanthong Tehsil Kalpa PIN 172107</address>
+    <contact>223523</contact>
+    <micrCode>172311054</micrCode>
+    <ifscCode>HPSC0000259</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sangla</name>
+    <city>Sangla</city>
+    <address>Sangla PIN 172106</address>
+    <contact>242202</contact>
+    <micrCode>172311058</micrCode>
+    <ifscCode>HPSC0000260</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tapri</name>
+    <city>Tapri</city>
+    <address>Tapri Kinnaur</address>
+    <contact>261207</contact>
+    <micrCode>172311010</micrCode>
+    <ifscCode>HPSC0000261</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Akpa</name>
+    <city>Moorang</city>
+    <address>Akpa, Tehsil Moorang Pin-172116</address>
+    <contact>225564</contact>
+    <micrCode>172311055</micrCode>
+    <ifscCode>HPSC0000262</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Giabong</name>
+    <city>Giabong</city>
+    <address>Giabong PIN 172110</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000264</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Spillow</name>
+    <city>Spillow</city>
+    <address>Spillow Distt Kinnaur</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000266</ifscCode>
+    <bankLoc>22591</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bagsiad</name>
+    <city>Thunag</city>
+    <address>Bagsaid, Tehsil Thunag Pin-175035</address>
+    <contact>254245</contact>
+    <micrCode>174311006</micrCode>
+    <ifscCode>HPSC0000301</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baldwara</name>
+    <city>Sarkaghat</city>
+    <address>Baldwara Tehsil Sarkaghat PIN 175033</address>
+    <contact>258052</contact>
+    <micrCode>175311128</micrCode>
+    <ifscCode>HPSC0000302</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bali Chowki</name>
+    <city>Bali Chowki</city>
+    <address>Balichowki Tehsil Balichowki PIN 175106</address>
+    <contact>229145</contact>
+    <micrCode>175311120</micrCode>
+    <ifscCode>HPSC0000303</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Barot</name>
+    <city>Barot</city>
+    <address>Barot Mandi</address>
+    <contact>267241</contact>
+    <micrCode>175311129</micrCode>
+    <ifscCode>HPSC0000304</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chauntra</name>
+    <city>Chauntra</city>
+    <address>Chauntra PIN 175032</address>
+    <contact>252227</contact>
+    <micrCode>175311108</micrCode>
+    <ifscCode>HPSC0000305</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chhatri</name>
+    <city>Chhatri</city>
+    <address>Chhatri Mandi PIN 175047</address>
+    <contact>243201</contact>
+    <micrCode>174311011</micrCode>
+    <ifscCode>HPSC0000306</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Churag</name>
+    <city>Karsog</city>
+    <address>Churag Tehsil Karsog PIN</address>
+    <contact>224036</contact>
+    <micrCode>175311114</micrCode>
+    <ifscCode>HPSC0000307</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dehar</name>
+    <city>Dehar</city>
+    <address>Dehar Tehsil Sunder Nagar PIN 175030</address>
+    <contact>283004</contact>
+    <micrCode>174311009</micrCode>
+    <ifscCode>HPSC0000308</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dharmarpur</name>
+    <city>Dharmpur</city>
+    <address>Dharampur Tehsil Sarkaghat PIN 175040</address>
+    <contact>272005</contact>
+    <micrCode>175311125</micrCode>
+    <ifscCode>HPSC0000309</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gohar</name>
+    <city>Gohar</city>
+    <address>Gohar Tehsil Chachyot PIN 175029</address>
+    <contact>250270</contact>
+    <micrCode>175311121</micrCode>
+    <ifscCode>HPSC0000310</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Janjehli</name>
+    <city>Janjehli</city>
+    <address>Janjehli Mandi Pin- 175047</address>
+    <contact>256748</contact>
+    <micrCode>174311013</micrCode>
+    <ifscCode>HPSC0000311</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Joginder Nagar</name>
+    <city>Joginder Nagar</city>
+    <address>Joginder Nagar PIN 175015</address>
+    <contact>222029</contact>
+    <micrCode>175311107</micrCode>
+    <ifscCode>HPSC0000312</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karsog</name>
+    <city>Karsog</city>
+    <address>Karsog Mandi PIN 175011</address>
+    <contact>222248</contact>
+    <micrCode>174311010</micrCode>
+    <ifscCode>HPSC0000313</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kotli</name>
+    <city>Kotli</city>
+    <address>Kotli PIN 175003</address>
+    <contact>281219</contact>
+    <micrCode>175311109</micrCode>
+    <ifscCode>HPSC0000314</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ladbadhol</name>
+    <city>Ladbharol</city>
+    <address>LAD Bhrol PIN 176126</address>
+    <contact>278143</contact>
+    <micrCode>175311104</micrCode>
+    <ifscCode>HPSC0000315</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Makariri</name>
+    <city>Makriri</city>
+    <address>Makriri Mandi</address>
+    <contact>256104</contact>
+    <micrCode>175311130</micrCode>
+    <ifscCode>HPSC0000316</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandi</name>
+    <city>Mandi</city>
+    <address>Chota Bazar Mandi PIN 175001</address>
+    <contact>223035</contact>
+    <micrCode>175311102</micrCode>
+    <ifscCode>HPSC0000317</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nagwain</name>
+    <city>Nagwain</city>
+    <address>Nagwain PIN 175121</address>
+    <contact>287113</contact>
+    <micrCode>175311124</micrCode>
+    <ifscCode>HPSC0000318</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NER Chowk</name>
+    <city>NER Chowk</city>
+    <address>Nerchowk Tehsil Sadar PIN 175008</address>
+    <contact>242358</contact>
+    <micrCode>175311119</micrCode>
+    <ifscCode>HPSC0000319</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pandoh</name>
+    <city>Pandoh</city>
+    <address>Pandoh PIN 175124</address>
+    <contact>282207</contact>
+    <micrCode>175311123</micrCode>
+    <ifscCode>HPSC0000320</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rewalsar</name>
+    <city>Rewalsar</city>
+    <address>Rewalsar PIN 175023</address>
+    <contact>240211</contact>
+    <micrCode>175311106</micrCode>
+    <ifscCode>HPSC0000321</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sandhole</name>
+    <city>Sandhole</city>
+    <address>Sandhole PIN 176090</address>
+    <contact>273228</contact>
+    <micrCode>175311112</micrCode>
+    <ifscCode>HPSC0000322</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sarkaghat</name>
+    <city>Sarkaghat</city>
+    <address>Sarkaghat</address>
+    <contact>230057</contact>
+    <micrCode>175311122</micrCode>
+    <ifscCode>HPSC0000323</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Seri Banglow</name>
+    <city>Karsog</city>
+    <address>Seri Bunlow Tehsil Karsog Mandi Pin-175011</address>
+    <contact>226505</contact>
+    <micrCode>174311012</micrCode>
+    <ifscCode>HPSC0000324</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sunder Nagar</name>
+    <city>Sundernagar</city>
+    <address>Sunder Nagar PIN 175019</address>
+    <contact>262337</contact>
+    <micrCode>174311002</micrCode>
+    <ifscCode>HPSC0000325</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thunag</name>
+    <city>Thunag</city>
+    <address>Thunag PO &amp; Tehsil Thunag PIN 175048</address>
+    <contact>257514</contact>
+    <micrCode>175311115</micrCode>
+    <ifscCode>HPSC0000326</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhambla</name>
+    <city>Sarkaghat</city>
+    <address>Bhambla Tehsil Sarkaghat PIN 175004</address>
+    <contact>256454</contact>
+    <micrCode>175311126</micrCode>
+    <ifscCode>HPSC0000327</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saulikhad</name>
+    <city>Mandi</city>
+    <address>Saulikahd PIN 175001</address>
+    <contact>237659</contact>
+    <micrCode>175311103</micrCode>
+    <ifscCode>HPSC0000328</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chatrokhari</name>
+    <city>Sundernagar</city>
+    <address>Chatrokhri, Tehsil Sunder Nagar Pin-174402</address>
+    <contact>266309</contact>
+    <micrCode>174311003</micrCode>
+    <ifscCode>HPSC0000329</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>BSL Sundernagar</name>
+    <city>Sundernagar</city>
+    <address>BSL Colony SNR Purana Bazar Tehsil Sunder Nagar</address>
+    <contact>264154</contact>
+    <micrCode>174311004</micrCode>
+    <ifscCode>HPSC0000330</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhadarwar</name>
+    <city>Sarkaghat</city>
+    <address>Baldwara Tehsil Sarkaghat PIN 175033</address>
+    <contact>271311</contact>
+    <micrCode>175311105</micrCode>
+    <ifscCode>HPSC0000331</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tihra</name>
+    <city>Sarkaghat</city>
+    <address>Tihra Tehsil Sarkaghat PIN 175026</address>
+    <contact>278401</contact>
+    <micrCode>174311008</micrCode>
+    <ifscCode>HPSC0000332</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Marhi</name>
+    <city>Sarkaghat</city>
+    <address>Marhi Tehsil Sarkaghat PIN 175050</address>
+    <contact>270100</contact>
+    <micrCode>175311127</micrCode>
+    <ifscCode>HPSC0000333</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Longani</name>
+    <city>Longni</city>
+    <address>Longni Tehsil Sarkaghat DISTT. Mandi Pin-175025</address>
+    <contact>279055</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000334</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chail Chowk</name>
+    <city>Chail Chowk</city>
+    <address>Chail Chowk Tehsil Chachiot PIN 175045</address>
+    <contact>251048</contact>
+    <micrCode>175311117</micrCode>
+    <ifscCode>HPSC0000335</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sajao Piplu</name>
+    <city>Sarkaghat</city>
+    <address>Sajao Piplu Tehsil Sarkaghat PIN 175025</address>
+    <contact>251766</contact>
+    <micrCode>175311111</micrCode>
+    <ifscCode>HPSC0000336</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Smaila</name>
+    <city>Sarkaghat</city>
+    <address>Smaila, Tehsil Saraghat Pin-175034</address>
+    <contact>256310</contact>
+    <micrCode>174311007</micrCode>
+    <ifscCode>HPSC0000338</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nabahi Devi</name>
+    <city>Sarkaghat</city>
+    <address>VPO Nabahi Devi TEH Sarkaghat Mandi 175024</address>
+    <contact>230174</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000339</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>BS Joginder Nagar</name>
+    <city>Joginder Nagar</city>
+    <address>Joginder Nagar BUS Stand PIN 17</address>
+    <contact>224307</contact>
+    <micrCode>175311116</micrCode>
+    <ifscCode>HPSC0000340</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kunnu</name>
+    <city>Padhar</city>
+    <address>Kunnu Tehsil Padhar PIN 176121</address>
+    <contact>260640</contact>
+    <micrCode>175311110</micrCode>
+    <ifscCode>HPSC0000341</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhanotu</name>
+    <city>Sundernagar</city>
+    <address>Dhanotu Tehsil Sunder Nagar Pin-174401</address>
+    <contact>265066</contact>
+    <micrCode>174311005</micrCode>
+    <ifscCode>HPSC0000342</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandesh</name>
+    <city>Sarkaghat</city>
+    <address>Chandesh PO Gahar Tehsil Sarkaghat PIN 175049</address>
+    <contact>257681</contact>
+    <micrCode>175311113</micrCode>
+    <ifscCode>HPSC0000343</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Awah Devi</name>
+    <city>Saraun</city>
+    <address>Saraun (awha Devi) PIN 175024</address>
+    <contact>275157</contact>
+    <micrCode>175311118</micrCode>
+    <ifscCode>HPSC0000345</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Paddar</name>
+    <city>Paddar</city>
+    <address>VPO Paddar TEH Paddar Mandi 175012</address>
+    <contact>260670</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000347</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baga Chanogi</name>
+    <city>Thunag</city>
+    <address>Baga Chanogi Tehsil Thunag VIA Bagsaid PIN 175035</address>
+    <contact>217050</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000349</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajgarh   MND</name>
+    <city>Rajgarh</city>
+    <address>Rajgarh PIN 175027</address>
+    <contact>244006</contact>
+    <micrCode>175311132</micrCode>
+    <ifscCode>HPSC0000351</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Takoli</name>
+    <city>Takoli</city>
+    <address>Takoli PIN 175025</address>
+    <contact>287213</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000352</ifscCode>
+    <bankLoc>22592</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bharanu</name>
+    <city>Chopal</city>
+    <address>Bharanu Tehsil Chopal</address>
+    <contact>269521</contact>
+    <micrCode>171311036</micrCode>
+    <ifscCode>HPSC0000401</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Isbt Shimla</name>
+    <city>Shimla</city>
+    <address>BO Isbt Shimla PIN 171001</address>
+    <contact>2812945</contact>
+    <micrCode>171311003</micrCode>
+    <ifscCode>HPSC0000402</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chamain</name>
+    <city>Kotkhai</city>
+    <address>Chamain Tehsil Kotkhai</address>
+    <contact>240561</contact>
+    <micrCode>171311034</micrCode>
+    <ifscCode>HPSC0000403</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chirgaon</name>
+    <city>Chirgaon</city>
+    <address>Chirgaon PIN</address>
+    <contact>277258</contact>
+    <micrCode>171311019</micrCode>
+    <ifscCode>HPSC0000404</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chopal</name>
+    <city>Chopal</city>
+    <address>Chopal</address>
+    <contact>260025</contact>
+    <micrCode>171311020</micrCode>
+    <ifscCode>HPSC0000405</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chhota Shimla</name>
+    <city>Shimla</city>
+    <address>Chhota Shimla-2</address>
+    <contact>2621886</contact>
+    <micrCode>171311005</micrCode>
+    <ifscCode>HPSC0000406</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dalan</name>
+    <city>Kumarsain</city>
+    <address>Dalan PO Virgarh Tehsil Kumarsain PIN 172030</address>
+    <contact>222909</contact>
+    <micrCode>171311015</micrCode>
+    <ifscCode>HPSC0000407</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Deha</name>
+    <city>Deha</city>
+    <address>BO Deha PIN 171201</address>
+    <contact>231711</contact>
+    <micrCode>171311048</micrCode>
+    <ifscCode>HPSC0000408</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhalli</name>
+    <city>Shimla</city>
+    <address>Dhalli Distt Shimla PIN 171012</address>
+    <contact>2841099</contact>
+    <micrCode>171311009</micrCode>
+    <ifscCode>HPSC0000409</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dodra</name>
+    <city>Chirgaon</city>
+    <address>Dodra Kwar PIN 171221</address>
+    <contact>262070</contact>
+    <micrCode>172311007</micrCode>
+    <ifscCode>HPSC0000410</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghanahatti</name>
+    <city>Shimla</city>
+    <address>Ganahatti PIN 171011</address>
+    <contact>2774678</contact>
+    <micrCode>171311016</micrCode>
+    <ifscCode>HPSC0000411</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jangla</name>
+    <city>Rohru</city>
+    <address>Jangla Tehsil Rohru PIN 171214</address>
+    <contact>275801</contact>
+    <micrCode>171311035</micrCode>
+    <ifscCode>HPSC0000412</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jeori</name>
+    <city>Rampur</city>
+    <address>Jeori Tehsil Rampur PIN 172101</address>
+    <contact>278460</contact>
+    <micrCode>172311008</micrCode>
+    <ifscCode>HPSC0000413</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jhakri</name>
+    <city>Rampur</city>
+    <address>Jhakri, Tehsil Rampur Pin-172201</address>
+    <contact>275581</contact>
+    <micrCode>172311003</micrCode>
+    <ifscCode>HPSC0000414</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jikhnipul</name>
+    <city>Chopal</city>
+    <address>Jhiknipul Tehsil Chopal PIN 171211</address>
+    <contact>266530</contact>
+    <micrCode>171311038</micrCode>
+    <ifscCode>HPSC0000415</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jubbal</name>
+    <city>Jubbal</city>
+    <address>Jubbal Tehsil Jubbal Distt Shimla PIN 171205</address>
+    <contact>252047</contact>
+    <micrCode>171311028</micrCode>
+    <ifscCode>HPSC0000416</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kasumpati</name>
+    <city>Shimla</city>
+    <address>Kasumpati Shimla 9</address>
+    <contact>2624818</contact>
+    <micrCode>171311007</micrCode>
+    <ifscCode>HPSC0000417</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khalini</name>
+    <city>Shimla</city>
+    <address>Khalini Shimla PIN 171002</address>
+    <contact>2623676</contact>
+    <micrCode>171311004</micrCode>
+    <ifscCode>HPSC0000418</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khaltu Nala</name>
+    <city>Kotkhai</city>
+    <address>Khaltunala Tehsil Kotkhai PIN 171202</address>
+    <contact>244530</contact>
+    <micrCode>171311014</micrCode>
+    <ifscCode>HPSC0000419</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khaneti Sandoch</name>
+    <city>Kumarsain</city>
+    <address>Khaneti Sadoch PO Batari Tehsil Kumarsain PIN 172031</address>
+    <contact>228123</contact>
+    <micrCode>171311021</micrCode>
+    <ifscCode>HPSC0000420</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kiari</name>
+    <city>Kotkhai</city>
+    <address>Kiari Tehsil Kotkhai PIN 171204</address>
+    <contact>258213</contact>
+    <micrCode>171311037</micrCode>
+    <ifscCode>HPSC0000421</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kotkhai</name>
+    <city>Kotkhai</city>
+    <address>Kotkhai Tehsil Kotkhai Distt Shimla PIN 171202</address>
+    <contact>255313</contact>
+    <micrCode>171311029</micrCode>
+    <ifscCode>HPSC0000422</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kumarsain</name>
+    <city>Kumarsain</city>
+    <address>BO AND Tehsil Kumarsain PIN 172029</address>
+    <contact>240004</contact>
+    <micrCode>171311027</micrCode>
+    <ifscCode>HPSC0000423</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Maraog</name>
+    <city>Chopal</city>
+    <address>Maraog Tehsil Chopal PIN 171211</address>
+    <contact>261304</contact>
+    <micrCode>171311041</micrCode>
+    <ifscCode>HPSC0000424</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nankhari</name>
+    <city>Nankhari</city>
+    <address>Nankhari Tehsil Nankhari PIN 172021</address>
+    <contact>225444</contact>
+    <micrCode>172311009</micrCode>
+    <ifscCode>HPSC0000425</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Narkanda</name>
+    <city>Kumarsain</city>
+    <address>Narkanda, Tehsil Kumarsain Pin-171213</address>
+    <contact>242433</contact>
+    <micrCode>171311018</micrCode>
+    <ifscCode>HPSC0000426</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nerwa</name>
+    <city>Chopal</city>
+    <address>Nerwa Tehsil Chopal PIN 171210</address>
+    <contact>264427</contact>
+    <micrCode>171311046</micrCode>
+    <ifscCode>HPSC0000427</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nogli</name>
+    <city>Rampur</city>
+    <address>Nogli Tehsil Rampur Bushahar PIN 172022</address>
+    <contact>271296</contact>
+    <micrCode>172311004</micrCode>
+    <ifscCode>HPSC0000428</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pragati Nagar</name>
+    <city>Kotkhai</city>
+    <address>Pragati Nagar Tehsil Kotkhai PIN 171202</address>
+    <contact>253304</contact>
+    <micrCode>171311042</micrCode>
+    <ifscCode>HPSC0000429</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Premnagar</name>
+    <city>Kumarsain</city>
+    <address>Prem Nagar Tehsil Kumarsain</address>
+    <contact>244046</contact>
+    <micrCode>171311031</micrCode>
+    <ifscCode>HPSC0000430</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rampur Bushahar</name>
+    <city>Rampur</city>
+    <address>Rampur Main Bazar PIN 172001</address>
+    <contact>233034</contact>
+    <micrCode>172311002</micrCode>
+    <ifscCode>HPSC0000431</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rohru</name>
+    <city>Rohru</city>
+    <address>Rohru PIN 171207</address>
+    <contact>240050</contact>
+    <micrCode>171311017</micrCode>
+    <ifscCode>HPSC0000432</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sanjauli</name>
+    <city>Shimla</city>
+    <address>Sanjauli Shimla PIN 171006</address>
+    <contact>2841140</contact>
+    <micrCode>171311008</micrCode>
+    <ifscCode>HPSC0000433</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sarahan-bsr</name>
+    <city>Rampur</city>
+    <address>Sarahan BSR Tehsil Rampur PIN 172002</address>
+    <contact>274261</contact>
+    <micrCode>172311005</micrCode>
+    <ifscCode>HPSC0000434</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>H P Secretariat</name>
+    <city>Shimla</city>
+    <address>BO Sectt Chhota Shimla 171002</address>
+    <contact>2620991</contact>
+    <micrCode>171311006</micrCode>
+    <ifscCode>HPSC0000435</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sharontha</name>
+    <city>Shrontha</city>
+    <address>Sharontha Tehsil Tikkar PIN 171203</address>
+    <contact>2147483647</contact>
+    <micrCode>171311047</micrCode>
+    <ifscCode>HPSC0000437</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>THE Mall Shimla</name>
+    <city>Shimla</city>
+    <address>Shimla THE Mall Shimla 171001</address>
+    <contact>0</contact>
+    <micrCode>171311002</micrCode>
+    <ifscCode>HPSC0000438</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>THE Mall Shimla</name>
+    <city>Shimla</city>
+    <address>Shimla THE Mall Shimla 171001</address>
+    <contact>0</contact>
+    <micrCode>171311022</micrCode>
+    <ifscCode>HPSC0000439</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>THE Mall Shimla</name>
+    <city>Shimla</city>
+    <address>Shimla THE Mall Shimla 171001</address>
+    <contact>0</contact>
+    <micrCode>171311013</micrCode>
+    <ifscCode>HPSC0000440</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>THE Mall Shimla</name>
+    <city>Shimla</city>
+    <address>Shimla THE Mall Shimla 171001</address>
+    <contact>0</contact>
+    <micrCode>171311033</micrCode>
+    <ifscCode>HPSC0000441</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Taklech</name>
+    <city>Rampur</city>
+    <address>BO Taklech Tehsil Rampur PIN 172022</address>
+    <contact>272206</contact>
+    <micrCode>172311006</micrCode>
+    <ifscCode>HPSC0000442</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thanedhar</name>
+    <city>Kumarsain</city>
+    <address>Thanedhar Tehsil Kumarsain PIN 172030</address>
+    <contact>222350</contact>
+    <micrCode>171311030</micrCode>
+    <ifscCode>HPSC0000443</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Theog</name>
+    <city>Theog</city>
+    <address>Theog PIN 171201</address>
+    <contact>238207</contact>
+    <micrCode>171311026</micrCode>
+    <ifscCode>HPSC0000444</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tikkar</name>
+    <city>Tikker</city>
+    <address>Tikkar PIN 171203</address>
+    <contact>233277</contact>
+    <micrCode>171311040</micrCode>
+    <ifscCode>HPSC0000445</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Totu</name>
+    <city>Shimla</city>
+    <address>BO Totu Shimla PIN 171011</address>
+    <contact>2837608</contact>
+    <micrCode>171311010</micrCode>
+    <ifscCode>HPSC0000446</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ratnari</name>
+    <city>Kotkhai</city>
+    <address>Ratnari Tehsil Kotkhai PIN 171225</address>
+    <contact>275801</contact>
+    <micrCode>171311044</micrCode>
+    <ifscCode>HPSC0000447</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saraswati Nagar</name>
+    <city>Saraswati Nagar</city>
+    <address>Saraswati Nagar PIN 171206</address>
+    <contact>238995</contact>
+    <micrCode>171311032</micrCode>
+    <ifscCode>HPSC0000448</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Deori Khaneti</name>
+    <city>Kotkhai</city>
+    <address>Deori Khaneti Tehsil Kotkhai PIN 171201</address>
+    <contact>246707</contact>
+    <micrCode>171311045</micrCode>
+    <ifscCode>HPSC0000449</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shilaroo</name>
+    <city>Shilaroo</city>
+    <address>Shilaroo PIN 171213</address>
+    <contact>2147483647</contact>
+    <micrCode>171311024</micrCode>
+    <ifscCode>HPSC0000450</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koti</name>
+    <city>Shimla</city>
+    <address>Koti Tehsil Junga PIN 171012</address>
+    <contact>2733451</contact>
+    <micrCode>171311043</micrCode>
+    <ifscCode>HPSC0000451</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Deoli</name>
+    <city>Deoli</city>
+    <address>BO Deoli PIN 171203</address>
+    <contact>2147483647</contact>
+    <micrCode>171311023</micrCode>
+    <ifscCode>HPSC0000453</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandal</name>
+    <city>Mandal</city>
+    <address>Mandal PIN 171216</address>
+    <contact>239156</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000454</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kholi Ghat</name>
+    <city>Nankhari</city>
+    <address>Kholighat Nankhari PIN 171213</address>
+    <contact>268755</contact>
+    <micrCode>171311039</micrCode>
+    <ifscCode>HPSC0000455</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kharahan</name>
+    <city>Nankhari</city>
+    <address>Kharahan Tehsil Nankhari PIN 171213</address>
+    <contact>2147483647</contact>
+    <micrCode>171311012</micrCode>
+    <ifscCode>HPSC0000456</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Batar Galu</name>
+    <city>Jubbal</city>
+    <address>Batar Galu PO Kathasu Tehsil Jubbal Pin-171206</address>
+    <contact>2147483647</contact>
+    <micrCode>171311011</micrCode>
+    <ifscCode>HPSC0000457</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bachhunch   Chapoti</name>
+    <city>Rohru</city>
+    <address>Bachhunch Chapoti</address>
+    <contact>244231</contact>
+    <micrCode>171311025</micrCode>
+    <ifscCode>HPSC0000458</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kharapathar</name>
+    <city>Jubbal</city>
+    <address>Khara Pathar Tehsil Jubbal PIN 171205</address>
+    <contact>2147483647</contact>
+    <micrCode>171311049</micrCode>
+    <ifscCode>HPSC0000459</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Fagu</name>
+    <city>Theog</city>
+    <address>Fagu Tehsil Theog Distt Shimla</address>
+    <contact>239207</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000460</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Summer Hill</name>
+    <city>Shimla</city>
+    <address>Summer Hill Distt Shimla 171005</address>
+    <contact>2832500</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000461</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kupvi</name>
+    <city>Kupvi</city>
+    <address>Kupvi Tehsil Kupvi Distt Shimla</address>
+    <contact>270280</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000462</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalog</name>
+    <city>Shimla</city>
+    <address>VPO Jalog Tehsil Sunni</address>
+    <contact>0</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000466</ifscCode>
+    <bankLoc>22593</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Badrinagar</name>
+    <city>Paonta Sahib</city>
+    <address>BO Badari Nagar PIN 173026</address>
+    <contact>224788</contact>
+    <micrCode>173311103</micrCode>
+    <ifscCode>HPSC0000551</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhaula Kuan</name>
+    <city>Dhaula Kuan</city>
+    <address>Dhaula Kuan PIN 173020</address>
+    <contact>257619</contact>
+    <micrCode>173311107</micrCode>
+    <ifscCode>HPSC0000552</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dadahu</name>
+    <city>Dadahu</city>
+    <address>Dadahu Distt Sirmour PIN 173022</address>
+    <contact>267353</contact>
+    <micrCode>173311059</micrCode>
+    <ifscCode>HPSC0000553</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Habban</name>
+    <city>Habban</city>
+    <address>Habban PIN 173101</address>
+    <contact>266080</contact>
+    <micrCode>173311003</micrCode>
+    <ifscCode>HPSC0000555</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kala AMB</name>
+    <city>Kaka AMB</city>
+    <address>Kala AMB PIN 173020</address>
+    <contact>254114</contact>
+    <micrCode>173311062</micrCode>
+    <ifscCode>HPSC0000556</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Katcha Tank</name>
+    <city>Nahan</city>
+    <address>Katcha Tank PIN 173001</address>
+    <contact>223143</contact>
+    <micrCode>173311053</micrCode>
+    <ifscCode>HPSC0000557</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Majra</name>
+    <city>Majra</city>
+    <address>Majra PIN 173021</address>
+    <contact>254047</contact>
+    <micrCode>173311109</micrCode>
+    <ifscCode>HPSC0000558</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nahan</name>
+    <city>Nahan</city>
+    <address>Nahan PIN 173001</address>
+    <contact>222687</contact>
+    <micrCode>173311052</micrCode>
+    <ifscCode>HPSC0000559</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Narag</name>
+    <city>Narag</city>
+    <address>Narag PIN 173024</address>
+    <contact>257335</contact>
+    <micrCode>173311055</micrCode>
+    <ifscCode>HPSC0000560</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nohradhar</name>
+    <city>Nohradhar</city>
+    <address>Nohradhar PIN 173104</address>
+    <contact>240680</contact>
+    <micrCode>173311002</micrCode>
+    <ifscCode>HPSC0000561</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Paonta Sahib</name>
+    <city>Paonta Sahib</city>
+    <address>Paonta Sahib PIN 173025</address>
+    <contact>222336</contact>
+    <micrCode>173311102</micrCode>
+    <ifscCode>HPSC0000562</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajgarh</name>
+    <city>Rajgarh</city>
+    <address>Rajgarh PIN 173101</address>
+    <contact>221021</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000563</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>S - Puruwala</name>
+    <city>Paonta Sahib</city>
+    <address>S Prurwala PIN 173025</address>
+    <contact>238838</contact>
+    <micrCode>173311106</micrCode>
+    <ifscCode>HPSC0000564</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sangrah</name>
+    <city>Sangrah</city>
+    <address>Sangrah PIN 173023</address>
+    <contact>248163</contact>
+    <micrCode>173311056</micrCode>
+    <ifscCode>HPSC0000565</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sarahan-sirmour</name>
+    <city>Srahan</city>
+    <address>Sarahan SIRMOUR. PIN 173024</address>
+    <contact>236745</contact>
+    <micrCode>173311061</micrCode>
+    <ifscCode>HPSC0000566</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sataun</name>
+    <city>Sataun</city>
+    <address>Sataun PIN 173029</address>
+    <contact>262506</contact>
+    <micrCode>173311108</micrCode>
+    <ifscCode>HPSC0000567</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shillai</name>
+    <city>Shillai</city>
+    <address>Shillai PIN 173027</address>
+    <contact>278545</contact>
+    <micrCode>173311105</micrCode>
+    <ifscCode>HPSC0000568</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trilokpur</name>
+    <city>Kala AMB</city>
+    <address>Trilokpur PIN 173030</address>
+    <contact>238679</contact>
+    <micrCode>173311060</micrCode>
+    <ifscCode>HPSC0000569</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamrau</name>
+    <city>Kamrau</city>
+    <address>Kamrau PIN 173029</address>
+    <contact>271443</contact>
+    <micrCode>173311104</micrCode>
+    <ifscCode>HPSC0000570</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lana Cheta</name>
+    <city>Lana Cheta</city>
+    <address>Lana Cheta PIN 173104</address>
+    <contact>247120</contact>
+    <micrCode>173311058</micrCode>
+    <ifscCode>HPSC0000571</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>DC Office Nahan</name>
+    <city>Nahan</city>
+    <address>DC Nahan PIN 173026</address>
+    <contact>222267</contact>
+    <micrCode>173311054</micrCode>
+    <ifscCode>HPSC0000572</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Yashwant Nagar</name>
+    <city>Yashwant Nagar</city>
+    <address>Yashwant Nagar PIN 173212</address>
+    <contact>270400</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000573</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kheri</name>
+    <city>Rajgarh</city>
+    <address>Kheri Tehsil Rajgarh Distt Sirmour</address>
+    <contact>275021</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000575</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jamta</name>
+    <city>Nahan</city>
+    <address>Jamta Tehsil Nahan PIN</address>
+    <contact>258666</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000576</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nainidhar</name>
+    <city>Shillai</city>
+    <address>Nainidhar Tehsil Shillai PIN</address>
+    <contact>206010</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000577</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ronhat</name>
+    <city>Shillai</city>
+    <address>Ronhat Tehsil Shillai</address>
+    <contact>270404</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000578</ifscCode>
+    <bankLoc>22594</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gatadhar</name>
+    <city>Sangrah</city>
+    <address>PO Sangna Tehsil Sangrah Distt Sirmour 173023</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>HPSC0000579</ifscCode>
+    <bankLoc>22594</bankLoc>
   </bankbranch>
 </bankBranchs>
