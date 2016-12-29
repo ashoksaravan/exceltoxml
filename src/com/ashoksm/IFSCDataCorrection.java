@@ -55,8 +55,8 @@ public class IFSCDataCorrection {
 				ifscRow.createCell(2).setCellValue(formatString(formatString(getCellValue(row, 3), ","), " "));
 				ifscRow.createCell(3).setCellValue(formatString(formatString(getCellValue(row, 4), ","), " "));
 				ifscRow.createCell(4).setCellValue(formatString(formatString(getCellValue(row, 5), ","), " "));
-				ifscRow.createCell(5).setCellValue(formatString(formatString(getCellValue(row, 7), ","), " "));
-				ifscRow.createCell(6).setCellValue(formatString(formatString(getCellValue(row, 6), ","), " "));
+				ifscRow.createCell(5).setCellValue(formatString(formatString(getCellValue(row, 6), ","), " "));
+				ifscRow.createCell(6).setCellValue(formatString(formatString(getCellValue(row, 7), ","), " "));
 				ifscRow.createCell(7).setCellValue(formatString(formatString(getCellValue(row, 8), ","), " "));
 			}
 

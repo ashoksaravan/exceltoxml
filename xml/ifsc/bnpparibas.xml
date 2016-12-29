@@ -6,7 +6,7 @@
     <contact>66216500</contact>
     <micrCode>500034002</micrCode>
     <ifscCode>BNPA0009378</ifscCode>
-    <bankLoc>6698</bankLoc>
+    <bankLoc>6554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai</name>
@@ -15,7 +15,7 @@
     <contact>0</contact>
     <micrCode>600034002</micrCode>
     <ifscCode>BNPA0009088</ifscCode>
-    <bankLoc>6704</bankLoc>
+    <bankLoc>6560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad</name>
@@ -24,7 +24,7 @@
     <contact>25581347</contact>
     <micrCode>380034002</micrCode>
     <ifscCode>BNPA0009077</ifscCode>
-    <bankLoc>6700</bankLoc>
+    <bankLoc>6556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
@@ -33,16 +33,16 @@
     <contact>0</contact>
     <micrCode>411034002</micrCode>
     <ifscCode>BNPA0009069</ifscCode>
-    <bankLoc>6703</bankLoc>
+    <bankLoc>6559</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Salarpuria Windsor, Ground Floor, NO.3, Ulsoor Road, Bengaluru - 560 042</address>
     <contact>66076200</contact>
     <micrCode>560034002</micrCode>
     <ifscCode>BNPA0009067</ifscCode>
-    <bankLoc>6701</bankLoc>
+    <bankLoc>6557</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delhi</name>
@@ -51,7 +51,7 @@
     <contact>41796600</contact>
     <micrCode>110034002</micrCode>
     <ifscCode>BNPA0009065</ifscCode>
-    <bankLoc>6699</bankLoc>
+    <bankLoc>6555</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai</name>
@@ -60,7 +60,7 @@
     <contact>33704000</contact>
     <micrCode>400034002</micrCode>
     <ifscCode>BNPA0009009</ifscCode>
-    <bankLoc>6702</bankLoc>
+    <bankLoc>6558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolkata</name>
@@ -69,6 +69,6 @@
     <contact>0</contact>
     <micrCode>700034002</micrCode>
     <ifscCode>BNPA0009008</ifscCode>
-    <bankLoc>6705</bankLoc>
+    <bankLoc>6561</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -1,21 +1,21 @@
 <bankBranchs>
   <bankbranch>
     <name>Paranur Branch</name>
-    <city>Chennai</city>
+    <city>Kanchipuram</city>
     <address>THE Canopy, 2ND Avenue, 2ND Floor, Mahindra World City Sub-post, Paranur, Chengalpattu Taluk, Kanchipuram District 603004.</address>
     <contact>0</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX04</ifscCode>
-    <bankLoc>13528</bankLoc>
+    <bankLoc>12918</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devanahalli Branch</name>
-    <city>Bangalore</city>
+    <city>Bangalore Rural</city>
     <address>Hoysala Corpus, Second Floor, Survey Number 29(new Survey NO. 29/5), Guttahalli Village, Kasaba Hobli, Devanahalli Taluk, Bangalore Rural District, 562110</address>
     <contact>67693200</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX03</ifscCode>
-    <bankLoc>13526</bankLoc>
+    <bankLoc>12916</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Branch</name>
@@ -24,15 +24,15 @@
     <contact>66111700</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX02</ifscCode>
-    <bankLoc>13525</bankLoc>
+    <bankLoc>12915</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>J.P. Morgan Tower, OFF. C.S.T. Road, Kalina, Santacruz-east, Mumbai - 400098 India</address>
     <contact>61573836</contact>
     <micrCode>400500002</micrCode>
     <ifscCode>CHAS0INBX01</ifscCode>
-    <bankLoc>13527</bankLoc>
+    <bankLoc>12917</bankLoc>
   </bankbranch>
 </bankBranchs>

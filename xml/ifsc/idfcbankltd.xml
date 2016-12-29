@@ -1,723 +1,12 @@
 <bankBranchs>
   <bankbranch>
-    <name>Vijaywada Branch</name>
-    <city>Vijaywada</city>
-    <address>First Floor, Madhusree Building, 61-3/1-12, Service Road, Nh-5, Krishna District, Balaji Nagar, Andhra Pradesh</address>
-    <contact>2147483647</contact>
-    <micrCode>520751002</micrCode>
-    <ifscCode>IDFB0080391</ifscCode>
-    <bankLoc>10615</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Guntur Branch</name>
-    <city>Guntur</city>
-    <address>First Floor, BG Arcade, Nagaram Palem Main Road, Next TO Alankar Function Hall, Guntur, Andhra Pradesh, 522004</address>
-    <contact>0</contact>
-    <micrCode>520751102</micrCode>
-    <ifscCode>IDFB0080381</ifscCode>
-    <bankLoc>10614</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kushtagi Branch</name>
-    <city>Kushtagi</city>
-    <address>Ground Floor, Illahi Complex, MA NO.5953, Plot NO. 1 OF SY 104 Murudi Bhimaja Circle, Koppal Road, Karnataka, 584121</address>
-    <contact>2147483647</contact>
-    <micrCode>583751403</micrCode>
-    <ifscCode>IDFB0080353</ifscCode>
-    <bankLoc>10625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gangawati Branch</name>
-    <city>Gangawati</city>
-    <address>Ground Floor, Julai Nagar, Indira Circle, Gangawati, Karnataka - 583227</address>
-    <contact>2147483647</contact>
-    <micrCode>583751302</micrCode>
-    <ifscCode>IDFB0080352</ifscCode>
-    <bankLoc>10625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Koppal Branch</name>
-    <city>Koppal</city>
-    <address>Ground Floor, Basava Complex, OPP Hdfc Bank, Hospet - Hubli Road, Hudco Colony, Koppal, Karnataka - 583231</address>
-    <contact>2147483647</contact>
-    <micrCode>583751402</micrCode>
-    <ifscCode>IDFB0080351</ifscCode>
-    <bankLoc>10625</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mudhol Branch</name>
-    <city>Mudhol</city>
-    <address>Ground Floor, NO.4026A/149, Yadawad Road, Sidrameshwar Nagar, OPP. PWD IB, Mudhol, Bagalkote, Karnataka</address>
-    <contact>2147483647</contact>
-    <micrCode>587751102</micrCode>
-    <ifscCode>IDFB0080332</ifscCode>
-    <bankLoc>10619</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jamkhandi Branch</name>
-    <city>Jamkhandi</city>
-    <address>Ground Floor, Laskari Complex, Maigur Road, Bagalkot District Jamkhandi, Karnataka - 587301</address>
-    <contact>2147483647</contact>
-    <micrCode>587751302</micrCode>
-    <ifscCode>IDFB0080331</ifscCode>
-    <bankLoc>10619</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ranebennur Branch</name>
-    <city>Ranebennur</city>
-    <address>Devi Heights, Ground Floor, OPP Keb, PB Road, Ranebennur, Haveri District, Karnataka State</address>
-    <contact>2147483647</contact>
-    <micrCode>581751102</micrCode>
-    <ifscCode>IDFB0080304</ifscCode>
-    <bankLoc>10624</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shiggaon Branch</name>
-    <city>Shiggaon</city>
-    <address>Ground Floor, Kursapur Complex, Shiggaon, Haveri District, Karnataka - 581205</address>
-    <contact>2147483647</contact>
-    <micrCode>581751502</micrCode>
-    <ifscCode>IDFB0080303</ifscCode>
-    <bankLoc>10624</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Makarvali  Branch</name>
-    <city>Makaravali</city>
-    <address>Ground Floor, Sirsi Shimoga Highway Road, Makaravali, Haveri District, Karnataka- 581110</address>
-    <contact>2147483647</contact>
-    <micrCode>581751501</micrCode>
-    <ifscCode>IDFB0080302</ifscCode>
-    <bankLoc>10624</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Haveri Branch</name>
-    <city>Haveri</city>
-    <address>Ground Floor, Vidyanagar, A Block, 3RD Cross, Haveri, PB Road, Haveri - 581110, Karnataka State</address>
-    <contact>2147483647</contact>
-    <micrCode>581751052</micrCode>
-    <ifscCode>IDFB0080301</ifscCode>
-    <bankLoc>10624</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Betadur Branch</name>
-    <city>Betadur</city>
-    <address>Betadur Post Kundgol TQ Dharwad District Karnataka 581207</address>
-    <contact>2147483647</contact>
-    <micrCode>580751501</micrCode>
-    <ifscCode>IDFB0080282</ifscCode>
-    <bankLoc>10623</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hubballi  Branch</name>
-    <city>Hubballi</city>
-    <address>Ground Floor, H. NO.95, N Pride, Pinto Road, Desai Cross, Dharwad District, Hubballi, Karnataka- 580020</address>
-    <contact>2147483647</contact>
-    <micrCode>580751002</micrCode>
-    <ifscCode>IDFB0080281</ifscCode>
-    <bankLoc>10622</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Belgaum Branch</name>
-    <city>Belgaum</city>
-    <address>First Floor, Aadishakti Towers, CTS NO.5650, Survey NO.236/2, Khanpur Road, Goaves, Karnataka State, 590003</address>
-    <contact>2147483647</contact>
-    <micrCode>590751002</micrCode>
-    <ifscCode>IDFB0080256</ifscCode>
-    <bankLoc>10621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Muchandi Branch</name>
-    <city>Muchandi</city>
-    <address>Ground Floor, 620, C/0 Balaram Fakira Motari, Bhagyalakshmi Nivas, Gokul Nagar, Gokak Road, Post Muchandi, Belgaum, 16 Karnataka - 590016</address>
-    <contact>2147483647</contact>
-    <micrCode>590751502</micrCode>
-    <ifscCode>IDFB0080255</ifscCode>
-    <bankLoc>10621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ramdurga Branch</name>
-    <city>Ramdurga</city>
-    <address>House NO. 82/a, Navi Peth PO, Ramdurga Taluka, Belgaum District, Karnataka- 591123</address>
-    <contact>2147483647</contact>
-    <micrCode>591751052</micrCode>
-    <ifscCode>IDFB0080254</ifscCode>
-    <bankLoc>10621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Honaga Branch</name>
-    <city>Honaga</city>
-    <address>821/1069, PB Road, Honaga, Belgaum, Karnataka- 591156</address>
-    <contact>2147483647</contact>
-    <micrCode>590751501</micrCode>
-    <ifscCode>IDFB0080253</ifscCode>
-    <bankLoc>10621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gokak  Branch</name>
-    <city>Gokak</city>
-    <address>3195-b/ 3/1d, Hospet Galli, Anand Talkies Road, Gokak, Dist-belagavi, Karnataka-591307</address>
-    <contact>2147483647</contact>
-    <micrCode>591751502</micrCode>
-    <ifscCode>IDFB0080252</ifscCode>
-    <bankLoc>10621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chikkodi Branch</name>
-    <city>Chikkodi</city>
-    <address>Chavan Plaza, -1, R K Colony, Near Govt Hospital, Chikodi, Belgavi District, Karnataka- 591201</address>
-    <contact>2147483647</contact>
-    <micrCode>591751202</micrCode>
-    <ifscCode>IDFB0080251</ifscCode>
-    <bankLoc>10621</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hyderabad Jubilee Town</name>
-    <city>Hyderabad</city>
-    <address>Jubilee Town, Plot NO 1130 A, Road NO 36, Jubilee Hills, Hyderabad, Telangana 500033</address>
-    <contact>67383000</contact>
-    <micrCode>500751002</micrCode>
-    <ifscCode>IDFB0080201</ifscCode>
-    <bankLoc>10650</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bangalore Residency Road</name>
-    <city>Bangalore</city>
-    <address>Residency Building Plot NO 79 Residency Road Richmond Town Bangalore</address>
-    <contact>67943000</contact>
-    <micrCode>560751002</micrCode>
-    <ifscCode>IDFB0080151</ifscCode>
-    <bankLoc>10620</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Nungambakkam Branch</name>
-    <city>Chennai</city>
-    <address>GF&amp; 1 Floor Tahera Manor Nungambakkam High Road Chennai 600034</address>
-    <contact>2147483647</contact>
-    <micrCode>600751002</micrCode>
-    <ifscCode>IDFB0080102</ifscCode>
-    <bankLoc>10649</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chennai R.K.SALAI</name>
-    <city>Chennai</city>
-    <address>DBS Westminister, 108, R.K.SALAI, 3RD Floor, Chennai 600 004</address>
-    <contact>66145000</contact>
-    <micrCode>600751001</micrCode>
-    <ifscCode>IDFB0080101</ifscCode>
-    <bankLoc>10649</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Agartala Branch</name>
-    <city>Agartala</city>
-    <address>House NO. 130460, Ward NO. 13, TG Road, Krishna Nagar, Shanker Chowmuhani, Agartala Tripura (W) 799001</address>
-    <contact>2147483647</contact>
-    <micrCode>799751002</micrCode>
-    <ifscCode>IDFB0060221</ifscCode>
-    <bankLoc>10651</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Shillong Branch</name>
-    <city>Shillong</city>
-    <address>VN Hardware Building, Demeseiniong, Laithumkra, Opposite Neepco Office, East Shillong, Meghalaya 793011</address>
-    <contact>2147483647</contact>
-    <micrCode>793751002</micrCode>
-    <ifscCode>IDFB0060201</ifscCode>
-    <bankLoc>10648</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Kolkata Ballygunge Circular Road</name>
-    <city>Kolkata</city>
-    <address>64B 1ST Floor Ballygunge Circular Road Kolkata 700019</address>
-    <contact>66390700</contact>
-    <micrCode>700751002</micrCode>
-    <ifscCode>IDFB0060101</ifscCode>
-    <bankLoc>10653</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mandideep Branch</name>
-    <city>Mandideep</city>
-    <address>Plot 14 Near Jain Mandir  Mandideep Raisen</address>
-    <contact>2147483647</contact>
-    <micrCode>462751002</micrCode>
-    <ifscCode>IDFB0042101</ifscCode>
-    <bankLoc>10639</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhopal Raisen Road Branch</name>
-    <city>Bhopal</city>
-    <address>Ground Floor, 6B, Govind Garden, Opposite Vidyut Nagar, Raisen Road, Bhopal</address>
-    <contact>2147483647</contact>
-    <micrCode>462751001</micrCode>
-    <ifscCode>IDFB0041381</ifscCode>
-    <bankLoc>10627</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pune Bund Garden Road</name>
-    <city>Pune</city>
-    <address>Amar Avinash Corporate City, 3RD Floor, Bund Garden Road, Pune 411001</address>
-    <contact>66483000</contact>
-    <micrCode>411751002</micrCode>
-    <ifscCode>IDFB0041351</ifscCode>
-    <bankLoc>10646</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khargone</name>
-    <city>Khargone</city>
-    <address>Shop NO. C-14 Radha Vallabh MKT Khargone, DISTT. Khargone, Madhya Pradesh - 451224</address>
-    <contact>2147483647</contact>
-    <micrCode>451751001</micrCode>
-    <ifscCode>IDFB0041325</ifscCode>
-    <bankLoc>10634</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhikangaon</name>
-    <city>Bhikangaon</city>
-    <address>Survey NO. 24/5, Ground &amp; Upper Ground, Street NO.15, Plot NO. 10, Opp, BUS Stand, Town Bhikangaon, Tehsil Bhikangaon, DISTT. Khargone, Madhya Pradesh - 451331</address>
-    <contact>2147483647</contact>
-    <micrCode>451751502</micrCode>
-    <ifscCode>IDFB0041324</ifscCode>
-    <bankLoc>10634</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sirlai</name>
-    <city>Sirlai</city>
-    <address>Ground Floor, MG Road, Ground Floor, Main Road, Sirlai Village, Tehsil Barwah, DISTT. Khargone, Madhya Pradesh - 451115</address>
-    <contact>2147483647</contact>
-    <micrCode>451751503</micrCode>
-    <ifscCode>IDFB0041323</ifscCode>
-    <bankLoc>10634</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sanawad</name>
-    <city>Sanawad</city>
-    <address>Ground Floor, 411, Indore Road, Opp-indian OIL Petrol Pump, Sanawad, DISTT. Khargone, Madhya Pradesh, - 451111</address>
-    <contact>2147483647</contact>
-    <micrCode>451751201</micrCode>
-    <ifscCode>IDFB0041322</ifscCode>
-    <bankLoc>10634</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Idfc Bank LTD</name>
-    <city>Khargone</city>
-    <address>Khasra NO 260/1/2, Ground Floor, Navalpura Maheshwar Road, Opp- Laxmi Narayan Colony, Village Ladvi, Tehsil Maheshwar, Distt Khargone, Madhya Pradesh-451221</address>
-    <contact>2147483647</contact>
-    <micrCode>451751501</micrCode>
-    <ifscCode>IDFB0041321</ifscCode>
-    <bankLoc>10634</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pandhana Branch</name>
-    <city>Pandhana</city>
-    <address>Ground Floor Ward NO.14 Diwal Road Near Church DISTT. Khandwa Madhya Pradesh450661</address>
-    <contact>2147483647</contact>
-    <micrCode>450751502</micrCode>
-    <ifscCode>IDFB0041303</ifscCode>
-    <bankLoc>10633</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khandwa Branch</name>
-    <city>Khandwa</city>
-    <address>Unit NO. 1 2 19 20 21 &amp; 22 Upper Ground Floor Landmark ONE Mall Ward NO.26 PLOT. NO.104 &amp; 105 Pandhana Road Khandwa Madhya Pradesh450001</address>
-    <contact>2147483647</contact>
-    <micrCode>450751101</micrCode>
-    <ifscCode>IDFB0041302</ifscCode>
-    <bankLoc>10633</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chhanera Branch</name>
-    <city>Chhanera</city>
-    <address>Khasra NO. 1632 WAR NO.10 Station Road Chhnera NEW Harsud District Khandwa Madhya Pradesh450116</address>
-    <contact>2147483647</contact>
-    <micrCode>450751501</micrCode>
-    <ifscCode>IDFB0041301</ifscCode>
-    <bankLoc>10633</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Budhi Barlai Branch</name>
-    <city>Budhi Barlai</city>
-    <address>Ground Floor 1005 Village Budhi Barlai, Shipra</address>
-    <contact>2147483647</contact>
-    <micrCode>452751002</micrCode>
-    <ifscCode>IDFB0041263</ifscCode>
-    <bankLoc>10632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Indore - Bijalpur Branch</name>
-    <city>Indore</city>
-    <address>Ground Floor, H. NO. 969, Village Bijalpur, Tehshil AND District Indore, Madhya Pradesh - 452012</address>
-    <contact>2147483647</contact>
-    <micrCode>452751003</micrCode>
-    <ifscCode>IDFB0041262</ifscCode>
-    <bankLoc>10632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Takipura</name>
-    <city>Takipura</city>
-    <address>Ground Floor, Near HP Petrol Pump Betma Road, Takipura Tehsil Depalpur, District Indore, MP - 453220</address>
-    <contact>2147483647</contact>
-    <micrCode>452751001</micrCode>
-    <ifscCode>IDFB0041261</ifscCode>
-    <bankLoc>10632</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sanwer</name>
-    <city>Sanwer</city>
-    <address>Ground Floor, MG Road Sanwer, Sonkatch DISTT. Dewas, Madhya Pradesh - 455118</address>
-    <contact>2147483647</contact>
-    <micrCode>455751001</micrCode>
-    <ifscCode>IDFB0041241</ifscCode>
-    <bankLoc>10628</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Badnawar Branch</name>
-    <city>Badnawar</city>
-    <address>Mandi BY Pass Road Badnawar</address>
-    <contact>2147483647</contact>
-    <micrCode>454751503</micrCode>
-    <ifscCode>IDFB0041225</ifscCode>
-    <bankLoc>10629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dehriya Sarai Branch</name>
-    <city>Dhar</city>
-    <address>Survey NO 58 Mahu Neemach Road Patel Nagar Colony Village Dehariya Sarai</address>
-    <contact>2147483647</contact>
-    <micrCode>454751502</micrCode>
-    <ifscCode>IDFB0041224</ifscCode>
-    <bankLoc>10629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Makani</name>
-    <city>Makani</city>
-    <address>Ground Floor, Village Makani, Mahu-neemach Road, P.H. NO. 45, Tehsil Badnawar, District Dhar, Mp-456331</address>
-    <contact>955590897</contact>
-    <micrCode>456751101</micrCode>
-    <ifscCode>IDFB0041223</ifscCode>
-    <bankLoc>10629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rajgarh Dhar</name>
-    <city>Rajgarh</city>
-    <address>Ground Floor, Near Hdfc Bank Main Road, Rajgarh Dist Dhar MP - 454116</address>
-    <contact>2147483647</contact>
-    <micrCode>454751501</micrCode>
-    <ifscCode>IDFB0041222</ifscCode>
-    <bankLoc>10629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhar</name>
-    <city>Dhar</city>
-    <address>Plot NO. A-7 &amp; A-8, Survey NO. 29/2, Village Magajpura, Tehsil &amp; District Dhar, Madhya Pradesh - 454001</address>
-    <contact>2147483647</contact>
-    <micrCode>454751001</micrCode>
-    <ifscCode>IDFB0041221</ifscCode>
-    <bankLoc>10629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khirkian Branch</name>
-    <city>Khirkian</city>
-    <address>Ground Floor Khandwa Road Oppsbs School Ward NO.11 Chipawadkhirkiya Tehsil Khirkiya District Harda Madhya Pradesh461441</address>
-    <contact>2147483647</contact>
-    <micrCode>461751504</micrCode>
-    <ifscCode>IDFB0041204</ifscCode>
-    <bankLoc>10635</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Harda Branch</name>
-    <city>Harda</city>
-    <address>Ground Floor Indira Gandhi Ward Ward NO.10 Ghantaghar Road Oppjain Dharamshala Harda Madhya Pradesh ??461331</address>
-    <contact>2147483647</contact>
-    <micrCode>461751101</micrCode>
-    <ifscCode>IDFB0041203</ifscCode>
-    <bankLoc>10630</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Tajpura  Branch</name>
-    <city>Tajpura</city>
-    <address>Ground Floor Main Road Village Tajpura Tehsil Timarni DISTT. Harda Madhya Pradesh461288</address>
-    <contact>2147483647</contact>
-    <micrCode>461751508</micrCode>
-    <ifscCode>IDFB0041202</ifscCode>
-    <bankLoc>10642</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>UDA  Branch</name>
-    <city>UDA</city>
-    <address>Ground Floor Harda Road Village UDA DISTT. Harda Madhya Pradesh461331</address>
-    <contact>2147483647</contact>
-    <micrCode>461751509</micrCode>
-    <ifscCode>IDFB0041201</ifscCode>
-    <bankLoc>10644</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dhamnod</name>
-    <city>Dhamnod</city>
-    <address>Ground Floor, OLD AB Road, Opp-dhamnod City Scan Centre, Dhamnod, DISTT. Dhar, Madhya Pradesh-454552</address>
-    <contact>2147483647</contact>
-    <micrCode>454751201</micrCode>
-    <ifscCode>IDFB0041181</ifscCode>
-    <bankLoc>10629</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khategaon</name>
-    <city>Khategaon</city>
-    <address>Ground Floor, Khasra NO. 133/11, OPP-GOVT. College, Khategaon, DISTT. Dewas, Madhya Pradesh-455336</address>
-    <contact>2147483647</contact>
-    <micrCode>455751501</micrCode>
-    <ifscCode>IDFB0041171</ifscCode>
-    <bankLoc>10628</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mehgwan  Branch</name>
-    <city>Mehgwan</city>
-    <address>Ground Floor Chandon Road Gram Post Mehgwan Tehsil Bankhedi DISTT. Hoshangabad Madhya Pradesh461990</address>
-    <contact>2147483647</contact>
-    <micrCode>461751506</micrCode>
-    <ifscCode>IDFB0041113</ifscCode>
-    <bankLoc>10636</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hoshangabad Branch</name>
-    <city>Hoshangabad</city>
-    <address>Ground Floor Anand Nagar Meenakshi Road Hoshangabad Madhya Pradesh461001</address>
-    <contact>2147483647</contact>
-    <micrCode>461751001</micrCode>
-    <ifscCode>IDFB0041112</ifscCode>
-    <bankLoc>10631</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Timurni  Branch</name>
-    <city>Timurni</city>
-    <address>Ground &amp; First Floor Harda Road Timarni DISTT. Harda Madhya Pradesh461228</address>
-    <contact>2147483647</contact>
-    <micrCode>461751503</micrCode>
-    <ifscCode>IDFB0041111</ifscCode>
-    <bankLoc>10643</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sangakheda Kalan</name>
-    <city>Sangakheda Kalan</city>
-    <address>Ground Floor, VILL. Sangakheda Kalan, Thehsil Babai Bada Kuan</address>
-    <contact>2147483647</contact>
-    <micrCode>461751002</micrCode>
-    <ifscCode>IDFB0041109</ifscCode>
-    <bankLoc>10631</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Dharmkundi</name>
-    <city>Hoshangabad</city>
-    <address>Ground Floor Near BUS Stand Itarsi Road Village Dharamkundi Hoshngabad</address>
-    <contact>2147483647</contact>
-    <micrCode>461751510</micrCode>
-    <ifscCode>IDFB0041107</ifscCode>
-    <bankLoc>10631</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pagdhal Branch</name>
-    <city>Pagdhal</city>
-    <address>36ka Main Timarni Road Gram Pagdhal 24 Tehsil Seoni Malwa DISTT. Hoshangabad Madhya Pradesh461223</address>
-    <contact>2147483647</contact>
-    <micrCode>461751507</micrCode>
-    <ifscCode>IDFB0041106</ifscCode>
-    <bankLoc>10637</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Seoni Malwa  Branch</name>
-    <city>Seoni Malwa</city>
-    <address>Ground Floor Main Roadseoni Malwa DISTT. Hoshangabad Madhya Pradesh461990</address>
-    <contact>2147483647</contact>
-    <micrCode>461751501</micrCode>
-    <ifscCode>IDFB0041105</ifscCode>
-    <bankLoc>10640</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bankhedi Branch</name>
-    <city>Bankhedi</city>
-    <address>Ground Floor BY Pass Tigadda Pipariya Road Bankhedi DISTT. Hoshangabad Madhya Pradesh461990</address>
-    <contact>2147483647</contact>
-    <micrCode>461751502</micrCode>
-    <ifscCode>IDFB0041103</ifscCode>
-    <bankLoc>10626</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Pipariya  Branch</name>
-    <city>Pipariya</city>
-    <address>Ground Floor IN Front OF RNA School Shobhapur Road Pipariya DISTT. Hoshangabad Madhya Pradesh461775</address>
-    <contact>2147483647</contact>
-    <micrCode>461751301</micrCode>
-    <ifscCode>IDFB0041102</ifscCode>
-    <bankLoc>10638</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sonkheda Branch</name>
-    <city>Sonkheda</city>
-    <address>Ground Floor Ward NO.10 Bazaar Mohalla Village Sonkheda Tehsil Itarsi DISTT. Hoshangabad Madhya Pradesh461111</address>
-    <contact>2147483647</contact>
-    <micrCode>461751505</micrCode>
-    <ifscCode>IDFB0041101</ifscCode>
-    <bankLoc>10641</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ahmedabad C.G. Road</name>
-    <city>Ahmedabad</city>
-    <address>SUN Square, T.P 20, Besides Nest, OFF C.G Road, Ahmedabad 380006</address>
-    <contact>66216300</contact>
-    <micrCode>380751001</micrCode>
-    <ifscCode>IDFB0040301</ifscCode>
-    <bankLoc>10617</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Fort Branch</name>
-    <city>Mumbai</city>
-    <address>312, D N Road, Fort, Mumbai, Maharashtra, 400001</address>
-    <contact>2147483647</contact>
-    <micrCode>400751006</micrCode>
-    <ifscCode>IDFB0040106</ifscCode>
-    <bankLoc>10645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Breach Candy Branch</name>
-    <city>Mumbai</city>
-    <address>Shop NO. 1, Tirupati Apartments, Bhulabhai Desai Road, Mumbai, Maharashtra, 400026</address>
-    <contact>2147483647</contact>
-    <micrCode>400751007</micrCode>
-    <ifscCode>IDFB0040105</ifscCode>
-    <bankLoc>10645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Chembur Branch</name>
-    <city>Mumbai</city>
-    <address>Glamcent, GF &amp; 1ST Floor, 350, Central Avenue Road, Chembur, Mumbai, 400071</address>
-    <contact>2147483647</contact>
-    <micrCode>400751005</micrCode>
-    <ifscCode>IDFB0040104</ifscCode>
-    <bankLoc>10645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Vashi, Sector - Seventeen Branch</name>
-    <city>Navi Mumbai</city>
-    <address>Goodwill Excellency, Plot NO. 02, Sector - 17, Vashi, Navi Mumbai, 400705.</address>
-    <contact>2147483647</contact>
-    <micrCode>400751004</micrCode>
-    <ifscCode>IDFB0040103</ifscCode>
-    <bankLoc>10647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Prabhdevi Branch</name>
-    <city>Mumbai</city>
-    <address>Sane Guruji Premise CO-OP. Society Ltd, Block NO. 5, Ground Floor, 386, Veer Savarka Marg, Prabhdevi, Mumbai - 400025</address>
-    <contact>2147483647</contact>
-    <micrCode>400751003</micrCode>
-    <ifscCode>IDFB0040102</ifscCode>
-    <bankLoc>10645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bkc-naman Chambers Branch</name>
-    <city>Mumbai</city>
-    <address>Ground Floor Naman Chambers, C-32, G-block, Bandra-kurla Complex, Bandra East, Mumbai 400051</address>
-    <contact>71325499</contact>
-    <micrCode>400751002</micrCode>
-    <ifscCode>IDFB0040101</ifscCode>
-    <bankLoc>10645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Gurgaon  - Golf Course Road Branch</name>
-    <city>Gurgaon</city>
-    <address>ONE Horizon Centre, GF &amp; Plaza, Golf Course Road, Sector-43, Gurgaon, Haryana-122003</address>
-    <contact>2147483647</contact>
-    <micrCode>110751002</micrCode>
-    <ifscCode>IDFB0021001</ifscCode>
-    <bankLoc>10618</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Noida</name>
-    <city>Noida</city>
-    <address>G-61 &amp; G-62, Sector-18, District - Gautam Buddha Nagar - Noida Uttar Pradesh - 201301</address>
-    <contact>2147483647</contact>
-    <micrCode>110751004</micrCode>
-    <ifscCode>IDFB0020151</ifscCode>
-    <bankLoc>10652</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>NEW Friends Colony Branch</name>
-    <city>NEW Delhi</city>
-    <address>Bhalla Sadan, 15, Community Centre, NEW Friends Colony, NEW Delhi, 110025</address>
-    <contact>2147483647</contact>
-    <micrCode>110751003</micrCode>
-    <ifscCode>IDFB0020102</ifscCode>
-    <bankLoc>10616</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Barakhamba Road</name>
-    <city>NEW Delhi</city>
-    <address>Soodh &amp; Birlatowers, 4TH Floor East Tower &amp; LGF West Tower, Barakhamba Road, NEW Delhi -110001</address>
-    <contact>66712000</contact>
-    <micrCode>110751001</micrCode>
-    <ifscCode>IDFB0020101</ifscCode>
-    <bankLoc>10616</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Accounts Payable HUB</name>
-    <city>Thane</city>
-    <address>Idfc Bank LTD. 8 Floor Building NO. 1 Airoli West Gigaplex Landmark Opposite  Igate Plot NO. 5 It-5 Midc Knowledge Park  Corridor Airoli Navi Mumbai</address>
-    <contact>71325499</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010213</ifscCode>
-    <bankLoc>10647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Clearing HUB Mumbai</name>
-    <city>Mumbai</city>
-    <address>Ramon House 69 HT Parekh Marg Churchgate Mumbai 400002</address>
-    <contact>71325499</contact>
-    <micrCode>400751001</micrCode>
-    <ifscCode>IDFB0010209</ifscCode>
-    <bankLoc>10645</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Retail Cpursys</name>
+    <name>Internet Bankingcpu</name>
     <city>Thane</city>
     <address>Idfc Bank LTD.8TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
     <contact>71325499</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010208</ifscCode>
-    <bankLoc>10647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Wholesale Cpubsmart</name>
-    <city>Thane</city>
-    <address>Idfc Bank LTD.8TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
-    <contact>71325499</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010207</ifscCode>
-    <bankLoc>10647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rural CPU Nova</name>
-    <city>Thane</city>
-    <address>Idfc Bank LTD.7TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
-    <contact>71325499</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010206</ifscCode>
-    <bankLoc>10647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Trade Finance Cputi</name>
-    <city>Thane</city>
-    <address>Idfc Bank LTD.7TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
-    <contact>71325499</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010205</ifscCode>
-    <bankLoc>10647</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>CMS HUB</name>
-    <city>Thane</city>
-    <address>Idfc Bank LTD.7TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
-    <contact>71325499</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010204</ifscCode>
-    <bankLoc>10647</bankLoc>
+    <ifscCode>IDFB0010201</ifscCode>
+    <bankLoc>10420</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Treasury CPU</name>
@@ -726,15 +15,735 @@
     <contact>71325499</contact>
     <micrCode>NA</micrCode>
     <ifscCode>IDFB0010202</ifscCode>
-    <bankLoc>10645</bankLoc>
+    <bankLoc>10418</bankLoc>
   </bankbranch>
   <bankbranch>
-    <name>Internet Bankingcpu</name>
+    <name>CMS HUB</name>
+    <city>Thane</city>
+    <address>Idfc Bank LTD.7TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
+    <contact>71325499</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>IDFB0010204</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Trade Finance Cputi</name>
+    <city>Thane</city>
+    <address>Idfc Bank LTD.7TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
+    <contact>71325499</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>IDFB0010205</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rural CPU Nova</name>
+    <city>Thane</city>
+    <address>Idfc Bank LTD.7TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
+    <contact>71325499</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>IDFB0010206</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Wholesale Cpubsmart</name>
     <city>Thane</city>
     <address>Idfc Bank LTD.8TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
     <contact>71325499</contact>
     <micrCode>NA</micrCode>
-    <ifscCode>IDFB0010201</ifscCode>
-    <bankLoc>10647</bankLoc>
+    <ifscCode>IDFB0010207</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Retail Cpursys</name>
+    <city>Thane</city>
+    <address>Idfc Bank LTD.8TH Floor, Building NO.1, Airoli West Gigaplex, Landmarkopposite Igate, Plot NO.IT5, Midc Knowledge Corridor, Airoli, Navi Mumbai 400708</address>
+    <contact>71325499</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>IDFB0010208</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Clearing HUB Mumbai</name>
+    <city>Mumbai</city>
+    <address>Ramon House 69 HT Parekh Marg Churchgate Mumbai 400002</address>
+    <contact>71325499</contact>
+    <micrCode>400751001</micrCode>
+    <ifscCode>IDFB0010209</ifscCode>
+    <bankLoc>10418</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Accounts Payable HUB</name>
+    <city>Thane</city>
+    <address>Idfc Bank LTD. 8 Floor Building NO. 1 Airoli West Gigaplex Landmark Opposite  Igate Plot NO. 5 It-5 Midc Knowledge Park  Corridor Airoli Navi Mumbai</address>
+    <contact>71325499</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>IDFB0010213</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Barakhamba Road</name>
+    <city>NEW Delhi</city>
+    <address>Soodh &amp; Birlatowers, 4TH Floor East Tower &amp; LGF West Tower, Barakhamba Road, NEW Delhi -110001</address>
+    <contact>66712000</contact>
+    <micrCode>110751001</micrCode>
+    <ifscCode>IDFB0020101</ifscCode>
+    <bankLoc>10389</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Friends Colony Branch</name>
+    <city>NEW Delhi</city>
+    <address>Bhalla Sadan, 15, Community Centre, NEW Friends Colony, NEW Delhi, 110025</address>
+    <contact>2147483647</contact>
+    <micrCode>110751003</micrCode>
+    <ifscCode>IDFB0020102</ifscCode>
+    <bankLoc>10389</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Noida</name>
+    <city>Noida</city>
+    <address>G-61 &amp; G-62, Sector-18, District - Gautam Buddha Nagar - Noida Uttar Pradesh - 201301</address>
+    <contact>2147483647</contact>
+    <micrCode>110751004</micrCode>
+    <ifscCode>IDFB0020151</ifscCode>
+    <bankLoc>10425</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gurgaon  - Golf Course Road Branch</name>
+    <city>Gurgaon</city>
+    <address>ONE Horizon Centre, GF &amp; Plaza, Golf Course Road, Sector-43, Gurgaon, Haryana-122003</address>
+    <contact>2147483647</contact>
+    <micrCode>110751002</micrCode>
+    <ifscCode>IDFB0021001</ifscCode>
+    <bankLoc>10391</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bkc-naman Chambers Branch</name>
+    <city>Mumbai</city>
+    <address>Ground Floor Naman Chambers, C-32, G-block, Bandra-kurla Complex, Bandra East, Mumbai 400051</address>
+    <contact>71325499</contact>
+    <micrCode>400751002</micrCode>
+    <ifscCode>IDFB0040101</ifscCode>
+    <bankLoc>10418</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Prabhdevi Branch</name>
+    <city>Mumbai</city>
+    <address>Sane Guruji Premise CO-OP. Society Ltd, Block NO. 5, Ground Floor, 386, Veer Savarka Marg, Prabhdevi, Mumbai - 400025</address>
+    <contact>2147483647</contact>
+    <micrCode>400751003</micrCode>
+    <ifscCode>IDFB0040102</ifscCode>
+    <bankLoc>10418</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vashi, Sector - Seventeen Branch</name>
+    <city>Navi Mumbai</city>
+    <address>Goodwill Excellency, Plot NO. 02, Sector - 17, Vashi, Navi Mumbai, 400705.</address>
+    <contact>2147483647</contact>
+    <micrCode>400751004</micrCode>
+    <ifscCode>IDFB0040103</ifscCode>
+    <bankLoc>10420</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chembur Branch</name>
+    <city>Mumbai</city>
+    <address>Glamcent, GF &amp; 1ST Floor, 350, Central Avenue Road, Chembur, Mumbai, 400071</address>
+    <contact>2147483647</contact>
+    <micrCode>400751005</micrCode>
+    <ifscCode>IDFB0040104</ifscCode>
+    <bankLoc>10418</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Breach Candy Branch</name>
+    <city>Mumbai</city>
+    <address>Shop NO. 1, Tirupati Apartments, Bhulabhai Desai Road, Mumbai, Maharashtra, 400026</address>
+    <contact>2147483647</contact>
+    <micrCode>400751007</micrCode>
+    <ifscCode>IDFB0040105</ifscCode>
+    <bankLoc>10418</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Fort Branch</name>
+    <city>Mumbai</city>
+    <address>312, D N Road, Fort, Mumbai, Maharashtra, 400001</address>
+    <contact>2147483647</contact>
+    <micrCode>400751006</micrCode>
+    <ifscCode>IDFB0040106</ifscCode>
+    <bankLoc>10418</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ahmedabad C.G. Road</name>
+    <city>Ahmedabad</city>
+    <address>SUN Square, T.P 20, Besides Nest, OFF C.G Road, Ahmedabad 380006</address>
+    <contact>66216300</contact>
+    <micrCode>380751001</micrCode>
+    <ifscCode>IDFB0040301</ifscCode>
+    <bankLoc>10390</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sonkheda Branch</name>
+    <city>Sonkheda</city>
+    <address>Ground Floor Ward NO.10 Bazaar Mohalla Village Sonkheda Tehsil Itarsi DISTT. Hoshangabad Madhya Pradesh461111</address>
+    <contact>2147483647</contact>
+    <micrCode>461751505</micrCode>
+    <ifscCode>IDFB0041101</ifscCode>
+    <bankLoc>10414</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pipariya  Branch</name>
+    <city>Pipariya</city>
+    <address>Ground Floor IN Front OF RNA School Shobhapur Road Pipariya DISTT. Hoshangabad Madhya Pradesh461775</address>
+    <contact>2147483647</contact>
+    <micrCode>461751301</micrCode>
+    <ifscCode>IDFB0041102</ifscCode>
+    <bankLoc>10411</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bankhedi Branch</name>
+    <city>Bankhedi</city>
+    <address>Ground Floor BY Pass Tigadda Pipariya Road Bankhedi DISTT. Hoshangabad Madhya Pradesh461990</address>
+    <contact>2147483647</contact>
+    <micrCode>461751502</micrCode>
+    <ifscCode>IDFB0041103</ifscCode>
+    <bankLoc>10399</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Seoni Malwa  Branch</name>
+    <city>Seoni Malwa</city>
+    <address>Ground Floor Main Roadseoni Malwa DISTT. Hoshangabad Madhya Pradesh461990</address>
+    <contact>2147483647</contact>
+    <micrCode>461751501</micrCode>
+    <ifscCode>IDFB0041105</ifscCode>
+    <bankLoc>10413</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pagdhal Branch</name>
+    <city>Pagdhal</city>
+    <address>36ka Main Timarni Road Gram Pagdhal 24 Tehsil Seoni Malwa DISTT. Hoshangabad Madhya Pradesh461223</address>
+    <contact>2147483647</contact>
+    <micrCode>461751507</micrCode>
+    <ifscCode>IDFB0041106</ifscCode>
+    <bankLoc>10410</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dharmkundi</name>
+    <city>Hoshangabad</city>
+    <address>Ground Floor Near BUS Stand Itarsi Road Village Dharamkundi Hoshngabad</address>
+    <contact>2147483647</contact>
+    <micrCode>461751510</micrCode>
+    <ifscCode>IDFB0041107</ifscCode>
+    <bankLoc>10404</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sangakheda Kalan</name>
+    <city>Sangakheda Kalan</city>
+    <address>Ground Floor, VILL. Sangakheda Kalan, Thehsil Babai Bada Kuan</address>
+    <contact>2147483647</contact>
+    <micrCode>461751002</micrCode>
+    <ifscCode>IDFB0041109</ifscCode>
+    <bankLoc>10404</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Timurni  Branch</name>
+    <city>Timurni</city>
+    <address>Ground &amp; First Floor Harda Road Timarni DISTT. Harda Madhya Pradesh461228</address>
+    <contact>2147483647</contact>
+    <micrCode>461751503</micrCode>
+    <ifscCode>IDFB0041111</ifscCode>
+    <bankLoc>10416</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hoshangabad Branch</name>
+    <city>Hoshangabad</city>
+    <address>Ground Floor Anand Nagar Meenakshi Road Hoshangabad Madhya Pradesh461001</address>
+    <contact>2147483647</contact>
+    <micrCode>461751001</micrCode>
+    <ifscCode>IDFB0041112</ifscCode>
+    <bankLoc>10404</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mehgwan  Branch</name>
+    <city>Mehgwan</city>
+    <address>Ground Floor Chandon Road Gram Post Mehgwan Tehsil Bankhedi DISTT. Hoshangabad Madhya Pradesh461990</address>
+    <contact>2147483647</contact>
+    <micrCode>461751506</micrCode>
+    <ifscCode>IDFB0041113</ifscCode>
+    <bankLoc>10409</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khategaon</name>
+    <city>Khategaon</city>
+    <address>Ground Floor, Khasra NO. 133/11, OPP-GOVT. College, Khategaon, DISTT. Dewas, Madhya Pradesh-455336</address>
+    <contact>2147483647</contact>
+    <micrCode>455751501</micrCode>
+    <ifscCode>IDFB0041171</ifscCode>
+    <bankLoc>10401</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhamnod</name>
+    <city>Dhamnod</city>
+    <address>Ground Floor, OLD AB Road, Opp-dhamnod City Scan Centre, Dhamnod, DISTT. Dhar, Madhya Pradesh-454552</address>
+    <contact>2147483647</contact>
+    <micrCode>454751201</micrCode>
+    <ifscCode>IDFB0041181</ifscCode>
+    <bankLoc>10402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>UDA  Branch</name>
+    <city>UDA</city>
+    <address>Ground Floor Harda Road Village UDA DISTT. Harda Madhya Pradesh461331</address>
+    <contact>2147483647</contact>
+    <micrCode>461751509</micrCode>
+    <ifscCode>IDFB0041201</ifscCode>
+    <bankLoc>10417</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tajpura  Branch</name>
+    <city>Tajpura</city>
+    <address>Ground Floor Main Road Village Tajpura Tehsil Timarni DISTT. Harda Madhya Pradesh461288</address>
+    <contact>2147483647</contact>
+    <micrCode>461751508</micrCode>
+    <ifscCode>IDFB0041202</ifscCode>
+    <bankLoc>10415</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Harda Branch</name>
+    <city>Harda</city>
+    <address>Ground Floor Indira Gandhi Ward Ward NO.10 Ghantaghar Road Oppjain Dharamshala Harda Madhya Pradesh ??461331</address>
+    <contact>2147483647</contact>
+    <micrCode>461751101</micrCode>
+    <ifscCode>IDFB0041203</ifscCode>
+    <bankLoc>10403</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khirkian Branch</name>
+    <city>Khirkian</city>
+    <address>Ground Floor Khandwa Road Oppsbs School Ward NO.11 Chipawadkhirkiya Tehsil Khirkiya District Harda Madhya Pradesh461441</address>
+    <contact>2147483647</contact>
+    <micrCode>461751504</micrCode>
+    <ifscCode>IDFB0041204</ifscCode>
+    <bankLoc>10408</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhar</name>
+    <city>Dhar</city>
+    <address>Plot NO. A-7 &amp; A-8, Survey NO. 29/2, Village Magajpura, Tehsil &amp; District Dhar, Madhya Pradesh - 454001</address>
+    <contact>2147483647</contact>
+    <micrCode>454751001</micrCode>
+    <ifscCode>IDFB0041221</ifscCode>
+    <bankLoc>10402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajgarh Dhar</name>
+    <city>Rajgarh</city>
+    <address>Ground Floor, Near Hdfc Bank Main Road, Rajgarh Dist Dhar MP - 454116</address>
+    <contact>2147483647</contact>
+    <micrCode>454751501</micrCode>
+    <ifscCode>IDFB0041222</ifscCode>
+    <bankLoc>10402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Makani</name>
+    <city>Makani</city>
+    <address>Ground Floor, Village Makani, Mahu-neemach Road, P.H. NO. 45, Tehsil Badnawar, District Dhar, Mp-456331</address>
+    <contact>955590897</contact>
+    <micrCode>456751101</micrCode>
+    <ifscCode>IDFB0041223</ifscCode>
+    <bankLoc>10402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dehriya Sarai Branch</name>
+    <city>Dhar</city>
+    <address>Survey NO 58 Mahu Neemach Road Patel Nagar Colony Village Dehariya Sarai</address>
+    <contact>2147483647</contact>
+    <micrCode>454751502</micrCode>
+    <ifscCode>IDFB0041224</ifscCode>
+    <bankLoc>10402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Badnawar Branch</name>
+    <city>Badnawar</city>
+    <address>Mandi BY Pass Road Badnawar</address>
+    <contact>2147483647</contact>
+    <micrCode>454751503</micrCode>
+    <ifscCode>IDFB0041225</ifscCode>
+    <bankLoc>10402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sanwer</name>
+    <city>Sanwer</city>
+    <address>Ground Floor, MG Road Sanwer, Sonkatch DISTT. Dewas, Madhya Pradesh - 455118</address>
+    <contact>2147483647</contact>
+    <micrCode>455751001</micrCode>
+    <ifscCode>IDFB0041241</ifscCode>
+    <bankLoc>10401</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Takipura</name>
+    <city>Takipura</city>
+    <address>Ground Floor, Near HP Petrol Pump Betma Road, Takipura Tehsil Depalpur, District Indore, MP - 453220</address>
+    <contact>2147483647</contact>
+    <micrCode>452751001</micrCode>
+    <ifscCode>IDFB0041261</ifscCode>
+    <bankLoc>10405</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Indore - Bijalpur Branch</name>
+    <city>Indore</city>
+    <address>Ground Floor, H. NO. 969, Village Bijalpur, Tehshil AND District Indore, Madhya Pradesh - 452012</address>
+    <contact>2147483647</contact>
+    <micrCode>452751003</micrCode>
+    <ifscCode>IDFB0041262</ifscCode>
+    <bankLoc>10405</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Budhi Barlai Branch</name>
+    <city>Budhi Barlai</city>
+    <address>Ground Floor 1005 Village Budhi Barlai, Shipra</address>
+    <contact>2147483647</contact>
+    <micrCode>452751002</micrCode>
+    <ifscCode>IDFB0041263</ifscCode>
+    <bankLoc>10405</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chhanera Branch</name>
+    <city>Chhanera</city>
+    <address>Khasra NO. 1632 WAR NO.10 Station Road Chhnera NEW Harsud District Khandwa Madhya Pradesh450116</address>
+    <contact>2147483647</contact>
+    <micrCode>450751501</micrCode>
+    <ifscCode>IDFB0041301</ifscCode>
+    <bankLoc>10406</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khandwa Branch</name>
+    <city>Khandwa</city>
+    <address>Unit NO. 1 2 19 20 21 &amp; 22 Upper Ground Floor Landmark ONE Mall Ward NO.26 PLOT. NO.104 &amp; 105 Pandhana Road Khandwa Madhya Pradesh450001</address>
+    <contact>2147483647</contact>
+    <micrCode>450751101</micrCode>
+    <ifscCode>IDFB0041302</ifscCode>
+    <bankLoc>10406</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pandhana Branch</name>
+    <city>Pandhana</city>
+    <address>Ground Floor Ward NO.14 Diwal Road Near Church DISTT. Khandwa Madhya Pradesh450661</address>
+    <contact>2147483647</contact>
+    <micrCode>450751502</micrCode>
+    <ifscCode>IDFB0041303</ifscCode>
+    <bankLoc>10406</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Idfc Bank LTD</name>
+    <city>Khargone</city>
+    <address>Khasra NO 260/1/2, Ground Floor, Navalpura Maheshwar Road, Opp- Laxmi Narayan Colony, Village Ladvi, Tehsil Maheshwar, Distt Khargone, Madhya Pradesh-451221</address>
+    <contact>2147483647</contact>
+    <micrCode>451751501</micrCode>
+    <ifscCode>IDFB0041321</ifscCode>
+    <bankLoc>10407</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sanawad</name>
+    <city>Sanawad</city>
+    <address>Ground Floor, 411, Indore Road, Opp-indian OIL Petrol Pump, Sanawad, DISTT. Khargone, Madhya Pradesh, - 451111</address>
+    <contact>2147483647</contact>
+    <micrCode>451751201</micrCode>
+    <ifscCode>IDFB0041322</ifscCode>
+    <bankLoc>10407</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sirlai</name>
+    <city>Sirlai</city>
+    <address>Ground Floor, MG Road, Ground Floor, Main Road, Sirlai Village, Tehsil Barwah, DISTT. Khargone, Madhya Pradesh - 451115</address>
+    <contact>2147483647</contact>
+    <micrCode>451751503</micrCode>
+    <ifscCode>IDFB0041323</ifscCode>
+    <bankLoc>10407</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhikangaon</name>
+    <city>Bhikangaon</city>
+    <address>Survey NO. 24/5, Ground &amp; Upper Ground, Street NO.15, Plot NO. 10, Opp, BUS Stand, Town Bhikangaon, Tehsil Bhikangaon, DISTT. Khargone, Madhya Pradesh - 451331</address>
+    <contact>2147483647</contact>
+    <micrCode>451751502</micrCode>
+    <ifscCode>IDFB0041324</ifscCode>
+    <bankLoc>10407</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khargone</name>
+    <city>Khargone</city>
+    <address>Shop NO. C-14 Radha Vallabh MKT Khargone, DISTT. Khargone, Madhya Pradesh - 451224</address>
+    <contact>2147483647</contact>
+    <micrCode>451751001</micrCode>
+    <ifscCode>IDFB0041325</ifscCode>
+    <bankLoc>10407</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pune Bund Garden Road</name>
+    <city>Pune</city>
+    <address>Amar Avinash Corporate City, 3RD Floor, Bund Garden Road, Pune 411001</address>
+    <contact>66483000</contact>
+    <micrCode>411751002</micrCode>
+    <ifscCode>IDFB0041351</ifscCode>
+    <bankLoc>10419</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhopal Raisen Road Branch</name>
+    <city>Bhopal</city>
+    <address>Ground Floor, 6B, Govind Garden, Opposite Vidyut Nagar, Raisen Road, Bhopal</address>
+    <contact>2147483647</contact>
+    <micrCode>462751001</micrCode>
+    <ifscCode>IDFB0041381</ifscCode>
+    <bankLoc>10400</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandideep Branch</name>
+    <city>Mandideep</city>
+    <address>Plot 14 Near Jain Mandir  Mandideep Raisen</address>
+    <contact>2147483647</contact>
+    <micrCode>462751002</micrCode>
+    <ifscCode>IDFB0042101</ifscCode>
+    <bankLoc>10412</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolkata Ballygunge Circular Road</name>
+    <city>Kolkata</city>
+    <address>64B 1ST Floor Ballygunge Circular Road Kolkata 700019</address>
+    <contact>66390700</contact>
+    <micrCode>700751002</micrCode>
+    <ifscCode>IDFB0060101</ifscCode>
+    <bankLoc>10426</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shillong Branch</name>
+    <city>Shillong</city>
+    <address>VN Hardware Building, Demeseiniong, Laithumkra, Opposite Neepco Office, East Shillong, Meghalaya 793011</address>
+    <contact>2147483647</contact>
+    <micrCode>793751002</micrCode>
+    <ifscCode>IDFB0060201</ifscCode>
+    <bankLoc>10421</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Agartala Branch</name>
+    <city>Agartala</city>
+    <address>House NO. 130460, Ward NO. 13, TG Road, Krishna Nagar, Shanker Chowmuhani, Agartala Tripura (W) 799001</address>
+    <contact>2147483647</contact>
+    <micrCode>799751002</micrCode>
+    <ifscCode>IDFB0060221</ifscCode>
+    <bankLoc>10424</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai R.K.SALAI</name>
+    <city>Chennai</city>
+    <address>DBS Westminister, 108, R.K.SALAI, 3RD Floor, Chennai 600 004</address>
+    <contact>66145000</contact>
+    <micrCode>600751001</micrCode>
+    <ifscCode>IDFB0080101</ifscCode>
+    <bankLoc>10422</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nungambakkam Branch</name>
+    <city>Chennai</city>
+    <address>GF&amp; 1 Floor Tahera Manor Nungambakkam High Road Chennai 600034</address>
+    <contact>2147483647</contact>
+    <micrCode>600751002</micrCode>
+    <ifscCode>IDFB0080102</ifscCode>
+    <bankLoc>10422</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore Residency Road</name>
+    <city>Bangalore</city>
+    <address>Residency Building Plot NO 79 Residency Road Richmond Town Bangalore</address>
+    <contact>67943000</contact>
+    <micrCode>560751002</micrCode>
+    <ifscCode>IDFB0080151</ifscCode>
+    <bankLoc>10393</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hyderabad Jubilee Town</name>
+    <city>Hyderabad</city>
+    <address>Jubilee Town, Plot NO 1130 A, Road NO 36, Jubilee Hills, Hyderabad, Telangana 500033</address>
+    <contact>67383000</contact>
+    <micrCode>500751002</micrCode>
+    <ifscCode>IDFB0080201</ifscCode>
+    <bankLoc>10423</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chikkodi Branch</name>
+    <city>Chikkodi</city>
+    <address>Chavan Plaza, -1, R K Colony, Near Govt Hospital, Chikodi, Belgavi District, Karnataka- 591201</address>
+    <contact>2147483647</contact>
+    <micrCode>591751202</micrCode>
+    <ifscCode>IDFB0080251</ifscCode>
+    <bankLoc>10394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gokak  Branch</name>
+    <city>Gokak</city>
+    <address>3195-b/ 3/1d, Hospet Galli, Anand Talkies Road, Gokak, Dist-belagavi, Karnataka-591307</address>
+    <contact>2147483647</contact>
+    <micrCode>591751502</micrCode>
+    <ifscCode>IDFB0080252</ifscCode>
+    <bankLoc>10394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Honaga Branch</name>
+    <city>Honaga</city>
+    <address>821/1069, PB Road, Honaga, Belgaum, Karnataka- 591156</address>
+    <contact>2147483647</contact>
+    <micrCode>590751501</micrCode>
+    <ifscCode>IDFB0080253</ifscCode>
+    <bankLoc>10394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ramdurga Branch</name>
+    <city>Ramdurga</city>
+    <address>House NO. 82/a, Navi Peth PO, Ramdurga Taluka, Belgaum District, Karnataka- 591123</address>
+    <contact>2147483647</contact>
+    <micrCode>591751052</micrCode>
+    <ifscCode>IDFB0080254</ifscCode>
+    <bankLoc>10394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Muchandi Branch</name>
+    <city>Muchandi</city>
+    <address>Ground Floor, 620, C/0 Balaram Fakira Motari, Bhagyalakshmi Nivas, Gokul Nagar, Gokak Road, Post Muchandi, Belgaum, 16 Karnataka - 590016</address>
+    <contact>2147483647</contact>
+    <micrCode>590751502</micrCode>
+    <ifscCode>IDFB0080255</ifscCode>
+    <bankLoc>10394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Belgaum Branch</name>
+    <city>Belgaum</city>
+    <address>First Floor, Aadishakti Towers, CTS NO.5650, Survey NO.236/2, Khanpur Road, Goaves, Karnataka State, 590003</address>
+    <contact>2147483647</contact>
+    <micrCode>590751002</micrCode>
+    <ifscCode>IDFB0080256</ifscCode>
+    <bankLoc>10394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hubballi  Branch</name>
+    <city>Hubballi</city>
+    <address>Ground Floor, H. NO.95, N Pride, Pinto Road, Desai Cross, Dharwad District, Hubballi, Karnataka- 580020</address>
+    <contact>2147483647</contact>
+    <micrCode>580751002</micrCode>
+    <ifscCode>IDFB0080281</ifscCode>
+    <bankLoc>10395</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Betadur Branch</name>
+    <city>Betadur</city>
+    <address>Betadur Post Kundgol TQ Dharwad District Karnataka 581207</address>
+    <contact>2147483647</contact>
+    <micrCode>580751501</micrCode>
+    <ifscCode>IDFB0080282</ifscCode>
+    <bankLoc>10396</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Haveri Branch</name>
+    <city>Haveri</city>
+    <address>Ground Floor, Vidyanagar, A Block, 3RD Cross, Haveri, PB Road, Haveri - 581110, Karnataka State</address>
+    <contact>2147483647</contact>
+    <micrCode>581751052</micrCode>
+    <ifscCode>IDFB0080301</ifscCode>
+    <bankLoc>10397</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Makarvali  Branch</name>
+    <city>Makaravali</city>
+    <address>Ground Floor, Sirsi Shimoga Highway Road, Makaravali, Haveri District, Karnataka- 581110</address>
+    <contact>2147483647</contact>
+    <micrCode>581751501</micrCode>
+    <ifscCode>IDFB0080302</ifscCode>
+    <bankLoc>10397</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shiggaon Branch</name>
+    <city>Shiggaon</city>
+    <address>Ground Floor, Kursapur Complex, Shiggaon, Haveri District, Karnataka - 581205</address>
+    <contact>2147483647</contact>
+    <micrCode>581751502</micrCode>
+    <ifscCode>IDFB0080303</ifscCode>
+    <bankLoc>10397</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ranebennur Branch</name>
+    <city>Ranebennur</city>
+    <address>Devi Heights, Ground Floor, OPP Keb, PB Road, Ranebennur, Haveri District, Karnataka State</address>
+    <contact>2147483647</contact>
+    <micrCode>581751102</micrCode>
+    <ifscCode>IDFB0080304</ifscCode>
+    <bankLoc>10397</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jamkhandi Branch</name>
+    <city>Jamkhandi</city>
+    <address>Ground Floor, Laskari Complex, Maigur Road, Bagalkot District Jamkhandi, Karnataka - 587301</address>
+    <contact>2147483647</contact>
+    <micrCode>587751302</micrCode>
+    <ifscCode>IDFB0080331</ifscCode>
+    <bankLoc>10392</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mudhol Branch</name>
+    <city>Mudhol</city>
+    <address>Ground Floor, NO.4026A/149, Yadawad Road, Sidrameshwar Nagar, OPP. PWD IB, Mudhol, Bagalkote, Karnataka</address>
+    <contact>2147483647</contact>
+    <micrCode>587751102</micrCode>
+    <ifscCode>IDFB0080332</ifscCode>
+    <bankLoc>10392</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koppal Branch</name>
+    <city>Koppal</city>
+    <address>Ground Floor, Basava Complex, OPP Hdfc Bank, Hospet - Hubli Road, Hudco Colony, Koppal, Karnataka - 583231</address>
+    <contact>2147483647</contact>
+    <micrCode>583751402</micrCode>
+    <ifscCode>IDFB0080351</ifscCode>
+    <bankLoc>10398</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gangawati Branch</name>
+    <city>Gangawati</city>
+    <address>Ground Floor, Julai Nagar, Indira Circle, Gangawati, Karnataka - 583227</address>
+    <contact>2147483647</contact>
+    <micrCode>583751302</micrCode>
+    <ifscCode>IDFB0080352</ifscCode>
+    <bankLoc>10398</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kushtagi Branch</name>
+    <city>Kushtagi</city>
+    <address>Ground Floor, Illahi Complex, MA NO.5953, Plot NO. 1 OF SY 104 Murudi Bhimaja Circle, Koppal Road, Karnataka, 584121</address>
+    <contact>2147483647</contact>
+    <micrCode>583751403</micrCode>
+    <ifscCode>IDFB0080353</ifscCode>
+    <bankLoc>10398</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guntur Branch</name>
+    <city>Guntur</city>
+    <address>First Floor, BG Arcade, Nagaram Palem Main Road, Next TO Alankar Function Hall, Guntur, Andhra Pradesh, 522004</address>
+    <contact>0</contact>
+    <micrCode>520751102</micrCode>
+    <ifscCode>IDFB0080381</ifscCode>
+    <bankLoc>10387</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijaywada Branch</name>
+    <city>Vijaywada</city>
+    <address>First Floor, Madhusree Building, 61-3/1-12, Service Road, Nh-5, Krishna District, Balaji Nagar, Andhra Pradesh</address>
+    <contact>2147483647</contact>
+    <micrCode>520751002</micrCode>
+    <ifscCode>IDFB0080391</ifscCode>
+    <bankLoc>10388</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajahmundry Branch</name>
+    <city>Rajahmundry</city>
+    <address>Ground Floor, 79-02-03, Tilak Road, Prasanti Estates, V L Puram, Rajahmundry, Andhrapradesh-533103</address>
+    <contact>2147483647</contact>
+    <micrCode>533751102</micrCode>
+    <ifscCode>IDFB0080401</ifscCode>
+    <bankLoc>10386</bankLoc>
   </bankbranch>
 </bankBranchs>

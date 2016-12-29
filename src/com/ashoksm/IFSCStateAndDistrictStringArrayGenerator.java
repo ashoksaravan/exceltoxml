@@ -202,6 +202,9 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Deogiri Nagari Sahakari Bank Ltd. Aurangabad");
 		BANK_NAMES.add("Maharashtra Gramin Bank");
 		BANK_NAMES.add("PT Bank Maybank Indonesia TBK");
+		BANK_NAMES.add("Airtel Payments Bank Ltd");
+		BANK_NAMES.add("Equitas Small Finance Bank Ltd");
+		BANK_NAMES.add("Idukki District Co Operative Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {
