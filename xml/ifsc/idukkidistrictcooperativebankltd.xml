@@ -1,488 +1,920 @@
 <bankBranchs>
   <bankbranch>
     <name>Head Office</name>
+<<<<<<< HEAD
     <city>Head Office</city>
+=======
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Head Office, Idukki, P.B.NO.2, Idukki Colony P.O.PIN 685 602</address>
     <contact>235292</contact>
     <micrCode>NA</micrCode>
     <ifscCode>IDUK0000055</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Marayoor</name>
     <city>Marayoor</city>
+=======
+    <bankLoc>26365</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Marayoor</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Marayoor Branch, Marayoor P.O.PIN 685 620</address>
     <contact>2147483647</contact>
     <micrCode>685818107</micrCode>
     <ifscCode>IDUK0000054</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattappana Town</name>
     <city>Kattappana Town</city>
+=======
+    <bankLoc>26383</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kattappana Town</name>
+    <city>Idduki</city>
+>>>>>>> origin/master
     <address>Kattappana Town</address>
     <contact>2147483647</contact>
     <micrCode>685818217</micrCode>
     <ifscCode>IDUK0000053</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11640</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nedumkandam Town</name>
     <city>Nedumkandam Town</city>
+=======
+    <bankLoc>26375</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nedumkandam Town</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Nedumkandom Town Branch, Nedumkandom P.O, PIN 685 553</address>
     <contact>2147483647</contact>
     <micrCode>685818056</micrCode>
     <ifscCode>IDUK0000052</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Irumpupalam</name>
     <city>Irumpupalam</city>
+=======
+    <bankLoc>26391</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Irumpupalam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Irumpupalam Branch, Valara P.O.PIN 685 561</address>
     <contact>2147483647</contact>
     <micrCode>685818016</micrCode>
     <ifscCode>IDUK0000051</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattayamkavala</name>
     <city>Pattayamkavala</city>
+=======
+    <bankLoc>26366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pattayamkavala</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Pattayamkavala Branch, Muthalakodam P.O.PIN 685 605</address>
     <contact>2147483647</contact>
     <micrCode>685818161</micrCode>
     <ifscCode>IDUK0000050</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vengalloor</name>
     <city>Vengalloor</city>
+=======
+    <bankLoc>26393</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vengalloor</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Vengalloor Branch, Vengalloor P.O, PIN 685 608</address>
     <contact>2147483647</contact>
     <micrCode>685818017</micrCode>
     <ifscCode>IDUK0000049</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Labbakkada</name>
     <city>Labbakkada</city>
+=======
+    <bankLoc>26411</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Labbakkada</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Labbakada Branch, Kalthotty P.O, PIN 685 507</address>
     <contact>2147483647</contact>
     <micrCode>685818216</micrCode>
     <ifscCode>IDUK0000048</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thopramkudy</name>
     <city>Thopramkudy</city>
+=======
+    <bankLoc>26380</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thopramkudy</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Thopramkudy Branch, Thopramkudy P.O, PIN 685 515</address>
     <contact>2147483647</contact>
     <micrCode>685818055</micrCode>
     <ifscCode>IDUK0000047</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neyyassery</name>
     <city>Neyyassery</city>
+=======
+    <bankLoc>26402</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Neyyassery</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Neyyassery Branch, Neyyassery P.O, PIN 685 581</address>
     <contact>2147483647</contact>
     <micrCode>685818015</micrCode>
     <ifscCode>IDUK0000046</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Velliamattom</name>
     <city>Velliamattom</city>
+=======
+    <bankLoc>26392</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Velliamattom</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Velliamattom Branch, Pannimattam P.O, PIN 685 588</address>
     <contact>2147483647</contact>
     <micrCode>685818014</micrCode>
     <ifscCode>IDUK0000045</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adimaly Evening</name>
     <city>Adimaly Evening</city>
+=======
+    <bankLoc>26410</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Adimaly Evening</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Adimali Evening Branch, Adimali P.O, PIN 685 561</address>
     <contact>2147483647</contact>
     <micrCode>685818160</micrCode>
     <ifscCode>IDUK0000044</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangattukavala</name>
     <city>Mangattukavala</city>
+=======
+    <bankLoc>26360</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mangattukavala</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Mangattukavala Branch, Thodupuzha East P.O, PIN 685 585</address>
     <contact>2147483647</contact>
     <micrCode>685818005</micrCode>
     <ifscCode>IDUK0000043</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>West Kodikulam</name>
     <city>West Kodikulam</city>
+=======
+    <bankLoc>26381</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>West Kodikulam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>West Kodikkulam Branch, Kodikulam P.O, PIN 685 582</address>
     <contact>2147483647</contact>
     <micrCode>685818013</micrCode>
     <ifscCode>IDUK0000042</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Munnar EVG</name>
     <city>Munnar EVG</city>
+=======
+    <bankLoc>26412</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Munnar EVG</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Munnar Evening Branch, Munnar P.O, PIN 685 612</address>
     <contact>2147483647</contact>
     <micrCode>685818106</micrCode>
     <ifscCode>IDUK0000041</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vattavada</name>
     <city>Vattavada</city>
+=======
+    <bankLoc>26387</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vattavada</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Vattavada Branch, Koviloor P.O, PIN 685 615</address>
     <contact>2147483647</contact>
     <micrCode>685818105</micrCode>
     <ifscCode>IDUK0000040</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pooppara</name>
     <city>Pooppara</city>
+=======
+    <bankLoc>26407</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pooppara</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Pooppara Extension Counter, Pooppara P.O, PIN 685 619</address>
     <contact>2147483647</contact>
     <micrCode>685818104</micrCode>
     <ifscCode>IDUK0000039</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mankulam</name>
     <city>Mankulam</city>
+=======
+    <bankLoc>26394</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mankulam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Mankulam Branch, Mankulam P.O, PIN 685 565</address>
     <contact>2147483647</contact>
     <micrCode>685818159</micrCode>
     <ifscCode>IDUK0000038</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuttikkanam</name>
     <city>Kuttikkanam</city>
+=======
+    <bankLoc>26382</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kuttikkanam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kuttikkanam Branch, Kuttikkanam P.O, PIN 685 531</address>
     <contact>2147483647</contact>
     <micrCode>685818215</micrCode>
     <ifscCode>IDUK0000037</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjar</name>
     <city>Kanjar</city>
+=======
+    <bankLoc>26379</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanjar</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kanjar Branch, Kanjar P.O, PIN 685 592</address>
     <contact>2147483647</contact>
     <micrCode>685818012</micrCode>
     <ifscCode>IDUK0000036</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajakumary</name>
     <city>Rajakumary</city>
+=======
+    <bankLoc>26369</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajakumary</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Rajakumary Branch, Rajakumary South P.O, PIN 685 619</address>
     <contact>2147483647</contact>
     <micrCode>685818158</micrCode>
     <ifscCode>IDUK0000035</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheruthony</name>
     <city>Cheruthony</city>
+=======
+    <bankLoc>26396</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Cheruthony</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Cheruthony Extension Counter, Idukki Colony P.O, PIN 685 602</address>
     <contact>2147483647</contact>
     <micrCode>685818214</micrCode>
     <ifscCode>IDUK0000034</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karimannoor</name>
     <city>Karimannoor</city>
+=======
+    <bankLoc>26363</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karimannoor</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Karimannoor Branch, Karimannoor P.O, PIN 685 581</address>
     <contact>2147483647</contact>
     <micrCode>685818011</micrCode>
     <ifscCode>IDUK0000033</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodupuzha Town</name>
     <city>Thodupuzha Town</city>
+=======
+    <bankLoc>26371</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thodupuzha Town</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Thodupuzha Town Branch, Thodupuzha P.O, PIN 685 584</address>
     <contact>2147483647</contact>
     <micrCode>685818004</micrCode>
     <ifscCode>IDUK0000032</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thankamany</name>
     <city>Thankamany</city>
+=======
+    <bankLoc>26401</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thankamany</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Thankamany Branch, Thankamany P.O, PIN 685 609</address>
     <contact>2147483647</contact>
     <micrCode>685818213</micrCode>
     <ifscCode>IDUK0000031</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumily EVG</name>
     <city>Kumily EVG</city>
+=======
+    <bankLoc>26398</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kumily EVG</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kumily Evening Branch, Kumily P.O, PIN 685 509</address>
     <contact>2147483647</contact>
     <micrCode>685818212</micrCode>
     <ifscCode>IDUK0000030</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anakkara</name>
     <city>Anakkara</city>
+=======
+    <bankLoc>26377</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anakkara</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Anakkara Branch, Anakkara P.O, PIN 685 512</address>
     <contact>2147483647</contact>
     <micrCode>685818211</micrCode>
     <ifscCode>IDUK0000029</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chemmannar</name>
     <city>Chemmannar</city>
+=======
+    <bankLoc>26361</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chemmannar</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Chemmannar Branch, Chemmannar P.O, PIN 685 554</address>
     <contact>2147483647</contact>
     <micrCode>685818054</micrCode>
     <ifscCode>IDUK0000028</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjikuzhi</name>
     <city>Kanjikuzhi</city>
+=======
+    <bankLoc>26362</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanjikuzhi</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kanjikuzhy Branch, Idukki Kanjikuzhy P.O, PIN 685606</address>
     <contact>2147483647</contact>
     <micrCode>685818157</micrCode>
     <ifscCode>IDUK0000027</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kambilikandam</name>
     <city>Kambilikandam</city>
+=======
+    <bankLoc>26370</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kambilikandam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kambilikandom Branch, Kambilikandom P.O, PIN 685 571</address>
     <contact>2147483647</contact>
     <micrCode>685818156</micrCode>
     <ifscCode>IDUK0000026</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muttom</name>
     <city>Muttom</city>
+=======
+    <bankLoc>26368</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Muttom</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Muttom Branch, Muttom P.O, PIN 685 587</address>
     <contact>2147483647</contact>
     <micrCode>685818010</micrCode>
     <ifscCode>IDUK0000025</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elappara</name>
     <city>Elappara</city>
+=======
+    <bankLoc>26389</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Elappara</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Elappara Branch, Elappara P.O, PIN 685 501</address>
     <contact>2147483647</contact>
     <micrCode>685818210</micrCode>
     <ifscCode>IDUK0000024</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vandanmedu</name>
     <city>Vandanmedu</city>
+=======
+    <bankLoc>26364</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vandanmedu</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Vandanmedu Branch, Vandanmedu P.O, PIN 685 551</address>
     <contact>2147483647</contact>
     <micrCode>685818209</micrCode>
     <ifscCode>IDUK0000023</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajakkad</name>
     <city>Rajakkad</city>
+=======
+    <bankLoc>26405</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajakkad</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Rajakkadu Branch, Rajakkadu P.O, PIN 685 566</address>
     <contact>2147483647</contact>
     <micrCode>685818155</micrCode>
     <ifscCode>IDUK0000022</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karimkunnam</name>
     <city>Karimkunnam</city>
+=======
+    <bankLoc>26395</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karimkunnam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Karimkunnam Branch, Karimkunnam P.O, PIN 685 586</address>
     <contact>2147483647</contact>
     <micrCode>685818009</micrCode>
     <ifscCode>IDUK0000021</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Upputhara</name>
     <city>Upputhara</city>
+=======
+    <bankLoc>26372</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Upputhara</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Upputhara Branch, Upputhara P.O, PIN 685 505</address>
     <contact>2147483647</contact>
     <micrCode>685818208</micrCode>
     <ifscCode>IDUK0000020</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattappana EVG</name>
     <city>Kattappana EVG</city>
+=======
+    <bankLoc>26404</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kattappana EVG</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kattappana Evening Branch, Kattappana P.O, PIN 685 508</address>
     <contact>2147483647</contact>
     <micrCode>685818207</micrCode>
     <ifscCode>IDUK0000019</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udumbanoor</name>
     <city>Udumbanoor</city>
+=======
+    <bankLoc>26373</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Udumbanoor</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Udumbannoor Branch, Udumbannoor P.O, PIN 685 595</address>
     <contact>2147483647</contact>
     <micrCode>685818008</micrCode>
     <ifscCode>IDUK0000018</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhithala</name>
     <city>Vazhithala</city>
+=======
+    <bankLoc>26403</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vazhithala</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Vazhithala Branch, Vazhithala P.O, PIN 685 583</address>
     <contact>2147483647</contact>
     <micrCode>685818007</micrCode>
     <ifscCode>IDUK0000017</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Murickassery</name>
     <city>Murickassery</city>
+=======
+    <bankLoc>26409</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Murickassery</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Murickassery Branch, Murickassery P.O, PIN 685 604</address>
     <contact>2147483647</contact>
     <micrCode>685818154</micrCode>
     <ifscCode>IDUK0000016</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumily</name>
     <city>Kumily</city>
+=======
+    <bankLoc>26388</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kumily</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kumily Main Branch, Kumily P.O, PIN 685 509</address>
     <contact>2147483647</contact>
     <micrCode>685818206</micrCode>
     <ifscCode>IDUK0000015</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nedumkandam</name>
     <city>Nedumkandam</city>
+=======
+    <bankLoc>26376</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nedumkandam</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Nedumkandom Branch, Nedumkandom P.O, PIN 685 553</address>
     <contact>2147483647</contact>
     <micrCode>685818052</micrCode>
     <ifscCode>IDUK0000014</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santhapara</name>
     <city>Santhapara</city>
+=======
+    <bankLoc>26390</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Santhapara</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Santhanpara Branch, Santhanpara P.O, PIN 685 619</address>
     <contact>2147483647</contact>
     <micrCode>685818103</micrCode>
     <ifscCode>IDUK0000013</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunchithanni</name>
     <city>Kunchithanni</city>
+=======
+    <bankLoc>26397</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kunchithanni</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kunchithanny Branch, Kunchithanny P.O, PIN 685 565</address>
     <contact>2147483647</contact>
     <micrCode>685818153</micrCode>
     <ifscCode>IDUK0000012</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodupuzha Main</name>
     <city>Thodupuzha Main</city>
+=======
+    <bankLoc>26378</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thodupuzha Main</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Thodupuzha Main Branch, Thodupuzha P.O, PIN 685 584</address>
     <contact>2147483647</contact>
     <micrCode>685818002</micrCode>
     <ifscCode>IDUK0000011</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaliyar</name>
     <city>Kaliyar</city>
+=======
+    <bankLoc>26400</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kaliyar</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kaliyar Branch, Vannappuram P.O, PIN 685 582</address>
     <contact>2147483647</contact>
     <micrCode>685818006</micrCode>
     <ifscCode>IDUK0000010</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mundakayam East</name>
     <city>Mundakayam East</city>
+=======
+    <bankLoc>26367</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mundakayam East</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Mundakkayam East Branch, Mundakkayam East P.O, PIN 686 513</address>
     <contact>2147483647</contact>
     <micrCode>685818652</micrCode>
     <ifscCode>IDUK0000009</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mundiyeruma</name>
     <city>Mundiyeruma</city>
+=======
+    <bankLoc>26384</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mundiyeruma</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Mundiyeruma Branch, Thookkupalam, K.P.COLONY P.O, PIN 685 552</address>
     <contact>2147483647</contact>
     <micrCode>685818053</micrCode>
     <ifscCode>IDUK0000008</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhathope</name>
     <city>Vazhathope</city>
+=======
+    <bankLoc>26385</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vazhathope</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Vazhathope Branch, Thadiyampadu P.O, PIN 685 602</address>
     <contact>2147483647</contact>
     <micrCode>685818203</micrCode>
     <ifscCode>IDUK0000007</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vandiperiyar</name>
     <city>Vandiperiyar</city>
+=======
+    <bankLoc>26408</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vandiperiyar</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Vandiperiyar Branch, Vandiperiyar P.O, PIN 685 533</address>
     <contact>2147483647</contact>
     <micrCode>685818204</micrCode>
     <ifscCode>IDUK0000006</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Munnar</name>
     <city>Munnar</city>
+=======
+    <bankLoc>26406</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Munnar</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Munnar Main Branch, Munnar P.O, PIN 685 612</address>
     <contact>2147483647</contact>
     <micrCode>685818102</micrCode>
     <ifscCode>IDUK0000005</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adimaly</name>
     <city>Adimaly</city>
+=======
+    <bankLoc>26386</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Adimaly</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Adimali Main Branch, Adimali P.O, PIN 685 561</address>
     <contact>2147483647</contact>
     <micrCode>685818152</micrCode>
     <ifscCode>IDUK0000004</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattappana Main</name>
     <city>Kattappana Main</city>
+=======
+    <bankLoc>26359</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kattappana Main</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Kattappana Main Branch, Kattappana P.O, PIN 685 508</address>
     <contact>2147483647</contact>
     <micrCode>685818202</micrCode>
     <ifscCode>IDUK0000003</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodupuzha M AND E</name>
     <city>Thodupuzha M AND E</city>
+=======
+    <bankLoc>26374</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thodupuzha M AND E</name>
+    <city>Idukki</city>
+>>>>>>> origin/master
     <address>Thodupuzha M&amp;E Branch, Thodupuzha P.O, PIN 685 584</address>
     <contact>2147483647</contact>
     <micrCode>685818003</micrCode>
     <ifscCode>IDUK0000002</ifscCode>
+<<<<<<< HEAD
     <bankLoc>11641</bankLoc>
+=======
+    <bankLoc>26399</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

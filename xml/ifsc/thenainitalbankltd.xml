@@ -1,12 +1,16 @@
 <bankBranchs>
   <bankbranch>
     <name>Vikas Nagar</name>
-    <city>Vikas Nagar</city>
+    <city>Dehra DUN</city>
     <address>Main Road, Near SBI  Vikas Nagar - 248 198  Dehradoon Uttarakhand</address>
     <contact>253070</contact>
     <micrCode>248184003</micrCode>
     <ifscCode>NTBL0VIK078</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51389</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tapovan- Rishikesh</name>
@@ -15,43 +19,63 @@
     <contact>2437600</contact>
     <micrCode>249184103</micrCode>
     <ifscCode>NTBL0TAP122</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22952</bankLoc>
+=======
+    <bankLoc>51379</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tanakpur</name>
-    <city>Tanakpur</city>
+    <city>Udham Singh Nagar</city>
     <address>501/2 G.B. Pant Marg, Tanakpur-263309, (uttranchal)</address>
     <contact>265478</contact>
     <micrCode>263184095</micrCode>
     <ifscCode>NTBL0TAN095</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51386</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Srinagar</name>
-    <city>Srinagar</city>
+    <city>Garhwal</city>
     <address>Near Dalmia Dharamshala, Badrinath Road, Srinagar, 246174 Uttarakhand</address>
     <contact>250843</contact>
     <micrCode>246184902</micrCode>
     <ifscCode>NTBL0SRI083</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22948</bankLoc>
+=======
+    <bankLoc>51384</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sripur Bichwa</name>
-    <city>Sripur Bichwa</city>
+    <city>Udham Singh Nagar</city>
     <address>Sripurbichwa, U.S.NAGAR (uttarakhand)</address>
     <contact>236058</contact>
     <micrCode>262184044</micrCode>
     <ifscCode>NTBL0SRI044</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51385</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sitarganj</name>
-    <city>Sitarganj</city>
+    <city>Udham Singh Nagar</city>
     <address>Near Sbi, Kichha Road, Sitarganj, Udhamsingh Nagar  244901 (uttarakhand)</address>
     <contact>253372</contact>
     <micrCode>262184094</micrCode>
     <ifscCode>NTBL0SIT094</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51383</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sitapur</name>
@@ -60,7 +84,11 @@
     <contact>270919</contact>
     <micrCode>261184001</micrCode>
     <ifscCode>NTBL0SIT025</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22941</bankLoc>
+=======
+    <bankLoc>51337</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Shahjahanpur</name>
@@ -69,7 +97,11 @@
     <contact>223457</contact>
     <micrCode>242184002</micrCode>
     <ifscCode>NTBL0SHA020</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22940</bankLoc>
+=======
+    <bankLoc>51336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Saharanpur</name>
@@ -78,7 +110,11 @@
     <contact>2716661</contact>
     <micrCode>247184002</micrCode>
     <ifscCode>NTBL0SAH060</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22939</bankLoc>
+=======
+    <bankLoc>51335</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rudraprayag</name>
@@ -87,52 +123,76 @@
     <contact>233125</contact>
     <micrCode>246184093</micrCode>
     <ifscCode>NTBL0RUD093</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22953</bankLoc>
+=======
+    <bankLoc>51381</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rudrapur</name>
-    <city>Rudrapur</city>
+    <city>Udham Singh Nagar</city>
     <address>D1/d2/vii B, Civil Lines, Near Janta Inter College, Rudrapur</address>
     <contact>243370</contact>
     <micrCode>263184045</micrCode>
     <ifscCode>NTBL0RUD045</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51382</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Roorkee</name>
-    <city>Roorkee</city>
+    <city>Haridwar</city>
     <address>00/1, Nehru Nagar  Opposite SUB Jail Roorkee Uttarakhand</address>
     <contact>269966</contact>
     <micrCode>247184102</micrCode>
     <ifscCode>NTBL0ROO077</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22949</bankLoc>
+=======
+    <bankLoc>51380</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rishikesh</name>
-    <city>Rishikesh</city>
+    <city>Dehra DUN</city>
     <address>46/1 Tilak Road Rishikesh- 249201</address>
     <contact>2435867</contact>
     <micrCode>249184001</micrCode>
     <ifscCode>NTBL0RIS099</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51379</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ranibagh</name>
-    <city>Ranibagh</city>
+    <city>Nainital</city>
     <address>Nainital Road, Ranibagh, Nainital (uttarakhand)</address>
     <contact>267589</contact>
     <micrCode>263184034</micrCode>
     <ifscCode>NTBL0RAN034</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51377</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ranikhet</name>
-    <city>Ranikhet</city>
+    <city>Almora</city>
     <address>Ranikhet, Almora (uttarakhand) 266 139</address>
     <contact>220637</contact>
     <micrCode>226184014</micrCode>
     <ifscCode>NTBL0RAN004</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22942</bankLoc>
+=======
+    <bankLoc>51378</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rampur</name>
@@ -141,25 +201,37 @@
     <contact>2352434</contact>
     <micrCode>244184102</micrCode>
     <ifscCode>NTBL0RAM036</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22938</bankLoc>
+=======
+    <bankLoc>51334</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ramgarh</name>
-    <city>Ramgarh</city>
+    <city>Nainital</city>
     <address>Malla Ramgarh - 263 132, Nainital</address>
     <contact>281145</contact>
     <micrCode>263184011</micrCode>
     <ifscCode>NTBL0RAM011</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51375</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ramnagar</name>
-    <city>Ramnagar</city>
+    <city>Nainital</city>
     <address>Bajaja Line Ramnagar, Nainital (uttarakhand)</address>
     <contact>251333</contact>
     <micrCode>263184005</micrCode>
     <ifscCode>NTBL0RAM005</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51376</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Purola</name>
@@ -168,7 +240,11 @@
     <contact>2147483647</contact>
     <micrCode>249184302</micrCode>
     <ifscCode>NTBL0PUR128</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22957</bankLoc>
+=======
+    <bankLoc>51388</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pithoragarh</name>
@@ -177,7 +253,11 @@
     <contact>225562</contact>
     <micrCode>262184102</micrCode>
     <ifscCode>NTBL0PIT007</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22951</bankLoc>
+=======
+    <bankLoc>51374</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pilibhit</name>
@@ -186,25 +266,37 @@
     <contact>255414</contact>
     <micrCode>262184021</micrCode>
     <ifscCode>NTBL0PIL021</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22937</bankLoc>
+=======
+    <bankLoc>51333</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pauri</name>
-    <city>Pauri</city>
+    <city>Garhwal</city>
     <address>Uppar Bazar, Pauri-246001</address>
     <contact>221500</contact>
     <micrCode>246184098</micrCode>
     <ifscCode>NTBL0PAU098</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22948</bankLoc>
+=======
+    <bankLoc>51373</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pantnagar</name>
-    <city>Pantnagar</city>
+    <city>Udham Singh Nagar</city>
     <address>District Court Compond, P O Sidcul, Pantnagar, US Nagar</address>
     <contact>244022</contact>
     <micrCode>263184203</micrCode>
     <ifscCode>NTBL0PAN091</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51372</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Panipat</name>
@@ -213,61 +305,89 @@
     <contact>2672436</contact>
     <micrCode>132184001</micrCode>
     <ifscCode>NTBL0PAN062</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22924</bankLoc>
+=======
+    <bankLoc>51315</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Paharpani</name>
-    <city>Paharpani</city>
+    <city>Nainital</city>
     <address>H.N. 22, Moranaula Road, Paharpani (nainital)</address>
     <contact>282232</contact>
     <micrCode>263184028</micrCode>
     <ifscCode>NTBL0PAH028</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51371</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Greater Noida</name>
-    <city>Noida</city>
+    <city>Gautam Buddha Nagar</city>
     <address>THE Nainital Bank Ltd, Greater Noida, SRI JAI Balaji Educational Trust, Ns-48, Sec-p4, Builders Area, Near Jalvayu Vihar</address>
     <contact>2390013</contact>
     <micrCode>110184022</micrCode>
     <ifscCode>NTBL0NOI120</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22930</bankLoc>
+=======
+    <bankLoc>51332</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Noida Sector-2</name>
-    <city>Noida</city>
+    <city>Gautam Buddha Nagar</city>
     <address>C-29, Sector-2, Noida</address>
     <contact>2512379</contact>
     <micrCode>110184017</micrCode>
     <ifscCode>NTBL0NOI070</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22930</bankLoc>
+=======
+    <bankLoc>51332</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Noida (sector50)</name>
-    <city>Noida</city>
+    <city>Gautam Buddha Nagar</city>
     <address>B-1/31, Sector -50, Noida, DISTT. Gotam Budh Nagar</address>
     <contact>2500544</contact>
     <micrCode>110184013</micrCode>
     <ifscCode>NTBL0NOI063</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22930</bankLoc>
+=======
+    <bankLoc>51332</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>NEW Tehri</name>
-    <city>Tehri</city>
+    <city>Tehri Garhwal</city>
     <address>F&amp;G 3, Open Market, College Road, Bhourari, NEW Tehri (uttarakhand)</address>
     <contact>232193</contact>
     <micrCode>249184902</micrCode>
     <ifscCode>NTBL0NEW088</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22954</bankLoc>
+=======
+    <bankLoc>51387</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Najibabad</name>
-    <city>Najibabad</city>
+    <city>Bijnor</city>
     <address>Opposite Gurudwara, Najibabad 246763, DISTT. Bijnor</address>
     <contact>225336</contact>
     <micrCode>246184302</micrCode>
     <ifscCode>NTBL0NAJ061</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22928</bankLoc>
+=======
+    <bankLoc>51331</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Head Office</name>
@@ -276,7 +396,11 @@
     <contact>231951</contact>
     <micrCode>NA</micrCode>
     <ifscCode>NTBL0NAI999</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51370</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tallital</name>
@@ -285,7 +409,11 @@
     <contact>235414</contact>
     <micrCode>263184002</micrCode>
     <ifscCode>NTBL0NAI037</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51370</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nainital</name>
@@ -294,16 +422,24 @@
     <contact>235754</contact>
     <micrCode>263184001</micrCode>
     <ifscCode>NTBL0NAI001</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51370</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nagla</name>
-    <city>Nagla</city>
+    <city>Udham Singh Nagar</city>
     <address>Nagla, U.S.NAGAR (uttarakhand)</address>
     <contact>233390</contact>
     <micrCode>226184024</micrCode>
     <ifscCode>NTBL0NAG024</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51369</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Muzaffarnagar</name>
@@ -312,16 +448,24 @@
     <contact>2408143</contact>
     <micrCode>251184002</micrCode>
     <ifscCode>NTBL0MUZ033</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22936</bankLoc>
+=======
+    <bankLoc>51330</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mussorie</name>
-    <city>Mussoorie</city>
+    <city>Dehra DUN</city>
     <address>Shop NO 8 Landour Bazar, Clock Tower - 248179</address>
     <contact>2630120</contact>
     <micrCode>248184102</micrCode>
     <ifscCode>NTBL0MUS102</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51368</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Moradabad</name>
@@ -330,7 +474,11 @@
     <contact>2491906</contact>
     <micrCode>244184001</micrCode>
     <ifscCode>NTBL0MOR031</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22935</bankLoc>
+=======
+    <bankLoc>51329</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Meerut</name>
@@ -339,7 +487,11 @@
     <contact>2420817</contact>
     <micrCode>250184001</micrCode>
     <ifscCode>NTBL0MEE027</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22934</bankLoc>
+=======
+    <bankLoc>51328</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>I I M Road-lucknow</name>
@@ -348,7 +500,11 @@
     <contact>4002008</contact>
     <micrCode>226184008</micrCode>
     <ifscCode>NTBL0LUC112</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22933</bankLoc>
+=======
+    <bankLoc>51327</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gomti Nagar  Lucknow</name>
@@ -357,7 +513,11 @@
     <contact>2397040</contact>
     <micrCode>226184007</micrCode>
     <ifscCode>NTBL0LUC079</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22933</bankLoc>
+=======
+    <bankLoc>51327</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nadan Mahal Road, Lucknow</name>
@@ -366,7 +526,11 @@
     <contact>2262468</contact>
     <micrCode>226184005</micrCode>
     <ifscCode>NTBL0LUC068</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22933</bankLoc>
+=======
+    <bankLoc>51327</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ashiana, Lucknow</name>
@@ -375,7 +539,11 @@
     <contact>2421167</contact>
     <micrCode>226184004</micrCode>
     <ifscCode>NTBL0LUC058</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22933</bankLoc>
+=======
+    <bankLoc>51327</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mahanagar, Lucknow</name>
@@ -384,7 +552,11 @@
     <contact>2387281</contact>
     <micrCode>226184003</micrCode>
     <ifscCode>NTBL0LUC041</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22933</bankLoc>
+=======
+    <bankLoc>51327</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lucknow</name>
@@ -393,25 +565,37 @@
     <contact>2281981</contact>
     <micrCode>226184002</micrCode>
     <ifscCode>NTBL0LUC017</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22933</bankLoc>
+=======
+    <bankLoc>51327</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lohaghat</name>
-    <city>Lohaghat</city>
+    <city>Champawat</city>
     <address>Bajrang Balli Ward, Hanuman Mandir Road, Lohaghat 262523, Champawat</address>
     <contact>234539</contact>
     <micrCode>262184013</micrCode>
     <ifscCode>NTBL0LOH013</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22945</bankLoc>
+=======
+    <bankLoc>51367</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lalkuan</name>
-    <city>Lalkuan</city>
+    <city>Nainital</city>
     <address>Nainital Road, Lalkuan, Nainital (uttarakhand)</address>
     <contact>268024</contact>
     <micrCode>262184016</micrCode>
     <ifscCode>NTBL0LAL016</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51366</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kotputli</name>
@@ -420,43 +604,63 @@
     <contact>222251</contact>
     <micrCode>302184107</micrCode>
     <ifscCode>NTBL0KOT107</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22925</bankLoc>
+=======
+    <bankLoc>51316</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kotdwar</name>
-    <city>Kotdwara</city>
+    <city>Garhwal</city>
     <address>Badrinath Road, Kotdwar</address>
     <contact>227443</contact>
     <micrCode>246184802</micrCode>
     <ifscCode>NTBL0KOT055</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22948</bankLoc>
+=======
+    <bankLoc>51365</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kilakhera</name>
-    <city>Kilakhera</city>
+    <city>Udham Singh Nagar</city>
     <address>Kilakhera, U.S.NAGAR (uttarakhand)</address>
     <contact>241130</contact>
     <micrCode>262184014</micrCode>
     <ifscCode>NTBL0KIL014</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51364</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kichha</name>
-    <city>Kichha</city>
+    <city>Udham Singh Nagar</city>
     <address>Rudrapur Road, Kichha, U.S.NAGAR (uttarakhand)</address>
     <contact>264371</contact>
     <micrCode>263184502</micrCode>
     <ifscCode>NTBL0KIC008</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51363</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kashipur</name>
-    <city>Kashipur</city>
+    <city>Udham Singh Nagar</city>
     <address>Ramnagar Road, Kashipur, Nainital (uttarakhand)</address>
     <contact>274060</contact>
     <micrCode>244184006</micrCode>
     <ifscCode>NTBL0KAS006</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51361</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karnal</name>
@@ -465,25 +669,37 @@
     <contact>2535060</contact>
     <micrCode>132184002</micrCode>
     <ifscCode>NTBL0KAR116</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22923</bankLoc>
+=======
+    <bankLoc>51314</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karan Prayag</name>
-    <city>Karan Prayag</city>
+    <city>Chamoli</city>
     <address>Geeta Bhawan, Karnprayag, Uttarakhand</address>
     <contact>244811</contact>
     <micrCode>246184087</micrCode>
     <ifscCode>NTBL0KAR087</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22944</bankLoc>
+=======
+    <bankLoc>51360</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kapkote</name>
-    <city>Kapkote</city>
+    <city>Bageshwar</city>
     <address>NEW Thsil Road, Kapkoat, 263632, Uttarakhand</address>
     <contact>253472</contact>
     <micrCode>263184089</micrCode>
     <ifscCode>NTBL0KAP089</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22943</bankLoc>
+=======
+    <bankLoc>51359</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Barra Kanpur</name>
@@ -492,34 +708,50 @@
     <contact>232111</contact>
     <micrCode>208184003</micrCode>
     <ifscCode>NTBL0KAN109</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22932</bankLoc>
+=======
+    <bankLoc>51325</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kanpur</name>
-    <city>Kanpur City</city>
+    <city>Kanpur</city>
     <address>Kanpur Branch, 24/43, Birhana Road, Kanpur 208001 (uttar Pradesh)</address>
     <contact>2312491</contact>
     <micrCode>208184002</micrCode>
     <ifscCode>NTBL0KAN023</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22932</bankLoc>
+=======
+    <bankLoc>51326</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Joshimath</name>
-    <city>Joshimath</city>
+    <city>Chamoli</city>
     <address>Shailaija Guest House, Near Gmvn Rest House, Joshi Math (chamoli) Uttarkhand</address>
     <contact>221130</contact>
     <micrCode>246184086</micrCode>
     <ifscCode>NTBL0JOS086</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22944</bankLoc>
+=======
+    <bankLoc>51358</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jaspur</name>
-    <city>Jaspur</city>
+    <city>Udham Singh Nagar</city>
     <address>Main Road, OPP.POLICE Station, Jaspur 246412</address>
     <contact>222102</contact>
     <micrCode>244184046</micrCode>
     <ifscCode>NTBL0JAS046</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51357</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Raja Park Jaipur</name>
@@ -528,7 +760,11 @@
     <contact>2617978</contact>
     <micrCode>302184003</micrCode>
     <ifscCode>NTBL0JAI125</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22925</bankLoc>
+=======
+    <bankLoc>51316</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
@@ -537,106 +773,154 @@
     <contact>2281557</contact>
     <micrCode>302184002</micrCode>
     <ifscCode>NTBL0JAI069</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22925</bankLoc>
+=======
+    <bankLoc>51316</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jawalapur Haridwar</name>
-    <city>Hardwar</city>
+    <city>Haridwar</city>
     <address>45, Vivek Vihar, Ranipur More 249407</address>
     <contact>220765</contact>
     <micrCode>249184004</micrCode>
     <ifscCode>NTBL0HAR097</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22949</bankLoc>
+=======
+    <bankLoc>51356</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hardwar</name>
-    <city>Hardwar</city>
+    <city>Haridwar</city>
     <address>SRI Chetan Jyoti Ashram, Bhupatwala, Haridwar</address>
     <contact>262319</contact>
     <micrCode>249184002</micrCode>
     <ifscCode>NTBL0HAR067</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22949</bankLoc>
+=======
+    <bankLoc>51356</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Damuadhunga Bandobasti</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>THE Nainital Bank LTD Krishna Kunj OPP Inspiration School Damuadhunga Bandobasti Kathgodam</address>
     <contact>228833</contact>
     <micrCode>263184101</micrCode>
     <ifscCode>NTBL0HAL124</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jagatpur Gaulapar HDW</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Village- Jagatpur, PO- Kunwarpur, Gaulapar</address>
     <contact>240004</contact>
     <micrCode>263184009</micrCode>
     <ifscCode>NTBL0HAL121</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kamaluwaganja</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Village Narsingh Talla P.O.KAMALUWAGANJA, Kamaluwaganja Road, Haldwani 263139</address>
     <contact>238600</contact>
     <micrCode>263184007</micrCode>
     <ifscCode>NTBL0HAL111</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lohariasaal Malla (haldwani)?á</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Lahoriasaal Malla, Katgharia, Haldwani - 263139</address>
     <contact>260341</contact>
     <micrCode>263184008</micrCode>
     <ifscCode>NTBL0HAL108</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Arjunpur</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Arjunpur Gorparao Chauraha, Goraparao, Haldwani, Nainital  263139</address>
     <contact>232111</contact>
     <micrCode>263184006</micrCode>
     <ifscCode>NTBL0HAL103</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rampur Raod</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>P.O.-MANPUR West, Dewal Chaur, Haldwani</address>
     <contact>234440</contact>
     <micrCode>263184004</micrCode>
     <ifscCode>NTBL0HAL071</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mbpg College</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Mbpg College, Nainital Road, Haldwani</address>
     <contact>225769</contact>
     <micrCode>263184056</micrCode>
     <ifscCode>NTBL0HAL056</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kaladhungi Road</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Pilikothi, Near Kapil Dharamshala, Kaladhungi Road, Haldwani</address>
     <contact>263008</contact>
     <micrCode>263184050</micrCode>
     <ifscCode>NTBL0HAL050</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Haldwani</name>
-    <city>Haldwani</city>
+    <city>Nainital</city>
     <address>Railway Bazar, Haldwani (uttarakhand)</address>
     <contact>250201</contact>
     <micrCode>263184003</micrCode>
     <ifscCode>NTBL0HAL003</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gurgaon</name>
@@ -645,7 +929,11 @@
     <contact>2302184</contact>
     <micrCode>110184007</micrCode>
     <ifscCode>NTBL0GUR051</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22922</bankLoc>
+=======
+    <bankLoc>51313</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sanjay Nagar Ghaziabad</name>
@@ -654,7 +942,11 @@
     <contact>2783042</contact>
     <micrCode>110184024</micrCode>
     <ifscCode>NTBL0GHA126</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22931</bankLoc>
+=======
+    <bankLoc>51324</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vaishali</name>
@@ -663,7 +955,11 @@
     <contact>2779118</contact>
     <micrCode>110184010</micrCode>
     <ifscCode>NTBL0GHA054</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22931</bankLoc>
+=======
+    <bankLoc>51324</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ghaziabad</name>
@@ -672,16 +968,24 @@
     <contact>2790880</contact>
     <micrCode>110184008</micrCode>
     <ifscCode>NTBL0GHA026</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22931</bankLoc>
+=======
+    <bankLoc>51324</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gadarpur</name>
-    <city>Gadarpur</city>
+    <city>Udham Singh Nagar</city>
     <address>Grover Market, Near Guru Nanak Market, Gadarpur</address>
     <contact>271994</contact>
     <micrCode>263184052</micrCode>
     <ifscCode>NTBL0GAD052</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51354</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Faridpur</name>
@@ -690,7 +994,11 @@
     <contact>231050</contact>
     <micrCode>243184106</micrCode>
     <ifscCode>NTBL0FAR106</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22927</bankLoc>
+=======
+    <bankLoc>51319</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Faridabad</name>
@@ -699,7 +1007,11 @@
     <contact>2504526</contact>
     <micrCode>110184014</micrCode>
     <ifscCode>NTBL0FAR064</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22921</bankLoc>
+=======
+    <bankLoc>51312</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dwarahat</name>
@@ -708,43 +1020,63 @@
     <contact>244335</contact>
     <micrCode>263184096</micrCode>
     <ifscCode>NTBL0DWA096</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22942</bankLoc>
+=======
+    <bankLoc>51339</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Doiwala</name>
-    <city>Doiwala</city>
+    <city>Dehra DUN</city>
     <address>Rishikesh Hardwar Road, Main Market, Doiwala, Dehradoon</address>
     <contact>2691258</contact>
     <micrCode>248184092</micrCode>
     <ifscCode>NTBL0DOI092</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51353</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dhampur Bijnor</name>
-    <city>Dhampur</city>
+    <city>Bijnor</city>
     <address>THE Nainital Bank LTD OM House Near PIR Teachers Colony NH 74 Dhampur Dist Bijnor UP</address>
     <contact>221200</contact>
     <micrCode>246184602</micrCode>
     <ifscCode>NTBL0DHA123</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22928</bankLoc>
+=======
+    <bankLoc>51323</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dharchula</name>
-    <city>Dharchula</city>
+    <city>Pithoragarh</city>
     <address>Tehsil Road, Dharchula, (pithoraghar) Uttarakhand</address>
     <contact>222995</contact>
     <micrCode>262184085</micrCode>
     <ifscCode>NTBL0DHA085</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22951</bankLoc>
+=======
+    <bankLoc>51352</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Devidhura</name>
-    <city>Devidhura</city>
+    <city>Champawat</city>
     <address>Jagdamba Market, Devidhura (uttarakhand)</address>
     <contact>238023</contact>
     <micrCode>263184030</micrCode>
     <ifscCode>NTBL0DEV030</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22945</bankLoc>
+=======
+    <bankLoc>51351</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dilshad Garden</name>
@@ -753,25 +1085,37 @@
     <contact>22354601</contact>
     <micrCode>110184023</micrCode>
     <ifscCode>NTBL0DEL114</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dwarka NEW Delhi</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>Delhi Dwarka</address>
     <contact>2280300</contact>
     <micrCode>110184021</micrCode>
     <ifscCode>NTBL0DEL110</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51310</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Surhera Najafgarh</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>Village &amp; Post: Surhera (nazafgarh), NEW Delhi-110043</address>
     <contact>28013040</contact>
     <micrCode>110184020</micrCode>
     <ifscCode>NTBL0DEL105</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51310</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -780,7 +1124,11 @@
     <contact>23583068</contact>
     <micrCode>110184001</micrCode>
     <ifscCode>NTBL0DEL080</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rohtak Road, Delhi</name>
@@ -789,7 +1137,11 @@
     <contact>25289112</contact>
     <micrCode>110184018</micrCode>
     <ifscCode>NTBL0DEL076</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rohini, Sector-16</name>
@@ -798,7 +1150,11 @@
     <contact>27899070</contact>
     <micrCode>110184016</micrCode>
     <ifscCode>NTBL0DEL073</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>NEW Ashok Nagar, Delhi</name>
@@ -807,7 +1163,11 @@
     <contact>22622800</contact>
     <micrCode>110184012</micrCode>
     <ifscCode>NTBL0DEL066</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vikas Marg, Delhi</name>
@@ -816,16 +1176,24 @@
     <contact>22161187</contact>
     <micrCode>110184015</micrCode>
     <ifscCode>NTBL0DEL065</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pappankalan(dwarka)</name>
-    <city>Kapas  Hera</city>
+    <city>Delhi</city>
     <address>29/2, Vijay Enclave, Palam Dabri Road, Dwarka, Delhi</address>
     <contact>25055006</contact>
     <micrCode>110184011</micrCode>
     <ifscCode>NTBL0DEL059</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51309</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>I.P. Extension, Delhi</name>
@@ -834,7 +1202,11 @@
     <contact>22232950</contact>
     <micrCode>110184009</micrCode>
     <ifscCode>NTBL0DEL053</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pitampura, Delhi</name>
@@ -843,7 +1215,11 @@
     <contact>27351524</contact>
     <micrCode>110184006</micrCode>
     <ifscCode>NTBL0DEL049</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Patparganj</name>
@@ -852,7 +1228,11 @@
     <contact>22792984</contact>
     <micrCode>110184005</micrCode>
     <ifscCode>NTBL0DEL047</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tilaknagar, Delhi</name>
@@ -861,7 +1241,11 @@
     <contact>25987475</contact>
     <micrCode>110184003</micrCode>
     <ifscCode>NTBL0DEL040</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Shalimarbagh, Delhi</name>
@@ -870,7 +1254,11 @@
     <contact>27495914</contact>
     <micrCode>110184004</micrCode>
     <ifscCode>NTBL0DEL039</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lajpatnagar, Delhi</name>
@@ -879,7 +1267,11 @@
     <contact>29834225</contact>
     <micrCode>110184002</micrCode>
     <ifscCode>NTBL0DEL038</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Panchkuian Road</name>
@@ -888,7 +1280,11 @@
     <contact>23583606</contact>
     <micrCode>110184019</micrCode>
     <ifscCode>NTBL0DEL032</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22919</bankLoc>
+=======
+    <bankLoc>51308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chakrata Road Dehradun</name>
@@ -897,7 +1293,11 @@
     <contact>2770960</contact>
     <micrCode>248184006</micrCode>
     <ifscCode>NTBL0DEH118</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22947</bankLoc>
+=======
+    <bankLoc>51350</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vasant Vihar Dehradun</name>
@@ -906,43 +1306,63 @@
     <contact>2760787</contact>
     <micrCode>248184005</micrCode>
     <ifscCode>NTBL0DEH113</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22947</bankLoc>
+=======
+    <bankLoc>51350</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Saharanpur Road Dehradun</name>
-    <city>Dehradun</city>
+    <city>Dehra DUN</city>
     <address>2 Prity Enclave Saharanpur Road, Dehradun-248171</address>
     <contact>2640780</contact>
     <micrCode>248184101</micrCode>
     <ifscCode>NTBL0DEH101</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51350</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Haridwar Road Dehradun</name>
-    <city>Dehradun</city>
+    <city>Dehra DUN</city>
     <address>6/1 Haridwar Road, Near City Banquet - 248001</address>
     <contact>2520872</contact>
     <micrCode>248184100</micrCode>
     <ifscCode>NTBL0DEH100</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51350</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dehradun</name>
-    <city>Dehradun</city>
+    <city>Dehra DUN</city>
     <address>58, Rajura Road, Near Madhuban Hotel, Dehradun</address>
     <contact>2741852</contact>
     <micrCode>248184002</micrCode>
     <ifscCode>NTBL0DEH057</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22946</bankLoc>
+=======
+    <bankLoc>51350</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chaumel</name>
-    <city>Chaumel</city>
+    <city>Champawat</city>
     <address>Chaumel Bazar, Chaumel, Champawat (uttarakhand)</address>
     <contact>251003</contact>
     <micrCode>242184042</micrCode>
     <ifscCode>NTBL0CHA042</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22945</bankLoc>
+=======
+    <bankLoc>51349</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Champawat</name>
@@ -951,7 +1371,11 @@
     <contact>230027</contact>
     <micrCode>262184002</micrCode>
     <ifscCode>NTBL0CHA015</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22945</bankLoc>
+=======
+    <bankLoc>51348</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bulandshahr</name>
@@ -960,16 +1384,24 @@
     <contact>287319</contact>
     <micrCode>203184048</micrCode>
     <ifscCode>NTBL0BUL048</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22929</bankLoc>
+=======
+    <bankLoc>51322</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bilaspur</name>
-    <city>Bilaspur</city>
+    <city>Rampur</city>
     <address>Patel Nagar, OPP Shiv Bagh Mandi, Bilaspur -244921(rampur) UP</address>
     <contact>241200</contact>
     <micrCode>244184702</micrCode>
     <ifscCode>NTBL0BIL081</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22938</bankLoc>
+=======
+    <bankLoc>51321</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bijnor</name>
@@ -978,70 +1410,102 @@
     <contact>263636</contact>
     <micrCode>246184002</micrCode>
     <ifscCode>NTBL0BIJ119</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22928</bankLoc>
+=======
+    <bankLoc>51320</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhowali</name>
-    <city>Bhowali</city>
+    <city>Nainital</city>
     <address>Ramghar Road, Bhowali-263132 (nainital) Uttarakhand</address>
     <contact>220086</contact>
     <micrCode>263184090</micrCode>
     <ifscCode>NTBL0BHO090</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51347</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhoor Maholia</name>
-    <city>Khatima</city>
+    <city>Udham Singh Nagar</city>
     <address>Bhoor Maholia, Sitarganj Road, Khatima 262308 (U S Nagar) Uttranchal</address>
     <contact>250755</contact>
     <micrCode>262184084</micrCode>
     <ifscCode>NTBL0BHO084</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51362</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhingarara</name>
-    <city>Bhingarara</city>
+    <city>Champawat</city>
     <address>Bhingrara, Champawat (uttarakhand)</address>
     <contact>2147483647</contact>
     <micrCode>262184043</micrCode>
     <ifscCode>NTBL0BHI043</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22945</bankLoc>
+=======
+    <bankLoc>51346</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhimtal</name>
-    <city>Bhimtal</city>
+    <city>Nainital</city>
     <address>Mallital, Bhimtal (nainital)</address>
     <contact>247037</contact>
     <micrCode>263184010</micrCode>
     <ifscCode>NTBL0BHI010</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51345</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Barhani Bazpur</name>
-    <city>Bazpur</city>
+    <city>Udam Singh Nagar</city>
     <address>Anand Farm, Village Bahhani Bazpur</address>
     <contact>2147483647</contact>
     <micrCode>262184204</micrCode>
     <ifscCode>NTBL0BAZ117</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22955</bankLoc>
+=======
+    <bankLoc>51344</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Maheshpura, Doraha</name>
-    <city>Bazpur</city>
+    <city>Udham Singh Nagar</city>
     <address>Maheshpur, Doraha, Bazpur Road, Bazpur -262401</address>
     <contact>282050</contact>
     <micrCode>262184203</micrCode>
     <ifscCode>NTBL0BAZ104</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51344</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bazpur</name>
-    <city>Bazpur</city>
+    <city>Udham Singh Nagar</city>
     <address>Ramraj Road, Bazpur, U.S.NAGAR (uttarakhand)</address>
     <contact>281050</contact>
     <micrCode>226184009</micrCode>
     <ifscCode>NTBL0BAZ009</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51344</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Prabhat Nagar, Bareilly</name>
@@ -1050,16 +1514,24 @@
     <contact>2320137</contact>
     <micrCode>226184075</micrCode>
     <ifscCode>NTBL0BAR075</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22927</bankLoc>
+=======
+    <bankLoc>51319</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bara</name>
-    <city>Bara</city>
+    <city>Udham Singh Nagar</city>
     <address>Kichha-sitarganj Road, Vill &amp; Po-bara</address>
     <contact>236622</contact>
     <micrCode>263184029</micrCode>
     <ifscCode>NTBL0BAR029</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22956</bankLoc>
+=======
+    <bankLoc>51343</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bareilly</name>
@@ -1068,43 +1540,67 @@
     <contact>2578520</contact>
     <micrCode>243184002</micrCode>
     <ifscCode>NTBL0BAR022</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22927</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banbasa</name>
     <city>Banbasa</city>
+=======
+    <bankLoc>51319</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Banbasa</name>
+    <city>Champawat</city>
+>>>>>>> origin/master
     <address>THE Nainital Bank Ltd, Petrol Pump Compound, Khatima Road, Banbasa, Distt Champawat, Uttarakhand - 262309</address>
     <contact>263020</contact>
     <micrCode>262184304</micrCode>
     <ifscCode>NTBL0BAN127</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22945</bankLoc>
+=======
+    <bankLoc>51342</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Banlekh</name>
-    <city>Aksora</city>
+    <city>Bageshwar</city>
     <address>Via-dofar, Banlekh Bageshwar (uttarakhand)</address>
     <contact>212240</contact>
     <micrCode>262184035</micrCode>
     <ifscCode>NTBL0BAN035</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22943</bankLoc>
+=======
+    <bankLoc>51338</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bailparao</name>
-    <city>Bailparao</city>
+    <city>Nainital</city>
     <address>Bailparao, Nainital (uttarakhand)</address>
     <contact>286023</contact>
     <micrCode>226184019</micrCode>
     <ifscCode>NTBL0BAI019</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22950</bankLoc>
+=======
+    <bankLoc>51341</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Baheri</name>
-    <city>Baheri</city>
+    <city>Bareilly</city>
     <address>Nainital Road, Baheri 243201, Bareilly (U.P)</address>
     <contact>222054</contact>
     <micrCode>243184102</micrCode>
     <ifscCode>NTBL0BAH018</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22927</bankLoc>
+=======
+    <bankLoc>51318</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bageshwar</name>
@@ -1113,7 +1609,11 @@
     <contact>220023</contact>
     <micrCode>263184702</micrCode>
     <ifscCode>NTBL0BAG012</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22943</bankLoc>
+=======
+    <bankLoc>51340</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ambala</name>
@@ -1122,7 +1622,11 @@
     <contact>2202300</contact>
     <micrCode>133184002</micrCode>
     <ifscCode>NTBL0AMB115</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22920</bankLoc>
+=======
+    <bankLoc>51311</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lowar Mall</name>
@@ -1131,7 +1635,11 @@
     <contact>231701</contact>
     <micrCode>263184082</micrCode>
     <ifscCode>NTBL0ALM082</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22942</bankLoc>
+=======
+    <bankLoc>51339</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Almora</name>
@@ -1140,7 +1648,11 @@
     <contact>230030</contact>
     <micrCode>263184014</micrCode>
     <ifscCode>NTBL0ALM002</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22942</bankLoc>
+=======
+    <bankLoc>51339</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Agra</name>
@@ -1149,6 +1661,10 @@
     <contact>2530642</contact>
     <micrCode>282184002</micrCode>
     <ifscCode>NTBL0AGR072</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22926</bankLoc>
+=======
+    <bankLoc>51317</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

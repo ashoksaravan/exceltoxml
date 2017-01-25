@@ -6,7 +6,11 @@
     <contact>0</contact>
     <micrCode>600056102</micrCode>
     <ifscCode>LAVB0000999</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dpcell</name>
@@ -15,7 +19,11 @@
     <contact>0</contact>
     <micrCode>600056104</micrCode>
     <ifscCode>LAVB0000998</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>ED Office Gurgaon</name>
@@ -24,16 +32,24 @@
     <contact>0</contact>
     <micrCode>110056102</micrCode>
     <ifscCode>LAVB0000896</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13877</bankLoc>
+=======
+    <bankLoc>33159</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>D O Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Sterling Centre 2ND Floor Andheri Kurla Road Chakala Andheri Mumbai</address>
     <contact>0</contact>
     <micrCode>400056103</micrCode>
     <ifscCode>LAVB0000892</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hyderabad RO</name>
@@ -42,7 +58,11 @@
     <contact>0</contact>
     <micrCode>500056103</micrCode>
     <ifscCode>LAVB0000891</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>R O Madurai</name>
@@ -51,7 +71,11 @@
     <contact>0</contact>
     <micrCode>625056105</micrCode>
     <ifscCode>LAVB0000889</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>International Division</name>
@@ -60,7 +84,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000888</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13923</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karur RO</name>
@@ -69,7 +97,11 @@
     <contact>0</contact>
     <micrCode>639056103</micrCode>
     <ifscCode>LAVB0000887</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>D O Coimbatore</name>
@@ -78,43 +110,63 @@
     <contact>0</contact>
     <micrCode>641056105</micrCode>
     <ifscCode>LAVB0000886</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>D O Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>568 38th Cross 11th Main 1ST Floor5th Block Jayanagar Bangalore 560 0</address>
     <contact>0</contact>
     <micrCode>560056103</micrCode>
     <ifscCode>LAVB0000885</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rtgs Cell</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>25-31, Aban House, 4TH Floor, SRI Saibaba MARG. Kalaghoda Fort Mumbai</address>
     <contact>0</contact>
     <micrCode>400056302</micrCode>
     <ifscCode>LAVB0000882</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Yethapur</name>
-    <city>Yethapur</city>
+    <city>Salem</city>
     <address>94, Bazaar Street Yethapur 636 117salem DT Tamil Nadu</address>
     <contact>0</contact>
     <micrCode>636056018</micrCode>
     <ifscCode>LAVB0000881</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33394</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Yadgir</name>
-    <city>Yadgir</city>
+    <city>Gulburga</city>
     <address>Plot NO 4 SY NO 147/1 2 Near Subham Petrol Bunk</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000880</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13894</bankLoc>
+=======
+    <bankLoc>33190</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Y Othakkadai</name>
@@ -123,7 +175,11 @@
     <contact>2545900</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000875</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Yelahanka</name>
@@ -132,25 +188,37 @@
     <contact>0</contact>
     <micrCode>560056021</micrCode>
     <ifscCode>LAVB0000874</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13882</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bangalore Service</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>19 B 1ST Floor Near Abinay Theatreb V K Iyengar Roadp B NO 9568 Banga</address>
     <contact>0</contact>
     <micrCode>560056001</micrCode>
     <ifscCode>LAVB0000853</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mumbai Service Branc</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>64 DR V B Gandhi Marg P B NO 1783 Kalaghoda Fort Mumbai 400 001maharas</address>
     <contact>0</contact>
     <micrCode>400056001</micrCode>
     <ifscCode>LAVB0000852</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Coimbatore</name>
@@ -159,7 +227,11 @@
     <contact>0</contact>
     <micrCode>641056001</micrCode>
     <ifscCode>LAVB0000851</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Salem Service Branch</name>
@@ -168,7 +240,11 @@
     <contact>0</contact>
     <micrCode>636056001</micrCode>
     <ifscCode>LAVB0000850</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Villivakkam</name>
@@ -177,16 +253,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000818</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vapi</name>
-    <city>Vapi</city>
+    <city>Valsad</city>
     <address>NO 37 Tirupati Plaza Vapi Daman Road Valsad DT Gujarat 396195</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000817</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13875</bankLoc>
+=======
+    <bankLoc>33157</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>West Mambalam</name>
@@ -195,25 +279,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000816</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>West Marredpalli</name>
-    <city>Contonment</city>
+    <city>Hyderabad</city>
     <address>D NO 3 9 242, Main Road, West Maredpally, Secunderabad 500 026</address>
     <contact>23734333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000815</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33101</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>MVP Colony</name>
-    <city>Vishakapatnam</city>
+    <city>Vizag</city>
     <address>NO 33 Sector 3 MVP Double Road Vishakapatnam Andhra Pradesh</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000814</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13857</bankLoc>
+=======
+    <bankLoc>33141</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Villapuram</name>
@@ -222,16 +318,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000813</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Venjuvancheri</name>
-    <city>Chennai</city>
+    <city>Kanchipuram</city>
     <address>Vandalur Walajabad High Road Venjuvancheri Kanchipuram DT</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000812</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13945</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vasai</name>
@@ -240,7 +344,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000811</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13930</bankLoc>
+=======
+    <bankLoc>33216</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Warrangal</name>
@@ -249,16 +357,24 @@
     <contact>2425548</contact>
     <micrCode>506056002</micrCode>
     <ifscCode>LAVB0000810</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13859</bankLoc>
+=======
+    <bankLoc>33142</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vizianagaram</name>
-    <city>Hyderabad</city>
+    <city>Vizianagaram</city>
     <address>D NO 19-10-11/1, Matam Street, Vizianagaram</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000809</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13858</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kachirapalayam</name>
@@ -267,16 +383,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000808</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33391</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vadavalli</name>
-    <city>Vadavalli</city>
+    <city>Coimbatore</city>
     <address>Vishal Towers, SF NO.114 BY 2, Maruthamalai Main Road, Vadavalli, Coimbatore 641041</address>
     <contact>2232123</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000807</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33380</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Venkatakrishnapuram</name>
@@ -285,7 +409,11 @@
     <contact>222040</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000806</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vengaivasal</name>
@@ -294,7 +422,11 @@
     <contact>22293460</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000805</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vallikavu</name>
@@ -303,52 +435,76 @@
     <contact>2641777</contact>
     <micrCode>690056252</micrCode>
     <ifscCode>LAVB0000804</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13909</bankLoc>
+=======
+    <bankLoc>33195</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vishveshwarapura</name>
-    <city>Nelamangala</city>
+    <city>Bangalore Rural</city>
     <address>Vishweshwarapura, Banauanahalli, Doddaballapura Road, Nelamangala 562113</address>
     <contact>27723188</contact>
     <micrCode>560056010</micrCode>
     <ifscCode>LAVB0000803</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13883</bankLoc>
+=======
+    <bankLoc>33181</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vinukonda</name>
-    <city>Vinukonda</city>
+    <city>Guntur</city>
     <address>30 BY 214, Keerthi Talkies Road, Vinukonda 522647, Guntur DT, Andraprades</address>
     <contact>272769</contact>
     <micrCode>522056542</micrCode>
     <ifscCode>LAVB0000802</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33140</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vijayawada II</name>
-    <city>Vijayawada</city>
+    <city>Krishna</city>
     <address>59 14 2 Ring Road Vijayawada 520 008 Krishna DT Andhrapradesh</address>
     <contact>2490110</contact>
     <micrCode>520056002</micrCode>
     <ifscCode>LAVB0000801</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13847</bankLoc>
+=======
+    <bankLoc>33139</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>A Vadugapalayam</name>
-    <city>Vadugapalayam</city>
+    <city>Coimbatore</city>
     <address>4 175 1 Pawadi Street A Vadugapalayam 641 654 Avinashi Talukcoimbatore</address>
     <contact>273875</contact>
     <micrCode>641056103</micrCode>
     <ifscCode>LAVB0000799</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33381</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vridhachalam</name>
-    <city>Vridhachalam</city>
+    <city>Cuddalore</city>
     <address>Oldno 105, 231 Bazaar Street, P B NO 11 Vridhachalam 606 001 Cuddalore</address>
     <contact>230291</contact>
     <micrCode>606056202</micrCode>
     <ifscCode>LAVB0000798</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33393</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Virudhunagar</name>
@@ -357,7 +513,11 @@
     <contact>243103</contact>
     <micrCode>626056302</micrCode>
     <ifscCode>LAVB0000797</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33392</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Villupuram</name>
@@ -366,34 +526,50 @@
     <contact>222510</contact>
     <micrCode>605056005</micrCode>
     <ifscCode>LAVB0000796</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33391</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vijayawada</name>
-    <city>Vijayawada</city>
+    <city>Krishna</city>
     <address>12 12 4 AND 12 2 268padi Street P BNO 12 Near Bodemma Hotel Vijayawad</address>
     <contact>2567118</contact>
     <micrCode>520056001</micrCode>
     <ifscCode>LAVB0000795</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13847</bankLoc>
+=======
+    <bankLoc>33139</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vettavalam</name>
-    <city>Vettavalam</city>
+    <city>Tiruvannamalai</city>
     <address>22 C, Villupuram Road Vettavalam 606 754 Tiruvannamalai DT Tamil Nadu</address>
     <contact>244221</contact>
     <micrCode>606056005</micrCode>
     <ifscCode>LAVB0000794</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13965</bankLoc>
+=======
+    <bankLoc>33389</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Velur Salem</name>
-    <city>Velur</city>
+    <city>Namakkal</city>
     <address>2 C Thiruvalluvar Salai Velur Salem638 182 Namakkal DT Tamil Nadu</address>
     <contact>220246</contact>
     <micrCode>639056009</micrCode>
     <ifscCode>LAVB0000793</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33386</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vellore</name>
@@ -402,106 +578,154 @@
     <contact>2220378</contact>
     <micrCode>632056002</micrCode>
     <ifscCode>LAVB0000792</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13969</bankLoc>
+=======
+    <bankLoc>33385</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Velliyanai</name>
-    <city>Velliyanai</city>
+    <city>Karur</city>
     <address>G,main Road Velliyanai 639 118 Karur DT Tamil Nadu</address>
     <contact>281221</contact>
     <micrCode>639056008</micrCode>
     <ifscCode>LAVB0000791</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33384</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vengamedu Karur</name>
-    <city>Vengamedu</city>
+    <city>Karur</city>
     <address>533 Salem Main Road Vengamedu 639 006 Karur DT Tamil Nadu</address>
     <contact>220208</contact>
     <micrCode>639056005</micrCode>
     <ifscCode>LAVB0000790</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33388</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vilangudi</name>
-    <city>Vilangudi</city>
+    <city>Perambalur</city>
     <address>Jayamkondam Main Road V Kaikattithelur P Ovilangudi 621 704 Perambalur</address>
     <contact>249257</contact>
     <micrCode>621056003</micrCode>
     <ifscCode>LAVB0000789</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13953</bankLoc>
+=======
+    <bankLoc>33390</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vadodara</name>
-    <city>Vadodara</city>
+    <city>Gandhinagar</city>
     <address>85 B, Amin Chambers P B NO 3760 Productivity Road Alkapuri Vadodara</address>
     <contact>2343692</contact>
     <micrCode>390056002</micrCode>
     <ifscCode>LAVB0000788</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13869</bankLoc>
+=======
+    <bankLoc>33156</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vishakapatnam</name>
-    <city>Vishakapatnam</city>
+    <city>Vishakhapatnam</city>
     <address>9 1 248, 1ST Floorcbm Compoundassilimetta  Vishakapatnam 530 003 A.</address>
     <contact>2704870</contact>
     <micrCode>530056001</micrCode>
     <ifscCode>LAVB0000787</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13856</bankLoc>
+=======
+    <bankLoc>33141</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vellakovil</name>
-    <city>Vellakovil</city>
+    <city>Erode</city>
     <address>91, 93, 95, 73, 75, 77, Velayuthasamy Complex Muthur Roadvellakoil 638 111</address>
     <contact>263046</contact>
     <micrCode>638056009</micrCode>
     <ifscCode>LAVB0000786</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33383</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vishakapatnam Extens</name>
-    <city>Vishakapatnam</city>
+    <city>Vishakhapatnam</city>
     <address>Port Trust Employees Union, 26 15, 204, Main Road, Vishakapatnam</address>
     <contact>2560027</contact>
     <micrCode>530056101</micrCode>
     <ifscCode>LAVB0000785</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13856</bankLoc>
+=======
+    <bankLoc>33141</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Uthamarkoil</name>
-    <city>Manachanallur</city>
+    <city>Tiruchirapalli</city>
     <address>Bikchandar Kovil Panchayat, Uthamarkoil, NO.1, Tollgate, Manachalannur TK</address>
     <contact>2147483647</contact>
     <micrCode>620056005</micrCode>
     <ifscCode>LAVB0000784</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33289</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Udumalpet</name>
-    <city>Udumalpet</city>
+    <city>Coimbatore</city>
     <address>100, Palani Road, P B NO 31 Udumalpet 642 126 Coimbatore DT Tamil Nadu</address>
     <contact>224168</contact>
     <micrCode>642056102</micrCode>
     <ifscCode>LAVB0000783</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33377</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ulipuram</name>
-    <city>Ulipuram</city>
+    <city>Salem</city>
     <address>3 BY 95, Bazaar Street Ulipuram 636118attur Taluk Salem DT Tamil Nadu</address>
     <contact>226274</contact>
     <micrCode>636056017</micrCode>
     <ifscCode>LAVB0000782</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33378</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Unjalur</name>
-    <city>Unjalur</city>
+    <city>Erode</city>
     <address>44, Panchayat Office Road Unjalur 638 152 Erode</address>
     <contact>266564</contact>
     <micrCode>638056017</micrCode>
     <ifscCode>LAVB0000781</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33379</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Uranganpatti</name>
@@ -510,25 +734,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000779</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ulaibettu</name>
-    <city>Ulaibettu</city>
+    <city>Dakshina Kannada</city>
     <address>Shiva RAO Nooyi Foundation PO Ulaibettu VIA Gurpur Dakshina Kannada DT Mangalore</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000778</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13889</bankLoc>
+=======
+    <bankLoc>33189</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Udhayamarthandapuram</name>
-    <city>Thiruthuraipoondi</city>
+    <city>Tiruvarur</city>
     <address>RRS Complex, ECR Main Road, Udhayamarthandapuram, Thiruthuraipoondi Taulk, Tiruvarur- 614706</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000776</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13966</bankLoc>
+=======
+    <bankLoc>33356</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thimmapuram</name>
@@ -537,25 +773,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000760</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33108</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thimmanandal</name>
-    <city>Sankarapuram</city>
+    <city>Villupuram</city>
     <address>15 BY 14, Main Road, Thimmanandal, Sankarapuram 606 402</address>
     <contact>235666</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000759</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33337</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tiruvidaikazhi</name>
-    <city>Tharangambadi</city>
+    <city>Nagapattinam</city>
     <address>55 OLD NO 3 BY 22, South Street, Main Road, Thiruvidaikazhi Post, Tharangampadi TK, Nagapatinam DT</address>
     <contact>287444</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000758</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33353</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tumkur</name>
@@ -564,7 +812,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000757</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13905</bankLoc>
+=======
+    <bankLoc>33188</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thindal Erode II</name>
@@ -573,34 +825,50 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000756</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33257</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thirumangalam</name>
-    <city>Thirumangalam</city>
+    <city>Nagapattinam</city>
     <address>Rsno140 B4 Main Road Thirumangalamnagapattinam District</address>
     <contact>236900</contact>
     <micrCode>609056004</micrCode>
     <ifscCode>LAVB0000755</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33355</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tadepalli</name>
-    <city>Tadepalli</city>
+    <city>Guntur</city>
     <address>D NO 1 Dash 50 Kotturu Tadepalli Povia Kamakoti Nagar Vijayawada Rural</address>
     <contact>2812255</contact>
     <micrCode>520056003</micrCode>
     <ifscCode>LAVB0000754</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33135</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thippasandra</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>11by1 NEW Thippasandra Main Roadhal III Stage Bangalore 560075</address>
     <contact>25207415</contact>
     <micrCode>560056013</micrCode>
     <ifscCode>LAVB0000753</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thane</name>
@@ -609,43 +877,63 @@
     <contact>25378577</contact>
     <micrCode>400056010</micrCode>
     <ifscCode>LAVB0000752</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13929</bankLoc>
+=======
+    <bankLoc>33215</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thokkavadi</name>
-    <city>Thokkavadi</city>
+    <city>Namakkal</city>
     <address>K.S. Rangasamy Institute OF Technology Campus Tiruchengode 637 215 NAM</address>
     <contact>274493</contact>
     <micrCode>638056014</micrCode>
     <ifscCode>LAVB0000751</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33358</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tenkasi</name>
-    <city>Tenkasi</city>
+    <city>Tirunelvali</city>
     <address>15, Kanni Mariamman Koil Street, Koolakadai Bazaar P B NO 37 Tenkasi 6</address>
     <contact>227127</contact>
     <micrCode>627056004</micrCode>
     <ifscCode>LAVB0000750</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13963</bankLoc>
+=======
+    <bankLoc>33351</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thiruvananthapuram</name>
-    <city>Trivendrum</city>
+    <city>Thiruvananthapuram</city>
     <address>T C 9 BY 885, Vellayambalam Sasthamangalam Road Thiruvananthapuram PIN</address>
     <contact>2724818</contact>
     <micrCode>695056001</micrCode>
     <ifscCode>LAVB0000749</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13913</bankLoc>
+=======
+    <bankLoc>33200</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirupathi</name>
-    <city>Tirupati</city>
+    <city>Chittoor</city>
     <address>15 1 45 G CAR Street Tirupathi 517501 Chittoor DT Andhra Pradesh</address>
     <contact>2250324</contact>
     <micrCode>517056002</micrCode>
     <ifscCode>LAVB0000748</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13839</bankLoc>
+=======
+    <bankLoc>33138</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Theni</name>
@@ -654,25 +942,37 @@
     <contact>254024</contact>
     <micrCode>625056102</micrCode>
     <ifscCode>LAVB0000747</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13959</bankLoc>
+=======
+    <bankLoc>33354</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tanuku</name>
-    <city>Tanuku</city>
+    <city>West Godavari</city>
     <address>NO 28 14 25, Vasu Plaza Acharya Ranga Roadp B NO 28 Tanuku 534 211west</address>
     <contact>222952</contact>
     <micrCode>534056202</micrCode>
     <ifscCode>LAVB0000746</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13861</bankLoc>
+=======
+    <bankLoc>33136</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirukkadaiyur</name>
-    <city>Tirukkadaiyur</city>
+    <city>Nagapattinam</city>
     <address>421 BY 1, Sannathi Street Tirukkadaiyur 609 311 Nagapattinam DT Tamil</address>
     <contact>287444</contact>
     <micrCode>609056003</micrCode>
     <ifscCode>LAVB0000745</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33365</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thrissoor</name>
@@ -681,25 +981,37 @@
     <contact>2331053</contact>
     <micrCode>680056002</micrCode>
     <ifscCode>LAVB0000744</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13914</bankLoc>
+=======
+    <bankLoc>33199</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tuticorin</name>
-    <city>Tuticorin</city>
+    <city>Toothukudi</city>
     <address>31, Emperor Street P B NO 80 Tuticorin 628 001 Tamil Nadu</address>
     <contact>2321866</contact>
     <micrCode>627056003</micrCode>
     <ifscCode>LAVB0000743</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13967</bankLoc>
+=======
+    <bankLoc>33376</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Turaiyur</name>
-    <city>Turaiyur</city>
+    <city>Tiruchirapalli</city>
     <address>268, Trichy Roadp B NO 12turaiyur 621 010 Trichy DT Tamil Nadu</address>
     <contact>222742</contact>
     <micrCode>620056012</micrCode>
     <ifscCode>LAVB0000742</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33375</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thiruvannamalai</name>
@@ -708,88 +1020,128 @@
     <contact>222400</contact>
     <micrCode>606056002</micrCode>
     <ifscCode>LAVB0000741</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13965</bankLoc>
+=======
+    <bankLoc>33372</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirutharipoondi</name>
-    <city>Tiruturaipundi</city>
+    <city>Thiruvarur</city>
     <address>Church Complex 1ST Floor 12 Tiruthuraipoondi 614 713 Tiruvarur</address>
     <contact>222539</contact>
     <micrCode>614056202</micrCode>
     <ifscCode>LAVB0000740</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13961</bankLoc>
+=======
+    <bankLoc>33369</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirupur</name>
-    <city>Tirupur</city>
+    <city>Coimbatore</city>
     <address>A P K Towers, 243 Kumaran Road, P BNO 40 Tirupur 641 601 Coimbatore D</address>
     <contact>2202727</contact>
     <micrCode>941056102</micrCode>
     <ifscCode>LAVB0000739</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33368</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirunelveli Town</name>
-    <city>Tirunelveli</city>
+    <city>Tirunelvali</city>
     <address>112 East CAR Street P B NO 20 Tirunelveli 627 006 Tirunelveli DT Tamil</address>
     <contact>2333173</contact>
     <micrCode>627056002</micrCode>
     <ifscCode>LAVB0000738</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13963</bankLoc>
+=======
+    <bankLoc>33367</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirukoilur</name>
-    <city>Tirukoilur</city>
+    <city>Villupuram</city>
     <address>Newno 104, Oldno 86north Street Tirukoilur 605757 Villupuram DT Tamil</address>
     <contact>252338</contact>
     <micrCode>606056003</micrCode>
     <ifscCode>LAVB0000737</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33366</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tirukkattupalli</name>
-    <city>Tirukattupalli</city>
+    <city>Thanjavur</city>
     <address>76 50th Road Tirukkattupalli 613 104 Thanjavur DT Tamil Nadu</address>
     <contact>280421</contact>
     <micrCode>613056003</micrCode>
     <ifscCode>LAVB0000736</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33364</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tiruvallur</name>
-    <city>Tiruvallur</city>
+    <city>Thiruvallur</city>
     <address>Jawaharloa Nehru Road, Opposite Tochurch, Tiruvallore 602 001</address>
     <contact>27664454</contact>
     <micrCode>600056019</micrCode>
     <ifscCode>LAVB0000735</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13960</bankLoc>
+=======
+    <bankLoc>33371</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thillainagar Trichy</name>
-    <city>Tiruchirappalli</city>
+    <city>Tiruchirapalli</city>
     <address>SVV Complex I Building NO 55 Ivth Cross P B NO 939 Thillainagar 620 01</address>
     <contact>2765112</contact>
     <micrCode>620056004</micrCode>
     <ifscCode>LAVB0000733</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33363</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Srirangam Trichy</name>
-    <city>Tiruchirappalli</city>
+    <city>Tiruchirapalli</city>
     <address>100 BY A Gandhi Road Srirangam 620006 Trichy DT Tamil Nadu</address>
     <contact>2432319</contact>
     <micrCode>620056003</micrCode>
     <ifscCode>LAVB0000732</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33363</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Trichy Main</name>
-    <city>Tiruchirappalli</city>
+    <city>Tiruchirapalli</city>
     <address>220 221 1ST Floor BIG Bazaar Streetp B NO 550trichy Main 620 008 Tami</address>
     <contact>2702204</contact>
     <micrCode>620056002</micrCode>
     <ifscCode>LAVB0000731</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33363</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Trichy Main EC UDV</name>
@@ -798,7 +1150,11 @@
     <contact>2702204</contact>
     <micrCode>620056052</micrCode>
     <ifscCode>LAVB0000730</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33362</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cantonment</name>
@@ -807,70 +1163,102 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000729</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13968</bankLoc>
+=======
+    <bankLoc>33374</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thurputallu</name>
-    <city>Narasapuram Mandal</city>
+    <city>West Godavari</city>
     <address>NO 1 270  Main Road Thurputallu KP Palem North Narasapuram Mandal Thurputallu</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000728</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13861</bankLoc>
+=======
+    <bankLoc>33125</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tiruvarur</name>
-    <city>Tiruvarur</city>
+    <city>Thiruvarur</city>
     <address>81 D, 1ST Floor, Nagai Road P B No35 Vijayapuram Tiruvarur 610 001 TA</address>
     <contact>221167</contact>
     <micrCode>610056002</micrCode>
     <ifscCode>LAVB0000727</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13961</bankLoc>
+=======
+    <bankLoc>33373</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tiruchengode</name>
-    <city>Tiruchengodu</city>
+    <city>Namakkal</city>
     <address>104 Theppakulam Street Sankari Mainroad 1ST Floor Tiruchengode 637 21</address>
     <contact>254262</contact>
     <micrCode>638056015</micrCode>
     <ifscCode>LAVB0000726</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33361</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tindivanam</name>
-    <city>Tindivanam</city>
+    <city>Villupuram</city>
     <address>128, Nehru Street Tindivanam 604 001 Villupuram DT Tamil Nadu</address>
     <contact>222091</contact>
     <micrCode>605056004</micrCode>
     <ifscCode>LAVB0000725</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33360</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thottiyam</name>
-    <city>Thottiam</city>
+    <city>Tiruchirapalli</city>
     <address>K R S Complex 246 BY B Salem Main Road Thottiyam 621 215 Musiri Talukt</address>
     <contact>254227</contact>
     <micrCode>620056008</micrCode>
     <ifscCode>LAVB0000724</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33359</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thittagudi</name>
-    <city>Thittagudi</city>
+    <city>Cuddalore</city>
     <address>30 30 A, 1ST Floor Main Road, P B NO 2 Thittagudi 606106 Cuddalore DT</address>
     <contact>255351</contact>
     <micrCode>606056203</micrCode>
     <ifscCode>LAVB0000723</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33357</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thiruvaiyaru</name>
-    <city>Tiruvaiaru</city>
+    <city>Thanjavur</city>
     <address>129 BY 33 Odathurai Street Thiruvaiyaru 613 204 Thanjavur DT Tamil NAD</address>
     <contact>260245</contact>
     <micrCode>613056004</micrCode>
     <ifscCode>LAVB0000722</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33370</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thanjavur</name>
@@ -879,7 +1267,11 @@
     <contact>237371</contact>
     <micrCode>613056002</micrCode>
     <ifscCode>LAVB0000721</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33352</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Thayanur</name>
@@ -888,7 +1280,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000720</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13968</bankLoc>
+=======
+    <bankLoc>33374</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tenali</name>
@@ -897,16 +1293,28 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000719</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13854</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sivakodu</name>
     <city>Godavari</city>
+=======
+    <bankLoc>33137</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sivakodu</name>
+    <city>East Godavari</city>
+>>>>>>> origin/master
     <address>NO 2 92 Main Road OPP TO Zill Parishad High School Sivakodu Razole TK East Godavari 533244</address>
     <contact>0</contact>
     <micrCode>533056662</micrCode>
     <ifscCode>LAVB0000694</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33107</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Shalimarbagh</name>
@@ -915,7 +1323,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000693</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13865</bankLoc>
+=======
+    <bankLoc>33146</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>South Masi Street</name>
@@ -924,7 +1336,11 @@
     <contact>0</contact>
     <micrCode>625056019</micrCode>
     <ifscCode>LAVB0000692</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sambankulam</name>
@@ -933,7 +1349,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000691</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13964</bankLoc>
+=======
+    <bankLoc>33367</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Srikakulam</name>
@@ -942,7 +1362,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000690</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13853</bankLoc>
+=======
+    <bankLoc>33133</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sinthalapatti</name>
@@ -951,7 +1375,11 @@
     <contact>249010</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000689</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33255</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Saidapet</name>
@@ -960,34 +1388,50 @@
     <contact>0</contact>
     <micrCode>600056029</micrCode>
     <ifscCode>LAVB0000688</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Srivilliputhur</name>
-    <city>Srivilliputhur</city>
+    <city>Virudhunagar</city>
     <address>32 Periya Perumal East Mada Streetvirudhnagar District</address>
     <contact>261839</contact>
     <micrCode>626056502</micrCode>
     <ifscCode>LAVB0000686</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33348</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chinthalavadi</name>
-    <city>Chinthalavadi</city>
+    <city>Karur</city>
     <address>D NO1 BY 1 Main Road Chinthalavadilalapet Post Krishnarayapuram Taluk</address>
     <contact>242044</contact>
     <micrCode>639056012</micrCode>
     <ifscCode>LAVB0000685</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33248</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sirsi</name>
-    <city>Sirsi</city>
+    <city>Uttar Kannad</city>
     <address>CTS NO 247 BY A Hospet Roadsirsi 584101</address>
     <contact>223320</contact>
     <micrCode>581056402</micrCode>
     <ifscCode>LAVB0000684</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13906</bankLoc>
+=======
+    <bankLoc>33187</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Surat2</name>
@@ -996,34 +1440,50 @@
     <contact>2550400</contact>
     <micrCode>395056003</micrCode>
     <ifscCode>LAVB0000683</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13874</bankLoc>
+=======
+    <bankLoc>33155</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sriperumbudur</name>
-    <city>Sriperumbudur</city>
+    <city>Kancheepuram</city>
     <address>Bangalore High WAY Road, Near Sumathi Theatre, Sriperumbudhur 602 105</address>
     <contact>27162433</contact>
     <micrCode>600056021</micrCode>
     <ifscCode>LAVB0000682</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33347</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Secunderabad Extensi</name>
-    <city>Secunderabad</city>
+    <city>Hyderabad</city>
     <address>Shree Gujarathi Seva Mandal, 1ST Floor, 1141, Rashtrapathi Road, Secund</address>
     <contact>27536535</contact>
     <micrCode>500056101</micrCode>
     <ifscCode>LAVB0000681</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33132</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Suryapet</name>
-    <city>Suryapet</city>
+    <city>Nalgonda</city>
     <address>NO 1 2 270 BY 45 BY 1P B NO 12 Kudakuda Road Suryapet 508 213 Andhra</address>
     <contact>224111</contact>
     <micrCode>508056202</micrCode>
     <ifscCode>LAVB0000680</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13849</bankLoc>
+=======
+    <bankLoc>33134</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Surat</name>
@@ -1032,7 +1492,11 @@
     <contact>2425200</contact>
     <micrCode>395056002</micrCode>
     <ifscCode>LAVB0000679</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13874</bankLoc>
+=======
+    <bankLoc>33155</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Secunderabad  Hydera</name>
@@ -1041,43 +1505,63 @@
     <contact>27703173</contact>
     <micrCode>500056003</micrCode>
     <ifscCode>LAVB0000677</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sendarapatti</name>
-    <city>Sendarapatty</city>
+    <city>Salem</city>
     <address>25 South Chathiram Street Sendarapatti 636 110 Attur Taluk Salem</address>
     <contact>226261</contact>
     <micrCode>636056016</micrCode>
     <ifscCode>LAVB0000676</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33343</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>M N Palayam</name>
-    <city>M N Palayam</city>
+    <city>Erode</city>
     <address>M.N.PALAYAM, 1309, Bhavani Main Road, Lakshmi Nagar, M.N.PALAYAM  638316</address>
     <contact>2533561</contact>
     <micrCode>638056006</micrCode>
     <ifscCode>LAVB0000675</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33285</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sundarapandiam</name>
-    <city>Sundarapandi</city>
+    <city>Virudhunagar</city>
     <address>6 1 120, Agraharam Street Sundarapandiam 626 126 Virudhunagar DT Tamil</address>
     <contact>283080</contact>
     <micrCode>626056103</micrCode>
     <ifscCode>LAVB0000674</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33349</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sivakasi</name>
-    <city>Sivakasi</city>
+    <city>Virudhunagar</city>
     <address>29 E, PSR Road P B NO 165 Sivakasi626 123 Virudhunagar DT Tamil Nadu</address>
     <contact>224106</contact>
     <micrCode>626056002</micrCode>
     <ifscCode>LAVB0000673</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33346</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Shimoga</name>
@@ -1086,34 +1570,50 @@
     <contact>222818</contact>
     <micrCode>577056202</micrCode>
     <ifscCode>LAVB0000672</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13904</bankLoc>
+=======
+    <bankLoc>33186</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sattur</name>
-    <city>Sattur</city>
+    <city>Virudhunagar</city>
     <address>100, North CAR Streetp B NO 8 Sattur626 203 Virudhunagar</address>
     <contact>260360</contact>
     <micrCode>626056402</micrCode>
     <ifscCode>LAVB0000671</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33340</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sankari</name>
-    <city>Sankari</city>
+    <city>Salem</city>
     <address>Sfno 261 BY 1A BY 1A Wardno 4 Doorno 1 15 17 JI NEW Edappadi Road Sank</address>
     <contact>243885</contact>
     <micrCode>636056008</micrCode>
     <ifscCode>LAVB0000667</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33338</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sankarapuram</name>
-    <city>Sankarapuram</city>
+    <city>Villupuram</city>
     <address>J K Complex, 3 Bazaar Street Sankarapuram 606 401 Villupuram DT Tamil</address>
     <contact>235666</contact>
     <micrCode>606056103</micrCode>
     <ifscCode>LAVB0000665</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33337</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Shevapet Salem</name>
@@ -1122,7 +1622,11 @@
     <contact>2223222</contact>
     <micrCode>636056004</micrCode>
     <ifscCode>LAVB0000664</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gugai Salem</name>
@@ -1131,7 +1635,11 @@
     <contact>2469469</contact>
     <micrCode>636056005</micrCode>
     <ifscCode>LAVB0000663</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>C K Street Salem</name>
@@ -1140,7 +1648,11 @@
     <contact>2260333</contact>
     <micrCode>636056003</micrCode>
     <ifscCode>LAVB0000662</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Salem Town</name>
@@ -1149,7 +1661,11 @@
     <contact>2267678</contact>
     <micrCode>636056002</micrCode>
     <ifscCode>LAVB0000661</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Swarnapuri Salem</name>
@@ -1158,7 +1674,11 @@
     <contact>2443934</contact>
     <micrCode>636056006</micrCode>
     <ifscCode>LAVB0000660</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kondalampatti  Salem</name>
@@ -1167,16 +1687,24 @@
     <contact>2270048</contact>
     <micrCode>636056007</micrCode>
     <ifscCode>LAVB0000659</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sikkal</name>
-    <city>Sikkal</city>
+    <city>Nagapattinam</city>
     <address>3 BY 50, North Street, Sikkal, Nagapattinam 611108</address>
     <contact>223296</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000658</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33344</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Siddhapudur</name>
@@ -1185,16 +1713,24 @@
     <contact>2232123</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000657</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sathyamangalam</name>
-    <city>Sathyamangalam</city>
+    <city>Erode</city>
     <address>343, First Floor, Mysore Trunk Road Extn, Annapoorna Complex, Sathyamangalam 638 402 Erode DT</address>
     <contact>2304997</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000650</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33339</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Raja Rajeshwari Nagar</name>
@@ -1203,7 +1739,11 @@
     <contact>0</contact>
     <micrCode>560056022</micrCode>
     <ifscCode>LAVB0000616</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13882</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ramanathapuram</name>
@@ -1212,25 +1752,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000615</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13959</bankLoc>
+=======
+    <bankLoc>33354</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rayakotta</name>
-    <city>Royakottah</city>
+    <city>Krishnagiri</city>
     <address>1 BY 826, Soolagiri Main Road, Rayakotta, Krishnagiri DT.PIN 635 116</address>
     <contact>236213</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>LAVB0000614</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13948</bankLoc>
+=======
+    <bankLoc>33335</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>RT Nagar</name>
-    <city>Bangalore</city>
+    <city>Bangalore Rural</city>
     <address>NO 7, III Cross, Ward NO 95, Ganesh Block, Kavalbyrasandra Road, R T Nagar, Bangalore 560032</address>
     <contact>22631300</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000613</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13883</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ramachandrapuram</name>
@@ -1239,16 +1791,24 @@
     <contact>281299</contact>
     <micrCode>500056011</micrCode>
     <ifscCode>LAVB0000612</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33104</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ramapuram</name>
-    <city>Ramapuram</city>
+    <city>Kancheepuram</city>
     <address>NO.4 BY 323, Valluvar Salai, Ramapuram Chennai 89 Tamil NADU.</address>
     <contact>22491212</contact>
     <micrCode>600056023</micrCode>
     <ifscCode>LAVB0000611</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33333</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Raipur</name>
@@ -1257,7 +1817,11 @@
     <contact>2582110</contact>
     <micrCode>492056002</micrCode>
     <ifscCode>LAVB0000610</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13862</bankLoc>
+=======
+    <bankLoc>33143</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rohini</name>
@@ -1266,7 +1830,11 @@
     <contact>2147483647</contact>
     <micrCode>110056006</micrCode>
     <ifscCode>LAVB0000609</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13864</bankLoc>
+=======
+    <bankLoc>33145</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ranchi</name>
@@ -1275,7 +1843,11 @@
     <contact>2332231</contact>
     <micrCode>834056002</micrCode>
     <ifscCode>LAVB0000608</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13881</bankLoc>
+=======
+    <bankLoc>33163</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rajkot</name>
@@ -1284,52 +1856,76 @@
     <contact>2461608</contact>
     <micrCode>360056002</micrCode>
     <ifscCode>LAVB0000607</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13873</bankLoc>
+=======
+    <bankLoc>33154</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ranebennur</name>
-    <city>Ranebennur</city>
+    <city>Haveri</city>
     <address>CTS NO 1972 BY A Gupta Building, Ashok Circle P B NO 26 Ranebennur 581</address>
     <contact>267353</contact>
     <micrCode>581056102</micrCode>
     <ifscCode>LAVB0000606</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13896</bankLoc>
+=======
+    <bankLoc>33184</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rajahmundry</name>
-    <city>Rajahmundry</city>
+    <city>East Godavari</city>
     <address>1ST Floor 7 28 5, Vigram Road P B NO 28 T Nagarrajahmundry 533 101 EAS</address>
     <contact>2476929</contact>
     <micrCode>533056102</micrCode>
     <ifscCode>LAVB0000605</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33131</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rajendram</name>
-    <city>Rajendram</city>
+    <city>Karur</city>
     <address>5 BY 658, Agraharam Rajendram 639 107 Kulithalai Karur DT Tamil Nadu</address>
     <contact>222074</contact>
     <micrCode>620056007</micrCode>
     <ifscCode>LAVB0000604</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33332</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rasipuram</name>
-    <city>Rasipuram</city>
+    <city>Namakkal</city>
     <address>48 E, Kavarai Streetp B NO 25 Rasipuram 637 408 Namakkal DT Tamil Nadu</address>
     <contact>222838</contact>
     <micrCode>636056011</micrCode>
     <ifscCode>LAVB0000603</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33334</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rajapalayam</name>
-    <city>Rajapalaiyam</city>
+    <city>Virudhunagar</city>
     <address>418 Tenkasi Road Rajapalayam 626 117 Virudhunagar DT Tamil Nadu</address>
     <contact>222756</contact>
     <micrCode>626056102</micrCode>
     <ifscCode>LAVB0000602</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33331</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Raichur</name>
@@ -1338,25 +1934,37 @@
     <contact>231898</contact>
     <micrCode>584056002</micrCode>
     <ifscCode>LAVB0000601</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13903</bankLoc>
+=======
+    <bankLoc>33183</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ponnal</name>
-    <city>Secunderabad</city>
+    <city>Rangareddy</city>
     <address>Siddipet Mythrivanam Ponnal Telangana</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000563</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13975</bankLoc>
+=======
+    <bankLoc>33399</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Panvel</name>
-    <city>Mumbai</city>
+    <city>Raigad</city>
     <address>Ground Floor Crown Plaza Uran Naka Circle Panvel Navi Mumbai Maharashtra 410206</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000562</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13928</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Punavasal</name>
@@ -1365,16 +1973,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000561</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13952</bankLoc>
+=======
+    <bankLoc>33320</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Perumbavoor</name>
-    <city>Perumbavoor</city>
+    <city>Ernakulam</city>
     <address>NO 372 A Darshanam Chambers MC Road Perumbavoor Ernakulam Kerala 683542</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000560</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13908</bankLoc>
+=======
+    <bankLoc>33198</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Peruvancha</name>
@@ -1383,7 +1999,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000559</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13846</bankLoc>
+=======
+    <bankLoc>33114</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Palayamkottai</name>
@@ -1392,7 +2012,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000558</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13964</bankLoc>
+=======
+    <bankLoc>33367</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>M Puthur</name>
@@ -1401,7 +2025,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000557</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pudukottai</name>
@@ -1410,7 +2038,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000556</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13954</bankLoc>
+=======
+    <bankLoc>33328</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Perambur</name>
@@ -1419,25 +2051,37 @@
     <contact>0</contact>
     <micrCode>600056028</micrCode>
     <ifscCode>LAVB0000555</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ponnur</name>
-    <city>Ponnur</city>
+    <city>Guntur</city>
     <address>14 Dash 1 Dash 19G B C Road Ponnuru Guntur DT</address>
     <contact>241456</contact>
     <micrCode>522056602</micrCode>
     <ifscCode>LAVB0000554</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33129</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Puttur</name>
-    <city>Puttur</city>
+    <city>Dakshin Kannad</city>
     <address>V963 Court Road Puttur Talukdakshin Kannad Karnataka 574201</address>
     <contact>236640</contact>
     <micrCode>575056001</micrCode>
     <ifscCode>LAVB0000553</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13888</bankLoc>
+=======
+    <bankLoc>33182</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Perambalur EC</name>
@@ -1446,7 +2090,11 @@
     <contact>291188</contact>
     <micrCode>621056153</micrCode>
     <ifscCode>LAVB0000552</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13953</bankLoc>
+=======
+    <bankLoc>33322</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Punjagutta</name>
@@ -1455,16 +2103,24 @@
     <contact>23355355</contact>
     <micrCode>500056008</micrCode>
     <ifscCode>LAVB0000551</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Perungalathur</name>
-    <city>Perungalathur</city>
+    <city>Kancheepuram</city>
     <address>D.NO.14, Kamarajar High Road, NEW Perungalathur, Chennai 63</address>
     <contact>0</contact>
     <micrCode>600056024</micrCode>
     <ifscCode>LAVB0000550</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33325</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Perambalur</name>
@@ -1473,25 +2129,37 @@
     <contact>225566</contact>
     <micrCode>621056302</micrCode>
     <ifscCode>LAVB0000549</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13953</bankLoc>
+=======
+    <bankLoc>33322</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pugalur</name>
-    <city>Pugalur</city>
+    <city>Karur</city>
     <address>EID Parry India LTD.SUGAR Factory Pugalur 639113 Karur DT.TAMIL Nadu</address>
     <contact>272044</contact>
     <micrCode>639056007</micrCode>
     <ifscCode>LAVB0000548</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33330</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Proddatur</name>
-    <city>Proddatur</city>
+    <city>Cuddapah</city>
     <address>NO 22 BY 437 Gandhi Road Proddatur516 360 Cuddapah DT Andhra Pradesh</address>
     <contact>255904</contact>
     <micrCode>516056102</micrCode>
     <ifscCode>LAVB0000547</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13841</bankLoc>
+=======
+    <bankLoc>33130</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Palakad</name>
@@ -1500,25 +2168,37 @@
     <contact>2502231</contact>
     <micrCode>678056002</micrCode>
     <ifscCode>LAVB0000546</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13912</bankLoc>
+=======
+    <bankLoc>33197</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>R Pudupatti</name>
-    <city>Pudupatti</city>
+    <city>Namakkal</city>
     <address>10 BY 22 A North Street Bungalow Road R Pudupatti 637 407 Namakkal DT</address>
     <contact>244223</contact>
     <micrCode>636056013</micrCode>
     <ifscCode>LAVB0000545</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33329</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cpudupatti</name>
-    <city>Cumbum</city>
+    <city>Theni</city>
     <address>NO.21 BY Ward NO.14, Madurai Cumbummain Road, C.PUDUPATTI 625 556 Theni</address>
     <contact>271423</contact>
     <micrCode>625056104</micrCode>
     <ifscCode>LAVB0000544</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13959</bankLoc>
+=======
+    <bankLoc>33252</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
@@ -1527,7 +2207,11 @@
     <contact>24458690</contact>
     <micrCode>411056002</micrCode>
     <ifscCode>LAVB0000543</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13927</bankLoc>
+=======
+    <bankLoc>33213</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pondicherry</name>
@@ -1536,106 +2220,154 @@
     <contact>2336400</contact>
     <micrCode>605056002</micrCode>
     <ifscCode>LAVB0000542</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13934</bankLoc>
+=======
+    <bankLoc>33223</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pollachi</name>
-    <city>Pollachi</city>
+    <city>Coimbatore</city>
     <address>57, Balagopalapuram Street P B NO 44 Pollachi 642 001 Coimbatore</address>
     <contact>224357</contact>
     <micrCode>641056012</micrCode>
     <ifscCode>LAVB0000541</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33326</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Podakody</name>
-    <city>Sekarai</city>
+    <city>Thiruvarur</city>
     <address>B Bazaar Main Road Podakudy 614 103 Tiruvarur DT Tamil Nadu</address>
     <contact>232234</contact>
     <micrCode>614056003</micrCode>
     <ifscCode>LAVB0000540</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13961</bankLoc>
+=======
+    <bankLoc>33341</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Periyakulam</name>
-    <city>Periyakulam</city>
+    <city>Theni</city>
     <address>68, Bazaar Street Thenkarai P B NO7 Periyakulam 625 601 Theni DT Tami</address>
     <contact>231377</contact>
     <micrCode>625056202</micrCode>
     <ifscCode>LAVB0000539</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13959</bankLoc>
+=======
+    <bankLoc>33324</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Peravurani</name>
-    <city>Peravurani</city>
+    <city>Thanjavur</city>
     <address>42, C V Lodge Building Sethu Road, P B NO 2 Peravurani 614 804 Thanjav</address>
     <contact>232447</contact>
     <micrCode>607056105</micrCode>
     <ifscCode>LAVB0000538</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33323</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pennagaram</name>
-    <city>Pennagaram</city>
+    <city>Dharmapuri</city>
     <address>27 A, Vaniar Steet Pennagaram 636 810 Dharmapuri DT Tamil Nadu</address>
     <contact>255643</contact>
     <micrCode>636056105</micrCode>
     <ifscCode>LAVB0000537</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13941</bankLoc>
+=======
+    <bankLoc>33321</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pattukottai</name>
-    <city>Pattukottai</city>
+    <city>Thanjavur</city>
     <address>150, Palaniappan Street Pattukottai614 601 Thanjavur DT Tamil Nadu</address>
     <contact>252025</contact>
     <micrCode>614056102</micrCode>
     <ifscCode>LAVB0000536</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33320</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Papanasam</name>
-    <city>Papanasam</city>
+    <city>Thanjavur</city>
     <address>45 D, 1ST Floor Bazaar Streetpapanasam 614 205thanjavur DT Tamil Nadu</address>
     <contact>222427</contact>
     <micrCode>612056003</micrCode>
     <ifscCode>LAVB0000535</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33318</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Papanad</name>
-    <city>Pappanadu</city>
+    <city>Thanjavur</city>
     <address>4 BY 80 B 1 East Streetpapanad 614626 Thanjavur DT Tamil Nadu</address>
     <contact>258429</contact>
     <micrCode>607056104</micrCode>
     <ifscCode>LAVB0000534</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33319</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Panruti</name>
-    <city>Panruti</city>
+    <city>Cuddalore</city>
     <address>26 BY D 1, 1ST Floor Kumbakonam Road P B NO 11panruti 607 106 Cuddalor</address>
     <contact>242032</contact>
     <micrCode>607056202</micrCode>
     <ifscCode>LAVB0000533</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33317</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Palani</name>
-    <city>Palani</city>
+    <city>Dindigul</city>
     <address>40, NEW Dharapuram Road Palani 624601 Dindigul DT Tamil Nadu</address>
     <contact>242252</contact>
     <micrCode>624056102</micrCode>
     <ifscCode>LAVB0000532</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33315</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pallipalayam</name>
-    <city>Pallipalayam</city>
+    <city>Erode</city>
     <address>76, 1ST Floor Tiruchengode Road Pallipayalam 638 006 Namakal</address>
     <contact>240384</contact>
     <micrCode>638056004</micrCode>
     <ifscCode>LAVB0000531</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33316</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Panipat</name>
@@ -1644,52 +2376,76 @@
     <contact>2147483647</contact>
     <micrCode>132056002</micrCode>
     <ifscCode>LAVB0000530</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13879</bankLoc>
+=======
+    <bankLoc>33161</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Palacode</name>
-    <city>Palacode</city>
+    <city>Dharmapuri</city>
     <address>S.F.NO.1243 BY 4, Hosur Road, Palacode 636068</address>
     <contact>223544</contact>
     <micrCode>636056103</micrCode>
     <ifscCode>LAVB0000529</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13941</bankLoc>
+=======
+    <bankLoc>33314</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>P Ayeepalayam</name>
-    <city>Rasipuram</city>
+    <city>Namakkal</city>
     <address>1 BY 6, P Ayeepalayam, Rasipuram TK</address>
     <contact>222838</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000528</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13902</bankLoc>
+=======
+    <bankLoc>33185</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ongole</name>
-    <city>Ongole</city>
+    <city>Prakasam</city>
     <address>37 1 171, 1ST Floor Kurnool Road Ongole 523 002 Prakasam DT Andhra PRA</address>
     <contact>234648</contact>
     <micrCode>523056002</micrCode>
     <ifscCode>LAVB0000508</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13851</bankLoc>
+=======
+    <bankLoc>33128</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Olapalayam</name>
-    <city>Olapalayam</city>
+    <city>Erode</city>
     <address>14 BY 51, Uthamapalayam Road Kangayam VIA Olapalayam 638 701 Erode</address>
     <contact>256243</contact>
     <micrCode>638056013</micrCode>
     <ifscCode>LAVB0000507</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33313</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Oddanchatram</name>
-    <city>Oddanchatram</city>
+    <city>Dindigul</city>
     <address>Doorno 285 M 2A BY 9 KRS Complex, Main Road 1ST Floor, P B NO 2 Oddanc</address>
     <contact>240289</contact>
     <micrCode>624056003</micrCode>
     <ifscCode>LAVB0000506</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33312</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Signature Branch CBE</name>
@@ -1698,25 +2454,37 @@
     <contact>2323221</contact>
     <micrCode>641056014</micrCode>
     <ifscCode>LAVB0000505</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Noida</name>
-    <city>Noida</city>
+    <city>Gautam Buddha Nagar</city>
     <address>B12, Sector 16, Noida, Gautham Buddha Nagar DT. Uttar Pradesh  201 301</address>
     <contact>2510530</contact>
     <micrCode>110056004</micrCode>
     <ifscCode>LAVB0000504</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13976</bankLoc>
+=======
+    <bankLoc>33401</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nandyal</name>
-    <city>Nandyal</city>
+    <city>Kurnool</city>
     <address>25 BY 509 Srinivasa Nagar Nandyal 518 501 Andhrapradesh</address>
     <contact>221249</contact>
     <micrCode>518056102</micrCode>
     <ifscCode>LAVB0000503</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13848</bankLoc>
+=======
+    <bankLoc>33124</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nellore</name>
@@ -1725,34 +2493,50 @@
     <contact>2331875</contact>
     <micrCode>524056002</micrCode>
     <ifscCode>LAVB0000502</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13850</bankLoc>
+=======
+    <bankLoc>33127</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karolbagh  NEW Delhi</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>16 BY 17, W.E.A, Karol Bagh Street, OPP. TO Satbharrawan School, Karol</address>
     <contact>2573736</contact>
     <micrCode>110056002</micrCode>
     <ifscCode>LAVB0000501</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13864</bankLoc>
+=======
+    <bankLoc>33146</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Janpath  NEW Delhi</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>G 8 9 10 Tolstoy House 15 17 Tolstoy Marg, P.B.NO. 93 Janpath  110 001</address>
     <contact>23730530</contact>
     <micrCode>110056003</micrCode>
     <ifscCode>LAVB0000499</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13864</bankLoc>
+=======
+    <bankLoc>33146</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nedumpuli</name>
-    <city>Arakonam</city>
+    <city>Vellore</city>
     <address>NO 221 107 E Road Street Pudupet Nedumpuli Village Panapakkam Post Arakonam Tamilnadu 631052</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000497</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13969</bankLoc>
+=======
+    <bankLoc>33232</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nizamabad</name>
@@ -1761,16 +2545,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000496</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13974</bankLoc>
+=======
+    <bankLoc>33398</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nidur</name>
-    <city>Nidur</city>
+    <city>Nagapattinam</city>
     <address>4 BY 110f, Main Road, Nidur</address>
     <contact>254227</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000495</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33311</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nasik</name>
@@ -1779,25 +2571,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000494</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13925</bankLoc>
+=======
+    <bankLoc>33212</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Narasaraopet</name>
-    <city>Narasaraopet</city>
+    <city>Guntur</city>
     <address>6 Dash 3 Dash  269opp Kanyaka Parameswari Temple</address>
     <contact>223224</contact>
     <micrCode>520056602</micrCode>
     <ifscCode>LAVB0000493</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33126</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nerinjipettai</name>
-    <city>Nerinjipettai</city>
+    <city>Erode</city>
     <address>110 A, Bhavani Mettur Main Road Nerinjipettai 638 311 Erode</address>
     <contact>227041</contact>
     <micrCode>638056016</micrCode>
     <ifscCode>LAVB0000492</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33309</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nagpur</name>
@@ -1806,25 +2610,37 @@
     <contact>2724774</contact>
     <micrCode>440056002</micrCode>
     <ifscCode>LAVB0000491</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13924</bankLoc>
+=======
+    <bankLoc>33211</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nathakadaiyur</name>
-    <city>Nathakadaiyur</city>
+    <city>Erode</city>
     <address>2 BY 302, Muthur Road Nathakadaiyur638 108 Erode DT Tamil Nadu</address>
     <contact>241032</contact>
     <micrCode>638056010</micrCode>
     <ifscCode>LAVB0000490</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33308</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Neyveli</name>
-    <city>Neyveli</city>
+    <city>Cuddalore</city>
     <address>NO 198 Cuddalore Main Road Neyveli607 802 Cuddalore</address>
     <contact>262326</contact>
     <micrCode>607056102</micrCode>
     <ifscCode>LAVB0000489</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33310</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Namakkal</name>
@@ -1833,16 +2649,24 @@
     <contact>276022</contact>
     <micrCode>636056014</micrCode>
     <ifscCode>LAVB0000488</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33307</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nagercoil</name>
-    <city>Nagercoil</city>
+    <city>Kanyakumari</city>
     <address>NO 36 BY 8 3, IST Floor South CAR Streetnagercoil 629 001 Kanyakumari</address>
     <contact>232048</contact>
     <micrCode>629056002</micrCode>
     <ifscCode>LAVB0000487</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13946</bankLoc>
+=======
+    <bankLoc>33306</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nagapattinam</name>
@@ -1851,7 +2675,11 @@
     <contact>242356</contact>
     <micrCode>611056002</micrCode>
     <ifscCode>LAVB0000486</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33305</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Navsari</name>
@@ -1860,16 +2688,24 @@
     <contact>244243</contact>
     <micrCode>396056061</micrCode>
     <ifscCode>LAVB0000485</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13872</bankLoc>
+=======
+    <bankLoc>33153</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nathamedu</name>
-    <city>Bhuvanagiri</city>
+    <city>Cuddalore</city>
     <address>NO.39, Vadakku Theru, Nathamedu, Kothavachery PO, Chidambaram TK, PIN 608 601</address>
     <contact>241379</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000484</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33243</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Naicker NEW Street</name>
@@ -1878,16 +2714,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000483</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nandigama</name>
-    <city>Nandigama</city>
+    <city>Krishna</city>
     <address>THE Nandigama Educational Society Chandarlapadu Road Nandigama</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000482</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13847</bankLoc>
+=======
+    <bankLoc>33123</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nalgonda</name>
@@ -1896,16 +2740,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000481</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13849</bankLoc>
+=======
+    <bankLoc>33122</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mulund West</name>
-    <city>Mumbai</city>
+    <city>Mulund</city>
     <address>NO 8 Marathon MAX Link Road Mulund West Mumbai Maharashtra</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000480</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13922</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mylambadi</name>
@@ -1914,7 +2766,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000479</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33257</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mahavir Nagar</name>
@@ -1923,61 +2779,89 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000478</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13865</bankLoc>
+=======
+    <bankLoc>33146</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mehdipatnam</name>
-    <city>Mehdipatnam</city>
+    <city>Hyderabad</city>
     <address>D NO 13 6, 434 A 33, Maruthi Nagar, Mehdipatnam</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000477</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13972</bankLoc>
+=======
+    <bankLoc>33397</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mangalagiri</name>
-    <city>Mangalagiri</city>
+    <city>Guntur</city>
     <address>Door NO 7-380/a, PSR Bavan, Mangalagiri Main Road, Mangalagiri</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000476</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33120</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mudhugampatti</name>
-    <city>Pennagaram</city>
+    <city>Dharmapuri</city>
     <address>Naganoor Post, Pennagaram Taluk, Dharmapuri DT</address>
     <contact>255643</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000475</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13941</bankLoc>
+=======
+    <bankLoc>33321</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Malleshwaram</name>
-    <city>Bangalore</city>
+    <city>Bangalore Rural</city>
     <address>NO 1, 9TH Cross, Malleshwaram, Bangalore 560 003</address>
     <contact>22631300</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000474</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13883</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mangalore</name>
-    <city>Mangalore</city>
+    <city>Dakshin Kannad</city>
     <address>14 1 741 BY 6, Shop NOS 1 TO 8, 23 TO 27, MAY Fair City, KRR Road, Karangalpady, Mangalore 575 003</address>
     <contact>22631300</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>LAVB0000473</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13888</bankLoc>
+=======
+    <bankLoc>33178</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mangarai</name>
-    <city>Pennagaram</city>
+    <city>Dharmapuri</city>
     <address>4 BY 322, Mangarai Village AND Post, Pennagaram, Dharmapuri</address>
     <contact>255643</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000472</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13941</bankLoc>
+=======
+    <bankLoc>33321</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chennai Mogappair</name>
@@ -1986,43 +2870,63 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000471</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sirumayangudi</name>
-    <city>Sirumayangudi</city>
+    <city>Tiruchirapalli</city>
     <address>4 BY 5 A Sirumayangudi Eastsirumayangudi</address>
     <contact>0</contact>
     <micrCode>620056014</micrCode>
     <ifscCode>LAVB0000470</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33345</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Meikalpatti</name>
-    <city>Meikalpatti</city>
+    <city>Tanjore</city>
     <address>Meikalpatti</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000469</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13957</bankLoc>
+=======
+    <bankLoc>33297</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mecheri</name>
-    <city>Mechery</city>
+    <city>Salem</city>
     <address>SF NO.230 BY 2, Ward NO.16, Dharmapuri Main Road, Mecheri</address>
     <contact>2267202</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000468</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33296</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Markampatti</name>
-    <city>Markampatti</city>
+    <city>Dindigul</city>
     <address>3 BY 192 Dindigul Main Roadmarkkampatti Village</address>
     <contact>0</contact>
     <micrCode>625056010</micrCode>
     <ifscCode>LAVB0000467</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33293</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Madhapur</name>
@@ -2031,25 +2935,37 @@
     <contact>23119531</contact>
     <micrCode>500056010</micrCode>
     <ifscCode>LAVB0000466</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mowlivakkam</name>
-    <city>Chennai</city>
+    <city>Kancheepuram</city>
     <address>Door NO 2 Bajanai Koil Streetmowlivakkam Chennai 600116</address>
     <contact>23820043</contact>
     <micrCode>600056025</micrCode>
     <ifscCode>LAVB0000465</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Miryalguda</name>
-    <city>Miryalguda</city>
+    <city>Nalgonda</city>
     <address>Shop NO.105, Blue Whale Palace, Sagarroad, Miryalguda 508 207, Andhra PRA</address>
     <contact>232255</contact>
     <micrCode>508056102</micrCode>
     <ifscCode>LAVB0000464</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13849</bankLoc>
+=======
+    <bankLoc>33121</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>MN Palayam Extension</name>
@@ -2058,70 +2974,102 @@
     <contact>2230560</contact>
     <micrCode>638056018</micrCode>
     <ifscCode>LAVB0000463</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33257</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mettur DAM</name>
-    <city>Mettur</city>
+    <city>Salem</city>
     <address>8 BY 13 Square Market Road 1ST Floor Mettur DAM 636 401 Salem</address>
     <contact>244738</contact>
     <micrCode>636056010</micrCode>
     <ifscCode>LAVB0000462</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33300</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Malkajgiri Hyderabad</name>
-    <city>Malkajgiri</city>
+    <city>Rangareddy</city>
     <address>NO 292 AND 293 1ST Floor Radhakrishna Malkajgiri Hyderabad</address>
     <contact>27245572</contact>
     <micrCode>500056004</micrCode>
     <ifscCode>LAVB0000461</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13852</bankLoc>
+=======
+    <bankLoc>33119</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Muthugapatty</name>
-    <city>Muthugapatti</city>
+    <city>Namakkal</city>
     <address>6 BY 41 Main Road Muthugapatty 637405 Namakkal DT Tamil Nadu</address>
     <contact>578366</contact>
     <micrCode>636056021</micrCode>
     <ifscCode>LAVB0000460</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33302</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mahadhanapuram</name>
-    <city>Mahadhanapur</city>
+    <city>Karur</city>
     <address>1 2 85 BY A, East Agraharam Mahadhanapuram 639 106 Karur</address>
     <contact>242235</contact>
     <micrCode>639056011</micrCode>
     <ifscCode>LAVB0000459</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33288</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mathur</name>
-    <city>Mathur</city>
+    <city>Krishnagiri</city>
     <address>1 BY 49 E Mathur 635 203 Krishnagiri DT Tamil Nadu</address>
     <contact>256221</contact>
     <micrCode>635056003</micrCode>
     <ifscCode>LAVB0000458</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13948</bankLoc>
+=======
+    <bankLoc>33294</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Madukkur Town</name>
-    <city>Madukkur</city>
+    <city>Thanjavur</city>
     <address>43 D Bajanai Mutt Street Madukkur Town 614 903 Thanjavur DT Tamil Nadu</address>
     <contact>260233</contact>
     <micrCode>607056103</micrCode>
     <ifscCode>LAVB0000457</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33286</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mayiladuthurai</name>
-    <city>Mayuram</city>
+    <city>Nagapattinam</city>
     <address>27 B Town Extension Road P B NO 78mayiladuthurai 609 001 Nagapattinam</address>
     <contact>223296</contact>
     <micrCode>609056002</micrCode>
     <ifscCode>LAVB0000456</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33295</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mysore</name>
@@ -2130,79 +3078,115 @@
     <contact>2423262</contact>
     <micrCode>570056002</micrCode>
     <ifscCode>LAVB0000455</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13900</bankLoc>
+=======
+    <bankLoc>33179</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Manamedu</name>
-    <city>Manamedu</city>
+    <city>Tiruchirapalli</city>
     <address>4 BY 273, Salem Main Road Manamedu621 209 Trichy DT Tamil Nadu</address>
     <contact>271367</contact>
     <micrCode>620056010</micrCode>
     <ifscCode>LAVB0000454</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33290</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Muthur</name>
-    <city>Muthur</city>
+    <city>Erode</city>
     <address>A R Complex, 99 T Vellakoil Road Muthur 638 105 Erode DT Tamil Nadu</address>
     <contact>254362</contact>
     <micrCode>638056008</micrCode>
     <ifscCode>LAVB0000453</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33304</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Muthupet</name>
-    <city>Muthupet</city>
+    <city>Thiruvarur</city>
     <address>NO 50, 1ST Floorkumaran Bazaar Muthupet 614 704 Tiruvarur DT Tamil NAD</address>
     <contact>260463</contact>
     <micrCode>614056103</micrCode>
     <ifscCode>LAVB0000452</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13961</bankLoc>
+=======
+    <bankLoc>33303</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Moolangudi</name>
-    <city>Moolangudi</city>
+    <city>Pudukkottai</city>
     <address>1 BY 216, Main Road Moolangudi 610102 Kamalapuram Post Tiruvarur</address>
     <contact>245444</contact>
     <micrCode>610056003</micrCode>
     <ifscCode>LAVB0000451</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13954</bankLoc>
+=======
+    <bankLoc>33301</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mettupalayam</name>
-    <city>Mettupalayam</city>
+    <city>Coimbatore</city>
     <address>79a, NVC Building, 1ST Floor Ooty Main Road Mettupalayam 641 301 Coimb</address>
     <contact>222182</contact>
     <micrCode>641056011</micrCode>
     <ifscCode>LAVB0000450</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33299</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Melur</name>
-    <city>Melur</city>
+    <city>Madurai</city>
     <address>195, Alagar Kovil Road P B NO 7 Melur 625 106madurai</address>
     <contact>2415421</contact>
     <micrCode>625056005</micrCode>
     <ifscCode>LAVB0000449</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33298</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Marandahalli</name>
-    <city>Marandahalli</city>
+    <city>Dharmapuri</city>
     <address>Krishna Complex High School Road Marandahalli 636 806 Dharmapuri</address>
     <contact>233332</contact>
     <micrCode>636056104</micrCode>
     <ifscCode>LAVB0000448</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13941</bankLoc>
+=======
+    <bankLoc>33292</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mannargudi</name>
-    <city>Mannargudi</city>
+    <city>Thiruvarur</city>
     <address>54, BIG Bazaar Street Mannargudi 614 001 Tiruvarur DT Tamil Nadu</address>
     <contact>253208</contact>
     <micrCode>614056002</micrCode>
     <ifscCode>LAVB0000447</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13961</bankLoc>
+=======
+    <bankLoc>33291</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mandya</name>
@@ -2211,7 +3195,11 @@
     <contact>220693</contact>
     <micrCode>571056502</micrCode>
     <ifscCode>LAVB0000446</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13899</bankLoc>
+=======
+    <bankLoc>33177</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Madurai Main</name>
@@ -2220,7 +3208,11 @@
     <contact>2339158</contact>
     <micrCode>625056002</micrCode>
     <ifscCode>LAVB0000445</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Tallakulam Madurai</name>
@@ -2229,7 +3221,11 @@
     <contact>2569633</contact>
     <micrCode>625056003</micrCode>
     <ifscCode>LAVB0000444</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Royapuram Extension</name>
@@ -2238,7 +3234,11 @@
     <contact>0</contact>
     <micrCode>600056101</micrCode>
     <ifscCode>LAVB0000443</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Velachery</name>
@@ -2247,7 +3247,11 @@
     <contact>22436065</contact>
     <micrCode>600056018</micrCode>
     <ifscCode>LAVB0000442</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Adyar Chennai</name>
@@ -2256,7 +3260,11 @@
     <contact>24404336</contact>
     <micrCode>600056015</micrCode>
     <ifscCode>LAVB0000441</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>T Nagar</name>
@@ -2265,7 +3273,11 @@
     <contact>28155499</contact>
     <micrCode>600056017</micrCode>
     <ifscCode>LAVB0000440</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Anna Nagar Chennai</name>
@@ -2274,34 +3286,50 @@
     <contact>26200745</contact>
     <micrCode>600056016</micrCode>
     <ifscCode>LAVB0000439</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Selaiyur Chennai</name>
-    <city>Selaiyur</city>
+    <city>Kancheepuram</city>
     <address>Zion Matriculation Higher Secondaryschool Selaiyur Chennai Kancheepur</address>
     <contact>22293460</contact>
     <micrCode>600056014</micrCode>
     <ifscCode>LAVB0000438</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33342</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>West Tambaram Chenna</name>
-    <city>Tambaram</city>
+    <city>Kancheepuram</city>
     <address>27 Rajaji Road 1ST Floor West Tambaram Chennai 600 045 Kancheepuram</address>
     <contact>22260359</contact>
     <micrCode>600056012</micrCode>
     <ifscCode>LAVB0000437</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33350</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Valasaravakkam Chenn</name>
-    <city>Valasaravakkam</city>
+    <city>Thiruvallur</city>
     <address>126 A Arcot Road 1ST Floor Valasarawakkam Chennai 600 087 Kancheepuram</address>
     <contact>24869291</contact>
     <micrCode>600056013</micrCode>
     <ifscCode>LAVB0000436</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13960</bankLoc>
+=======
+    <bankLoc>33382</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Triplicane Chennai</name>
@@ -2310,7 +3338,11 @@
     <contact>28591727</contact>
     <micrCode>600056011</micrCode>
     <ifscCode>LAVB0000435</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cathedral Road Chenn</name>
@@ -2319,7 +3351,11 @@
     <contact>28112266</contact>
     <micrCode>600056004</micrCode>
     <ifscCode>LAVB0000434</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Royapuram Chennai</name>
@@ -2328,7 +3364,11 @@
     <contact>25952244</contact>
     <micrCode>600056010</micrCode>
     <ifscCode>LAVB0000433</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Purasaiwalkam Chenna</name>
@@ -2337,7 +3377,11 @@
     <contact>26426739</contact>
     <micrCode>600056009</micrCode>
     <ifscCode>LAVB0000432</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nungambakkam Chennai</name>
@@ -2346,7 +3390,11 @@
     <contact>28271349</contact>
     <micrCode>600056008</micrCode>
     <ifscCode>LAVB0000431</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mylapore Chennai</name>
@@ -2355,7 +3403,11 @@
     <contact>4940736</contact>
     <micrCode>600056007</micrCode>
     <ifscCode>LAVB0000430</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mount Road Chennai</name>
@@ -2364,7 +3416,11 @@
     <contact>28293909</contact>
     <micrCode>600056006</micrCode>
     <ifscCode>LAVB0000429</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kodambakkam Chennai</name>
@@ -2373,7 +3429,11 @@
     <contact>24837903</contact>
     <micrCode>600056005</micrCode>
     <ifscCode>LAVB0000428</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>GN Street Chennai</name>
@@ -2382,7 +3442,11 @@
     <contact>25369370</contact>
     <micrCode>600056003</micrCode>
     <ifscCode>LAVB0000427</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chennai Main</name>
@@ -2391,7 +3455,11 @@
     <contact>25227240</contact>
     <micrCode>600056002</micrCode>
     <ifscCode>LAVB0000426</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chennai Service Bran</name>
@@ -2400,7 +3468,11 @@
     <contact>0</contact>
     <micrCode>600056001</micrCode>
     <ifscCode>LAVB0000425</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hyderabad</name>
@@ -2409,7 +3481,11 @@
     <contact>0</contact>
     <micrCode>500056001</micrCode>
     <ifscCode>LAVB0000424</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mahasamund</name>
@@ -2418,7 +3494,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000423</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13921</bankLoc>
+=======
+    <bankLoc>33209</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Malad West</name>
@@ -2427,7 +3507,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000422</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13923</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vijayanagar</name>
@@ -2436,25 +3520,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000421</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13901</bankLoc>
+=======
+    <bankLoc>33180</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Majhihara</name>
-    <city>Majhihara</city>
+    <city>Khurda</city>
     <address>Bnrg Seva Kendra Building Majhihara Balipatna Khurda Odisha</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000420</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13932</bankLoc>
+=======
+    <bankLoc>33219</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Marichetlapalem</name>
-    <city>Bhudawada Mandal</city>
+    <city>Prakasam</city>
     <address>NO 4 77 Kurnool Road Marichetlapalem Bhudawada Mandal Prakasam</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000419</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13851</bankLoc>
+=======
+    <bankLoc>33099</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mohanur</name>
@@ -2463,25 +3559,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000418</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33307</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Madipakkam</name>
-    <city>Chennai</city>
+    <city>Kancheepuram</city>
     <address>NO 5 570 Sabari Salai Madipakkam Chennai</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000417</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mudbidri</name>
-    <city>Mangalore</city>
+    <city>Dakshina Kannada</city>
     <address>Lakshmi Vilas Bank LTD Mudbidri Dakshina Kannada District</address>
     <contact>0</contact>
     <micrCode>575056003</micrCode>
     <ifscCode>LAVB0000416</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13889</bankLoc>
+=======
+    <bankLoc>33178</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Marakottai</name>
@@ -2490,7 +3598,11 @@
     <contact>0</contact>
     <micrCode>636056027</micrCode>
     <ifscCode>LAVB0000415</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lawspet</name>
@@ -2499,7 +3611,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000410</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13935</bankLoc>
+=======
+    <bankLoc>33224</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>LAM</name>
@@ -2508,7 +3624,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000409</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33108</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lakshmipurm Guntur II</name>
@@ -2517,43 +3637,71 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000408</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33108</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lakkapuram</name>
-    <city>Lakkapuram</city>
+    <city>Erode</city>
     <address>BY 269, Main Road Lakkapuram 638 002 Erode DT Tamil Nadu</address>
     <contact>2401767</contact>
     <micrCode>638056005</micrCode>
     <ifscCode>LAVB0000407</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33283</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lalgudi</name>
-    <city>Lalgudi</city>
+    <city>Tiruchirapalli</city>
     <address>SRG Building, 2 Sirudaiyur Agraharam Lalgudi 621 601 Trichy</address>
     <contact>2541236</contact>
     <micrCode>620056006</micrCode>
     <ifscCode>LAVB0000406</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>LA Gudalur</name>
     <city>Puducherry</city>
+=======
+    <bankLoc>33284</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>LA Gudalur</name>
+    <city>Villupuram</city>
+>>>>>>> origin/master
     <address>NO 45 Komalur Main Road Lalapet LA Gudalur Sankarapuram Villupuram DT</address>
     <contact>0</contact>
     <micrCode>605056011</micrCode>
     <ifscCode>LAVB0000405</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kapavaram</name>
     <city>Godavari</city>
+=======
+    <bankLoc>33327</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kapavaram</name>
+    <city>East Godavari</city>
+>>>>>>> origin/master
     <address>8 122 A Kapavaram Road Kapavaram East Godavari DT</address>
     <contact>0</contact>
     <micrCode>533056782</micrCode>
     <ifscCode>LAVB0000404</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33107</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kombai</name>
@@ -2562,7 +3710,11 @@
     <contact>0</contact>
     <micrCode>625056020</micrCode>
     <ifscCode>LAVB0000403</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33255</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kalaburagi</name>
@@ -2571,16 +3723,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000402</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13893</bankLoc>
+=======
+    <bankLoc>33172</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kavaraipettai</name>
-    <city>Chennai</city>
+    <city>Thiruvallur</city>
     <address>NO 175 A GNT Road Kavaraipettai Thiruvallur 601206</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000401</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13960</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kollam</name>
@@ -2589,25 +3749,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000399</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13909</bankLoc>
+=======
+    <bankLoc>33195</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kadalangudi</name>
-    <city>Kadalangudi</city>
+    <city>Nagapattinam</city>
     <address>NO 2 276 Vinayagar Street Thirumeniyar Koil Post Nagapattinam 609204</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000398</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13950</bankLoc>
+=======
+    <bankLoc>33262</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kalkaji</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>L-11, Kalkaji, NEW Delhi</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000397</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13864</bankLoc>
+=======
+    <bankLoc>33146</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karnal</name>
@@ -2616,7 +3788,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000396</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13878</bankLoc>
+=======
+    <bankLoc>33160</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kuniyur</name>
@@ -2625,7 +3801,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000395</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13964</bankLoc>
+=======
+    <bankLoc>33367</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kurnool</name>
@@ -2634,34 +3814,50 @@
     <contact>23734333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000394</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13848</bankLoc>
+=======
+    <bankLoc>33118</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kondikulam</name>
-    <city>Kondikulam</city>
+    <city>Thanjavur</city>
     <address>Main Road Kondikulamkalugapulikadu Pattukottai TK</address>
     <contact>224888</contact>
     <micrCode>614056105</micrCode>
     <ifscCode>LAVB0000393</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33277</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kondamanaickenpatti</name>
-    <city>Kondamanaickenpatti</city>
+    <city>Namakkal</city>
     <address>1 BY 57 Pudanchanthai Roadkondamanaickenpatty</address>
     <contact>278096</contact>
     <micrCode>636056020</micrCode>
     <ifscCode>LAVB0000392</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33276</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kompally</name>
-    <city>Kompally Hyderabad</city>
+    <city>Nalgonda</city>
     <address>Plot NO 9 Anuradha Complexcentral Park Kompally</address>
     <contact>0</contact>
     <micrCode>500056012</micrCode>
     <ifscCode>LAVB0000391</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13849</bankLoc>
+=======
+    <bankLoc>33115</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kottivakkam</name>
@@ -2670,25 +3866,37 @@
     <contact>28548726</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000390</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kothapeta Chirala</name>
-    <city>Kothapeta Chirala</city>
+    <city>East Godavari</city>
     <address>60 BY 120 Main Roadkothapeta Chirala</address>
     <contact>231423</contact>
     <micrCode>523056102</micrCode>
     <ifscCode>LAVB0000389</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33116</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kengeri</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Ground Floor NO 35 AND 36I Main Road Kengeri Satellite</address>
     <contact>28484743</contact>
     <micrCode>560056012</micrCode>
     <ifscCode>LAVB0000388</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>K K Nagar</name>
@@ -2697,16 +3905,24 @@
     <contact>23660169</contact>
     <micrCode>600056027</micrCode>
     <ifscCode>LAVB0000387</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kollegal</name>
-    <city>Kollegal</city>
+    <city>Mysore</city>
     <address>7452 CSR Hardware Complex BUS Stand Road</address>
     <contact>252548</contact>
     <micrCode>571056102</micrCode>
     <ifscCode>LAVB0000386</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13900</bankLoc>
+=======
+    <bankLoc>33176</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kolapakkam</name>
@@ -2715,7 +3931,11 @@
     <contact>22260359</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000385</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kottayam</name>
@@ -2724,16 +3944,24 @@
     <contact>2376578</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000384</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13910</bankLoc>
+=======
+    <bankLoc>33196</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Krishnanagar</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>F 3 BY 21, Krishnanagar, OPP. Punjab National Bank, NEW Delhi East 110</address>
     <contact>22099738</contact>
     <micrCode>110056008</micrCode>
     <ifscCode>LAVB0000383</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13864</bankLoc>
+=======
+    <bankLoc>33146</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Krishnapatnam</name>
@@ -2742,25 +3970,37 @@
     <contact>2377552</contact>
     <micrCode>524056642</micrCode>
     <ifscCode>LAVB0000382</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13850</bankLoc>
+=======
+    <bankLoc>33127</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kaveripatnam</name>
-    <city>Kaveripatnam</city>
+    <city>Krishnagiri</city>
     <address>NH7 Salem Main Road, Opposite LIC Ofindia, Kaveripatnam635112, Krishnagir</address>
     <contact>236213</contact>
     <micrCode>635056005</micrCode>
     <ifscCode>LAVB0000381</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13948</bankLoc>
+=======
+    <bankLoc>33275</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karanodai</name>
-    <city>Karanodai</city>
+    <city>Thiruvallur</city>
     <address>SRI Dhanalakshmi Complex, Karanodaibazaar, GNT Road, Karanodai, Chennai60</address>
     <contact>26330520</contact>
     <micrCode>600056022</micrCode>
     <ifscCode>LAVB0000380</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13960</bankLoc>
+=======
+    <bankLoc>33271</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Khammam</name>
@@ -2769,25 +4009,37 @@
     <contact>2147483647</contact>
     <micrCode>507056002</micrCode>
     <ifscCode>LAVB0000379</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13846</bankLoc>
+=======
+    <bankLoc>33114</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kharghar</name>
-    <city>Raigarh</city>
+    <city>Greater Bombay</city>
     <address>Shop NO 42 AND 43, Patel Heritage, Sector 7, Khargharnavi Mumbai-410 210</address>
     <contact>2147483647</contact>
     <micrCode>400056009</micrCode>
     <ifscCode>LAVB0000378</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33214</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kulithalai</name>
-    <city>Kulithalai</city>
+    <city>Karur</city>
     <address>NO.5, Cauvery Nagar, Kulithalai 639104 Karur DT. Tamil Nadu</address>
     <contact>223074</contact>
     <micrCode>620056013</micrCode>
     <ifscCode>LAVB0000377</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33280</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karimnagar</name>
@@ -2796,61 +4048,89 @@
     <contact>2233445</contact>
     <micrCode>505056002</micrCode>
     <ifscCode>LAVB0000376</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13845</bankLoc>
+=======
+    <bankLoc>33113</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kakinada</name>
-    <city>Kakinada</city>
+    <city>East Godavari</city>
     <address>28 7 14, Chittoryvari Street OPP SAI Temple ADJ Main Road Kakinada</address>
     <contact>2379712</contact>
     <micrCode>533056002</micrCode>
     <ifscCode>LAVB0000375</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33112</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kothapeta</name>
-    <city>Hyderabad</city>
+    <city>East Godavari</city>
     <address>Potlury House Plot NO 24 Kothapetacross RD Saroor Nagar 500035 AP</address>
     <contact>24042809</contact>
     <micrCode>500056005</micrCode>
     <ifscCode>LAVB0000374</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kukatpally Hyderabad</name>
-    <city>Kukatpally</city>
+    <city>Rangareddy</city>
     <address>NO 11 TO 16 1ST Floor Plotnos 148 TO 151 Kukatpally Hyderabad 500 872</address>
     <contact>23067430</contact>
     <micrCode>500056007</micrCode>
     <ifscCode>LAVB0000373</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13852</bankLoc>
+=======
+    <bankLoc>33117</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kathaparai Karur</name>
-    <city>Kathaparai</city>
+    <city>Karur</city>
     <address>116 BY H 2 Salem Main Road Vennamalai P O Kathaparai 639 006 Karur DT</address>
     <contact>220691</contact>
     <micrCode>639056004</micrCode>
     <ifscCode>LAVB0000372</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33273</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kanjampatti</name>
-    <city>Kanjampatty</city>
+    <city>Coimbatore</city>
     <address>Wardno 1vinayagar Kovil Street Kanjampatti 642 003 Coimbatore DT Tamil</address>
     <contact>284261</contact>
     <micrCode>641056013</micrCode>
     <ifscCode>LAVB0000371</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33269</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kurumbapatti</name>
-    <city>Kurumbapatti</city>
+    <city>Karur</city>
     <address>1 BY 83 A, Main Road Pallapatti Viakurumbapatti 639205 Karur DT Tamil</address>
     <contact>248273</contact>
     <micrCode>639056006</micrCode>
     <ifscCode>LAVB0000370</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33282</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kattugudalur</name>
@@ -2859,25 +4139,37 @@
     <contact>266204</contact>
     <micrCode>607056004</micrCode>
     <ifscCode>LAVB0000369</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33251</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karaikudi</name>
-    <city>Karaikudi</city>
+    <city>Sivaganga</city>
     <address>24, Kallukattinorth 1ST Floor, P BNO 30 Karaikudi 630 001 Sivagangai</address>
     <contact>237489</contact>
     <micrCode>630056002</micrCode>
     <ifscCode>LAVB0000368</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13956</bankLoc>
+=======
+    <bankLoc>33270</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kumbakonam</name>
-    <city>Kumbakonam</city>
+    <city>Thanjavur</city>
     <address>NO 13, 1ST Floor Someswarar Sannadhi Street Kumbakonam 612 001 Thanjav</address>
     <contact>2420345</contact>
     <micrCode>612056002</micrCode>
     <ifscCode>LAVB0000367</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33281</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Krishnagiri</name>
@@ -2886,25 +4178,37 @@
     <contact>236213</contact>
     <micrCode>635056002</micrCode>
     <ifscCode>LAVB0000366</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13948</bankLoc>
+=======
+    <bankLoc>33279</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kovilpatti</name>
-    <city>Kovilpatti</city>
+    <city>Toothukudi</city>
     <address>897, Main Road P B NO 17 Kovilpatti628 501 Tirunelveli</address>
     <contact>220402</contact>
     <micrCode>627056005</micrCode>
     <ifscCode>LAVB0000365</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13967</bankLoc>
+=======
+    <bankLoc>33278</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kattuputhur</name>
-    <city>Kattuputhur</city>
+    <city>Tiruchirapalli</city>
     <address>179, Andapuram Road Kattuputhur 621207 Trichy DT Tamil Nadu</address>
     <contact>250225</contact>
     <micrCode>637056003</micrCode>
     <ifscCode>LAVB0000364</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33274</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karur West</name>
@@ -2913,7 +4217,11 @@
     <contact>262241</contact>
     <micrCode>639056003</micrCode>
     <ifscCode>LAVB0000363</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karur Main</name>
@@ -2922,7 +4230,11 @@
     <contact>260021</contact>
     <micrCode>639056002</micrCode>
     <ifscCode>LAVB0000362</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Karaikal</name>
@@ -2931,97 +4243,141 @@
     <contact>222410</contact>
     <micrCode>609056102</micrCode>
     <ifscCode>LAVB0000361</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13933</bankLoc>
+=======
+    <bankLoc>33222</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kangayam</name>
-    <city>Kangeyam</city>
+    <city>Erode</city>
     <address>45 P S G Buildings Chennimalai Roadp B NO 12 Kangayam 638 701 Erode DT</address>
     <contact>220658</contact>
     <micrCode>638056011</micrCode>
     <ifscCode>LAVB0000360</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33268</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kandili</name>
-    <city>Kandili</city>
+    <city>Vellore</city>
     <address>1 21, Chavadi Street Kandili 635 901 Vellore DT Tamil Nadu</address>
     <contact>248205</contact>
     <micrCode>635056006</micrCode>
     <ifscCode>LAVB0000359</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13969</bankLoc>
+=======
+    <bankLoc>33267</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kancheepuram</name>
-    <city>Kanchipuram</city>
+    <city>Kancheepuram</city>
     <address>511 Gandhi Road P B NO 11 Kancheepuram 631 501 Tamil Nadu</address>
     <contact>222839</contact>
     <micrCode>600056020</micrCode>
     <ifscCode>LAVB0000358</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33266</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kallakurichi</name>
-    <city>Kallakurichi</city>
+    <city>Villupuram</city>
     <address>D NO 19, Salem Main Road Kallakurichi 606 202 Villupuram DT Tamil Nadu</address>
     <contact>222455</contact>
     <micrCode>606056104</micrCode>
     <ifscCode>LAVB0000357</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33264</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kadambuliyur</name>
-    <city>Panruti</city>
+    <city>Cuddalore</city>
     <address>NO 106, Kumbakonam Road, Kadambuliyur</address>
     <contact>249223</contact>
     <micrCode>607056003</micrCode>
     <ifscCode>LAVB0000356</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33317</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chinnasalem</name>
-    <city>Chinnasalem</city>
+    <city>Villupuram</city>
     <address>MS. Vysya Modern Rice Mill, Churchcomplex Street, Chinnasalem 606201</address>
     <contact>257455</contact>
     <micrCode>606056102</micrCode>
     <ifscCode>LAVB0000355</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33247</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kalyan</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>Shop NO 2and3, Mahaveer Complex II, Santhoshi Matha Mandir Road, Kalyan42</address>
     <contact>2147483647</contact>
     <micrCode>400056008</micrCode>
     <ifscCode>LAVB0000354</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13929</bankLoc>
+=======
+    <bankLoc>33207</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kambarasampettai</name>
-    <city>Kambarasampettai</city>
+    <city>Tiruchirapalli</city>
     <address>SF NO 98 BY 5 Trichy Karur Road</address>
     <contact>2902731</contact>
     <micrCode>620056015</micrCode>
     <ifscCode>LAVB0000353</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33265</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kalangani</name>
-    <city>Kalangani</city>
+    <city>Namakkal</city>
     <address>NO 6 BY 3 Salem Main Roadmahalakshmi Nagar</address>
     <contact>244463</contact>
     <micrCode>636056019</micrCode>
     <ifscCode>LAVB0000352</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13951</bankLoc>
+=======
+    <bankLoc>33263</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kadiyam</name>
-    <city>Kadiyam</city>
+    <city>East Godavari</city>
     <address>4 Dash 36 Panchayati Streetkadiyam East Godavari District</address>
     <contact>2452099</contact>
     <micrCode>533056103</micrCode>
     <ifscCode>LAVB0000351</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13842</bankLoc>
+=======
+    <bankLoc>33111</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>K K Pudur</name>
@@ -3030,25 +4386,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000350</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kanmai Soorangudi</name>
-    <city>Sattur</city>
+    <city>Virudhunagar</city>
     <address>Door NO 9 BY 33, Sattur TO Elayirampannai Main Road, Kanmai Soorangudi, Sorrangudi 626 203, Sattur TK</address>
     <contact>260360</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000349</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33340</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kallalangudy</name>
-    <city>Alangudi</city>
+    <city>Pudukkottai</city>
     <address>Meyyappa Complex, Pattukkottai Main Road, Kallalangudy, Alangudi TK, Pudukottai 622 301</address>
     <contact>2224445</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>LAVB0000348</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13954</bankLoc>
+=======
+    <bankLoc>33227</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kolhapur</name>
@@ -3057,7 +4425,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000347</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13920</bankLoc>
+=======
+    <bankLoc>33208</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>K Vadamadurai</name>
@@ -3066,16 +4438,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000346</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jamukoli</name>
-    <city>Orissa</city>
+    <city>Khurda</city>
     <address>Bnrg Seva Kendra Building Jamukoli Khurda Orissa</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000345</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13932</bankLoc>
+=======
+    <bankLoc>33220</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jadcherla</name>
@@ -3084,7 +4464,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000344</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13973</bankLoc>
+=======
+    <bankLoc>33396</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>J Veeranam</name>
@@ -3093,7 +4477,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000343</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jabalpur</name>
@@ -3102,7 +4490,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000342</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13918</bankLoc>
+=======
+    <bankLoc>33204</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
@@ -3111,7 +4503,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000341</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13937</bankLoc>
+=======
+    <bankLoc>33226</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jegadabi</name>
@@ -3120,16 +4516,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000340</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jamshedpur</name>
-    <city>Jamshedpur</city>
+    <city>Purbi Singhbhum</city>
     <address>G 1, Elevated Ground Floor, Sulatmala Complex, H NO 66, Penar Road, Sakchi, Jamshedpur, Jharkhand</address>
     <contact>4820900</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000338</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13880</bankLoc>
+=======
+    <bankLoc>33162</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jamnagar</name>
@@ -3138,16 +4542,24 @@
     <contact>2661762</contact>
     <micrCode>361056001</micrCode>
     <ifscCode>LAVB0000337</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13870</bankLoc>
+=======
+    <bankLoc>33152</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jalakandapuram</name>
-    <city>Jalakantapuram</city>
+    <city>Salem</city>
     <address>58 Vandimedup B NO 3 Jalakandapuram636 501 Salem DT Tamil Nadu</address>
     <contact>260472</contact>
     <micrCode>636056012</micrCode>
     <ifscCode>LAVB0000336</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33261</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Indore</name>
@@ -3156,52 +4568,76 @@
     <contact>2529102</contact>
     <micrCode>452056002</micrCode>
     <ifscCode>LAVB0000318</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13917</bankLoc>
+=======
+    <bankLoc>33203</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Idayakottai</name>
-    <city>Idayakottai</city>
+    <city>Dindigul</city>
     <address>10 BY 190, Palani Road Idayakottai624704 Dindigul DT Tamil Nadu</address>
     <contact>250224</contact>
     <micrCode>625056008</micrCode>
     <ifscCode>LAVB0000317</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33260</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Iyyampalayam</name>
-    <city>Ayyampalayam</city>
+    <city>Dindigul</city>
     <address>2 BY 18 Chettiar Street Iyyampalayam 624 204 Dindigul DT Tamil Nadu</address>
     <contact>267212</contact>
     <micrCode>625056203</micrCode>
     <ifscCode>LAVB0000316</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33239</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Honnasandra</name>
-    <city>Bangalore</city>
+    <city>Honnsandra</city>
     <address>NO 127 13 1 Dharmanayaka Thanda Honnasandra Nelamangala Taluk Bangalore Karnataka</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000300</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13897</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hubsiguda  Hyderabad</name>
-    <city>Hyderabad</city>
+    <city>Rangareddy</city>
     <address>NO. 7 149 2, 1ST Floor Raghavendracomplex Habsiguda Cross RD Habsigud</address>
     <contact>27150491</contact>
     <micrCode>500056006</micrCode>
     <ifscCode>LAVB0000299</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13852</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hospet</name>
-    <city>Hospet</city>
+    <city>Bellary</city>
     <address>Sharada Complex, 1ST Floor489 495, Pattel Nagar Near Shanbag Circle HO</address>
     <contact>228885</contact>
     <micrCode>583056202</micrCode>
     <ifscCode>LAVB0000298</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13886</bankLoc>
+=======
+    <bankLoc>33174</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hyderabad Main</name>
@@ -3210,34 +4646,50 @@
     <contact>24761599</contact>
     <micrCode>500056002</micrCode>
     <ifscCode>LAVB0000297</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hubli</name>
-    <city>Hubli</city>
+    <city>Dharwad</city>
     <address>Umachigi Complex1st Floorp B NO 102koppikar Road Hubli 580 020 Dharwa</address>
     <contact>2362561</contact>
     <micrCode>580056002</micrCode>
     <ifscCode>LAVB0000296</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13891</bankLoc>
+=======
+    <bankLoc>33175</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hosur</name>
-    <city>Hosur</city>
+    <city>Krishnagiri</city>
     <address>Ganesh Complex, 1ST Floor 77 BY C 11, P B NO 61 Hosur 635 109krishnagi</address>
     <contact>241210</contact>
     <micrCode>635056402</micrCode>
     <ifscCode>LAVB0000295</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13948</bankLoc>
+=======
+    <bankLoc>33259</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>HSR Layout</name>
-    <city>Bangalore</city>
+    <city>Bangalore Rural</city>
     <address>NO 435, 27th Main Road, Sector I, Hosur Sarjapur Layout HSR Layout, Bangalore 560 078</address>
     <contact>22631300</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000294</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13883</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hasan</name>
@@ -3246,25 +4698,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000293</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13895</bankLoc>
+=======
+    <bankLoc>33173</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hanumakonda</name>
-    <city>Hanamkonda</city>
+    <city>Warrangal</city>
     <address>D.NO.1 8 274, Main Road, Balasamudram, Hanumakonda, Warrangal</address>
     <contact>23734333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000292</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13860</bankLoc>
+=======
+    <bankLoc>33109</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gingee</name>
-    <city>Tindivanam</city>
+    <city>Villupuram</city>
     <address>NO 216 217 Tiruvannamalai Road Gingee Villupuram DT 604202</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000290</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33360</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Governerpet</name>
@@ -3273,25 +4737,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000289</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13855</bankLoc>
+=======
+    <bankLoc>33139</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Guruvayoor</name>
-    <city>Guruvayoor</city>
+    <city>Thrissur</city>
     <address>10 BY 83A RS 114 BY 20guruvayoor</address>
     <contact>2558160</contact>
     <micrCode>680056003</micrCode>
     <ifscCode>LAVB0000288</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13914</bankLoc>
+=======
+    <bankLoc>33193</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Guduvancheri</name>
-    <city>Chennai</city>
+    <city>Kancheepuram</city>
     <address>Door NO 35 GST Roadnandivaram Guduvancherry</address>
     <contact>27467144</contact>
     <micrCode>600056026</micrCode>
     <ifscCode>LAVB0000287</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gadag</name>
@@ -3300,16 +4776,24 @@
     <contact>250122</contact>
     <micrCode>582056002</micrCode>
     <ifscCode>LAVB0000286</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13892</bankLoc>
+=======
+    <bankLoc>33171</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Garia</name>
-    <city>Garia</city>
+    <city>South 24 Parganas</city>
     <address>225by22 N S C Bose Roadnaktala</address>
     <contact>24710064</contact>
     <micrCode>700056003</micrCode>
     <ifscCode>LAVB0000285</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13979</bankLoc>
+=======
+    <bankLoc>33402</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ghaziabad</name>
@@ -3318,7 +4802,11 @@
     <contact>2793368</contact>
     <micrCode>110056007</micrCode>
     <ifscCode>LAVB0000283</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13977</bankLoc>
+=======
+    <bankLoc>33400</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gurgaon</name>
@@ -3327,16 +4815,24 @@
     <contact>2225800</contact>
     <micrCode>110056005</micrCode>
     <ifscCode>LAVB0000282</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13877</bankLoc>
+=======
+    <bankLoc>33159</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gopalapatnam  Vishak</name>
-    <city>Vishakapatnam</city>
+    <city>Vishakhapatnam</city>
     <address>7 278, Main Road1st Floor, OPP.SUKANYA Theatre, Gopalapatnam, Vishaka</address>
     <contact>2521182</contact>
     <micrCode>530056003</micrCode>
     <ifscCode>LAVB0000281</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13856</bankLoc>
+=======
+    <bankLoc>33141</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gandhinagar</name>
@@ -3345,25 +4841,37 @@
     <contact>23230220</contact>
     <micrCode>380056003</micrCode>
     <ifscCode>LAVB0000280</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13869</bankLoc>
+=======
+    <bankLoc>33151</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gajuwaka Vishakapatn</name>
-    <city>Gajuwaka</city>
+    <city>Vishakhapatnam</city>
     <address>NO 17 40 6 Main Road 1ST Floor Gajuwaka Vishakapatnam 530 026 AP</address>
     <contact>2517565</contact>
     <micrCode>530056002</micrCode>
     <ifscCode>LAVB0000279</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13856</bankLoc>
+=======
+    <bankLoc>33106</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gobichettipalayam</name>
-    <city>Gobichettipal</city>
+    <city>Erode</city>
     <address>NO 79, RAM Complex 1ST Floor, Kutchery Road Gobichettipalayam 638 452</address>
     <contact>222002</contact>
     <micrCode>638056007</micrCode>
     <ifscCode>LAVB0000278</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33258</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Guntur</name>
@@ -3372,25 +4880,37 @@
     <contact>2224940</contact>
     <micrCode>520056102</micrCode>
     <ifscCode>LAVB0000277</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33108</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gopalpatti</name>
-    <city>Vembarpatti</city>
+    <city>Dindigul</city>
     <address>8 120 Main Road Gopalpatti 624 308vembarpatti P O Dindigul DT Tamil N</address>
     <contact>2147483647</contact>
     <micrCode>625056007</micrCode>
     <ifscCode>LAVB0000276</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33387</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gandhidham</name>
-    <city>Gandhidham</city>
+    <city>Kachchh</city>
     <address>Plotno 283 Ward 12 B, Main Market Gandhidham, Kutch DT Gujarat 370 021</address>
     <contact>225617</contact>
     <micrCode>370056001</micrCode>
     <ifscCode>LAVB0000275</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13871</bankLoc>
+=======
+    <bankLoc>33150</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gandhigramam Karur</name>
@@ -3399,7 +4919,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000274</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Faridabad</name>
@@ -3408,16 +4932,24 @@
     <contact>2420018</contact>
     <micrCode>110056009</micrCode>
     <ifscCode>LAVB0000243</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13876</bankLoc>
+=======
+    <bankLoc>33158</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Eluru</name>
-    <city>Eluru</city>
+    <city>West Godavari</city>
     <address>23B 4 67 Srinivasa Talkies Road R Rpeteluru 534 002 West Godavari</address>
     <contact>220640</contact>
     <micrCode>534056002</micrCode>
     <ifscCode>LAVB0000242</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13861</bankLoc>
+=======
+    <bankLoc>33105</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Erode</name>
@@ -3426,7 +4958,11 @@
     <contact>2214368</contact>
     <micrCode>638056002</micrCode>
     <ifscCode>LAVB0000241</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33257</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Moolapalayam</name>
@@ -3435,7 +4971,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000240</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33257</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Durg</name>
@@ -3444,7 +4984,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000232</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13863</bankLoc>
+=======
+    <bankLoc>33144</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dondapadu</name>
@@ -3453,43 +4997,63 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000231</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33108</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dommara Nandyala</name>
-    <city>Cuddapah</city>
+    <city>Cudappah</city>
     <address>6/34 Kapu Street, Dommara Nandyala, Mylavarammandal Cuddapah</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000230</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13840</bankLoc>
+=======
+    <bankLoc>33102</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dharapuram</name>
-    <city>Dharapuram</city>
+    <city>Erode</city>
     <address>SAP Complex, Block NO.21, Ward NO.6, Udumalai Road, 1ST Street, Dharapuram</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000226</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33253</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Devanahalli</name>
-    <city>Devanahalli</city>
+    <city>Bangalore Rural</city>
     <address>NO.842 BY 205, Near OLD BUS Stand, Bbroad, Devanahalli Town, Bangalore DT</address>
     <contact>27681511</contact>
     <micrCode>560056009</micrCode>
     <ifscCode>LAVB0000225</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13883</bankLoc>
+=======
+    <bankLoc>33170</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Doddavaram</name>
-    <city>Doddavaram</city>
+    <city>Prakasam</city>
     <address>Doddavaram Village, Maddipadu Mandal, Prakasam DT 523263 Andhrapradesh</address>
     <contact>271122</contact>
     <micrCode>523056642</micrCode>
     <ifscCode>LAVB0000224</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13851</bankLoc>
+=======
+    <bankLoc>33103</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Davangere</name>
@@ -3498,7 +5062,11 @@
     <contact>257980</contact>
     <micrCode>577056002</micrCode>
     <ifscCode>LAVB0000223</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13890</bankLoc>
+=======
+    <bankLoc>33169</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dindigul</name>
@@ -3507,7 +5075,11 @@
     <contact>2434018</contact>
     <micrCode>625056006</micrCode>
     <ifscCode>LAVB0000222</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33255</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dharmapuri</name>
@@ -3516,7 +5088,11 @@
     <contact>260843</contact>
     <micrCode>636056102</micrCode>
     <ifscCode>LAVB0000221</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13941</bankLoc>
+=======
+    <bankLoc>33254</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dhamtari</name>
@@ -3525,7 +5101,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000220</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13923</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chalakudy</name>
@@ -3534,7 +5114,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000214</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13914</bankLoc>
+=======
+    <bankLoc>33199</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Channarayapatna</name>
@@ -3543,7 +5127,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000213</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13895</bankLoc>
+=======
+    <bankLoc>33173</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cuttack</name>
@@ -3552,7 +5140,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000212</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13931</bankLoc>
+=======
+    <bankLoc>33218</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chrompet</name>
@@ -3561,25 +5153,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000211</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chengalpet</name>
-    <city>Chengalpattu</city>
+    <city>Kancheepuram</city>
     <address>NO 37 BY 1, Ekambaranar Street, Vedhachalam Nagar, Chengalpet</address>
     <contact>222091</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000208</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33244</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chembur</name>
-    <city>East Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Runwal Classic Plot NO 257 Neardiamond Garden Chembur East Mumbai</address>
     <contact>25261188</contact>
     <micrCode>400056011</micrCode>
     <ifscCode>LAVB0000207</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33206</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cuddapah</name>
@@ -3588,7 +5192,11 @@
     <contact>244918</contact>
     <micrCode>516056002</micrCode>
     <ifscCode>LAVB0000206</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13841</bankLoc>
+=======
+    <bankLoc>33102</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chitradurga</name>
@@ -3597,7 +5205,11 @@
     <contact>223561</contact>
     <micrCode>577056502</micrCode>
     <ifscCode>LAVB0000205</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13887</bankLoc>
+=======
+    <bankLoc>33168</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kolkatta</name>
@@ -3606,16 +5218,24 @@
     <contact>22480287</contact>
     <micrCode>700056002</micrCode>
     <ifscCode>LAVB0000204</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13978</bankLoc>
+=======
+    <bankLoc>33403</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cumbum</name>
-    <city>Cumbum</city>
+    <city>Theni</city>
     <address>64 65, Velappar Koil Street 1ST Floor, P B NO 5 Cumbum 625 516 Theni</address>
     <contact>271320</contact>
     <micrCode>625056103</micrCode>
     <ifscCode>LAVB0000203</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13959</bankLoc>
+=======
+    <bankLoc>33252</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cuddalore</name>
@@ -3624,16 +5244,24 @@
     <contact>235943</contact>
     <micrCode>605056003</micrCode>
     <ifscCode>LAVB0000202</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33251</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cochin Ernakulam</name>
-    <city>Kochi</city>
+    <city>Ernakulam</city>
     <address>Xxxix 818chittoor Road Karthika 1stfloor Eranakulam Cochin 682 016</address>
     <contact>2376578</contact>
     <micrCode>682056002</micrCode>
     <ifscCode>LAVB0000201</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13908</bankLoc>
+=======
+    <bankLoc>33194</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>C G Nagar Madurai</name>
@@ -3642,7 +5270,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000196</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Echanari Extension C</name>
@@ -3651,7 +5283,11 @@
     <contact>2619292</contact>
     <micrCode>641056104</micrCode>
     <ifscCode>LAVB0000195</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kovaipudur Extension</name>
@@ -3660,16 +5296,24 @@
     <contact>0</contact>
     <micrCode>641056101</micrCode>
     <ifscCode>LAVB0000194</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Eachanary</name>
-    <city>Eachanary</city>
+    <city>Coimbatore</city>
     <address>226e, Pollachi Main Road, Echanari, Upplipalayam 641021 Coimbatore DT.</address>
     <contact>2676027</contact>
     <micrCode>641056010</micrCode>
     <ifscCode>LAVB0000193</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33256</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Koundampalayam</name>
@@ -3678,7 +5322,11 @@
     <contact>2448540</contact>
     <micrCode>641056009</micrCode>
     <ifscCode>LAVB0000192</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Uppilipalayam Coimba</name>
@@ -3687,7 +5335,11 @@
     <contact>2300630</contact>
     <micrCode>641056008</micrCode>
     <ifscCode>LAVB0000191</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>R S Puram Coimbatore</name>
@@ -3696,7 +5348,11 @@
     <contact>2543482</contact>
     <micrCode>641056007</micrCode>
     <ifscCode>LAVB0000190</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ramanathapuram</name>
@@ -3705,7 +5361,11 @@
     <contact>2313584</contact>
     <micrCode>641056006</micrCode>
     <ifscCode>LAVB0000189</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kovaipudur Coimbator</name>
@@ -3714,7 +5374,11 @@
     <contact>2607542</contact>
     <micrCode>641056005</micrCode>
     <ifscCode>LAVB0000188</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Gandhipuram Coimbato</name>
@@ -3723,7 +5387,11 @@
     <contact>2232123</contact>
     <micrCode>641056004</micrCode>
     <ifscCode>LAVB0000187</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ganapathy Coimbatore</name>
@@ -3732,7 +5400,11 @@
     <contact>2331983</contact>
     <micrCode>641056003</micrCode>
     <ifscCode>LAVB0000186</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Coimbatore Main</name>
@@ -3741,7 +5413,11 @@
     <contact>2397439</contact>
     <micrCode>641056002</micrCode>
     <ifscCode>LAVB0000185</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chittoor</name>
@@ -3750,106 +5426,154 @@
     <contact>232182</contact>
     <micrCode>517056102</micrCode>
     <ifscCode>LAVB0000184</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13839</bankLoc>
+=======
+    <bankLoc>33100</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chittode</name>
-    <city>Chittode</city>
+    <city>Erode</city>
     <address>117, Bhavani Main Road P B NO 1 Chittode 638 102 Erode</address>
     <contact>2533288</contact>
     <micrCode>638056003</micrCode>
     <ifscCode>LAVB0000183</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33249</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chinnadarapuram</name>
-    <city>Chinnadharapur</city>
+    <city>Karur</city>
     <address>10 182 Main Road Chinnadharapuram 639 202 Karur DT Tamil Nadu</address>
     <contact>232247</contact>
     <micrCode>639056010</micrCode>
     <ifscCode>LAVB0000182</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33246</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Calicut Kozhikode</name>
-    <city>Calicut</city>
+    <city>Kozhikode</city>
     <address>9 562 Khadeeja Buildings 1ST Floorp B NO 188 Cherooty Road Kozhikode</address>
     <contact>2366268</contact>
     <micrCode>673056002</micrCode>
     <ifscCode>LAVB0000181</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13911</bankLoc>
+=======
+    <bankLoc>33192</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Banashankari</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>NO 2465 24th Crossbanashnakari II Stage Ward NO 56</address>
     <contact>26717001</contact>
     <micrCode>560056011</micrCode>
     <ifscCode>LAVB0000180</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ghatkopar Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shopno 3 AND 4 Siddhi Apartments OPP Gurukhul School Tilak Road Ghatko</address>
     <contact>25163010</contact>
     <micrCode>400056007</micrCode>
     <ifscCode>LAVB0000179</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Borivili Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shopno 8 Kapoor Apartments Chandavarkar Road Borivli</address>
     <contact>28908783</contact>
     <micrCode>400056006</micrCode>
     <ifscCode>LAVB0000178</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vashi  Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Shopno 12 13  14  Shirin APARTMENTSPLOTNO. 15 Sectorno 29 Vashi Navi</address>
     <contact>27662533</contact>
     <micrCode>400056005</micrCode>
     <ifscCode>LAVB0000177</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Andheri Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Swapna Sadan P B NO 18708 Andheri East Mumbai 400 069</address>
     <contact>26844262</contact>
     <micrCode>400056004</micrCode>
     <ifscCode>LAVB0000176</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Matunga Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>4 BY 209 B P B NO 26603 Matunga East Mumbai 400 019great Mumbai DT MAH</address>
     <contact>24070417</contact>
     <micrCode>400056003</micrCode>
     <ifscCode>LAVB0000175</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mumbai Fort</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>64 V B Gandhi Marg  Kalagoda Fort Mumbai 400001</address>
     <contact>22672255</contact>
     <micrCode>400056002</micrCode>
     <ifscCode>LAVB0000174</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13919</bankLoc>
+=======
+    <bankLoc>33210</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Balasamudram</name>
-    <city>Balasamudram</city>
+    <city>Tiruchirapalli</city>
     <address>8 BY 5 D1 AND 8 BY 5 EI Main Road, 1ST Floor Balasamudram 621 203 Tric</address>
     <contact>254353</contact>
     <micrCode>620056009</micrCode>
     <ifscCode>LAVB0000172</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bellary</name>
@@ -3858,106 +5582,154 @@
     <contact>273704</contact>
     <micrCode>583056102</micrCode>
     <ifscCode>LAVB0000171</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13886</bankLoc>
+=======
+    <bankLoc>33167</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhuvanagiri</name>
-    <city>Bhuvanagiri</city>
+    <city>Cuddalore</city>
     <address>16, Mohamadiyar Street Bhuvanagirimain Road, Bhuvanagiri 608 601 Cudda</address>
     <contact>241379</contact>
     <micrCode>605056006</micrCode>
     <ifscCode>LAVB0000170</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13940</bankLoc>
+=======
+    <bankLoc>33243</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>City Market Extensio</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>Stanns Educational Society 73840 Drrajkumar Road Rajaji Nagarban</address>
     <contact>22226917</contact>
     <micrCode>560056101</micrCode>
     <ifscCode>LAVB0000169</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhimavaram</name>
-    <city>Bhimavaram</city>
+    <city>West Godavari</city>
     <address>NO.2717 BY 6, J.P.RAOD, Bhimavaram, West Godavari DT.534 202</address>
     <contact>225299</contact>
     <micrCode>534056402</micrCode>
     <ifscCode>LAVB0000168</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13861</bankLoc>
+=======
+    <bankLoc>33098</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Koramangala Bangalor</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>68, Koramangala IND Layout 5TH Block, Koramangala Bangalore 560 095</address>
     <contact>25630749</contact>
     <micrCode>560056008</micrCode>
     <ifscCode>LAVB0000167</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jalahalli Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>907, M E S Road Mathikere, P O 1stfloor Sree Complex, Jalahalli Banga</address>
     <contact>23451836</contact>
     <micrCode>560056007</micrCode>
     <ifscCode>LAVB0000166</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ulsoor Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>153, OLD Madras Road P B NO 819 Ulsoor Bangalore 560 008 Karnataka</address>
     <contact>25300371</contact>
     <micrCode>560056006</micrCode>
     <ifscCode>LAVB0000165</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>City Market Bangalor</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>1091, OTC Road Nagarathpet, City Market Bangalore 560 002 Karnataka</address>
     <contact>22226917</contact>
     <micrCode>560056003</micrCode>
     <ifscCode>LAVB0000164</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jayanagar Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>460 BY 2, 8TH B Main Road, PTK Complex Ivth Block, Jayanagar Bangalore</address>
     <contact>26645152</contact>
     <micrCode>560056005</micrCode>
     <ifscCode>LAVB0000163</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Cantonment Bangalore</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>141 BY 1, 1ST Floor Dharmaraja Koilstreet Cantonment Bangalore 560 00</address>
     <contact>22865433</contact>
     <micrCode>560056004</micrCode>
     <ifscCode>LAVB0000162</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bangalore Main</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>19 B, 1ST Floor P B NO 9568 BVK Iyengar Road Near Abhinay Theatre Bang</address>
     <contact>22118537</contact>
     <micrCode>560056002</micrCode>
     <ifscCode>LAVB0000161</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhubaneshwar</name>
-    <city>Bhubaneswar</city>
+    <city>Khurda</city>
     <address>Plot No622b, Janpath, Saheed Nagar, Bhubaneshwar 751 007, Orissa</address>
     <contact>2147483647</contact>
     <micrCode>751056002</micrCode>
     <ifscCode>LAVB0000160</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13932</bankLoc>
+=======
+    <bankLoc>33217</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhilwara</name>
@@ -3966,43 +5738,63 @@
     <contact>2147483647</contact>
     <micrCode>311056002</micrCode>
     <ifscCode>LAVB0000159</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13936</bankLoc>
+=======
+    <bankLoc>33225</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bargur</name>
-    <city>Bargur</city>
+    <city>Krishnagiri</city>
     <address>Krishnagiri Main Road, OPP TO Lic, Near Sanjeevi Theatre, Bargur  635108</address>
     <contact>265242</contact>
     <micrCode>635056004</micrCode>
     <ifscCode>LAVB0000158</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13948</bankLoc>
+=======
+    <bankLoc>33241</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Batlagundu</name>
-    <city>Batlagundu</city>
+    <city>Dindigul</city>
     <address>14 Dash 13 Dash 16 BY 1rajamani Servaibuilding Melamandhai</address>
     <contact>262636</contact>
     <micrCode>625056009</micrCode>
     <ifscCode>LAVB0000157</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33242</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bangarpet</name>
-    <city>Bangarpet</city>
+    <city>Kolar</city>
     <address>Masjid Road Adjacent TO Taluk Office</address>
     <contact>255591</contact>
     <micrCode>563056502</micrCode>
     <ifscCode>LAVB0000156</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13898</bankLoc>
+=======
+    <bankLoc>33165</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Basavangudi</name>
-    <city>Bangalore</city>
+    <city>Bangalore Urban</city>
     <address>R S R Building NO 70gandhi Bazaar Main Road</address>
     <contact>26620338</contact>
     <micrCode>560056014</micrCode>
     <ifscCode>LAVB0000155</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13884</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Belgaum</name>
@@ -4011,7 +5803,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000154</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13885</bankLoc>
+=======
+    <bankLoc>33166</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Banjara Hills</name>
@@ -4020,16 +5816,24 @@
     <contact>23734333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000153</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>BTM Layout</name>
-    <city>Bangalore</city>
+    <city>Bangalore Rural</city>
     <address>NO 281, 7TH Main, Mico Ehbcos Layout, BTM II Stage, Bangalore 560 076</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000152</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13883</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bommanahalli</name>
@@ -4038,7 +5842,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000151</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13882</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhopal</name>
@@ -4047,25 +5855,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000150</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13916</bankLoc>
+=======
+    <bankLoc>33202</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Boduppal</name>
-    <city>Hyderabad</city>
+    <city>Rangareddy</city>
     <address>NO 14 East Hanuman Nagar Boduppal Main Road Ghatkesar Mandal Ranga Reddy Hyderabad</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000149</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13975</bankLoc>
+=======
+    <bankLoc>33395</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhavanipuram</name>
-    <city>Vijayawada</city>
+    <city>Krishna</city>
     <address>NO 76 8 Swathi Theatre Centre Krambaz Road Bhavanipuram Vijayawada</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000148</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13847</bankLoc>
+=======
+    <bankLoc>33139</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bharuch</name>
@@ -4074,16 +5894,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000147</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13868</bankLoc>
+=======
+    <bankLoc>33149</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Boisar</name>
-    <city>Boisar</city>
+    <city>Palghar</city>
     <address>NO 384 Ekta Enclave Navapur Naka Boisar Maharashtra 401501</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000146</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13926</bankLoc>
+=======
+    <bankLoc>33205</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bodinayakanur</name>
@@ -4092,7 +5920,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000145</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13959</bankLoc>
+=======
+    <bankLoc>33354</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Basaweshwara Nagar</name>
@@ -4101,7 +5933,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000144</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13882</bankLoc>
+=======
+    <bankLoc>33164</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>A S RAO Nagar</name>
@@ -4110,16 +5946,24 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000136</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13972</bankLoc>
+=======
+    <bankLoc>33395</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Adambakkam</name>
-    <city>Chennai</city>
+    <city>Kancheepuram</city>
     <address>OLD NO 9 NEW NO 26 Mahalakshmi Nagar 2ND Main Road Adambakkam Chennai 600088</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000135</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13944</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ammapet</name>
@@ -4128,7 +5972,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000134</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33336</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Aruppukottai</name>
@@ -4137,7 +5985,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000133</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13971</bankLoc>
+=======
+    <bankLoc>33392</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ashta</name>
@@ -4146,7 +5998,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000132</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13915</bankLoc>
+=======
+    <bankLoc>33201</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ambattur</name>
@@ -4155,7 +6011,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000131</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Alappuzha</name>
@@ -4164,7 +6024,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000130</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13907</bankLoc>
+=======
+    <bankLoc>33191</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Annur</name>
@@ -4173,25 +6037,37 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000129</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13939</bankLoc>
+=======
+    <bankLoc>33250</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ananthavarappadu</name>
-    <city>Ananthavarappadu</city>
+    <city>Guntur</city>
     <address>D NO 1-86, Budampadu Road, Ananthavarappadu, Vatticherukuru</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000128</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33095</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Anakapalle</name>
-    <city>Hyderabad</city>
+    <city>Vizag</city>
     <address>D NO 11-1-35 Main Road, Anakapalle, Anakapalle Dist</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000127</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13857</bankLoc>
+=======
+    <bankLoc>33110</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Amalapuram</name>
@@ -4200,7 +6076,11 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000126</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13837</bankLoc>
+=======
+    <bankLoc>33092</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>NEW Alipur Kolkata II</name>
@@ -4209,16 +6089,24 @@
     <contact>4820900</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000125</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13978</bankLoc>
+=======
+    <bankLoc>33403</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Arasappapillaipatti</name>
-    <city>Oddanchatram</city>
+    <city>Dindigul</city>
     <address>Arasappapillaipatti Arasappapillaipatti Post Oddanchatram Taluk</address>
     <contact>240289</contact>
     <micrCode>NA</micrCode>
     <ifscCode>LAVB0000124</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33312</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Anna Nagar</name>
@@ -4227,43 +6115,63 @@
     <contact>0</contact>
     <micrCode>625056011</micrCode>
     <ifscCode>LAVB0000123</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13949</bankLoc>
+=======
+    <bankLoc>33287</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Angalakuduru</name>
-    <city>Angalakuduru Tenali</city>
+    <city>Guntur</city>
     <address>9 Dash 15 Dash 1 Near J H J Collegeangalakuduru Tenali</address>
     <contact>233033</contact>
     <micrCode>520056202</micrCode>
     <ifscCode>LAVB0000122</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13843</bankLoc>
+=======
+    <bankLoc>33096</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sign BRN Ameerpet</name>
-    <city>Ameerpet</city>
+    <city>Hyderabad</city>
     <address>Show Room NO2 Aditya Trade Centre Ameerpet Hyderabad 500038</address>
     <contact>23734333</contact>
     <micrCode>500056009</micrCode>
     <ifscCode>LAVB0000121</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13844</bankLoc>
+=======
+    <bankLoc>33093</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Asifabad</name>
-    <city>Asifabad</city>
+    <city>Adilabad</city>
     <address>NO.6 58 BY 10, Beside Chaitanya Degree  College, Main Road, Asifabad 504</address>
     <contact>868288</contact>
     <micrCode>504056622</micrCode>
     <ifscCode>LAVB0000120</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13836</bankLoc>
+=======
+    <bankLoc>33097</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ayothiapattinam</name>
-    <city>Ayodhyapatinam</city>
+    <city>Salem</city>
     <address>68 B, Harur Main Road, Ayothiapattinam, 636 103 Salem DT, Tamil Nadu</address>
     <contact>2290052</contact>
     <micrCode>636056009</micrCode>
     <ifscCode>LAVB0000119</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33238</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ananthapur</name>
@@ -4272,7 +6180,11 @@
     <contact>274477</contact>
     <micrCode>515056002</micrCode>
     <ifscCode>LAVB0000118</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13838</bankLoc>
+=======
+    <bankLoc>33094</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Adilabad</name>
@@ -4281,16 +6193,24 @@
     <contact>232606</contact>
     <micrCode>504056002</micrCode>
     <ifscCode>LAVB0000117</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13836</bankLoc>
+=======
+    <bankLoc>33090</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ambagarathur</name>
-    <city>Ambagarathur</city>
+    <city>Karaikal</city>
     <address>67, Main Road Ambagarathur 609 601pondicherry</address>
     <contact>252800</contact>
     <micrCode>609056103</micrCode>
     <ifscCode>LAVB0000116</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13933</bankLoc>
+=======
+    <bankLoc>33221</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Anand</name>
@@ -4299,115 +6219,167 @@
     <contact>244239</contact>
     <micrCode>388056001</micrCode>
     <ifscCode>LAVB0000115</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13867</bankLoc>
+=======
+    <bankLoc>33148</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ahmadabad</name>
-    <city>Ahmedabad</city>
+    <city>Ahmadabad</city>
     <address>I Floor Navrangpura Ahmedabad 380 014 Gujarat</address>
     <contact>26430787</contact>
     <micrCode>380056002</micrCode>
     <ifscCode>LAVB0000114</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13866</bankLoc>
+=======
+    <bankLoc>33147</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ambilikkai</name>
-    <city>Ambilikkai</city>
+    <city>Dindigul</city>
     <address>4 BY 295, Dharapuram Road Ambilikkai 624 612 Dindigul DT, Tamil Nadu</address>
     <contact>249010</contact>
     <micrCode>624056006</micrCode>
     <ifscCode>LAVB0000113</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13942</bankLoc>
+=======
+    <bankLoc>33229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Alathur</name>
-    <city>Alathur</city>
+    <city>Thanjavur</city>
     <address>R S NO 143 BY 5 B 1main Road Alathur 614901 Thanjavur</address>
     <contact>226011</contact>
     <micrCode>614056104</micrCode>
     <ifscCode>LAVB0000112</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13958</bankLoc>
+=======
+    <bankLoc>33228</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Avalpoondurai</name>
-    <city>Avalpoondurai</city>
+    <city>Erode</city>
     <address>47 A, First Floor Easwaran Koil Street P B NO 20 Avalpoondurai 638 115</address>
     <contact>2331260</contact>
     <micrCode>638056012</micrCode>
     <ifscCode>LAVB0000111</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13943</bankLoc>
+=======
+    <bankLoc>33237</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Attur</name>
-    <city>Attur</city>
+    <city>Salem</city>
     <address>339 L First Floor Ranipet, P B NO 19 Cuddalore, Main Road Attur 636 10</address>
     <contact>2240731</contact>
     <micrCode>636056015</micrCode>
     <ifscCode>LAVB0000110</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13955</bankLoc>
+=======
+    <bankLoc>33236</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Arni</name>
-    <city>Arni</city>
+    <city>Tiruvannamalai</city>
     <address>M C Complex Thatchur Road P B NO 20arni 632 301 Vellore DT, Tamil NA</address>
     <contact>226018</contact>
     <micrCode>632056202</micrCode>
     <ifscCode>LAVB0000109</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13965</bankLoc>
+=======
+    <bankLoc>33235</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ariyalur</name>
-    <city>Ariyalur</city>
+    <city>Villupuram</city>
     <address>17 D, Vilangara Streetp B NO 1 Ariyalur 621 704 Perambalur DT, Tamil N</address>
     <contact>222040</contact>
     <micrCode>621056002</micrCode>
     <ifscCode>LAVB0000108</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33234</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Arantangi</name>
-    <city>Arantangi</city>
+    <city>Pudukkottai</city>
     <address>61, Taluk Office Road, Arantangi 614 616 Pudukkottai DT, Tamil Nadu</address>
     <contact>220571</contact>
     <micrCode>630056003</micrCode>
     <ifscCode>LAVB0000107</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13954</bankLoc>
+=======
+    <bankLoc>33233</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Arakandanallur</name>
-    <city>Arakandanalr</city>
+    <city>Villupuram</city>
     <address>138, Kamaraj Road Arakandanallur 605 752 Villupuram</address>
     <contact>224244</contact>
     <micrCode>606056004</micrCode>
     <ifscCode>LAVB0000106</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13970</bankLoc>
+=======
+    <bankLoc>33231</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Anbil</name>
-    <city>Lalgudi</city>
+    <city>Tiruchirapalli</city>
     <address>2 BY 237, Main Road Mangammalpuram, Anbil 621 702, Trichy DT</address>
     <contact>2541287</contact>
     <micrCode>620056011</micrCode>
     <ifscCode>LAVB0000105</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13962</bankLoc>
+=======
+    <bankLoc>33284</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ambur</name>
-    <city>Ambur</city>
+    <city>Vellore</city>
     <address>NO 87, Broad Bazaarp B NO 35 Ambur635802 Vellore</address>
     <contact>242126</contact>
     <micrCode>635056302</micrCode>
     <ifscCode>LAVB0000104</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13969</bankLoc>
+=======
+    <bankLoc>33230</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Adoni</name>
-    <city>Adoni</city>
+    <city>Kurnool</city>
     <address>12 BY 510 Municipal Main Road P B NO 17adoni 518301karnool DT A P</address>
     <contact>252427</contact>
     <micrCode>518056202</micrCode>
     <ifscCode>LAVB0000103</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13848</bankLoc>
+=======
+    <bankLoc>33091</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Accounts Dept</name>
@@ -4416,7 +6388,11 @@
     <contact>0</contact>
     <micrCode>600056105</micrCode>
     <ifscCode>LAVB0000102</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13947</bankLoc>
+=======
+    <bankLoc>33272</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chennai ZO</name>
@@ -4425,6 +6401,10 @@
     <contact>0</contact>
     <micrCode>600056103</micrCode>
     <ifscCode>LAVB0000101</ifscCode>
+<<<<<<< HEAD
     <bankLoc>13938</bankLoc>
+=======
+    <bankLoc>33245</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

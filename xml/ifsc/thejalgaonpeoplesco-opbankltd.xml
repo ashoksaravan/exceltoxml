@@ -6,7 +6,11 @@
     <contact>0</contact>
     <micrCode>425740202</micrCode>
     <ifscCode>JPCB0000040</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22849</bankLoc>
+=======
+    <bankLoc>51234</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Amravati</name>
@@ -15,7 +19,11 @@
     <contact>0</contact>
     <micrCode>444740101</micrCode>
     <ifscCode>JPCB0000039</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22843</bankLoc>
+=======
+    <bankLoc>51220</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kolhapur</name>
@@ -24,7 +32,11 @@
     <contact>0</contact>
     <micrCode>416740002</micrCode>
     <ifscCode>JPCB0000038</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22848</bankLoc>
+=======
+    <bankLoc>51232</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Buldhana</name>
@@ -33,25 +45,37 @@
     <contact>0</contact>
     <micrCode>443740002</micrCode>
     <ifscCode>JPCB0000037</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22845</bankLoc>
+=======
+    <bankLoc>51225</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Burhanpur</name>
-    <city>Burhanpur</city>
+    <city>Khandwa</city>
     <address>Block NO 37 PL NO 44/1, 45, 46/1, 46/2 House NO 137 Shah Bazar, Shastri Chowk OPP Shani Mandir Burhanpur MP 450331</address>
     <contact>254218</contact>
     <micrCode>450740001</micrCode>
     <ifscCode>JPCB0000036</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22842</bankLoc>
+=======
+    <bankLoc>51218</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Malkapur</name>
-    <city>Malkapur</city>
+    <city>Buldhana</city>
     <address>Buldhala ROA Apposit Hanuman Theather Malkapur</address>
     <contact>0</contact>
     <micrCode>443740052</micrCode>
     <ifscCode>JPCB0000035</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22845</bankLoc>
+=======
+    <bankLoc>51233</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sinhgad Road</name>
@@ -60,34 +84,50 @@
     <contact>0</contact>
     <micrCode>411740007</micrCode>
     <ifscCode>JPCB0000034</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22851</bankLoc>
+=======
+    <bankLoc>51240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Parola</name>
-    <city>Parola</city>
+    <city>Jalgaon</city>
     <address>CTS NO 2925 Gujrathi Galli Parola 425111</address>
     <contact>0</contact>
     <micrCode>425740506</micrCode>
     <ifscCode>JPCB0000033</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51239</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Raver</name>
-    <city>Raver</city>
+    <city>Jalgaon</city>
     <address>Drushti Hospital Ground Floor Survay NO 2259 Rambag Raver 425508</address>
     <contact>250082</contact>
     <micrCode>425740252</micrCode>
     <ifscCode>JPCB0000032</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51241</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Amalner</name>
-    <city>Amalner</city>
+    <city>Jalgaon</city>
     <address>Survay NO 47/11 NEW Plot Behind Shivaji Gardan Amalner 425401</address>
     <contact>0</contact>
     <micrCode>425740152</micrCode>
     <ifscCode>JPCB0000031</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51219</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Akurdi</name>
@@ -96,7 +136,11 @@
     <contact>2765117</contact>
     <micrCode>411740006</micrCode>
     <ifscCode>JPCB0000030</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22851</bankLoc>
+=======
+    <bankLoc>51240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nashik Road</name>
@@ -105,7 +149,11 @@
     <contact>2463727</contact>
     <micrCode>422109252</micrCode>
     <ifscCode>JPCB0000029</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22850</bankLoc>
+=======
+    <bankLoc>51236</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Aurangabad Hudco</name>
@@ -114,43 +162,63 @@
     <contact>2380355</contact>
     <micrCode>431836003</micrCode>
     <ifscCode>JPCB0000028</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22844</bankLoc>
+=======
+    <bankLoc>51222</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kalyan</name>
-    <city>Kalyan</city>
+    <city>Thane</city>
     <address>AUM Supreme, Shop NO.8, Ramwadi, OLD Bail Bazarq</address>
     <contact>2306865</contact>
     <micrCode>400109255</micrCode>
     <ifscCode>JPCB0000027</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22853</bankLoc>
+=======
+    <bankLoc>51230</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vashi Branch</name>
-    <city>Vashi</city>
+    <city>Thane</city>
     <address>C-64, Apmc Market, Sector-19, Vashi, Navi Mumbai</address>
     <contact>27882791</contact>
     <micrCode>400109259</micrCode>
     <ifscCode>JPCB0000026</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22853</bankLoc>
+=======
+    <bankLoc>51242</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Chopda</name>
-    <city>Chopda</city>
+    <city>Jalgaon</city>
     <address>C.S. NO. 2528/2529, Near Ambedkar Statue</address>
     <contact>222033</contact>
     <micrCode>425999025</micrCode>
     <ifscCode>JPCB0000025</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51226</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Panvel</name>
-    <city>Panvel</city>
+    <city>Raigad</city>
     <address>Parmar House, Plot NO. 236, OPP. OLD Telephone Exch</address>
     <contact>27453817</contact>
     <micrCode>400109258</micrCode>
     <ifscCode>JPCB0000024</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22852</bankLoc>
+=======
+    <bankLoc>51238</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nasik</name>
@@ -159,7 +227,11 @@
     <contact>2370727</contact>
     <micrCode>422109252</micrCode>
     <ifscCode>JPCB0000023</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22850</bankLoc>
+=======
+    <bankLoc>51236</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Sangvi</name>
@@ -168,16 +240,24 @@
     <contact>27250196</contact>
     <micrCode>411109260</micrCode>
     <ifscCode>JPCB0000022</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22851</bankLoc>
+=======
+    <bankLoc>51240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dombivali</name>
-    <city>Dombivali</city>
+    <city>Thane</city>
     <address>Bhadsawle Buglow, Agarkar Road</address>
     <contact>2430166</contact>
     <micrCode>400109255</micrCode>
     <ifscCode>JPCB0000021</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22853</bankLoc>
+=======
+    <bankLoc>51228</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Paud Road</name>
@@ -186,7 +266,11 @@
     <contact>25447893</contact>
     <micrCode>411109259</micrCode>
     <ifscCode>JPCB0000020</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22851</bankLoc>
+=======
+    <bankLoc>51240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Dhule</name>
@@ -195,7 +279,11 @@
     <contact>235487</contact>
     <micrCode>424836019</micrCode>
     <ifscCode>JPCB0000019</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22846</bankLoc>
+=======
+    <bankLoc>51227</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Hadapsar</name>
@@ -204,7 +292,11 @@
     <contact>26812852</contact>
     <micrCode>411109255</micrCode>
     <ifscCode>JPCB0000018</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22851</bankLoc>
+=======
+    <bankLoc>51240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pimpri</name>
@@ -213,7 +305,11 @@
     <contact>27424490</contact>
     <micrCode>411109252</micrCode>
     <ifscCode>JPCB0000017</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22851</bankLoc>
+=======
+    <bankLoc>51240</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Aurangabad</name>
@@ -222,7 +318,11 @@
     <contact>2346713</contact>
     <micrCode>431836002</micrCode>
     <ifscCode>JPCB0000016</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22844</bankLoc>
+=======
+    <bankLoc>51222</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Lewa Boarding</name>
@@ -231,25 +331,37 @@
     <contact>2240649</contact>
     <micrCode>425836015</micrCode>
     <ifscCode>JPCB0000015</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pachora</name>
-    <city>Pachora</city>
+    <city>Jalgaon</city>
     <address>Shop NO. 15, Laxmi Plaza</address>
     <contact>240185</contact>
     <micrCode>424999014</micrCode>
     <ifscCode>JPCB0000014</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51237</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhusawal</name>
-    <city>Bhusawal</city>
+    <city>Jalgaon</city>
     <address>Shop NO. 1, 2,3 &amp; 4, Nisarg Plaza, Jamner Road</address>
     <contact>229988</contact>
     <micrCode>452999013</micrCode>
     <ifscCode>JPCB0000013</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51224</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Mahabal Colony</name>
@@ -258,43 +370,63 @@
     <contact>2261512</contact>
     <micrCode>425836012</micrCode>
     <ifscCode>JPCB0000012</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Kanalda</name>
-    <city>Kanalda</city>
+    <city>Jalgaon</city>
     <address>AT Post:  Kanalda, Tal: JALGAON.</address>
     <contact>2467512</contact>
     <micrCode>425836011</micrCode>
     <ifscCode>JPCB0000011</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51231</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Bhadali</name>
-    <city>Bhadali</city>
+    <city>Jalgaon</city>
     <address>AT Post:  Bhadali, Tal: JALGAON.</address>
     <contact>2465629</contact>
     <micrCode>425836010</micrCode>
     <ifscCode>JPCB0000010</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51223</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Asoda</name>
-    <city>Asoda</city>
+    <city>Jalgaon</city>
     <address>AT Post:  Asoda, Tal: JALGAON.</address>
     <contact>2357517</contact>
     <micrCode>425836009</micrCode>
     <ifscCode>JPCB0000009</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51221</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Nashirabad</name>
-    <city>Nashirabad</city>
+    <city>Jalgaon</city>
     <address>AT Post: Nashirabad</address>
     <contact>2356254</contact>
     <micrCode>425836008</micrCode>
     <ifscCode>JPCB0000008</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51235</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>M.J.COLLEGE</name>
@@ -303,7 +435,11 @@
     <contact>2227703</contact>
     <micrCode>425836007</micrCode>
     <ifscCode>JPCB0000007</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ganesh Colony</name>
@@ -312,7 +448,11 @@
     <contact>2252704</contact>
     <micrCode>425836006</micrCode>
     <ifscCode>JPCB0000006</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>M.I.D.C.</name>
@@ -321,7 +461,11 @@
     <contact>2272811</contact>
     <micrCode>425836005</micrCode>
     <ifscCode>JPCB0000005</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vitthal Peth</name>
@@ -330,7 +474,11 @@
     <contact>2227718</contact>
     <micrCode>425836004</micrCode>
     <ifscCode>JPCB0000004</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Ganesh Wadi</name>
@@ -339,7 +487,11 @@
     <contact>2237714</contact>
     <micrCode>425836003</micrCode>
     <ifscCode>JPCB0000003</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Jilha Peth</name>
@@ -348,7 +500,11 @@
     <contact>2240645</contact>
     <micrCode>425836002</micrCode>
     <ifscCode>JPCB0000002</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -357,6 +513,10 @@
     <contact>2227711</contact>
     <micrCode>425836001</micrCode>
     <ifscCode>JPCB0000001</ifscCode>
+<<<<<<< HEAD
     <bankLoc>22847</bankLoc>
+=======
+    <bankLoc>51229</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

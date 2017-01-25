@@ -6,7 +6,11 @@
     <contact>0</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX04</ifscCode>
+<<<<<<< HEAD
     <bankLoc>12918</bankLoc>
+=======
+    <bankLoc>30819</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Devanahalli Branch</name>
@@ -15,7 +19,11 @@
     <contact>67693200</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX03</ifscCode>
+<<<<<<< HEAD
     <bankLoc>12916</bankLoc>
+=======
+    <bankLoc>30817</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Branch</name>
@@ -24,7 +32,11 @@
     <contact>66111700</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX02</ifscCode>
+<<<<<<< HEAD
     <bankLoc>12915</bankLoc>
+=======
+    <bankLoc>30816</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -33,6 +45,10 @@
     <contact>61573836</contact>
     <micrCode>400500002</micrCode>
     <ifscCode>CHAS0INBX01</ifscCode>
+<<<<<<< HEAD
     <bankLoc>12917</bankLoc>
+=======
+    <bankLoc>30818</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

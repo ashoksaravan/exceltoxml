@@ -1,12 +1,28 @@
 <bankBranchs>
   <bankbranch>
+<<<<<<< HEAD
+=======
+    <name>Rtgs-ho</name>
+    <city>Mumbai</city>
+    <address>GR.FLOOR, Sakhar Bhavan, Nariman Point, 40021</address>
+    <contact>33941133</contact>
+    <micrCode>400234252</micrCode>
+    <ifscCode>DOHB0000001</ifscCode>
+    <bankLoc>19736</bankLoc>
+  </bankbranch>
+  <bankbranch>
+>>>>>>> origin/master
     <name>Kochi</name>
     <city>Kochi</city>
     <address>1ST Floor, Golden Plaza, Chittoor Road, OPP Mymoon Theater, Ernakulam, Kochi 682018</address>
     <contact>2370507</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DOHB0000003</ifscCode>
+<<<<<<< HEAD
     <bankLoc>9316</bankLoc>
+=======
+    <bankLoc>19735</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Raheja Center</name>
@@ -15,6 +31,7 @@
     <contact>33941120</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DOHB0000002</ifscCode>
+<<<<<<< HEAD
     <bankLoc>9317</bankLoc>
   </bankbranch>
   <bankbranch>
@@ -25,5 +42,8 @@
     <micrCode>400234252</micrCode>
     <ifscCode>DOHB0000001</ifscCode>
     <bankLoc>9317</bankLoc>
+=======
+    <bankLoc>19736</bankLoc>
+>>>>>>> origin/master
   </bankbranch>
 </bankBranchs>
