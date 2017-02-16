@@ -1,5 +1,14 @@
 <bankBranchs>
   <bankbranch>
+    <name>Gurgaon Branch</name>
+    <city>Gurgaon</city>
+    <address>1ST Floor, A-block, Salcon Platina Building, DLF Phase 1, Sikanderpur, MG Road, Sector - 28, Gurgaon</address>
+    <contact>3046700</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>HVBK0000002</ifscCode>
+    <bankLoc>26636</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Chennai Branch</name>
     <city>Chennai</city>
     <address>6TH Floor, EA Chambers No:49, 50l, Whites Road, Royapettah</address>
@@ -9,7 +18,7 @@
 <<<<<<< HEAD
     <bankLoc>26459</bankLoc>
 =======
-    <bankLoc>55164</bankLoc>
+    <bankLoc>26637</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

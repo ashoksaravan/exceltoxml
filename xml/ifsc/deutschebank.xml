@@ -5,11 +5,29 @@
     <address>Brooke House, 9, Shakespeare Sarani, Kolkatta - 700 071.</address>
     <contact>0</contact>
     <micrCode>700200002</micrCode>
+    <ifscCode>DEUT0917TRS</ifscCode>
+    <bankLoc>9163</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolkatta</name>
+    <city>Kolkatta</city>
+    <address>Brooke House, 9, Shakespeare Sarani, Kolkatta - 700 071.</address>
+    <contact>0</contact>
+    <micrCode>700200002</micrCode>
     <ifscCode>DEUT0917CAL</ifscCode>
 <<<<<<< HEAD
     <bankLoc>9115</bankLoc>
 =======
-    <bankLoc>19534</bankLoc>
+    <bankLoc>9163</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chennai</name>
+    <city>Chennai</city>
+    <address>4-4a Western Towers, Shafi Mohammad Road</address>
+    <contact>0</contact>
+    <micrCode>600200002</micrCode>
+    <ifscCode>DEUT0916TRS</ifscCode>
+    <bankLoc>9158</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -22,7 +40,16 @@
 <<<<<<< HEAD
     <bankLoc>9110</bankLoc>
 =======
-    <bankLoc>19529</bankLoc>
+    <bankLoc>9158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bangalore</name>
+    <city>Bangalore</city>
+    <address>Raheja Towers, 26-27, M G Road, Bangalore - 560 001</address>
+    <contact>0</contact>
+    <micrCode>560200002</micrCode>
+    <ifscCode>DEUT0797TRS</ifscCode>
+    <bankLoc>9151</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -35,7 +62,16 @@
 <<<<<<< HEAD
     <bankLoc>9103</bankLoc>
 =======
-    <bankLoc>19522</bankLoc>
+    <bankLoc>9151</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Delhi</name>
+    <city>Delhi</city>
+    <address>ECE House, 28 - K G Marg  NEW Delhi, India</address>
+    <contact>0</contact>
+    <micrCode>110200002</micrCode>
+    <ifscCode>DEUT0796TRS</ifscCode>
+    <bankLoc>9147</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -48,20 +84,29 @@
 <<<<<<< HEAD
     <bankLoc>9099</bankLoc>
 =======
-    <bankLoc>19518</bankLoc>
+    <bankLoc>9147</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mumbai</name>
+    <city>Mumbai</city>
+    <address>DR. D.N.ROAD, Fort, Mumbai, India 400001</address>
+    <contact>0</contact>
+    <micrCode>400200002</micrCode>
+    <ifscCode>DEUT0784TRS</ifscCode>
+    <bankLoc>9153</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Khar</name>
     <city>Greater Mumbai</city>
-    <address>110, Sidrah, S V Road, Khar, Mumbai?á- 400052.</address>
+    <address>110, Sidrah, S V Road, Khar, Mumbai?ï¿½- 400052.</address>
     <contact>0</contact>
     <micrCode>400200003</micrCode>
     <ifscCode>DEUT0784PBC</ifscCode>
 <<<<<<< HEAD
     <bankLoc>9105</bankLoc>
 =======
-    <bankLoc>19524</bankLoc>
+    <bankLoc>9153</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -74,7 +119,7 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19526</bankLoc>
+    <bankLoc>9155</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -87,7 +132,7 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19526</bankLoc>
+    <bankLoc>9155</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -100,7 +145,7 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19526</bankLoc>
+    <bankLoc>9155</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -113,7 +158,7 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19526</bankLoc>
+    <bankLoc>9155</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -126,7 +171,7 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19524</bankLoc>
+    <bankLoc>9153</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -139,20 +184,20 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19524</bankLoc>
+    <bankLoc>9153</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
     <city>Pune</city>
-    <address>Suprem, ?öcts NO. 1337/2, S.NO. 133/1 +2 &amp; 134 / 2, Main ITI Road, Aundh, Pune -411007</address>
+    <address>Suprem, ?ï¿½cts NO. 1337/2, S.NO. 133/1 +2 &amp; 134 / 2, Main ITI Road, Aundh, Pune -411007</address>
     <contact>0</contact>
     <micrCode>411200002</micrCode>
     <ifscCode>DEUT0537PUN</ifscCode>
 <<<<<<< HEAD
     <bankLoc>9108</bankLoc>
 =======
-    <bankLoc>19527</bankLoc>
+    <bankLoc>9156</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -165,7 +210,7 @@
 <<<<<<< HEAD
     <bankLoc>9100</bankLoc>
 =======
-    <bankLoc>19519</bankLoc>
+    <bankLoc>9148</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -178,7 +223,7 @@
 <<<<<<< HEAD
     <bankLoc>9100</bankLoc>
 =======
-    <bankLoc>19519</bankLoc>
+    <bankLoc>9148</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -191,7 +236,7 @@
 <<<<<<< HEAD
     <bankLoc>9101</bankLoc>
 =======
-    <bankLoc>19520</bankLoc>
+    <bankLoc>9149</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -204,7 +249,7 @@
 <<<<<<< HEAD
     <bankLoc>9109</bankLoc>
 =======
-    <bankLoc>19528</bankLoc>
+    <bankLoc>9157</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -217,7 +262,7 @@
 <<<<<<< HEAD
     <bankLoc>9113</bankLoc>
 =======
-    <bankLoc>19532</bankLoc>
+    <bankLoc>9161</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -230,7 +275,7 @@
 <<<<<<< HEAD
     <bankLoc>9111</bankLoc>
 =======
-    <bankLoc>19530</bankLoc>
+    <bankLoc>9159</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -243,7 +288,7 @@
 <<<<<<< HEAD
     <bankLoc>9112</bankLoc>
 =======
-    <bankLoc>19531</bankLoc>
+    <bankLoc>9160</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -256,7 +301,7 @@
 <<<<<<< HEAD
     <bankLoc>9102</bankLoc>
 =======
-    <bankLoc>19521</bankLoc>
+    <bankLoc>9150</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -269,7 +314,7 @@
 <<<<<<< HEAD
     <bankLoc>9114</bankLoc>
 =======
-    <bankLoc>19533</bankLoc>
+    <bankLoc>9162</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -282,7 +327,7 @@
 <<<<<<< HEAD
     <bankLoc>9104</bankLoc>
 =======
-    <bankLoc>19523</bankLoc>
+    <bankLoc>9152</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -295,7 +340,7 @@
 <<<<<<< HEAD
     <bankLoc>9106</bankLoc>
 =======
-    <bankLoc>19525</bankLoc>
+    <bankLoc>9154</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -308,7 +353,7 @@
 <<<<<<< HEAD
     <bankLoc>9107</bankLoc>
 =======
-    <bankLoc>19526</bankLoc>
+    <bankLoc>9155</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

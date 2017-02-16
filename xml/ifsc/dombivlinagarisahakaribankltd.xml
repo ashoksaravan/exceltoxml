@@ -1,5 +1,23 @@
 <bankBranchs>
   <bankbranch>
+    <name>Sangamner</name>
+    <city>Ahmednagar</city>
+    <address>Ground Floor, Dhole Empire, Near Sahyadri College, Govind Nagar, Nashik-pune Highway, Sangamner, District - Ahmednagar 422 605</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>DNSB0000079</ifscCode>
+    <bankLoc>9366</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sinhgad Road</name>
+    <city>Pune</city>
+    <address>Survey NO 25/03/1, 1ST Floor, Krishnangan Heights, Sinhgad Road, Mouje Hingane Khurd, TAL. Haveli, DIST. Pune-411051</address>
+    <contact>24347259</contact>
+    <micrCode>411235003</micrCode>
+    <ifscCode>DNSB0000078</ifscCode>
+    <bankLoc>9374</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Kudal</name>
     <city>Kudal</city>
     <address>Kudal, DIST.SINDHUDURG, Patkar Complex, Ground Floor, Survey NO. 259/10b/1, AT Village Kudal, Taluka -kudal, DIST. Sindhudurg, Pincode 416520</address>
@@ -9,7 +27,7 @@
 <<<<<<< HEAD
     <bankLoc>9331</bankLoc>
 =======
-    <bankLoc>19750</bankLoc>
+    <bankLoc>9379</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -22,7 +40,7 @@
 <<<<<<< HEAD
     <bankLoc>9327</bankLoc>
 =======
-    <bankLoc>19746</bankLoc>
+    <bankLoc>9375</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -35,7 +53,7 @@
 <<<<<<< HEAD
     <bankLoc>9328</bankLoc>
 =======
-    <bankLoc>19747</bankLoc>
+    <bankLoc>9376</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -48,7 +66,7 @@
 <<<<<<< HEAD
     <bankLoc>9326</bankLoc>
 =======
-    <bankLoc>19745</bankLoc>
+    <bankLoc>9374</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -61,7 +79,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -74,7 +92,7 @@
 <<<<<<< HEAD
     <bankLoc>9318</bankLoc>
 =======
-    <bankLoc>19737</bankLoc>
+    <bankLoc>9366</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -87,7 +105,7 @@
 <<<<<<< HEAD
     <bankLoc>9324</bankLoc>
 =======
-    <bankLoc>19743</bankLoc>
+    <bankLoc>9372</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -100,7 +118,7 @@
 <<<<<<< HEAD
     <bankLoc>9329</bankLoc>
 =======
-    <bankLoc>19748</bankLoc>
+    <bankLoc>9377</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -113,7 +131,7 @@
 <<<<<<< HEAD
     <bankLoc>9323</bankLoc>
 =======
-    <bankLoc>19742</bankLoc>
+    <bankLoc>9371</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -126,7 +144,7 @@
 <<<<<<< HEAD
     <bankLoc>9327</bankLoc>
 =======
-    <bankLoc>19746</bankLoc>
+    <bankLoc>9375</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -139,7 +157,7 @@
 <<<<<<< HEAD
     <bankLoc>9320</bankLoc>
 =======
-    <bankLoc>19739</bankLoc>
+    <bankLoc>9368</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -152,7 +170,7 @@
 <<<<<<< HEAD
     <bankLoc>9330</bankLoc>
 =======
-    <bankLoc>19749</bankLoc>
+    <bankLoc>9378</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -165,7 +183,7 @@
 <<<<<<< HEAD
     <bankLoc>9330</bankLoc>
 =======
-    <bankLoc>19749</bankLoc>
+    <bankLoc>9378</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -178,7 +196,7 @@
 <<<<<<< HEAD
     <bankLoc>9319</bankLoc>
 =======
-    <bankLoc>19738</bankLoc>
+    <bankLoc>9367</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -191,7 +209,7 @@
 <<<<<<< HEAD
     <bankLoc>9321</bankLoc>
 =======
-    <bankLoc>19740</bankLoc>
+    <bankLoc>9369</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -204,7 +222,7 @@
 <<<<<<< HEAD
     <bankLoc>9321</bankLoc>
 =======
-    <bankLoc>19740</bankLoc>
+    <bankLoc>9369</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -217,7 +235,7 @@
 <<<<<<< HEAD
     <bankLoc>9324</bankLoc>
 =======
-    <bankLoc>19743</bankLoc>
+    <bankLoc>9372</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -230,7 +248,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -243,7 +261,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -256,7 +274,7 @@
 <<<<<<< HEAD
     <bankLoc>9326</bankLoc>
 =======
-    <bankLoc>19745</bankLoc>
+    <bankLoc>9374</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -269,7 +287,7 @@
 <<<<<<< HEAD
     <bankLoc>9325</bankLoc>
 =======
-    <bankLoc>19744</bankLoc>
+    <bankLoc>9373</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -282,7 +300,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -295,7 +313,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -308,7 +326,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -321,7 +339,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -334,7 +352,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -347,7 +365,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -360,7 +378,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -373,7 +391,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -386,7 +404,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -399,7 +417,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -412,7 +430,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -425,7 +443,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -438,7 +456,7 @@
 <<<<<<< HEAD
     <bankLoc>9327</bankLoc>
 =======
-    <bankLoc>19746</bankLoc>
+    <bankLoc>9375</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -451,7 +469,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -464,7 +482,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -477,7 +495,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -490,7 +508,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -503,7 +521,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -516,7 +534,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -529,7 +547,7 @@
 <<<<<<< HEAD
     <bankLoc>9322</bankLoc>
 =======
-    <bankLoc>19741</bankLoc>
+    <bankLoc>9370</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -542,7 +560,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -555,7 +573,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -568,7 +586,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -581,7 +599,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -594,7 +612,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -607,7 +625,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -620,7 +638,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -633,7 +651,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -646,7 +664,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -659,7 +677,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -672,7 +690,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -685,7 +703,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -698,7 +716,7 @@
 <<<<<<< HEAD
     <bankLoc>9332</bankLoc>
 =======
-    <bankLoc>19751</bankLoc>
+    <bankLoc>9380</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
 </bankBranchs>

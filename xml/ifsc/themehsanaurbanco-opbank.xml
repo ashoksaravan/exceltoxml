@@ -1,5 +1,32 @@
 <bankBranchs>
   <bankbranch>
+    <name>Morbi</name>
+    <city>Morbi</city>
+    <address>7/3091, Ground Floor, OPP Harsh Petrol Pump, Near Sardar Buag, Sanada Road</address>
+    <contact>0</contact>
+    <micrCode>363313021</micrCode>
+    <ifscCode>MSNU0000052</ifscCode>
+    <bankLoc>23063</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bopal</name>
+    <city>Ahmedabad</city>
+    <address>45 Amrapali Axiom, Bopal Cross Road, SP Ring Road, Near Sankalp Restaurant, Ambali</address>
+    <contact>0</contact>
+    <micrCode>380313013</micrCode>
+    <ifscCode>MSNU0000051</ifscCode>
+    <bankLoc>23056</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gozariya</name>
+    <city>Gozariya</city>
+    <address>Shop NO 43 TO 48, 1ST Floor, Jalaram Complex, Near Sardar Patel Circle</address>
+    <contact>0</contact>
+    <micrCode>382313161</micrCode>
+    <ifscCode>MSNU0000050</ifscCode>
+    <bankLoc>23062</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Borivali West</name>
     <city>Mumbai</city>
     <address>Ground Floor, Mahek Plaza, OFF Chandavarkar Road, Maharashtra Nagar, Borivali (W), Mumbai</address>
@@ -9,7 +36,7 @@
 <<<<<<< HEAD
     <bankLoc>22913</bankLoc>
 =======
-    <bankLoc>51302</bankLoc>
+    <bankLoc>23069</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -22,7 +49,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -35,7 +62,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -48,7 +75,7 @@
 <<<<<<< HEAD
     <bankLoc>22905</bankLoc>
 =======
-    <bankLoc>51294</bankLoc>
+    <bankLoc>23060</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -61,7 +88,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -74,7 +101,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -87,7 +114,7 @@
 <<<<<<< HEAD
     <bankLoc>22908</bankLoc>
 =======
-    <bankLoc>51297</bankLoc>
+    <bankLoc>23064</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -100,7 +127,7 @@
 <<<<<<< HEAD
     <bankLoc>22905</bankLoc>
 =======
-    <bankLoc>51294</bankLoc>
+    <bankLoc>23060</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -113,20 +140,20 @@
 <<<<<<< HEAD
     <bankLoc>22902</bankLoc>
 =======
-    <bankLoc>51291</bankLoc>
+    <bankLoc>23057</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
     <name>Vapi</name>
     <city>Vapi</city>
-    <address>4  5-6-7 Grould Floor, Girnar Khushbu Plaza, NR Gunjan Char Rasta Vapi ?Û 396195</address>
+    <address>4  5-6-7 Grould Floor, Girnar Khushbu Plaza, NR Gunjan Char Rasta Vapi ?ï¿½ 396195</address>
     <contact>0</contact>
     <micrCode>396313031</micrCode>
     <ifscCode>MSNU0000040</ifscCode>
 <<<<<<< HEAD
     <bankLoc>22912</bankLoc>
 =======
-    <bankLoc>51301</bankLoc>
+    <bankLoc>23068</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -139,7 +166,7 @@
 <<<<<<< HEAD
     <bankLoc>22904</bankLoc>
 =======
-    <bankLoc>51293</bankLoc>
+    <bankLoc>23059</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -152,7 +179,7 @@
 <<<<<<< HEAD
     <bankLoc>22909</bankLoc>
 =======
-    <bankLoc>51298</bankLoc>
+    <bankLoc>23065</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -165,7 +192,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -178,7 +205,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -191,7 +218,7 @@
 <<<<<<< HEAD
     <bankLoc>22911</bankLoc>
 =======
-    <bankLoc>51300</bankLoc>
+    <bankLoc>23067</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -204,7 +231,7 @@
 <<<<<<< HEAD
     <bankLoc>22911</bankLoc>
 =======
-    <bankLoc>51300</bankLoc>
+    <bankLoc>23067</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -217,7 +244,7 @@
 <<<<<<< HEAD
     <bankLoc>22911</bankLoc>
 =======
-    <bankLoc>51300</bankLoc>
+    <bankLoc>23067</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -230,7 +257,7 @@
 <<<<<<< HEAD
     <bankLoc>22911</bankLoc>
 =======
-    <bankLoc>51300</bankLoc>
+    <bankLoc>23067</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -243,7 +270,7 @@
 <<<<<<< HEAD
     <bankLoc>22911</bankLoc>
 =======
-    <bankLoc>51300</bankLoc>
+    <bankLoc>23067</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -256,7 +283,7 @@
 <<<<<<< HEAD
     <bankLoc>22906</bankLoc>
 =======
-    <bankLoc>51295</bankLoc>
+    <bankLoc>23061</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -269,7 +296,7 @@
 <<<<<<< HEAD
     <bankLoc>22910</bankLoc>
 =======
-    <bankLoc>51299</bankLoc>
+    <bankLoc>23066</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -282,7 +309,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -295,7 +322,7 @@
 <<<<<<< HEAD
     <bankLoc>22908</bankLoc>
 =======
-    <bankLoc>51297</bankLoc>
+    <bankLoc>23064</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -308,7 +335,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -321,7 +348,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -334,7 +361,7 @@
 <<<<<<< HEAD
     <bankLoc>22906</bankLoc>
 =======
-    <bankLoc>51295</bankLoc>
+    <bankLoc>23061</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -347,7 +374,7 @@
 <<<<<<< HEAD
     <bankLoc>22908</bankLoc>
 =======
-    <bankLoc>51297</bankLoc>
+    <bankLoc>23064</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -360,7 +387,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -373,7 +400,7 @@
 <<<<<<< HEAD
     <bankLoc>22911</bankLoc>
 =======
-    <bankLoc>51300</bankLoc>
+    <bankLoc>23067</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -386,7 +413,7 @@
 <<<<<<< HEAD
     <bankLoc>22903</bankLoc>
 =======
-    <bankLoc>51292</bankLoc>
+    <bankLoc>23058</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -399,7 +426,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -412,7 +439,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -425,7 +452,7 @@
 <<<<<<< HEAD
     <bankLoc>22902</bankLoc>
 =======
-    <bankLoc>51291</bankLoc>
+    <bankLoc>23057</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -438,7 +465,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -451,7 +478,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -464,7 +491,7 @@
 <<<<<<< HEAD
     <bankLoc>22902</bankLoc>
 =======
-    <bankLoc>51291</bankLoc>
+    <bankLoc>23057</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -477,7 +504,7 @@
 <<<<<<< HEAD
     <bankLoc>22910</bankLoc>
 =======
-    <bankLoc>51299</bankLoc>
+    <bankLoc>23066</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -490,7 +517,7 @@
 <<<<<<< HEAD
     <bankLoc>22905</bankLoc>
 =======
-    <bankLoc>51294</bankLoc>
+    <bankLoc>23060</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -503,7 +530,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -516,7 +543,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -529,7 +556,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -542,7 +569,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -555,7 +582,7 @@
 <<<<<<< HEAD
     <bankLoc>22908</bankLoc>
 =======
-    <bankLoc>51297</bankLoc>
+    <bankLoc>23064</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -568,7 +595,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -581,7 +608,7 @@
 <<<<<<< HEAD
     <bankLoc>22901</bankLoc>
 =======
-    <bankLoc>51290</bankLoc>
+    <bankLoc>23056</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -594,7 +621,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -607,7 +634,7 @@
 <<<<<<< HEAD
     <bankLoc>22908</bankLoc>
 =======
-    <bankLoc>51297</bankLoc>
+    <bankLoc>23064</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -620,7 +647,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
   <bankbranch>
@@ -633,7 +660,7 @@
 <<<<<<< HEAD
     <bankLoc>22907</bankLoc>
 =======
-    <bankLoc>51296</bankLoc>
+    <bankLoc>23062</bankLoc>
 >>>>>>> origin/master
   </bankbranch>
 </bankBranchs>
