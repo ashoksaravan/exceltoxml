@@ -1,29 +1,21 @@
 <bankBranchs>
   <bankbranch>
     <name>Paranur Branch</name>
-    <city>Kanchipuram</city>
+    <city>Chennai</city>
     <address>THE Canopy, 2ND Avenue, 2ND Floor, Mahindra World City Sub-post, Paranur, Chengalpattu Taluk, Kanchipuram District 603004.</address>
     <contact>0</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX04</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>12918</bankLoc>
-=======
-    <bankLoc>13040</bankLoc>
->>>>>>> origin/master
+    <bankLoc>13077</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devanahalli Branch</name>
-    <city>Bangalore Rural</city>
+    <city>Bangalore</city>
     <address>Hoysala Corpus, Second Floor, Survey Number 29(new Survey NO. 29/5), Guttahalli Village, Kasaba Hobli, Devanahalli Taluk, Bangalore Rural District, 562110</address>
     <contact>67693200</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX03</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>12916</bankLoc>
-=======
-    <bankLoc>13038</bankLoc>
->>>>>>> origin/master
+    <bankLoc>13075</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Branch</name>
@@ -32,23 +24,15 @@
     <contact>66111700</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>CHAS0INBX02</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>12915</bankLoc>
-=======
-    <bankLoc>13037</bankLoc>
->>>>>>> origin/master
+    <bankLoc>13074</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
-    <city>Greater Bombay</city>
+    <city>Mumbai</city>
     <address>J.P. Morgan Tower, OFF. C.S.T. Road, Kalina, Santacruz-east, Mumbai - 400098 India</address>
     <contact>61573836</contact>
     <micrCode>400500002</micrCode>
     <ifscCode>CHAS0INBX01</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>12917</bankLoc>
-=======
-    <bankLoc>13039</bankLoc>
->>>>>>> origin/master
+    <bankLoc>13076</bankLoc>
   </bankbranch>
 </bankBranchs>

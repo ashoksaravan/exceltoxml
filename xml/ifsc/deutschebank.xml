@@ -1,12 +1,12 @@
 <bankBranchs>
   <bankbranch>
     <name>Kolkatta</name>
-    <city>Kolkata</city>
+    <city>Kolkatta</city>
     <address>Brooke House, 9, Shakespeare Sarani, Kolkatta - 700 071.</address>
     <contact>0</contact>
     <micrCode>700200002</micrCode>
     <ifscCode>DEUT0917TRS</ifscCode>
-    <bankLoc>9163</bankLoc>
+    <bankLoc>9177</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolkatta</name>
@@ -15,10 +15,7 @@
     <contact>0</contact>
     <micrCode>700200002</micrCode>
     <ifscCode>DEUT0917CAL</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9115</bankLoc>
-=======
-    <bankLoc>9163</bankLoc>
+    <bankLoc>9177</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai</name>
@@ -27,8 +24,7 @@
     <contact>0</contact>
     <micrCode>600200002</micrCode>
     <ifscCode>DEUT0916TRS</ifscCode>
-    <bankLoc>9158</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9172</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai</name>
@@ -37,10 +33,7 @@
     <contact>0</contact>
     <micrCode>600200002</micrCode>
     <ifscCode>DEUT0916CNN</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9110</bankLoc>
-=======
-    <bankLoc>9158</bankLoc>
+    <bankLoc>9172</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -49,20 +42,16 @@
     <contact>0</contact>
     <micrCode>560200002</micrCode>
     <ifscCode>DEUT0797TRS</ifscCode>
-    <bankLoc>9151</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9165</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
-    <city>Bangalore Urban</city>
+    <city>Bangalore</city>
     <address>Raheja Towers, 26-27, M G Road, Bangalore - 560 001</address>
     <contact>0</contact>
     <micrCode>560200002</micrCode>
     <ifscCode>DEUT0797BGL</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9103</bankLoc>
-=======
-    <bankLoc>9151</bankLoc>
+    <bankLoc>9165</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delhi</name>
@@ -71,20 +60,16 @@
     <contact>0</contact>
     <micrCode>110200002</micrCode>
     <ifscCode>DEUT0796TRS</ifscCode>
-    <bankLoc>9147</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9161</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delhi</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>ECE House, 28 - K G Marg  NEW Delhi, India</address>
     <contact>0</contact>
     <micrCode>110200002</micrCode>
     <ifscCode>DEUT0796DEL</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9099</bankLoc>
-=======
-    <bankLoc>9147</bankLoc>
+    <bankLoc>9161</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai</name>
@@ -93,21 +78,16 @@
     <contact>0</contact>
     <micrCode>400200002</micrCode>
     <ifscCode>DEUT0784TRS</ifscCode>
-    <bankLoc>9153</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9167</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khar</name>
-    <city>Greater Mumbai</city>
-    <address>110, Sidrah, S V Road, Khar, Mumbai?ï¿½- 400052.</address>
+    <city>Khar</city>
+    <address>110, Sidrah, S V Road, Khar, Mumbai?á- 400052.</address>
     <contact>0</contact>
     <micrCode>400200003</micrCode>
     <ifscCode>DEUT0784PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9105</bankLoc>
-=======
-    <bankLoc>9153</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9167</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai  Derivatives Branch</name>
@@ -116,11 +96,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DEUT0784OTC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9155</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9169</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai  Options Branch</name>
@@ -129,11 +105,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DEUT0784OPT</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9155</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9169</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai  Money Market Branch</name>
@@ -142,11 +114,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DEUT0784MMT</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9155</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9169</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai  Debt Market Branch</name>
@@ -155,50 +123,34 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DEUT0784DSO</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9155</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9169</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai Domestic Custody</name>
-    <city>Greater Mumbai</city>
+    <city>Mumbai</city>
     <address>DR. D.N.ROAD, Fort, Mumbai, India 400001</address>
     <contact>0</contact>
     <micrCode>400200002</micrCode>
     <ifscCode>DEUT0784DCO</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9153</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9167</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai</name>
-    <city>Greater Mumbai</city>
+    <city>Mumbai</city>
     <address>DR. D.N.ROAD, Fort, Mumbai, India 400001</address>
     <contact>0</contact>
     <micrCode>400200002</micrCode>
     <ifscCode>DEUT0784BBY</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9153</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9167</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
     <city>Pune</city>
-    <address>Suprem, ?ï¿½cts NO. 1337/2, S.NO. 133/1 +2 &amp; 134 / 2, Main ITI Road, Aundh, Pune -411007</address>
+    <address>Suprem, ?öcts NO. 1337/2, S.NO. 133/1 +2 &amp; 134 / 2, Main ITI Road, Aundh, Pune -411007</address>
     <contact>0</contact>
     <micrCode>411200002</micrCode>
     <ifscCode>DEUT0537PUN</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9108</bankLoc>
-=======
-    <bankLoc>9156</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9170</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad</name>
@@ -207,11 +159,7 @@
     <contact>0</contact>
     <micrCode>380200002</micrCode>
     <ifscCode>DEUT0406PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9100</bankLoc>
-=======
-    <bankLoc>9148</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9162</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad</name>
@@ -220,11 +168,7 @@
     <contact>0</contact>
     <micrCode>380200002</micrCode>
     <ifscCode>DEUT0406AMD</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9100</bankLoc>
-=======
-    <bankLoc>9148</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9162</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat</name>
@@ -233,11 +177,7 @@
     <contact>0</contact>
     <micrCode>395200002</micrCode>
     <ifscCode>DEUT0405PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9101</bankLoc>
-=======
-    <bankLoc>9149</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9163</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ludhiana</name>
@@ -246,11 +186,7 @@
     <contact>0</contact>
     <micrCode>141200002</micrCode>
     <ifscCode>DEUT0404PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9109</bankLoc>
-=======
-    <bankLoc>9157</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9171</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moradabad</name>
@@ -259,11 +195,7 @@
     <contact>0</contact>
     <micrCode>244200002</micrCode>
     <ifscCode>DEUT0403PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9113</bankLoc>
-=======
-    <bankLoc>9161</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9175</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salem</name>
@@ -272,11 +204,7 @@
     <contact>0</contact>
     <micrCode>636200002</micrCode>
     <ifscCode>DEUT0402PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9111</bankLoc>
-=======
-    <bankLoc>9159</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9173</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellore</name>
@@ -285,11 +213,7 @@
     <contact>0</contact>
     <micrCode>632200002</micrCode>
     <ifscCode>DEUT0401PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9112</bankLoc>
-=======
-    <bankLoc>9160</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9174</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurgaon</name>
@@ -298,11 +222,7 @@
     <contact>0</contact>
     <micrCode>110200004</micrCode>
     <ifscCode>DEUT0279PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9102</bankLoc>
-=======
-    <bankLoc>9150</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9164</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Noida</name>
@@ -311,11 +231,7 @@
     <contact>0</contact>
     <micrCode>110200003</micrCode>
     <ifscCode>DEUT0278PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9114</bankLoc>
-=======
-    <bankLoc>9162</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9176</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aurangabad</name>
@@ -324,11 +240,7 @@
     <contact>0</contact>
     <micrCode>431200003</micrCode>
     <ifscCode>DEUT0274PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9104</bankLoc>
-=======
-    <bankLoc>9152</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9166</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolhapur</name>
@@ -337,11 +249,7 @@
     <contact>0</contact>
     <micrCode>416200002</micrCode>
     <ifscCode>DEUT0273PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9106</bankLoc>
-=======
-    <bankLoc>9154</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9168</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -350,10 +258,6 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DEUT0000PBC</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>9107</bankLoc>
-=======
-    <bankLoc>9155</bankLoc>
->>>>>>> origin/master
+    <bankLoc>9169</bankLoc>
   </bankbranch>
 </bankBranchs>

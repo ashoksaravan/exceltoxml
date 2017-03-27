@@ -1,15 +1,11 @@
 <bankBranchs>
   <bankbranch>
     <name>Rtgs-ho</name>
-    <city>Nariman Point</city>
+    <city>Mumbai</city>
     <address>1305, Raheja Centre, 13th Floor</address>
     <contact>66327200</contact>
     <micrCode>400205002</micrCode>
     <ifscCode>MSHQ0000001</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>14016</bankLoc>
-=======
-    <bankLoc>14145</bankLoc>
->>>>>>> origin/master
+    <bankLoc>14185</bankLoc>
   </bankbranch>
 </bankBranchs>

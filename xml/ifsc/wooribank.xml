@@ -6,7 +6,7 @@
     <contact>3046700</contact>
     <micrCode>NA</micrCode>
     <ifscCode>HVBK0000002</ifscCode>
-    <bankLoc>26636</bankLoc>
+    <bankLoc>26689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai Branch</name>
@@ -15,10 +15,6 @@
     <contact>33466900</contact>
     <micrCode>600240253</micrCode>
     <ifscCode>HVBK0000001</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>26459</bankLoc>
-=======
-    <bankLoc>26637</bankLoc>
->>>>>>> origin/master
+    <bankLoc>26690</bankLoc>
   </bankbranch>
 </bankBranchs>

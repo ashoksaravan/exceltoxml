@@ -16,6 +16,7 @@ public class SwitchDistrictAndCity {
 	public static void main(String[] args) throws Exception {
 		File root = new File("E:\\Ashok\\ifsc");
 		for (File file : root.listFiles()) {
+			System.out.println(file.getName());
 			FileInputStream inputStream = new FileInputStream(file);
 			// Get the workbook instance for XLS file
 			HSSFWorkbook workBook = new HSSFWorkbook(inputStream);

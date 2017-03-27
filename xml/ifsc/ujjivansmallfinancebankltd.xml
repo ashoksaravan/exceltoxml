@@ -1,12 +1,84 @@
 <bankBranchs>
   <bankbranch>
+    <name>Corporate Service Payments</name>
+    <city>Bangalore</city>
+    <address>Grape Garden, 3RD A Cross, 18th Main, 6TH Block, Koramangala, Bengaluru - 560095</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>UJVN0099999</ifscCode>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Krishnapura</name>
+    <city>Channapatna</city>
+    <address>NO.260/24, Krishnapura Village, Virupakshapura Hobli, Channapatana Taluk, Ramanagar District - 562160</address>
+    <contact>0</contact>
+    <micrCode>571761603</micrCode>
+    <ifscCode>UJVN0001665</ifscCode>
+    <bankLoc>24159</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nelamangala</name>
+    <city>Bangalore</city>
+    <address>2ND Floor, Prakash Building, B H Road, Subhash Nagar, Nelamangala, Bengaluru-rural District - 562123</address>
+    <contact>0</contact>
+    <micrCode>560761013</micrCode>
+    <ifscCode>UJVN0001651</ifscCode>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Devaiah Park</name>
+    <city>Bangalore</city>
+    <address>NO.1762/2, 2ND Floor, 1ST Main, DR.RAJ Kumar Road, OPP.NAVARANG Theatre, Navarang Circle, Rajajinagar, Bengaluru-560010</address>
+    <contact>0</contact>
+    <micrCode>560761012</micrCode>
+    <ifscCode>UJVN0001150</ifscCode>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Uttarahalli</name>
+    <city>Bangalore</city>
+    <address>NO 307, 100 Feet Ring Road, BSK 3RD Stage, Padmanabanagar, Bengaluru-560070</address>
+    <contact>0</contact>
+    <micrCode>560761011</micrCode>
+    <ifscCode>UJVN0001122</ifscCode>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Channapatna</name>
+    <city>Channapatna</city>
+    <address>NO.2235, Ward NO.6, Ground Floor, Kuvempunagar 1ST Cross, Channapatna Town, Ramanagar District-562160</address>
+    <contact>0</contact>
+    <micrCode>571761602</micrCode>
+    <ifscCode>UJVN0001120</ifscCode>
+    <bankLoc>24159</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ramanagar</name>
+    <city>Ramanagar</city>
+    <address>NO.383/376/2808B, NO.384/377/2809, NO.386/376/2810A, NO.392/384/2817/A AND NO.395/387/2819A, Ground Floor AND First Floor, Situated AT Ijoor Extension, OLD BM Road, Ramanagaram-562159</address>
+    <contact>0</contact>
+    <micrCode>571761552</micrCode>
+    <ifscCode>UJVN0001114</ifscCode>
+    <bankLoc>24160</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandra Layout</name>
+    <city>Bangalore</city>
+    <address>Sree Balaji Complex, NO 92, 1ST Main Road, Kempapura Agrahara, Chandralayout, Bengaluru-560040</address>
+    <contact>0</contact>
+    <micrCode>560761009</micrCode>
+    <ifscCode>UJVN0001112</ifscCode>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Jakkasandra</name>
     <city>Bangalore</city>
     <address>NO.93, Jakkasandra Extension, Sarjapur Main Cross Road, 1ST Block, Koramangala, Bangalore-560034</address>
     <contact>0</contact>
     <micrCode>560761005</micrCode>
     <ifscCode>UJVN0001111</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Whitefield</name>
@@ -15,7 +87,7 @@
     <contact>0</contact>
     <micrCode>560761006</micrCode>
     <ifscCode>UJVN0001110</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lingarajapuram</name>
@@ -24,7 +96,16 @@
     <contact>0</contact>
     <micrCode>560761003</micrCode>
     <ifscCode>UJVN0001109</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chamarajpet</name>
+    <city>Bangalore</city>
+    <address>1490, Kanasubuilding, 1stfloor, 17thmainroad, Muneshwarablock, Chamarajpet, Bengaluru-560026</address>
+    <contact>0</contact>
+    <micrCode>560761010</micrCode>
+    <ifscCode>UJVN0001108</ifscCode>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>HAL</name>
@@ -33,7 +114,16 @@
     <contact>0</contact>
     <micrCode>560761004</micrCode>
     <ifscCode>UJVN0001107</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Magadi Road</name>
+    <city>Bangalore</city>
+    <address>Municipal NEW NO.11, OLD NO.40 OF Agrahara Dasarahlli, Magadi Road, Govindarajanagar, Ward NO.36, Bengaluru, Karanataka - 560091</address>
+    <contact>0</contact>
+    <micrCode>560761008</micrCode>
+    <ifscCode>UJVN0001105</ifscCode>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koramangala</name>
@@ -42,7 +132,7 @@
     <contact>0</contact>
     <micrCode>560761002</micrCode>
     <ifscCode>UJVN0001102</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Treasury</name>
@@ -51,7 +141,7 @@
     <contact>40712121</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UJVN0001008</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -60,6 +150,6 @@
     <contact>40712121</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UJVN0000001</ifscCode>
-    <bankLoc>24108</bankLoc>
+    <bankLoc>24158</bankLoc>
   </bankbranch>
 </bankBranchs>

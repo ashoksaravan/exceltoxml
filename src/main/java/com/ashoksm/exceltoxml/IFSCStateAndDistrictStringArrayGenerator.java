@@ -208,6 +208,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Telangana State Coop Apex Bank");
 		BANK_NAMES.add("The Navnirman Co-Operative Bank Ltd");
 		BANK_NAMES.add("Ujjivan Small Finance Bank Ltd");
+		BANK_NAMES.add("The Baramati Sahakari Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {

@@ -6,10 +6,7 @@
     <contact>66848262</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL000NPC2</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sejawata</name>
@@ -18,7 +15,7 @@
     <contact>2147483647</contact>
     <micrCode>457072051</micrCode>
     <ifscCode>DCBL0000277</ifscCode>
-    <bankLoc>8612</bankLoc>
+    <bankLoc>8625</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaji Khedi Branch</name>
@@ -27,8 +24,7 @@
     <contact>2147483647</contact>
     <micrCode>466072001</micrCode>
     <ifscCode>DCBL0000276</ifscCode>
-    <bankLoc>8614</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8627</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhar</name>
@@ -37,14 +33,7 @@
     <contact>2147483647</contact>
     <micrCode>454072001</micrCode>
     <ifscCode>DCBL0000275</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8559</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhainsa</name>
-    <city>Bhainsa</city>
-=======
-    <bankLoc>8604</bankLoc>
+    <bankLoc>8617</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shapar</name>
@@ -53,55 +42,25 @@
     <contact>2147483647</contact>
     <micrCode>360072003</micrCode>
     <ifscCode>DCBL0000273</ifscCode>
-    <bankLoc>8573</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bhainsa</name>
-    <city>Bhainsa</city>
->>>>>>> origin/master
-    <address>DCB Bank Ltd, Bhainsa Branch, Khasra NO 27/4, Village Bhainsa, IN Front OF Shishu Mandir School, Pagara Road, Bhainsa, District - Sagar, State - Madhya Pradesh, PIN - 470120.</address>
-    <contact>2147483647</contact>
-    <micrCode>470072001</micrCode>
-    <ifscCode>DCBL0000272</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8567</bankLoc>
+    <bankLoc>8586</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAL</name>
     <city>PAL</city>
-=======
-    <bankLoc>8613</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>PAL</name>
-    <city>PAL</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, PAL Branch, Khasra NO 417/1/2, Village Pal, Near Arihant Ware House, Barod Road, District - Agar Malwa, State - Madhya Pradesh, PIN 465441</address>
     <contact>2147483647</contact>
     <micrCode>465072502</micrCode>
     <ifscCode>DCBL0000271</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8555</bankLoc>
+    <bankLoc>8613</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bheel Khedi</name>
     <city>Shujalpur</city>
-=======
-    <bankLoc>8600</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Bheel Khedi</name>
-    <city>Shujalpur</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, Bheel Khedi Branch, Village Bheel Khedi, Near Shujalpur Krishi Upaj Mandi Prangan NO 3, Shujalpur, District-shajapur, State - Madhya Pradesh, PIN - 465333</address>
     <contact>2147483647</contact>
     <micrCode>465072051</micrCode>
     <ifscCode>DCBL0000270</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8569</bankLoc>
-=======
-    <bankLoc>8615</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8628</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nirmal</name>
@@ -110,10 +69,16 @@
     <contact>2147483647</contact>
     <micrCode>504072103</micrCode>
     <ifscCode>DCBL0000269</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8641</bankLoc>
-=======
-    <bankLoc>8687</bankLoc>
+    <bankLoc>8700</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saharanpur</name>
+    <city>Saharanpur</city>
+    <address>DCB Bank Limited, 1/776, Chavara Complex, Ambala Road, Saharanpur, Uttar Pradesh - 247001</address>
+    <contact>2147483647</contact>
+    <micrCode>247072002</micrCode>
+    <ifscCode>DCBL0000267</ifscCode>
+    <bankLoc>8709</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moradabad</name>
@@ -122,7 +87,7 @@
     <contact>2147483647</contact>
     <micrCode>244072002</micrCode>
     <ifscCode>DCBL0000266</ifscCode>
-    <bankLoc>8695</bankLoc>
+    <bankLoc>8708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agra</name>
@@ -131,8 +96,7 @@
     <contact>2147483647</contact>
     <micrCode>282072002</micrCode>
     <ifscCode>DCBL0000265</ifscCode>
-    <bankLoc>8689</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8702</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raichur</name>
@@ -141,62 +105,34 @@
     <contact>2147483647</contact>
     <micrCode>584072002</micrCode>
     <ifscCode>DCBL0000264</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8551</bankLoc>
+    <bankLoc>8609</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Samuraipur</name>
     <city>Samuraipur</city>
-=======
-    <bankLoc>8596</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Samuraipur</name>
-    <city>Samuraipur</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, Samuraipur Branch, 1ST Floor, Biswal Kalyan Mandap, Tahsil Road, Post Office Gelpur, Samuraipur, District-bhadrak, State-odisha, Pin-756181</address>
     <contact>2147483647</contact>
     <micrCode>756072102</micrCode>
     <ifscCode>DCBL0000263</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8593</bankLoc>
+    <bankLoc>8652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baripada</name>
     <city>Baripada</city>
-=======
-    <bankLoc>8639</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Baripada</name>
-    <city>Baripada</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, Baripada Branch, Ward NO.5.AMBIKA Sahi Road, Near Roxy Cinema Hall, LAL Bazar, Baripada, District-mayurbhanj, State-odisha, Pin-757001</address>
     <contact>2147483647</contact>
     <micrCode>757072002</micrCode>
     <ifscCode>DCBL0000262</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8606</bankLoc>
+    <bankLoc>8665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Langarasahi</name>
     <city>Langarasahi</city>
-=======
-    <bankLoc>8652</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Langarasahi</name>
-    <city>Langarasahi</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, Langarasahi Branch, At-langarasahi, Near Government, Post Office Phulbani, Langarasahi, District-kandhamal, Odisha-762001</address>
     <contact>2147483647</contact>
     <micrCode>762072002</micrCode>
     <ifscCode>DCBL0000261</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8600</bankLoc>
-=======
-    <bankLoc>8646</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8659</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kawardha</name>
@@ -205,10 +141,7 @@
     <contact>2147483647</contact>
     <micrCode>491072201</micrCode>
     <ifscCode>DCBL0000260</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8506</bankLoc>
-=======
-    <bankLoc>8550</bankLoc>
+    <bankLoc>8563</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hisar</name>
@@ -217,7 +150,7 @@
     <contact>0</contact>
     <micrCode>125072052</micrCode>
     <ifscCode>DCBL0000259</ifscCode>
-    <bankLoc>8581</bankLoc>
+    <bankLoc>8594</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patiala</name>
@@ -226,8 +159,7 @@
     <contact>2147483647</contact>
     <micrCode>147072002</micrCode>
     <ifscCode>DCBL0000258</ifscCode>
-    <bankLoc>8663</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8676</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bareilly</name>
@@ -236,45 +168,25 @@
     <contact>0</contact>
     <micrCode>243072002</micrCode>
     <ifscCode>DCBL0000257</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8643</bankLoc>
+    <bankLoc>8703</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wadderhatti</name>
     <city>Wadderhatti</city>
-=======
-    <bankLoc>8690</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Wadderhatti</name>
-    <city>Wadderhatti</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, Wadderhatti Branch, Property NO. 23 &amp; 24, Ground Floor, Ward NO 1, Wadderhatti Village, Taluka-gangavathi, District-koppal, State-karnataka, Pin-583227</address>
     <contact>2147483647</contact>
     <micrCode>583072302</micrCode>
     <ifscCode>DCBL0000256</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8549</bankLoc>
+    <bankLoc>8607</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jeypore</name>
     <city>Jeypore</city>
-=======
-    <bankLoc>8594</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jeypore</name>
-    <city>Jeypore</city>
->>>>>>> origin/master
     <address>DCB Bank Ltd, Jeypore Branch, Kella Mill Compound, MG Road, Near SBI Main Branch, District -jeypore, State-odisha, Pin-764001</address>
     <contact>2147483647</contact>
     <micrCode>764072102</micrCode>
     <ifscCode>DCBL0000255</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8605</bankLoc>
-=======
-    <bankLoc>8651</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8664</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sambalpur</name>
@@ -283,11 +195,7 @@
     <contact>2147483647</contact>
     <micrCode>768072002</micrCode>
     <ifscCode>DCBL0000254</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8608</bankLoc>
-=======
-    <bankLoc>8654</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8667</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badnagar</name>
@@ -296,11 +204,7 @@
     <contact>2147483647</contact>
     <micrCode>456072051</micrCode>
     <ifscCode>DCBL0000253</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8570</bankLoc>
-=======
-    <bankLoc>8616</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8629</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gualsing</name>
@@ -309,11 +213,7 @@
     <contact>2147483647</contact>
     <micrCode>754072102</micrCode>
     <ifscCode>DCBL0000252</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8601</bankLoc>
-=======
-    <bankLoc>8647</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8660</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Punanga</name>
@@ -322,11 +222,7 @@
     <contact>2147483647</contact>
     <micrCode>754072202</micrCode>
     <ifscCode>DCBL0000251</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8597</bankLoc>
-=======
-    <bankLoc>8643</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8656</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khokhsa</name>
@@ -335,11 +231,7 @@
     <contact>2147483647</contact>
     <micrCode>495072201</micrCode>
     <ifscCode>DCBL0000250</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8505</bankLoc>
-=======
-    <bankLoc>8549</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rala</name>
@@ -348,11 +240,7 @@
     <contact>2147483647</contact>
     <micrCode>466072501</micrCode>
     <ifscCode>DCBL0000249</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8568</bankLoc>
-=======
-    <bankLoc>8614</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8627</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ganeswapur</name>
@@ -361,11 +249,7 @@
     <contact>2147483647</contact>
     <micrCode>756072002</micrCode>
     <ifscCode>DCBL0000248</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8591</bankLoc>
-=======
-    <bankLoc>8637</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8650</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khaliguda</name>
@@ -374,11 +258,7 @@
     <contact>2147483647</contact>
     <micrCode>765072002</micrCode>
     <ifscCode>DCBL0000247</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8603</bankLoc>
-=======
-    <bankLoc>8649</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8662</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rourkela</name>
@@ -387,11 +267,7 @@
     <contact>2147483647</contact>
     <micrCode>769072002</micrCode>
     <ifscCode>DCBL0000246</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8610</bankLoc>
-=======
-    <bankLoc>8656</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8669</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajahmundry</name>
@@ -400,11 +276,7 @@
     <contact>2147483647</contact>
     <micrCode>533072102</micrCode>
     <ifscCode>DCBL0000245</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8488</bankLoc>
-=======
-    <bankLoc>8532</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8545</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakinada</name>
@@ -413,11 +285,7 @@
     <contact>0</contact>
     <micrCode>533072002</micrCode>
     <ifscCode>DCBL0000244</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8488</bankLoc>
-=======
-    <bankLoc>8532</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8545</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoshiarpur</name>
@@ -426,11 +294,7 @@
     <contact>0</contact>
     <micrCode>146072002</micrCode>
     <ifscCode>DCBL0000243</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8614</bankLoc>
-=======
-    <bankLoc>8660</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8673</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangrur</name>
@@ -439,11 +303,7 @@
     <contact>0</contact>
     <micrCode>148072002</micrCode>
     <ifscCode>DCBL0000242</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8620</bankLoc>
-=======
-    <bankLoc>8666</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8679</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madurai</name>
@@ -452,11 +312,7 @@
     <contact>0</contact>
     <micrCode>625072002</micrCode>
     <ifscCode>DCBL0000241</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8633</bankLoc>
-=======
-    <bankLoc>8679</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8692</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guntur</name>
@@ -465,11 +321,7 @@
     <contact>2147483647</contact>
     <micrCode>520072103</micrCode>
     <ifscCode>DCBL0000240</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8489</bankLoc>
-=======
-    <bankLoc>8533</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8546</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Erode</name>
@@ -478,11 +330,7 @@
     <contact>0</contact>
     <micrCode>638072002</micrCode>
     <ifscCode>DCBL0000239</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8630</bankLoc>
-=======
-    <bankLoc>8676</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salem</name>
@@ -491,11 +339,7 @@
     <contact>0</contact>
     <micrCode>636072002</micrCode>
     <ifscCode>DCBL0000238</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8634</bankLoc>
-=======
-    <bankLoc>8680</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8693</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurukshetra</name>
@@ -504,11 +348,7 @@
     <contact>0</contact>
     <micrCode>136072002</micrCode>
     <ifscCode>DCBL0000237</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8539</bankLoc>
-=======
-    <bankLoc>8584</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8597</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosur</name>
@@ -517,11 +357,7 @@
     <contact>0</contact>
     <micrCode>635072402</micrCode>
     <ifscCode>DCBL0000236</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8632</bankLoc>
-=======
-    <bankLoc>8678</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8691</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambala</name>
@@ -530,11 +366,7 @@
     <contact>0</contact>
     <micrCode>133072002</micrCode>
     <ifscCode>DCBL0000235</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8535</bankLoc>
-=======
-    <bankLoc>8579</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8592</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhilwara</name>
@@ -543,11 +375,7 @@
     <contact>0</contact>
     <micrCode>311072002</micrCode>
     <ifscCode>DCBL0000234</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8622</bankLoc>
-=======
-    <bankLoc>8668</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8681</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Berhampur</name>
@@ -556,11 +384,7 @@
     <contact>2147483647</contact>
     <micrCode>760072003</micrCode>
     <ifscCode>DCBL0000233</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8596</bankLoc>
-=======
-    <bankLoc>8642</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8655</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharora</name>
@@ -569,11 +393,7 @@
     <contact>964481888</contact>
     <micrCode>493072101</micrCode>
     <ifscCode>DCBL0000232</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8507</bankLoc>
-=======
-    <bankLoc>8551</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolagallu</name>
@@ -582,11 +402,7 @@
     <contact>2147483647</contact>
     <micrCode>583072102</micrCode>
     <ifscCode>DCBL0000231</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8543</bankLoc>
-=======
-    <bankLoc>8588</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8601</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagpur</name>
@@ -595,11 +411,7 @@
     <contact>2147483647</contact>
     <micrCode>400072002</micrCode>
     <ifscCode>DCBL0000230</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8581</bankLoc>
-=======
-    <bankLoc>8627</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8640</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khedimahmudabad</name>
@@ -608,11 +420,7 @@
     <contact>2147483647</contact>
     <micrCode>461072502</micrCode>
     <ifscCode>DCBL0000229</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8560</bankLoc>
-=======
-    <bankLoc>8605</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8618</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khurai</name>
@@ -621,11 +429,7 @@
     <contact>2147483647</contact>
     <micrCode>470072501</micrCode>
     <ifscCode>DCBL0000228</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8567</bankLoc>
-=======
-    <bankLoc>8613</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8626</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dewas</name>
@@ -634,28 +438,16 @@
     <contact>2147483647</contact>
     <micrCode>455072001</micrCode>
     <ifscCode>DCBL0000227</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8558</bankLoc>
+    <bankLoc>8616</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Suryapet</name>
     <city>Suryapet</city>
-=======
-    <bankLoc>8603</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Suryapet</name>
-    <city>Suryapet</city>
->>>>>>> origin/master
     <address>DCB Bank LTD., Suryapet Branch, D.NO.1-2-270/56/B, Kudakuda Road, Suryapet, Nalgonda, Telangana, PIN 508213</address>
     <contact>2147483647</contact>
     <micrCode>508072202</micrCode>
     <ifscCode>DCBL0000226</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8640</bankLoc>
-=======
-    <bankLoc>8686</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8699</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banjara Hills</name>
@@ -664,11 +456,7 @@
     <contact>2147483647</contact>
     <micrCode>500072010</micrCode>
     <ifscCode>DCBL0000225</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8638</bankLoc>
-=======
-    <bankLoc>8684</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8697</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mysore</name>
@@ -677,11 +465,7 @@
     <contact>2147483647</contact>
     <micrCode>570072002</micrCode>
     <ifscCode>DCBL0000224</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8550</bankLoc>
-=======
-    <bankLoc>8595</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8608</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Davangere</name>
@@ -690,11 +474,7 @@
     <contact>2147483647</contact>
     <micrCode>577072002</micrCode>
     <ifscCode>DCBL0000223</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8547</bankLoc>
-=======
-    <bankLoc>8592</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8605</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shivamogga</name>
@@ -703,11 +483,7 @@
     <contact>2147483647</contact>
     <micrCode>577072202</micrCode>
     <ifscCode>DCBL0000222</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8552</bankLoc>
-=======
-    <bankLoc>8597</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8610</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tumakuru</name>
@@ -716,11 +492,7 @@
     <contact>2147483647</contact>
     <micrCode>572072002</micrCode>
     <ifscCode>DCBL0000221</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8553</bankLoc>
-=======
-    <bankLoc>8598</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8611</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yamuna Nagar</name>
@@ -729,11 +501,7 @@
     <contact>2147483647</contact>
     <micrCode>135072002</micrCode>
     <ifscCode>DCBL0000220</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8541</bankLoc>
-=======
-    <bankLoc>8586</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8599</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bathinda</name>
@@ -742,11 +510,7 @@
     <contact>2147483647</contact>
     <micrCode>151072002</micrCode>
     <ifscCode>DCBL0000219</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8611</bankLoc>
-=======
-    <bankLoc>8657</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8670</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijori</name>
@@ -755,11 +519,7 @@
     <contact>2147483647</contact>
     <micrCode>466072051</micrCode>
     <ifscCode>DCBL0000218</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8568</bankLoc>
-=======
-    <bankLoc>8614</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8627</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhawanipatna</name>
@@ -768,11 +528,7 @@
     <contact>2147483647</contact>
     <micrCode>766072002</micrCode>
     <ifscCode>DCBL0000217</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8599</bankLoc>
-=======
-    <bankLoc>8645</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8658</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhenkanal</name>
@@ -781,11 +537,7 @@
     <contact>2147483647</contact>
     <micrCode>759072002</micrCode>
     <ifscCode>DCBL0000216</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8595</bankLoc>
-=======
-    <bankLoc>8641</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patna</name>
@@ -794,11 +546,7 @@
     <contact>2147483647</contact>
     <micrCode>800072002</micrCode>
     <ifscCode>DCBL0000215</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8497</bankLoc>
-=======
-    <bankLoc>8541</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuppam</name>
@@ -807,11 +555,7 @@
     <contact>2147483647</contact>
     <micrCode>517072702</micrCode>
     <ifscCode>DCBL0000214</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8487</bankLoc>
-=======
-    <bankLoc>8531</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8544</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Meerut</name>
@@ -820,11 +564,7 @@
     <contact>2147483647</contact>
     <micrCode>250072002</micrCode>
     <ifscCode>DCBL0000213</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8647</bankLoc>
-=======
-    <bankLoc>8694</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8707</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur</name>
@@ -833,11 +573,7 @@
     <contact>2147483647</contact>
     <micrCode>492072001</micrCode>
     <ifscCode>DCBL0000212</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8508</bankLoc>
-=======
-    <bankLoc>8552</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8565</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cuttack</name>
@@ -846,11 +582,7 @@
     <contact>2147483647</contact>
     <micrCode>753072002</micrCode>
     <ifscCode>DCBL0000211</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8594</bankLoc>
-=======
-    <bankLoc>8640</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8653</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijipur</name>
@@ -859,11 +591,7 @@
     <contact>2147483647</contact>
     <micrCode>751072005</micrCode>
     <ifscCode>DCBL0000210</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8604</bankLoc>
-=======
-    <bankLoc>8650</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8663</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pathara Pada</name>
@@ -872,11 +600,7 @@
     <contact>2147483647</contact>
     <micrCode>755072102</micrCode>
     <ifscCode>DCBL0000209</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8598</bankLoc>
-=======
-    <bankLoc>8644</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8657</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Laling</name>
@@ -885,11 +609,7 @@
     <contact>239300</contact>
     <micrCode>424072001</micrCode>
     <ifscCode>DCBL0000208</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8575</bankLoc>
-=======
-    <bankLoc>8621</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8634</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pillekerenahalli</name>
@@ -898,11 +618,7 @@
     <contact>2147483647</contact>
     <micrCode>577072502</micrCode>
     <ifscCode>DCBL0000207</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8546</bankLoc>
-=======
-    <bankLoc>8591</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8604</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangli</name>
@@ -911,11 +627,7 @@
     <contact>2147483647</contact>
     <micrCode>416072152</micrCode>
     <ifscCode>DCBL0000206</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8586</bankLoc>
-=======
-    <bankLoc>8632</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8645</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vilaspur</name>
@@ -924,11 +636,7 @@
     <contact>2147483647</contact>
     <micrCode>415072002</micrCode>
     <ifscCode>DCBL0000205</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8587</bankLoc>
-=======
-    <bankLoc>8633</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8646</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ratnabandha</name>
@@ -937,11 +645,7 @@
     <contact>2147483647</contact>
     <micrCode>493072001</micrCode>
     <ifscCode>DCBL0000204</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8504</bankLoc>
-=======
-    <bankLoc>8548</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anadinni</name>
@@ -950,11 +654,7 @@
     <contact>2147483647</contact>
     <micrCode>587072102</micrCode>
     <ifscCode>DCBL0000203</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8542</bankLoc>
-=======
-    <bankLoc>8587</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8600</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosshalli EJ</name>
@@ -963,11 +663,7 @@
     <contact>2147483647</contact>
     <micrCode>584072202</micrCode>
     <ifscCode>DCBL0000202</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8551</bankLoc>
-=======
-    <bankLoc>8596</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8609</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keonjhar</name>
@@ -976,11 +672,7 @@
     <contact>2147483647</contact>
     <micrCode>758072002</micrCode>
     <ifscCode>DCBL0000201</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8602</bankLoc>
-=======
-    <bankLoc>8648</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8661</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parsada</name>
@@ -989,11 +681,7 @@
     <contact>2147483647</contact>
     <micrCode>495072001</micrCode>
     <ifscCode>DCBL0000200</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8503</bankLoc>
-=======
-    <bankLoc>8547</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palla</name>
@@ -1002,11 +690,7 @@
     <contact>2147483647</contact>
     <micrCode>751072004</micrCode>
     <ifscCode>DCBL0000199</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8604</bankLoc>
-=======
-    <bankLoc>8650</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8663</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kusnoor</name>
@@ -1015,11 +699,7 @@
     <contact>2147483647</contact>
     <micrCode>585072002</micrCode>
     <ifscCode>DCBL0000198</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8548</bankLoc>
-=======
-    <bankLoc>8593</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8606</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Visakhapatnam</name>
@@ -1028,11 +708,7 @@
     <contact>2147483647</contact>
     <micrCode>530072002</micrCode>
     <ifscCode>DCBL0000197</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8494</bankLoc>
-=======
-    <bankLoc>8538</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8551</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Unchgaon</name>
@@ -1041,11 +717,7 @@
     <contact>2147483647</contact>
     <micrCode>416072002</micrCode>
     <ifscCode>DCBL0000196</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8578</bankLoc>
-=======
-    <bankLoc>8624</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8637</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajmer</name>
@@ -1054,11 +726,7 @@
     <contact>2623302</contact>
     <micrCode>305072002</micrCode>
     <ifscCode>DCBL0000195</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8621</bankLoc>
-=======
-    <bankLoc>8667</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8680</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mira Bhayandar Road</name>
@@ -1067,11 +735,7 @@
     <contact>2147483647</contact>
     <micrCode>400072039</micrCode>
     <ifscCode>DCBL0000194</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ashok Nagar</name>
@@ -1080,11 +744,7 @@
     <contact>2147483647</contact>
     <micrCode>473072076</micrCode>
     <ifscCode>DCBL0000193</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8556</bankLoc>
-=======
-    <bankLoc>8601</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8614</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pangra</name>
@@ -1093,11 +753,7 @@
     <contact>2147483647</contact>
     <micrCode>503072002</micrCode>
     <ifscCode>DCBL0000192</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8642</bankLoc>
-=======
-    <bankLoc>8688</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8701</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhajanpura</name>
@@ -1106,11 +762,7 @@
     <contact>2147483647</contact>
     <micrCode>110072016</micrCode>
     <ifscCode>DCBL0000191</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8514</bankLoc>
-=======
-    <bankLoc>8558</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8571</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Roop Nagar</name>
@@ -1119,11 +771,7 @@
     <contact>2147483647</contact>
     <micrCode>110072013</micrCode>
     <ifscCode>DCBL0000190</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8513</bankLoc>
-=======
-    <bankLoc>8557</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8570</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhogal, Delhi</name>
@@ -1132,11 +780,7 @@
     <contact>2147483647</contact>
     <micrCode>110072011</micrCode>
     <ifscCode>DCBL0000189</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8516</bankLoc>
-=======
-    <bankLoc>8560</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8573</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohali</name>
@@ -1145,11 +789,7 @@
     <contact>2270713</contact>
     <micrCode>160072002</micrCode>
     <ifscCode>DCBL0000188</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8619</bankLoc>
-=======
-    <bankLoc>8665</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8678</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uttam Nagar</name>
@@ -1158,11 +798,7 @@
     <contact>2147483647</contact>
     <micrCode>110072012</micrCode>
     <ifscCode>DCBL0000187</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8517</bankLoc>
-=======
-    <bankLoc>8561</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8574</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Model Town</name>
@@ -1171,11 +807,7 @@
     <contact>2147483647</contact>
     <micrCode>110072014</micrCode>
     <ifscCode>DCBL0000186</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8515</bankLoc>
-=======
-    <bankLoc>8559</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8572</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Laxmi Nagar</name>
@@ -1184,11 +816,7 @@
     <contact>2147483647</contact>
     <micrCode>110072015</micrCode>
     <ifscCode>DCBL0000185</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8512</bankLoc>
-=======
-    <bankLoc>8556</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8569</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurgaon Sector Fourteen</name>
@@ -1197,11 +825,7 @@
     <contact>2147483647</contact>
     <micrCode>110072017</micrCode>
     <ifscCode>DCBL0000184</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8536</bankLoc>
-=======
-    <bankLoc>8580</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8593</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghaziabad</name>
@@ -1210,11 +834,7 @@
     <contact>2147483647</contact>
     <micrCode>110072018</micrCode>
     <ifscCode>DCBL0000183</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8645</bankLoc>
-=======
-    <bankLoc>8692</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8705</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valasaravakkam</name>
@@ -1223,11 +843,7 @@
     <contact>2147483647</contact>
     <micrCode>600072006</micrCode>
     <ifscCode>DCBL0000182</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8635</bankLoc>
-=======
-    <bankLoc>8681</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8694</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arcot, Vellore</name>
@@ -1236,11 +852,7 @@
     <contact>2147483647</contact>
     <micrCode>632072002</micrCode>
     <ifscCode>DCBL0000181</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8637</bankLoc>
-=======
-    <bankLoc>8683</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8696</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Waghodiya</name>
@@ -1249,11 +861,7 @@
     <contact>2147483647</contact>
     <micrCode>390072003</micrCode>
     <ifscCode>DCBL0000180</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8534</bankLoc>
-=======
-    <bankLoc>8578</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8591</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhi Nagar</name>
@@ -1262,11 +870,7 @@
     <contact>2147483647</contact>
     <micrCode>110072019</micrCode>
     <ifscCode>DCBL0000179</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8512</bankLoc>
-=======
-    <bankLoc>8556</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8569</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Beechwal</name>
@@ -1275,11 +879,7 @@
     <contact>2147483647</contact>
     <micrCode>334072052</micrCode>
     <ifscCode>DCBL0000178</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8623</bankLoc>
-=======
-    <bankLoc>8669</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8682</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Navnagapur</name>
@@ -1288,11 +888,7 @@
     <contact>2147483647</contact>
     <micrCode>414072002</micrCode>
     <ifscCode>DCBL0000177</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8572</bankLoc>
-=======
-    <bankLoc>8618</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8631</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pedda  Thanda</name>
@@ -1301,11 +897,7 @@
     <contact>2147483647</contact>
     <micrCode>507072002</micrCode>
     <ifscCode>DCBL0000176</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8639</bankLoc>
-=======
-    <bankLoc>8685</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8698</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madlapur</name>
@@ -1314,11 +906,7 @@
     <contact>2147483647</contact>
     <micrCode>413072227</micrCode>
     <ifscCode>DCBL0000175</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8579</bankLoc>
-=======
-    <bankLoc>8625</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8638</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nashirabad</name>
@@ -1327,11 +915,7 @@
     <contact>2147483647</contact>
     <micrCode>425072002</micrCode>
     <ifscCode>DCBL0000174</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8577</bankLoc>
-=======
-    <bankLoc>8623</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kamla</name>
@@ -1340,11 +924,7 @@
     <contact>2147483647</contact>
     <micrCode>387072001</micrCode>
     <ifscCode>DCBL0000173</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8526</bankLoc>
-=======
-    <bankLoc>8570</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8583</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Coimbatore</name>
@@ -1353,11 +933,7 @@
     <contact>2147483647</contact>
     <micrCode>641072002</micrCode>
     <ifscCode>DCBL0000172</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8629</bankLoc>
-=======
-    <bankLoc>8675</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8688</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nawanshahr</name>
@@ -1366,11 +942,7 @@
     <contact>2147483647</contact>
     <micrCode>144072302</micrCode>
     <ifscCode>DCBL0000171</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8618</bankLoc>
-=======
-    <bankLoc>8664</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8677</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalandhar</name>
@@ -1379,11 +951,7 @@
     <contact>2147483647</contact>
     <micrCode>144072002</micrCode>
     <ifscCode>DCBL0000170</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8615</bankLoc>
-=======
-    <bankLoc>8661</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8674</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pachore</name>
@@ -1392,11 +960,7 @@
     <contact>2147483647</contact>
     <micrCode>465072501</micrCode>
     <ifscCode>DCBL0000169</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8566</bankLoc>
-=======
-    <bankLoc>8611</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8624</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valabh Vidyanagar</name>
@@ -1405,11 +969,7 @@
     <contact>2147483647</contact>
     <micrCode>388072001</micrCode>
     <ifscCode>DCBL0000168</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8521</bankLoc>
-=======
-    <bankLoc>8565</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhubaneswar</name>
@@ -1418,11 +978,7 @@
     <contact>2147483647</contact>
     <micrCode>751072003</micrCode>
     <ifscCode>DCBL0000167</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8604</bankLoc>
-=======
-    <bankLoc>8650</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8663</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal</name>
@@ -1431,11 +987,7 @@
     <contact>2147483647</contact>
     <micrCode>462072001</micrCode>
     <ifscCode>DCBL0000166</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8557</bankLoc>
-=======
-    <bankLoc>8602</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8615</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karnal</name>
@@ -1444,11 +996,7 @@
     <contact>2147483647</contact>
     <micrCode>132072102</micrCode>
     <ifscCode>DCBL0000165</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8538</bankLoc>
-=======
-    <bankLoc>8583</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panipat</name>
@@ -1457,11 +1005,7 @@
     <contact>2147483647</contact>
     <micrCode>132072002</micrCode>
     <ifscCode>DCBL0000164</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8540</bankLoc>
-=======
-    <bankLoc>8585</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8598</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indore</name>
@@ -1470,11 +1014,7 @@
     <contact>2147483647</contact>
     <micrCode>452072001</micrCode>
     <ifscCode>DCBL0000163</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8562</bankLoc>
-=======
-    <bankLoc>8607</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8620</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nallapadu</name>
@@ -1483,11 +1023,7 @@
     <contact>2147483647</contact>
     <micrCode>520072102</micrCode>
     <ifscCode>DCBL0000162</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8489</bankLoc>
-=======
-    <bankLoc>8533</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8546</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhokheda</name>
@@ -1496,11 +1032,7 @@
     <contact>2147483647</contact>
     <micrCode>464072501</micrCode>
     <ifscCode>DCBL0000161</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8565</bankLoc>
-=======
-    <bankLoc>8610</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8623</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bareja</name>
@@ -1509,11 +1041,7 @@
     <contact>2147483647</contact>
     <micrCode>380072007</micrCode>
     <ifscCode>DCBL0000160</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8520</bankLoc>
-=======
-    <bankLoc>8564</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8577</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tiruchirapalli</name>
@@ -1522,11 +1050,7 @@
     <contact>2147483647</contact>
     <micrCode>620072002</micrCode>
     <ifscCode>DCBL0000159</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8636</bankLoc>
-=======
-    <bankLoc>8682</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8695</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tambaram</name>
@@ -1535,11 +1059,7 @@
     <contact>2147483647</contact>
     <micrCode>600072005</micrCode>
     <ifscCode>DCBL0000158</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8631</bankLoc>
-=======
-    <bankLoc>8677</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8690</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pitampura</name>
@@ -1548,11 +1068,7 @@
     <contact>2147483647</contact>
     <micrCode>110072010</micrCode>
     <ifscCode>DCBL0000157</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8513</bankLoc>
-=======
-    <bankLoc>8557</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8570</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malerkotla</name>
@@ -1561,11 +1077,7 @@
     <contact>2147483647</contact>
     <micrCode>148072102</micrCode>
     <ifscCode>DCBL0000156</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8620</bankLoc>
-=======
-    <bankLoc>8666</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8679</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rekurthi</name>
@@ -1574,11 +1086,7 @@
     <contact>2147483647</contact>
     <micrCode>505072002</micrCode>
     <ifscCode>DCBL0000155</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8491</bankLoc>
-=======
-    <bankLoc>8535</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8548</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panjh</name>
@@ -1587,11 +1095,7 @@
     <contact>2147483647</contact>
     <micrCode>464072201</micrCode>
     <ifscCode>DCBL0000154</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8571</bankLoc>
-=======
-    <bankLoc>8617</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8630</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balangir</name>
@@ -1600,24 +1104,16 @@
     <contact>234686</contact>
     <micrCode>767072002</micrCode>
     <ifscCode>DCBL0000153</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8590</bankLoc>
-=======
-    <bankLoc>8636</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8649</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karmeta</name>
-    <city>Karmeta?ï¿½</city>
+    <city>Karmeta?á</city>
     <address>Plot NO.1, Survey NO.259 BY 2, Kiran Palace, Bajrang Nagar, Katangi RD, Karmeta, DIST.JABALPUR, MP 482001</address>
     <contact>2147483647</contact>
     <micrCode>482072001</micrCode>
     <ifscCode>DCBL0000152</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8563</bankLoc>
-=======
-    <bankLoc>8608</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8621</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raghunathpur</name>
@@ -1626,11 +1122,7 @@
     <contact>2147483647</contact>
     <micrCode>751072002</micrCode>
     <ifscCode>DCBL0000151</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8604</bankLoc>
-=======
-    <bankLoc>8650</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8663</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Durgaprasad</name>
@@ -1639,11 +1131,7 @@
     <contact>2147483647</contact>
     <micrCode>751072002</micrCode>
     <ifscCode>DCBL0000150</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8607</bankLoc>
-=======
-    <bankLoc>8653</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8666</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurra</name>
@@ -1652,11 +1140,7 @@
     <contact>2147483647</contact>
     <micrCode>492072503</micrCode>
     <ifscCode>DCBL0000149</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8501</bankLoc>
-=======
-    <bankLoc>8545</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patnagarh</name>
@@ -1665,11 +1149,7 @@
     <contact>2147483647</contact>
     <micrCode>767072502</micrCode>
     <ifscCode>DCBL0000148</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8590</bankLoc>
-=======
-    <bankLoc>8636</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8649</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dongergaon</name>
@@ -1678,11 +1158,7 @@
     <contact>2147483647</contact>
     <micrCode>491072501</micrCode>
     <ifscCode>DCBL0000147</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8502</bankLoc>
-=======
-    <bankLoc>8546</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8559</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheeka</name>
@@ -1691,11 +1167,7 @@
     <contact>2147483647</contact>
     <micrCode>136072352</micrCode>
     <ifscCode>DCBL0000146</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8537</bankLoc>
-=======
-    <bankLoc>8582</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8595</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gotegaon</name>
@@ -1704,24 +1176,16 @@
     <contact>283633</contact>
     <micrCode>487072001</micrCode>
     <ifscCode>DCBL0000145</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8564</bankLoc>
-=======
-    <bankLoc>8609</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rangaipura</name>
     <city>Rangaipura</city>
-    <address>368, Nadiad ?ï¿½ Petlad Road, Near Paras Steel, Rangaipura, Taluka ?ï¿½ Petlad, Anand, State ?ï¿½ Gujaratpin Code 388450</address>
+    <address>368, Nadiad ?Û Petlad Road, Near Paras Steel, Rangaipura, Taluka ?Û Petlad, Anand, State ?Û Gujaratpin Code 388450</address>
     <contact>224432</contact>
     <micrCode>388072051</micrCode>
     <ifscCode>DCBL0000144</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8521</bankLoc>
-=======
-    <bankLoc>8565</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharamgarh Branch</name>
@@ -1730,11 +1194,7 @@
     <contact>2147483647</contact>
     <micrCode>766072501</micrCode>
     <ifscCode>DCBL0000143</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8599</bankLoc>
-=======
-    <bankLoc>8645</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8658</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Faridkot</name>
@@ -1743,11 +1203,7 @@
     <contact>2147483647</contact>
     <micrCode>151072102</micrCode>
     <ifscCode>DCBL0000142</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8612</bankLoc>
-=======
-    <bankLoc>8658</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8671</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nabha</name>
@@ -1756,76 +1212,52 @@
     <contact>1765223540</contact>
     <micrCode>147072152</micrCode>
     <ifscCode>DCBL0000141</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8617</bankLoc>
-=======
-    <bankLoc>8663</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8676</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>4 ML</name>
     <city>Sriganganagar</city>
-    <address>29, Homeland City Projects LTD., 4 ML, Sriganganagar, District ?ï¿½ Sriganganagar, State ?ï¿½ Rajasthan, PIN ?ï¿½ 335001</address>
+    <address>29, Homeland City Projects LTD., 4 ML, Sriganganagar, District ?Û Sriganganagar, State ?Û Rajasthan, PIN ?Û 335001</address>
     <contact>2147483647</contact>
     <micrCode>335072052</micrCode>
     <ifscCode>DCBL0000140</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8627</bankLoc>
-=======
-    <bankLoc>8673</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8686</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sateepura</name>
     <city>Hanumangarh</city>
-    <address>Plot NO. 10, Malkeet Singh Colony, Sangaria Road, Sateepura, Hanumangarh JUNCTION.  District ?ï¿½ Hanumangarh, State ?ï¿½ Rajasthan ?ï¿½ 335513</address>
+    <address>Plot NO. 10, Malkeet Singh Colony, Sangaria Road, Sateepura, Hanumangarh JUNCTION.  District ?Û Hanumangarh, State ?Û Rajasthan ?Û 335513</address>
     <contact>2147483647</contact>
     <micrCode>335072051</micrCode>
     <ifscCode>DCBL0000139</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8624</bankLoc>
-=======
-    <bankLoc>8670</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8683</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Berla</name>
     <city>Bemetara</city>
-    <address>OLD BUS Stand Road, Berla, District ?ï¿½ Bemetara, State ?ï¿½ Chattisgarh, PIN ?ï¿½ 491332</address>
+    <address>OLD BUS Stand Road, Berla, District ?Û Bemetara, State ?Û Chattisgarh, PIN ?Û 491332</address>
     <contact>2147483647</contact>
     <micrCode>492072502</micrCode>
     <ifscCode>DCBL0000138</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8499</bankLoc>
-=======
-    <bankLoc>8543</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bemetara</name>
     <city>Bemetara</city>
-    <address>Durg Road, Bemetara, District ?ï¿½ Bemetara, State ?ï¿½ Chattisgarh, PIN ?ï¿½ 491335</address>
+    <address>Durg Road, Bemetara, District ?Û Bemetara, State ?Û Chattisgarh, PIN ?Û 491335</address>
     <contact>2147483647</contact>
     <micrCode>492072501</micrCode>
     <ifscCode>DCBL0000137</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8499</bankLoc>
-=======
-    <bankLoc>8543</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Redhakhol</name>
     <city>Sambalpur</city>
-    <address>Main Road, AT Post Redhakhol, District ?ï¿½ Sambalpur PIN ?ï¿½ 768106, State ?ï¿½ Odisha</address>
+    <address>Main Road, AT Post Redhakhol, District ?Û Sambalpur PIN ?Û 768106, State ?Û Odisha</address>
     <contact>2147483647</contact>
     <micrCode>768072502</micrCode>
     <ifscCode>DCBL0000136</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8608</bankLoc>
-=======
-    <bankLoc>8654</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8667</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Minjur</name>
@@ -1834,11 +1266,7 @@
     <contact>2147483647</contact>
     <micrCode>600072004</micrCode>
     <ifscCode>DCBL0000135</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8635</bankLoc>
-=======
-    <bankLoc>8681</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8694</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ferozepur</name>
@@ -1847,11 +1275,7 @@
     <contact>2147483647</contact>
     <micrCode>152072002</micrCode>
     <ifscCode>DCBL0000134</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8613</bankLoc>
-=======
-    <bankLoc>8659</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8672</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jagraon</name>
@@ -1860,50 +1284,34 @@
     <contact>1624224434</contact>
     <micrCode>142072052</micrCode>
     <ifscCode>DCBL0000133</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8616</bankLoc>
-=======
-    <bankLoc>8662</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8675</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nayakheda</name>
     <city>Hoshangabad</city>
-    <address>Plot NO. 23 / 37, Near Railway Gate, Nayakheda, Tehsil ?ï¿½ Bankhedi District ?ï¿½ Hoshangabad, State ?ï¿½ Madhya Pradesh PIN ?ï¿½ 461990</address>
+    <address>Plot NO. 23 / 37, Near Railway Gate, Nayakheda, Tehsil ?Û Bankhedi District ?Û Hoshangabad, State ?Û Madhya Pradesh PIN ?Û 461990</address>
     <contact>2147483647</contact>
     <micrCode>461072501</micrCode>
     <ifscCode>DCBL0000132</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8561</bankLoc>
-=======
-    <bankLoc>8606</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8619</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surala Junction</name>
     <city>Ganjam</city>
-    <address>Plot 607, Surala Junction, AT Post ?ï¿½ Girisola, District ?ï¿½ Ganjam, Odisha ?ï¿½ 761009</address>
+    <address>Plot 607, Surala Junction, AT Post ?Û Girisola, District ?Û Ganjam, Odisha ?Û 761009</address>
     <contact>2147483647</contact>
     <micrCode>761072502</micrCode>
     <ifscCode>DCBL0000131</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8596</bankLoc>
-=======
-    <bankLoc>8642</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8655</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jarasingha</name>
     <city>Angul</city>
-    <address>Main Road, Jarasingha, District ?ï¿½ Angul, Odisha ?ï¿½ 759143</address>
+    <address>Main Road, Jarasingha, District ?Û Angul, Odisha ?Û 759143</address>
     <contact>2147483647</contact>
     <micrCode>759072102</micrCode>
     <ifscCode>DCBL0000130</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8589</bankLoc>
-=======
-    <bankLoc>8635</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8648</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bahirwadi</name>
@@ -1912,24 +1320,16 @@
     <contact>2147483647</contact>
     <micrCode>431072302</micrCode>
     <ifscCode>DCBL0000129</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8574</bankLoc>
-=======
-    <bankLoc>8620</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8633</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basoda</name>
     <city>Vidisha</city>
-    <address>Bareth Road, IN Front OF Church, Basoda ?ï¿½ 464221, District :?ï¿½ Vidisha, State :?ï¿½ Madhya Pradesh</address>
+    <address>Bareth Road, IN Front OF Church, Basoda ?Û 464221, District :?Û Vidisha, State :?Û Madhya Pradesh</address>
     <contact>0</contact>
     <micrCode>464072051</micrCode>
     <ifscCode>DCBL0000128</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8571</bankLoc>
-=======
-    <bankLoc>8617</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8630</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumhari</name>
@@ -1938,24 +1338,16 @@
     <contact>247001</contact>
     <micrCode>491072502</micrCode>
     <ifscCode>DCBL0000127</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8500</bankLoc>
-=======
-    <bankLoc>8544</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8557</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nokha</name>
     <city>Bikaner</city>
-    <address>N H 89, OPP. Baba Chhotu Nath School, Bikaner Road, Nokha, District :bikaner, Rajasthan ?ï¿½ 334803</address>
+    <address>N H 89, OPP. Baba Chhotu Nath School, Bikaner Road, Nokha, District :bikaner, Rajasthan ?Û 334803</address>
     <contact>1531220395</contact>
     <micrCode>334072051</micrCode>
     <ifscCode>DCBL0000126</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8623</bankLoc>
-=======
-    <bankLoc>8669</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8682</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baloda Bazar</name>
@@ -1964,11 +1356,7 @@
     <contact>2147483647</contact>
     <micrCode>493072151</micrCode>
     <ifscCode>DCBL0000125</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8498</bankLoc>
-=======
-    <bankLoc>8542</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8555</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaikalur</name>
@@ -1977,50 +1365,34 @@
     <contact>2147483647</contact>
     <micrCode>520072722</micrCode>
     <ifscCode>DCBL0000124</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8492</bankLoc>
-=======
-    <bankLoc>8536</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8549</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anaparthy</name>
     <city>East Godavari</city>
-    <address>Canal Road, Anaparthy, District ?ï¿½ East Godavari, State ?ï¿½ Andhra Pradesh PIN ?ï¿½ 533342</address>
+    <address>Canal Road, Anaparthy, District ?Û East Godavari, State ?Û Andhra Pradesh PIN ?Û 533342</address>
     <contact>2147483647</contact>
     <micrCode>533072562</micrCode>
     <ifscCode>DCBL0000123</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8488</bankLoc>
-=======
-    <bankLoc>8532</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8545</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Akividu</name>
     <city>West Godavari</city>
-    <address>J S R Tower, P.P. Road, Akividu ?ï¿½ 534235 West Godavari District, Andhra PRADESH.</address>
+    <address>J S R Tower, P.P. Road, Akividu ?Û 534235 West Godavari District, Andhra PRADESH.</address>
     <contact>254855</contact>
     <micrCode>534072722</micrCode>
     <ifscCode>DCBL0000122</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8496</bankLoc>
-=======
-    <bankLoc>8540</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jagannathpur</name>
     <city>Ganjam</city>
-    <address>Plot NO.1141, Nh5, Jagannathpur, Berhampur, District ?ï¿½ Ganjam, Odisha, PIN ?ï¿½ 760007</address>
+    <address>Plot NO.1141, Nh5, Jagannathpur, Berhampur, District ?Û Ganjam, Odisha, PIN ?Û 760007</address>
     <contact>2147483647</contact>
     <micrCode>760072002</micrCode>
     <ifscCode>DCBL0000121</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8596</bankLoc>
-=======
-    <bankLoc>8642</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8655</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijaywada</name>
@@ -2029,11 +1401,7 @@
     <contact>6460311</contact>
     <micrCode>520072002</micrCode>
     <ifscCode>DCBL0000120</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8492</bankLoc>
-=======
-    <bankLoc>8536</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8549</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Noida</name>
@@ -2042,11 +1410,7 @@
     <contact>1202510423</contact>
     <micrCode>110072009</micrCode>
     <ifscCode>DCBL0000119</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8644</bankLoc>
-=======
-    <bankLoc>8691</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8704</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nana Rasana</name>
@@ -2055,24 +1419,16 @@
     <contact>2147483647</contact>
     <micrCode>385072031</micrCode>
     <ifscCode>DCBL0000118</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8522</bankLoc>
-=======
-    <bankLoc>8566</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8579</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mandideep</name>
     <city>Raisen</city>
-    <address>Plot NO. 203, B?ï¿½sector, Indra Nagar, Mandideep, Tehsil Goharganj, District ?ï¿½ Raisen, State ?ï¿½ Madhya Pradesh, PIN - 462046</address>
+    <address>Plot NO. 203, B?ûsector, Indra Nagar, Mandideep, Tehsil Goharganj, District ?Û Raisen, State ?Û Madhya Pradesh, PIN - 462046</address>
     <contact>2147483647</contact>
     <micrCode>462072501</micrCode>
     <ifscCode>DCBL0000117</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8565</bankLoc>
-=======
-    <bankLoc>8610</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8623</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Attabira</name>
@@ -2081,63 +1437,43 @@
     <contact>2147483647</contact>
     <micrCode>768072501</micrCode>
     <ifscCode>DCBL0000116</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8592</bankLoc>
-=======
-    <bankLoc>8638</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8651</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Songadh</name>
     <city>Tapi</city>
-    <address>Plot NO. 384, Near Sbi, Brahmin Faliya Navagam Post Songadh, Dist Tapi, Gujarat ?ï¿½ 394670</address>
+    <address>Plot NO. 384, Near Sbi, Brahmin Faliya Navagam Post Songadh, Dist Tapi, Gujarat ?Û 394670</address>
     <contact>2147483647</contact>
     <micrCode>394072501</micrCode>
     <ifscCode>DCBL0000115</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8531</bankLoc>
-=======
-    <bankLoc>8575</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8588</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasad</name>
     <city>Anand</city>
-    <address>AT &amp; Post Vasad, Yash WAY Bridge, Borsad Road, Vasad, TAL &amp; DIST.  Anand, Gujarat ?ï¿½ 388306</address>
+    <address>AT &amp; Post Vasad, Yash WAY Bridge, Borsad Road, Vasad, TAL &amp; DIST.  Anand, Gujarat ?Û 388306</address>
     <contact>0</contact>
     <micrCode>388072501</micrCode>
     <ifscCode>DCBL0000114</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8521</bankLoc>
-=======
-    <bankLoc>8565</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8578</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dunguripali</name>
     <city>Sonepur</city>
-    <address>Khata NO. 380 / 287, Plot NO. 2049 / 2377, Mouza ?ï¿½ Gambharipali, Main Road, Dunguripali ?ï¿½ 767023.  District ?ï¿½ Sonepur, State ?ï¿½ Odisha</address>
+    <address>Khata NO. 380 / 287, Plot NO. 2049 / 2377, Mouza ?Û Gambharipali, Main Road, Dunguripali ?Û 767023.  District ?Û Sonepur, State ?Û Odisha</address>
     <contact>2147483647</contact>
     <micrCode>767072501</micrCode>
     <ifscCode>DCBL0000113</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8609</bankLoc>
-=======
-    <bankLoc>8655</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8668</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gadarwara</name>
     <city>Narsinghpur</city>
-    <address>Bhama Ward, NEW Galla Mandi Road, Gadarwara ?ï¿½ 487551, DIST. Narsinghpur, State ?ï¿½ Madhya Pradesh</address>
+    <address>Bhama Ward, NEW Galla Mandi Road, Gadarwara ?Û 487551, DIST. Narsinghpur, State ?Û Madhya Pradesh</address>
     <contact>2147483647</contact>
     <micrCode>487072501</micrCode>
     <ifscCode>DCBL0000112</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8564</bankLoc>
-=======
-    <bankLoc>8609</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
@@ -2146,11 +1482,7 @@
     <contact>1412211361</contact>
     <micrCode>302072002</micrCode>
     <ifscCode>DCBL0000111</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8625</bankLoc>
-=======
-    <bankLoc>8671</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8684</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hinjilicut</name>
@@ -2159,11 +1491,7 @@
     <contact>2147483647</contact>
     <micrCode>761072501</micrCode>
     <ifscCode>DCBL0000110</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8596</bankLoc>
-=======
-    <bankLoc>8642</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8655</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadodara</name>
@@ -2172,11 +1500,7 @@
     <contact>2147483647</contact>
     <micrCode>395072003</micrCode>
     <ifscCode>DCBL0000109</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8530</bankLoc>
-=======
-    <bankLoc>8574</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lucknow</name>
@@ -2185,11 +1509,7 @@
     <contact>2147483647</contact>
     <micrCode>226072002</micrCode>
     <ifscCode>DCBL0000108</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8646</bankLoc>
-=======
-    <bankLoc>8693</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8706</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ludhiana</name>
@@ -2198,11 +1518,7 @@
     <contact>1616620221</contact>
     <micrCode>141072002</micrCode>
     <ifscCode>DCBL0000107</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8616</bankLoc>
-=======
-    <bankLoc>8662</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8675</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pipariya</name>
@@ -2211,24 +1527,16 @@
     <contact>2147483647</contact>
     <micrCode>461072301</micrCode>
     <ifscCode>DCBL0000106</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8561</bankLoc>
-=======
-    <bankLoc>8606</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8619</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kochi</name>
     <city>Ernakulam</city>
-    <address>Kerala Chamber OF Commerce AND Industry Building, Ground Floor, Chamber Corner, Shanmugham Road, Kochi ?ï¿½ 682031.</address>
+    <address>Kerala Chamber OF Commerce AND Industry Building, Ground Floor, Chamber Corner, Shanmugham Road, Kochi ?Û 682031.</address>
     <contact>2147483647</contact>
     <micrCode>682072002</micrCode>
     <ifscCode>DCBL0000105</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8554</bankLoc>
-=======
-    <bankLoc>8599</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8612</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Itarsi</name>
@@ -2237,11 +1545,7 @@
     <contact>2147483647</contact>
     <micrCode>461072201</micrCode>
     <ifscCode>DCBL0000104</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8561</bankLoc>
-=======
-    <bankLoc>8606</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8619</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bargarh</name>
@@ -2250,11 +1554,7 @@
     <contact>2147483647</contact>
     <micrCode>768072302</micrCode>
     <ifscCode>DCBL0000103</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8592</bankLoc>
-=======
-    <bankLoc>8638</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8651</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Netrang</name>
@@ -2263,11 +1563,7 @@
     <contact>2147483647</contact>
     <micrCode>72102</micrCode>
     <ifscCode>DCBL0000102</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8523</bankLoc>
-=======
-    <bankLoc>8567</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8580</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mandvi</name>
@@ -2276,11 +1572,7 @@
     <contact>2147483647</contact>
     <micrCode>394072091</micrCode>
     <ifscCode>DCBL0000101</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8530</bankLoc>
-=======
-    <bankLoc>8574</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadodara</name>
@@ -2289,11 +1581,7 @@
     <contact>2147483647</contact>
     <micrCode>390072002</micrCode>
     <ifscCode>DCBL0000100</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8532</bankLoc>
-=======
-    <bankLoc>8576</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8589</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kondwa</name>
@@ -2302,24 +1590,16 @@
     <contact>65602011</contact>
     <micrCode>411072005</micrCode>
     <ifscCode>DCBL0000098</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8584</bankLoc>
-=======
-    <bankLoc>8630</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8643</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parrys Corner</name>
     <city>Chennai</city>
-    <address>NEW NO. 177 (old NO. 89), Broadway, Chennai ?ï¿½ 600 108.</address>
+    <address>NEW NO. 177 (old NO. 89), Broadway, Chennai ?Û 600 108.</address>
     <contact>2147483647</contact>
     <micrCode>600072003</micrCode>
     <ifscCode>DCBL0000097</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8628</bankLoc>
-=======
-    <bankLoc>8674</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8687</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur</name>
@@ -2328,24 +1608,16 @@
     <contact>0</contact>
     <micrCode>342072002</micrCode>
     <ifscCode>DCBL0000096</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8626</bankLoc>
-=======
-    <bankLoc>8672</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8685</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nashik</name>
     <city>Nasik</city>
-    <address>Plot NO. 49, Dwarkamai Building, Shivgiri Colony, D?ï¿½souza Colony, Opposite K Kathiyawad, Nasik ?ï¿½ 422 005.</address>
+    <address>Plot NO. 49, Dwarkamai Building, Shivgiri Colony, D?æsouza Colony, Opposite K Kathiyawad, Nasik ?Û 422 005.</address>
     <contact>6510002</contact>
     <micrCode>422072002</micrCode>
     <ifscCode>DCBL0000095</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8583</bankLoc>
-=======
-    <bankLoc>8629</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8642</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasai Road</name>
@@ -2354,50 +1626,34 @@
     <contact>6453528</contact>
     <micrCode>400072038</micrCode>
     <ifscCode>DCBL0000094</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kondli</name>
     <city>Delhi</city>
-    <address>V-4, Mayur Plaza, Plot 5, Block G, Mayur Vihar, Phase ?ï¿½ Iii, Kondli Gharoli, NEW Delhi ?ï¿½ 110 096.</address>
+    <address>V-4, Mayur Plaza, Plot 5, Block G, Mayur Vihar, Phase ?Û Iii, Kondli Gharoli, NEW Delhi ?Û 110 096.</address>
     <contact>1164649118</contact>
     <micrCode>110072008</micrCode>
     <ifscCode>DCBL0000093</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8511</bankLoc>
-=======
-    <bankLoc>8555</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kapashera</name>
     <city>Delhi</city>
-    <address>Shiv Chand Complex, OLD Gurgaon Road, OPP. FUN AND Food Village, Kapashera, NEW Delhi ?ï¿½ 110 037.</address>
+    <address>Shiv Chand Complex, OLD Gurgaon Road, OPP. FUN AND Food Village, Kapashera, NEW Delhi ?Û 110 037.</address>
     <contact>1164649110</contact>
     <micrCode>110072006</micrCode>
     <ifscCode>DCBL0000092</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8511</bankLoc>
-=======
-    <bankLoc>8555</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandni Chowk</name>
     <city>Delhi</city>
-    <address>1488-1489, Main Road, Chandni Chowk, NEW Delhi ?ï¿½ 110 006.</address>
+    <address>1488-1489, Main Road, Chandni Chowk, NEW Delhi ?Û 110 006.</address>
     <contact>1164649057</contact>
     <micrCode>110072007</micrCode>
     <ifscCode>DCBL0000091</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8511</bankLoc>
-=======
-    <bankLoc>8555</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jakkasandra</name>
@@ -2406,11 +1662,7 @@
     <contact>2147483647</contact>
     <micrCode>560072005</micrCode>
     <ifscCode>DCBL0000090</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8545</bankLoc>
-=======
-    <bankLoc>8590</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8603</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Brabourne Road</name>
@@ -2419,11 +1671,7 @@
     <contact>2147483647</contact>
     <micrCode>700072004</micrCode>
     <ifscCode>DCBL0000089</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8648</bankLoc>
-=======
-    <bankLoc>8696</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8710</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dediapada</name>
@@ -2432,11 +1680,7 @@
     <contact>2147483647</contact>
     <micrCode>72088</micrCode>
     <ifscCode>DCBL0000088</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8527</bankLoc>
-=======
-    <bankLoc>8571</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8584</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gariahat</name>
@@ -2445,11 +1689,7 @@
     <contact>2147483647</contact>
     <micrCode>700072003</micrCode>
     <ifscCode>DCBL0000087</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8648</bankLoc>
-=======
-    <bankLoc>8696</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8710</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muchhala Polytechnic</name>
@@ -2458,11 +1698,7 @@
     <contact>65992158</contact>
     <micrCode>400072037</micrCode>
     <ifscCode>DCBL0000086</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandanagar</name>
@@ -2471,11 +1707,7 @@
     <contact>64631281</contact>
     <micrCode>500072009</micrCode>
     <ifscCode>DCBL0000085</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8490</bankLoc>
-=======
-    <bankLoc>8534</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalamboli</name>
@@ -2484,11 +1716,7 @@
     <contact>65992075</contact>
     <micrCode>400072036</micrCode>
     <ifscCode>DCBL0000084</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8585</bankLoc>
-=======
-    <bankLoc>8631</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8644</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghatlodia</name>
@@ -2497,11 +1725,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL0000083</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8520</bankLoc>
-=======
-    <bankLoc>8564</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8577</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaya Nagar</name>
@@ -2510,11 +1734,7 @@
     <contact>2147483647</contact>
     <micrCode>560072004</micrCode>
     <ifscCode>DCBL0000082</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8544</bankLoc>
-=======
-    <bankLoc>8589</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8602</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satara Road, Pune</name>
@@ -2523,11 +1743,7 @@
     <contact>65601306</contact>
     <micrCode>411072004</micrCode>
     <ifscCode>DCBL0000081</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8584</bankLoc>
-=======
-    <bankLoc>8630</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8643</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vejalpur</name>
@@ -2536,11 +1752,7 @@
     <contact>2147483647</contact>
     <micrCode>380072005</micrCode>
     <ifscCode>DCBL0000080</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8520</bankLoc>
-=======
-    <bankLoc>8564</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8577</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shakespear Sarani</name>
@@ -2549,11 +1761,7 @@
     <contact>2147483647</contact>
     <micrCode>700072002</micrCode>
     <ifscCode>DCBL0000079</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8648</bankLoc>
-=======
-    <bankLoc>8696</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8710</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gaddiannaram</name>
@@ -2562,11 +1770,7 @@
     <contact>64631137</contact>
     <micrCode>500072008</micrCode>
     <ifscCode>DCBL0000076</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8493</bankLoc>
-=======
-    <bankLoc>8537</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8550</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>S.R.NAGAR</name>
@@ -2575,11 +1779,7 @@
     <contact>66565412</contact>
     <micrCode>500072007</micrCode>
     <ifscCode>DCBL0000072</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8490</bankLoc>
-=======
-    <bankLoc>8534</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajaji Nagar</name>
@@ -2588,11 +1788,7 @@
     <contact>2147483647</contact>
     <micrCode>560072003</micrCode>
     <ifscCode>DCBL0000071</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8544</bankLoc>
-=======
-    <bankLoc>8589</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8602</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Greater Kailash</name>
@@ -2601,11 +1797,7 @@
     <contact>1164649101</contact>
     <micrCode>110072005</micrCode>
     <ifscCode>DCBL0000070</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8511</bankLoc>
-=======
-    <bankLoc>8555</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Preet Vihar</name>
@@ -2614,11 +1806,7 @@
     <contact>1164649137</contact>
     <micrCode>110072004</micrCode>
     <ifscCode>DCBL0000069</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8511</bankLoc>
-=======
-    <bankLoc>8555</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jharsa</name>
@@ -2627,11 +1815,7 @@
     <contact>1246461721</contact>
     <micrCode>110072003</micrCode>
     <ifscCode>DCBL0000062</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8536</bankLoc>
-=======
-    <bankLoc>8580</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8593</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andheri East</name>
@@ -2640,11 +1824,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL0000061</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8576</bankLoc>
-=======
-    <bankLoc>8622</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8635</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai</name>
@@ -2653,11 +1833,7 @@
     <contact>2147483647</contact>
     <micrCode>600072002</micrCode>
     <ifscCode>DCBL0000060</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8628</bankLoc>
-=======
-    <bankLoc>8674</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8687</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nakkalgutta</name>
@@ -2666,11 +1842,7 @@
     <contact>6450349</contact>
     <micrCode>72059</micrCode>
     <ifscCode>DCBL0000059</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8495</bankLoc>
-=======
-    <bankLoc>8539</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Secundrabad</name>
@@ -2679,11 +1851,7 @@
     <contact>66143801</contact>
     <micrCode>500072006</micrCode>
     <ifscCode>DCBL0000058</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8490</bankLoc>
-=======
-    <bankLoc>8534</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mapusa</name>
@@ -2692,11 +1860,7 @@
     <contact>2147483647</contact>
     <micrCode>403072004</micrCode>
     <ifscCode>DCBL0000057</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8518</bankLoc>
-=======
-    <bankLoc>8562</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Margao</name>
@@ -2705,11 +1869,7 @@
     <contact>2147483647</contact>
     <micrCode>403072003</micrCode>
     <ifscCode>DCBL0000056</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8519</bankLoc>
-=======
-    <bankLoc>8563</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8576</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panaji</name>
@@ -2718,11 +1878,7 @@
     <contact>2147483647</contact>
     <micrCode>403072002</micrCode>
     <ifscCode>DCBL0000055</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8518</bankLoc>
-=======
-    <bankLoc>8562</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasco-da-gama</name>
@@ -2731,11 +1887,7 @@
     <contact>2147483647</contact>
     <micrCode>403072005</micrCode>
     <ifscCode>DCBL0000054</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8519</bankLoc>
-=======
-    <bankLoc>8563</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8576</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saboo Siddique</name>
@@ -2744,11 +1896,7 @@
     <contact>23014149</contact>
     <micrCode>400072034</micrCode>
     <ifscCode>DCBL0000053</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virar</name>
@@ -2757,11 +1905,7 @@
     <contact>6450391</contact>
     <micrCode>400072033</micrCode>
     <ifscCode>DCBL0000052</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>A.S.RAO Nagar</name>
@@ -2770,11 +1914,7 @@
     <contact>64631172</contact>
     <micrCode>500072005</micrCode>
     <ifscCode>DCBL0000051</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8490</bankLoc>
-=======
-    <bankLoc>8534</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Habsiguda</name>
@@ -2783,11 +1923,7 @@
     <contact>64632029</contact>
     <micrCode>500072004</micrCode>
     <ifscCode>DCBL0000050</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8493</bankLoc>
-=======
-    <bankLoc>8537</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8550</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhapur</name>
@@ -2796,11 +1932,7 @@
     <contact>64631257</contact>
     <micrCode>500072003</micrCode>
     <ifscCode>DCBL0000049</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8493</bankLoc>
-=======
-    <bankLoc>8537</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8550</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>J.M.ROAD - Pune</name>
@@ -2809,11 +1941,7 @@
     <contact>66421651</contact>
     <micrCode>411072003</micrCode>
     <ifscCode>DCBL0000048</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8584</bankLoc>
-=======
-    <bankLoc>8630</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8643</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Silvassa</name>
@@ -2822,11 +1950,7 @@
     <contact>2147483647</contact>
     <micrCode>72047</micrCode>
     <ifscCode>DCBL0000047</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8509</bankLoc>
-=======
-    <bankLoc>8553</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi</name>
@@ -2835,11 +1959,7 @@
     <contact>1164649064</contact>
     <micrCode>110072002</micrCode>
     <ifscCode>DCBL0000046</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8511</bankLoc>
-=======
-    <bankLoc>8555</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ankleswar</name>
@@ -2848,11 +1968,7 @@
     <contact>2147483647</contact>
     <micrCode>72045</micrCode>
     <ifscCode>DCBL0000045</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8523</bankLoc>
-=======
-    <bankLoc>8567</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8580</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Daman</name>
@@ -2861,11 +1977,7 @@
     <contact>2147483647</contact>
     <micrCode>72044</micrCode>
     <ifscCode>DCBL0000044</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8510</bankLoc>
-=======
-    <bankLoc>8554</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8567</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fort</name>
@@ -2874,11 +1986,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL0000043</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8576</bankLoc>
-=======
-    <bankLoc>8622</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8635</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhuj</name>
@@ -2887,11 +1995,7 @@
     <contact>2147483647</contact>
     <micrCode>72042</micrCode>
     <ifscCode>DCBL0000042</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8525</bankLoc>
-=======
-    <bankLoc>8569</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8582</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhinagar</name>
@@ -2900,11 +2004,7 @@
     <contact>2147483647</contact>
     <micrCode>380072004</micrCode>
     <ifscCode>DCBL0000041</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8524</bankLoc>
-=======
-    <bankLoc>8568</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8581</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajkot</name>
@@ -2913,11 +2013,7 @@
     <contact>2147483647</contact>
     <micrCode>360072002</micrCode>
     <ifscCode>DCBL0000040</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8529</bankLoc>
-=======
-    <bankLoc>8573</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8586</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mira Road</name>
@@ -2926,11 +2022,7 @@
     <contact>65992081</contact>
     <micrCode>400072031</micrCode>
     <ifscCode>DCBL0000039</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -2939,11 +2031,7 @@
     <contact>2147483647</contact>
     <micrCode>560072002</micrCode>
     <ifscCode>DCBL0000038</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8544</bankLoc>
-=======
-    <bankLoc>8589</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8602</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -2952,11 +2040,7 @@
     <contact>66187283</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL0000037</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>C.G.ROAD</name>
@@ -2965,11 +2049,7 @@
     <contact>2147483647</contact>
     <micrCode>380072003</micrCode>
     <ifscCode>DCBL0000036</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8520</bankLoc>
-=======
-    <bankLoc>8564</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8577</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sidhpur</name>
@@ -2978,11 +2058,7 @@
     <contact>2147483647</contact>
     <micrCode>72035</micrCode>
     <ifscCode>DCBL0000035</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8528</bankLoc>
-=======
-    <bankLoc>8572</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8585</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vapi</name>
@@ -2991,24 +2067,16 @@
     <contact>2147483647</contact>
     <micrCode>72034</micrCode>
     <ifscCode>DCBL0000034</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8533</bankLoc>
-=======
-    <bankLoc>8577</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8590</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat</name>
     <city>Surat</city>
-    <address>G-1 AND G-2, Ground Floor, Rockford Business Center, Udhna Darwaja, Ring Road, Surat ?ï¿½ 395002.</address>
+    <address>G-1 AND G-2, Ground Floor, Rockford Business Center, Udhna Darwaja, Ring Road, Surat ?Û 395002.</address>
     <contact>2147483647</contact>
     <micrCode>395072002</micrCode>
     <ifscCode>DCBL0000033</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8530</bankLoc>
-=======
-    <bankLoc>8574</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Auranagabad</name>
@@ -3017,11 +2085,7 @@
     <contact>6604875</contact>
     <micrCode>431072050</micrCode>
     <ifscCode>DCBL0000032</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8573</bankLoc>
-=======
-    <bankLoc>8619</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8632</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lokhandwala</name>
@@ -3030,11 +2094,7 @@
     <contact>67587500</contact>
     <micrCode>400072029</micrCode>
     <ifscCode>DCBL0000031</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vashi</name>
@@ -3043,11 +2103,7 @@
     <contact>65991189</contact>
     <micrCode>400072030</micrCode>
     <ifscCode>DCBL0000030</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kausa</name>
@@ -3056,11 +2112,7 @@
     <contact>65992064</contact>
     <micrCode>400072027</micrCode>
     <ifscCode>DCBL0000029</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Relief Road</name>
@@ -3069,11 +2121,7 @@
     <contact>2147483647</contact>
     <micrCode>380072002</micrCode>
     <ifscCode>DCBL0000028</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8520</bankLoc>
-=======
-    <bankLoc>8564</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8577</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hyderabad</name>
@@ -3082,11 +2130,7 @@
     <contact>66021981</contact>
     <micrCode>500072002</micrCode>
     <ifscCode>DCBL0000027</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8490</bankLoc>
-=======
-    <bankLoc>8534</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8547</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santacruz</name>
@@ -3095,11 +2139,7 @@
     <contact>67587530</contact>
     <micrCode>400072026</micrCode>
     <ifscCode>DCBL0000026</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malad</name>
@@ -3108,11 +2148,7 @@
     <contact>67083540</contact>
     <micrCode>400072025</micrCode>
     <ifscCode>DCBL0000025</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahim</name>
@@ -3121,11 +2157,7 @@
     <contact>65992130</contact>
     <micrCode>400072024</micrCode>
     <ifscCode>DCBL0000024</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nariman Point</name>
@@ -3134,11 +2166,7 @@
     <contact>67474100</contact>
     <micrCode>400072023</micrCode>
     <ifscCode>DCBL0000023</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanded-waghala</name>
@@ -3147,11 +2175,7 @@
     <contact>646113</contact>
     <micrCode>72022</micrCode>
     <ifscCode>DCBL0000022</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8582</bankLoc>
-=======
-    <bankLoc>8628</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8641</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohamedali Road</name>
@@ -3160,11 +2184,7 @@
     <contact>66156917</contact>
     <micrCode>400072019</micrCode>
     <ifscCode>DCBL0000019</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thane</name>
@@ -3173,11 +2193,7 @@
     <contact>25333909</contact>
     <micrCode>400072018</micrCode>
     <ifscCode>DCBL0000018</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Versova</name>
@@ -3186,11 +2202,7 @@
     <contact>65992105</contact>
     <micrCode>400072017</micrCode>
     <ifscCode>DCBL0000017</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Warangal</name>
@@ -3199,11 +2211,7 @@
     <contact>6453060</contact>
     <micrCode>72015</micrCode>
     <ifscCode>DCBL0000015</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8495</bankLoc>
-=======
-    <bankLoc>8539</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
@@ -3212,11 +2220,7 @@
     <contact>65601301</contact>
     <micrCode>411072002</micrCode>
     <ifscCode>DCBL0000014</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8584</bankLoc>
-=======
-    <bankLoc>8630</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8643</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nesbit Road</name>
@@ -3225,11 +2229,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL0000013</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8576</bankLoc>
-=======
-    <bankLoc>8622</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8635</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbra</name>
@@ -3238,11 +2238,7 @@
     <contact>65992150</contact>
     <micrCode>400072012</micrCode>
     <ifscCode>DCBL0000012</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8588</bankLoc>
-=======
-    <bankLoc>8634</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurla</name>
@@ -3251,11 +2247,7 @@
     <contact>65990798</contact>
     <micrCode>400072011</micrCode>
     <ifscCode>DCBL0000011</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jogeshwari</name>
@@ -3264,11 +2256,7 @@
     <contact>67582340</contact>
     <micrCode>400072010</micrCode>
     <ifscCode>DCBL0000010</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hasanabad</name>
@@ -3277,11 +2265,7 @@
     <contact>67474272</contact>
     <micrCode>400072009</micrCode>
     <ifscCode>DCBL0000009</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Goregaon</name>
@@ -3290,11 +2274,7 @@
     <contact>65992052</contact>
     <micrCode>400072008</micrCode>
     <ifscCode>DCBL0000008</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dahisar</name>
@@ -3303,11 +2283,7 @@
     <contact>65992036</contact>
     <micrCode>400072007</micrCode>
     <ifscCode>DCBL0000007</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Byculla</name>
@@ -3316,11 +2292,7 @@
     <contact>65992032</contact>
     <micrCode>400072006</micrCode>
     <ifscCode>DCBL0000006</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandra</name>
@@ -3329,11 +2301,7 @@
     <contact>67657930</contact>
     <micrCode>400072005</micrCode>
     <ifscCode>DCBL0000005</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andheri (WEST)</name>
@@ -3342,11 +2310,7 @@
     <contact>67424165</contact>
     <micrCode>400072004</micrCode>
     <ifscCode>DCBL0000004</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Imamwada</name>
@@ -3355,11 +2319,7 @@
     <contact>67472980</contact>
     <micrCode>400072003</micrCode>
     <ifscCode>DCBL0000003</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalbadevi</name>
@@ -3368,11 +2328,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>DCBL0000002</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8576</bankLoc>
-=======
-    <bankLoc>8622</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8635</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai Main Office</name>
@@ -3381,10 +2337,6 @@
     <contact>67474176</contact>
     <micrCode>400072020</micrCode>
     <ifscCode>DCBL0000001</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>8580</bankLoc>
-=======
-    <bankLoc>8626</bankLoc>
->>>>>>> origin/master
+    <bankLoc>8639</bankLoc>
   </bankbranch>
 </bankBranchs>

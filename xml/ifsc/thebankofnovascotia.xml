@@ -6,23 +6,15 @@
     <contact>66364000</contact>
     <micrCode>NA</micrCode>
     <ifscCode>NOSC0000MUM</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>22772</bankLoc>
-=======
-    <bankLoc>22926</bankLoc>
->>>>>>> origin/master
+    <bankLoc>22970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delhi</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>Gopal DAS Bhavan, Barakhamaba RD, NEW Delhi</address>
     <contact>49199999</contact>
     <micrCode>110239002</micrCode>
     <ifscCode>NOSC0000DEL</ifscCode>
-<<<<<<< HEAD
-    <bankLoc>22771</bankLoc>
-=======
-    <bankLoc>22925</bankLoc>
->>>>>>> origin/master
+    <bankLoc>22969</bankLoc>
   </bankbranch>
 </bankBranchs>
