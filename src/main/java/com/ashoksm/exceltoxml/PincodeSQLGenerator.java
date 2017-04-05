@@ -149,6 +149,7 @@ public class PincodeSQLGenerator {
 			String districtName = row.getCell(2).getStringCellValue().trim();
 			DISTRICT_MAP.put(districtName, String.valueOf(new Double(row.getCell(1).getNumericCellValue()).intValue()));
 		}
+		workbook.close();
 	}
 
 	private static void getLocationCode() throws IOException {
@@ -168,6 +169,7 @@ public class PincodeSQLGenerator {
 			String taluk = row.getCell(1).getStringCellValue().trim().toLowerCase();
 			LOCATION_MAP.put(taluk, String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue()));
 		}
+		workbook.close();
 	}
 
 	private static void getStateCode() throws IOException {
@@ -187,6 +189,7 @@ public class PincodeSQLGenerator {
 			String stateName = row.getCell(1).getStringCellValue().trim();
 			STATE_MAP.put(stateName, String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue()));
 		}
+		workbook.close();
 	}
 
 	private static String formatString(String name) {

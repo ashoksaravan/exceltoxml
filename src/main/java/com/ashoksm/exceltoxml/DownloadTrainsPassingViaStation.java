@@ -91,5 +91,7 @@ public class DownloadTrainsPassingViaStation {
 				"E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\railwaycodes\\trainspassingviastation_" + j + ".xls"));
 		workbook.write(out);
 		out.close();
+		workbook.close();
+		bankWorkBook.close();
 	}
 }

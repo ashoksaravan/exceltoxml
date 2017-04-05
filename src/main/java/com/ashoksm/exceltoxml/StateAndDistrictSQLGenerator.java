@@ -60,6 +60,7 @@ public class StateAndDistrictSQLGenerator {
 		}
 		writer.flush();
 		writer.close();
+		workbook.close();
 	}
 
 	/**
@@ -95,6 +96,7 @@ public class StateAndDistrictSQLGenerator {
 				System.out.println(cell1.getStringCellValue());
 				writer.flush();
 				writer.close();
+				workbook.close();
 				throw new Exception(cell1.getStringCellValue(), ex);
 			}
 			writer.write(line);
@@ -102,6 +104,7 @@ public class StateAndDistrictSQLGenerator {
 		}
 		writer.flush();
 		writer.close();
+		workbook.close();
 	}
 
 	/**
@@ -140,5 +143,6 @@ public class StateAndDistrictSQLGenerator {
 
 		writer.flush();
 		writer.close();
+		workbook.close();
 	}
 }

@@ -42,6 +42,7 @@ public class StationsSQLConverter {
 		}
 		writer.flush();
 		writer.close();
+		workbook.close();
 		System.out.println("Completed!!!");
 	}
 

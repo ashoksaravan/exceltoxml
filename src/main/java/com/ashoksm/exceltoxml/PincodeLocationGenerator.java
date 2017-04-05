@@ -70,6 +70,7 @@ public class PincodeLocationGenerator {
 			FileOutputStream out = new FileOutputStream("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\taluk.xls");
 			workbookNew.write(out);
 			out.close();
+			workbookNew.close();
 
 			HSSFWorkbook workbookState = new HSSFWorkbook();
 			HSSFSheet stateSheet = workbookState.createSheet("Sheet1");
@@ -106,6 +107,8 @@ public class PincodeLocationGenerator {
 					"E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\district.xls");
 			workbookDistrict.write(districtOutputStream);
 			districtOutputStream.close();
+			workbookDistrict.close();
+			workbookState.close();
 		} finally {
 			if (beanReader != null) {
 				beanReader.close();

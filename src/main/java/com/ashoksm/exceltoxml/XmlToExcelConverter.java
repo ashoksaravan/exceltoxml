@@ -64,6 +64,7 @@ public class XmlToExcelConverter {
 		FileOutputStream out = new FileOutputStream(new File("Ariyalur.xls"));
 		workbook.write(out);
 		out.close();
+		workbook.close();
 		System.out.println("Excel written successfully..");
 	}
 }

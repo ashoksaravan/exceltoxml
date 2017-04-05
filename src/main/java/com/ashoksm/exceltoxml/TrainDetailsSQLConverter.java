@@ -39,6 +39,7 @@ public class TrainDetailsSQLConverter {
 		}
 		writer.flush();
 		writer.close();
+		workbook.close();
 		System.out.println("Completed!!!");
 	}
 

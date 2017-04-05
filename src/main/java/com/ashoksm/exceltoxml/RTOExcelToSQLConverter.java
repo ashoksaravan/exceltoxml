@@ -37,6 +37,7 @@ public class RTOExcelToSQLConverter {
 			writer.flush();
 			writer.close();
 			System.out.println(state.getName() + " Completed!!!");
+			workbook.close();
 		}
 	}
 
@@ -57,9 +58,11 @@ public class RTOExcelToSQLConverter {
 			Row row = rowIterator.next();
 			String stateName = row.getCell(1).getStringCellValue().replaceAll(" ", "").toLowerCase();
 			if (xmlName.contains(stateName)) {
+				workbook.close();
 				return String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue());
 			}
 		}
+		workbook.close();
 		return null;
 	}
 }

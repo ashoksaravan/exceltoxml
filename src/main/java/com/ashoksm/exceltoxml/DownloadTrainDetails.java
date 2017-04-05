@@ -88,5 +88,7 @@ public class DownloadTrainDetails {
 				new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\railwaycodes\\traindetails_" + j + ".xls"));
 		workbook.write(out);
 		out.close();
+		workbook.close();
+		bankWorkBook.close();
 	}
 }

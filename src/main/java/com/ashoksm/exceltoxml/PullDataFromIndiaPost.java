@@ -117,6 +117,7 @@ public class PullDataFromIndiaPost {
 		FileOutputStream out = new FileOutputStream(new File("E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\excels\\Telangana\\Nizamabad_1.xls"));
 		workbook.write(out);
 		out.close();
+		workbook.close();
 		System.out.println("Excel written successfully..");
 	}
 }

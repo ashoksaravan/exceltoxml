@@ -61,5 +61,6 @@ public class UpdateStations {
 				"E:\\Ashok\\Dropbox\\MyDetails\\pinfinder\\railwaycodes\\stationcodes.xls"));
 		workBook.write(out);
 		out.close();
+		workBook.close();
 	}
 }

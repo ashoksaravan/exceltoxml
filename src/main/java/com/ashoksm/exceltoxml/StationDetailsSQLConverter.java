@@ -53,6 +53,7 @@ public class StationDetailsSQLConverter {
 				}
 				writer.flush();
 				writer.close();
+				workbook.close();
 			}
 		}
 	}

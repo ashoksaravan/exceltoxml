@@ -117,6 +117,7 @@ public class ExcelToXmlConverter {
 				previousColumn = cellValue;
 			}
 		}
+		workbook.close();
 		return offices;
 	}
 

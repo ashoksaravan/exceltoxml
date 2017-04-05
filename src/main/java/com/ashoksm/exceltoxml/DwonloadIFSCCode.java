@@ -94,6 +94,8 @@ public class DwonloadIFSCCode {
 			workbook.write(out);
 			out.close();
 			System.out.println("Excel written successfully..");
+			workbook.close();
 		}
+		bankWorkBook.close();
 	}
 }

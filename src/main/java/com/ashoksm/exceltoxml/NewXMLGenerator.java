@@ -85,6 +85,7 @@ public class NewXMLGenerator {
 			// System.out.println(xml);
 			writeFile(xml);
 			file.close();
+			workbook.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

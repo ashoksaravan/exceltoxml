@@ -87,9 +87,11 @@ public class XmlToSQLConverter {
 			Row row = rowIterator.next();
 			String stateName = row.getCell(1).getStringCellValue().replaceAll(" ", "").toLowerCase();
 			if (xmlName.contains(stateName)) {
+				workbook.close();
 				return String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue());
 			}
 		}
+		workbook.close();
 		return null;
 	}
 
@@ -113,6 +115,7 @@ public class XmlToSQLConverter {
 				DISTRICT_MAP
 				.put(stateName, String.valueOf(new Double(row.getCell(1).getNumericCellValue()).intValue()));
 			}
+			workbook.close();
 		}
 	}
 
@@ -133,6 +136,7 @@ public class XmlToSQLConverter {
 			String stateName = row.getCell(1).getStringCellValue().trim();
 			LOCATION_MAP.put(stateName, String.valueOf(new Double(row.getCell(0).getNumericCellValue()).intValue()));
 		}
+		workbook.close();
 	}
 
 	private static void getStatusCode() throws IOException {
