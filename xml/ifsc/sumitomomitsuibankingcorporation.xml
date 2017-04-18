@@ -1,11 +1,20 @@
 <bankBranchs>
   <bankbranch>
+    <name>Mumbai</name>
+    <city>Mumbai</city>
+    <address>Unit 601, 6TH Floor, Platina Building, Plot NO C-59, Bandra Kurla Complex, Bandra East, Mumbai - 400051</address>
+    <contact>62295000</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>SMBC0000002</ifscCode>
+    <bankLoc>20770</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Rtgs-ho</name>
     <city>NEW Delhi</city>
     <address>13th Floor, Hindustan Times House, 18-20, KG Marg, NEW Delhi - 110001</address>
     <contact>47689111</contact>
     <micrCode>110240270</micrCode>
     <ifscCode>SMBC0000001</ifscCode>
-    <bankLoc>21886</bankLoc>
+    <bankLoc>20769</bankLoc>
   </bankbranch>
 </bankBranchs>

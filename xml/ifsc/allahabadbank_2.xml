@@ -1,194 +1,5 @@
 <bankBranchs>
   <bankbranch>
-    <name>Nisharpur</name>
-    <city>Patna</city>
-    <address>Allahabad Bank Nisharpur Branch, Village Nisharpur, PO Kab, District Patna</address>
-    <contact>2147483647</contact>
-    <micrCode>800010035</micrCode>
-    <ifscCode>ALLA0213457</ifscCode>
-    <bankLoc>117</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Danapur</name>
-    <city>Patna</city>
-    <address>Allahabad Bank Danapur Branch, Near Andhra Bank, Daldali More, Danapur, District-patna</address>
-    <contact>2147483647</contact>
-    <micrCode>800010034</micrCode>
-    <ifscCode>ALLA0213458</ifscCode>
-    <bankLoc>117</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Raikot</name>
-    <city>Raikot</city>
-    <address>Malerkotla Highway, Near Hari Singh Nalwa Chowk, Raikot, Distt-ludhiana, Punjab-141109</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ALLA0213459</ifscCode>
-    <bankLoc>397</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Deogarh</name>
-    <city>Deogarh</city>
-    <address>Sasan Sahi, Deogarh, Ward NO.3, P.O. &amp; DIST. Deogarh, Odisha, PIN - 768108</address>
-    <contact>2147483647</contact>
-    <micrCode>768002102</micrCode>
-    <ifscCode>ALLA0213460</ifscCode>
-    <bankLoc>364</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sonepur</name>
-    <city>Sonepur</city>
-    <address>Godaghata Pada, Sonepur, Near Hotel Kasturi, Dist - Subarnapur, Odisha, PIN - 767017</address>
-    <contact>2147483647</contact>
-    <micrCode>767010102</micrCode>
-    <ifscCode>ALLA0213461</ifscCode>
-    <bankLoc>381</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Baghamari</name>
-    <city>Baghamari</city>
-    <address>AT PO - Baghamari, Dist - Khordha, Odisha, PIN - 752061</address>
-    <contact>2147483647</contact>
-    <micrCode>752010506</micrCode>
-    <ifscCode>ALLA0213462</ifscCode>
-    <bankLoc>372</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rangapani</name>
-    <city>Darjeeling</city>
-    <address>Kamlesh Saha Chowdhury, Rangapani, DIT Darjeeling, West Bengal, PIN 734434</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ALLA0213463</ifscCode>
-    <bankLoc>580</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jahangirpuri</name>
-    <city>Jahangirpuri</city>
-    <address>A-10, 11, 89 GT Karnal Road, Ramgarh, Jahangirpuri, NEW Delhi - 110033</address>
-    <contact>2147483647</contact>
-    <micrCode>110010160</micrCode>
-    <ifscCode>ALLA0213464</ifscCode>
-    <bankLoc>149</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Niyanar</name>
-    <city>Jagdalpur</city>
-    <address>AT PO Niyanar, Tehsil Jagdalpur, Dist Bastar, Chhattisgarh, PIN 494001</address>
-    <contact>2147483647</contact>
-    <micrCode>494010501</micrCode>
-    <ifscCode>ALLA0213465</ifscCode>
-    <bankLoc>144</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jamawada</name>
-    <city>Jagdalpur</city>
-    <address>AT Jamawada, PO Bademurma, Tehsil Jagdalpur, Dist Bastar, Chhattisgarh, PIN 494001</address>
-    <contact>2147483647</contact>
-    <micrCode>494010502</micrCode>
-    <ifscCode>ALLA0213466</ifscCode>
-    <bankLoc>144</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Laxman Nagar MOD</name>
-    <city>Shravasti</city>
-    <address>Village AND Post Fatuhapur, Laxman Nagar Mod, Tehsil-bhinga, District-shravasti, Pincode 271804</address>
-    <contact>2147483647</contact>
-    <micrCode>271010306</micrCode>
-    <ifscCode>ALLA0213467</ifscCode>
-    <bankLoc>544</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Amarun</name>
-    <city>Bhatar</city>
-    <address>Vill AND PO- Amarun</address>
-    <contact>2147483647</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>ALLA0213468</ifscCode>
-    <bankLoc>573</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Khamdehi</name>
-    <city>Jabalpur</city>
-    <address>Village - Khamdehi Post - Sahsan, Tehsil - Shahpura, Dist Jabalpur</address>
-    <contact>2147483647</contact>
-    <micrCode>482010016</micrCode>
-    <ifscCode>ALLA0213469</ifscCode>
-    <bankLoc>290</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Madhauli</name>
-    <city>Bareilly</city>
-    <address>C/O SRI Mahesh Pal, Vill &amp; PO Madhauli, Distt-bareilly, U.P.- 243502</address>
-    <contact>2147483647</contact>
-    <micrCode>243010502</micrCode>
-    <ifscCode>ALLA0213470</ifscCode>
-    <bankLoc>479</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Narwari</name>
-    <city>Aligarh</city>
-    <address>Vill-narwari Po-tappal Tehsil-khair Aligarh Uttar Pradesh 202165</address>
-    <contact>2147483647</contact>
-    <micrCode>202010506</micrCode>
-    <ifscCode>ALLA0213471</ifscCode>
-    <bankLoc>465</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Raura</name>
-    <city>Etawah</city>
-    <address>Vill-raura Po-samthar Tehsil-takha Etawah Uttar Pradesh 206242</address>
-    <contact>2147483647</contact>
-    <micrCode>206010103</micrCode>
-    <ifscCode>ALLA0213472</ifscCode>
-    <bankLoc>489</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Thanwara</name>
-    <city>Lalitpur</city>
-    <address>Vill-thanwara Po-thanwara Tehsil-lalitpur Lalitpur Uttar Pradesh 284501</address>
-    <contact>2147483647</contact>
-    <micrCode>284010153</micrCode>
-    <ifscCode>ALLA0213473</ifscCode>
-    <bankLoc>521</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Ladpur</name>
-    <city>Bareilly</city>
-    <address>Allahabad Bank, Ladpur Branch, C/O SRI Nathu Lal, Vill &#x13; Ladpur, PO - Bhojipura, DISTT. &#x13; Bareilly (U.P. ) - 243122</address>
-    <contact>2147483647</contact>
-    <micrCode>243010503</micrCode>
-    <ifscCode>ALLA0213474</ifscCode>
-    <bankLoc>479</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>MVP Colony</name>
-    <city>Visakhapatnam</city>
-    <address>Plot No-11, Sector-3, Mig-i, MVP Colony, Visakhapatnam-530017</address>
-    <contact>2147483647</contact>
-    <micrCode>530010005</micrCode>
-    <ifscCode>ALLA0213475</ifscCode>
-    <bankLoc>63</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Mangalagiri</name>
-    <city>Hyderabad</city>
-    <address>1 By448, Goutam Buddha Road, MANGALAGIRI. 522503</address>
-    <contact>2147483647</contact>
-    <micrCode>520010302</micrCode>
-    <ifscCode>ALLA0213476</ifscCode>
-    <bankLoc>461</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hirma</name>
-    <city>Jharsuguda</city>
-    <address>Rajeev Gandhi Seva Kendra, At/po - Hirma, DT. Jharsuguda, PIN - 768202, Odisha</address>
-    <contact>2147483647</contact>
-    <micrCode>768010503</micrCode>
-    <ifscCode>ALLA0213477</ifscCode>
-    <bankLoc>368</bankLoc>
-  </bankbranch>
-  <bankbranch>
     <name>Marufganj</name>
     <city>Patna</city>
     <address>Allahabad Bank, Marufganj Branch, Opposite Babua JI KA Hata, Marufganj, Patna City, District - Patna</address>
@@ -340,6 +151,33 @@
     <micrCode>248010009</micrCode>
     <ifscCode>ALLA0213494</ifscCode>
     <bankLoc>563</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Barkhera</name>
+    <city>Malakhera</city>
+    <address>(SMT. Shanti Devi C/O Prahlad RAM Sani) Devi JI Kothi, Vill &amp; Post Barkhera, Tehsil-maalkhera, PIN Code-301406</address>
+    <contact>2147483647</contact>
+    <micrCode>301010503</micrCode>
+    <ifscCode>ALLA0213499</ifscCode>
+    <bankLoc>408</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bambloo</name>
+    <city>Bikaner</city>
+    <address>Grampanchayat, Bambloo, Bikaner, Rajasthan, Pin-334022</address>
+    <contact>2147483647</contact>
+    <micrCode>334010006</micrCode>
+    <ifscCode>ALLA0213500</ifscCode>
+    <bankLoc>414</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vikas Bhawan</name>
+    <city>Chitrakoot</city>
+    <address>NEW Vikas Bhawan, Soneypur, Karwi</address>
+    <contact>2147483647</contact>
+    <micrCode>210010005</micrCode>
+    <ifscCode>ALLA0213502</ifscCode>
+    <bankLoc>486</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad UP Gramin-orai Main</name>
@@ -3570,6 +3408,195 @@
     <contact>2147483647</contact>
     <micrCode>271699523</micrCode>
     <ifscCode>ALLA0AU1366</ifscCode>
+    <bankLoc>544</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-huzoor PUR</name>
+    <city>Bahraich</city>
+    <address>Hajoorpur, Bahraich-271872</address>
+    <contact>2147483647</contact>
+    <micrCode>271699525</micrCode>
+    <ifscCode>ALLA0AU1367</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-jaitapur</name>
+    <city>Bahraich</city>
+    <address>Jaitapur, Fakarpur, Bahraich-271902</address>
+    <contact>2147483647</contact>
+    <micrCode>271699526</micrCode>
+    <ifscCode>ALLA0AU1368</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -J.C. Katghara</name>
+    <city>Bhinga</city>
+    <address>AT &amp;post Jaichandpur KATGHARA;TEH.BAHRAICH</address>
+    <contact>2147483647</contact>
+    <micrCode>271699527</micrCode>
+    <ifscCode>ALLA0AU1369</ifscCode>
+    <bankLoc>544</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-urra</name>
+    <city>Bahraich</city>
+    <address>Urra, Mihinpurwa, Bahraich-271855</address>
+    <contact>2147483647</contact>
+    <micrCode>271699577</micrCode>
+    <ifscCode>ALLA0AU1370</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin-shankar PUR</name>
+    <city>Bahraich</city>
+    <address>Shankar Pur, Amava Maulvi, Balha, Bahraich-271882</address>
+    <contact>2147483647</contact>
+    <micrCode>271699530</micrCode>
+    <ifscCode>ALLA0AU1371</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -behra</name>
+    <city>Bahraich</city>
+    <address>Behra, TEH.NANPARA</address>
+    <contact>2147483647</contact>
+    <micrCode>271699567</micrCode>
+    <ifscCode>ALLA0AU1372</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -charda</name>
+    <city>Bahraich</city>
+    <address>Charda, TEH.NANPARA</address>
+    <contact>2147483647</contact>
+    <micrCode>271699564</micrCode>
+    <ifscCode>ALLA0AU1373</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -tulsipur</name>
+    <city>Bhinga</city>
+    <address>Tulsipur, TEH.BAHRAICH.</address>
+    <contact>2147483647</contact>
+    <micrCode>271699510</micrCode>
+    <ifscCode>ALLA0AU1374</ifscCode>
+    <bankLoc>544</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -gaighat</name>
+    <city>Bahraich</city>
+    <address>Gaighat, TEH.NANPARA</address>
+    <contact>2147483647</contact>
+    <micrCode>271699575</micrCode>
+    <ifscCode>ALLA0AU1375</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -marocha</name>
+    <city>Bahraich</city>
+    <address>Marocha, P.O.RAIPURA, TEH.KAISARGANJ</address>
+    <contact>2147483647</contact>
+    <micrCode>271699014</micrCode>
+    <ifscCode>ALLA0AU1376</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -gandara</name>
+    <city>Bahraich</city>
+    <address>Gandara, TEH.KAISARGANJ</address>
+    <contact>2147483647</contact>
+    <micrCode>271699554</micrCode>
+    <ifscCode>ALLA0AU1377</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -bhilaura Basu</name>
+    <city>Bahraich</city>
+    <address>Bhilaura Basu, TEH.KAISARGANJ</address>
+    <contact>2147483647</contact>
+    <micrCode>271699531</micrCode>
+    <ifscCode>ALLA0AU1378</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -raipur Thalia</name>
+    <city>Bahraich</city>
+    <address>Raipur Thalia, TEH.KAISARGANJ</address>
+    <contact>2147483647</contact>
+    <micrCode>271699543</micrCode>
+    <ifscCode>ALLA0AU1379</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -jarwal Kasba</name>
+    <city>Bahraich</city>
+    <address>Jarwal P.O.JARWAL Town</address>
+    <contact>2147483647</contact>
+    <micrCode>271699566</micrCode>
+    <ifscCode>ALLA0AU1380</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -kandaila</name>
+    <city>Bahraich</city>
+    <address>Kandaila, TEH.KAISARGANJ</address>
+    <contact>2147483647</contact>
+    <micrCode>271699562</micrCode>
+    <ifscCode>ALLA0AU1381</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -ghurma Parsia</name>
+    <city>Bhinga</city>
+    <address>Ghurma Parsia, TEH.BAHRAICH</address>
+    <contact>2147483647</contact>
+    <micrCode>271699537</micrCode>
+    <ifscCode>ALLA0AU1382</ifscCode>
+    <bankLoc>544</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -pahelwara  (P.B. Adda)</name>
+    <city>Bahraich</city>
+    <address>Pahelwara, TEH.BAHRAICH</address>
+    <contact>2147483647</contact>
+    <micrCode>271699539</micrCode>
+    <ifscCode>ALLA0AU1383</ifscCode>
+    <bankLoc>544</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -bhaggarwa Bazar</name>
+    <city>Bahraich</city>
+    <address>Bhaggarwa Bazar, TEH.BAHRAICH</address>
+    <contact>2147483647</contact>
+    <micrCode>271699542</micrCode>
+    <ifscCode>ALLA0AU1384</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -kutti Premdas</name>
+    <city>Bahraich</city>
+    <address>Kutti Premdas, TEH.BAHRAICH</address>
+    <contact>2147483647</contact>
+    <micrCode>271699583</micrCode>
+    <ifscCode>ALLA0AU1385</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -begam PUR</name>
+    <city>Bahraich</city>
+    <address>Begampur, TEH.BAHRAICH</address>
+    <contact>2147483647</contact>
+    <micrCode>271699008</micrCode>
+    <ifscCode>ALLA0AU1386</ifscCode>
+    <bankLoc>472</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Allahabad UP Gramin -purena</name>
+    <city>Bahraich</city>
+    <address>Purena, TEH.BAHRAICH, 271801</address>
+    <contact>2147483647</contact>
+    <micrCode>271699560</micrCode>
+    <ifscCode>ALLA0AU1387</ifscCode>
     <bankLoc>544</bankLoc>
   </bankbranch>
 </bankBranchs>

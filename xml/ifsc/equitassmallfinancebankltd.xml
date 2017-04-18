@@ -1,12 +1,30 @@
 <bankBranchs>
   <bankbranch>
+    <name>Chandni Chowk</name>
+    <city>North Delhi</city>
+    <address>NO.241-242, &amp; 275-276, Chandni CHOWK.DELHI 110 006</address>
+    <contact>30898015</contact>
+    <micrCode>110756016</micrCode>
+    <ifscCode>ESFB0020011</ifscCode>
+    <bankLoc>8189</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Patel Nagar</name>
     <city>West Delhi</city>
     <address>42/9, West Patel Nagar, Delhi 110008</address>
     <contact>30898015</contact>
     <micrCode>110756017</micrCode>
     <ifscCode>ESFB0020010</ifscCode>
-    <bankLoc>9411</bankLoc>
+    <bankLoc>8193</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malviya Nagar</name>
+    <city>South Delhi</city>
+    <address>C- 10, Shivalik, Malviya Nagar, NEW Delhi- 110017</address>
+    <contact>30898015</contact>
+    <micrCode>110756015</micrCode>
+    <ifscCode>ESFB0020009</ifscCode>
+    <bankLoc>8191</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalkaji</name>
@@ -15,7 +33,7 @@
     <contact>30898017</contact>
     <micrCode>110756009</micrCode>
     <ifscCode>ESFB0020007</ifscCode>
-    <bankLoc>9410</bankLoc>
+    <bankLoc>8192</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajouri Garden</name>
@@ -24,7 +42,7 @@
     <contact>30898015</contact>
     <micrCode>110756011</micrCode>
     <ifscCode>ESFB0020006</ifscCode>
-    <bankLoc>9411</bankLoc>
+    <bankLoc>8193</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lajpat Nagar</name>
@@ -33,7 +51,7 @@
     <contact>30898015</contact>
     <micrCode>110756010</micrCode>
     <ifscCode>ESFB0020005</ifscCode>
-    <bankLoc>9409</bankLoc>
+    <bankLoc>8191</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shakurpar</name>
@@ -42,7 +60,7 @@
     <contact>30898017</contact>
     <micrCode>110756004</micrCode>
     <ifscCode>ESFB0020004</ifscCode>
-    <bankLoc>9406</bankLoc>
+    <bankLoc>8187</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karol Bagh, Delhi</name>
@@ -51,7 +69,7 @@
     <contact>30898015</contact>
     <micrCode>110756007</micrCode>
     <ifscCode>ESFB0020003</ifscCode>
-    <bankLoc>9405</bankLoc>
+    <bankLoc>8186</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Connaught Place, NEW Delhi</name>
@@ -60,7 +78,7 @@
     <contact>30898015</contact>
     <micrCode>110756006</micrCode>
     <ifscCode>ESFB0020002</ifscCode>
-    <bankLoc>9407</bankLoc>
+    <bankLoc>8188</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rohini</name>
@@ -69,7 +87,16 @@
     <contact>30898015</contact>
     <micrCode>110756002</micrCode>
     <ifscCode>ESFB0020001</ifscCode>
-    <bankLoc>9408</bankLoc>
+    <bankLoc>8190</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Varanasi</name>
+    <city>Varanasi</city>
+    <address>Rudra Prestige, C-32/23&amp; C-32/25, Ground Floor, Sigra, Varanasi 221 010</address>
+    <contact>30898017</contact>
+    <micrCode>221756001</micrCode>
+    <ifscCode>ESFB0017004</ifscCode>
+    <bankLoc>8330</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghaziabad</name>
@@ -78,7 +105,7 @@
     <contact>30898015</contact>
     <micrCode>110756013</micrCode>
     <ifscCode>ESFB0017003</ifscCode>
-    <bankLoc>9507</bankLoc>
+    <bankLoc>8329</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Noida Sector -</name>
@@ -87,7 +114,7 @@
     <contact>30898017</contact>
     <micrCode>110756012</micrCode>
     <ifscCode>ESFB0017002</ifscCode>
-    <bankLoc>9506</bankLoc>
+    <bankLoc>8328</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Greater Noida</name>
@@ -96,34 +123,142 @@
     <contact>30898017</contact>
     <micrCode>110756005</micrCode>
     <ifscCode>ESFB0017001</ifscCode>
-    <bankLoc>9506</bankLoc>
+    <bankLoc>8328</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Beawar</name>
+    <city>Ajmer</city>
+    <address>OLD Municipal NO.7/104, NEW NO.12, Roopbani Cinema, Station Road, National Highway NO.08, Tehsil -beawar, District Ajmer, Rajasthan</address>
+    <contact>30898015</contact>
+    <micrCode>305756006</micrCode>
+    <ifscCode>ESFB0016030</ifscCode>
+    <bankLoc>8281</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Udaipur</name>
+    <city>Udaipur</city>
+    <address>Plot NO 12 Residency Road Opposite P C Jewellers Udaipur Rajasthan 313001</address>
+    <contact>30898015</contact>
+    <micrCode>313756002</micrCode>
+    <ifscCode>ESFB0016029</ifscCode>
+    <bankLoc>8298</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Alwar</name>
+    <city>Alwar</city>
+    <address>Plot NO.2, Khasra NO 16 85 AND 1690, Road NO.1, Near Ambedkar Circle, Near Guruprasad Coaching, Alwar City, Alwar, Rajasthan -301001.</address>
+    <contact>30898017</contact>
+    <micrCode>301756002</micrCode>
+    <ifscCode>ESFB0016028</ifscCode>
+    <bankLoc>8282</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kekri</name>
+    <city>Ajmer</city>
+    <address>Near Meer Bawari, Shiv Chowk, Hospital Road, Kekri, Tehsil -kekri, DIST.AJMER, Rajasthan 305404</address>
+    <contact>30898017</contact>
+    <micrCode>305756005</micrCode>
+    <ifscCode>ESFB0016027</ifscCode>
+    <bankLoc>8281</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baran</name>
+    <city>Baran</city>
+    <address>Ardand Plaza, Near Deendayal Park, Ward NO.12, Baran, RAJASTHAN.325205</address>
+    <contact>30898015</contact>
+    <micrCode>325756002</micrCode>
+    <ifscCode>ESFB0016026</ifscCode>
+    <bankLoc>8284</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bundi</name>
+    <city>Bundi</city>
+    <address>Vinayak Complex, NEW Dhan Mandi Road, Lanka Gate, Bundi, Rajasthan</address>
+    <contact>30898017</contact>
+    <micrCode>323756002</micrCode>
+    <ifscCode>ESFB0016025</ifscCode>
+    <bankLoc>8288</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sikar</name>
+    <city>Sikar</city>
+    <address>S.R.V.MALL, Ward NO.16, Devipura Road, Near City Dispensary NO.2, Sikar, Rajasthan -332001</address>
+    <contact>30898015</contact>
+    <micrCode>332756002</micrCode>
+    <ifscCode>ESFB0016024</ifscCode>
+    <bankLoc>8296</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bikaner</name>
+    <city>Bikaner</city>
+    <address>Sardul Nagar, Near Railway Crossing, Hospital Road, Bikaner, DIST.BIKANER, Rajasthan -334001</address>
+    <contact>30898015</contact>
+    <micrCode>334756002</micrCode>
+    <ifscCode>ESFB0016023</ifscCode>
+    <bankLoc>8287</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Didwana</name>
+    <city>Nagaur</city>
+    <address>Shop NO.5, 6,7 Situated Khasra NO.3004, Kuchaman Road, Didwana, Tehsil -didwana, DIST.NAGAUR, RAJASTHAN.341303</address>
+    <contact>30898015</contact>
+    <micrCode>341756003</micrCode>
+    <ifscCode>ESFB0016022</ifscCode>
+    <bankLoc>8294</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lohagal</name>
+    <city>Ajmer</city>
+    <address>Plot NO.3, Khasra NO.1459, GL Furniture, Janana Hospital Road, Gram - Lohagal, DIST.AJMER, Rajasthan 305001</address>
+    <contact>30898015</contact>
+    <micrCode>305756004</micrCode>
+    <ifscCode>ESFB0016021</ifscCode>
+    <bankLoc>8281</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tonk</name>
     <city>Tonk</city>
-    <address>Uhrusbrppfnmbfcorynrcnrbnkofintonkts&amp;dstonkrjsn</address>
+    <address>Situated AT OLD Hatwara, Subash Bazar, OPP. OF Nizam Bidi Factory, Near Central Bank OF India, Tonk, Tehsil  Tonk, Rajasthan</address>
     <contact>30898015</contact>
     <micrCode>304756003</micrCode>
     <ifscCode>ESFB0016020</ifscCode>
-    <bankLoc>9477</bankLoc>
+    <bankLoc>8297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pali</name>
     <city>Pali</city>
-    <address>LTN.S-61, S-62, S-63, S-64SITUATEDATKALPVARAXGRAHNIRMANSAHAKARISAMITILTD.SCHEMEN.2, Ambedkarcircle, Ali, Rajasthan</address>
+    <address>Plot NO. S- 61, S-62, S-63, S-64 Situated AT Kalpvarax Grah Nirman Sahakari Samiti LTD. Scheme NO. 2, Ambedkar Circle, Pali, Rajasthan</address>
     <contact>30898015</contact>
     <micrCode>306756003</micrCode>
     <ifscCode>ESFB0016019</ifscCode>
-    <bankLoc>9476</bankLoc>
+    <bankLoc>8295</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nimbahera</name>
+    <city>Chittorgarh</city>
+    <address>Plot NO. 17b, Situated AT Adarash Colony, Nimbahera, Tehsil - Nimbahera, DIST. Chittorgarh, Rajasthan</address>
+    <contact>30898015</contact>
+    <micrCode>312756003</micrCode>
+    <ifscCode>ESFB0016018</ifscCode>
+    <bankLoc>8289</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jalore</name>
+    <city>Jalor</city>
+    <address>Plot NO.62, Survey NO.03339/16, Opposite Central CO Operative Bank, Manpura Colony, Jalore, DIST.JALORE, Rajasthan -343001</address>
+    <contact>30898015</contact>
+    <micrCode>343756002</micrCode>
+    <ifscCode>ESFB0016017</ifscCode>
+    <bankLoc>8291</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kotutli</name>
     <city>Jaipur</city>
-    <address>KSWS.5.FSDBSDLSLLDSJS33.</address>
+    <address>Mankash Tower, Khasra NO. 1225, OPP. OF Krashi Upaj Mandi, Bansur Raod, Kotputli, Tehsil- Kotputli, Dist- Jaipur, Rajasthan - 303108</address>
     <contact>30898015</contact>
     <micrCode>303756002</micrCode>
     <ifscCode>ESFB0016016</ifscCode>
-    <bankLoc>9472</bankLoc>
+    <bankLoc>8290</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jhai</name>
@@ -132,25 +267,25 @@
     <contact>30898015</contact>
     <micrCode>302756005</micrCode>
     <ifscCode>ESFB0016015</ifscCode>
-    <bankLoc>9472</bankLoc>
+    <bankLoc>8290</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur</name>
     <city>Jodhpur</city>
-    <address>8/idmbmipnidjdpjn</address>
+    <address>Plot NO.-87/B/1, Situated AT Bombay Motors Circle, Chopasani Road, Jodhpur, Rajasthan</address>
     <contact>30898015</contact>
     <micrCode>342756002</micrCode>
     <ifscCode>ESFB0016014</ifscCode>
-    <bankLoc>9473</bankLoc>
+    <bankLoc>8292</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>C-scheme</name>
     <city>Jaipur</city>
-    <address>Hpn38, 39&amp;40, Laxmicmplex, Khasaran381, Gramhathri, Mirad, Jaipur, Rajasthan-302001</address>
+    <address>Shop NO. 38, 39 AND 40, Laxmi Complex, Khasara NO. 381, Gram Hathori, M.I. Road, Jaipur, Rajasthan - 302001</address>
     <contact>30898015</contact>
     <micrCode>302756004</micrCode>
     <ifscCode>ESFB0016013</ifscCode>
-    <bankLoc>9472</bankLoc>
+    <bankLoc>8290</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sanganer</name>
@@ -159,7 +294,7 @@
     <contact>30898015</contact>
     <micrCode>302756003</micrCode>
     <ifscCode>ESFB0016012</ifscCode>
-    <bankLoc>9472</bankLoc>
+    <bankLoc>8290</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malpura</name>
@@ -168,16 +303,16 @@
     <contact>30898015</contact>
     <micrCode>304756002</micrCode>
     <ifscCode>ESFB0016011</ifscCode>
-    <bankLoc>9477</bankLoc>
+    <bankLoc>8297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajmer</name>
     <city>Ajmer</city>
-    <address>YJRJH3.</address>
+    <address>Bansal Building, Opposite Railway Station Malgodown, Station Road, Ajmer, Rajasthan - 305001</address>
     <contact>30898017</contact>
     <micrCode>305756003</micrCode>
     <ifscCode>ESFB0016010</ifscCode>
-    <bankLoc>9467</bankLoc>
+    <bankLoc>8281</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kishangarh</name>
@@ -186,7 +321,7 @@
     <contact>30898017</contact>
     <micrCode>305756002</micrCode>
     <ifscCode>ESFB0016009</ifscCode>
-    <bankLoc>9467</bankLoc>
+    <bankLoc>8281</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chittorgarh</name>
@@ -195,25 +330,25 @@
     <contact>30898015</contact>
     <micrCode>312756002</micrCode>
     <ifscCode>ESFB0016008</ifscCode>
-    <bankLoc>9471</bankLoc>
+    <bankLoc>8289</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sumerpur</name>
     <city>Pali</city>
-    <address>PGDHHHBSEDTCTPJTH92.</address>
+    <address>Hari Plaza, Gandhi Chauraha, Main Bazar, Sumerpur, District - Pali, Rajasthan - 306902</address>
     <contact>30898015</contact>
     <micrCode>306756002</micrCode>
     <ifscCode>ESFB0016007</ifscCode>
-    <bankLoc>9476</bankLoc>
+    <bankLoc>8295</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banswara</name>
     <city>Banswara</city>
-    <address>Ltn132, Oppshrinathashram, Mhanclny, Banswara, Rajasthan-327001</address>
+    <address>Plot NO. 132, OPP. Shrinath Ashram, Mohan Colony, Banswara, Rajasthan - 327001</address>
     <contact>30898017</contact>
     <micrCode>327756002</micrCode>
     <ifscCode>ESFB0016006</ifscCode>
-    <bankLoc>9468</bankLoc>
+    <bankLoc>8283</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kota</name>
@@ -222,7 +357,7 @@
     <contact>30898017</contact>
     <micrCode>324756002</micrCode>
     <ifscCode>ESFB0016005</ifscCode>
-    <bankLoc>9474</bankLoc>
+    <bankLoc>8293</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhilwara</name>
@@ -231,7 +366,7 @@
     <contact>30898017</contact>
     <micrCode>311756002</micrCode>
     <ifscCode>ESFB0016004</ifscCode>
-    <bankLoc>9470</bankLoc>
+    <bankLoc>8286</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Makrana</name>
@@ -240,16 +375,16 @@
     <contact>30898015</contact>
     <micrCode>341756002</micrCode>
     <ifscCode>ESFB0016003</ifscCode>
-    <bankLoc>9475</bankLoc>
+    <bankLoc>8294</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balotra</name>
     <city>Barmer</city>
-    <address>OIIOPCOOOIJBBO-3440J.</address>
+    <address>Hotel Mahaveer International, Pachpadra Road, Opposite JAT Samaj, Near NEW BUS Stand, Balotra - 344022, RAJASTHAN.</address>
     <contact>30898015</contact>
     <micrCode>344756002</micrCode>
     <ifscCode>ESFB0016002</ifscCode>
-    <bankLoc>9469</bankLoc>
+    <bankLoc>8285</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaishali</name>
@@ -258,7 +393,16 @@
     <contact>30898015</contact>
     <micrCode>302756002</micrCode>
     <ifscCode>ESFB0016001</ifscCode>
-    <bankLoc>9472</bankLoc>
+    <bankLoc>8290</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bathinda</name>
+    <city>Bathinda</city>
+    <address>Walia Complex, NO.17823, Opposite Clock Tower, Main Bibi Wala Road Chowk, Bathinda-151001</address>
+    <contact>30898015</contact>
+    <micrCode>151756002</micrCode>
+    <ifscCode>ESFB0015007</ifscCode>
+    <bankLoc>8276</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalandhar</name>
@@ -267,7 +411,7 @@
     <contact>30898015</contact>
     <micrCode>144756003</micrCode>
     <ifscCode>ESFB0015006</ifscCode>
-    <bankLoc>9465</bankLoc>
+    <bankLoc>8277</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandigarh</name>
@@ -276,7 +420,34 @@
     <contact>30898015</contact>
     <micrCode>160756002</micrCode>
     <ifscCode>ESFB0015005</ifscCode>
-    <bankLoc>9399</bankLoc>
+    <bankLoc>8180</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Moga</name>
+    <city>Moga</city>
+    <address>SCO NO -17, Mprovement Trust Building, Ferozepur Road, Moga .</address>
+    <contact>30898017</contact>
+    <micrCode>142756002</micrCode>
+    <ifscCode>ESFB0015004</ifscCode>
+    <bankLoc>8279</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Grupar</name>
+    <city>Shaheedbhagatsinghnagar</city>
+    <address>Opposite Gagan Palace, Village Garupar, Nawanshahr -144417</address>
+    <contact>30898017</contact>
+    <micrCode>144756002</micrCode>
+    <ifscCode>ESFB0015003</ifscCode>
+    <bankLoc>8280</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amritsar</name>
+    <city>Amritsar</city>
+    <address>NO.10, Deep Complex, Opposite Doaba Motors, Amritsar</address>
+    <contact>30898017</contact>
+    <micrCode>143756002</micrCode>
+    <ifscCode>ESFB0015002</ifscCode>
+    <bankLoc>8275</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gill Road, Ludhina</name>
@@ -285,7 +456,124 @@
     <contact>30898015</contact>
     <micrCode>141756002</micrCode>
     <ifscCode>ESFB0015001</ifscCode>
-    <bankLoc>9466</bankLoc>
+    <bankLoc>8278</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rewa</name>
+    <city>Rewa</city>
+    <address>Ground Floor, Block No1, Opposite Mishra Petrol Pump, Nehru Nagar, Nh-7, Rewa, M.P, PIN-486001.</address>
+    <contact>30898015</contact>
+    <micrCode>486756001</micrCode>
+    <ifscCode>ESFB0014024</ifscCode>
+    <bankLoc>8251</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satna</name>
+    <city>Satna</city>
+    <address>Ahinsa Tower, Near SBI City Branch, IN F/O Pushkarni Park, Dist Hospital Road, Satna 485001</address>
+    <contact>30898017</contact>
+    <micrCode>485756001</micrCode>
+    <ifscCode>ESFB0014023</ifscCode>
+    <bankLoc>8253</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Betul</name>
+    <city>Betul</city>
+    <address>Aabakari Road, Dilbahar Chowk, Beside OM MEDICAL.GANJ.BETUL 460001</address>
+    <contact>30898015</contact>
+    <micrCode>460756001</micrCode>
+    <ifscCode>ESFB0014022</ifscCode>
+    <bankLoc>8238</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mp-ashoknagar</name>
+    <city>Ashok Nagar - Guna</city>
+    <address>Vidisha Bypass Road, Hdfc Tiraha, Near Kotak Bank, Ashok Nagar, Madhya PRADESH.473331</address>
+    <contact>30898015</contact>
+    <micrCode>473756076</micrCode>
+    <ifscCode>ESFB0014021</ifscCode>
+    <bankLoc>8236</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Katni</name>
+    <city>Katni</city>
+    <address>Radhe Traders, Jabalpur Road, Bargawan, Opposite LIC Building, Dist-katni, M.P 483501</address>
+    <contact>30898015</contact>
+    <micrCode>483756001</micrCode>
+    <ifscCode>ESFB0014020</ifscCode>
+    <bankLoc>8245</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chhindwara</name>
+    <city>Chhindwara</city>
+    <address>Ground Floor, Shantinath Heights, Beside Patni Petrol Pump, Station Road, Distt-chhindwara M.P 480001</address>
+    <contact>30898015</contact>
+    <micrCode>480756001</micrCode>
+    <ifscCode>ESFB0014019</ifscCode>
+    <bankLoc>8240</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Padonia</name>
+    <city>Raisen</city>
+    <address>Bhopal BY Pass, Chourgha Gram, Talawada P.O, Padoniya, Champapura, Madhya Pradesh 465674</address>
+    <contact>30898015</contact>
+    <micrCode>465756001</micrCode>
+    <ifscCode>ESFB0014018</ifscCode>
+    <bankLoc>8248</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pidgaon</name>
+    <city>Harda</city>
+    <address>Survey NO.131/4&amp; 132/2, Settlement NO.4, P.C.NO.12, Village - Atrasma, (landmark Bhambu Warehouse), Block Harda, RNM - Handiya, Dist - Harda, M.P 461331</address>
+    <contact>30898015</contact>
+    <micrCode>461756101</micrCode>
+    <ifscCode>ESFB0014017</ifscCode>
+    <bankLoc>8243</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sagar</name>
+    <city>Sagar</city>
+    <address>Bhopal Sagar Road, Subhash Nagar, Bhagwanganj, Near Union Bank OF India, Sagar, Madhya Pradesh -470001</address>
+    <contact>30898015</contact>
+    <micrCode>470756001</micrCode>
+    <ifscCode>ESFB0014016</ifscCode>
+    <bankLoc>8252</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ratlam</name>
+    <city>Ratlam</city>
+    <address>No-649, Saroj Sarover, Mitra Niwas Road, Ratlam, Madhya Pradesh</address>
+    <contact>30898015</contact>
+    <micrCode>457756001</micrCode>
+    <ifscCode>ESFB0014015</ifscCode>
+    <bankLoc>8250</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahdol</name>
+    <city>Shahdol</city>
+    <address>Gound Floor, Rajendra Talkies Chowk, Shahdol (M.P)</address>
+    <contact>30898015</contact>
+    <micrCode>484756001</micrCode>
+    <ifscCode>ESFB0014014</ifscCode>
+    <bankLoc>8254</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dhar</name>
+    <city>Dhar</city>
+    <address>NO -25, 25/1, Rajajai Marg, Hotel Royal Residency, Near BUS Stand Dhar, Madhyapradesh -454001</address>
+    <contact>30898017</contact>
+    <micrCode>454756001</micrCode>
+    <ifscCode>ESFB0014013</ifscCode>
+    <bankLoc>8242</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kayasthkhedi</name>
+    <city>Indore</city>
+    <address>Gram Kayasth Khedi, VEH Sanwer, Indore, Madhya Pradesh</address>
+    <contact>30898017</contact>
+    <micrCode>452756003</micrCode>
+    <ifscCode>ESFB0014012</ifscCode>
+    <bankLoc>8244</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wright Town Jabalpur</name>
@@ -294,7 +582,7 @@
     <contact>30898015</contact>
     <micrCode>482756001</micrCode>
     <ifscCode>ESFB0014011</ifscCode>
-    <bankLoc>9451</bankLoc>
+    <bankLoc>8249</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dewas</name>
@@ -303,7 +591,7 @@
     <contact>30898017</contact>
     <micrCode>455756001</micrCode>
     <ifscCode>ESFB0014010</ifscCode>
-    <bankLoc>9447</bankLoc>
+    <bankLoc>8241</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ujjain</name>
@@ -312,7 +600,7 @@
     <contact>30898015</contact>
     <micrCode>456756001</micrCode>
     <ifscCode>ESFB0014009</ifscCode>
-    <bankLoc>9453</bankLoc>
+    <bankLoc>8255</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khandwa</name>
@@ -321,7 +609,7 @@
     <contact>30898017</contact>
     <micrCode>450756101</micrCode>
     <ifscCode>ESFB0014008</ifscCode>
-    <bankLoc>9449</bankLoc>
+    <bankLoc>8246</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Burhanpur</name>
@@ -330,16 +618,16 @@
     <contact>30898015</contact>
     <micrCode>450756001</micrCode>
     <ifscCode>ESFB0014007</ifscCode>
-    <bankLoc>9446</bankLoc>
+    <bankLoc>8239</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bina</name>
     <city>Sagar</city>
-    <address>CWLWDSIDIDIS(.)</address>
+    <address>Achwal Ward, Station Road, Bina Disst, Sagar M.P</address>
     <contact>30898017</contact>
     <micrCode>470756101</micrCode>
     <ifscCode>ESFB0014006</ifscCode>
-    <bankLoc>9452</bankLoc>
+    <bankLoc>8252</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kosmi</name>
@@ -348,7 +636,7 @@
     <contact>30898015</contact>
     <micrCode>481756001</micrCode>
     <ifscCode>ESFB0014005</ifscCode>
-    <bankLoc>9445</bankLoc>
+    <bankLoc>8237</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhawarkua Indore</name>
@@ -357,7 +645,7 @@
     <contact>30898015</contact>
     <micrCode>452756002</micrCode>
     <ifscCode>ESFB0014004</ifscCode>
-    <bankLoc>9448</bankLoc>
+    <bankLoc>8244</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidisha</name>
@@ -366,7 +654,7 @@
     <contact>30898015</contact>
     <micrCode>464756201</micrCode>
     <ifscCode>ESFB0014003</ifscCode>
-    <bankLoc>9454</bankLoc>
+    <bankLoc>8256</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pipliyahana</name>
@@ -375,7 +663,7 @@
     <contact>30898015</contact>
     <micrCode>452756001</micrCode>
     <ifscCode>ESFB0014002</ifscCode>
-    <bankLoc>9448</bankLoc>
+    <bankLoc>8244</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gulmohar</name>
@@ -384,16 +672,34 @@
     <contact>30898015</contact>
     <micrCode>462756001</micrCode>
     <ifscCode>ESFB0014001</ifscCode>
-    <bankLoc>9457</bankLoc>
+    <bankLoc>8261</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karnal</name>
+    <city>Karnal</city>
+    <address>SCO -252, Sector - 12, Huda Market, KARNAL.HARYANA</address>
+    <contact>30898015</contact>
+    <micrCode>132756002</micrCode>
+    <ifscCode>ESFB0011008</ifscCode>
+    <bankLoc>8214</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sirsa</name>
+    <city>Sirsa</city>
+    <address>B24-1, Janta Bhawan Road, Shivaji Colony, SIRSA.HARYANA</address>
+    <contact>30898015</contact>
+    <micrCode>125756002</micrCode>
+    <ifscCode>ESFB0011007</ifscCode>
+    <bankLoc>8217</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bahadurgarh</name>
     <city>Jhajjar</city>
-    <address>,mp, Inbn, BDUG.</address>
+    <address>RAJ Complex, Mahaveer Park, OPP Corporation Bank, Bahadurgarh</address>
     <contact>30898015</contact>
     <micrCode>110756014</micrCode>
     <ifscCode>ESFB0011006</ifscCode>
-    <bankLoc>9427</bankLoc>
+    <bankLoc>8213</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>OLD Gurgaon-sec</name>
@@ -402,7 +708,7 @@
     <contact>30898017</contact>
     <micrCode>110756008</micrCode>
     <ifscCode>ESFB0011005</ifscCode>
-    <bankLoc>9426</bankLoc>
+    <bankLoc>8212</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rohtak</name>
@@ -411,7 +717,7 @@
     <contact>30898017</contact>
     <micrCode>124756002</micrCode>
     <ifscCode>ESFB0011004</ifscCode>
-    <bankLoc>9429</bankLoc>
+    <bankLoc>8216</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rewari</name>
@@ -420,7 +726,7 @@
     <contact>30898017</contact>
     <micrCode>123756002</micrCode>
     <ifscCode>ESFB0011003</ifscCode>
-    <bankLoc>9428</bankLoc>
+    <bankLoc>8215</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Faridabad</name>
@@ -429,7 +735,7 @@
     <contact>30898015</contact>
     <micrCode>110756003</micrCode>
     <ifscCode>ESFB0011002</ifscCode>
-    <bankLoc>9425</bankLoc>
+    <bankLoc>8211</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhiwani</name>
@@ -438,7 +744,142 @@
     <contact>30898015</contact>
     <micrCode>127756002</micrCode>
     <ifscCode>ESFB0011001</ifscCode>
-    <bankLoc>9424</bankLoc>
+    <bankLoc>8210</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bahadura</name>
+    <city>Nagpur</city>
+    <address>Plot NO.1, Pandey Complex, Near NEW Naka Gonhi Sim, Umrer Road, Bahadura, Nagpur District 440034</address>
+    <contact>30898015</contact>
+    <micrCode>440756004</micrCode>
+    <ifscCode>ESFB0009040</ifscCode>
+    <bankLoc>8266</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kingsway</name>
+    <city>Nagpur</city>
+    <address>345, Shreemohini Usha Complex, S.V Road, Kingsway, Nagpur 440001</address>
+    <contact>30898015</contact>
+    <micrCode>440756003</micrCode>
+    <ifscCode>ESFB0009038</ifscCode>
+    <bankLoc>8266</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Saat Rasta</name>
+    <city>Solapur</city>
+    <address>Balaji Bhavan, Ground Floor, Near Garud Banglow, Saat Rasta Solapur 413001</address>
+    <contact>30898015</contact>
+    <micrCode>413756002</micrCode>
+    <ifscCode>ESFB0009036</ifscCode>
+    <bankLoc>8270</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nilanga</name>
+    <city>Latur</city>
+    <address>Plot NO 10 SR NO 296/kh H NO 1/3/568 Panchal Colony Nilanga Dist Latur 431521</address>
+    <contact>30898017</contact>
+    <micrCode>413756327</micrCode>
+    <ifscCode>ESFB0009035</ifscCode>
+    <bankLoc>8264</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pimpri</name>
+    <city>Pune</city>
+    <address>Fusion Park, Upper Ground Floor, Shop NO.63 AND 67, Masulkar Colony, Pimpri, Pune Maharashtra 411018.</address>
+    <contact>30898015</contact>
+    <micrCode>411756006</micrCode>
+    <ifscCode>ESFB0009034</ifscCode>
+    <bankLoc>8268</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Market Yard</name>
+    <city>Pune</city>
+    <address>Golden Emerald, 473/14 B, Gultekdi, Salisburry Park Area, Market Yard, Pune Maharashtra-411037</address>
+    <contact>30898015</contact>
+    <micrCode>411756005</micrCode>
+    <ifscCode>ESFB0009033</ifscCode>
+    <bankLoc>8268</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kothrud</name>
+    <city>Pune</city>
+    <address>HPN.18 AND 19, Damdarville N.3AND 21, OPP Kthrud Busstand, Kthrud, Pune-411038</address>
+    <contact>30898015</contact>
+    <micrCode>411756004</micrCode>
+    <ifscCode>ESFB0009032</ifscCode>
+    <bankLoc>8268</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shankar Nagar</name>
+    <city>Nagpur</city>
+    <address>Plot NO.12, WHC Road, Shankar Nagar, Nagpur-440010</address>
+    <contact>30898015</contact>
+    <micrCode>440756005</micrCode>
+    <ifscCode>ESFB0009031</ifscCode>
+    <bankLoc>8266</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aurangabad</name>
+    <city>Aurangabad</city>
+    <address>Plot NO.12, Town Center, Cidco, Aurangabad -431003</address>
+    <contact>30898015</contact>
+    <micrCode>431756002</micrCode>
+    <ifscCode>ESFB0009030</ifscCode>
+    <bankLoc>8259</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pandharpur</name>
+    <city>Solapur</city>
+    <address>Ground Floor, Prabhakar Tendulkar Plaza, CTS NO.4256/A/2, Near Balkasharam, Pandharpur, Maharashtra - 413304</address>
+    <contact>30898015</contact>
+    <micrCode>413756151</micrCode>
+    <ifscCode>ESFB0009029</ifscCode>
+    <bankLoc>8270</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ramtek</name>
+    <city>Nagpur</city>
+    <address>Khalatkar Hall, Shop NO.10, 11&amp; 12, OPP.TO BUS Stand, Main Road, Ramtek, Nagpur, Maharastra</address>
+    <contact>30898015</contact>
+    <micrCode>440756501</micrCode>
+    <ifscCode>ESFB0009026</ifscCode>
+    <bankLoc>8266</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thane - Ghodbander Road</name>
+    <city>Thane</city>
+    <address>Shop NO.3, Ground Floor, Cosmos Jewels, NR.D-MART, G B Road, Thane -400615</address>
+    <contact>30898015</contact>
+    <micrCode>400756007</micrCode>
+    <ifscCode>ESFB0009024</ifscCode>
+    <bankLoc>8271</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baner</name>
+    <city>Pune</city>
+    <address>Ellora Pride, S NO 110/11, Near Dmart, Baner Road, Pune -411 045</address>
+    <contact>30898017</contact>
+    <micrCode>411756003</micrCode>
+    <ifscCode>ESFB0009023</ifscCode>
+    <bankLoc>8268</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>NEW Panvel</name>
+    <city>Raigad</city>
+    <address>Shop NO.1, 2,26&amp; 27, Munoth Express, Ambedkar Road, OPP.S T Depot, Panvel, Raigad -410206</address>
+    <contact>30898017</contact>
+    <micrCode>400756005</micrCode>
+    <ifscCode>ESFB0009021</ifscCode>
+    <bankLoc>8269</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nashik - Gangapur Road</name>
+    <city>Nashik</city>
+    <address>SHOPNO.3, Groundfloor, Rushirajregency, Nearvidyavikascircle, Gangapurroad, Nashik-422005</address>
+    <contact>30898015</contact>
+    <micrCode>422756002</micrCode>
+    <ifscCode>ESFB0009015</ifscCode>
+    <bankLoc>8267</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghatkopar</name>
@@ -447,7 +888,25 @@
     <contact>30898015</contact>
     <micrCode>400756006</micrCode>
     <ifscCode>ESFB0009014</ifscCode>
-    <bankLoc>9459</bankLoc>
+    <bankLoc>8265</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nighotwadi</name>
+    <city>Pune</city>
+    <address>SAI Bungalow, Nighotwadi, Post Manchar, TAL - Ambegaon, Pune-410503</address>
+    <contact>30898017</contact>
+    <micrCode>410756052</micrCode>
+    <ifscCode>ESFB0009013</ifscCode>
+    <bankLoc>8268</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sangamner</name>
+    <city>Ahmed Nagar</city>
+    <address>166, Groundfloor, Saileelacomplex, Nearbibwehospital, OPP.PRANTOFFICE, Sangamner, Ahmednagar-422605</address>
+    <contact>30898017</contact>
+    <micrCode>422756201</micrCode>
+    <ifscCode>ESFB0009012</ifscCode>
+    <bankLoc>8257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bramhapuri</name>
@@ -456,16 +915,16 @@
     <contact>30898017</contact>
     <micrCode>441756302</micrCode>
     <ifscCode>ESFB0009011</ifscCode>
-    <bankLoc>9458</bankLoc>
+    <bankLoc>8262</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amravati</name>
     <city>Amravati</city>
-    <address>GLMWBTMTT60.</address>
+    <address>A-wing, Ground Floor, Vimaco Towers, BUS Stand Road, Amravati, Maharashtra ?Û 444601.</address>
     <contact>30898015</contact>
     <micrCode>444756101</micrCode>
     <ifscCode>ESFB0009010</ifscCode>
-    <bankLoc>9455</bankLoc>
+    <bankLoc>8258</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wani</name>
@@ -474,7 +933,7 @@
     <contact>30898017</contact>
     <micrCode>445756501</micrCode>
     <ifscCode>ESFB0009009</ifscCode>
-    <bankLoc>9463</bankLoc>
+    <bankLoc>8273</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhandara</name>
@@ -483,16 +942,16 @@
     <contact>30898015</contact>
     <micrCode>441756102</micrCode>
     <ifscCode>ESFB0009008</ifscCode>
-    <bankLoc>9456</bankLoc>
+    <bankLoc>8260</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wardha</name>
     <city>Wardha</city>
-    <address>Nicw, Crd, Nsu, D21.</address>
+    <address>Dhantoli Chowk, Bachelor Road, Near Deshmukh Bakery, WARDHA-442001.</address>
     <contact>30898015</contact>
     <micrCode>442756001</micrCode>
     <ifscCode>ESFB0009007</ifscCode>
-    <bankLoc>9462</bankLoc>
+    <bankLoc>8272</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vashi</name>
@@ -501,7 +960,16 @@
     <contact>30898015</contact>
     <micrCode>400756004</micrCode>
     <ifscCode>ESFB0009006</ifscCode>
-    <bankLoc>9461</bankLoc>
+    <bankLoc>8271</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shahupuri</name>
+    <city>Kolhapur</city>
+    <address>C.T.S.NO.889, PKP Empire, Shop NO.G-1, E Ward Shahupuri, Kolhapur, Dist Kolhapur, Pincode 416 001</address>
+    <contact>30898017</contact>
+    <micrCode>416756002</micrCode>
+    <ifscCode>ESFB0009005</ifscCode>
+    <bankLoc>8263</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulund West</name>
@@ -510,16 +978,16 @@
     <contact>30898015</contact>
     <micrCode>400756003</micrCode>
     <ifscCode>ESFB0009004</ifscCode>
-    <bankLoc>9459</bankLoc>
+    <bankLoc>8265</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kandri</name>
     <city>Nagpur</city>
-    <address>Prngprrod, Oppositemseboffice, Kndri441401, Mhrshtr</address>
+    <address>Jabalpur-nagpur Road, Opposite Mseb Office, Kandri-441401, Maharashtra</address>
     <contact>30898015</contact>
     <micrCode>440756002</micrCode>
     <ifscCode>ESFB0009003</ifscCode>
-    <bankLoc>9460</bankLoc>
+    <bankLoc>8266</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalyan</name>
@@ -528,7 +996,7 @@
     <contact>30898015</contact>
     <micrCode>400756002</micrCode>
     <ifscCode>ESFB0009002</ifscCode>
-    <bankLoc>9461</bankLoc>
+    <bankLoc>8271</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indrayani Nagar Pune</name>
@@ -537,7 +1005,7 @@
     <contact>30898015</contact>
     <micrCode>411756002</micrCode>
     <ifscCode>ESFB0009001</ifscCode>
-    <bankLoc>9450</bankLoc>
+    <bankLoc>8247</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Korba</name>
@@ -546,7 +1014,7 @@
     <contact>30898017</contact>
     <micrCode>495756301</micrCode>
     <ifscCode>ESFB0008006</ifscCode>
-    <bankLoc>9403</bankLoc>
+    <bankLoc>8184</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Durg</name>
@@ -555,7 +1023,7 @@
     <contact>30898015</contact>
     <micrCode>491756001</micrCode>
     <ifscCode>ESFB0008005</ifscCode>
-    <bankLoc>9401</bankLoc>
+    <bankLoc>8182</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bilaspur</name>
@@ -564,7 +1032,7 @@
     <contact>30898017</contact>
     <micrCode>495756001</micrCode>
     <ifscCode>ESFB0008004</ifscCode>
-    <bankLoc>9400</bankLoc>
+    <bankLoc>8181</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Janjgir</name>
@@ -573,7 +1041,7 @@
     <contact>30898015</contact>
     <micrCode>495756201</micrCode>
     <ifscCode>ESFB0008003</ifscCode>
-    <bankLoc>9402</bankLoc>
+    <bankLoc>8183</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhilai</name>
@@ -582,7 +1050,7 @@
     <contact>30898015</contact>
     <micrCode>490756001</micrCode>
     <ifscCode>ESFB0008002</ifscCode>
-    <bankLoc>9401</bankLoc>
+    <bankLoc>8182</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur</name>
@@ -591,7 +1059,43 @@
     <contact>30898015</contact>
     <micrCode>492756001</micrCode>
     <ifscCode>ESFB0008001</ifscCode>
-    <bankLoc>9404</bankLoc>
+    <bankLoc>8185</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Lalavadar</name>
+    <city>Amreli</city>
+    <address>Plot NO. 19 AND 20, OPP. BUS Stand, Lalavadar, District AMRELI-365601.</address>
+    <contact>30898015</contact>
+    <micrCode>365756501</micrCode>
+    <ifscCode>ESFB0007021</ifscCode>
+    <bankLoc>8195</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bodakdev</name>
+    <city>Ahmedabad</city>
+    <address>Shop NO.2, Shivalik High Street, Keshavbagh, Vastrapur, AHMEDABAD.</address>
+    <contact>30898015</contact>
+    <micrCode>380756002</micrCode>
+    <ifscCode>ESFB0007020</ifscCode>
+    <bankLoc>8194</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Himmatnagar</name>
+    <city>Sabarkantha</city>
+    <address>Shop NO 2, Ground Floor, Umiya Complex, Gandhi Road, Near Pratap Gadh Petrol Pump, Himmatnagar 383001.</address>
+    <contact>30898015</contact>
+    <micrCode>383756002</micrCode>
+    <ifscCode>ESFB0007019</ifscCode>
+    <bankLoc>8206</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manjalpur</name>
+    <city>OR</city>
+    <address>Shop NO B-8/9, Sairutu Complex, Near Tulsidham Char Rasta, Manjalpur, Vadodara</address>
+    <contact>30898017</contact>
+    <micrCode>390756002</micrCode>
+    <ifscCode>ESFB0007018</ifscCode>
+    <bankLoc>8209</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamnagar</name>
@@ -600,7 +1104,7 @@
     <contact>30898015</contact>
     <micrCode>361756002</micrCode>
     <ifscCode>ESFB0007017</ifscCode>
-    <bankLoc>9416</bankLoc>
+    <bankLoc>8199</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gondal Road, Rajkot</name>
@@ -609,16 +1113,43 @@
     <contact>30898015</contact>
     <micrCode>360756002</micrCode>
     <ifscCode>ESFB0007016</ifscCode>
-    <bankLoc>9421</bankLoc>
+    <bankLoc>8205</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shastri Nagar</name>
+    <city>Bhavnagar</city>
+    <address>Shop NO.G-1, Takshashila Complex, NR.VIJAY Cold Drink, Shastri Nagar, Bhavngar -364001</address>
+    <contact>30898015</contact>
+    <micrCode>364756002</micrCode>
+    <ifscCode>ESFB0007015</ifscCode>
+    <bankLoc>8198</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Botad</name>
     <city>Bhavnagar</city>
-    <address>A1runrsamruhcmpexpaaiyarabta-36471</address>
+    <address>Hall NO. 01, Ground Floor, Samruddh Complex, Paaliyad Road, Botad - 364710</address>
     <contact>30898015</contact>
     <micrCode>364756051</micrCode>
     <ifscCode>ESFB0007014</ifscCode>
-    <bankLoc>9415</bankLoc>
+    <bankLoc>8198</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Varachha</name>
+    <city>Surat</city>
+    <address>Paras Stone Supplies, Plot NO.1&amp; 2, Besides Sohamnagar Society, OPP.DOCTOR House, Hirabag Circle, Varachha Road, Surat -395006</address>
+    <contact>30898017</contact>
+    <micrCode>395756003</micrCode>
+    <ifscCode>ESFB0007013</ifscCode>
+    <bankLoc>8207</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bilimora</name>
+    <city>Navsari</city>
+    <address>Sharda Sadan, Ground Floor, Shop NO.1 AND 2, Near Krishna Complex, Gauhrbaug Road, Billimora, TAL.GANDEVI.DIST.NAVSARI.BILLIMORA -396321.</address>
+    <contact>30898017</contact>
+    <micrCode>396756091</micrCode>
+    <ifscCode>ESFB0007012</ifscCode>
+    <bankLoc>8203</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahemdavad</name>
@@ -627,7 +1158,7 @@
     <contact>30898015</contact>
     <micrCode>387756501</micrCode>
     <ifscCode>ESFB0007011</ifscCode>
-    <bankLoc>9418</bankLoc>
+    <bankLoc>8201</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bamangam</name>
@@ -636,7 +1167,16 @@
     <contact>30898015</contact>
     <micrCode>391756501</micrCode>
     <ifscCode>ESFB0007010</ifscCode>
-    <bankLoc>9414</bankLoc>
+    <bankLoc>8197</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Surendranagar Main</name>
+    <city>Surendranagar</city>
+    <address>Mega Mall-2, Milan Main Road, Surendra NAGAR.</address>
+    <contact>30898015</contact>
+    <micrCode>363756001</micrCode>
+    <ifscCode>ESFB0007009</ifscCode>
+    <bankLoc>8208</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patan Main</name>
@@ -645,7 +1185,7 @@
     <contact>30898017</contact>
     <micrCode>384756081</micrCode>
     <ifscCode>ESFB0007008</ifscCode>
-    <bankLoc>9420</bankLoc>
+    <bankLoc>8204</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Junagadh Main</name>
@@ -654,7 +1194,7 @@
     <contact>30898017</contact>
     <micrCode>362756001</micrCode>
     <ifscCode>ESFB0007007</ifscCode>
-    <bankLoc>9417</bankLoc>
+    <bankLoc>8200</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadodara Main</name>
@@ -663,7 +1203,7 @@
     <contact>30898017</contact>
     <micrCode>390756001</micrCode>
     <ifscCode>ESFB0007006</ifscCode>
-    <bankLoc>9423</bankLoc>
+    <bankLoc>8209</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumbharia Road</name>
@@ -672,16 +1212,16 @@
     <contact>30898015</contact>
     <micrCode>395756002</micrCode>
     <ifscCode>ESFB0007005</ifscCode>
-    <bankLoc>9422</bankLoc>
+    <bankLoc>8207</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Main - Udhana, Surat</name>
     <city>Surat</city>
-    <address>HSDS.</address>
+    <address>Rivaa House, Near Udhna Darwaja, Surat, Gujarat</address>
     <contact>30898015</contact>
     <micrCode>395756001</micrCode>
     <ifscCode>ESFB0007004</ifscCode>
-    <bankLoc>9422</bankLoc>
+    <bankLoc>8207</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Main - Mehsana</name>
@@ -690,7 +1230,7 @@
     <contact>30898015</contact>
     <micrCode>384756001</micrCode>
     <ifscCode>ESFB0007003</ifscCode>
-    <bankLoc>9419</bankLoc>
+    <bankLoc>8202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Main - C G Road</name>
@@ -699,7 +1239,7 @@
     <contact>30898015</contact>
     <micrCode>380756001</micrCode>
     <ifscCode>ESFB0007002</ifscCode>
-    <bankLoc>9412</bankLoc>
+    <bankLoc>8194</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Main - Anand</name>
@@ -708,7 +1248,16 @@
     <contact>30898015</contact>
     <micrCode>388756001</micrCode>
     <ifscCode>ESFB0007001</ifscCode>
-    <bankLoc>9413</bankLoc>
+    <bankLoc>8196</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>AS RAO Nagar</name>
+    <city>Hyderabad</city>
+    <address>1-1-257/1, Plot NO 263, Srinivasa Nagar Colony, A S RAO Nagar, Hyderabad -5000062</address>
+    <contact>30898017</contact>
+    <micrCode>500756007</micrCode>
+    <ifscCode>ESFB0005006</ifscCode>
+    <bankLoc>8327</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kphb, Hyderabad</name>
@@ -717,7 +1266,7 @@
     <contact>30898017</contact>
     <micrCode>500756006</micrCode>
     <ifscCode>ESFB0005005</ifscCode>
-    <bankLoc>9505</bankLoc>
+    <bankLoc>8327</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>S R Nagar, Hyderabad</name>
@@ -726,7 +1275,7 @@
     <contact>30898015</contact>
     <micrCode>500756005</micrCode>
     <ifscCode>ESFB0005004</ifscCode>
-    <bankLoc>9505</bankLoc>
+    <bankLoc>8327</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Habsiguda, Hyderabad</name>
@@ -735,7 +1284,16 @@
     <contact>30898015</contact>
     <micrCode>500756004</micrCode>
     <ifscCode>ESFB0005003</ifscCode>
-    <bankLoc>9505</bankLoc>
+    <bankLoc>8327</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>L B Nagar, Hyderabad</name>
+    <city>Hyderabad</city>
+    <address>Sivaganga Colony, Manoorabad, L B Nagar-500074, Telangana</address>
+    <contact>30898015</contact>
+    <micrCode>500756003</micrCode>
+    <ifscCode>ESFB0005002</ifscCode>
+    <bankLoc>8327</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paradise, Hyderabad</name>
@@ -744,7 +1302,7 @@
     <contact>30898015</contact>
     <micrCode>500756002</micrCode>
     <ifscCode>ESFB0005001</ifscCode>
-    <bankLoc>9505</bankLoc>
+    <bankLoc>8327</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajahmundry, East Godavari</name>
@@ -753,7 +1311,7 @@
     <contact>30898015</contact>
     <micrCode>533756102</micrCode>
     <ifscCode>ESFB0004005</ifscCode>
-    <bankLoc>9395</bankLoc>
+    <bankLoc>8176</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guntur</name>
@@ -762,7 +1320,7 @@
     <contact>30898015</contact>
     <micrCode>520756102</micrCode>
     <ifscCode>ESFB0004004</ifscCode>
-    <bankLoc>9396</bankLoc>
+    <bankLoc>8177</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Visakhapatnam</name>
@@ -771,7 +1329,7 @@
     <contact>30898015</contact>
     <micrCode>530756002</micrCode>
     <ifscCode>ESFB0004003</ifscCode>
-    <bankLoc>9398</bankLoc>
+    <bankLoc>8179</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Benz Circle, Vijayawada</name>
@@ -780,7 +1338,52 @@
     <contact>30898015</contact>
     <micrCode>520756003</micrCode>
     <ifscCode>ESFB0004002</ifscCode>
-    <bankLoc>9397</bankLoc>
+    <bankLoc>8178</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijayawada</name>
+    <city>Krishna</city>
+    <address>D.NO 33-21-39a Eluru Road, Chuttugunta, Sitaramapuram, Vijayawada-520004</address>
+    <contact>30898015</contact>
+    <micrCode>520756002</micrCode>
+    <ifscCode>ESFB0004001</ifscCode>
+    <bankLoc>8178</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>K R Nagar</name>
+    <city>Mysore</city>
+    <address>Sridevi Residency, Ground Floor, Purasabha Circle, Vanivilasroad, Land Mark OPP TO Govt Hospital, K.R.NAGARATOWN 571602.</address>
+    <contact>30898015</contact>
+    <micrCode>571756002</micrCode>
+    <ifscCode>ESFB0003035</ifscCode>
+    <bankLoc>8231</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>RBI Layout</name>
+    <city>Bengaluru Urban</city>
+    <address>632, Kothnur, Rbihbcslayout, Banaglore-560062</address>
+    <contact>30898015</contact>
+    <micrCode>560756010</micrCode>
+    <ifscCode>ESFB0003034</ifscCode>
+    <bankLoc>8221</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tumakuru</name>
+    <city>Tumkur</city>
+    <address>53/3b, Batawadi, Oppsitcollege, Bhroad, Tumkur-572103</address>
+    <contact>30898015</contact>
+    <micrCode>572756002</micrCode>
+    <ifscCode>ESFB0003033</ifscCode>
+    <bankLoc>8235</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thagachagere</name>
+    <city>Ramnagar</city>
+    <address>Sogala Nagaraja Building, NO 390/208/1 / 76, Mahadeshwara NAGARA.SATNUR Road, Near Divya Chetana School Tagachagere Village, Tagachagere Grama Panchayath, Kasaba Hobli, Chennapattana Taluk -562160</address>
+    <contact>30898017</contact>
+    <micrCode>571756501</micrCode>
+    <ifscCode>ESFB0003032</ifscCode>
+    <bankLoc>8232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasturinagar</name>
@@ -789,7 +1392,7 @@
     <contact>30898015</contact>
     <micrCode>560756009</micrCode>
     <ifscCode>ESFB0003031</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Prashanthnagar</name>
@@ -798,7 +1401,7 @@
     <contact>30898015</contact>
     <micrCode>560756008</micrCode>
     <ifscCode>ESFB0003030</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hunbballi</name>
@@ -807,7 +1410,7 @@
     <contact>30898015</contact>
     <micrCode>580756002</micrCode>
     <ifscCode>ESFB0003029</ifscCode>
-    <bankLoc>9437</bankLoc>
+    <bankLoc>8225</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosapete</name>
@@ -816,7 +1419,34 @@
     <contact>30898015</contact>
     <micrCode>583756202</micrCode>
     <ifscCode>ESFB0003028</ifscCode>
-    <bankLoc>9440</bankLoc>
+    <bankLoc>8229</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ranebennur</name>
+    <city>AEI</city>
+    <address>P.B.ROAD, Near BUS Stand, Ranebennur Town, Ranebennur -581115</address>
+    <contact>30898017</contact>
+    <micrCode>581756102</micrCode>
+    <ifscCode>ESFB0003027</ifscCode>
+    <bankLoc>8228</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dharwad</name>
+    <city>Dharwad</city>
+    <address>Shree Renuka Residency, NO.342A / 17, OPP.AXIS Bank, Toll Naka, Dharwad</address>
+    <contact>30898017</contact>
+    <micrCode>580756302</micrCode>
+    <ifscCode>ESFB0003026</ifscCode>
+    <bankLoc>8225</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hosalli Haveri</name>
+    <city>AEI</city>
+    <address>NO.435/ 1, Devi Hosur Cross, Hosalli, Taluk Haveri, District Haveri -581110</address>
+    <contact>30898017</contact>
+    <micrCode>581756052</micrCode>
+    <ifscCode>ESFB0003025</ifscCode>
+    <bankLoc>8305</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yalahanka</name>
@@ -825,7 +1455,7 @@
     <contact>30898015</contact>
     <micrCode>560756007</micrCode>
     <ifscCode>ESFB0003024</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shivamogga</name>
@@ -834,16 +1464,16 @@
     <contact>30898015</contact>
     <micrCode>577756203</micrCode>
     <ifscCode>ESFB0003023</ifscCode>
-    <bankLoc>9442</bankLoc>
+    <bankLoc>8233</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>T K Layout</name>
     <city>Mysore</city>
-    <address>IEBEARINGNO.377/B, Araswahipuram, Thonachikoppalexensionlayou, Chamarajamohalla, Mysore</address>
+    <address>Site Bearing NO.377/B, Saraswathipuram, Thonachikoppal Extension Layout, Chamaraja Mohalla, Mysore</address>
     <contact>30898015</contact>
     <micrCode>570756004</micrCode>
     <ifscCode>ESFB0003022</ifscCode>
-    <bankLoc>9441</bankLoc>
+    <bankLoc>8231</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hassan</name>
@@ -852,7 +1482,7 @@
     <contact>30898015</contact>
     <micrCode>573756302</micrCode>
     <ifscCode>ESFB0003021</ifscCode>
-    <bankLoc>9439</bankLoc>
+    <bankLoc>8227</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gadag</name>
@@ -861,7 +1491,7 @@
     <contact>30898015</contact>
     <micrCode>582756002</micrCode>
     <ifscCode>ESFB0003020</ifscCode>
-    <bankLoc>9438</bankLoc>
+    <bankLoc>8226</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Davangere</name>
@@ -870,7 +1500,16 @@
     <contact>30898017</contact>
     <micrCode>577756002</micrCode>
     <ifscCode>ESFB0003019</ifscCode>
-    <bankLoc>9436</bankLoc>
+    <bankLoc>8224</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mandya</name>
+    <city>Mandya</city>
+    <address>Khatha NO. D3/347/1668, Situated AT Vidya Nagara, Mandya CITY.</address>
+    <contact>30898015</contact>
+    <micrCode>571756502</micrCode>
+    <ifscCode>ESFB0003018</ifscCode>
+    <bankLoc>8230</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ballari</name>
@@ -879,7 +1518,7 @@
     <contact>30898015</contact>
     <micrCode>583756102</micrCode>
     <ifscCode>ESFB0003017</ifscCode>
-    <bankLoc>9432</bankLoc>
+    <bankLoc>8220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belagavi</name>
@@ -888,7 +1527,7 @@
     <contact>30898015</contact>
     <micrCode>590756002</micrCode>
     <ifscCode>ESFB0003016</ifscCode>
-    <bankLoc>9431</bankLoc>
+    <bankLoc>8219</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tiptur</name>
@@ -897,7 +1536,7 @@
     <contact>30898015</contact>
     <micrCode>572756202</micrCode>
     <ifscCode>ESFB0003015</ifscCode>
-    <bankLoc>9443</bankLoc>
+    <bankLoc>8234</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sira</name>
@@ -906,16 +1545,16 @@
     <contact>30898015</contact>
     <micrCode>572756172</micrCode>
     <ifscCode>ESFB0003014</ifscCode>
-    <bankLoc>9444</bankLoc>
+    <bankLoc>8235</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hunsur</name>
     <city>Mysore</city>
-    <address>N/00bmbyrhrtwmyrrc</address>
+    <address>Khatha NO.1613/3600, Situated AT BM BY Pass Road, 1ST Division, Hunsur Town, Mysore DISTRICT.</address>
     <contact>30898015</contact>
     <micrCode>571756052</micrCode>
     <ifscCode>ESFB0003013</ifscCode>
-    <bankLoc>9441</bankLoc>
+    <bankLoc>8231</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>H D Kote</name>
@@ -924,7 +1563,7 @@
     <contact>30898015</contact>
     <micrCode>570756003</micrCode>
     <ifscCode>ESFB0003012</ifscCode>
-    <bankLoc>9441</bankLoc>
+    <bankLoc>8231</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gundlupet</name>
@@ -933,7 +1572,7 @@
     <contact>30898015</contact>
     <micrCode>571756652</micrCode>
     <ifscCode>ESFB0003011</ifscCode>
-    <bankLoc>9434</bankLoc>
+    <bankLoc>8222</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Birur</name>
@@ -942,7 +1581,7 @@
     <contact>30898015</contact>
     <micrCode>577756102</micrCode>
     <ifscCode>ESFB0003010</ifscCode>
-    <bankLoc>9435</bankLoc>
+    <bankLoc>8223</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Siddarayanapura</name>
@@ -951,7 +1590,7 @@
     <contact>30898015</contact>
     <micrCode>571756452</micrCode>
     <ifscCode>ESFB0003009</ifscCode>
-    <bankLoc>9434</bankLoc>
+    <bankLoc>8222</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hole Hanaswadi</name>
@@ -960,25 +1599,25 @@
     <contact>30898015</contact>
     <micrCode>577756202</micrCode>
     <ifscCode>ESFB0003008</ifscCode>
-    <bankLoc>9442</bankLoc>
+    <bankLoc>8233</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramasamudram</name>
     <city>Chamarajnagar</city>
-    <address>9iusigbardclyramasamudramchamarajaagar-571313karataka</address>
+    <address>NO 49, LIG Hoousing Board Colony, Ramasamudram, Chamarajan Nagar-571313, KARNATAKA.</address>
     <contact>30898015</contact>
     <micrCode>571756352</micrCode>
     <ifscCode>ESFB0003007</ifscCode>
-    <bankLoc>9434</bankLoc>
+    <bankLoc>8222</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajajinagar</name>
     <city>Bengaluru Urban</city>
-    <address>7tjktvtwjj2lkl-61</address>
+    <address>NO 75, Shantha Arcade, DR.RAJKUMAR Road, Near TVS Bridgestone Showroom, Rajajinagar 2ND Block, BENGALURU-560010.</address>
     <contact>30898015</contact>
     <micrCode>560756006</micrCode>
     <ifscCode>ESFB0003006</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basaveshwar Nagar</name>
@@ -987,7 +1626,7 @@
     <contact>30898015</contact>
     <micrCode>560756005</micrCode>
     <ifscCode>ESFB0003005</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>K R Puram</name>
@@ -996,7 +1635,7 @@
     <contact>30898015</contact>
     <micrCode>560756004</micrCode>
     <ifscCode>ESFB0003004</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>HSR Layout</name>
@@ -1005,7 +1644,7 @@
     <contact>30898015</contact>
     <micrCode>560756003</micrCode>
     <ifscCode>ESFB0003003</ifscCode>
-    <bankLoc>9433</bankLoc>
+    <bankLoc>8221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>K D Road Mysuru</name>
@@ -1014,25 +1653,169 @@
     <contact>30898015</contact>
     <micrCode>570756002</micrCode>
     <ifscCode>ESFB0003002</ifscCode>
-    <bankLoc>9441</bankLoc>
+    <bankLoc>8231</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jayanagar</name>
     <city>Bangalore Metro</city>
-    <address>-0GFSIKIPC2IYTBCB-500.</address>
+    <address>NO -1011, Ground Floor, SRI Krishnapoorva Arcade, 26th Main, Jayanagar 4TH T Block, Bangalore - 560041</address>
     <contact>30898015</contact>
     <micrCode>560756002</micrCode>
     <ifscCode>ESFB0003001</ifscCode>
-    <bankLoc>9430</bankLoc>
+    <bankLoc>8218</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Perundurai</name>
+    <city>Erode</city>
+    <address>NO 123, OLD BUS Stand Road, Perundurai -638052</address>
+    <contact>30898015</contact>
+    <micrCode>638756010</micrCode>
+    <ifscCode>ESFB0001136</ifscCode>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Surapet</name>
+    <city>Tiruvallur</city>
+    <address>Plot NO.213, Sivaprakasam Nagar, Surapet, Chennai 600066</address>
+    <contact>30898015</contact>
+    <micrCode>600756028</micrCode>
+    <ifscCode>ESFB0001134</ifscCode>
+    <bankLoc>8319</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aalapiranthan</name>
+    <city>Pudukottai</city>
+    <address>NO.175, Pudukkottai Main Road, ARANTHANGI.614616</address>
+    <contact>30898015</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESFB0001133</ifscCode>
+    <bankLoc>8312</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Purasawalkam</name>
+    <city>Chennai</city>
+    <address>OLD NO.77, NEW NO.36, Millers Road, Kilpauk, Chennai 600010</address>
+    <contact>30898015</contact>
+    <micrCode>600756027</micrCode>
+    <ifscCode>ESFB0001132</ifscCode>
+    <bankLoc>8300</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>K K Nagar</name>
+    <city>Chennai</city>
+    <address>Plot NO.1072, D.NO.32, Munusamy Salai, K K Nagar West, Chennai 600078</address>
+    <contact>30898015</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESFB0001131</ifscCode>
+    <bankLoc>8300</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thiruvarur</name>
+    <city>Tiruvarur</city>
+    <address>NO 87, DN Complex, North Main Street, Thiruvarur -610 002</address>
+    <contact>30898015</contact>
+    <micrCode>610756002</micrCode>
+    <ifscCode>ESFB0001130</ifscCode>
+    <bankLoc>8321</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ponnamaravathi</name>
+    <city>Pudukottai</city>
+    <address>70/1, First Floor, Anna Salai, Pudukottai Road, Ponnamaravathy-622407</address>
+    <contact>30898015</contact>
+    <micrCode>622756003</micrCode>
+    <ifscCode>ESFB0001129</ifscCode>
+    <bankLoc>8312</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhavani</name>
+    <city>Erode</city>
+    <address>NO.1041, Main Road, Near Sangemeseewarar Temple BUS Stop, Bhavani -638301</address>
+    <contact>30898015</contact>
+    <micrCode>638756009</micrCode>
+    <ifscCode>ESFB0001128</ifscCode>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ragunathapuram</name>
+    <city>Tanjavur</city>
+    <address>Plot NO 1 / 100a, Poonkga Nagar ( Three Star ) Regunathapuram ( P), Papanasam(tk), Tanjore-614210</address>
+    <contact>30898015</contact>
+    <micrCode>613756005</micrCode>
+    <ifscCode>ESFB0001127</ifscCode>
+    <bankLoc>8315</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Agasthiyarpatti</name>
+    <city>Iuvi</city>
+    <address>3/1067 B Veeramamunivar Street, Agasthiyarpatti, Sivanthipuram, Ambasamudram TK, Tirunelveli District -627428</address>
+    <contact>30898015</contact>
+    <micrCode>627756009</micrCode>
+    <ifscCode>ESFB0001126</ifscCode>
+    <bankLoc>8318</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kovilpappakudi</name>
+    <city>Madurai</city>
+    <address>3/299, I Floor, Alanganallur Main Road, Sikkandar Chavadi, Kovilpappakudi Village Madurai 625018</address>
+    <contact>30898015</contact>
+    <micrCode>625756012</micrCode>
+    <ifscCode>ESFB0001125</ifscCode>
+    <bankLoc>8309</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karaikkal Thirunallar Rural</name>
+    <city>Pondicherry</city>
+    <address>Door NO -162, Church Street, Karaikkal -tk&amp; DT.PONDICHERRY State</address>
+    <contact>30898015</contact>
+    <micrCode>609756102</micrCode>
+    <ifscCode>ESFB0001124</ifscCode>
+    <bankLoc>8274</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Poiyaputhur</name>
+    <city>Karur</city>
+    <address>NO - 119, Trichy Karur Main Road, Near Manapuram Gold Loan, Poiyyaputhur -krishnarayapuram -tk, Karur -639102, Tamil Nadu</address>
+    <contact>30898015</contact>
+    <micrCode>639756003</micrCode>
+    <ifscCode>ESFB0001123</ifscCode>
+    <bankLoc>8308</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mugalivakkam</name>
+    <city>Kanchipuram</city>
+    <address>Ltn5, Mhalivakkamrad, Mangalakshminagar, Madhanandapuram, Chennai600125</address>
+    <contact>30898017</contact>
+    <micrCode>600756025</micrCode>
+    <ifscCode>ESFB0001122</ifscCode>
+    <bankLoc>8306</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manapparai</name>
+    <city>Dindigul</city>
+    <address>NO.14 Ponnagaram, Dindigul Road, Manapparai -621306</address>
+    <contact>30898017</contact>
+    <micrCode>620756010</micrCode>
+    <ifscCode>ESFB0001121</ifscCode>
+    <bankLoc>8303</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uthamapuram Kambam</name>
     <city>Theni</city>
-    <address>DN3NWD7DVUUVGBND.</address>
+    <address>Ward NO: 3, NEW Ward 7, Yadhavar Street, Uthamapuram Village, Kambam, Theni DT</address>
     <contact>30898015</contact>
     <micrCode>625756103</micrCode>
     <ifscCode>ESFB0001120</ifscCode>
-    <bankLoc>9494</bankLoc>
+    <bankLoc>8316</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kuberan Nagar Guduvanchery</name>
+    <city>Kanchipuram</city>
+    <address>NO 5, First Street, Kuberan Nagar, Nandhivaram, Guduvanchery 603202</address>
+    <contact>30898017</contact>
+    <micrCode>600756024</micrCode>
+    <ifscCode>ESFB0001119</ifscCode>
+    <bankLoc>8306</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palpakki-omalur</name>
@@ -1041,7 +1824,7 @@
     <contact>30898015</contact>
     <micrCode>636756008</micrCode>
     <ifscCode>ESFB0001118</ifscCode>
-    <bankLoc>9491</bankLoc>
+    <bankLoc>8313</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Erummapatty Chettiyamkurichi</name>
@@ -1050,7 +1833,16 @@
     <contact>30898015</contact>
     <micrCode>636756007</micrCode>
     <ifscCode>ESFB0001117</ifscCode>
-    <bankLoc>9491</bankLoc>
+    <bankLoc>8313</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Veeranampalayam</name>
+    <city>Erode</city>
+    <address>SF NO 76, Thottipatti Pirivu, Palayakotai Road, Veernampalayam, Kangeyam</address>
+    <contact>30898017</contact>
+    <micrCode>641756103</micrCode>
+    <ifscCode>ESFB0001116</ifscCode>
+    <bankLoc>8304</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakapalayam Elampillai</name>
@@ -1059,16 +1851,25 @@
     <contact>30898015</contact>
     <micrCode>636756006</micrCode>
     <ifscCode>ESFB0001115</ifscCode>
-    <bankLoc>9491</bankLoc>
+    <bankLoc>8313</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mambakkam Sriperumbudur</name>
+    <city>Kanchipuram</city>
+    <address>NO 411 Bangalore Highway Mambakkam Village Sriperumbudur 602105</address>
+    <contact>30898015</contact>
+    <micrCode>600756023</micrCode>
+    <ifscCode>ESFB0001114</ifscCode>
+    <bankLoc>8306</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Simmakkal Madurai</name>
     <city>Madurai</city>
-    <address>Pt13gintvittimdui21</address>
+    <address>Peoples  Tower 153-g-h-i, North Veli Street, Simmakkal, Madurai 625001</address>
     <contact>30898015</contact>
     <micrCode>625756011</micrCode>
     <ifscCode>ESFB0001113</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panruti</name>
@@ -1077,16 +1878,16 @@
     <contact>30898015</contact>
     <micrCode>607756202</micrCode>
     <ifscCode>ESFB0001112</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Silamalai</name>
     <city>Theni</city>
-    <address>O5coidevarammainroasilamalaioinayakanurtalukthenidist-625528</address>
+    <address>NO. 350c, Bodi Devaram Main Road, Silamalai, Bodinayakanur Taluk, Theni Dist -625528</address>
     <contact>30898015</contact>
     <micrCode>625756302</micrCode>
     <ifscCode>ESFB0001111</ifscCode>
-    <bankLoc>9494</bankLoc>
+    <bankLoc>8316</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keelur Vadalur Rural</name>
@@ -1095,7 +1896,7 @@
     <contact>30898015</contact>
     <micrCode>607756203</micrCode>
     <ifscCode>ESFB0001110</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valavanur</name>
@@ -1104,7 +1905,16 @@
     <contact>30898015</contact>
     <micrCode>605756011</micrCode>
     <ifscCode>ESFB0001109</ifscCode>
-    <bankLoc>9503</bankLoc>
+    <bankLoc>8325</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ikkarai</name>
+    <city>Coimbatore</city>
+    <address>D.NO.2/410-2ANNAIINDHIRASTREET, Ikkaraibooluvampattivillage, Coimbatore-641109</address>
+    <contact>30898015</contact>
+    <micrCode>641756007</micrCode>
+    <ifscCode>ESFB0001108</ifscCode>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perundurai</name>
@@ -1113,7 +1923,16 @@
     <contact>30898017</contact>
     <micrCode>638756008</micrCode>
     <ifscCode>ESFB0001107</ifscCode>
-    <bankLoc>9483</bankLoc>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Papampatti</name>
+    <city>Coimbatore</city>
+    <address>NO.14/1, Papampatti Road, Kannampalayam, Sulur, Coimbatore -641402</address>
+    <contact>30898015</contact>
+    <micrCode>641756008</micrCode>
+    <ifscCode>ESFB0001106</ifscCode>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruthuraipoondi</name>
@@ -1122,16 +1941,25 @@
     <contact>30898017</contact>
     <micrCode>614756202</micrCode>
     <ifscCode>ESFB0001105</ifscCode>
-    <bankLoc>9499</bankLoc>
+    <bankLoc>8321</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bioscope Street, Pollachi</name>
+    <city>Coimbatore</city>
+    <address>NO 18, Bioscope Street, Pollachi - 642001, Tamilnadu</address>
+    <contact>30898015</contact>
+    <micrCode>641756006</micrCode>
+    <ifscCode>ESFB0001104</ifscCode>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Namakkal</name>
     <city>AE</city>
-    <address>L15-1RNTLNCLSLMNL-71.</address>
+    <address>OLD NO 152-f1, NEW NO 406, Front Line Complex, Salem Main Road, Namakkal- 637001</address>
     <contact>30898017</contact>
     <micrCode>636756005</micrCode>
     <ifscCode>ESFB0001103</ifscCode>
-    <bankLoc>9491</bankLoc>
+    <bankLoc>8313</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallakurichi</name>
@@ -1140,7 +1968,7 @@
     <contact>30898015</contact>
     <micrCode>606756102</micrCode>
     <ifscCode>ESFB0001102</ifscCode>
-    <bankLoc>9503</bankLoc>
+    <bankLoc>8325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gobichettipalayam</name>
@@ -1149,7 +1977,7 @@
     <contact>30898015</contact>
     <micrCode>638756007</micrCode>
     <ifscCode>ESFB0001101</ifscCode>
-    <bankLoc>9483</bankLoc>
+    <bankLoc>8304</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arani</name>
@@ -1158,7 +1986,7 @@
     <contact>30898017</contact>
     <micrCode>632756202</micrCode>
     <ifscCode>ESFB0001100</ifscCode>
-    <bankLoc>9498</bankLoc>
+    <bankLoc>8320</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasisthapuram</name>
@@ -1167,16 +1995,16 @@
     <contact>30898017</contact>
     <micrCode>605756010</micrCode>
     <ifscCode>ESFB0001099</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvaiyaru</name>
     <city>Tanjavur</city>
-    <address>,br, 6</address>
+    <address>120, Kumbakonam Rastha, Thiruvaiyaru(tk), Thanjavur DT -613204.</address>
     <contact>30898015</contact>
     <micrCode>613756004</micrCode>
     <ifscCode>ESFB0001098</ifscCode>
-    <bankLoc>9493</bankLoc>
+    <bankLoc>8315</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pallipettai</name>
@@ -1185,7 +2013,43 @@
     <contact>30898015</contact>
     <micrCode>600756022</micrCode>
     <ifscCode>ESFB0001097</ifscCode>
-    <bankLoc>9484</bankLoc>
+    <bankLoc>8306</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anthiyur</name>
+    <city>Erode</city>
+    <address>11/86 - 9 Bhavani Main Road, Annamedu, Pachamapalayam Post, Anthiyur 638314</address>
+    <contact>30898017</contact>
+    <micrCode>638756006</micrCode>
+    <ifscCode>ESFB0001096</ifscCode>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Salaipudur</name>
+    <city>Erode</city>
+    <address>157/1 Karur Main Road, SAALIPUTUR.-638151</address>
+    <contact>30898017</contact>
+    <micrCode>638756005</micrCode>
+    <ifscCode>ESFB0001095</ifscCode>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gandhi Nagar, Udumalpet</name>
+    <city>Coimbatore</city>
+    <address>Deivam Complex, NO 86-c OPP Ganesh Electricals, Dharapuram Main Road, Gandhi Nagar II, UDUMALPET.642126</address>
+    <contact>30898017</contact>
+    <micrCode>642756102</micrCode>
+    <ifscCode>ESFB0001094</ifscCode>
+    <bankLoc>8301</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thitukattupalli</name>
+    <city>Tanjavur</city>
+    <address>Thirukkatupalli Main Road, Four Road, Boodhalur Taluk, Thanjavur Dist -613602</address>
+    <contact>30898017</contact>
+    <micrCode>613756003</micrCode>
+    <ifscCode>ESFB0001093</ifscCode>
+    <bankLoc>8315</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parrys</name>
@@ -1194,7 +2058,7 @@
     <contact>30898015</contact>
     <micrCode>600756021</micrCode>
     <ifscCode>ESFB0001092</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramakrishan Road, Salem</name>
@@ -1203,7 +2067,7 @@
     <contact>30898015</contact>
     <micrCode>636756004</micrCode>
     <ifscCode>ESFB0001091</ifscCode>
-    <bankLoc>9491</bankLoc>
+    <bankLoc>8313</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagercoil</name>
@@ -1212,7 +2076,16 @@
     <contact>30898015</contact>
     <micrCode>629756002</micrCode>
     <ifscCode>ESFB0001090</ifscCode>
-    <bankLoc>9485</bankLoc>
+    <bankLoc>8307</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nagapattinam</name>
+    <city>Nagapattinam</city>
+    <address>NO - 80, Neela North Street, Nagapatinam -611 001, Tamil Nadu</address>
+    <contact>30898017</contact>
+    <micrCode>611756002</micrCode>
+    <ifscCode>ESFB0001089</ifscCode>
+    <bankLoc>8310</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tuticorin</name>
@@ -1221,7 +2094,7 @@
     <contact>30898015</contact>
     <micrCode>627756008</micrCode>
     <ifscCode>ESFB0001088</ifscCode>
-    <bankLoc>9501</bankLoc>
+    <bankLoc>8323</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvannamalai</name>
@@ -1230,7 +2103,7 @@
     <contact>30898015</contact>
     <micrCode>606756002</micrCode>
     <ifscCode>ESFB0001087</ifscCode>
-    <bankLoc>9495</bankLoc>
+    <bankLoc>8317</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karikudi</name>
@@ -1239,7 +2112,7 @@
     <contact>30898015</contact>
     <micrCode>630756002</micrCode>
     <ifscCode>ESFB0001086</ifscCode>
-    <bankLoc>9492</bankLoc>
+    <bankLoc>8314</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanchipuram</name>
@@ -1248,7 +2121,7 @@
     <contact>30898015</contact>
     <micrCode>600756020</micrCode>
     <ifscCode>ESFB0001085</ifscCode>
-    <bankLoc>9484</bankLoc>
+    <bankLoc>8306</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattur, Trichy</name>
@@ -1257,7 +2130,7 @@
     <contact>30898015</contact>
     <micrCode>620756009</micrCode>
     <ifscCode>ESFB0001084</ifscCode>
-    <bankLoc>9500</bankLoc>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambur</name>
@@ -1266,7 +2139,7 @@
     <contact>30898015</contact>
     <micrCode>635756302</micrCode>
     <ifscCode>ESFB0001083</ifscCode>
-    <bankLoc>9502</bankLoc>
+    <bankLoc>8324</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambattur</name>
@@ -1275,7 +2148,7 @@
     <contact>30898015</contact>
     <micrCode>600756019</micrCode>
     <ifscCode>ESFB0001082</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>A.P.T Road, Erode</name>
@@ -1284,7 +2157,25 @@
     <contact>30898015</contact>
     <micrCode>638756004</micrCode>
     <ifscCode>ESFB0001081</ifscCode>
-    <bankLoc>9483</bankLoc>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vallioor</name>
+    <city>Iuvi</city>
+    <address>Opposite Rajesh Tyres, Vallioor Main Road, Vallioor - 627117</address>
+    <contact>30898015</contact>
+    <micrCode>627756007</micrCode>
+    <ifscCode>ESFB0001080</ifscCode>
+    <bankLoc>8318</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ariyalur</name>
+    <city>Ariyalur</city>
+    <address>NO -119 B, 1ST Floor, Acanara Bank Upstairs, Hospital Road, Ariyalur -621704, Tamil Nadu</address>
+    <contact>30898017</contact>
+    <micrCode>621756002</micrCode>
+    <ifscCode>ESFB0001079</ifscCode>
+    <bankLoc>8299</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chromepet</name>
@@ -1293,16 +2184,16 @@
     <contact>30898015</contact>
     <micrCode>600756018</micrCode>
     <ifscCode>ESFB0001078</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chidambaram</name>
     <city>Cuddalore</city>
-    <address>5w1ecibculiipi681</address>
+    <address>O NO 57, NEW NO ?Û 140, East CAR Street, Chidambaram, Cudalore District, PIN 608001.</address>
     <contact>30898015</contact>
     <micrCode>605756009</micrCode>
     <ifscCode>ESFB0001077</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virudhachalam</name>
@@ -1311,16 +2202,16 @@
     <contact>30898015</contact>
     <micrCode>606756202</micrCode>
     <ifscCode>ESFB0001076</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Villupuram</name>
     <city>Villupuram</city>
-    <address>Aatmesudg3/3kkoadvupuam-656tamnadu</address>
+    <address>Raja Timbers Building, 30/132 K.K Road, Villupuram - 605602, Tamil NADU.</address>
     <contact>30898015</contact>
     <micrCode>605756008</micrCode>
     <ifscCode>ESFB0001075</ifscCode>
-    <bankLoc>9503</bankLoc>
+    <bankLoc>8325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvallur</name>
@@ -1329,7 +2220,7 @@
     <contact>30898015</contact>
     <micrCode>600756017</micrCode>
     <ifscCode>ESFB0001074</ifscCode>
-    <bankLoc>9497</bankLoc>
+    <bankLoc>8319</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thirumangalam, Madurai</name>
@@ -1338,7 +2229,7 @@
     <contact>30898017</contact>
     <micrCode>625756010</micrCode>
     <ifscCode>ESFB0001073</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tindivanam</name>
@@ -1347,7 +2238,7 @@
     <contact>30898015</contact>
     <micrCode>605756007</micrCode>
     <ifscCode>ESFB0001072</ifscCode>
-    <bankLoc>9503</bankLoc>
+    <bankLoc>8325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Theni</name>
@@ -1356,7 +2247,16 @@
     <contact>30898015</contact>
     <micrCode>625756102</micrCode>
     <ifscCode>ESFB0001071</ifscCode>
-    <bankLoc>9494</bankLoc>
+    <bankLoc>8316</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tenkasi</name>
+    <city>Iuvi</city>
+    <address>NO.45, Perumal Kovil Street, Tenkasi-627811</address>
+    <contact>30898017</contact>
+    <micrCode>627756006</micrCode>
+    <ifscCode>ESFB0001070</ifscCode>
+    <bankLoc>8318</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sivakasi</name>
@@ -1365,7 +2265,7 @@
     <contact>30898017</contact>
     <micrCode>626756002</micrCode>
     <ifscCode>ESFB0001069</ifscCode>
-    <bankLoc>9504</bankLoc>
+    <bankLoc>8326</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sirkali</name>
@@ -1374,7 +2274,7 @@
     <contact>30898017</contact>
     <micrCode>609756202</micrCode>
     <ifscCode>ESFB0001068</ifscCode>
-    <bankLoc>9488</bankLoc>
+    <bankLoc>8310</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sankarankovil</name>
@@ -1383,7 +2283,16 @@
     <contact>30898015</contact>
     <micrCode>627756005</micrCode>
     <ifscCode>ESFB0001067</ifscCode>
-    <bankLoc>9496</bankLoc>
+    <bankLoc>8318</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rasipuram</name>
+    <city>Salem</city>
+    <address>NO - 22, ARS Residency, Pattanam Main Road, Rasipuram 637408</address>
+    <contact>30898015</contact>
+    <micrCode>636756003</micrCode>
+    <ifscCode>ESFB0001066</ifscCode>
+    <bankLoc>8313</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranipet</name>
@@ -1392,7 +2301,7 @@
     <contact>30898015</contact>
     <micrCode>632756102</micrCode>
     <ifscCode>ESFB0001065</ifscCode>
-    <bankLoc>9502</bankLoc>
+    <bankLoc>8324</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virugambakkam</name>
@@ -1401,7 +2310,7 @@
     <contact>30898015</contact>
     <micrCode>600756016</micrCode>
     <ifscCode>ESFB0001064</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattupakkam</name>
@@ -1410,7 +2319,7 @@
     <contact>30898015</contact>
     <micrCode>600756015</micrCode>
     <ifscCode>ESFB0001063</ifscCode>
-    <bankLoc>9497</bankLoc>
+    <bankLoc>8319</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perambalur</name>
@@ -1419,7 +2328,7 @@
     <contact>30898015</contact>
     <micrCode>621756302</micrCode>
     <ifscCode>ESFB0001062</ifscCode>
-    <bankLoc>9489</bankLoc>
+    <bankLoc>8311</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palani</name>
@@ -1428,7 +2337,7 @@
     <contact>30898015</contact>
     <micrCode>624756102</micrCode>
     <ifscCode>ESFB0001061</ifscCode>
-    <bankLoc>9482</bankLoc>
+    <bankLoc>8303</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Musiri</name>
@@ -1437,7 +2346,7 @@
     <contact>30898015</contact>
     <micrCode>620756008</micrCode>
     <ifscCode>ESFB0001060</ifscCode>
-    <bankLoc>9500</bankLoc>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mayiladuthurai</name>
@@ -1446,7 +2355,7 @@
     <contact>30898015</contact>
     <micrCode>609756002</micrCode>
     <ifscCode>ESFB0001059</ifscCode>
-    <bankLoc>9488</bankLoc>
+    <bankLoc>8310</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lalgudi</name>
@@ -1455,7 +2364,7 @@
     <contact>30898015</contact>
     <micrCode>620756007</micrCode>
     <ifscCode>ESFB0001058</ifscCode>
-    <bankLoc>9500</bankLoc>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kovilpatti</name>
@@ -1464,7 +2373,7 @@
     <contact>30898015</contact>
     <micrCode>627756004</micrCode>
     <ifscCode>ESFB0001057</ifscCode>
-    <bankLoc>9501</bankLoc>
+    <bankLoc>8323</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattumannarkoil</name>
@@ -1473,7 +2382,7 @@
     <contact>30898015</contact>
     <micrCode>605756006</micrCode>
     <ifscCode>ESFB0001056</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>N P Road, Karur</name>
@@ -1482,7 +2391,7 @@
     <contact>30898015</contact>
     <micrCode>639756002</micrCode>
     <ifscCode>ESFB0001055</ifscCode>
-    <bankLoc>9486</bankLoc>
+    <bankLoc>8308</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gudiyatham</name>
@@ -1491,7 +2400,7 @@
     <contact>30898015</contact>
     <micrCode>632756302</micrCode>
     <ifscCode>ESFB0001054</ifscCode>
-    <bankLoc>9502</bankLoc>
+    <bankLoc>8324</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chengalpattu</name>
@@ -1500,7 +2409,7 @@
     <contact>30898015</contact>
     <micrCode>600756014</micrCode>
     <ifscCode>ESFB0001053</ifscCode>
-    <bankLoc>9484</bankLoc>
+    <bankLoc>8306</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Batlagundu</name>
@@ -1509,7 +2418,16 @@
     <contact>30898017</contact>
     <micrCode>625756202</micrCode>
     <ifscCode>ESFB0001052</ifscCode>
-    <bankLoc>9482</bankLoc>
+    <bankLoc>8303</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vasavappapuram</name>
+    <city>Iuvi</city>
+    <address>NO 1/139, Tuticorin Main Road, Vasavappapuram, Tuticorin -628252, Tamil Nadu</address>
+    <contact>30898015</contact>
+    <micrCode>627756003</micrCode>
+    <ifscCode>ESFB0001051</ifscCode>
+    <bankLoc>8318</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Senathipalayam</name>
@@ -1518,7 +2436,16 @@
     <contact>30898015</contact>
     <micrCode>638756003</micrCode>
     <ifscCode>ESFB0001050</ifscCode>
-    <bankLoc>9483</bankLoc>
+    <bankLoc>8304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nellikuppam</name>
+    <city>Cuddalore</city>
+    <address>No-502, 503-nellikuppam Main Road, Nellikuppam 607105</address>
+    <contact>30898017</contact>
+    <micrCode>605756005</micrCode>
+    <ifscCode>ESFB0001049</ifscCode>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thottappanayakkanur</name>
@@ -1527,7 +2454,7 @@
     <contact>30898015</contact>
     <micrCode>625756009</micrCode>
     <ifscCode>ESFB0001048</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thervazhi</name>
@@ -1536,7 +2463,7 @@
     <contact>30898015</contact>
     <micrCode>600756013</micrCode>
     <ifscCode>ESFB0001047</ifscCode>
-    <bankLoc>9497</bankLoc>
+    <bankLoc>8319</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thanakkankulam</name>
@@ -1545,7 +2472,16 @@
     <contact>30898015</contact>
     <micrCode>625756008</micrCode>
     <ifscCode>ESFB0001046</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Srinivasanallur</name>
+    <city>Trichy</city>
+    <address>No-68, Trichy Main Road, Srinivasanallur, Thottiyam -621 215, TAMILNADU.</address>
+    <contact>30898017</contact>
+    <micrCode>620756006</micrCode>
+    <ifscCode>ESFB0001045</ifscCode>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kazura Garden, Tirukkoyilur</name>
@@ -1554,7 +2490,25 @@
     <contact>30898017</contact>
     <micrCode>605756004</micrCode>
     <ifscCode>ESFB0001044</ifscCode>
-    <bankLoc>9503</bankLoc>
+    <bankLoc>8325</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ramarajapuram</name>
+    <city>Madurai</city>
+    <address>NO -3/2, Main Road, Ramarajapuram, Dindigul-624219, Tamil Nadu</address>
+    <contact>30898017</contact>
+    <micrCode>625756007</micrCode>
+    <ifscCode>ESFB0001043</ifscCode>
+    <bankLoc>8309</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Rajakkapatti</name>
+    <city>Dindigul</city>
+    <address>S.NO.515, NEW S.NO.1006/5, Rajakkapatti Village, Sanarpatti Subdi Panchayat, Dindugal DT -624316, Tamil Nadu</address>
+    <contact>30898017</contact>
+    <micrCode>625756006</micrCode>
+    <ifscCode>ESFB0001042</ifscCode>
+    <bankLoc>8303</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumal Malai Adivaram</name>
@@ -1563,7 +2517,7 @@
     <contact>30898015</contact>
     <micrCode>620756005</micrCode>
     <ifscCode>ESFB0001041</ifscCode>
-    <bankLoc>9500</bankLoc>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narasingampettai</name>
@@ -1572,7 +2526,7 @@
     <contact>30898015</contact>
     <micrCode>612756005</micrCode>
     <ifscCode>ESFB0001040</ifscCode>
-    <bankLoc>9493</bankLoc>
+    <bankLoc>8315</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naganapatti</name>
@@ -1581,7 +2535,7 @@
     <contact>30898015</contact>
     <micrCode>624756103</micrCode>
     <ifscCode>ESFB0001039</ifscCode>
-    <bankLoc>9482</bankLoc>
+    <bankLoc>8303</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valayapettai</name>
@@ -1590,7 +2544,16 @@
     <contact>30898015</contact>
     <micrCode>612756004</micrCode>
     <ifscCode>ESFB0001038</ifscCode>
-    <bankLoc>9493</bankLoc>
+    <bankLoc>8315</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koothandam</name>
+    <city>Sivagangai</city>
+    <address>Plot NO.7, Alagapuri Village, Koothandam, Sivagangai Taluk, Sivagangai District, Tamil Nadu</address>
+    <contact>30898017</contact>
+    <micrCode>630756202</micrCode>
+    <ifscCode>ESFB0001037</ifscCode>
+    <bankLoc>8314</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keezhayur, Madurai</name>
@@ -1599,7 +2562,7 @@
     <contact>30898015</contact>
     <micrCode>625756005</micrCode>
     <ifscCode>ESFB0001036</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kovilpalkayam</name>
@@ -1608,7 +2571,16 @@
     <contact>30898015</contact>
     <micrCode>641756005</micrCode>
     <ifscCode>ESFB0001035</ifscCode>
-    <bankLoc>9480</bankLoc>
+    <bankLoc>8301</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sirugamani</name>
+    <city>Trichy</city>
+    <address>NO -71 C 2, Karur Main Riad, Pettavaithalai South -sirugamani-trichy -639112.</address>
+    <contact>30898017</contact>
+    <micrCode>620756004</micrCode>
+    <ifscCode>ESFB0001034</ifscCode>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chinnavalyam</name>
@@ -1617,16 +2589,16 @@
     <contact>30898015</contact>
     <micrCode>621756003</micrCode>
     <ifscCode>ESFB0001033</ifscCode>
-    <bankLoc>9478</bankLoc>
+    <bankLoc>8299</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Krishnapuram, Ponneri</name>
     <city>Tiruvallur</city>
-    <address>Lo792wo3936krishnapuramvillagponnritalukthiruvallurdistricttamilnau</address>
+    <address>OLD S.NO.79/2, NEW S.NO.393/6, Krishnapuram Village, Ponneri Taluk, Thiruvallur District, Tamilnadu</address>
     <contact>30898015</contact>
     <micrCode>600756012</micrCode>
     <ifscCode>ESFB0001032</ifscCode>
-    <bankLoc>9497</bankLoc>
+    <bankLoc>8319</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kesavapuram, Nallur</name>
@@ -1635,7 +2607,7 @@
     <contact>30898015</contact>
     <micrCode>600756011</micrCode>
     <ifscCode>ESFB0001031</ifscCode>
-    <bankLoc>9497</bankLoc>
+    <bankLoc>8319</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anaikarai</name>
@@ -1644,7 +2616,7 @@
     <contact>30898015</contact>
     <micrCode>612756003</micrCode>
     <ifscCode>ESFB0001030</ifscCode>
-    <bankLoc>9493</bankLoc>
+    <bankLoc>8315</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trichy Road, Coimbatore</name>
@@ -1653,7 +2625,7 @@
     <contact>30898015</contact>
     <micrCode>641756004</micrCode>
     <ifscCode>ESFB0001029</ifscCode>
-    <bankLoc>9480</bankLoc>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>K K Nagar, Madurai</name>
@@ -1662,7 +2634,7 @@
     <contact>30898015</contact>
     <micrCode>625756004</micrCode>
     <ifscCode>ESFB0001028</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanganallur</name>
@@ -1671,7 +2643,7 @@
     <contact>30898015</contact>
     <micrCode>600756010</micrCode>
     <ifscCode>ESFB0001027</ifscCode>
-    <bankLoc>9484</bankLoc>
+    <bankLoc>8306</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhipuram, Coimbatore</name>
@@ -1680,7 +2652,7 @@
     <contact>30898015</contact>
     <micrCode>641756003</micrCode>
     <ifscCode>ESFB0001026</ifscCode>
-    <bankLoc>9480</bankLoc>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mogappair</name>
@@ -1689,7 +2661,7 @@
     <contact>30898017</contact>
     <micrCode>600756009</micrCode>
     <ifscCode>ESFB0001025</ifscCode>
-    <bankLoc>9497</bankLoc>
+    <bankLoc>8319</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saligramam</name>
@@ -1698,7 +2670,16 @@
     <contact>30898015</contact>
     <micrCode>600756008</micrCode>
     <ifscCode>ESFB0001024</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Katpadi Road, Vellore Town</name>
+    <city>Vellore</city>
+    <address>NO 1, Block NO 5, Katpadi Road, Dharmaraja Kovil Street, Vellore Town, Vellore District, Tamilnadu</address>
+    <contact>30898017</contact>
+    <micrCode>632756002</micrCode>
+    <ifscCode>ESFB0001023</ifscCode>
+    <bankLoc>8324</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madibakkam</name>
@@ -1707,25 +2688,34 @@
     <contact>30898017</contact>
     <micrCode>600756007</micrCode>
     <ifscCode>ESFB0001022</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manjakuppam Cuddalore</name>
     <city>Cuddalore</city>
-    <address>OATROMKMCLO67TML.</address>
+    <address>NO 13a, Nethaji Road, Manjakuppam, Cuddalore - 607001, Tamil NADU.</address>
     <contact>30898015</contact>
     <micrCode>605756003</micrCode>
     <ifscCode>ESFB0001021</ifscCode>
-    <bankLoc>9481</bankLoc>
+    <bankLoc>8302</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumbakonam</name>
     <city>Tanjavur</city>
-    <address>6GSU6.</address>
+    <address>NO 106, Sarangapani East Street, Kumbakonam-612 001.</address>
     <contact>30898017</contact>
     <micrCode>612756002</micrCode>
     <ifscCode>ESFB0001020</ifscCode>
-    <bankLoc>9493</bankLoc>
+    <bankLoc>8315</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thanjavur</name>
+    <city>Tanjavur</city>
+    <address>NO -1889, South Main Street, Thanjavur -613 001</address>
+    <contact>30898017</contact>
+    <micrCode>613756002</micrCode>
+    <ifscCode>ESFB0001019</ifscCode>
+    <bankLoc>8315</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Srirangam Trichy</name>
@@ -1734,7 +2724,7 @@
     <contact>30898017</contact>
     <micrCode>620756003</micrCode>
     <ifscCode>ESFB0001018</ifscCode>
-    <bankLoc>9500</bankLoc>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thillai Nagar Trichy</name>
@@ -1743,16 +2733,16 @@
     <contact>30898015</contact>
     <micrCode>620756002</micrCode>
     <ifscCode>ESFB0001017</ifscCode>
-    <bankLoc>9500</bankLoc>
+    <bankLoc>8322</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pudukottai</name>
     <city>Pudukottai</city>
-    <address>HCOPXHP5HNNWBDDO-00.</address>
+    <address>Muthu Meena Complex, Santhanapuram 5TH Street, Near NEW BUS Stand, Pudukottai-622 001.</address>
     <contact>30898015</contact>
     <micrCode>622756002</micrCode>
     <ifscCode>ESFB0001016</ifscCode>
-    <bankLoc>9490</bankLoc>
+    <bankLoc>8312</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dindigul Main</name>
@@ -1761,7 +2751,7 @@
     <contact>30898015</contact>
     <micrCode>625756003</micrCode>
     <ifscCode>ESFB0001015</ifscCode>
-    <bankLoc>9482</bankLoc>
+    <bankLoc>8303</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virudhunagar</name>
@@ -1770,7 +2760,7 @@
     <contact>30898015</contact>
     <micrCode>626756302</micrCode>
     <ifscCode>ESFB0001014</ifscCode>
-    <bankLoc>9504</bankLoc>
+    <bankLoc>8326</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajapalayam</name>
@@ -1779,7 +2769,7 @@
     <contact>30898015</contact>
     <micrCode>626756102</micrCode>
     <ifscCode>ESFB0001013</ifscCode>
-    <bankLoc>9504</bankLoc>
+    <bankLoc>8326</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thilak Nagar Tirunelveli</name>
@@ -1788,7 +2778,7 @@
     <contact>30898015</contact>
     <micrCode>627756002</micrCode>
     <ifscCode>ESFB0001012</ifscCode>
-    <bankLoc>9496</bankLoc>
+    <bankLoc>8318</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paramathi Velur Namakkal</name>
@@ -1797,7 +2787,7 @@
     <contact>30898015</contact>
     <micrCode>636756002</micrCode>
     <ifscCode>ESFB0001011</ifscCode>
-    <bankLoc>9491</bankLoc>
+    <bankLoc>8313</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sathyamangalam</name>
@@ -1806,7 +2796,7 @@
     <contact>30898015</contact>
     <micrCode>638756402</micrCode>
     <ifscCode>ESFB0001010</ifscCode>
-    <bankLoc>9483</bankLoc>
+    <bankLoc>8304</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R S Puram Coimbatore</name>
@@ -1815,7 +2805,7 @@
     <contact>30898015</contact>
     <micrCode>641756002</micrCode>
     <ifscCode>ESFB0001009</ifscCode>
-    <bankLoc>9480</bankLoc>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palladam Rural</name>
@@ -1824,7 +2814,7 @@
     <contact>30898017</contact>
     <micrCode>641756102</micrCode>
     <ifscCode>ESFB0001008</ifscCode>
-    <bankLoc>9480</bankLoc>
+    <bankLoc>8301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kamarajar Salai Madurai</name>
@@ -1833,7 +2823,7 @@
     <contact>30898015</contact>
     <micrCode>625756002</micrCode>
     <ifscCode>ESFB0001007</ifscCode>
-    <bankLoc>9487</bankLoc>
+    <bankLoc>8309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tambaram</name>
@@ -1842,7 +2832,7 @@
     <contact>30898017</contact>
     <micrCode>600756006</micrCode>
     <ifscCode>ESFB0001006</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pondicherry</name>
@@ -1851,7 +2841,7 @@
     <contact>30898015</contact>
     <micrCode>605756002</micrCode>
     <ifscCode>ESFB0001005</ifscCode>
-    <bankLoc>9464</bankLoc>
+    <bankLoc>8274</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Velachery</name>
@@ -1860,7 +2850,7 @@
     <contact>30898015</contact>
     <micrCode>600756005</micrCode>
     <ifscCode>ESFB0001004</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ashok Nagar</name>
@@ -1869,7 +2859,7 @@
     <contact>30898017</contact>
     <micrCode>600756004</micrCode>
     <ifscCode>ESFB0001003</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anna Nagar</name>
@@ -1878,7 +2868,7 @@
     <contact>30898015</contact>
     <micrCode>600756003</micrCode>
     <ifscCode>ESFB0001002</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>T Nagar Chennai</name>
@@ -1887,7 +2877,7 @@
     <contact>30898017</contact>
     <micrCode>600756002</micrCode>
     <ifscCode>ESFB0001001</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Equitas Treasury</name>
@@ -1896,6 +2886,6 @@
     <contact>30898017</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESFB0000002</ifscCode>
-    <bankLoc>9479</bankLoc>
+    <bankLoc>8300</bankLoc>
   </bankbranch>
 </bankBranchs>

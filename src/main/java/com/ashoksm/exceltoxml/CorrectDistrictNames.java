@@ -32,17 +32,24 @@ public class CorrectDistrictNames {
 			}
 			String district = row.getCell(7).getStringCellValue();
 			String newDistrict = null;
-			if (district.contains("DIST.")) {
+			if (district.contains("DISTRICT")) {
+				newDistrict = district.substring(district.indexOf("DISTRICT") + 8);
+			} else if (district.contains("DIST.")) {
 				newDistrict = district.substring(district.indexOf("DIST.") + 5);
-			} else if (district.contains("DIST")) {
-				newDistrict = district.substring(district.indexOf("DIST") + 4);
+			} else if (district.contains("DISTT.")) {
+				newDistrict = district.substring(district.indexOf("DISTT.") + 6);
 			} else if (district.contains("DISTT")) {
 				newDistrict = district.substring(district.indexOf("DISTT") + 5);
-			}
+			} else if (district.contains("DIST")) {
+				newDistrict = district.substring(district.indexOf("DIST") + 4);
+			} 
 			if (newDistrict != null) {
 				newDistrict = newDistrict.trim();
 				if (newDistrict.contains(")") && !newDistrict.contains("(")) {
 					newDistrict = newDistrict.replace(')', ' ').trim();
+				}
+				if(newDistrict.startsWith(".") || newDistrict.startsWith(":") || newDistrict.startsWith("-")) {
+					newDistrict = newDistrict.substring(1).trim();
 				}
 				row.getCell(7).setCellValue(newDistrict);
 			}

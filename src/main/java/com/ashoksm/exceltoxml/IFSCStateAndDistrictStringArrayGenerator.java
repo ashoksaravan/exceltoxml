@@ -209,6 +209,9 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("The Navnirman Co-Operative Bank Ltd");
 		BANK_NAMES.add("Ujjivan Small Finance Bank Ltd");
 		BANK_NAMES.add("The Baramati Sahakari Bank Ltd");
+		BANK_NAMES.add("Esaf Small Finance Bank Ltd");
+		BANK_NAMES.add("Suryoday Small Finance Bank Ltd");
+		BANK_NAMES.add("Utkarsh Small Finance Bank");
 	}
 
 	public static void main(String[] args) throws Exception {
