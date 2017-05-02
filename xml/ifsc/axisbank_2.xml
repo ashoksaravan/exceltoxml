@@ -1,12 +1,156 @@
 <bankBranchs>
   <bankbranch>
+    <name>North Zonal Office - NZO</name>
+    <city>NEW Delhi</city>
+    <address>5TH Floor, Ashoka Estate, Barakhamba Road, NEW Delhi 110 001</address>
+    <contact>0</contact>
+    <micrCode>11211999</micrCode>
+    <ifscCode>UTIB0000143</ifscCode>
+    <bankLoc>1257</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Patna</name>
+    <city>Patna</city>
+    <address>Saket Towers, S P Verma Road</address>
+    <contact>0</contact>
+    <micrCode>800211002</micrCode>
+    <ifscCode>UTIB0000142</ifscCode>
+    <bankLoc>1205</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Service BR (kolkata)</name>
+    <city>Kolkata</city>
+    <address>5 Shakespeare Sarani</address>
+    <contact>0</contact>
+    <micrCode>700211001</micrCode>
+    <ifscCode>UTIB0000141</ifscCode>
+    <bankLoc>1811</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Guwahati</name>
+    <city>Guwahati</city>
+    <address>Chibber House G S Road, Dispur</address>
+    <contact>0</contact>
+    <micrCode>781211002</micrCode>
+    <ifscCode>UTIB0000140</ifscCode>
+    <bankLoc>1164</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raipur (chhatisgarh)</name>
+    <city>Raipur</city>
+    <address>OPP NEW BUS Stand Jeevan Bima Marg  Pandri</address>
+    <contact>0</contact>
+    <micrCode>492211002</micrCode>
+    <ifscCode>UTIB0000139</ifscCode>
+    <bankLoc>1237</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Belgaum (karnataka)</name>
+    <city>Belgaum</city>
+    <address>CTS NO 5854, Congress Road  Tilakwadi</address>
+    <contact>0</contact>
+    <micrCode>590211002</micrCode>
+    <ifscCode>UTIB0000138</ifscCode>
+    <bankLoc>1377</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tiruchirapally (trichy)</name>
+    <city>Tiruchirappalli</city>
+    <address>NO 75 E/1, Salai Road  Thillai Nagar</address>
+    <contact>0</contact>
+    <micrCode>620211002</micrCode>
+    <ifscCode>UTIB0000137</ifscCode>
+    <bankLoc>1681</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kozhikode (calicut)</name>
+    <city>Calicut</city>
+    <address>Karupalli Arcade, Ymca  Cross Road</address>
+    <contact>0</contact>
+    <micrCode>673211002</micrCode>
+    <ifscCode>UTIB0000136</ifscCode>
+    <bankLoc>1424</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baramati (maharashtra)</name>
+    <city>Baramati</city>
+    <address>Plot NO 485, City Survey NO 881  Bhigwan Road</address>
+    <contact>0</contact>
+    <micrCode>413211002</micrCode>
+    <ifscCode>UTIB0000135</ifscCode>
+    <bankLoc>1512</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolhapur (maharashtra)</name>
+    <city>Kolhapur</city>
+    <address>Hotel &apos;panchshil&apos; 517, Shivaji Park, Station Road</address>
+    <contact>0</contact>
+    <micrCode>416211002</micrCode>
+    <ifscCode>UTIB0000134</ifscCode>
+    <bankLoc>1500</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanpur</name>
+    <city>Kanpur</city>
+    <address>18/179, THE Mall Road  OPP Phool Bagh</address>
+    <contact>0</contact>
+    <micrCode>208211002</micrCode>
+    <ifscCode>UTIB0000133</ifscCode>
+    <bankLoc>1752</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Palam (delhi)</name>
+    <city>Delhi</city>
+    <address>Wz-24 A, Palam Village</address>
+    <contact>0</contact>
+    <micrCode>110211018</micrCode>
+    <ifscCode>UTIB0000132</ifscCode>
+    <bankLoc>1257</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dlf-gurgaon (haryana)</name>
+    <city>Gurgaon</city>
+    <address>Sg-21 &amp; 22, Galleria Shopping Mall, Phase-iv, DLF Qutab Enclave Complex</address>
+    <contact>0</contact>
+    <micrCode>110211019</micrCode>
+    <ifscCode>UTIB0000131</ifscCode>
+    <bankLoc>1303</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mehsana (gujarat)</name>
+    <city>Mahesana</city>
+    <address>Shri S&apos;ad Vidya Mandal Institute OF Technolog  NR.NAGALPUR College Highway Road</address>
+    <contact>0</contact>
+    <micrCode>384211002</micrCode>
+    <ifscCode>UTIB0000130</ifscCode>
+    <bankLoc>1283</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hubli (karnataka)</name>
+    <city>Hubli-dharwad</city>
+    <address>Kalburgi Plaza &apos;, 163/20a, Main Road, Deshpande Nagar Hubli</address>
+    <contact>0</contact>
+    <micrCode>580211002</micrCode>
+    <ifscCode>UTIB0000129</ifscCode>
+    <bankLoc>1389</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jabalpur (M P )</name>
+    <city>Jabalpur</city>
+    <address>124, Napier Town, Commercial Automobiles Bldg, Shastri Chowk Bridge</address>
+    <contact>0</contact>
+    <micrCode>482211001</micrCode>
+    <ifscCode>UTIB0000128</ifscCode>
+    <bankLoc>1452</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Chennai Service BR</name>
     <city>Chennai</city>
     <address>First Floor 82, DR. Radhakrishnan Salai, Mylapore</address>
     <contact>0</contact>
     <micrCode>600211001</micrCode>
     <ifscCode>UTIB0000127</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lajpat Nagar (new Delhi)</name>
@@ -15,7 +159,7 @@
     <contact>0</contact>
     <micrCode>110211017</micrCode>
     <ifscCode>UTIB0000126</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dombivli (mumbai)</name>
@@ -24,7 +168,7 @@
     <contact>0</contact>
     <micrCode>400211018</micrCode>
     <ifscCode>UTIB0000125</ifscCode>
-    <bankLoc>1517</bankLoc>
+    <bankLoc>1520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dadar (mumbai)</name>
@@ -33,7 +177,7 @@
     <contact>0</contact>
     <micrCode>400211017</micrCode>
     <ifscCode>UTIB0000124</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karur (tamil Nadu)</name>
@@ -42,7 +186,7 @@
     <contact>0</contact>
     <micrCode>639211002</micrCode>
     <ifscCode>UTIB0000123</ifscCode>
-    <bankLoc>1660</bankLoc>
+    <bankLoc>1664</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Service BR (hyderabad)</name>
@@ -51,7 +195,7 @@
     <contact>0</contact>
     <micrCode>500211001</micrCode>
     <ifscCode>UTIB0000122</ifscCode>
-    <bankLoc>1124</bankLoc>
+    <bankLoc>1126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Margao (goa)</name>
@@ -60,7 +204,7 @@
     <contact>0</contact>
     <micrCode>403211002</micrCode>
     <ifscCode>UTIB0000121</ifscCode>
-    <bankLoc>1259</bankLoc>
+    <bankLoc>1262</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khan Market (new Delhi)</name>
@@ -69,7 +213,7 @@
     <contact>0</contact>
     <micrCode>110211016</micrCode>
     <ifscCode>UTIB0000120</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasant Kunj (nd)</name>
@@ -78,7 +222,7 @@
     <contact>0</contact>
     <micrCode>110211015</micrCode>
     <ifscCode>UTIB0000119</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Erode (tamil Nadu)</name>
@@ -87,7 +231,7 @@
     <contact>0</contact>
     <micrCode>638211002</micrCode>
     <ifscCode>UTIB0000118</ifscCode>
-    <bankLoc>1655</bankLoc>
+    <bankLoc>1658</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi Service BR</name>
@@ -96,7 +240,7 @@
     <contact>0</contact>
     <micrCode>110211001</micrCode>
     <ifscCode>UTIB0000117</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Howrah (west Bengal)</name>
@@ -105,7 +249,7 @@
     <contact>0</contact>
     <micrCode>700211012</micrCode>
     <ifscCode>UTIB0000116</ifscCode>
-    <bankLoc>1803</bankLoc>
+    <bankLoc>1807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nashik (maharastra)</name>
@@ -114,7 +258,7 @@
     <contact>0</contact>
     <micrCode>422211002</micrCode>
     <ifscCode>UTIB0000115</ifscCode>
-    <bankLoc>1503</bankLoc>
+    <bankLoc>1506</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indiranagar (bangalore)</name>
@@ -123,7 +267,7 @@
     <contact>0</contact>
     <micrCode>560211007</micrCode>
     <ifscCode>UTIB0000114</ifscCode>
-    <bankLoc>1373</bankLoc>
+    <bankLoc>1376</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvananthapuram</name>
@@ -132,7 +276,7 @@
     <contact>0</contact>
     <micrCode>695211002</micrCode>
     <ifscCode>UTIB0000113</ifscCode>
-    <bankLoc>1429</bankLoc>
+    <bankLoc>1432</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangtok</name>
@@ -141,7 +285,7 @@
     <contact>0</contact>
     <micrCode>737211002</micrCode>
     <ifscCode>UTIB0000112</ifscCode>
-    <bankLoc>1645</bankLoc>
+    <bankLoc>1648</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vapi (gujrat)</name>
@@ -150,7 +294,7 @@
     <contact>0</contact>
     <micrCode>396211003</micrCode>
     <ifscCode>UTIB0000111</ifscCode>
-    <bankLoc>1294</bankLoc>
+    <bankLoc>1297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wanawadi (pune)</name>
@@ -159,7 +303,7 @@
     <contact>0</contact>
     <micrCode>411211006</micrCode>
     <ifscCode>UTIB0000110</ifscCode>
-    <bankLoc>1509</bankLoc>
+    <bankLoc>1512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madurai</name>
@@ -168,7 +312,7 @@
     <contact>0</contact>
     <micrCode>625211002</micrCode>
     <ifscCode>UTIB0000109</ifscCode>
-    <bankLoc>1662</bankLoc>
+    <bankLoc>1666</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulund</name>
@@ -177,7 +321,7 @@
     <contact>0</contact>
     <micrCode>400211016</micrCode>
     <ifscCode>UTIB0000108</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajahmundry (andhra Pradesh)</name>
@@ -186,7 +330,7 @@
     <contact>0</contact>
     <micrCode>533211003</micrCode>
     <ifscCode>UTIB0000107</ifscCode>
-    <bankLoc>1121</bankLoc>
+    <bankLoc>1123</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranchi (jharkhand)</name>
@@ -195,7 +339,7 @@
     <contact>0</contact>
     <micrCode>834211002</micrCode>
     <ifscCode>UTIB0000106</ifscCode>
-    <bankLoc>1363</bankLoc>
+    <bankLoc>1366</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tuticorin (tamil Nadu)</name>
@@ -204,7 +348,7 @@
     <contact>0</contact>
     <micrCode>628211002</micrCode>
     <ifscCode>UTIB0000105</ifscCode>
-    <bankLoc>1676</bankLoc>
+    <bankLoc>1680</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kothrud (pune)</name>
@@ -213,7 +357,7 @@
     <contact>0</contact>
     <micrCode>411211004</micrCode>
     <ifscCode>UTIB0000104</ifscCode>
-    <bankLoc>1509</bankLoc>
+    <bankLoc>1512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pimpri-chinchwad (pune)</name>
@@ -222,7 +366,7 @@
     <contact>0</contact>
     <micrCode>411211005</micrCode>
     <ifscCode>UTIB0000103</ifscCode>
-    <bankLoc>1509</bankLoc>
+    <bankLoc>1512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banashankari (ban)</name>
@@ -231,7 +375,7 @@
     <contact>0</contact>
     <micrCode>560211005</micrCode>
     <ifscCode>UTIB0000102</ifscCode>
-    <bankLoc>1373</bankLoc>
+    <bankLoc>1376</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Central Processing Unit</name>
@@ -240,7 +384,7 @@
     <contact>71314466</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTIB0000101</ifscCode>
-    <bankLoc>1517</bankLoc>
+    <bankLoc>1520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ATM Reconcliation Cell</name>
@@ -249,7 +393,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTIB0000100</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Treasury</name>
@@ -258,7 +402,7 @@
     <contact>0</contact>
     <micrCode>400211099</micrCode>
     <ifscCode>UTIB0000099</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nabha (punjab)</name>
@@ -267,7 +411,7 @@
     <contact>0</contact>
     <micrCode>147211002</micrCode>
     <ifscCode>UTIB0000098</ifscCode>
-    <bankLoc>1602</bankLoc>
+    <bankLoc>1605</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udaipur  (rajasthan)</name>
@@ -276,7 +420,7 @@
     <contact>0</contact>
     <micrCode>313211002</micrCode>
     <ifscCode>UTIB0000097</ifscCode>
-    <bankLoc>1644</bankLoc>
+    <bankLoc>1647</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paschim Vihar</name>
@@ -285,7 +429,7 @@
     <contact>0</contact>
     <micrCode>110211013</micrCode>
     <ifscCode>UTIB0000096</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghaziabad</name>
@@ -294,7 +438,7 @@
     <contact>0</contact>
     <micrCode>110211014</micrCode>
     <ifscCode>UTIB0000095</ifscCode>
-    <bankLoc>1731</bankLoc>
+    <bankLoc>1735</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yelahanka</name>
@@ -303,7 +447,7 @@
     <contact>0</contact>
     <micrCode>560211006</micrCode>
     <ifscCode>UTIB0000094</ifscCode>
-    <bankLoc>1373</bankLoc>
+    <bankLoc>1376</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dehradun</name>
@@ -312,7 +456,7 @@
     <contact>0</contact>
     <micrCode>248211002</micrCode>
     <ifscCode>UTIB0000093</ifscCode>
-    <bankLoc>1235</bankLoc>
+    <bankLoc>1237</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Service BR Mumbai</name>
@@ -321,7 +465,7 @@
     <contact>0</contact>
     <micrCode>400211001</micrCode>
     <ifscCode>UTIB0000092</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cuttack  (orissa)</name>
@@ -330,7 +474,7 @@
     <contact>0</contact>
     <micrCode>751211102</micrCode>
     <ifscCode>UTIB0000091</ifscCode>
-    <bankLoc>1550</bankLoc>
+    <bankLoc>1553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Coimbatore</name>
@@ -339,7 +483,7 @@
     <contact>0</contact>
     <micrCode>641211002</micrCode>
     <ifscCode>UTIB0000090</ifscCode>
-    <bankLoc>1651</bankLoc>
+    <bankLoc>1654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sivakasi (tamil Nadu)</name>
@@ -348,7 +492,7 @@
     <contact>0</contact>
     <micrCode>626211002</micrCode>
     <ifscCode>UTIB0000089</ifscCode>
-    <bankLoc>1689</bankLoc>
+    <bankLoc>1693</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kapurthala (punjab)</name>
@@ -357,7 +501,7 @@
     <contact>0</contact>
     <micrCode>144211003</micrCode>
     <ifscCode>UTIB0000088</ifscCode>
-    <bankLoc>1593</bankLoc>
+    <bankLoc>1596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajkot (gujrat)</name>
@@ -366,7 +510,7 @@
     <contact>0</contact>
     <micrCode>360211002</micrCode>
     <ifscCode>UTIB0000087</ifscCode>
-    <bankLoc>1293</bankLoc>
+    <bankLoc>1296</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agra  (up)</name>
@@ -375,7 +519,7 @@
     <contact>0</contact>
     <micrCode>282211002</micrCode>
     <ifscCode>UTIB0000086</ifscCode>
-    <bankLoc>1704</bankLoc>
+    <bankLoc>1708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohali</name>
@@ -384,7 +528,7 @@
     <contact>0</contact>
     <micrCode>160211003</micrCode>
     <ifscCode>UTIB0000085</ifscCode>
-    <bankLoc>1604</bankLoc>
+    <bankLoc>1607</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shyambazar (calcutta)</name>
@@ -393,7 +537,7 @@
     <contact>0</contact>
     <micrCode>700211011</micrCode>
     <ifscCode>UTIB0000084</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madipakkam</name>
@@ -402,7 +546,7 @@
     <contact>0</contact>
     <micrCode>600211007</micrCode>
     <ifscCode>UTIB0000083</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adyar</name>
@@ -411,7 +555,7 @@
     <contact>0</contact>
     <micrCode>600211006</micrCode>
     <ifscCode>UTIB0000082</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kochi</name>
@@ -420,7 +564,7 @@
     <contact>0</contact>
     <micrCode>682211002</micrCode>
     <ifscCode>UTIB0000081</ifscCode>
-    <bankLoc>1414</bankLoc>
+    <bankLoc>1417</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maninagar</name>
@@ -429,7 +573,7 @@
     <contact>0</contact>
     <micrCode>380211005</micrCode>
     <ifscCode>UTIB0000080</ifscCode>
-    <bankLoc>1262</bankLoc>
+    <bankLoc>1265</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vikaspuri</name>
@@ -438,7 +582,7 @@
     <contact>0</contact>
     <micrCode>110211012</micrCode>
     <ifscCode>UTIB0000079</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panaji (goa)</name>
@@ -447,7 +591,7 @@
     <contact>0</contact>
     <micrCode>403211003</micrCode>
     <ifscCode>UTIB0000078</ifscCode>
-    <bankLoc>1258</bankLoc>
+    <bankLoc>1260</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore</name>
@@ -456,7 +600,7 @@
     <contact>0</contact>
     <micrCode>575211003</micrCode>
     <ifscCode>UTIB0000077</ifscCode>
-    <bankLoc>1383</bankLoc>
+    <bankLoc>1386</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakinada, Andhra  Pradesh</name>
@@ -465,7 +609,7 @@
     <contact>0</contact>
     <micrCode>533211002</micrCode>
     <ifscCode>UTIB0000076</ifscCode>
-    <bankLoc>1121</bankLoc>
+    <bankLoc>1123</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gajuwaka</name>
@@ -474,7 +618,7 @@
     <contact>0</contact>
     <micrCode>530211002</micrCode>
     <ifscCode>UTIB0000075</ifscCode>
-    <bankLoc>1142</bankLoc>
+    <bankLoc>1144</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramapuram, Chennai</name>
@@ -483,7 +627,7 @@
     <contact>0</contact>
     <micrCode>600211005</micrCode>
     <ifscCode>UTIB0000074</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bund Garden Road Branch, Pune</name>
@@ -492,7 +636,7 @@
     <contact>0</contact>
     <micrCode>411211003</micrCode>
     <ifscCode>UTIB0000073</ifscCode>
-    <bankLoc>1509</bankLoc>
+    <bankLoc>1512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vashi</name>
@@ -501,7 +645,7 @@
     <contact>0</contact>
     <micrCode>400211015</micrCode>
     <ifscCode>UTIB0000072</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Phagwara</name>
@@ -510,7 +654,7 @@
     <contact>0</contact>
     <micrCode>144211002</micrCode>
     <ifscCode>UTIB0000071</ifscCode>
-    <bankLoc>1593</bankLoc>
+    <bankLoc>1596</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guntur</name>
@@ -519,7 +663,7 @@
     <contact>0</contact>
     <micrCode>522211102</micrCode>
     <ifscCode>UTIB0000070</ifscCode>
-    <bankLoc>1122</bankLoc>
+    <bankLoc>1124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijayawada</name>
@@ -528,7 +672,7 @@
     <contact>0</contact>
     <micrCode>520211002</micrCode>
     <ifscCode>UTIB0000069</ifscCode>
-    <bankLoc>1130</bankLoc>
+    <bankLoc>1132</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Secunderabad</name>
@@ -537,7 +681,7 @@
     <contact>0</contact>
     <micrCode>500211005</micrCode>
     <ifscCode>UTIB0000068</ifscCode>
-    <bankLoc>1124</bankLoc>
+    <bankLoc>1126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panchkula</name>
@@ -546,7 +690,7 @@
     <contact>0</contact>
     <micrCode>160211002</micrCode>
     <ifscCode>UTIB0000067</ifscCode>
-    <bankLoc>1310</bankLoc>
+    <bankLoc>1313</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajouri Garden</name>
@@ -555,7 +699,7 @@
     <contact>0</contact>
     <micrCode>110211011</micrCode>
     <ifscCode>UTIB0000066</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basaveshwar Nagar, Bangalore</name>
@@ -564,7 +708,7 @@
     <contact>0</contact>
     <micrCode>560211004</micrCode>
     <ifscCode>UTIB0000065</ifscCode>
-    <bankLoc>1373</bankLoc>
+    <bankLoc>1376</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vile Parle -(WEST) -mumbai</name>
@@ -573,7 +717,7 @@
     <contact>0</contact>
     <micrCode>400211014</micrCode>
     <ifscCode>UTIB0000064</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chembur</name>
@@ -582,7 +726,7 @@
     <contact>0</contact>
     <micrCode>400211012</micrCode>
     <ifscCode>UTIB0000063</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malad</name>
@@ -591,7 +735,7 @@
     <contact>0</contact>
     <micrCode>400211011</micrCode>
     <ifscCode>UTIB0000062</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thane</name>
@@ -600,7 +744,7 @@
     <contact>0</contact>
     <micrCode>400211013</micrCode>
     <ifscCode>UTIB0000061</ifscCode>
-    <bankLoc>1517</bankLoc>
+    <bankLoc>1520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Worli</name>
@@ -609,7 +753,7 @@
     <contact>0</contact>
     <micrCode>400211010</micrCode>
     <ifscCode>UTIB0000060</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valsad</name>
@@ -618,7 +762,7 @@
     <contact>0</contact>
     <micrCode>396211002</micrCode>
     <ifscCode>UTIB0000059</ifscCode>
-    <bankLoc>1294</bankLoc>
+    <bankLoc>1297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vejalpur</name>
@@ -627,7 +771,7 @@
     <contact>0</contact>
     <micrCode>380211004</micrCode>
     <ifscCode>UTIB0000058</ifscCode>
-    <bankLoc>1262</bankLoc>
+    <bankLoc>1265</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur</name>
@@ -636,7 +780,7 @@
     <contact>0</contact>
     <micrCode>342211002</micrCode>
     <ifscCode>UTIB0000057</ifscCode>
-    <bankLoc>1631</bankLoc>
+    <bankLoc>1634</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurgaon</name>
@@ -645,7 +789,7 @@
     <contact>0</contact>
     <micrCode>110211008</micrCode>
     <ifscCode>UTIB0000056</ifscCode>
-    <bankLoc>1300</bankLoc>
+    <bankLoc>1303</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Swasthya Vihar - NEW Delhi</name>
@@ -654,7 +798,7 @@
     <contact>0</contact>
     <micrCode>110211010</micrCode>
     <ifscCode>UTIB0000055</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shakti Nagar</name>
@@ -663,7 +807,7 @@
     <contact>0</contact>
     <micrCode>110211009</micrCode>
     <ifscCode>UTIB0000054</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lucknow</name>
@@ -672,7 +816,7 @@
     <contact>0</contact>
     <micrCode>226211002</micrCode>
     <ifscCode>UTIB0000053</ifscCode>
-    <bankLoc>1754</bankLoc>
+    <bankLoc>1758</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jayanagar</name>
@@ -681,7 +825,7 @@
     <contact>0</contact>
     <micrCode>560211003</micrCode>
     <ifscCode>UTIB0000052</ifscCode>
-    <bankLoc>1373</bankLoc>
+    <bankLoc>1376</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottayam</name>
@@ -690,7 +834,7 @@
     <contact>0</contact>
     <micrCode>686211002</micrCode>
     <ifscCode>UTIB0000051</ifscCode>
-    <bankLoc>1420</bankLoc>
+    <bankLoc>1423</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shimla</name>
@@ -699,7 +843,7 @@
     <contact>0</contact>
     <micrCode>171211002</micrCode>
     <ifscCode>UTIB0000050</ifscCode>
-    <bankLoc>1322</bankLoc>
+    <bankLoc>1325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Greater Kailash</name>
@@ -708,7 +852,7 @@
     <contact>0</contact>
     <micrCode>110211007</micrCode>
     <ifscCode>UTIB0000049</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagpur</name>
@@ -717,7 +861,7 @@
     <contact>0</contact>
     <micrCode>440211002</micrCode>
     <ifscCode>UTIB0000048</ifscCode>
-    <bankLoc>1500</bankLoc>
+    <bankLoc>1503</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat</name>
@@ -726,7 +870,7 @@
     <contact>0</contact>
     <micrCode>395211002</micrCode>
     <ifscCode>UTIB0000047</ifscCode>
-    <bankLoc>1291</bankLoc>
+    <bankLoc>1294</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thrissur</name>
@@ -735,7 +879,7 @@
     <contact>0</contact>
     <micrCode>680211002</micrCode>
     <ifscCode>UTIB0000046</ifscCode>
-    <bankLoc>1428</bankLoc>
+    <bankLoc>1431</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tollygunge</name>
@@ -744,7 +888,7 @@
     <contact>0</contact>
     <micrCode>700211010</micrCode>
     <ifscCode>UTIB0000045</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal</name>
@@ -753,7 +897,7 @@
     <contact>0</contact>
     <micrCode>462211002</micrCode>
     <ifscCode>UTIB0000044</ifscCode>
-    <bankLoc>1436</bankLoc>
+    <bankLoc>1439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indore</name>
@@ -762,7 +906,7 @@
     <contact>0</contact>
     <micrCode>452211002</micrCode>
     <ifscCode>UTIB0000043</ifscCode>
-    <bankLoc>1448</bankLoc>
+    <bankLoc>1451</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ludhiana</name>
@@ -771,7 +915,7 @@
     <contact>0</contact>
     <micrCode>141211002</micrCode>
     <ifscCode>UTIB0000042</ifscCode>
-    <bankLoc>1594</bankLoc>
+    <bankLoc>1597</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandigarh</name>
@@ -780,7 +924,7 @@
     <contact>0</contact>
     <micrCode>160211001</micrCode>
     <ifscCode>UTIB0000041</ifscCode>
-    <bankLoc>1221</bankLoc>
+    <bankLoc>1223</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pitampura</name>
@@ -789,7 +933,7 @@
     <contact>0</contact>
     <micrCode>110211006</micrCode>
     <ifscCode>UTIB0000040</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ballabhgarh</name>
@@ -798,7 +942,7 @@
     <contact>0</contact>
     <micrCode>110211005</micrCode>
     <ifscCode>UTIB0000039</ifscCode>
-    <bankLoc>1298</bankLoc>
+    <bankLoc>1301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vallabh Vidyanagar, Gujrat</name>
@@ -807,7 +951,7 @@
     <contact>660200</contact>
     <micrCode>388211002</micrCode>
     <ifscCode>UTIB0000038</ifscCode>
-    <bankLoc>1265</bankLoc>
+    <bankLoc>1268</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune</name>
@@ -816,7 +960,7 @@
     <contact>0</contact>
     <micrCode>411211002</micrCode>
     <ifscCode>UTIB0000037</ifscCode>
-    <bankLoc>1509</bankLoc>
+    <bankLoc>1512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panvel</name>
@@ -825,7 +969,7 @@
     <contact>0</contact>
     <micrCode>400211009</micrCode>
     <ifscCode>UTIB0000036</ifscCode>
-    <bankLoc>1510</bankLoc>
+    <bankLoc>1513</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Siliguri</name>
@@ -834,7 +978,7 @@
     <contact>0</contact>
     <micrCode>734211002</micrCode>
     <ifscCode>UTIB0000035</ifscCode>
-    <bankLoc>1798</bankLoc>
+    <bankLoc>1802</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Behala</name>
@@ -843,7 +987,7 @@
     <contact>0</contact>
     <micrCode>700211009</micrCode>
     <ifscCode>UTIB0000034</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Konnagar</name>
@@ -852,7 +996,7 @@
     <contact>0</contact>
     <micrCode>700211008</micrCode>
     <ifscCode>UTIB0000033</ifscCode>
-    <bankLoc>1802</bankLoc>
+    <bankLoc>1806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vastrapur</name>
@@ -861,7 +1005,7 @@
     <contact>0</contact>
     <micrCode>380211003</micrCode>
     <ifscCode>UTIB0000032</ifscCode>
-    <bankLoc>1262</bankLoc>
+    <bankLoc>1265</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tilak Nagar, Jaipur</name>
@@ -870,7 +1014,7 @@
     <contact>0</contact>
     <micrCode>302211003</micrCode>
     <ifscCode>UTIB0000031</ifscCode>
-    <bankLoc>1626</bankLoc>
+    <bankLoc>1629</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jubilee Hills, Hyderabad</name>
@@ -879,7 +1023,7 @@
     <contact>0</contact>
     <micrCode>500211004</micrCode>
     <ifscCode>UTIB0000030</ifscCode>
-    <bankLoc>1124</bankLoc>
+    <bankLoc>1126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghatkopar</name>
@@ -888,7 +1032,7 @@
     <contact>0</contact>
     <micrCode>400211008</micrCode>
     <ifscCode>UTIB0000029</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>UTI Bank, Bandra</name>
@@ -897,7 +1041,7 @@
     <contact>0</contact>
     <micrCode>400211007</micrCode>
     <ifscCode>UTIB0000028</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tarnaka</name>
@@ -906,7 +1050,7 @@
     <contact>0</contact>
     <micrCode>500211003</micrCode>
     <ifscCode>UTIB0000027</ifscCode>
-    <bankLoc>1124</bankLoc>
+    <bankLoc>1126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baguiati</name>
@@ -915,7 +1059,7 @@
     <contact>0</contact>
     <micrCode>700211007</micrCode>
     <ifscCode>UTIB0000026</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salt Lake City -kolkata</name>
@@ -924,7 +1068,7 @@
     <contact>0</contact>
     <micrCode>700211006</micrCode>
     <ifscCode>UTIB0000025</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhubaneshwar</name>
@@ -933,7 +1077,7 @@
     <contact>0</contact>
     <micrCode>751211002</micrCode>
     <ifscCode>UTIB0000024</ifscCode>
-    <bankLoc>1563</bankLoc>
+    <bankLoc>1566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virar</name>
@@ -942,7 +1086,7 @@
     <contact>0</contact>
     <micrCode>400211005</micrCode>
     <ifscCode>UTIB0000023</ifscCode>
-    <bankLoc>1517</bankLoc>
+    <bankLoc>1520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Noida</name>
@@ -951,7 +1095,7 @@
     <contact>0</contact>
     <micrCode>110211004</micrCode>
     <ifscCode>UTIB0000022</ifscCode>
-    <bankLoc>1728</bankLoc>
+    <bankLoc>1732</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nabapally</name>
@@ -960,7 +1104,7 @@
     <contact>0</contact>
     <micrCode>700211005</micrCode>
     <ifscCode>UTIB0000021</ifscCode>
-    <bankLoc>1813</bankLoc>
+    <bankLoc>1817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andheri</name>
@@ -969,7 +1113,7 @@
     <contact>0</contact>
     <micrCode>400211006</micrCode>
     <ifscCode>UTIB0000020</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasai</name>
@@ -978,7 +1122,7 @@
     <contact>0</contact>
     <micrCode>400211004</micrCode>
     <ifscCode>UTIB0000019</ifscCode>
-    <bankLoc>1517</bankLoc>
+    <bankLoc>1520</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Borivali (WEST)</name>
@@ -987,7 +1131,7 @@
     <contact>0</contact>
     <micrCode>400211003</micrCode>
     <ifscCode>UTIB0000018</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kankurgachi</name>
@@ -996,7 +1140,7 @@
     <contact>0</contact>
     <micrCode>700211004</micrCode>
     <ifscCode>UTIB0000017</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anna Nagar, Chennai</name>
@@ -1005,7 +1149,7 @@
     <contact>0</contact>
     <micrCode>600211004</micrCode>
     <ifscCode>UTIB0000016</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Green Park</name>
@@ -1014,7 +1158,7 @@
     <contact>0</contact>
     <micrCode>110211003</micrCode>
     <ifscCode>UTIB0000015</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>T Nagar</name>
@@ -1023,7 +1167,7 @@
     <contact>0</contact>
     <micrCode>600211003</micrCode>
     <ifscCode>UTIB0000014</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadodara</name>
@@ -1032,7 +1176,7 @@
     <contact>0</contact>
     <micrCode>390211002</micrCode>
     <ifscCode>UTIB0000013</ifscCode>
-    <bankLoc>1293</bankLoc>
+    <bankLoc>1296</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamshedpur</name>
@@ -1041,7 +1185,7 @@
     <contact>0</contact>
     <micrCode>831211002</micrCode>
     <ifscCode>UTIB0000012</ifscCode>
-    <bankLoc>1362</bankLoc>
+    <bankLoc>1365</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Golpark</name>
@@ -1050,7 +1194,7 @@
     <contact>0</contact>
     <micrCode>700211003</micrCode>
     <ifscCode>UTIB0000011</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
@@ -1059,7 +1203,7 @@
     <contact>0</contact>
     <micrCode>302211002</micrCode>
     <ifscCode>UTIB0000010</ifscCode>
-    <bankLoc>1626</bankLoc>
+    <bankLoc>1629</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -1068,7 +1212,7 @@
     <contact>0</contact>
     <micrCode>560211002</micrCode>
     <ifscCode>UTIB0000009</ifscCode>
-    <bankLoc>1373</bankLoc>
+    <bankLoc>1376</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hyderabad</name>
@@ -1077,7 +1221,7 @@
     <contact>0</contact>
     <micrCode>500211002</micrCode>
     <ifscCode>UTIB0000008</ifscCode>
-    <bankLoc>1124</bankLoc>
+    <bankLoc>1126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Delhi</name>
@@ -1086,7 +1230,7 @@
     <contact>0</contact>
     <micrCode>110211002</micrCode>
     <ifscCode>UTIB0000007</ifscCode>
-    <bankLoc>1255</bankLoc>
+    <bankLoc>1257</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai</name>
@@ -1095,7 +1239,7 @@
     <contact>0</contact>
     <micrCode>600211002</micrCode>
     <ifscCode>UTIB0000006</ifscCode>
-    <bankLoc>1649</bankLoc>
+    <bankLoc>1652</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolkata Branch</name>
@@ -1104,7 +1248,7 @@
     <contact>0</contact>
     <micrCode>700211002</micrCode>
     <ifscCode>UTIB0000005</ifscCode>
-    <bankLoc>1807</bankLoc>
+    <bankLoc>1811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai Branch</name>
@@ -1113,7 +1257,7 @@
     <contact>0</contact>
     <micrCode>400211002</micrCode>
     <ifscCode>UTIB0000004</ifscCode>
-    <bankLoc>1493</bankLoc>
+    <bankLoc>1496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad Branch</name>
@@ -1122,6 +1266,6 @@
     <contact>0</contact>
     <micrCode>380211002</micrCode>
     <ifscCode>UTIB0000003</ifscCode>
-    <bankLoc>1262</bankLoc>
+    <bankLoc>1265</bankLoc>
   </bankbranch>
 </bankBranchs>

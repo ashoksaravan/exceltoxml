@@ -2439,6 +2439,15 @@
     <bankLoc>472</bankLoc>
   </bankbranch>
   <bankbranch>
+    <name>Allahabad UP Gramin -purena</name>
+    <city>Bahraich</city>
+    <address>Purena, TEH.BAHRAICH, 271801</address>
+    <contact>2147483647</contact>
+    <micrCode>271699560</micrCode>
+    <ifscCode>ALLA0AU1387</ifscCode>
+    <bankLoc>544</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Guwahati Main Branch</name>
     <city>Guwahati</city>
     <address>H. B. Road, Machowa, OPP. OF Astc BUS Stand Machkhowa, Guwahati</address>
@@ -31489,14 +31498,5 @@
     <micrCode>520010302</micrCode>
     <ifscCode>ALLA0213476</ifscCode>
     <bankLoc>461</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hirma</name>
-    <city>Jharsuguda</city>
-    <address>Rajeev Gandhi Seva Kendra, At/po - Hirma, DT. Jharsuguda, PIN - 768202, Odisha</address>
-    <contact>2147483647</contact>
-    <micrCode>768010503</micrCode>
-    <ifscCode>ALLA0213477</ifscCode>
-    <bankLoc>368</bankLoc>
   </bankbranch>
 </bankBranchs>

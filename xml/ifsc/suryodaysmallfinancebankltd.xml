@@ -1,12 +1,66 @@
 <bankBranchs>
   <bankbranch>
+    <name>Mahalunge</name>
+    <city>Pune</city>
+    <address>House Number H 386, Mhalunge BUS Stop, Pune</address>
+    <contact>0</contact>
+    <micrCode>411757502</micrCode>
+    <ifscCode>SURY0000027</ifscCode>
+    <bankLoc>20846</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>T.NAGAR</name>
+    <city>Chennai</city>
+    <address>Lharmonie, NO 30, Bazullah Road, T.NAGAR, Chennai</address>
+    <contact>0</contact>
+    <micrCode>600757002</micrCode>
+    <ifscCode>SURY0000025</ifscCode>
+    <bankLoc>20848</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thillai Nagar</name>
+    <city>Tiruchirapalli</city>
+    <address>Premise Number C 56, Ground Floor, 11th Cross Road, Thillai Nagar, Main Road, Tiruchiirappalli</address>
+    <contact>0</contact>
+    <micrCode>620757002</micrCode>
+    <ifscCode>SURY0000023</ifscCode>
+    <bankLoc>20850</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pulliyakulam Road</name>
+    <city>Coimbatore</city>
+    <address>Plot Number 642, SRI RAM Apartments, Ground Floor 5, 6,laxmi Mill Junction, Pulliyakulam Road, Coimbatore</address>
+    <contact>0</contact>
+    <micrCode>641757002</micrCode>
+    <ifscCode>SURY0000022</ifscCode>
+    <bankLoc>20849</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamraj Nagar</name>
+    <city>Puducherry</city>
+    <address>Ground Floor, S J Modern Tower, AT NO.13, Vallalar Salai, Kamraj Nagar, Puducherry</address>
+    <contact>0</contact>
+    <micrCode>605757002</micrCode>
+    <ifscCode>SURY0000020</ifscCode>
+    <bankLoc>20847</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Navrangpura</name>
+    <city>Ahmedabad</city>
+    <address>Ground Floor Shop, Samarpan Building, Near Swastik Cross Road, Near US Pizza, Navrangpura, Ahmedabad</address>
+    <contact>0</contact>
+    <micrCode>380757001</micrCode>
+    <ifscCode>SURY0000018</ifscCode>
+    <bankLoc>20843</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Sadashivpeth</name>
     <city>Pune</city>
     <address>Shop Numer 9, AND 4, Suvidha Smita Apartments, Sadashiv Peth, Pune</address>
     <contact>0</contact>
     <micrCode>411757004</micrCode>
     <ifscCode>SURY0000017</ifscCode>
-    <bankLoc>20773</bankLoc>
+    <bankLoc>20846</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chinchwad</name>
@@ -15,7 +69,7 @@
     <contact>0</contact>
     <micrCode>411757003</micrCode>
     <ifscCode>SURY0000016</ifscCode>
-    <bankLoc>20773</bankLoc>
+    <bankLoc>20846</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kothrud</name>
@@ -24,25 +78,25 @@
     <contact>0</contact>
     <micrCode>411757002</micrCode>
     <ifscCode>SURY0000015</ifscCode>
-    <bankLoc>20773</bankLoc>
+    <bankLoc>20846</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thane</name>
-    <city>Mumbai</city>
+    <city>Thane</city>
     <address>G-1 X Shopping Center, Flower Valley CHS Ltd, Next TO State Bank OF Hyderabad, Eastern Express Highway Thane( West), Opposite Viviana Mall, Mumbai</address>
     <contact>0</contact>
     <micrCode>400757005</micrCode>
     <ifscCode>SURY0000014</ifscCode>
-    <bankLoc>20774</bankLoc>
+    <bankLoc>20844</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nerul</name>
-    <city>Navi Mumbai</city>
+    <city>Thane</city>
     <address>Shop Number 6, Ground Floor, NRI Shopping Center, Seawoods Estates, (phase-ii), Sector 54, 56, 58, (pt), Navi Mumbai</address>
     <contact>0</contact>
     <micrCode>400757004</micrCode>
     <ifscCode>SURY0000013</ifscCode>
-    <bankLoc>20774</bankLoc>
+    <bankLoc>20845</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chembur</name>
@@ -51,15 +105,15 @@
     <contact>0</contact>
     <micrCode>400757003</micrCode>
     <ifscCode>SURY0000012</ifscCode>
-    <bankLoc>20772</bankLoc>
+    <bankLoc>20844</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belapur</name>
-    <city>Navi Mumbai</city>
+    <city>Thane</city>
     <address>Shop Number1, Hermes Atrium, Sector 11, CBD Belapur, Navi Mumbai</address>
     <contact>0</contact>
     <micrCode>400757002</micrCode>
     <ifscCode>SURY0000011</ifscCode>
-    <bankLoc>20774</bankLoc>
+    <bankLoc>20845</bankLoc>
   </bankbranch>
 </bankBranchs>

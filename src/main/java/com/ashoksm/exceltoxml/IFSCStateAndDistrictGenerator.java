@@ -214,6 +214,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Esaf Small Finance Bank Ltd");
 		BANK_NAMES.add("Suryoday Small Finance Bank Ltd");
 		BANK_NAMES.add("Utkarsh Small Finance Bank");
+		BANK_NAMES.add("Textile Traders Co Operative Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {

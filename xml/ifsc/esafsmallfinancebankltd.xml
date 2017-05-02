@@ -1,12 +1,21 @@
 <bankBranchs>
   <bankbranch>
+    <name>Kuzhalmannam</name>
+    <city>Palakkad</city>
+    <address>NO XV 381 Ground Floor, Kannanur Junction, Kannadi</address>
+    <contact>2373813</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001136</ifscCode>
+    <bankLoc>8355</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Pattambi</name>
     <city>Pattambi</city>
     <address>6/657, Kopan Commercial Centre, Palakkad Main Road, Pattambi, Palakkad District PIN 679306</address>
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001135</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ottapalam</name>
@@ -15,7 +24,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001134</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kozhinjampara</name>
@@ -24,7 +33,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001133</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottayam</name>
@@ -33,7 +42,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001132</ifscCode>
-    <bankLoc>8334</bankLoc>
+    <bankLoc>8352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollam</name>
@@ -42,7 +51,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001131</ifscCode>
-    <bankLoc>8333</bankLoc>
+    <bankLoc>8351</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vennikulam</name>
@@ -51,7 +60,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001130</ifscCode>
-    <bankLoc>8338</bankLoc>
+    <bankLoc>8356</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>North Paravoor</name>
@@ -60,7 +69,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001129</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mukkam</name>
@@ -69,7 +78,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001128</ifscCode>
-    <bankLoc>8335</bankLoc>
+    <bankLoc>8353</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottakkal</name>
@@ -78,7 +87,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001127</ifscCode>
-    <bankLoc>8336</bankLoc>
+    <bankLoc>8354</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kothamangalam</name>
@@ -87,7 +96,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001126</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poopara</name>
@@ -96,7 +105,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001125</ifscCode>
-    <bankLoc>8332</bankLoc>
+    <bankLoc>8350</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maradu</name>
@@ -105,7 +114,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001124</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malappuram</name>
@@ -114,7 +123,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001123</ifscCode>
-    <bankLoc>8336</bankLoc>
+    <bankLoc>8354</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Irinjalakuda</name>
@@ -123,7 +132,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001122</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalakudy</name>
@@ -132,7 +141,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001121</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valanchery</name>
@@ -141,7 +150,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001120</ifscCode>
-    <bankLoc>8336</bankLoc>
+    <bankLoc>8354</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolenchery</name>
@@ -150,7 +159,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001119</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodungallur</name>
@@ -159,7 +168,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001118</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edamuttam</name>
@@ -168,7 +177,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001117</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Avanavanchery</name>
@@ -177,7 +186,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001116</ifscCode>
-    <bankLoc>8339</bankLoc>
+    <bankLoc>8357</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvalla</name>
@@ -186,7 +195,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001115</ifscCode>
-    <bankLoc>8338</bankLoc>
+    <bankLoc>8356</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muvattupuzha</name>
@@ -195,7 +204,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001114</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alathur</name>
@@ -204,7 +213,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001113</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adimaly</name>
@@ -213,7 +222,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001112</ifscCode>
-    <bankLoc>8332</bankLoc>
+    <bankLoc>8350</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumbavoor</name>
@@ -222,7 +231,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001111</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perinthalmanna</name>
@@ -231,7 +240,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001110</ifscCode>
-    <bankLoc>8332</bankLoc>
+    <bankLoc>8350</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palakkad</name>
@@ -240,7 +249,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001109</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kozhikode</name>
@@ -249,7 +258,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001108</ifscCode>
-    <bankLoc>8335</bankLoc>
+    <bankLoc>8353</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattapana</name>
@@ -258,7 +267,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001107</ifscCode>
-    <bankLoc>8332</bankLoc>
+    <bankLoc>8350</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valkulambu</name>
@@ -267,7 +276,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001106</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pala</name>
@@ -276,7 +285,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001105</ifscCode>
-    <bankLoc>8334</bankLoc>
+    <bankLoc>8352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollengode</name>
@@ -285,7 +294,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001104</ifscCode>
-    <bankLoc>8337</bankLoc>
+    <bankLoc>8355</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edapally</name>
@@ -294,7 +303,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001103</ifscCode>
-    <bankLoc>8331</bankLoc>
+    <bankLoc>8349</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalathode</name>
@@ -303,7 +312,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001102</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mannuthy</name>
@@ -312,7 +321,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001101</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
@@ -321,6 +330,6 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0000001</ifscCode>
-    <bankLoc>8340</bankLoc>
+    <bankLoc>8358</bankLoc>
   </bankbranch>
 </bankBranchs>
