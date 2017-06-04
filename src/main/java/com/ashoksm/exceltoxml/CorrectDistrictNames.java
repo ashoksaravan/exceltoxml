@@ -6,21 +6,21 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Iterator;
 
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class CorrectDistrictNames {
 
 	public static void main(String[] args) throws IOException {
-		File file = new File("E:/Ashok/ifsc/IFCB2009_10.xlsx");
+		File file = new File("E:/Ashok/ifsc/IFCB2009_10.xls");
 		FileInputStream inputStream = new FileInputStream(file);
 
 		// Get the workbook instance for XLS file
-		XSSFWorkbook workBook = new XSSFWorkbook(inputStream);
+		HSSFWorkbook workBook = new HSSFWorkbook(inputStream);
 
 		// Get first sheet from the workbook
-		XSSFSheet bankSheet = workBook.getSheetAt(0);
+		HSSFSheet bankSheet = workBook.getSheetAt(0);
 		// Iterate through each rows from first sheet
 		Iterator<Row> rowIt = bankSheet.iterator();
 		boolean flag = true;

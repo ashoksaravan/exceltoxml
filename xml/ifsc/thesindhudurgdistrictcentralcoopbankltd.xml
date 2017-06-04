@@ -1,0 +1,884 @@
+<bankBranchs>
+  <bankbranch>
+    <name>HET Shevri</name>
+    <city>HET Shevri</city>
+    <address>AT AND Post HET Shewari TAL Vaibhavwadi</address>
+    <contact>0</contact>
+    <micrCode>416801587</micrCode>
+    <ifscCode>SIDC0001113</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malvan City</name>
+    <city>Malvan City</city>
+    <address>AT AND Post AND TAL Malvan</address>
+    <contact>251159</contact>
+    <micrCode>416801127</micrCode>
+    <ifscCode>SIDC0001112</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Osargaon</name>
+    <city>Osargaon</city>
+    <address>AT AND Post Osargaon TAL Kankavali</address>
+    <contact>251028</contact>
+    <micrCode>416801533</micrCode>
+    <ifscCode>SIDC0001111</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pinguli</name>
+    <city>Pinguli</city>
+    <address>AT AND Post Pinguli TAL Kudal</address>
+    <contact>221090</contact>
+    <micrCode>416801584</micrCode>
+    <ifscCode>SIDC0001110</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aros Dandeli</name>
+    <city>Aros Dandeli</city>
+    <address>AT AND Post Aros Dandeli TAL Sawantwadi</address>
+    <contact>260090</contact>
+    <micrCode>416801588</micrCode>
+    <ifscCode>SIDC0001109</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kunkeshwar</name>
+    <city>Kunkeshwar</city>
+    <address>Tandpostkunkeshwrtldeogd</address>
+    <contact>248964</contact>
+    <micrCode>416801516</micrCode>
+    <ifscCode>SIDC0001108</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Umbarde</name>
+    <city>Umbarde</city>
+    <address>AT AND Post Umbarde TAL Vaibhavwadi</address>
+    <contact>253727</contact>
+    <micrCode>416801524</micrCode>
+    <ifscCode>SIDC0001107</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nadhavde</name>
+    <city>Nadhavde</city>
+    <address>AT AND Post Nadhavade TAL Vaibhavwadi</address>
+    <contact>255730</contact>
+    <micrCode>416801523</micrCode>
+    <ifscCode>SIDC0001106</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Math</name>
+    <city>Math</city>
+    <address>AT AND Post Math TAL Vengurla</address>
+    <contact>264404</contact>
+    <micrCode>416801568</micrCode>
+    <ifscCode>SIDC0001105</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Parule</name>
+    <city>Parule</city>
+    <address>AT AND Post Parule TAL Kudal</address>
+    <contact>269788</contact>
+    <micrCode>416801585</micrCode>
+    <ifscCode>SIDC0001104</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hiwale</name>
+    <city>Hiwale</city>
+    <address>AT AND Post Hiwale TAL Malvan</address>
+    <contact>202300</contact>
+    <micrCode>416801545</micrCode>
+    <ifscCode>SIDC0001103</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nerur</name>
+    <city>Nerur</city>
+    <address>AT AND Post Nerur TAL Kudal</address>
+    <contact>202159</contact>
+    <micrCode>416801550</micrCode>
+    <ifscCode>SIDC0001102</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Zarap</name>
+    <city>Zarap</city>
+    <address>AT AND Post Zarap TAL Kudal</address>
+    <contact>232318</contact>
+    <micrCode>416801561</micrCode>
+    <ifscCode>SIDC0001101</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Danoli</name>
+    <city>Danoli</city>
+    <address>AT AND Post Danoli TAL Sawantwadi</address>
+    <contact>246536</contact>
+    <micrCode>416801589</micrCode>
+    <ifscCode>SIDC0001100</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kuwale</name>
+    <city>Kuwale</city>
+    <address>Tandpostkuwletldeogd</address>
+    <contact>202085</contact>
+    <micrCode>416801586</micrCode>
+    <ifscCode>SIDC0001099</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Talawade</name>
+    <city>Talawade</city>
+    <address>AT AND Post Talawade TAL Sawantwadi</address>
+    <contact>266121</contact>
+    <micrCode>416801579</micrCode>
+    <ifscCode>SIDC0001098</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalne</name>
+    <city>Kalne</city>
+    <address>AT AND Post Kalane TAL Dodamarg</address>
+    <contact>255033</contact>
+    <micrCode>416801583</micrCode>
+    <ifscCode>SIDC0001097</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kudal City</name>
+    <city>Kudal City</city>
+    <address>AT AND Post AND TAL Kudal</address>
+    <contact>221237</contact>
+    <micrCode>416801452</micrCode>
+    <ifscCode>SIDC0001096</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Majgaon</name>
+    <city>Majgaon</city>
+    <address>AT AND Post Majgaon TAL Sawantwadi</address>
+    <contact>273845</contact>
+    <micrCode>416801577</micrCode>
+    <ifscCode>SIDC0001080</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malgaon</name>
+    <city>Malgaon</city>
+    <address>AT AND Post Malgaon TAL Sawantwadi</address>
+    <contact>258301</contact>
+    <micrCode>416801576</micrCode>
+    <ifscCode>SIDC0001079</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Baparde</name>
+    <city>Baparde</city>
+    <address>Tandpostbprdetldeogd</address>
+    <contact>246989</contact>
+    <micrCode>416801515</micrCode>
+    <ifscCode>SIDC0001078</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tithawali</name>
+    <city>Tithawali</city>
+    <address>AT AND Post Tithavali TAL Vaibhavwadi</address>
+    <contact>205571</contact>
+    <micrCode>416801522</micrCode>
+    <ifscCode>SIDC0001077</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kinjawade</name>
+    <city>Kinjawade</city>
+    <address>Tandpostkinjvdetldeogd</address>
+    <contact>227015</contact>
+    <micrCode>416801512</micrCode>
+    <ifscCode>SIDC0001076</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tirwade</name>
+    <city>Tirwade</city>
+    <address>AT AND Post Tirawade TAL Vaibhavwadi</address>
+    <contact>260024</contact>
+    <micrCode>416801519</micrCode>
+    <ifscCode>SIDC0001075</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manch</name>
+    <city>Manch</city>
+    <address>Tandpostmnchetldeogd</address>
+    <contact>247628</contact>
+    <micrCode>416801510</micrCode>
+    <ifscCode>SIDC0001074</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Madura</name>
+    <city>Madura</city>
+    <address>AT AND Post Madura TAL Sawantwadi</address>
+    <contact>281155</contact>
+    <micrCode>416801571</micrCode>
+    <ifscCode>SIDC0001073</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Satarda</name>
+    <city>Satarda</city>
+    <address>AT AND Post Satarda TAL Sawantwadi</address>
+    <contact>268806</contact>
+    <micrCode>416801569</micrCode>
+    <ifscCode>SIDC0001072</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aravali TAK</name>
+    <city>Aravali TAK</city>
+    <address>AT AND Post Aravali TAK TAL Vengurla</address>
+    <contact>227245</contact>
+    <micrCode>416801565</micrCode>
+    <ifscCode>SIDC0001071</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Redi</name>
+    <city>Redi</city>
+    <address>AT AND Post Redi TAL Vengurla</address>
+    <contact>268323</contact>
+    <micrCode>416801564</micrCode>
+    <ifscCode>SIDC0001070</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hirlok</name>
+    <city>Hirlok</city>
+    <address>AT AND Post Hirlok TAL Kudal</address>
+    <contact>245006</contact>
+    <micrCode>416801551</micrCode>
+    <ifscCode>SIDC0001069</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tendoli</name>
+    <city>Tendoli</city>
+    <address>AT AND Post Tendoli TAL Kudal</address>
+    <contact>233460</contact>
+    <micrCode>416801548</micrCode>
+    <ifscCode>SIDC0001068</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tulsuli</name>
+    <city>Tulsuli</city>
+    <address>AT AND Post Tulsuli TAL Kudal</address>
+    <contact>244326</contact>
+    <micrCode>416801547</micrCode>
+    <ifscCode>SIDC0001067</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Humarmala</name>
+    <city>Humarmala</city>
+    <address>AT AND Post Walawal Humarmala TAL Kudal</address>
+    <contact>233208</contact>
+    <micrCode>416801546</micrCode>
+    <ifscCode>SIDC0001066</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Maalgaon</name>
+    <city>Maalgaon</city>
+    <address>AT AND Post Malgaon TAL Malvan</address>
+    <contact>227847</contact>
+    <micrCode>416801541</micrCode>
+    <ifscCode>SIDC0001065</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalse</name>
+    <city>Kalse</city>
+    <address>AT AND Post Kalse TAL Malvan</address>
+    <contact>255716</contact>
+    <micrCode>416801539</micrCode>
+    <ifscCode>SIDC0001064</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Suklwad</name>
+    <city>Suklwad</city>
+    <address>AT AND Post Sukalwad TAL Malvan</address>
+    <contact>225686</contact>
+    <micrCode>416801538</micrCode>
+    <ifscCode>SIDC0001063</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shravan</name>
+    <city>Shravan</city>
+    <address>AT AND Post Shravan TAL Malvan</address>
+    <contact>259647</contact>
+    <micrCode>416801536</micrCode>
+    <ifscCode>SIDC0001062</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Tarkarli</name>
+    <city>Tarkarli</city>
+    <address>AT AND Post Tarkarli TAL Malvan</address>
+    <contact>248523</contact>
+    <micrCode>416801534</micrCode>
+    <ifscCode>SIDC0001061</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Natal</name>
+    <city>Natal</city>
+    <address>AT AND Post Natal TAL Kankavali</address>
+    <contact>246053</contact>
+    <micrCode>416801529</micrCode>
+    <ifscCode>SIDC0001060</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kalsuli</name>
+    <city>Kalsuli</city>
+    <address>AT AND Post Kalsuli TAL Kankavali</address>
+    <contact>252833</contact>
+    <micrCode>416801525</micrCode>
+    <ifscCode>SIDC0001059</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Munge</name>
+    <city>Munge</city>
+    <address>Tandpostmungetldeogd</address>
+    <contact>280679</contact>
+    <micrCode>416801508</micrCode>
+    <ifscCode>SIDC0001058</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dahibav</name>
+    <city>Dahibav</city>
+    <address>Tandpostdhibvtldeogd</address>
+    <contact>238146</contact>
+    <micrCode>416801507</micrCode>
+    <ifscCode>SIDC0001057</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mithbav</name>
+    <city>Mithbav</city>
+    <address>Tandpostmithbvtldeogd</address>
+    <contact>238061</contact>
+    <micrCode>416801506</micrCode>
+    <ifscCode>SIDC0001056</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jamsande</name>
+    <city>Jamsande</city>
+    <address>Tandpostjmsndetldeogd</address>
+    <contact>280470</contact>
+    <micrCode>416801504</micrCode>
+    <ifscCode>SIDC0001055</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mond</name>
+    <city>Mond</city>
+    <address>Tandpostmondtldeogd</address>
+    <contact>246980</contact>
+    <micrCode>416801502</micrCode>
+    <ifscCode>SIDC0001054</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Oros</name>
+    <city>Oros</city>
+    <address>AT AND Post Oros TAL Kudal</address>
+    <contact>228867</contact>
+    <micrCode>416801559</micrCode>
+    <ifscCode>SIDC0001053</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Asraondi</name>
+    <city>Asraondi</city>
+    <address>AT AND Post Asarondi TAL Malvan</address>
+    <contact>249018</contact>
+    <micrCode>416801544</micrCode>
+    <ifscCode>SIDC0001052</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Amboli</name>
+    <city>Amboli</city>
+    <address>AT AND Post Amboli TAL Sawantwadi</address>
+    <contact>240206</contact>
+    <micrCode>416801578</micrCode>
+    <ifscCode>SIDC0001051</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sawantwadi City</name>
+    <city>Sawantwadi City</city>
+    <address>AT AND Post AND TAL Sawantwadi</address>
+    <contact>272316</contact>
+    <micrCode>416801353</micrCode>
+    <ifscCode>SIDC0001050</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kankavli City</name>
+    <city>Kankavli City</city>
+    <address>AT AND Post AND TAL Kankavali</address>
+    <contact>232159</contact>
+    <micrCode>416801327</micrCode>
+    <ifscCode>SIDC0001049</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ambrad</name>
+    <city>Ambrad</city>
+    <address>AT AND Post Ambrad TAL Kudal</address>
+    <contact>235016</contact>
+    <micrCode>416801558</micrCode>
+    <ifscCode>SIDC0001048</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Phanasgaon</name>
+    <city>Phanasgaon</city>
+    <address>Tandpostphnsgontldeogd</address>
+    <contact>244433</contact>
+    <micrCode>416801514</micrCode>
+    <ifscCode>SIDC0001047</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>H.O. Counter</name>
+    <city>H.O. Counter</city>
+    <address>AT AND Post Sindhudurgnagari TAL Kudal</address>
+    <contact>229005</contact>
+    <micrCode>416801560</micrCode>
+    <ifscCode>SIDC0001046</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Karul</name>
+    <city>Karul</city>
+    <address>AT AND Post Karul TAL Vaibhavwadi</address>
+    <contact>205395</contact>
+    <micrCode>416801521</micrCode>
+    <ifscCode>SIDC0001045</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Achirne</name>
+    <city>Achirne</city>
+    <address>AT AND Post Achirne TAL Vaibhavwadi</address>
+    <contact>259036</contact>
+    <micrCode>416801520</micrCode>
+    <ifscCode>SIDC0001044</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Talamba</name>
+    <city>Talamba</city>
+    <address>AT AND Post Talamba TAL Kudal</address>
+    <contact>239051</contact>
+    <micrCode>416801557</micrCode>
+    <ifscCode>SIDC0001043</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nardave</name>
+    <city>Nardave</city>
+    <address>AT AND Post Nardave TAL Kankavali</address>
+    <contact>241017</contact>
+    <micrCode>416801532</micrCode>
+    <ifscCode>SIDC0001042</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Masure</name>
+    <city>Masure</city>
+    <address>AT AND Post Masure TAL Malvan</address>
+    <contact>257233</contact>
+    <micrCode>416801543</micrCode>
+    <ifscCode>SIDC0001041</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nandgaon</name>
+    <city>Nandgaon</city>
+    <address>AT AND Post Nandgaon TAL Kankavali</address>
+    <contact>248545</contact>
+    <micrCode>416801531</micrCode>
+    <ifscCode>SIDC0001040</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chowke</name>
+    <city>Chowke</city>
+    <address>AT AND Post Chowke TAL Malvan</address>
+    <contact>258214</contact>
+    <micrCode>416801542</micrCode>
+    <ifscCode>SIDC0001039</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Choukul</name>
+    <city>Choukul</city>
+    <address>AT AND Post Chowkul TAL Sawantwadi</address>
+    <contact>241117</contact>
+    <micrCode>416801575</micrCode>
+    <ifscCode>SIDC0001038</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vetore</name>
+    <city>Vetore</city>
+    <address>AT AND Post Vetore TAL Vengurla</address>
+    <contact>266207</contact>
+    <micrCode>416801567</micrCode>
+    <ifscCode>SIDC0001037</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pandur</name>
+    <city>Pandur</city>
+    <address>AT AND Post Pandur TAL Kudal</address>
+    <contact>248067</contact>
+    <micrCode>416801556</micrCode>
+    <ifscCode>SIDC0001036</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malewad</name>
+    <city>Malewad</city>
+    <address>AT AND Post Malewad TAL Sawantwadi</address>
+    <contact>261020</contact>
+    <micrCode>416801574</micrCode>
+    <ifscCode>SIDC0001035</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vaibhavwadi</name>
+    <city>Vaibhavwadi</city>
+    <address>AT AND Post AND TAL Vaibhavwadi</address>
+    <contact>237227</contact>
+    <micrCode>416801517</micrCode>
+    <ifscCode>SIDC0001034</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shirgaon</name>
+    <city>Shirgaon</city>
+    <address>Tandpostshirgontldeogd</address>
+    <contact>236237</contact>
+    <micrCode>416801513</micrCode>
+    <ifscCode>SIDC0001033</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Talebazar</name>
+    <city>Talebazar</city>
+    <address>Tandposttlebzrtldeogd</address>
+    <contact>231432</contact>
+    <micrCode>416801511</micrCode>
+    <ifscCode>SIDC0001032</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kolzar</name>
+    <city>Kolzar</city>
+    <address>AT AND Post Kolzar TAL Dodamarg</address>
+    <contact>257359</contact>
+    <micrCode>416801582</micrCode>
+    <ifscCode>SIDC0001031</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kamaleveer</name>
+    <city>Kamaleveer</city>
+    <address>AT AND Post Kamaleveer TAL Kudal</address>
+    <contact>245024</contact>
+    <micrCode>416801555</micrCode>
+    <ifscCode>SIDC0001030</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bhuiabawada</name>
+    <city>Bhuiabawada</city>
+    <address>AT AND Post Bhuibawada TAL Vaibhavwadi</address>
+    <contact>254804</contact>
+    <micrCode>416801518</micrCode>
+    <ifscCode>SIDC0001029</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Padel</name>
+    <city>Padel</city>
+    <address>AT AND Post Padel TAL Devgad</address>
+    <contact>225047</contact>
+    <micrCode>416801509</micrCode>
+    <ifscCode>SIDC0001028</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Aronda</name>
+    <city>Aronda</city>
+    <address>AT AND Post Aronda TAL Sawantwadi</address>
+    <contact>262237</contact>
+    <micrCode>416801573</micrCode>
+    <ifscCode>SIDC0001027</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sangeli</name>
+    <city>Sangeli</city>
+    <address>AT AND Post Sangeli TAL Sawantwadi</address>
+    <contact>242721</contact>
+    <micrCode>416801572</micrCode>
+    <ifscCode>SIDC0001026</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sateli Bhedshi</name>
+    <city>Sateli Bhedshi</city>
+    <address>AT AND Post Sateli Bhedshi TAL Dodamarg</address>
+    <contact>250033</contact>
+    <micrCode>416801581</micrCode>
+    <ifscCode>SIDC0001025</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dodamarg</name>
+    <city>Dodamarg</city>
+    <address>AT AND Post AND TAL Dodamarg</address>
+    <contact>256632</contact>
+    <micrCode>416801580</micrCode>
+    <ifscCode>SIDC0001024</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Banda</name>
+    <city>Banda</city>
+    <address>AT AND Post Banda TAL Sawantwadi</address>
+    <contact>27035</contact>
+    <micrCode>416801570</micrCode>
+    <ifscCode>SIDC0001023</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sawantwadi</name>
+    <city>Sawantwadi</city>
+    <address>AT AND Post AND TAL Sawantwadi</address>
+    <contact>271882</contact>
+    <micrCode>416801352</micrCode>
+    <ifscCode>SIDC0001022</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hodawada</name>
+    <city>Hodawada</city>
+    <address>AT AND Post Hodawada TAL Vengurla</address>
+    <contact>225244</contact>
+    <micrCode>416801566</micrCode>
+    <ifscCode>SIDC0001021</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shiroda</name>
+    <city>Shiroda</city>
+    <address>AT AND Post Shiroda TAL Vengurla</address>
+    <contact>227253</contact>
+    <micrCode>416801563</micrCode>
+    <ifscCode>SIDC0001020</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mhapan</name>
+    <city>Mhapan</city>
+    <address>AT AND Post Mhapan TAL Vengurla</address>
+    <contact>228025</contact>
+    <micrCode>416801562</micrCode>
+    <ifscCode>SIDC0001019</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vengurla</name>
+    <city>Vengurla</city>
+    <address>AT AND Post AND TAL Vengurla</address>
+    <contact>262029</contact>
+    <micrCode>416801226</micrCode>
+    <ifscCode>SIDC0001018</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghotage</name>
+    <city>Ghotage</city>
+    <address>AT AND Post Ghotage TAL Kudal</address>
+    <contact>231007</contact>
+    <micrCode>416801554</micrCode>
+    <ifscCode>SIDC0001017</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kasal</name>
+    <city>Kasal</city>
+    <address>AT AND Post Kasal TAL Kudal</address>
+    <contact>234224</contact>
+    <micrCode>416801553</micrCode>
+    <ifscCode>SIDC0001016</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mangaon</name>
+    <city>Mangaon</city>
+    <address>AT AND Post Mangaon TAL Kudal</address>
+    <contact>236230</contact>
+    <micrCode>416801552</micrCode>
+    <ifscCode>SIDC0001015</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kadawal</name>
+    <city>Kadawal</city>
+    <address>AT AND Post Kadawal TAL Kudal</address>
+    <contact>230029</contact>
+    <micrCode>416801549</micrCode>
+    <ifscCode>SIDC0001014</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kudal</name>
+    <city>Kudal</city>
+    <address>AT AND Post AND TAL Kudal</address>
+    <contact>222250</contact>
+    <micrCode>416801451</micrCode>
+    <ifscCode>SIDC0001013</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Viran</name>
+    <city>Viran</city>
+    <address>AT AND Post Viran TAL Malvan</address>
+    <contact>227605</contact>
+    <micrCode>416801540</micrCode>
+    <ifscCode>SIDC0001012</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Katta</name>
+    <city>Katta</city>
+    <address>AT AND Post Katta TAL Malvan</address>
+    <contact>225220</contact>
+    <micrCode>416801537</micrCode>
+    <ifscCode>SIDC0001011</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Achara</name>
+    <city>Achara</city>
+    <address>AT AND Post Achara TAL Malvan</address>
+    <contact>246226</contact>
+    <micrCode>416801535</micrCode>
+    <ifscCode>SIDC0001010</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Malvan</name>
+    <city>Malvan</city>
+    <address>AT AND Post AND TAL Malvan</address>
+    <contact>252074</contact>
+    <micrCode>416801126</micrCode>
+    <ifscCode>SIDC0001009</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kasarde</name>
+    <city>Kasarde</city>
+    <address>AT AND Post Kasarde TAL Kankavali</address>
+    <contact>240229</contact>
+    <micrCode>416801530</micrCode>
+    <ifscCode>SIDC0001008</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Sangave</name>
+    <city>Sangave</city>
+    <address>AT AND Post Sangave TAL Kankavali</address>
+    <contact>246240</contact>
+    <micrCode>416801528</micrCode>
+    <ifscCode>SIDC0001007</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Phondaghat</name>
+    <city>Phondaghat</city>
+    <address>AT AND Post Phondaghat TAL Kankavali</address>
+    <contact>245253</contact>
+    <micrCode>416801527</micrCode>
+    <ifscCode>SIDC0001006</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kharepatan</name>
+    <city>Kharepatan</city>
+    <address>AT AND Post Kharepatan TAL Kankavali</address>
+    <contact>242230</contact>
+    <micrCode>416801526</micrCode>
+    <ifscCode>SIDC0001005</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kankavli</name>
+    <city>Kankavli</city>
+    <address>Tandpostandtlknkvli</address>
+    <contact>232036</contact>
+    <micrCode>416801326</micrCode>
+    <ifscCode>SIDC0001004</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hindale</name>
+    <city>Hindale</city>
+    <address>Tandposthindletldeogd</address>
+    <contact>238246</contact>
+    <micrCode>416801505</micrCode>
+    <ifscCode>SIDC0001003</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Vijaydurg</name>
+    <city>Vijaydurg</city>
+    <address>Tandpostvijydurgtldeogd</address>
+    <contact>245249</contact>
+    <micrCode>416801503</micrCode>
+    <ifscCode>SIDC0001002</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Deogad</name>
+    <city>Deogad</city>
+    <address>Tandpostandtldeogd</address>
+    <contact>262218</contact>
+    <micrCode>416801501</micrCode>
+    <ifscCode>SIDC0001001</ifscCode>
+    <bankLoc>22732</bankLoc>
+  </bankbranch>
+</bankBranchs>
