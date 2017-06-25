@@ -14,6 +14,7 @@ import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
 
+//9
 public class IFSCStateAndDistrictStringArrayGenerator {
 
 	private static List<String> BANK_NAMES = new ArrayList<String>();
@@ -44,7 +45,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Bharat Co-Op Bank Mumbai Ltd");
 		BANK_NAMES.add("Bnp Paribas");
 		BANK_NAMES.add("Canara Bank");
-		BANK_NAMES.add("Capital Local Area Bank Ltd");
+		BANK_NAMES.add("Capital Small Finance Bank Ltd");
 		BANK_NAMES.add("Catholic Syrian Bank Ltd");
 		BANK_NAMES.add("Central Bank Of India");
 		BANK_NAMES.add("Chinatrust Commercial Bank Ltd");
@@ -55,7 +56,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Corporation Bank");
 		BANK_NAMES.add("The Cosmos Co-Op Bank Ltd");
 		BANK_NAMES.add("Credit Agricole Corporate And Investment Bank Calyon Bank");
-		BANK_NAMES.add("Credit Suisse Ag");
+		BANK_NAMES.add("Credit Suisee Ag");
 		BANK_NAMES.add("Development Bank Of Singapore");
 		BANK_NAMES.add("Dena Bank");
 		BANK_NAMES.add("Deutsche Bank");
@@ -63,7 +64,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Dhanlaxmi Bank");
 		BANK_NAMES.add("Deposit Insurance And Credit Guarantee Corporation");
 		BANK_NAMES.add("Dombivli Nagari Sahakari Bank Ltd");
-		BANK_NAMES.add("Doha Bank Qsc");
+		BANK_NAMES.add("Doha Bank");
 		BANK_NAMES.add("Export Import Bank Of India");
 		BANK_NAMES.add("Federal Bank");
 		BANK_NAMES.add("Firstrand Bank Ltd");
@@ -82,7 +83,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("Industrial and Commercial Bank of China Ltd");
 		BANK_NAMES.add("Industrial Bank of Korea");
 		BANK_NAMES.add("Ing Vysya Bank");
-		BANK_NAMES.add("Jalgaon Janata Sahkari Bank Ltd");
+		BANK_NAMES.add("Jalgaon Janata Sahakari Bank Ltd");
 		BANK_NAMES.add("Jammu And Kashmir Bank Ltd");
 		BANK_NAMES.add("Janakalyan Sahakari Bank Ltd");
 		BANK_NAMES.add("Janaseva Sahakari Bank Borivli Ltd");

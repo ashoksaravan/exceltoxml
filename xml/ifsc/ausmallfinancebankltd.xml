@@ -1,12 +1,30 @@
 <bankBranchs>
   <bankbranch>
+    <name>Jodhpur</name>
+    <city>Jodhpur</city>
+    <address>3rdfloorsundervillaabovevodafonestore12throadcrossresidencyroadjodhpurrajasthan342001</address>
+    <contact>0</contact>
+    <micrCode>342765001</micrCode>
+    <ifscCode>AUBL0009034</ifscCode>
+    <bankLoc>138</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Udaipur</name>
+    <city>Udaipur</city>
+    <address>2ND Floor Kesav Tower Near Baroda Narsari OPP Pandit Paratha Savina Main Road Hiran Magri Sector 8 Udaipur Rajasthan 313008</address>
+    <contact>0</contact>
+    <micrCode>313765001</micrCode>
+    <ifscCode>AUBL0009010</ifscCode>
+    <bankLoc>148</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Khuri</name>
     <city>Sikar</city>
     <address>Nh11 Khuri Chhoti Khuri Badi Rajasthan</address>
     <contact>0</contact>
     <micrCode>332765011</micrCode>
     <ifscCode>AUBL0002413</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chakwada</name>
@@ -15,7 +33,7 @@
     <contact>0</contact>
     <micrCode>303765022</micrCode>
     <ifscCode>AUBL0002412</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chharsa MOD</name>
@@ -24,7 +42,7 @@
     <contact>0</contact>
     <micrCode>303765021</micrCode>
     <ifscCode>AUBL0002410</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hathideh</name>
@@ -33,7 +51,7 @@
     <contact>0</contact>
     <micrCode>332765010</micrCode>
     <ifscCode>AUBL0002409</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hanuthpura</name>
@@ -42,7 +60,7 @@
     <contact>0</contact>
     <micrCode>303765020</micrCode>
     <ifscCode>AUBL0002408</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paaldi</name>
@@ -51,7 +69,7 @@
     <contact>0</contact>
     <micrCode>303765019</micrCode>
     <ifscCode>AUBL0002407</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Theekaria</name>
@@ -60,7 +78,7 @@
     <contact>0</contact>
     <micrCode>303765023</micrCode>
     <ifscCode>AUBL0002406</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur</name>
@@ -69,7 +87,7 @@
     <contact>0</contact>
     <micrCode>302765006</micrCode>
     <ifscCode>AUBL0002404</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurgaon-ii</name>
@@ -78,7 +96,7 @@
     <contact>0</contact>
     <micrCode>110765011</micrCode>
     <ifscCode>AUBL0002403</ifscCode>
-    <bankLoc>36</bankLoc>
+    <bankLoc>37</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangrur-grain Market</name>
@@ -87,7 +105,7 @@
     <contact>0</contact>
     <micrCode>148765002</micrCode>
     <ifscCode>AUBL0002402</ifscCode>
-    <bankLoc>115</bankLoc>
+    <bankLoc>117</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muktsar-new Grain Market</name>
@@ -96,7 +114,7 @@
     <contact>0</contact>
     <micrCode>152765102</micrCode>
     <ifscCode>AUBL0002401</ifscCode>
-    <bankLoc>113</bankLoc>
+    <bankLoc>115</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mansa-water Works Road</name>
@@ -105,7 +123,7 @@
     <contact>0</contact>
     <micrCode>151765052</micrCode>
     <ifscCode>AUBL0002400</ifscCode>
-    <bankLoc>110</bankLoc>
+    <bankLoc>111</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fazilka-radhaswami Colony</name>
@@ -114,7 +132,7 @@
     <contact>0</contact>
     <micrCode>152765152</micrCode>
     <ifscCode>AUBL0002399</ifscCode>
-    <bankLoc>105</bankLoc>
+    <bankLoc>106</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bathinda-gurkashi Marg</name>
@@ -123,7 +141,7 @@
     <contact>0</contact>
     <micrCode>151765002</micrCode>
     <ifscCode>AUBL0002398</ifscCode>
-    <bankLoc>102</bankLoc>
+    <bankLoc>103</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barnala-college Road</name>
@@ -132,7 +150,7 @@
     <contact>0</contact>
     <micrCode>148765052</micrCode>
     <ifscCode>AUBL0002397</ifscCode>
-    <bankLoc>101</bankLoc>
+    <bankLoc>102</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abohar-circular Road</name>
@@ -141,7 +159,7 @@
     <contact>0</contact>
     <micrCode>152765052</micrCode>
     <ifscCode>AUBL0002396</ifscCode>
-    <bankLoc>105</bankLoc>
+    <bankLoc>106</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nawanshahr-banga Road</name>
@@ -150,7 +168,7 @@
     <contact>0</contact>
     <micrCode>144765302</micrCode>
     <ifscCode>AUBL0002395</ifscCode>
-    <bankLoc>116</bankLoc>
+    <bankLoc>118</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nakodar-nurmahal Road</name>
@@ -159,7 +177,7 @@
     <contact>0</contact>
     <micrCode>144765402</micrCode>
     <ifscCode>AUBL0002394</ifscCode>
-    <bankLoc>108</bankLoc>
+    <bankLoc>109</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moga-improvement Trust Market</name>
@@ -168,7 +186,7 @@
     <contact>0</contact>
     <micrCode>142765002</micrCode>
     <ifscCode>AUBL0002393</ifscCode>
-    <bankLoc>111</bankLoc>
+    <bankLoc>112</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ludhiana-pahowal Road</name>
@@ -177,7 +195,7 @@
     <contact>0</contact>
     <micrCode>141765002</micrCode>
     <ifscCode>AUBL0002392</ifscCode>
-    <bankLoc>109</bankLoc>
+    <bankLoc>110</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khanna-municipal Council Area</name>
@@ -186,7 +204,7 @@
     <contact>0</contact>
     <micrCode>141765202</micrCode>
     <ifscCode>AUBL0002391</ifscCode>
-    <bankLoc>109</bankLoc>
+    <bankLoc>110</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoshiarpur</name>
@@ -195,7 +213,7 @@
     <contact>0</contact>
     <micrCode>146765002</micrCode>
     <ifscCode>AUBL0002390</ifscCode>
-    <bankLoc>107</bankLoc>
+    <bankLoc>108</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Firozpur-circular Road</name>
@@ -204,7 +222,7 @@
     <contact>0</contact>
     <micrCode>152765002</micrCode>
     <ifscCode>AUBL0002389</ifscCode>
-    <bankLoc>106</bankLoc>
+    <bankLoc>107</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Faridkot-mohalla Talaab</name>
@@ -213,7 +231,7 @@
     <contact>0</contact>
     <micrCode>151765102</micrCode>
     <ifscCode>AUBL0002388</ifscCode>
-    <bankLoc>104</bankLoc>
+    <bankLoc>105</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Una-hamirpur Road</name>
@@ -222,7 +240,7 @@
     <contact>0</contact>
     <micrCode>174765102</micrCode>
     <ifscCode>AUBL0002387</ifscCode>
-    <bankLoc>48</bankLoc>
+    <bankLoc>49</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Solan-rajgarh Road</name>
@@ -231,7 +249,7 @@
     <contact>0</contact>
     <micrCode>173765002</micrCode>
     <ifscCode>AUBL0002386</ifscCode>
-    <bankLoc>47</bankLoc>
+    <bankLoc>48</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patiala-ram Bagh</name>
@@ -240,7 +258,7 @@
     <contact>0</contact>
     <micrCode>147765002</micrCode>
     <ifscCode>AUBL0002385</ifscCode>
-    <bankLoc>112</bankLoc>
+    <bankLoc>114</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mohali-phase NO. VII</name>
@@ -249,7 +267,7 @@
     <contact>0</contact>
     <micrCode>160765002</micrCode>
     <ifscCode>AUBL0002384</ifscCode>
-    <bankLoc>114</bankLoc>
+    <bankLoc>116</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandigarh-sector C</name>
@@ -258,7 +276,7 @@
     <contact>0</contact>
     <micrCode>160765003</micrCode>
     <ifscCode>AUBL0002383</ifscCode>
-    <bankLoc>103</bankLoc>
+    <bankLoc>104</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baddi-bank Square SAI Road</name>
@@ -267,7 +285,7 @@
     <contact>0</contact>
     <micrCode>160765004</micrCode>
     <ifscCode>AUBL0002382</ifscCode>
-    <bankLoc>47</bankLoc>
+    <bankLoc>48</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shimla-mall Road</name>
@@ -276,7 +294,7 @@
     <contact>0</contact>
     <micrCode>171765002</micrCode>
     <ifscCode>AUBL0002381</ifscCode>
-    <bankLoc>46</bankLoc>
+    <bankLoc>47</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalandhar-model Town</name>
@@ -285,7 +303,7 @@
     <contact>0</contact>
     <micrCode>144765002</micrCode>
     <ifscCode>AUBL0002380</ifscCode>
-    <bankLoc>108</bankLoc>
+    <bankLoc>109</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satara-radhika Road</name>
@@ -294,7 +312,7 @@
     <contact>0</contact>
     <micrCode>415765001</micrCode>
     <ifscCode>AUBL0002379</ifscCode>
-    <bankLoc>95</bankLoc>
+    <bankLoc>96</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangli North Shivaji Nagar</name>
@@ -303,7 +321,7 @@
     <contact>0</contact>
     <micrCode>416765151</micrCode>
     <ifscCode>AUBL0002378</ifscCode>
-    <bankLoc>94</bankLoc>
+    <bankLoc>95</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ratnagiri-sidhi Vinayak Residency</name>
@@ -312,7 +330,7 @@
     <contact>0</contact>
     <micrCode>415765051</micrCode>
     <ifscCode>AUBL0002377</ifscCode>
-    <bankLoc>93</bankLoc>
+    <bankLoc>94</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Margao GOA</name>
@@ -321,7 +339,7 @@
     <contact>0</contact>
     <micrCode>403765002</micrCode>
     <ifscCode>AUBL0002376</ifscCode>
-    <bankLoc>7</bankLoc>
+    <bankLoc>8</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolhapur</name>
@@ -330,7 +348,7 @@
     <contact>0</contact>
     <micrCode>416765002</micrCode>
     <ifscCode>AUBL0002375</ifscCode>
-    <bankLoc>85</bankLoc>
+    <bankLoc>86</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kankavli</name>
@@ -339,7 +357,7 @@
     <contact>0</contact>
     <micrCode>416765326</micrCode>
     <ifscCode>AUBL0002374</ifscCode>
-    <bankLoc>96</bankLoc>
+    <bankLoc>97</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chiplun-tamhane Chambers</name>
@@ -348,7 +366,7 @@
     <contact>0</contact>
     <micrCode>415765201</micrCode>
     <ifscCode>AUBL0002373</ifscCode>
-    <bankLoc>93</bankLoc>
+    <bankLoc>94</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yavatmal</name>
@@ -357,7 +375,7 @@
     <contact>0</contact>
     <micrCode>445765002</micrCode>
     <ifscCode>AUBL0002372</ifscCode>
-    <bankLoc>100</bankLoc>
+    <bankLoc>101</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wardha Gandhi Nagar</name>
@@ -366,7 +384,7 @@
     <contact>0</contact>
     <micrCode>442765001</micrCode>
     <ifscCode>AUBL0002371</ifscCode>
-    <bankLoc>99</bankLoc>
+    <bankLoc>100</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wani SAI Mandir Chowk</name>
@@ -375,7 +393,7 @@
     <contact>0</contact>
     <micrCode>445765501</micrCode>
     <ifscCode>AUBL0002370</ifscCode>
-    <bankLoc>100</bankLoc>
+    <bankLoc>101</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagpur</name>
@@ -384,7 +402,7 @@
     <contact>0</contact>
     <micrCode>440765002</micrCode>
     <ifscCode>AUBL0002369</ifscCode>
-    <bankLoc>88</bankLoc>
+    <bankLoc>89</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gondia Govind PUR Road</name>
@@ -393,7 +411,7 @@
     <contact>0</contact>
     <micrCode>441765002</micrCode>
     <ifscCode>AUBL0002368</ifscCode>
-    <bankLoc>82</bankLoc>
+    <bankLoc>83</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandrapur</name>
@@ -402,7 +420,7 @@
     <contact>0</contact>
     <micrCode>442765102</micrCode>
     <ifscCode>AUBL0002367</ifscCode>
-    <bankLoc>80</bankLoc>
+    <bankLoc>81</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amravati Rajapeth Chowk</name>
@@ -411,7 +429,7 @@
     <contact>0</contact>
     <micrCode>444765101</micrCode>
     <ifscCode>AUBL0002366</ifscCode>
-    <bankLoc>78</bankLoc>
+    <bankLoc>79</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Akola Necklace Road</name>
@@ -420,7 +438,7 @@
     <contact>0</contact>
     <micrCode>444765002</micrCode>
     <ifscCode>AUBL0002365</ifscCode>
-    <bankLoc>77</bankLoc>
+    <bankLoc>78</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shrirampur-sagamner Road</name>
@@ -429,7 +447,7 @@
     <contact>0</contact>
     <micrCode>413765301</micrCode>
     <ifscCode>AUBL0002364</ifscCode>
-    <bankLoc>76</bankLoc>
+    <bankLoc>77</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangamner-jantariya Road</name>
@@ -438,7 +456,7 @@
     <contact>0</contact>
     <micrCode>422765201</micrCode>
     <ifscCode>AUBL0002363</ifscCode>
-    <bankLoc>76</bankLoc>
+    <bankLoc>77</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanded Vazibad</name>
@@ -447,7 +465,7 @@
     <contact>0</contact>
     <micrCode>431765101</micrCode>
     <ifscCode>AUBL0002362</ifscCode>
-    <bankLoc>89</bankLoc>
+    <bankLoc>90</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Latur Barshi Road</name>
@@ -456,7 +474,7 @@
     <contact>0</contact>
     <micrCode>413765052</micrCode>
     <ifscCode>AUBL0002361</ifscCode>
-    <bankLoc>86</bankLoc>
+    <bankLoc>87</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalna Shivaji Putla</name>
@@ -465,7 +483,7 @@
     <contact>0</contact>
     <micrCode>431765052</micrCode>
     <ifscCode>AUBL0002360</ifscCode>
-    <bankLoc>84</bankLoc>
+    <bankLoc>85</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalgaon Jillha Peth</name>
@@ -474,7 +492,7 @@
     <contact>0</contact>
     <micrCode>425765001</micrCode>
     <ifscCode>AUBL0002359</ifscCode>
-    <bankLoc>83</bankLoc>
+    <bankLoc>84</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhule Ganesh Plaza</name>
@@ -483,7 +501,7 @@
     <contact>0</contact>
     <micrCode>424765001</micrCode>
     <ifscCode>AUBL0002358</ifscCode>
-    <bankLoc>81</bankLoc>
+    <bankLoc>82</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aurangabad</name>
@@ -492,7 +510,7 @@
     <contact>0</contact>
     <micrCode>431765002</micrCode>
     <ifscCode>AUBL0002357</ifscCode>
-    <bankLoc>79</bankLoc>
+    <bankLoc>80</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmednagar Savedi</name>
@@ -501,7 +519,7 @@
     <contact>0</contact>
     <micrCode>414765002</micrCode>
     <ifscCode>AUBL0002356</ifscCode>
-    <bankLoc>76</bankLoc>
+    <bankLoc>77</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Solapur</name>
@@ -510,7 +528,7 @@
     <contact>0</contact>
     <micrCode>413765002</micrCode>
     <ifscCode>AUBL0002355</ifscCode>
-    <bankLoc>97</bankLoc>
+    <bankLoc>98</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pune FC Road</name>
@@ -519,7 +537,7 @@
     <contact>0</contact>
     <micrCode>411765004</micrCode>
     <ifscCode>AUBL0002354</ifscCode>
-    <bankLoc>92</bankLoc>
+    <bankLoc>93</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pimpri</name>
@@ -528,7 +546,7 @@
     <contact>0</contact>
     <micrCode>411765002</micrCode>
     <ifscCode>AUBL0002353</ifscCode>
-    <bankLoc>92</bankLoc>
+    <bankLoc>93</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narayangaon Pune Nasik Highway</name>
@@ -537,7 +555,7 @@
     <contact>0</contact>
     <micrCode>410765152</micrCode>
     <ifscCode>AUBL0002351</ifscCode>
-    <bankLoc>92</bankLoc>
+    <bankLoc>93</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hadapsar Kharadi</name>
@@ -546,7 +564,7 @@
     <contact>0</contact>
     <micrCode>411765003</micrCode>
     <ifscCode>AUBL0002350</ifscCode>
-    <bankLoc>92</bankLoc>
+    <bankLoc>93</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baramati Bhigvan Road</name>
@@ -555,7 +573,7 @@
     <contact>0</contact>
     <micrCode>413765101</micrCode>
     <ifscCode>AUBL0002349</ifscCode>
-    <bankLoc>92</bankLoc>
+    <bankLoc>93</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thane</name>
@@ -564,7 +582,7 @@
     <contact>0</contact>
     <micrCode>400765005</micrCode>
     <ifscCode>AUBL0002348</ifscCode>
-    <bankLoc>98</bankLoc>
+    <bankLoc>99</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nashik</name>
@@ -573,7 +591,7 @@
     <contact>0</contact>
     <micrCode>422765002</micrCode>
     <ifscCode>AUBL0002347</ifscCode>
-    <bankLoc>90</bankLoc>
+    <bankLoc>91</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalyan</name>
@@ -582,7 +600,7 @@
     <contact>0</contact>
     <micrCode>400765003</micrCode>
     <ifscCode>AUBL0002346</ifscCode>
-    <bankLoc>98</bankLoc>
+    <bankLoc>99</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Boisar</name>
@@ -591,7 +609,7 @@
     <contact>0</contact>
     <micrCode>400765004</micrCode>
     <ifscCode>AUBL0002345</ifscCode>
-    <bankLoc>91</bankLoc>
+    <bankLoc>92</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasai</name>
@@ -600,7 +618,7 @@
     <contact>0</contact>
     <micrCode>400765008</micrCode>
     <ifscCode>AUBL0002343</ifscCode>
-    <bankLoc>98</bankLoc>
+    <bankLoc>99</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai-sv Road</name>
@@ -609,7 +627,7 @@
     <contact>0</contact>
     <micrCode>400765006</micrCode>
     <ifscCode>AUBL0002342</ifscCode>
-    <bankLoc>87</bankLoc>
+    <bankLoc>88</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai-borivali</name>
@@ -618,7 +636,7 @@
     <contact>0</contact>
     <micrCode>400765007</micrCode>
     <ifscCode>AUBL0002341</ifscCode>
-    <bankLoc>87</bankLoc>
+    <bankLoc>88</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mumbai-andheri Kurla Road</name>
@@ -627,7 +645,7 @@
     <contact>0</contact>
     <micrCode>400765002</micrCode>
     <ifscCode>AUBL0002340</ifscCode>
-    <bankLoc>87</bankLoc>
+    <bankLoc>88</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur-fafadik Chowk</name>
@@ -645,7 +663,7 @@
     <contact>0</contact>
     <micrCode>481765101</micrCode>
     <ifscCode>AUBL0002337</ifscCode>
-    <bankLoc>62</bankLoc>
+    <bankLoc>64</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Korba-tp Nagar</name>
@@ -690,7 +708,7 @@
     <contact>0</contact>
     <micrCode>472765001</micrCode>
     <ifscCode>AUBL0002331</ifscCode>
-    <bankLoc>72</bankLoc>
+    <bankLoc>73</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satna</name>
@@ -699,16 +717,16 @@
     <contact>0</contact>
     <micrCode>485765001</micrCode>
     <ifscCode>AUBL0002330</ifscCode>
-    <bankLoc>69</bankLoc>
+    <bankLoc>70</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rewa-hedgewar Nagar</name>
-    <city>EA</city>
+    <city>Rewa</city>
     <address>32 C Hedgewar Nagar IN Front OF Radio Colony 486001</address>
     <contact>0</contact>
     <micrCode>486765001</micrCode>
     <ifscCode>AUBL0002329</ifscCode>
-    <bankLoc>68</bankLoc>
+    <bankLoc>58</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Katni-jabalpur Road</name>
@@ -717,7 +735,7 @@
     <contact>0</contact>
     <micrCode>483765001</micrCode>
     <ifscCode>AUBL0002328</ifscCode>
-    <bankLoc>61</bankLoc>
+    <bankLoc>63</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jabalpur-swami Dayanand Saraswati</name>
@@ -726,7 +744,7 @@
     <contact>0</contact>
     <micrCode>482765001</micrCode>
     <ifscCode>AUBL0002327</ifscCode>
-    <bankLoc>60</bankLoc>
+    <bankLoc>62</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chhindwara-adarsh Nagar Parasia Road</name>
@@ -735,7 +753,7 @@
     <contact>0</contact>
     <micrCode>480765001</micrCode>
     <ifscCode>AUBL0002326</ifscCode>
-    <bankLoc>54</bankLoc>
+    <bankLoc>55</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chhatarpur-jawahar Road</name>
@@ -744,7 +762,7 @@
     <contact>0</contact>
     <micrCode>471765001</micrCode>
     <ifscCode>AUBL0002325</ifscCode>
-    <bankLoc>53</bankLoc>
+    <bankLoc>54</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shamgarh-garoth Road</name>
@@ -753,7 +771,7 @@
     <contact>0</contact>
     <micrCode>458765501</micrCode>
     <ifscCode>AUBL0002324</ifscCode>
-    <bankLoc>63</bankLoc>
+    <bankLoc>65</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ratlam-nazar Bagh</name>
@@ -762,7 +780,7 @@
     <contact>0</contact>
     <micrCode>457765001</micrCode>
     <ifscCode>AUBL0002323</ifscCode>
-    <bankLoc>67</bankLoc>
+    <bankLoc>69</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neemuch-ambedkar Road Colony</name>
@@ -771,7 +789,7 @@
     <contact>0</contact>
     <micrCode>458765051</micrCode>
     <ifscCode>AUBL0002322</ifscCode>
-    <bankLoc>64</bankLoc>
+    <bankLoc>66</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mandsaur-station Road</name>
@@ -780,7 +798,7 @@
     <contact>0</contact>
     <micrCode>458765001</micrCode>
     <ifscCode>AUBL0002321</ifscCode>
-    <bankLoc>63</bankLoc>
+    <bankLoc>65</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alot-malgodown Road</name>
@@ -789,7 +807,7 @@
     <contact>0</contact>
     <micrCode>457765501</micrCode>
     <ifscCode>AUBL0002320</ifscCode>
-    <bankLoc>67</bankLoc>
+    <bankLoc>69</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ujjain</name>
@@ -798,7 +816,7 @@
     <contact>0</contact>
     <micrCode>456765001</micrCode>
     <ifscCode>AUBL0002319</ifscCode>
-    <bankLoc>73</bankLoc>
+    <bankLoc>74</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pithampur-sanskar Valley</name>
@@ -807,7 +825,7 @@
     <contact>0</contact>
     <micrCode>454765501</micrCode>
     <ifscCode>AUBL0002318</ifscCode>
-    <bankLoc>56</bankLoc>
+    <bankLoc>57</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khategaon-narmada Marg</name>
@@ -816,7 +834,7 @@
     <contact>0</contact>
     <micrCode>455765002</micrCode>
     <ifscCode>AUBL0002317</ifscCode>
-    <bankLoc>55</bankLoc>
+    <bankLoc>56</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khargone-radha Vallabh Market</name>
@@ -825,7 +843,7 @@
     <contact>0</contact>
     <micrCode>451765001</micrCode>
     <ifscCode>AUBL0002316</ifscCode>
-    <bankLoc>75</bankLoc>
+    <bankLoc>76</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khandwa-anand Nagar</name>
@@ -834,7 +852,7 @@
     <contact>0</contact>
     <micrCode>450765101</micrCode>
     <ifscCode>AUBL0002315</ifscCode>
-    <bankLoc>57</bankLoc>
+    <bankLoc>59</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indore-bhanwar Kuan Road</name>
@@ -843,7 +861,7 @@
     <contact>0</contact>
     <micrCode>452765002</micrCode>
     <ifscCode>AUBL0002314</ifscCode>
-    <bankLoc>59</bankLoc>
+    <bankLoc>61</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indore- AB Road</name>
@@ -852,7 +870,7 @@
     <contact>0</contact>
     <micrCode>452765001</micrCode>
     <ifscCode>AUBL0002313</ifscCode>
-    <bankLoc>59</bankLoc>
+    <bankLoc>61</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhar-magajpura Road</name>
@@ -861,7 +879,7 @@
     <contact>0</contact>
     <micrCode>454765001</micrCode>
     <ifscCode>AUBL0002312</ifscCode>
-    <bankLoc>56</bankLoc>
+    <bankLoc>57</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dewas-jawahar Nagar</name>
@@ -870,7 +888,7 @@
     <contact>0</contact>
     <micrCode>455765001</micrCode>
     <ifscCode>AUBL0002311</ifscCode>
-    <bankLoc>55</bankLoc>
+    <bankLoc>56</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barwani-mg Road</name>
@@ -879,7 +897,7 @@
     <contact>0</contact>
     <micrCode>451765051</micrCode>
     <ifscCode>AUBL0002310</ifscCode>
-    <bankLoc>50</bankLoc>
+    <bankLoc>51</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agar Malwa-city Centre</name>
@@ -888,7 +906,7 @@
     <contact>0</contact>
     <micrCode>465765501</micrCode>
     <ifscCode>AUBL0002309</ifscCode>
-    <bankLoc>49</bankLoc>
+    <bankLoc>50</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidisha-subhash Path</name>
@@ -897,7 +915,7 @@
     <contact>0</contact>
     <micrCode>464765201</micrCode>
     <ifscCode>AUBL0002308</ifscCode>
-    <bankLoc>74</bankLoc>
+    <bankLoc>75</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shujalpur-m G Road</name>
@@ -906,7 +924,7 @@
     <contact>0</contact>
     <micrCode>465765051</micrCode>
     <ifscCode>AUBL0002307</ifscCode>
-    <bankLoc>71</bankLoc>
+    <bankLoc>72</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raisen-arjun Nagar</name>
@@ -915,7 +933,7 @@
     <contact>0</contact>
     <micrCode>464765001</micrCode>
     <ifscCode>AUBL0002306</ifscCode>
-    <bankLoc>65</bankLoc>
+    <bankLoc>67</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pandhurna-shastri Ward</name>
@@ -924,7 +942,7 @@
     <contact>0</contact>
     <micrCode>480765501</micrCode>
     <ifscCode>AUBL0002305</ifscCode>
-    <bankLoc>54</bankLoc>
+    <bankLoc>55</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nasrullaganj-rishi Nagar</name>
@@ -933,7 +951,7 @@
     <contact>0</contact>
     <micrCode>466765501</micrCode>
     <ifscCode>AUBL0002304</ifscCode>
-    <bankLoc>70</bankLoc>
+    <bankLoc>71</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoshangabad-anand Nagar</name>
@@ -942,7 +960,7 @@
     <contact>0</contact>
     <micrCode>461765001</micrCode>
     <ifscCode>AUBL0002303</ifscCode>
-    <bankLoc>58</bankLoc>
+    <bankLoc>60</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ganj Basoda-bareth Road</name>
@@ -951,7 +969,7 @@
     <contact>0</contact>
     <micrCode>464765051</micrCode>
     <ifscCode>AUBL0002302</ifscCode>
-    <bankLoc>74</bankLoc>
+    <bankLoc>75</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Biaora</name>
@@ -960,7 +978,7 @@
     <contact>0</contact>
     <micrCode>465765001</micrCode>
     <ifscCode>AUBL0002301</ifscCode>
-    <bankLoc>66</bankLoc>
+    <bankLoc>68</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal-raisen Road</name>
@@ -969,7 +987,7 @@
     <contact>0</contact>
     <micrCode>462765002</micrCode>
     <ifscCode>AUBL0002300</ifscCode>
-    <bankLoc>52</bankLoc>
+    <bankLoc>53</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhopal-mp Nagar</name>
@@ -978,7 +996,7 @@
     <contact>0</contact>
     <micrCode>462765001</micrCode>
     <ifscCode>AUBL0002299</ifscCode>
-    <bankLoc>52</bankLoc>
+    <bankLoc>53</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Betul-civil Lines</name>
@@ -987,7 +1005,7 @@
     <contact>0</contact>
     <micrCode>460765001</micrCode>
     <ifscCode>AUBL0002298</ifscCode>
-    <bankLoc>51</bankLoc>
+    <bankLoc>52</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baraily-bus Stand Main Road</name>
@@ -996,7 +1014,7 @@
     <contact>0</contact>
     <micrCode>464765501</micrCode>
     <ifscCode>AUBL0002297</ifscCode>
-    <bankLoc>65</bankLoc>
+    <bankLoc>67</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ashta-kannod Road</name>
@@ -1005,7 +1023,7 @@
     <contact>0</contact>
     <micrCode>466765001</micrCode>
     <ifscCode>AUBL0002296</ifscCode>
-    <bankLoc>70</bankLoc>
+    <bankLoc>71</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pokaran-jodhpur Road</name>
@@ -1014,7 +1032,7 @@
     <contact>0</contact>
     <micrCode>345765003</micrCode>
     <ifscCode>AUBL0002295</ifscCode>
-    <bankLoc>132</bankLoc>
+    <bankLoc>134</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaisalmer-satya Kunj</name>
@@ -1023,7 +1041,7 @@
     <contact>0</contact>
     <micrCode>345765002</micrCode>
     <ifscCode>AUBL0002294</ifscCode>
-    <bankLoc>132</bankLoc>
+    <bankLoc>134</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chohtan</name>
@@ -1032,7 +1050,7 @@
     <contact>0</contact>
     <micrCode>344765004</micrCode>
     <ifscCode>AUBL0002293</ifscCode>
-    <bankLoc>121</bankLoc>
+    <bankLoc>123</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barmer-roy Colony</name>
@@ -1041,7 +1059,7 @@
     <contact>0</contact>
     <micrCode>344765002</micrCode>
     <ifscCode>AUBL0002292</ifscCode>
-    <bankLoc>121</bankLoc>
+    <bankLoc>123</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balotra-pachpadra Road</name>
@@ -1050,7 +1068,7 @@
     <contact>0</contact>
     <micrCode>344765003</micrCode>
     <ifscCode>AUBL0002291</ifscCode>
-    <bankLoc>121</bankLoc>
+    <bankLoc>123</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balesar-nh</name>
@@ -1059,7 +1077,7 @@
     <contact>0</contact>
     <micrCode>342765009</micrCode>
     <ifscCode>AUBL0002290</ifscCode>
-    <bankLoc>136</bankLoc>
+    <bankLoc>138</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Suratgarh-bikaner Road</name>
@@ -1068,7 +1086,7 @@
     <contact>0</contact>
     <micrCode>335765010</micrCode>
     <ifscCode>AUBL0002289</ifscCode>
-    <bankLoc>129</bankLoc>
+    <bankLoc>131</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Vijaynagar-gol Bazar</name>
@@ -1077,7 +1095,7 @@
     <contact>0</contact>
     <micrCode>335765009</micrCode>
     <ifscCode>AUBL0002288</ifscCode>
-    <bankLoc>129</bankLoc>
+    <bankLoc>131</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Ganganagar-ravindra Path</name>
@@ -1086,7 +1104,7 @@
     <contact>0</contact>
     <micrCode>335765002</micrCode>
     <ifscCode>AUBL0002287</ifscCode>
-    <bankLoc>129</bankLoc>
+    <bankLoc>131</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rawatsar-dhanmandi</name>
@@ -1095,7 +1113,7 @@
     <contact>0</contact>
     <micrCode>335765008</micrCode>
     <ifscCode>AUBL0002286</ifscCode>
-    <bankLoc>130</bankLoc>
+    <bankLoc>132</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raisinghnagar-grain Market</name>
@@ -1104,7 +1122,7 @@
     <contact>0</contact>
     <micrCode>335765007</micrCode>
     <ifscCode>AUBL0002285</ifscCode>
-    <bankLoc>129</bankLoc>
+    <bankLoc>131</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nohar-bihani Road</name>
@@ -1113,7 +1131,7 @@
     <contact>0</contact>
     <micrCode>335765006</micrCode>
     <ifscCode>AUBL0002284</ifscCode>
-    <bankLoc>130</bankLoc>
+    <bankLoc>132</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hanumangarh-deep Colony</name>
@@ -1122,7 +1140,7 @@
     <contact>0</contact>
     <micrCode>335765003</micrCode>
     <ifscCode>AUBL0002283</ifscCode>
-    <bankLoc>130</bankLoc>
+    <bankLoc>132</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bisrasar</name>
@@ -1131,7 +1149,7 @@
     <contact>0</contact>
     <micrCode>335765005</micrCode>
     <ifscCode>AUBL0002282</ifscCode>
-    <bankLoc>130</bankLoc>
+    <bankLoc>132</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anupgarh-bikaner Road</name>
@@ -1140,7 +1158,7 @@
     <contact>0</contact>
     <micrCode>335765004</micrCode>
     <ifscCode>AUBL0002281</ifscCode>
-    <bankLoc>129</bankLoc>
+    <bankLoc>131</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sumerpur-pali Road</name>
@@ -1149,7 +1167,7 @@
     <contact>0</contact>
     <micrCode>306765004</micrCode>
     <ifscCode>AUBL0002280</ifscCode>
-    <bankLoc>139</bankLoc>
+    <bankLoc>141</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sirohi</name>
@@ -1158,7 +1176,7 @@
     <contact>0</contact>
     <micrCode>307765002</micrCode>
     <ifscCode>AUBL0002279</ifscCode>
-    <bankLoc>144</bankLoc>
+    <bankLoc>146</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Reodar-mega Highway</name>
@@ -1167,7 +1185,7 @@
     <contact>0</contact>
     <micrCode>307765004</micrCode>
     <ifscCode>AUBL0002278</ifscCode>
-    <bankLoc>144</bankLoc>
+    <bankLoc>146</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pali-mahaveer Marg</name>
@@ -1176,7 +1194,7 @@
     <contact>0</contact>
     <micrCode>306765002</micrCode>
     <ifscCode>AUBL0002277</ifscCode>
-    <bankLoc>139</bankLoc>
+    <bankLoc>141</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalore-bagoda Road</name>
@@ -1185,7 +1203,7 @@
     <contact>0</contact>
     <micrCode>343765002</micrCode>
     <ifscCode>AUBL0002276</ifscCode>
-    <bankLoc>133</bankLoc>
+    <bankLoc>135</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaitaran-namaj Road</name>
@@ -1194,7 +1212,7 @@
     <contact>0</contact>
     <micrCode>306765003</micrCode>
     <ifscCode>AUBL0002275</ifscCode>
-    <bankLoc>139</bankLoc>
+    <bankLoc>141</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhinmal-krishi Mandi Road</name>
@@ -1203,7 +1221,7 @@
     <contact>0</contact>
     <micrCode>343765003</micrCode>
     <ifscCode>AUBL0002274</ifscCode>
-    <bankLoc>133</bankLoc>
+    <bankLoc>135</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ABU Road-sadar Bazar</name>
@@ -1212,7 +1230,7 @@
     <contact>0</contact>
     <micrCode>307765003</micrCode>
     <ifscCode>AUBL0002273</ifscCode>
-    <bankLoc>144</bankLoc>
+    <bankLoc>146</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sardarshahar</name>
@@ -1221,7 +1239,7 @@
     <contact>0</contact>
     <micrCode>331765003</micrCode>
     <ifscCode>AUBL0002272</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ratangarh-link Road</name>
@@ -1230,7 +1248,7 @@
     <contact>0</contact>
     <micrCode>331765005</micrCode>
     <ifscCode>AUBL0002271</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nokha-bikaner Road</name>
@@ -1239,7 +1257,7 @@
     <contact>0</contact>
     <micrCode>334765004</micrCode>
     <ifscCode>AUBL0002270</ifscCode>
-    <bankLoc>123</bankLoc>
+    <bankLoc>125</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagaur</name>
@@ -1248,7 +1266,7 @@
     <contact>0</contact>
     <micrCode>341765002</micrCode>
     <ifscCode>AUBL0002269</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lunkaransar-new Dhan Mandi</name>
@@ -1257,7 +1275,7 @@
     <contact>0</contact>
     <micrCode>334765005</micrCode>
     <ifscCode>AUBL0002268</ifscCode>
-    <bankLoc>123</bankLoc>
+    <bankLoc>125</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolayat</name>
@@ -1266,7 +1284,7 @@
     <contact>0</contact>
     <micrCode>334765006</micrCode>
     <ifscCode>AUBL0002267</ifscCode>
-    <bankLoc>123</bankLoc>
+    <bankLoc>125</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dungargarh-station Road</name>
@@ -1275,7 +1293,7 @@
     <contact>0</contact>
     <micrCode>331765004</micrCode>
     <ifscCode>AUBL0002266</ifscCode>
-    <bankLoc>123</bankLoc>
+    <bankLoc>125</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bikaner-pawan Puri</name>
@@ -1284,7 +1302,7 @@
     <contact>0</contact>
     <micrCode>334765003</micrCode>
     <ifscCode>AUBL0002265</ifscCode>
-    <bankLoc>123</bankLoc>
+    <bankLoc>125</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bikaner-rani Bazar</name>
@@ -1293,7 +1311,7 @@
     <contact>0</contact>
     <micrCode>334765002</micrCode>
     <ifscCode>AUBL0002264</ifscCode>
-    <bankLoc>123</bankLoc>
+    <bankLoc>125</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pipar-ambedkar Circle</name>
@@ -1302,7 +1320,7 @@
     <contact>0</contact>
     <micrCode>342765006</micrCode>
     <ifscCode>AUBL0002263</ifscCode>
-    <bankLoc>136</bankLoc>
+    <bankLoc>138</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Phalodi-jangir Plaza</name>
@@ -1311,7 +1329,7 @@
     <contact>0</contact>
     <micrCode>342765005</micrCode>
     <ifscCode>AUBL0002262</ifscCode>
-    <bankLoc>136</bankLoc>
+    <bankLoc>138</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Osian-main Station Road</name>
@@ -1320,7 +1338,7 @@
     <contact>0</contact>
     <micrCode>342765004</micrCode>
     <ifscCode>AUBL0002261</ifscCode>
-    <bankLoc>136</bankLoc>
+    <bankLoc>138</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Merta City-krishimandi Road</name>
@@ -1329,7 +1347,7 @@
     <contact>0</contact>
     <micrCode>341765004</micrCode>
     <ifscCode>AUBL0002260</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuchaman City-kuchaman Deedwana Road</name>
@@ -1338,7 +1356,7 @@
     <contact>0</contact>
     <micrCode>341765005</micrCode>
     <ifscCode>AUBL0002259</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur-ii</name>
@@ -1347,7 +1365,7 @@
     <contact>0</contact>
     <micrCode>342765003</micrCode>
     <ifscCode>AUBL0002258</ifscCode>
-    <bankLoc>136</bankLoc>
+    <bankLoc>138</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodhpur-nai Sadak</name>
@@ -1356,7 +1374,7 @@
     <contact>0</contact>
     <micrCode>342765002</micrCode>
     <ifscCode>AUBL0002257</ifscCode>
-    <bankLoc>136</bankLoc>
+    <bankLoc>138</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gotan</name>
@@ -1365,7 +1383,7 @@
     <contact>0</contact>
     <micrCode>342765007</micrCode>
     <ifscCode>AUBL0002256</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Degana-kilak Complex</name>
@@ -1374,7 +1392,7 @@
     <contact>0</contact>
     <micrCode>341765006</micrCode>
     <ifscCode>AUBL0002255</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sawai Madhopur-indira Colony</name>
@@ -1383,7 +1401,7 @@
     <contact>0</contact>
     <micrCode>322765002</micrCode>
     <ifscCode>AUBL0002254</ifscCode>
-    <bankLoc>142</bankLoc>
+    <bankLoc>144</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangod-kota Road</name>
@@ -1392,7 +1410,7 @@
     <contact>0</contact>
     <micrCode>325765004</micrCode>
     <ifscCode>AUBL0002253</ifscCode>
-    <bankLoc>137</bankLoc>
+    <bankLoc>139</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramganj Mandi-raonsli Circle</name>
@@ -1401,7 +1419,7 @@
     <contact>0</contact>
     <micrCode>326765003</micrCode>
     <ifscCode>AUBL0002252</ifscCode>
-    <bankLoc>137</bankLoc>
+    <bankLoc>139</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kota-talwandi Circle</name>
@@ -1410,7 +1428,7 @@
     <contact>0</contact>
     <micrCode>324765003</micrCode>
     <ifscCode>AUBL0002251</ifscCode>
-    <bankLoc>137</bankLoc>
+    <bankLoc>139</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kota-ghodewala Circle</name>
@@ -1419,7 +1437,7 @@
     <contact>0</contact>
     <micrCode>324765002</micrCode>
     <ifscCode>AUBL0002250</ifscCode>
-    <bankLoc>137</bankLoc>
+    <bankLoc>139</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jhalawar-nirbhay Singh Circle</name>
@@ -1428,7 +1446,7 @@
     <contact>0</contact>
     <micrCode>326765002</micrCode>
     <ifscCode>AUBL0002249</ifscCode>
-    <bankLoc>134</bankLoc>
+    <bankLoc>136</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deoli</name>
@@ -1437,7 +1455,7 @@
     <contact>0</contact>
     <micrCode>304765003</micrCode>
     <ifscCode>AUBL0002248</ifscCode>
-    <bankLoc>145</bankLoc>
+    <bankLoc>147</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chhabra-station Road</name>
@@ -1446,7 +1464,7 @@
     <contact>0</contact>
     <micrCode>325765003</micrCode>
     <ifscCode>AUBL0002247</ifscCode>
-    <bankLoc>120</bankLoc>
+    <bankLoc>122</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chamawali-bundi Road</name>
@@ -1455,7 +1473,7 @@
     <contact>0</contact>
     <micrCode>323765003</micrCode>
     <ifscCode>AUBL0002246</ifscCode>
-    <bankLoc>124</bankLoc>
+    <bankLoc>126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bundi-civil Line Road</name>
@@ -1464,7 +1482,7 @@
     <contact>0</contact>
     <micrCode>323765002</micrCode>
     <ifscCode>AUBL0002245</ifscCode>
-    <bankLoc>124</bankLoc>
+    <bankLoc>126</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baran-charmurti Circle</name>
@@ -1473,7 +1491,7 @@
     <contact>0</contact>
     <micrCode>325765002</micrCode>
     <ifscCode>AUBL0002244</ifscCode>
-    <bankLoc>120</bankLoc>
+    <bankLoc>122</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udaipur-delhi Gate</name>
@@ -1482,7 +1500,7 @@
     <contact>0</contact>
     <micrCode>313765002</micrCode>
     <ifscCode>AUBL0002243</ifscCode>
-    <bankLoc>146</bankLoc>
+    <bankLoc>148</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salumber</name>
@@ -1491,7 +1509,7 @@
     <contact>0</contact>
     <micrCode>313765005</micrCode>
     <ifscCode>AUBL0002242</ifscCode>
-    <bankLoc>146</bankLoc>
+    <bankLoc>148</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sagwara-dungarpur Road</name>
@@ -1500,7 +1518,7 @@
     <contact>0</contact>
     <micrCode>314765003</micrCode>
     <ifscCode>AUBL0002241</ifscCode>
-    <bankLoc>128</bankLoc>
+    <bankLoc>130</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fatehnagar-post Office Road</name>
@@ -1509,7 +1527,7 @@
     <contact>0</contact>
     <micrCode>313765004</micrCode>
     <ifscCode>AUBL0002240</ifscCode>
-    <bankLoc>146</bankLoc>
+    <bankLoc>148</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dungarpur</name>
@@ -1518,7 +1536,7 @@
     <contact>0</contact>
     <micrCode>314765002</micrCode>
     <ifscCode>AUBL0002239</ifscCode>
-    <bankLoc>128</bankLoc>
+    <bankLoc>130</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhinder-station Road</name>
@@ -1527,7 +1545,7 @@
     <contact>0</contact>
     <micrCode>313765006</micrCode>
     <ifscCode>AUBL0002238</ifscCode>
-    <bankLoc>146</bankLoc>
+    <bankLoc>148</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banswara-mohan Colony</name>
@@ -1536,7 +1554,7 @@
     <contact>0</contact>
     <micrCode>327765002</micrCode>
     <ifscCode>AUBL0002237</ifscCode>
-    <bankLoc>119</bankLoc>
+    <bankLoc>121</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajsamand-kankroli</name>
@@ -1545,7 +1563,7 @@
     <contact>0</contact>
     <micrCode>313765003</micrCode>
     <ifscCode>AUBL0002236</ifscCode>
-    <bankLoc>141</bankLoc>
+    <bankLoc>143</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pratapgarh-high School Road</name>
@@ -1554,7 +1572,7 @@
     <contact>0</contact>
     <micrCode>312765003</micrCode>
     <ifscCode>AUBL0002235</ifscCode>
-    <bankLoc>140</bankLoc>
+    <bankLoc>142</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangapur</name>
@@ -1563,7 +1581,7 @@
     <contact>0</contact>
     <micrCode>311765005</micrCode>
     <ifscCode>AUBL0002234</ifscCode>
-    <bankLoc>122</bankLoc>
+    <bankLoc>124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chittorgarh-kumbhanagar</name>
@@ -1572,7 +1590,7 @@
     <contact>0</contact>
     <micrCode>312765002</micrCode>
     <ifscCode>AUBL0002233</ifscCode>
-    <bankLoc>125</bankLoc>
+    <bankLoc>127</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijolia</name>
@@ -1581,7 +1599,7 @@
     <contact>0</contact>
     <micrCode>311765003</micrCode>
     <ifscCode>AUBL0002232</ifscCode>
-    <bankLoc>122</bankLoc>
+    <bankLoc>124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhilwara-hira Panna Market</name>
@@ -1590,7 +1608,7 @@
     <contact>0</contact>
     <micrCode>311765002</micrCode>
     <ifscCode>AUBL0002231</ifscCode>
-    <bankLoc>122</bankLoc>
+    <bankLoc>124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Begun-tehsil Road</name>
@@ -1599,7 +1617,7 @@
     <contact>0</contact>
     <micrCode>312765004</micrCode>
     <ifscCode>AUBL0002230</ifscCode>
-    <bankLoc>125</bankLoc>
+    <bankLoc>127</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Asind-panchayat Samiti Road</name>
@@ -1608,7 +1626,7 @@
     <contact>0</contact>
     <micrCode>311765004</micrCode>
     <ifscCode>AUBL0002229</ifscCode>
-    <bankLoc>122</bankLoc>
+    <bankLoc>124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarwar-link Road</name>
@@ -1617,7 +1635,7 @@
     <contact>0</contact>
     <micrCode>305765008</micrCode>
     <ifscCode>AUBL0002228</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parbatsar-kishangarh Road</name>
@@ -1626,7 +1644,7 @@
     <contact>0</contact>
     <micrCode>341765007</micrCode>
     <ifscCode>AUBL0002227</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nawa-shree RAM Sadan</name>
@@ -1635,7 +1653,7 @@
     <contact>0</contact>
     <micrCode>341765008</micrCode>
     <ifscCode>AUBL0002226</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nasirabad-subhash Ganj</name>
@@ -1644,7 +1662,7 @@
     <contact>0</contact>
     <micrCode>305765005</micrCode>
     <ifscCode>AUBL0002225</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kishangarh-madanganj</name>
@@ -1653,7 +1671,7 @@
     <contact>0</contact>
     <micrCode>305765004</micrCode>
     <ifscCode>AUBL0002224</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kekri-sapanda Road</name>
@@ -1662,7 +1680,7 @@
     <contact>0</contact>
     <micrCode>305765007</micrCode>
     <ifscCode>AUBL0002223</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijainagar-mill Road</name>
@@ -1671,7 +1689,7 @@
     <contact>0</contact>
     <micrCode>305765006</micrCode>
     <ifscCode>AUBL0002222</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Beawar-jodhpur Road</name>
@@ -1680,7 +1698,7 @@
     <contact>0</contact>
     <micrCode>305765003</micrCode>
     <ifscCode>AUBL0002221</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajmer-anasagar Road</name>
@@ -1689,7 +1707,7 @@
     <contact>0</contact>
     <micrCode>305765002</micrCode>
     <ifscCode>AUBL0002220</ifscCode>
-    <bankLoc>117</bankLoc>
+    <bankLoc>119</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tonk</name>
@@ -1698,7 +1716,7 @@
     <contact>0</contact>
     <micrCode>304765002</micrCode>
     <ifscCode>AUBL0002219</ifscCode>
-    <bankLoc>145</bankLoc>
+    <bankLoc>147</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Phagi-jaipur Road</name>
@@ -1707,7 +1725,7 @@
     <contact>0</contact>
     <micrCode>303765017</micrCode>
     <ifscCode>AUBL0002218</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur Gopalpura BYE Pass</name>
@@ -1716,7 +1734,7 @@
     <contact>0</contact>
     <micrCode>302765012</micrCode>
     <ifscCode>AUBL0002215</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-mansarovar Madhyam Marg</name>
@@ -1725,7 +1743,7 @@
     <contact>0</contact>
     <micrCode>302765003</micrCode>
     <ifscCode>AUBL0002214</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chaksu-kotkhavada MOD</name>
@@ -1734,7 +1752,7 @@
     <contact>0</contact>
     <micrCode>303765016</micrCode>
     <ifscCode>AUBL0002213</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bassi</name>
@@ -1743,7 +1761,7 @@
     <contact>0</contact>
     <micrCode>303765015</micrCode>
     <ifscCode>AUBL0002212</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barna</name>
@@ -1752,7 +1770,7 @@
     <contact>0</contact>
     <micrCode>303765018</micrCode>
     <ifscCode>AUBL0002211</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Renwal-agrasen Market</name>
@@ -1761,7 +1779,7 @@
     <contact>0</contact>
     <micrCode>303765014</micrCode>
     <ifscCode>AUBL0002210</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-santokba Durlabji</name>
@@ -1770,7 +1788,7 @@
     <contact>0</contact>
     <micrCode>302765004</micrCode>
     <ifscCode>AUBL0002209</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-c-scheme</name>
@@ -1779,7 +1797,7 @@
     <contact>0</contact>
     <micrCode>302765002</micrCode>
     <ifscCode>AUBL0002207</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-vaishali Nagar</name>
@@ -1788,7 +1806,7 @@
     <contact>0</contact>
     <micrCode>302765005</micrCode>
     <ifscCode>AUBL0002206</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dudu-main Chauraha</name>
@@ -1797,7 +1815,7 @@
     <contact>0</contact>
     <micrCode>303765013</micrCode>
     <ifscCode>AUBL0002205</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhankrota-neer Sagar Market</name>
@@ -1806,7 +1824,7 @@
     <contact>0</contact>
     <micrCode>302765010</micrCode>
     <ifscCode>AUBL0002204</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bagru-baba Market</name>
@@ -1815,7 +1833,7 @@
     <contact>0</contact>
     <micrCode>303765012</micrCode>
     <ifscCode>AUBL0002203</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thoi-loharoo KA Mohalla</name>
@@ -1824,7 +1842,7 @@
     <contact>0</contact>
     <micrCode>332765009</micrCode>
     <ifscCode>AUBL0002202</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thanagazi-alwar Road</name>
@@ -1833,7 +1851,7 @@
     <contact>0</contact>
     <micrCode>301765007</micrCode>
     <ifscCode>AUBL0002201</ifscCode>
-    <bankLoc>118</bankLoc>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shahpura-old Delhi Road</name>
@@ -1842,7 +1860,7 @@
     <contact>0</contact>
     <micrCode>303765011</micrCode>
     <ifscCode>AUBL0002200</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paota-nh</name>
@@ -1851,7 +1869,7 @@
     <contact>0</contact>
     <micrCode>303765010</micrCode>
     <ifscCode>AUBL0002199</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neem KA Thana-kapil Mandi</name>
@@ -1860,7 +1878,7 @@
     <contact>0</contact>
     <micrCode>332765004</micrCode>
     <ifscCode>AUBL0002198</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kotputli-punjabi Sindhi Colony</name>
@@ -1869,7 +1887,7 @@
     <contact>0</contact>
     <micrCode>303765009</micrCode>
     <ifscCode>AUBL0002197</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kishangarh Bas-tijara Road</name>
@@ -1878,7 +1896,7 @@
     <contact>0</contact>
     <micrCode>301765005</micrCode>
     <ifscCode>AUBL0002196</ifscCode>
-    <bankLoc>118</bankLoc>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khetri-ward NO</name>
@@ -1887,7 +1905,7 @@
     <contact>0</contact>
     <micrCode>333765004</micrCode>
     <ifscCode>AUBL0002195</ifscCode>
-    <bankLoc>135</bankLoc>
+    <bankLoc>137</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khandela-barsinghpura Road</name>
@@ -1896,7 +1914,7 @@
     <contact>0</contact>
     <micrCode>332765008</micrCode>
     <ifscCode>AUBL0002194</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gathwari-deep House</name>
@@ -1905,7 +1923,7 @@
     <contact>0</contact>
     <micrCode>303765008</micrCode>
     <ifscCode>AUBL0002193</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhiwadi-bhagat Singh Colony</name>
@@ -1914,7 +1932,7 @@
     <contact>0</contact>
     <micrCode>301765003</micrCode>
     <ifscCode>AUBL0002192</ifscCode>
-    <bankLoc>118</bankLoc>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Behror-goswami Sadan</name>
@@ -1923,7 +1941,7 @@
     <contact>0</contact>
     <micrCode>301765004</micrCode>
     <ifscCode>AUBL0002191</ifscCode>
-    <bankLoc>118</bankLoc>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bansur-narayanpur Road</name>
@@ -1932,7 +1950,7 @@
     <contact>0</contact>
     <micrCode>301765006</micrCode>
     <ifscCode>AUBL0002190</ifscCode>
-    <bankLoc>118</bankLoc>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alwar-raghu Marg</name>
@@ -1941,7 +1959,7 @@
     <contact>0</contact>
     <micrCode>301765002</micrCode>
     <ifscCode>AUBL0002189</ifscCode>
-    <bankLoc>118</bankLoc>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udaipurwati-jhunjhunu Road</name>
@@ -1950,7 +1968,7 @@
     <contact>0</contact>
     <micrCode>333765005</micrCode>
     <ifscCode>AUBL0002188</ifscCode>
-    <bankLoc>135</bankLoc>
+    <bankLoc>137</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Taranagar-sheetla Chowk</name>
@@ -1959,7 +1977,7 @@
     <contact>0</contact>
     <micrCode>331765008</micrCode>
     <ifscCode>AUBL0002187</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahwa-old BUS Stand</name>
@@ -1968,7 +1986,7 @@
     <contact>0</contact>
     <micrCode>331765007</micrCode>
     <ifscCode>AUBL0002186</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nawalgarh-main Market</name>
@@ -1977,7 +1995,7 @@
     <contact>0</contact>
     <micrCode>333765006</micrCode>
     <ifscCode>AUBL0002185</ifscCode>
-    <bankLoc>135</bankLoc>
+    <bankLoc>137</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jhunjhunu-gandhi Chowk</name>
@@ -1986,7 +2004,7 @@
     <contact>0</contact>
     <micrCode>333765002</micrCode>
     <ifscCode>AUBL0002184</ifscCode>
-    <bankLoc>135</bankLoc>
+    <bankLoc>137</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fatehpur-jp Tower</name>
@@ -1995,7 +2013,7 @@
     <contact>0</contact>
     <micrCode>332765006</micrCode>
     <ifscCode>AUBL0002183</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Churu-purani Sadak</name>
@@ -2004,7 +2022,7 @@
     <contact>0</contact>
     <micrCode>331765002</micrCode>
     <ifscCode>AUBL0002182</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chirawa-pilani Road</name>
@@ -2013,7 +2031,7 @@
     <contact>0</contact>
     <micrCode>333765003</micrCode>
     <ifscCode>AUBL0002181</ifscCode>
-    <bankLoc>135</bankLoc>
+    <bankLoc>137</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sujangarh-station Road</name>
@@ -2022,7 +2040,7 @@
     <contact>0</contact>
     <micrCode>331765006</micrCode>
     <ifscCode>AUBL0002180</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Madhopur-station Road</name>
@@ -2031,7 +2049,7 @@
     <contact>0</contact>
     <micrCode>332765005</micrCode>
     <ifscCode>AUBL0002179</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sikar-station Road</name>
@@ -2040,7 +2058,7 @@
     <contact>0</contact>
     <micrCode>332765002</micrCode>
     <ifscCode>AUBL0002177</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Reengus-bus Stand Road</name>
@@ -2049,7 +2067,7 @@
     <contact>0</contact>
     <micrCode>332765003</micrCode>
     <ifscCode>AUBL0002176</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Didwana-edgah Road</name>
@@ -2058,7 +2076,7 @@
     <contact>0</contact>
     <micrCode>341765003</micrCode>
     <ifscCode>AUBL0002174</ifscCode>
-    <bankLoc>138</bankLoc>
+    <bankLoc>140</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dantaramgarh-main Darwaja</name>
@@ -2067,7 +2085,7 @@
     <contact>0</contact>
     <micrCode>332765007</micrCode>
     <ifscCode>AUBL0002173</ifscCode>
-    <bankLoc>143</bankLoc>
+    <bankLoc>145</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidasar-ward NO</name>
@@ -2076,7 +2094,7 @@
     <contact>0</contact>
     <micrCode>331765009</micrCode>
     <ifscCode>AUBL0002172</ifscCode>
-    <bankLoc>126</bankLoc>
+    <bankLoc>128</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khejroli-chomu Road</name>
@@ -2085,7 +2103,7 @@
     <contact>0</contact>
     <micrCode>303765007</micrCode>
     <ifscCode>AUBL0002171</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jobner-kalwar Road</name>
@@ -2094,7 +2112,7 @@
     <contact>0</contact>
     <micrCode>303765006</micrCode>
     <ifscCode>AUBL0002170</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Heerawala-jamwa Ramgarh Road</name>
@@ -2103,7 +2121,7 @@
     <contact>0</contact>
     <micrCode>303765005</micrCode>
     <ifscCode>AUBL0002169</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-vki</name>
@@ -2112,7 +2130,7 @@
     <contact>0</contact>
     <micrCode>302765009</micrCode>
     <ifscCode>AUBL0002168</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-johari Bazar</name>
@@ -2121,7 +2139,7 @@
     <contact>0</contact>
     <micrCode>302765007</micrCode>
     <ifscCode>AUBL0002167</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dausa-agra Road</name>
@@ -2130,7 +2148,7 @@
     <contact>0</contact>
     <micrCode>303765002</micrCode>
     <ifscCode>AUBL0002165</ifscCode>
-    <bankLoc>127</bankLoc>
+    <bankLoc>129</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chomu-new Anaj Mandi</name>
@@ -2139,7 +2157,7 @@
     <contact>0</contact>
     <micrCode>303765004</micrCode>
     <ifscCode>AUBL0002164</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaipur-ambabari</name>
@@ -2148,7 +2166,7 @@
     <contact>0</contact>
     <micrCode>302765008</micrCode>
     <ifscCode>AUBL0002163</ifscCode>
-    <bankLoc>131</bankLoc>
+    <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandikui-choudhary Plaza</name>
@@ -2157,7 +2175,7 @@
     <contact>0</contact>
     <micrCode>303765003</micrCode>
     <ifscCode>AUBL0002162</ifscCode>
-    <bankLoc>127</bankLoc>
+    <bankLoc>129</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad-mani Nagar</name>
@@ -2166,7 +2184,7 @@
     <contact>0</contact>
     <micrCode>380765002</micrCode>
     <ifscCode>AUBL0002161</ifscCode>
-    <bankLoc>8</bankLoc>
+    <bankLoc>9</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad-relief Road</name>
@@ -2175,7 +2193,7 @@
     <contact>0</contact>
     <micrCode>380765007</micrCode>
     <ifscCode>AUBL0002160</ifscCode>
-    <bankLoc>8</bankLoc>
+    <bankLoc>9</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Godhra-landmark Complex</name>
@@ -2184,7 +2202,7 @@
     <contact>0</contact>
     <micrCode>389765001</micrCode>
     <ifscCode>AUBL0002159</ifscCode>
-    <bankLoc>26</bankLoc>
+    <bankLoc>27</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dahod</name>
@@ -2193,7 +2211,7 @@
     <contact>0</contact>
     <micrCode>389765021</micrCode>
     <ifscCode>AUBL0002158</ifscCode>
-    <bankLoc>16</bankLoc>
+    <bankLoc>17</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Borsad-ratan Park Society</name>
@@ -2202,7 +2220,7 @@
     <contact>0</contact>
     <micrCode>388765071</micrCode>
     <ifscCode>AUBL0002157</ifscCode>
-    <bankLoc>9</bankLoc>
+    <bankLoc>10</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhavnagar-waghawadi Road</name>
@@ -2211,7 +2229,7 @@
     <contact>0</contact>
     <micrCode>364765001</micrCode>
     <ifscCode>AUBL0002156</ifscCode>
-    <bankLoc>14</bankLoc>
+    <bankLoc>15</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bavla-silver Plaza Complex</name>
@@ -2220,7 +2238,7 @@
     <contact>0</contact>
     <micrCode>380765003</micrCode>
     <ifscCode>AUBL0002155</ifscCode>
-    <bankLoc>8</bankLoc>
+    <bankLoc>9</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anand-station Road</name>
@@ -2229,7 +2247,7 @@
     <contact>0</contact>
     <micrCode>388765001</micrCode>
     <ifscCode>AUBL0002154</ifscCode>
-    <bankLoc>9</bankLoc>
+    <bankLoc>10</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad-ashram Road</name>
@@ -2238,7 +2256,7 @@
     <contact>0</contact>
     <micrCode>380765006</micrCode>
     <ifscCode>AUBL0002153</ifscCode>
-    <bankLoc>8</bankLoc>
+    <bankLoc>9</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad-shivranjanai</name>
@@ -2247,7 +2265,7 @@
     <contact>0</contact>
     <micrCode>380765001</micrCode>
     <ifscCode>AUBL0002152</ifscCode>
-    <bankLoc>8</bankLoc>
+    <bankLoc>9</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surendranagar-city Center</name>
@@ -2256,7 +2274,7 @@
     <contact>0</contact>
     <micrCode>363765001</micrCode>
     <ifscCode>AUBL0002151</ifscCode>
-    <bankLoc>31</bankLoc>
+    <bankLoc>32</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nadiad-aanand Road</name>
@@ -2265,7 +2283,7 @@
     <contact>0</contact>
     <micrCode>387765001</micrCode>
     <ifscCode>AUBL0002150</ifscCode>
-    <bankLoc>21</bankLoc>
+    <bankLoc>22</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lunawada-godhra Road</name>
@@ -2274,7 +2292,7 @@
     <contact>0</contact>
     <micrCode>389765061</micrCode>
     <ifscCode>AUBL0002149</ifscCode>
-    <bankLoc>23</bankLoc>
+    <bankLoc>24</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kathlal-ahmedabad Road</name>
@@ -2283,7 +2301,7 @@
     <contact>0</contact>
     <micrCode>387765501</micrCode>
     <ifscCode>AUBL0002148</ifscCode>
-    <bankLoc>21</bankLoc>
+    <bankLoc>22</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalol-bt Mall</name>
@@ -2292,7 +2310,7 @@
     <contact>0</contact>
     <micrCode>380765005</micrCode>
     <ifscCode>AUBL0002147</ifscCode>
-    <bankLoc>17</bankLoc>
+    <bankLoc>18</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhinagar-shubh Complex-sector</name>
@@ -2301,7 +2319,7 @@
     <contact>0</contact>
     <micrCode>380765004</micrCode>
     <ifscCode>AUBL0002146</ifscCode>
-    <bankLoc>17</bankLoc>
+    <bankLoc>18</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tharad Wajagadh</name>
@@ -2310,7 +2328,7 @@
     <contact>0</contact>
     <micrCode>385765051</micrCode>
     <ifscCode>AUBL0002145</ifscCode>
-    <bankLoc>11</bankLoc>
+    <bankLoc>12</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patan-rajmahal Station Road</name>
@@ -2319,7 +2337,7 @@
     <contact>0</contact>
     <micrCode>384765081</micrCode>
     <ifscCode>AUBL0002144</ifscCode>
-    <bankLoc>27</bankLoc>
+    <bankLoc>28</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palanpur-abu National Highway</name>
@@ -2328,7 +2346,7 @@
     <contact>0</contact>
     <micrCode>385765001</micrCode>
     <ifscCode>AUBL0002143</ifscCode>
-    <bankLoc>12</bankLoc>
+    <bankLoc>13</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Modasa-shamalaji Road</name>
@@ -2337,7 +2355,7 @@
     <contact>0</contact>
     <micrCode>383765051</micrCode>
     <ifscCode>AUBL0002142</ifscCode>
-    <bankLoc>10</bankLoc>
+    <bankLoc>11</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mehsana</name>
@@ -2346,7 +2364,7 @@
     <contact>0</contact>
     <micrCode>384765001</micrCode>
     <ifscCode>AUBL0002141</ifscCode>
-    <bankLoc>22</bankLoc>
+    <bankLoc>23</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Idar-main Ambaji Highway</name>
@@ -2355,7 +2373,7 @@
     <contact>0</contact>
     <micrCode>383765031</micrCode>
     <ifscCode>AUBL0002140</ifscCode>
-    <bankLoc>29</bankLoc>
+    <bankLoc>30</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Himatnagar-sahkari JIN Road</name>
@@ -2364,7 +2382,7 @@
     <contact>0</contact>
     <micrCode>383765001</micrCode>
     <ifscCode>AUBL0002139</ifscCode>
-    <bankLoc>29</bankLoc>
+    <bankLoc>30</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deodar-alram Park Society</name>
@@ -2373,7 +2391,7 @@
     <contact>0</contact>
     <micrCode>385765071</micrCode>
     <ifscCode>AUBL0002137</ifscCode>
-    <bankLoc>12</bankLoc>
+    <bankLoc>13</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deesa-pitham City Plaza Complex</name>
@@ -2382,7 +2400,7 @@
     <contact>0</contact>
     <micrCode>385765031</micrCode>
     <ifscCode>AUBL0002136</ifscCode>
-    <bankLoc>12</bankLoc>
+    <bankLoc>13</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bayad-market Yard</name>
@@ -2391,7 +2409,7 @@
     <contact>0</contact>
     <micrCode>383765111</micrCode>
     <ifscCode>AUBL0002135</ifscCode>
-    <bankLoc>10</bankLoc>
+    <bankLoc>11</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vapi</name>
@@ -2400,7 +2418,7 @@
     <contact>0</contact>
     <micrCode>396765031</micrCode>
     <ifscCode>AUBL0002134</ifscCode>
-    <bankLoc>33</bankLoc>
+    <bankLoc>34</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat-vesu</name>
@@ -2409,7 +2427,7 @@
     <contact>0</contact>
     <micrCode>395765001</micrCode>
     <ifscCode>AUBL0002133</ifscCode>
-    <bankLoc>30</bankLoc>
+    <bankLoc>31</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surat-i</name>
@@ -2418,7 +2436,7 @@
     <contact>0</contact>
     <micrCode>395765002</micrCode>
     <ifscCode>AUBL0002132</ifscCode>
-    <bankLoc>30</bankLoc>
+    <bankLoc>31</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Navsari-housing Society</name>
@@ -2427,7 +2445,7 @@
     <contact>0</contact>
     <micrCode>396765061</micrCode>
     <ifscCode>AUBL0002131</ifscCode>
-    <bankLoc>25</bankLoc>
+    <bankLoc>26</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bodeli</name>
@@ -2436,7 +2454,7 @@
     <contact>0</contact>
     <micrCode>391765081</micrCode>
     <ifscCode>AUBL0002130</ifscCode>
-    <bankLoc>15</bankLoc>
+    <bankLoc>16</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ankaleshwar Station Road</name>
@@ -2445,7 +2463,7 @@
     <contact>0</contact>
     <micrCode>393765051</micrCode>
     <ifscCode>AUBL0002129</ifscCode>
-    <bankLoc>13</bankLoc>
+    <bankLoc>14</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadodara-bennyson Complex</name>
@@ -2454,7 +2472,7 @@
     <contact>0</contact>
     <micrCode>390765001</micrCode>
     <ifscCode>AUBL0002127</ifscCode>
-    <bankLoc>32</bankLoc>
+    <bankLoc>33</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajkot</name>
@@ -2463,7 +2481,7 @@
     <contact>0</contact>
     <micrCode>360765001</micrCode>
     <ifscCode>AUBL0002126</ifscCode>
-    <bankLoc>28</bankLoc>
+    <bankLoc>29</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Morbi-sanala Road</name>
@@ -2472,7 +2490,7 @@
     <contact>0</contact>
     <micrCode>363765021</micrCode>
     <ifscCode>AUBL0002125</ifscCode>
-    <bankLoc>24</bankLoc>
+    <bankLoc>25</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Junagarh-zazarad Road</name>
@@ -2481,7 +2499,7 @@
     <contact>0</contact>
     <micrCode>362765001</micrCode>
     <ifscCode>AUBL0002124</ifscCode>
-    <bankLoc>19</bankLoc>
+    <bankLoc>20</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jetpur-kanakiya Plot</name>
@@ -2490,7 +2508,7 @@
     <contact>0</contact>
     <micrCode>360765061</micrCode>
     <ifscCode>AUBL0002123</ifscCode>
-    <bankLoc>28</bankLoc>
+    <bankLoc>29</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamnagar-madhav Square</name>
@@ -2499,7 +2517,7 @@
     <contact>0</contact>
     <micrCode>361765001</micrCode>
     <ifscCode>AUBL0002122</ifscCode>
-    <bankLoc>18</bankLoc>
+    <bankLoc>19</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhidham-banking Circle</name>
@@ -2508,7 +2526,7 @@
     <contact>0</contact>
     <micrCode>370765001</micrCode>
     <ifscCode>AUBL0002121</ifscCode>
-    <bankLoc>20</bankLoc>
+    <bankLoc>21</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhuj</name>
@@ -2517,7 +2535,7 @@
     <contact>0</contact>
     <micrCode>370765051</micrCode>
     <ifscCode>AUBL0002120</ifscCode>
-    <bankLoc>20</bankLoc>
+    <bankLoc>21</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Noida-sector</name>
@@ -2526,7 +2544,7 @@
     <contact>0</contact>
     <micrCode>110765004</micrCode>
     <ifscCode>AUBL0002119</ifscCode>
-    <bankLoc>147</bankLoc>
+    <bankLoc>149</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Faridabad</name>
@@ -2535,7 +2553,7 @@
     <contact>0</contact>
     <micrCode>110765003</micrCode>
     <ifscCode>AUBL0002118</ifscCode>
-    <bankLoc>35</bankLoc>
+    <bankLoc>36</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yamunanagar-jagadhari</name>
@@ -2544,7 +2562,7 @@
     <contact>0</contact>
     <micrCode>135765002</micrCode>
     <ifscCode>AUBL0002117</ifscCode>
-    <bankLoc>45</bankLoc>
+    <bankLoc>46</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sirsa-kar House</name>
@@ -2553,7 +2571,7 @@
     <contact>0</contact>
     <micrCode>125765002</micrCode>
     <ifscCode>AUBL0002116</ifscCode>
-    <bankLoc>44</bankLoc>
+    <bankLoc>45</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PANIPAT-G.T. Road</name>
@@ -2562,7 +2580,7 @@
     <contact>0</contact>
     <micrCode>132765002</micrCode>
     <ifscCode>AUBL0002115</ifscCode>
-    <bankLoc>42</bankLoc>
+    <bankLoc>43</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurukshetra-railway Road</name>
@@ -2571,7 +2589,7 @@
     <contact>0</contact>
     <micrCode>136765002</micrCode>
     <ifscCode>AUBL0002114</ifscCode>
-    <bankLoc>40</bankLoc>
+    <bankLoc>41</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karnal-urban Estate</name>
@@ -2580,7 +2598,7 @@
     <contact>0</contact>
     <micrCode>132765102</micrCode>
     <ifscCode>AUBL0002113</ifscCode>
-    <bankLoc>39</bankLoc>
+    <bankLoc>40</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaithal-ambala Road</name>
@@ -2589,7 +2607,7 @@
     <contact>0</contact>
     <micrCode>136765152</micrCode>
     <ifscCode>AUBL0002112</ifscCode>
-    <bankLoc>38</bankLoc>
+    <bankLoc>39</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hisar-red Square Market</name>
@@ -2598,7 +2616,7 @@
     <contact>0</contact>
     <micrCode>125765052</micrCode>
     <ifscCode>AUBL0002111</ifscCode>
-    <bankLoc>37</bankLoc>
+    <bankLoc>38</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambala-nicholson Road</name>
@@ -2607,7 +2625,7 @@
     <contact>0</contact>
     <micrCode>133765002</micrCode>
     <ifscCode>AUBL0002110</ifscCode>
-    <bankLoc>34</bankLoc>
+    <bankLoc>35</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rewari-circular Road</name>
@@ -2616,7 +2634,7 @@
     <contact>0</contact>
     <micrCode>123765002</micrCode>
     <ifscCode>AUBL0002109</ifscCode>
-    <bankLoc>43</bankLoc>
+    <bankLoc>44</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pataudi-hailymandi</name>
@@ -2625,7 +2643,7 @@
     <contact>0</contact>
     <micrCode>110765002</micrCode>
     <ifscCode>AUBL0002108</ifscCode>
-    <bankLoc>36</bankLoc>
+    <bankLoc>37</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narnaul-rewari Road</name>
@@ -2634,7 +2652,7 @@
     <contact>0</contact>
     <micrCode>123765052</micrCode>
     <ifscCode>AUBL0002107</ifscCode>
-    <bankLoc>41</bankLoc>
+    <bankLoc>42</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurgaon-urban Estate-</name>
@@ -2643,7 +2661,7 @@
     <contact>0</contact>
     <micrCode>110765007</micrCode>
     <ifscCode>AUBL0002106</ifscCode>
-    <bankLoc>36</bankLoc>
+    <bankLoc>37</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghaziabad-raj Nagar</name>
@@ -2652,7 +2670,7 @@
     <contact>0</contact>
     <micrCode>110765006</micrCode>
     <ifscCode>AUBL0002105</ifscCode>
-    <bankLoc>148</bankLoc>
+    <bankLoc>150</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delhi East OF Kailash</name>
@@ -2698,5 +2716,50 @@
     <micrCode>110765009</micrCode>
     <ifscCode>AUBL0002100</ifscCode>
     <bankLoc>6</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kota</name>
+    <city>Kota</city>
+    <address>Plot No18 First Floor Above Icici Bank Jhalawar Road Kotri Circle Kota Rajasthan 324007</address>
+    <contact>0</contact>
+    <micrCode>324765001</micrCode>
+    <ifscCode>AUBL0002019</ifscCode>
+    <bankLoc>139</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Bikaner</name>
+    <city>Bikaner</city>
+    <address>Above Bandhan Bank Rani Bazar Bikaner Rajasthan 334001</address>
+    <contact>0</contact>
+    <micrCode>334765001</micrCode>
+    <ifscCode>AUBL0002018</ifscCode>
+    <bankLoc>125</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Chandigarh Zirakpur</name>
+    <city>Mohali</city>
+    <address>Sco23gfloorchandigarhambalahighwaynh21zirakpurdistrictmohalipunjab140609</address>
+    <contact>0</contact>
+    <micrCode>160765005</micrCode>
+    <ifscCode>AUBL0002017</ifscCode>
+    <bankLoc>113</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Delhi</name>
+    <city>NEW Delhi</city>
+    <address>2e22 Jhandewalan Extension Near Jhandewalan Metro Station NEW Delhi 110055</address>
+    <contact>0</contact>
+    <micrCode>110765013</micrCode>
+    <ifscCode>AUBL0002016</ifscCode>
+    <bankLoc>7</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur</name>
+    <city>Jaipur</city>
+    <address>Fifth Sixth Floor Sunny BIG Junction STC Khasra NO 64 TO 67 Gram Sukhaipura NEW Atish Market Jaipur 302020</address>
+    <contact>0</contact>
+    <micrCode>302765001</micrCode>
+    <ifscCode>AUBL0002011</ifscCode>
+    <bankLoc>133</bankLoc>
   </bankbranch>
 </bankBranchs>

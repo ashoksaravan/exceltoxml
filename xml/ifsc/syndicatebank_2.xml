@@ -1,12 +1,147 @@
 <bankBranchs>
   <bankbranch>
+    <name>Kundgol</name>
+    <city>Kundgol</city>
+    <address>S T Balikai Building, Kalidasa Nagar, Kundgol, ,dharwad, 581 113</address>
+    <contact>0</contact>
+    <micrCode>581025702</micrCode>
+    <ifscCode>SYNB0001211</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Navalgund</name>
+    <city>Navalgund</city>
+    <address>1984 B Vinayakpet Road, Navalgund, ,,dharwad, 582 208</address>
+    <contact>0</contact>
+    <micrCode>582025302</micrCode>
+    <ifscCode>SYNB0001210</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mundargi</name>
+    <city>Mundargi</city>
+    <address>DR Y S Meti Building, Mundargi, ,,gadag, 582 118</address>
+    <contact>0</contact>
+    <micrCode>582025202</micrCode>
+    <ifscCode>SYNB0001209</ifscCode>
+    <bankLoc>21473</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Byadgi</name>
+    <city>Byadgi</city>
+    <address>Chilly Merchants Association, Building Near Apmc Market, Yard Hamsabhavi Road, Byadgi, Haveri, 581 106</address>
+    <contact>0</contact>
+    <micrCode>581025502</micrCode>
+    <ifscCode>SYNB0001208</ifscCode>
+    <bankLoc>21480</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gadag</name>
+    <city>Gadag</city>
+    <address>Mahalaxmi Centenary Complex, Bank Road, Gadag, ,gadag, 582 101</address>
+    <contact>0</contact>
+    <micrCode>582025002</micrCode>
+    <ifscCode>SYNB0001207</ifscCode>
+    <bankLoc>21473</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Dharwar University Campus</name>
+    <city>Dharwar</city>
+    <address>University Campus, Pavate Nagar, Dharwad, ,dharwad, 580 003</address>
+    <contact>0</contact>
+    <micrCode>580025305</micrCode>
+    <ifscCode>SYNB0001206</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Subhas RD</name>
+    <city>Dharwad</city>
+    <address>Sriprakash Building Subhas Roadkarnataka 580 001</address>
+    <contact>0</contact>
+    <micrCode>580025302</micrCode>
+    <ifscCode>SYNB0001205</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hubli Visweshwarnagar</name>
+    <city>Hubli</city>
+    <address>Shrinivas, Ashoknagar Cross Road, Vishweshwarnagar, Hubli, Dharwad, 580 032</address>
+    <contact>0</contact>
+    <micrCode>580025010</micrCode>
+    <ifscCode>SYNB0001204</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hubli Super Market</name>
+    <city>Hubli</city>
+    <address>Super Market, Hubli, ,,dharwad, 580 028</address>
+    <contact>0</contact>
+    <micrCode>580025008</micrCode>
+    <ifscCode>SYNB0001202</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hubli Vidyanagar</name>
+    <city>Hubli</city>
+    <address>Siddheshwar Krupa, Pune Bangalore Road, Vidyanagar, Hubli, Dharwad, 580 021</address>
+    <contact>0</contact>
+    <micrCode>580025009</micrCode>
+    <ifscCode>SYNB0001201</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Durgadbail  Hubli</name>
+    <city>Hubli</city>
+    <address>5248 BY 2  Lokhande Bldg  Durgadbail Hubli 236072</address>
+    <contact>0</contact>
+    <micrCode>580025002</micrCode>
+    <ifscCode>SYNB0001200</ifscCode>
+    <bankLoc>21465</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Virajpet</name>
+    <city>Virajpet</city>
+    <address>Emirates Building Near PVT BUS Stand Main Road Virajpet Karnataka 571218</address>
+    <contact>255229</contact>
+    <micrCode>571025202</micrCode>
+    <ifscCode>SYNB0001108</ifscCode>
+    <bankLoc>21516</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gowdalli</name>
+    <city>Somwarpet</city>
+    <address>Main Road Gowdalli Somwarpet Taluk DIS Kodagu Karnataka 571235</address>
+    <contact>0</contact>
+    <micrCode>571025210</micrCode>
+    <ifscCode>SYNB0001107</ifscCode>
+    <bankLoc>21488</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Arapattu</name>
+    <city>Arapattu</city>
+    <address>Arapattu, Madikeri Taluk, ,,kodagu, 571 212</address>
+    <contact>0</contact>
+    <micrCode>571025205</micrCode>
+    <ifscCode>SYNB0001106</ifscCode>
+    <bankLoc>21488</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Thithimathi</name>
+    <city>Thithimathi</city>
+    <address>Main Road Thithimathi Virajpet Taluk DIS Kodagu Karnataka 571254</address>
+    <contact>0</contact>
+    <micrCode>571025209</micrCode>
+    <ifscCode>SYNB0001105</ifscCode>
+    <bankLoc>21488</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Murnad</name>
     <city>Murnad</city>
     <address>Main Road, Murnad, ,,kodagu, 571 252</address>
     <contact>0</contact>
     <micrCode>571025206</micrCode>
     <ifscCode>SYNB0001104</ifscCode>
-    <bankLoc>21629</bankLoc>
+    <bankLoc>21488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madapur</name>
@@ -15,7 +150,7 @@
     <contact>0</contact>
     <micrCode>571025207</micrCode>
     <ifscCode>SYNB0001103</ifscCode>
-    <bankLoc>21629</bankLoc>
+    <bankLoc>21488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhagamandla</name>
@@ -24,7 +159,7 @@
     <contact>0</contact>
     <micrCode>571025211</micrCode>
     <ifscCode>SYNB0001102</ifscCode>
-    <bankLoc>21629</bankLoc>
+    <bankLoc>21488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chettalli</name>
@@ -33,7 +168,7 @@
     <contact>0</contact>
     <micrCode>571025208</micrCode>
     <ifscCode>SYNB0001101</ifscCode>
-    <bankLoc>21629</bankLoc>
+    <bankLoc>21488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madikeri  Mercara</name>
@@ -42,7 +177,7 @@
     <contact>0</contact>
     <micrCode>571025203</micrCode>
     <ifscCode>SYNB0001100</ifscCode>
-    <bankLoc>21629</bankLoc>
+    <bankLoc>21488</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kerebilachi</name>
@@ -51,7 +186,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0001026</ifscCode>
-    <bankLoc>21605</bankLoc>
+    <bankLoc>21464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sasvehalli</name>
@@ -60,7 +195,7 @@
     <contact>287225</contact>
     <micrCode>577025559</micrCode>
     <ifscCode>SYNB0001025</ifscCode>
-    <bankLoc>21605</bankLoc>
+    <bankLoc>21464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hadadi Road, Davanegere</name>
@@ -69,7 +204,7 @@
     <contact>220044</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0001024</ifscCode>
-    <bankLoc>21605</bankLoc>
+    <bankLoc>21464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MCC B Block Davanegere</name>
@@ -78,7 +213,7 @@
     <contact>225566</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0001023</ifscCode>
-    <bankLoc>21605</bankLoc>
+    <bankLoc>21464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chamarajpet Davanagere</name>
@@ -87,7 +222,7 @@
     <contact>0</contact>
     <micrCode>577025003</micrCode>
     <ifscCode>SYNB0001022</ifscCode>
-    <bankLoc>21605</bankLoc>
+    <bankLoc>21464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jagalur</name>
@@ -96,7 +231,7 @@
     <contact>0</contact>
     <micrCode>577025555</micrCode>
     <ifscCode>SYNB0001021</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harihara</name>
@@ -105,7 +240,7 @@
     <contact>0</contact>
     <micrCode>577025602</micrCode>
     <ifscCode>SYNB0001020</ifscCode>
-    <bankLoc>21605</bankLoc>
+    <bankLoc>21464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodarnal</name>
@@ -114,7 +249,7 @@
     <contact>227064</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0001011</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Holalkere</name>
@@ -123,7 +258,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0001010</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alagawadi</name>
@@ -132,7 +267,7 @@
     <contact>0</contact>
     <micrCode>577025558</micrCode>
     <ifscCode>SYNB0001009</ifscCode>
-    <bankLoc>21600</bankLoc>
+    <bankLoc>21459</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosadurga</name>
@@ -141,7 +276,7 @@
     <contact>0</contact>
     <micrCode>577025554</micrCode>
     <ifscCode>SYNB0001008</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hiriyurchitradurga</name>
@@ -150,7 +285,7 @@
     <contact>0</contact>
     <micrCode>572025302</micrCode>
     <ifscCode>SYNB0001007</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Challakere</name>
@@ -159,7 +294,7 @@
     <contact>0</contact>
     <micrCode>577025553</micrCode>
     <ifscCode>SYNB0001006</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aimangala</name>
@@ -168,7 +303,7 @@
     <contact>0</contact>
     <micrCode>577025205</micrCode>
     <ifscCode>SYNB0001005</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sirigere</name>
@@ -177,7 +312,7 @@
     <contact>0</contact>
     <micrCode>577025524</micrCode>
     <ifscCode>SYNB0001003</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malladihalli</name>
@@ -186,7 +321,7 @@
     <contact>0</contact>
     <micrCode>577025204</micrCode>
     <ifscCode>SYNB0001002</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Davangere</name>
@@ -195,7 +330,7 @@
     <contact>0</contact>
     <micrCode>577025702</micrCode>
     <ifscCode>SYNB0001001</ifscCode>
-    <bankLoc>21603</bankLoc>
+    <bankLoc>21462</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chitradurga</name>
@@ -204,7 +339,7 @@
     <contact>0</contact>
     <micrCode>577025202</micrCode>
     <ifscCode>SYNB0001000</ifscCode>
-    <bankLoc>21599</bankLoc>
+    <bankLoc>21458</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aryapu</name>
@@ -213,7 +348,7 @@
     <contact>2441958</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000945</ifscCode>
-    <bankLoc>21601</bankLoc>
+    <bankLoc>21460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udupi Chitpady</name>
@@ -222,7 +357,7 @@
     <contact>2520999</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000942</ifscCode>
-    <bankLoc>21650</bankLoc>
+    <bankLoc>21509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadur</name>
@@ -231,7 +366,7 @@
     <contact>0</contact>
     <micrCode>577025207</micrCode>
     <ifscCode>SYNB0000917</ifscCode>
-    <bankLoc>21623</bankLoc>
+    <bankLoc>21482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chickmagalur STJ College Campu</name>
@@ -240,7 +375,7 @@
     <contact>0</contact>
     <micrCode>577025108</micrCode>
     <ifscCode>SYNB0000915</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gadigeswara</name>
@@ -249,7 +384,7 @@
     <contact>0</contact>
     <micrCode>577025112</micrCode>
     <ifscCode>SYNB0000914</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muthinakoppa</name>
@@ -258,7 +393,7 @@
     <contact>0</contact>
     <micrCode>577025114</micrCode>
     <ifscCode>SYNB0000913</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Markal Kigga</name>
@@ -267,7 +402,7 @@
     <contact>0</contact>
     <micrCode>577025206</micrCode>
     <ifscCode>SYNB0000912</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mudigere</name>
@@ -276,7 +411,7 @@
     <contact>0</contact>
     <micrCode>577025104</micrCode>
     <ifscCode>SYNB0000911</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yelemodalu</name>
@@ -285,7 +420,7 @@
     <contact>0</contact>
     <micrCode>577025533</micrCode>
     <ifscCode>SYNB0000910</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Addagadde</name>
@@ -294,7 +429,7 @@
     <contact>0</contact>
     <micrCode>577025113</micrCode>
     <ifscCode>SYNB0000909</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hirenallur</name>
@@ -303,7 +438,7 @@
     <contact>0</contact>
     <micrCode>577025111</micrCode>
     <ifscCode>SYNB0000908</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalasa</name>
@@ -312,7 +447,7 @@
     <contact>254136</contact>
     <micrCode>577025405</micrCode>
     <ifscCode>SYNB0000907</ifscCode>
-    <bankLoc>21593</bankLoc>
+    <bankLoc>21452</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hariharapura</name>
@@ -321,7 +456,7 @@
     <contact>0</contact>
     <micrCode>577025107</micrCode>
     <ifscCode>SYNB0000905</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basarikatta</name>
@@ -330,7 +465,7 @@
     <contact>0</contact>
     <micrCode>577025529</micrCode>
     <ifscCode>SYNB0000904</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Javali</name>
@@ -339,7 +474,7 @@
     <contact>0</contact>
     <micrCode>577025109</micrCode>
     <ifscCode>SYNB0000903</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koppa Kadur</name>
@@ -348,7 +483,7 @@
     <contact>0</contact>
     <micrCode>577025103</micrCode>
     <ifscCode>SYNB0000902</ifscCode>
-    <bankLoc>21324</bankLoc>
+    <bankLoc>21183</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sringeri</name>
@@ -357,7 +492,7 @@
     <contact>0</contact>
     <micrCode>577025105</micrCode>
     <ifscCode>SYNB0000901</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chikmagalur</name>
@@ -366,7 +501,7 @@
     <contact>0</contact>
     <micrCode>577025102</micrCode>
     <ifscCode>SYNB0000900</ifscCode>
-    <bankLoc>21594</bankLoc>
+    <bankLoc>21453</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijayapura-trimurthy Nagar</name>
@@ -375,7 +510,7 @@
     <contact>276333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000879</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tungal Branch</name>
@@ -384,7 +519,7 @@
     <contact>276333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000878</ifscCode>
-    <bankLoc>21576</bankLoc>
+    <bankLoc>21435</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijayapura-ashram Road</name>
@@ -393,7 +528,7 @@
     <contact>276333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000875</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>S R Circle Mudhol</name>
@@ -402,7 +537,7 @@
     <contact>2267888</contact>
     <micrCode>587025506</micrCode>
     <ifscCode>SYNB0000874</ifscCode>
-    <bankLoc>21576</bankLoc>
+    <bankLoc>21435</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahalingapur</name>
@@ -411,7 +546,7 @@
     <contact>267888</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000873</ifscCode>
-    <bankLoc>21576</bankLoc>
+    <bankLoc>21435</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalagi</name>
@@ -420,7 +555,7 @@
     <contact>2267888</contact>
     <micrCode>586025511</micrCode>
     <ifscCode>SYNB0000872</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosur Bijapur</name>
@@ -429,7 +564,7 @@
     <contact>267888</contact>
     <micrCode>587025512</micrCode>
     <ifscCode>SYNB0000871</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hooligeri</name>
@@ -438,7 +573,7 @@
     <contact>2147483647</contact>
     <micrCode>587025507</micrCode>
     <ifscCode>SYNB0000869</ifscCode>
-    <bankLoc>21575</bankLoc>
+    <bankLoc>21434</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hiremural</name>
@@ -447,7 +582,7 @@
     <contact>0</contact>
     <micrCode>586025510</micrCode>
     <ifscCode>SYNB0000868</ifscCode>
-    <bankLoc>21589</bankLoc>
+    <bankLoc>21448</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harnal</name>
@@ -456,7 +591,7 @@
     <contact>0</contact>
     <micrCode>586025509</micrCode>
     <ifscCode>SYNB0000867</ifscCode>
-    <bankLoc>21608</bankLoc>
+    <bankLoc>21467</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karadi</name>
@@ -465,7 +600,7 @@
     <contact>0</contact>
     <micrCode>587025501</micrCode>
     <ifscCode>SYNB0000865</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yarazari</name>
@@ -474,7 +609,7 @@
     <contact>0</contact>
     <micrCode>586025501</micrCode>
     <ifscCode>SYNB0000864</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Torvi</name>
@@ -483,7 +618,7 @@
     <contact>0</contact>
     <micrCode>586025502</micrCode>
     <ifscCode>SYNB0000863</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devar Nimbargi</name>
@@ -492,7 +627,7 @@
     <contact>0</contact>
     <micrCode>586025507</micrCode>
     <ifscCode>SYNB0000861</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Metgud</name>
@@ -501,7 +636,7 @@
     <contact>0</contact>
     <micrCode>587025703</micrCode>
     <ifscCode>SYNB0000860</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolur</name>
@@ -510,7 +645,7 @@
     <contact>0</contact>
     <micrCode>586025508</micrCode>
     <ifscCode>SYNB0000859</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basavana Bagewadi</name>
@@ -519,7 +654,7 @@
     <contact>0</contact>
     <micrCode>586025106</micrCode>
     <ifscCode>SYNB0000856</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijapur Alameen Medical College</name>
@@ -528,7 +663,7 @@
     <contact>0</contact>
     <micrCode>586025004</micrCode>
     <ifscCode>SYNB0000855</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karnwomensunivbijapur</name>
@@ -537,7 +672,7 @@
     <contact>0</contact>
     <micrCode>586025005</micrCode>
     <ifscCode>SYNB0000854</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bagalkot</name>
@@ -546,7 +681,7 @@
     <contact>0</contact>
     <micrCode>587025103</micrCode>
     <ifscCode>SYNB0000853</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nimbalkd</name>
@@ -555,7 +690,7 @@
     <contact>0</contact>
     <micrCode>586025505</micrCode>
     <ifscCode>SYNB0000848</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yelaguru Balabatti</name>
@@ -564,7 +699,7 @@
     <contact>0</contact>
     <micrCode>586025208</micrCode>
     <ifscCode>SYNB0000847</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattadakal</name>
@@ -573,7 +708,7 @@
     <contact>0</contact>
     <micrCode>587025998</micrCode>
     <ifscCode>SYNB0000846</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ronihal</name>
@@ -582,7 +717,7 @@
     <contact>0</contact>
     <micrCode>586025506</micrCode>
     <ifscCode>SYNB0000845</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yalwar</name>
@@ -591,7 +726,7 @@
     <contact>0</contact>
     <micrCode>586025207</micrCode>
     <ifscCode>SYNB0000844</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vandal</name>
@@ -600,7 +735,7 @@
     <contact>0</contact>
     <micrCode>586025206</micrCode>
     <ifscCode>SYNB0000841</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Honaganahalli</name>
@@ -609,7 +744,7 @@
     <contact>0</contact>
     <micrCode>586025120</micrCode>
     <ifscCode>SYNB0000840</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mudhol</name>
@@ -618,7 +753,7 @@
     <contact>0</contact>
     <micrCode>587025202</micrCode>
     <ifscCode>SYNB0000837</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Golasangi</name>
@@ -627,7 +762,7 @@
     <contact>0</contact>
     <micrCode>586025113</micrCode>
     <ifscCode>SYNB0000836</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhavalgi</name>
@@ -636,7 +771,7 @@
     <contact>0</contact>
     <micrCode>586025204</micrCode>
     <ifscCode>SYNB0000835</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mamadapuir</name>
@@ -645,7 +780,7 @@
     <contact>0</contact>
     <micrCode>586025105</micrCode>
     <ifscCode>SYNB0000834</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lachyan</name>
@@ -654,7 +789,7 @@
     <contact>0</contact>
     <micrCode>586025205</micrCode>
     <ifscCode>SYNB0000833</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijjargi</name>
@@ -663,7 +798,7 @@
     <contact>0</contact>
     <micrCode>586025114</micrCode>
     <ifscCode>SYNB0000832</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Korwar</name>
@@ -672,7 +807,7 @@
     <contact>0</contact>
     <micrCode>586025112</micrCode>
     <ifscCode>SYNB0000830</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Bijapur</name>
@@ -681,7 +816,7 @@
     <contact>0</contact>
     <micrCode>586025999</micrCode>
     <ifscCode>SYNB0000829</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Atharga</name>
@@ -690,7 +825,7 @@
     <contact>0</contact>
     <micrCode>586025402</micrCode>
     <ifscCode>SYNB0000828</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Horti</name>
@@ -699,7 +834,7 @@
     <contact>0</contact>
     <micrCode>586025104</micrCode>
     <ifscCode>SYNB0000827</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muddebihal</name>
@@ -708,7 +843,7 @@
     <contact>0</contact>
     <micrCode>586025203</micrCode>
     <ifscCode>SYNB0000826</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devar Hippargi</name>
@@ -717,7 +852,7 @@
     <contact>0</contact>
     <micrCode>586025103</micrCode>
     <ifscCode>SYNB0000824</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shirur  Bagalkote Dist</name>
@@ -726,7 +861,7 @@
     <contact>0</contact>
     <micrCode>587025304</micrCode>
     <ifscCode>SYNB0000823</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amingad</name>
@@ -735,7 +870,7 @@
     <contact>0</contact>
     <micrCode>587025305</micrCode>
     <ifscCode>SYNB0000822</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Savalgi</name>
@@ -744,7 +879,7 @@
     <contact>0</contact>
     <micrCode>586025302</micrCode>
     <ifscCode>SYNB0000821</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Huvin Hippargi</name>
@@ -753,7 +888,7 @@
     <contact>0</contact>
     <micrCode>586025503</micrCode>
     <ifscCode>SYNB0000820</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Galagali</name>
@@ -762,7 +897,7 @@
     <contact>0</contact>
     <micrCode>587025303</micrCode>
     <ifscCode>SYNB0000819</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Terdal</name>
@@ -771,7 +906,7 @@
     <contact>0</contact>
     <micrCode>587025504</micrCode>
     <ifscCode>SYNB0000818</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indi</name>
@@ -780,7 +915,7 @@
     <contact>0</contact>
     <micrCode>586025209</micrCode>
     <ifscCode>SYNB0000817</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kerur</name>
@@ -789,7 +924,7 @@
     <contact>0</contact>
     <micrCode>587025206</micrCode>
     <ifscCode>SYNB0000816</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nalatwad</name>
@@ -798,7 +933,7 @@
     <contact>0</contact>
     <micrCode>586025124</micrCode>
     <ifscCode>SYNB0000815</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gudur Karnataka</name>
@@ -807,7 +942,7 @@
     <contact>0</contact>
     <micrCode>587025602</micrCode>
     <ifscCode>SYNB0000814</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chadchan</name>
@@ -816,7 +951,7 @@
     <contact>0</contact>
     <micrCode>586025504</micrCode>
     <ifscCode>SYNB0000813</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sindgi</name>
@@ -825,7 +960,7 @@
     <contact>0</contact>
     <micrCode>586025102</micrCode>
     <ifscCode>SYNB0000812</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agarkhed</name>
@@ -834,7 +969,7 @@
     <contact>0</contact>
     <micrCode>586025403</micrCode>
     <ifscCode>SYNB0000811</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Talikote</name>
@@ -843,7 +978,7 @@
     <contact>0</contact>
     <micrCode>586025202</micrCode>
     <ifscCode>SYNB0000810</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sulebhavi</name>
@@ -852,7 +987,7 @@
     <contact>0</contact>
     <micrCode>587025502</micrCode>
     <ifscCode>SYNB0000809</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hungund</name>
@@ -861,7 +996,7 @@
     <contact>0</contact>
     <micrCode>587025505</micrCode>
     <ifscCode>SYNB0000808</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badami</name>
@@ -870,7 +1005,7 @@
     <contact>0</contact>
     <micrCode>587025004</micrCode>
     <ifscCode>SYNB0000807</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guledgud</name>
@@ -879,7 +1014,7 @@
     <contact>0</contact>
     <micrCode>587025503</micrCode>
     <ifscCode>SYNB0000806</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ilkal</name>
@@ -888,7 +1023,7 @@
     <contact>0</contact>
     <micrCode>587025702</micrCode>
     <ifscCode>SYNB0000805</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamkhandi</name>
@@ -897,7 +1032,7 @@
     <contact>0</contact>
     <micrCode>587025302</micrCode>
     <ifscCode>SYNB0000804</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rabkavi</name>
@@ -906,7 +1041,7 @@
     <contact>0</contact>
     <micrCode>587025212</micrCode>
     <ifscCode>SYNB0000803</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bagalkot</name>
@@ -915,7 +1050,7 @@
     <contact>0</contact>
     <micrCode>587025102</micrCode>
     <ifscCode>SYNB0000802</ifscCode>
-    <bankLoc>21574</bankLoc>
+    <bankLoc>21433</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijapur Godbolemala</name>
@@ -924,7 +1059,7 @@
     <contact>0</contact>
     <micrCode>586025003</micrCode>
     <ifscCode>SYNB0000801</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bijapur Main</name>
@@ -933,7 +1068,7 @@
     <contact>0</contact>
     <micrCode>586025002</micrCode>
     <ifscCode>SYNB0000800</ifscCode>
-    <bankLoc>21588</bankLoc>
+    <bankLoc>21447</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Laggere Branch</name>
@@ -942,7 +1077,7 @@
     <contact>26614181</contact>
     <micrCode>560025132</micrCode>
     <ifscCode>SYNB0000769</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>State OF ART Branch, Bengaluru</name>
@@ -951,7 +1086,7 @@
     <contact>22422149</contact>
     <micrCode>560025135</micrCode>
     <ifscCode>SYNB0000768</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koramangala Industrial Layout</name>
@@ -960,7 +1095,7 @@
     <contact>22422149</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000765</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cambridge Layout Bangalore</name>
@@ -969,7 +1104,7 @@
     <contact>26614181</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000757</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijaya Bank Colony - Bangalore</name>
@@ -978,7 +1113,7 @@
     <contact>22422149</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000754</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>T Begur</name>
@@ -987,7 +1122,7 @@
     <contact>22421858</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000751</ifscCode>
-    <bankLoc>21591</bankLoc>
+    <bankLoc>21450</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalakapur</name>
@@ -996,7 +1131,7 @@
     <contact>276333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000708</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhalki</name>
@@ -1005,7 +1140,7 @@
     <contact>276333</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000707</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narayanpur Karnataka</name>
@@ -1014,7 +1149,7 @@
     <contact>0</contact>
     <micrCode>585025603</micrCode>
     <ifscCode>SYNB0000706</ifscCode>
-    <bankLoc>21581</bankLoc>
+    <bankLoc>21440</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Humanabad</name>
@@ -1023,7 +1158,7 @@
     <contact>0</contact>
     <micrCode>585025404</micrCode>
     <ifscCode>SYNB0000705</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidar AIR Force Station</name>
@@ -1032,7 +1167,7 @@
     <contact>0</contact>
     <micrCode>585025103</micrCode>
     <ifscCode>SYNB0000703</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandakpur</name>
@@ -1041,7 +1176,7 @@
     <contact>0</contact>
     <micrCode>585025504</micrCode>
     <ifscCode>SYNB0000702</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidar</name>
@@ -1050,7 +1185,7 @@
     <contact>0</contact>
     <micrCode>585025102</micrCode>
     <ifscCode>SYNB0000701</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basavakalyan</name>
@@ -1059,7 +1194,7 @@
     <contact>0</contact>
     <micrCode>585025602</micrCode>
     <ifscCode>SYNB0000700</ifscCode>
-    <bankLoc>21587</bankLoc>
+    <bankLoc>21446</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sultanpalya Bangalore</name>
@@ -1068,7 +1203,7 @@
     <contact>2147483647</contact>
     <micrCode>560025130</micrCode>
     <ifscCode>SYNB0000698</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MID Corporate Branch</name>
@@ -1077,7 +1212,7 @@
     <contact>22421858</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000697</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amara Jyothi Nagar</name>
@@ -1086,7 +1221,7 @@
     <contact>22421858</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000695</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonapanahali</name>
@@ -1095,7 +1230,7 @@
     <contact>22421858</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000694</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>M S Building Branch</name>
@@ -1104,7 +1239,7 @@
     <contact>22421858</contact>
     <micrCode>560025126</micrCode>
     <ifscCode>SYNB0000692</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shahakar Nagar Bangalore</name>
@@ -1113,7 +1248,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000690</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Domlur Bangalore</name>
@@ -1122,7 +1257,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000688</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thanisandra Bangalore</name>
@@ -1131,7 +1266,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000686</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumaraswamy Layout</name>
@@ -1140,7 +1275,7 @@
     <contact>0</contact>
     <micrCode>560025120</micrCode>
     <ifscCode>SYNB0000684</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Doddakammanahalli</name>
@@ -1149,7 +1284,7 @@
     <contact>0</contact>
     <micrCode>560025119</micrCode>
     <ifscCode>SYNB0000683</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Uttarahalli</name>
@@ -1158,7 +1293,7 @@
     <contact>0</contact>
     <micrCode>560025121</micrCode>
     <ifscCode>SYNB0000681</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>RO Bangalore II</name>
@@ -1167,7 +1302,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000680</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chkbnvr Bangalore</name>
@@ -1176,7 +1311,7 @@
     <contact>0</contact>
     <micrCode>560025118</micrCode>
     <ifscCode>SYNB0000679</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Back Office</name>
@@ -1185,7 +1320,7 @@
     <contact>0</contact>
     <micrCode>560025988</micrCode>
     <ifscCode>SYNB0000678</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Giri Nagar Bangalore</name>
@@ -1194,7 +1329,7 @@
     <contact>0</contact>
     <micrCode>560025115</micrCode>
     <ifscCode>SYNB0000677</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padmanabhanagar BLR</name>
@@ -1203,7 +1338,7 @@
     <contact>0</contact>
     <micrCode>560025116</micrCode>
     <ifscCode>SYNB0000676</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Samandur</name>
@@ -1212,7 +1347,7 @@
     <contact>0</contact>
     <micrCode>560025117</micrCode>
     <ifscCode>SYNB0000675</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramasandra</name>
@@ -1221,7 +1356,7 @@
     <contact>0</contact>
     <micrCode>560025113</micrCode>
     <ifscCode>SYNB0000674</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramohalli</name>
@@ -1230,7 +1365,7 @@
     <contact>0</contact>
     <micrCode>560025112</micrCode>
     <ifscCode>SYNB0000673</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidaraguppe</name>
@@ -1239,7 +1374,7 @@
     <contact>0</contact>
     <micrCode>562025104</micrCode>
     <ifscCode>SYNB0000672</ifscCode>
-    <bankLoc>21579</bankLoc>
+    <bankLoc>21438</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yadavanahalli</name>
@@ -1248,7 +1383,7 @@
     <contact>0</contact>
     <micrCode>560025990</micrCode>
     <ifscCode>SYNB0000671</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mayasandra</name>
@@ -1257,7 +1392,7 @@
     <contact>0</contact>
     <micrCode>560025111</micrCode>
     <ifscCode>SYNB0000670</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>M G Road Bangalore</name>
@@ -1266,7 +1401,7 @@
     <contact>0</contact>
     <micrCode>560025073</micrCode>
     <ifscCode>SYNB0000669</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasturinagar Banglore</name>
@@ -1275,7 +1410,7 @@
     <contact>0</contact>
     <micrCode>560025105</micrCode>
     <ifscCode>SYNB0000668</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalyan Nagar Bangalore</name>
@@ -1284,7 +1419,7 @@
     <contact>0</contact>
     <micrCode>560025104</micrCode>
     <ifscCode>SYNB0000667</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore C V Raman Nagar</name>
@@ -1293,7 +1428,7 @@
     <contact>0</contact>
     <micrCode>560025102</micrCode>
     <ifscCode>SYNB0000665</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bannerghatta Road Bangalore</name>
@@ -1302,7 +1437,7 @@
     <contact>0</contact>
     <micrCode>560025103</micrCode>
     <ifscCode>SYNB0000664</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>RMV Layout Bangalore</name>
@@ -1311,7 +1446,7 @@
     <contact>0</contact>
     <micrCode>560025069</micrCode>
     <ifscCode>SYNB0000662</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramanagara</name>
@@ -1320,7 +1455,7 @@
     <contact>0</contact>
     <micrCode>571025552</micrCode>
     <ifscCode>SYNB0000661</ifscCode>
-    <bankLoc>21640</bankLoc>
+    <bankLoc>21499</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoskote</name>
@@ -1329,7 +1464,7 @@
     <contact>0</contact>
     <micrCode>560025099</micrCode>
     <ifscCode>SYNB0000660</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Doddaballapur</name>
@@ -1338,7 +1473,7 @@
     <contact>0</contact>
     <micrCode>560025098</micrCode>
     <ifscCode>SYNB0000659</ifscCode>
-    <bankLoc>21610</bankLoc>
+    <bankLoc>21469</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidadi</name>
@@ -1347,7 +1482,7 @@
     <contact>0</contact>
     <micrCode>560025101</micrCode>
     <ifscCode>SYNB0000658</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarjapur Bangalore</name>
@@ -1356,7 +1491,7 @@
     <contact>0</contact>
     <micrCode>560025095</micrCode>
     <ifscCode>SYNB0000657</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>RPC Layout Bangalore</name>
@@ -1365,7 +1500,7 @@
     <contact>0</contact>
     <micrCode>560025100</micrCode>
     <ifscCode>SYNB0000656</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Rajarajeshwarinagar</name>
@@ -1374,7 +1509,7 @@
     <contact>0</contact>
     <micrCode>560025093</micrCode>
     <ifscCode>SYNB0000655</ifscCode>
-    <bankLoc>21579</bankLoc>
+    <bankLoc>21438</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Kathriguppa</name>
@@ -1383,7 +1518,7 @@
     <contact>0</contact>
     <micrCode>560025092</micrCode>
     <ifscCode>SYNB0000654</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>H S R Layout Bangalore</name>
@@ -1392,7 +1527,7 @@
     <contact>0</contact>
     <micrCode>560025097</micrCode>
     <ifscCode>SYNB0000653</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>BTM Layout Bangalore</name>
@@ -1401,7 +1536,7 @@
     <contact>0</contact>
     <micrCode>560025096</micrCode>
     <ifscCode>SYNB0000652</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Basaveshwarnagar</name>
@@ -1410,7 +1545,7 @@
     <contact>0</contact>
     <micrCode>560025094</micrCode>
     <ifscCode>SYNB0000651</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosahalli Kudligi</name>
@@ -1419,7 +1554,7 @@
     <contact>270035</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000647</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kenchanagudda</name>
@@ -1428,7 +1563,7 @@
     <contact>270035</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000646</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belagal</name>
@@ -1437,7 +1572,7 @@
     <contact>277739</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000644</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Infantry Road Ballari</name>
@@ -1446,7 +1581,7 @@
     <contact>277739</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000643</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Main Bazaar Hospet</name>
@@ -1455,7 +1590,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000642</ifscCode>
-    <bankLoc>21577</bankLoc>
+    <bankLoc>21436</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhinagar Bellari</name>
@@ -1464,7 +1599,7 @@
     <contact>277739</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000641</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Veniveerapur</name>
@@ -1473,7 +1608,7 @@
     <contact>2147483647</contact>
     <micrCode>583025534</micrCode>
     <ifscCode>SYNB0000640</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Halkundi</name>
@@ -1482,7 +1617,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000639</ifscCode>
-    <bankLoc>21611</bankLoc>
+    <bankLoc>21470</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottur Bella</name>
@@ -1491,7 +1626,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000638</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chintarapalli</name>
@@ -1500,7 +1635,7 @@
     <contact>0</contact>
     <micrCode>583025531</micrCode>
     <ifscCode>SYNB0000637</ifscCode>
-    <bankLoc>21585</bankLoc>
+    <bankLoc>21444</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uppara Hosahalli</name>
@@ -1509,7 +1644,7 @@
     <contact>0</contact>
     <micrCode>583025525</micrCode>
     <ifscCode>SYNB0000635</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ingaldal</name>
@@ -1518,7 +1653,7 @@
     <contact>0</contact>
     <micrCode>577025998</micrCode>
     <ifscCode>SYNB0000634</ifscCode>
-    <bankLoc>21598</bankLoc>
+    <bankLoc>21457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>J N Kote</name>
@@ -1527,7 +1662,7 @@
     <contact>0</contact>
     <micrCode>577025999</micrCode>
     <ifscCode>SYNB0000633</ifscCode>
-    <bankLoc>21598</bankLoc>
+    <bankLoc>21457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallahalli</name>
@@ -1536,7 +1671,7 @@
     <contact>0</contact>
     <micrCode>583025997</micrCode>
     <ifscCode>SYNB0000632</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kesarhatti</name>
@@ -1545,7 +1680,7 @@
     <contact>0</contact>
     <micrCode>583025998</micrCode>
     <ifscCode>SYNB0000631</ifscCode>
-    <bankLoc>21627</bankLoc>
+    <bankLoc>21486</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thola Hunse</name>
@@ -1554,7 +1689,7 @@
     <contact>0</contact>
     <micrCode>577025706</micrCode>
     <ifscCode>SYNB0000630</ifscCode>
-    <bankLoc>21604</bankLoc>
+    <bankLoc>21463</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Havinahal Veerapur</name>
@@ -1563,7 +1698,7 @@
     <contact>0</contact>
     <micrCode>583025510</micrCode>
     <ifscCode>SYNB0000629</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hadagali</name>
@@ -1572,7 +1707,7 @@
     <contact>0</contact>
     <micrCode>583025528</micrCode>
     <ifscCode>SYNB0000628</ifscCode>
-    <bankLoc>21625</bankLoc>
+    <bankLoc>21484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lingasugur</name>
@@ -1581,7 +1716,7 @@
     <contact>0</contact>
     <micrCode>584025999</micrCode>
     <ifscCode>SYNB0000627</ifscCode>
-    <bankLoc>21638</bankLoc>
+    <bankLoc>21497</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Honnali</name>
@@ -1590,7 +1725,7 @@
     <contact>0</contact>
     <micrCode>577025552</micrCode>
     <ifscCode>SYNB0000626</ifscCode>
-    <bankLoc>21604</bankLoc>
+    <bankLoc>21463</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennagiri</name>
@@ -1599,7 +1734,7 @@
     <contact>0</contact>
     <micrCode>577025551</micrCode>
     <ifscCode>SYNB0000625</ifscCode>
-    <bankLoc>21604</bankLoc>
+    <bankLoc>21463</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kudligi</name>
@@ -1608,7 +1743,7 @@
     <contact>0</contact>
     <micrCode>583025111</micrCode>
     <ifscCode>SYNB0000624</ifscCode>
-    <bankLoc>21628</bankLoc>
+    <bankLoc>21487</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Zilla Panchayath Office</name>
@@ -1617,7 +1752,7 @@
     <contact>0</contact>
     <micrCode>583025003</micrCode>
     <ifscCode>SYNB0000623</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bellary Thermal Power Station</name>
@@ -1626,7 +1761,7 @@
     <contact>0</contact>
     <micrCode>583025302</micrCode>
     <ifscCode>SYNB0000622</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hospet SSI Branch</name>
@@ -1635,7 +1770,7 @@
     <contact>0</contact>
     <micrCode>583025104</micrCode>
     <ifscCode>SYNB0000621</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chirategundu</name>
@@ -1644,7 +1779,7 @@
     <contact>0</contact>
     <micrCode>583025109</micrCode>
     <ifscCode>SYNB0000620</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gundagatti</name>
@@ -1653,7 +1788,7 @@
     <contact>0</contact>
     <micrCode>583025205</micrCode>
     <ifscCode>SYNB0000619</ifscCode>
-    <bankLoc>21603</bankLoc>
+    <bankLoc>21462</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bannikal</name>
@@ -1662,7 +1797,7 @@
     <contact>0</contact>
     <micrCode>583025110</micrCode>
     <ifscCode>SYNB0000618</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Bellary</name>
@@ -1671,7 +1806,7 @@
     <contact>0</contact>
     <micrCode>583025999</micrCode>
     <ifscCode>SYNB0000617</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hagari</name>
@@ -1680,7 +1815,7 @@
     <contact>0</contact>
     <micrCode>583025108</micrCode>
     <ifscCode>SYNB0000615</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hagaribommanahalli</name>
@@ -1689,7 +1824,7 @@
     <contact>0</contact>
     <micrCode>583025204</micrCode>
     <ifscCode>SYNB0000614</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sandur</name>
@@ -1698,7 +1833,7 @@
     <contact>0</contact>
     <micrCode>583025202</micrCode>
     <ifscCode>SYNB0000613</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gudekota</name>
@@ -1707,7 +1842,7 @@
     <contact>0</contact>
     <micrCode>583025051</micrCode>
     <ifscCode>SYNB0000612</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kampli</name>
@@ -1716,7 +1851,7 @@
     <contact>0</contact>
     <micrCode>583025402</micrCode>
     <ifscCode>SYNB0000611</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harapanahalli</name>
@@ -1725,7 +1860,7 @@
     <contact>0</contact>
     <micrCode>583025604</micrCode>
     <ifscCode>SYNB0000610</ifscCode>
-    <bankLoc>21603</bankLoc>
+    <bankLoc>21462</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tungabhadra DAM</name>
@@ -1734,7 +1869,7 @@
     <contact>0</contact>
     <micrCode>583025105</micrCode>
     <ifscCode>SYNB0000609</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thoranagal</name>
@@ -1743,7 +1878,7 @@
     <contact>0</contact>
     <micrCode>583025107</micrCode>
     <ifscCode>SYNB0000608</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tekkalakote</name>
@@ -1752,7 +1887,7 @@
     <contact>0</contact>
     <micrCode>583025603</micrCode>
     <ifscCode>SYNB0000607</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Siruguppa</name>
@@ -1761,7 +1896,7 @@
     <contact>0</contact>
     <micrCode>583025602</micrCode>
     <ifscCode>SYNB0000606</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ittigi</name>
@@ -1770,7 +1905,7 @@
     <contact>0</contact>
     <micrCode>583025106</micrCode>
     <ifscCode>SYNB0000605</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Emmiganur</name>
@@ -1779,7 +1914,7 @@
     <contact>0</contact>
     <micrCode>583025403</micrCode>
     <ifscCode>SYNB0000604</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hospet</name>
@@ -1788,7 +1923,7 @@
     <contact>0</contact>
     <micrCode>583025102</micrCode>
     <ifscCode>SYNB0000603</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bellary Royal Circle</name>
@@ -1797,7 +1932,7 @@
     <contact>0</contact>
     <micrCode>583025103</micrCode>
     <ifscCode>SYNB0000602</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bellary  Main</name>
@@ -1806,7 +1941,7 @@
     <contact>0</contact>
     <micrCode>583025002</micrCode>
     <ifscCode>SYNB0000600</ifscCode>
-    <bankLoc>21584</bankLoc>
+    <bankLoc>21443</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Munavalli</name>
@@ -1815,7 +1950,7 @@
     <contact>2405051</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000591</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Beedi</name>
@@ -1824,7 +1959,7 @@
     <contact>2405050</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000589</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nesargi</name>
@@ -1833,7 +1968,7 @@
     <contact>2405050</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000588</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Examba</name>
@@ -1842,7 +1977,7 @@
     <contact>2405050</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000587</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manakapur</name>
@@ -1851,7 +1986,7 @@
     <contact>2405050</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000586</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramteerth Nagar Belgaum</name>
@@ -1860,7 +1995,7 @@
     <contact>0</contact>
     <micrCode>590025020</micrCode>
     <ifscCode>SYNB0000585</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yamagarni</name>
@@ -1869,7 +2004,7 @@
     <contact>0</contact>
     <micrCode>591025561</micrCode>
     <ifscCode>SYNB0000584</ifscCode>
-    <bankLoc>21583</bankLoc>
+    <bankLoc>21442</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chippalkatti</name>
@@ -1878,7 +2013,7 @@
     <contact>0</contact>
     <micrCode>591025560</micrCode>
     <ifscCode>SYNB0000583</ifscCode>
-    <bankLoc>21583</bankLoc>
+    <bankLoc>21442</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Mahantesh Nagar</name>
@@ -1887,7 +2022,7 @@
     <contact>0</contact>
     <micrCode>590025018</micrCode>
     <ifscCode>SYNB0000582</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tilakwadi Belgaum</name>
@@ -1896,7 +2031,7 @@
     <contact>2405050</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000581</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gokak Valmiki Circle</name>
@@ -1905,7 +2040,7 @@
     <contact>0</contact>
     <micrCode>591025503</micrCode>
     <ifscCode>SYNB0000580</ifscCode>
-    <bankLoc>21615</bankLoc>
+    <bankLoc>21474</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kagwad</name>
@@ -1914,7 +2049,7 @@
     <contact>0</contact>
     <micrCode>591025501</micrCode>
     <ifscCode>SYNB0000579</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kulgod</name>
@@ -1923,7 +2058,7 @@
     <contact>0</contact>
     <micrCode>591025559</micrCode>
     <ifscCode>SYNB0000578</ifscCode>
-    <bankLoc>21616</bankLoc>
+    <bankLoc>21475</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sankeshwar</name>
@@ -1932,7 +2067,7 @@
     <contact>0</contact>
     <micrCode>591025558</micrCode>
     <ifscCode>SYNB0000577</ifscCode>
-    <bankLoc>21642</bankLoc>
+    <bankLoc>21501</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Msme Belgaum</name>
@@ -1941,7 +2076,7 @@
     <contact>0</contact>
     <micrCode>590025012</micrCode>
     <ifscCode>SYNB0000576</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bekkeri</name>
@@ -1950,7 +2085,7 @@
     <contact>0</contact>
     <micrCode>591025994</micrCode>
     <ifscCode>SYNB0000575</ifscCode>
-    <bankLoc>21637</bankLoc>
+    <bankLoc>21496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mallikawada</name>
@@ -1959,7 +2094,7 @@
     <contact>0</contact>
     <micrCode>591025562</micrCode>
     <ifscCode>SYNB0000574</ifscCode>
-    <bankLoc>21597</bankLoc>
+    <bankLoc>21456</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CPC Belgaum</name>
@@ -1968,7 +2103,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000573</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nidagundi</name>
@@ -1977,7 +2112,7 @@
     <contact>0</contact>
     <micrCode>591025997</micrCode>
     <ifscCode>SYNB0000572</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naslapur</name>
@@ -1986,7 +2121,7 @@
     <contact>0</contact>
     <micrCode>591025991</micrCode>
     <ifscCode>SYNB0000571</ifscCode>
-    <bankLoc>21637</bankLoc>
+    <bankLoc>21496</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kangarali B K</name>
@@ -1995,7 +2130,7 @@
     <contact>0</contact>
     <micrCode>590025997</micrCode>
     <ifscCode>SYNB0000570</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hiremulakur</name>
@@ -2004,7 +2139,7 @@
     <contact>0</contact>
     <micrCode>591025998</micrCode>
     <ifscCode>SYNB0000569</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tigadolli</name>
@@ -2013,7 +2148,7 @@
     <contact>0</contact>
     <micrCode>590025501</micrCode>
     <ifscCode>SYNB0000568</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hirenandihalli</name>
@@ -2022,7 +2157,7 @@
     <contact>0</contact>
     <micrCode>591025999</micrCode>
     <ifscCode>SYNB0000567</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhiradi</name>
@@ -2031,7 +2166,7 @@
     <contact>0</contact>
     <micrCode>591025996</micrCode>
     <ifscCode>SYNB0000566</ifscCode>
-    <bankLoc>21636</bankLoc>
+    <bankLoc>21495</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sunnal</name>
@@ -2040,7 +2175,7 @@
     <contact>0</contact>
     <micrCode>591025993</micrCode>
     <ifscCode>SYNB0000565</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Benakanahalli</name>
@@ -2049,7 +2184,7 @@
     <contact>0</contact>
     <micrCode>590025013</micrCode>
     <ifscCode>SYNB0000564</ifscCode>
-    <bankLoc>21646</bankLoc>
+    <bankLoc>21505</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pamaladinni</name>
@@ -2058,7 +2193,7 @@
     <contact>0</contact>
     <micrCode>591025908</micrCode>
     <ifscCode>SYNB0000563</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nerli</name>
@@ -2067,7 +2202,7 @@
     <contact>0</contact>
     <micrCode>591025306</micrCode>
     <ifscCode>SYNB0000562</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nallanatti</name>
@@ -2076,7 +2211,7 @@
     <contact>0</contact>
     <micrCode>591025206</micrCode>
     <ifscCode>SYNB0000561</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harugeri</name>
@@ -2085,7 +2220,7 @@
     <contact>0</contact>
     <micrCode>591025604</micrCode>
     <ifscCode>SYNB0000560</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chikodi B K College</name>
@@ -2094,7 +2229,7 @@
     <contact>0</contact>
     <micrCode>591025203</micrCode>
     <ifscCode>SYNB0000558</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>G I Bagewadi College Nipani</name>
@@ -2103,7 +2238,7 @@
     <contact>0</contact>
     <micrCode>591025303</micrCode>
     <ifscCode>SYNB0000557</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ST Pauls H S Belgaum</name>
@@ -2112,7 +2247,7 @@
     <contact>0</contact>
     <micrCode>590025011</micrCode>
     <ifscCode>SYNB0000556</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAO Belgaum</name>
@@ -2121,7 +2256,7 @@
     <contact>0</contact>
     <micrCode>590025001</micrCode>
     <ifscCode>SYNB0000554</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhootaramanahatti</name>
@@ -2130,7 +2265,7 @@
     <contact>0</contact>
     <micrCode>591025109</micrCode>
     <ifscCode>SYNB0000552</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanakumbi</name>
@@ -2139,7 +2274,7 @@
     <contact>0</contact>
     <micrCode>590025102</micrCode>
     <ifscCode>SYNB0000551</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>K Chandargi</name>
@@ -2148,7 +2283,7 @@
     <contact>0</contact>
     <micrCode>591025103</micrCode>
     <ifscCode>SYNB0000550</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Bhagyanagar</name>
@@ -2157,7 +2292,7 @@
     <contact>0</contact>
     <micrCode>590025010</micrCode>
     <ifscCode>SYNB0000549</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saudatti Raibag</name>
@@ -2166,7 +2301,7 @@
     <contact>0</contact>
     <micrCode>591025906</micrCode>
     <ifscCode>SYNB0000548</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hidkaldam</name>
@@ -2175,7 +2310,7 @@
     <contact>0</contact>
     <micrCode>591025803</micrCode>
     <ifscCode>SYNB0000547</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kudachi</name>
@@ -2184,7 +2319,7 @@
     <contact>0</contact>
     <micrCode>591025907</micrCode>
     <ifscCode>SYNB0000546</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yamkanmardi</name>
@@ -2193,7 +2328,7 @@
     <contact>0</contact>
     <micrCode>591025603</micrCode>
     <ifscCode>SYNB0000545</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Belgaum</name>
@@ -2202,7 +2337,7 @@
     <contact>0</contact>
     <micrCode>590025999</micrCode>
     <ifscCode>SYNB0000544</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yellammagudda</name>
@@ -2211,7 +2346,7 @@
     <contact>0</contact>
     <micrCode>591025107</micrCode>
     <ifscCode>SYNB0000542</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pant Balekundri</name>
@@ -2220,7 +2355,7 @@
     <contact>0</contact>
     <micrCode>591025602</micrCode>
     <ifscCode>SYNB0000540</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khanapur</name>
@@ -2229,7 +2364,7 @@
     <contact>0</contact>
     <micrCode>590025015</micrCode>
     <ifscCode>SYNB0000539</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Goaves</name>
@@ -2238,7 +2373,7 @@
     <contact>0</contact>
     <micrCode>590025009</micrCode>
     <ifscCode>SYNB0000538</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Athani</name>
@@ -2247,7 +2382,7 @@
     <contact>0</contact>
     <micrCode>591025402</micrCode>
     <ifscCode>SYNB0000536</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramnagar</name>
@@ -2256,7 +2391,7 @@
     <contact>0</contact>
     <micrCode>581025404</micrCode>
     <ifscCode>SYNB0000535</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum KRC Circle</name>
@@ -2265,7 +2400,7 @@
     <contact>0</contact>
     <micrCode>590025008</micrCode>
     <ifscCode>SYNB0000534</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Dharwar Road</name>
@@ -2274,7 +2409,7 @@
     <contact>0</contact>
     <micrCode>590025007</micrCode>
     <ifscCode>SYNB0000529</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Yamanpur IND ALM CO</name>
@@ -2283,7 +2418,7 @@
     <contact>0</contact>
     <micrCode>590025006</micrCode>
     <ifscCode>SYNB0000528</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgundi</name>
@@ -2292,7 +2427,7 @@
     <contact>0</contact>
     <micrCode>591025106</micrCode>
     <ifscCode>SYNB0000527</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deshnur</name>
@@ -2301,7 +2436,7 @@
     <contact>0</contact>
     <micrCode>591025104</micrCode>
     <ifscCode>SYNB0000525</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satti</name>
@@ -2310,7 +2445,7 @@
     <contact>0</contact>
     <micrCode>591025205</micrCode>
     <ifscCode>SYNB0000524</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Akol</name>
@@ -2319,7 +2454,7 @@
     <contact>0</contact>
     <micrCode>591025405</micrCode>
     <ifscCode>SYNB0000523</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ainapur</name>
@@ -2328,7 +2463,7 @@
     <contact>0</contact>
     <micrCode>591025702</micrCode>
     <ifscCode>SYNB0000522</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jugul</name>
@@ -2337,7 +2472,7 @@
     <contact>0</contact>
     <micrCode>591025533</micrCode>
     <ifscCode>SYNB0000521</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Itgi</name>
@@ -2346,7 +2481,7 @@
     <contact>0</contact>
     <micrCode>591025905</micrCode>
     <ifscCode>SYNB0000520</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sampagaon</name>
@@ -2355,7 +2490,7 @@
     <contact>0</contact>
     <micrCode>591025108</micrCode>
     <ifscCode>SYNB0000519</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bailhongal</name>
@@ -2364,7 +2499,7 @@
     <contact>0</contact>
     <micrCode>590025016</micrCode>
     <ifscCode>SYNB0000518</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yeragatti</name>
@@ -2373,7 +2508,7 @@
     <contact>0</contact>
     <micrCode>591025804</micrCode>
     <ifscCode>SYNB0000517</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sureban</name>
@@ -2382,7 +2517,7 @@
     <contact>0</contact>
     <micrCode>591025805</micrCode>
     <ifscCode>SYNB0000516</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saundatti</name>
@@ -2391,7 +2526,7 @@
     <contact>0</contact>
     <micrCode>591025102</micrCode>
     <ifscCode>SYNB0000515</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kittur</name>
@@ -2400,7 +2535,7 @@
     <contact>0</contact>
     <micrCode>591025903</micrCode>
     <ifscCode>SYNB0000514</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hukeri</name>
@@ -2409,7 +2544,7 @@
     <contact>0</contact>
     <micrCode>591025802</micrCode>
     <ifscCode>SYNB0000513</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghataprabha</name>
@@ -2418,7 +2553,7 @@
     <contact>0</contact>
     <micrCode>591025304</micrCode>
     <ifscCode>SYNB0000512</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gokak</name>
@@ -2427,7 +2562,7 @@
     <contact>0</contact>
     <micrCode>591025502</micrCode>
     <ifscCode>SYNB0000511</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mudalagi</name>
@@ -2436,7 +2571,7 @@
     <contact>0</contact>
     <micrCode>591025305</micrCode>
     <ifscCode>SYNB0000510</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chikody</name>
@@ -2445,7 +2580,7 @@
     <contact>0</contact>
     <micrCode>591025202</micrCode>
     <ifscCode>SYNB0000509</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raibagh</name>
@@ -2454,7 +2589,7 @@
     <contact>0</contact>
     <micrCode>591025904</micrCode>
     <ifscCode>SYNB0000508</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sadalga</name>
@@ -2463,7 +2598,7 @@
     <contact>0</contact>
     <micrCode>591025204</micrCode>
     <ifscCode>SYNB0000507</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramadurg</name>
@@ -2472,7 +2607,7 @@
     <contact>0</contact>
     <micrCode>591025404</micrCode>
     <ifscCode>SYNB0000506</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nipani</name>
@@ -2481,7 +2616,7 @@
     <contact>0</contact>
     <micrCode>591025302</micrCode>
     <ifscCode>SYNB0000505</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nehru Nagar</name>
@@ -2490,7 +2625,7 @@
     <contact>0</contact>
     <micrCode>590025005</micrCode>
     <ifscCode>SYNB0000504</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Shahpur</name>
@@ -2499,7 +2634,7 @@
     <contact>0</contact>
     <micrCode>590025004</micrCode>
     <ifscCode>SYNB0000503</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belgaum Camp</name>
@@ -2508,7 +2643,7 @@
     <contact>0</contact>
     <micrCode>590025003</micrCode>
     <ifscCode>SYNB0000502</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maruti Galli</name>
@@ -2517,7 +2652,7 @@
     <contact>0</contact>
     <micrCode>590025002</micrCode>
     <ifscCode>SYNB0000500</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CPC Bangalore</name>
@@ -2526,7 +2661,7 @@
     <contact>0</contact>
     <micrCode>560025996</micrCode>
     <ifscCode>SYNB0000499</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -2535,7 +2670,7 @@
     <contact>0</contact>
     <micrCode>560025072</micrCode>
     <ifscCode>SYNB0000498</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Megbangalore</name>
@@ -2544,7 +2679,7 @@
     <contact>0</contact>
     <micrCode>560025054</micrCode>
     <ifscCode>SYNB0000497</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -2553,7 +2688,7 @@
     <contact>0</contact>
     <micrCode>560025077</micrCode>
     <ifscCode>SYNB0000495</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Electronic City</name>
@@ -2562,7 +2697,7 @@
     <contact>0</contact>
     <micrCode>560025085</micrCode>
     <ifscCode>SYNB0000494</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Marathahalli</name>
@@ -2571,7 +2706,7 @@
     <contact>0</contact>
     <micrCode>560025086</micrCode>
     <ifscCode>SYNB0000493</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Doddakallsandra</name>
@@ -2580,7 +2715,7 @@
     <contact>0</contact>
     <micrCode>560025088</micrCode>
     <ifscCode>SYNB0000492</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Yelahanka</name>
@@ -2589,7 +2724,7 @@
     <contact>0</contact>
     <micrCode>560025087</micrCode>
     <ifscCode>SYNB0000491</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nelamangala</name>
@@ -2598,7 +2733,7 @@
     <contact>0</contact>
     <micrCode>560025083</micrCode>
     <ifscCode>SYNB0000490</ifscCode>
-    <bankLoc>21579</bankLoc>
+    <bankLoc>21438</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Ramamurthy Nagar</name>
@@ -2607,7 +2742,7 @@
     <contact>0</contact>
     <micrCode>560025082</micrCode>
     <ifscCode>SYNB0000489</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore K H Road Ksrtc Depot</name>
@@ -2616,7 +2751,7 @@
     <contact>0</contact>
     <micrCode>560025055</micrCode>
     <ifscCode>SYNB0000488</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore V V Puram BIT</name>
@@ -2625,7 +2760,7 @@
     <contact>0</contact>
     <micrCode>560025067</micrCode>
     <ifscCode>SYNB0000487</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Nagarbhavi Road</name>
@@ -2634,7 +2769,7 @@
     <contact>0</contact>
     <micrCode>560025076</micrCode>
     <ifscCode>SYNB0000486</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Manipal Hospital</name>
@@ -2643,7 +2778,7 @@
     <contact>0</contact>
     <micrCode>560025066</micrCode>
     <ifscCode>SYNB0000485</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -2652,7 +2787,7 @@
     <contact>0</contact>
     <micrCode>560025081</micrCode>
     <ifscCode>SYNB0000484</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sanjay Nagar</name>
@@ -2661,7 +2796,7 @@
     <contact>0</contact>
     <micrCode>560025080</micrCode>
     <ifscCode>SYNB0000483</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Mariyanapalya</name>
@@ -2670,7 +2805,7 @@
     <contact>0</contact>
     <micrCode>560025079</micrCode>
     <ifscCode>SYNB0000482</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Vidyaranyapuram</name>
@@ -2679,7 +2814,7 @@
     <contact>0</contact>
     <micrCode>560025078</micrCode>
     <ifscCode>SYNB0000481</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Bangalore</name>
@@ -2688,7 +2823,7 @@
     <contact>0</contact>
     <micrCode>560025992</micrCode>
     <ifscCode>SYNB0000479</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Banashankari II Stage</name>
@@ -2697,7 +2832,7 @@
     <contact>0</contact>
     <micrCode>560025075</micrCode>
     <ifscCode>SYNB0000478</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore National Games Village</name>
@@ -2706,7 +2841,7 @@
     <contact>0</contact>
     <micrCode>560025074</micrCode>
     <ifscCode>SYNB0000476</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Vijaya College Campus</name>
@@ -2715,7 +2850,7 @@
     <contact>0</contact>
     <micrCode>560025062</micrCode>
     <ifscCode>SYNB0000475</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Good Shepherd EDN SO</name>
@@ -2724,7 +2859,7 @@
     <contact>0</contact>
     <micrCode>560025058</micrCode>
     <ifscCode>SYNB0000474</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore I A F Station Hebbal</name>
@@ -2733,7 +2868,7 @@
     <contact>0</contact>
     <micrCode>560025063</micrCode>
     <ifscCode>SYNB0000473</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Yediyur</name>
@@ -2742,7 +2877,7 @@
     <contact>0</contact>
     <micrCode>560025059</micrCode>
     <ifscCode>SYNB0000472</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Shankarnagar Apmc Yard</name>
@@ -2751,7 +2886,7 @@
     <contact>0</contact>
     <micrCode>560025071</micrCode>
     <ifscCode>SYNB0000471</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Tilaknagar</name>
@@ -2760,7 +2895,7 @@
     <contact>0</contact>
     <micrCode>560025057</micrCode>
     <ifscCode>SYNB0000470</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Jalavayu Vihar</name>
@@ -2769,7 +2904,7 @@
     <contact>0</contact>
     <micrCode>560025068</micrCode>
     <ifscCode>SYNB0000469</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jmcbangalore</name>
@@ -2778,7 +2913,7 @@
     <contact>0</contact>
     <micrCode>560025060</micrCode>
     <ifscCode>SYNB0000466</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore</name>
@@ -2787,7 +2922,7 @@
     <contact>0</contact>
     <micrCode>560025995</micrCode>
     <ifscCode>SYNB0000464</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore White Field SSI</name>
@@ -2796,7 +2931,7 @@
     <contact>0</contact>
     <micrCode>560025070</micrCode>
     <ifscCode>SYNB0000463</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Kengeri Satellite Town</name>
@@ -2805,7 +2940,7 @@
     <contact>0</contact>
     <micrCode>560025042</micrCode>
     <ifscCode>SYNB0000462</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Industrial Finance Branch</name>
@@ -2814,7 +2949,7 @@
     <contact>0</contact>
     <micrCode>560025041</micrCode>
     <ifscCode>SYNB0000461</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Marsur</name>
@@ -2823,7 +2958,7 @@
     <contact>0</contact>
     <micrCode>560025091</micrCode>
     <ifscCode>SYNB0000460</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Banaswadi</name>
@@ -2832,7 +2967,7 @@
     <contact>0</contact>
     <micrCode>560025029</micrCode>
     <ifscCode>SYNB0000459</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Ganganagar GG Halli</name>
@@ -2841,7 +2976,7 @@
     <contact>0</contact>
     <micrCode>560025018</micrCode>
     <ifscCode>SYNB0000458</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Shanthinagar</name>
@@ -2850,7 +2985,7 @@
     <contact>0</contact>
     <micrCode>560025019</micrCode>
     <ifscCode>SYNB0000457</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koramangala</name>
@@ -2859,7 +2994,7 @@
     <contact>0</contact>
     <micrCode>560025020</micrCode>
     <ifscCode>SYNB0000456</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Peenya Indl Estate</name>
@@ -2868,7 +3003,7 @@
     <contact>0</contact>
     <micrCode>560025017</micrCode>
     <ifscCode>SYNB0000455</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Training Centre Bangalore</name>
@@ -2877,7 +3012,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000452</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fxpcbangalore</name>
@@ -2886,7 +3021,7 @@
     <contact>0</contact>
     <micrCode>560025998</micrCode>
     <ifscCode>SYNB0000451</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Vishwaneedham</name>
@@ -2895,7 +3030,7 @@
     <contact>0</contact>
     <micrCode>560025016</micrCode>
     <ifscCode>SYNB0000450</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Malleshwaram</name>
@@ -2904,7 +3039,7 @@
     <contact>0</contact>
     <micrCode>560025035</micrCode>
     <ifscCode>SYNB0000449</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basaveshwara RD</name>
@@ -2913,7 +3048,7 @@
     <contact>0</contact>
     <micrCode>560025034</micrCode>
     <ifscCode>SYNB0000448</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bwssb</name>
@@ -2922,7 +3057,7 @@
     <contact>0</contact>
     <micrCode>560025003</micrCode>
     <ifscCode>SYNB0000446</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Lingarajapuram</name>
@@ -2931,7 +3066,7 @@
     <contact>0</contact>
     <micrCode>560025033</micrCode>
     <ifscCode>SYNB0000445</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Jalahalli</name>
@@ -2940,7 +3075,7 @@
     <contact>0</contact>
     <micrCode>560025032</micrCode>
     <ifscCode>SYNB0000444</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Palace Guttahalli</name>
@@ -2949,7 +3084,7 @@
     <contact>0</contact>
     <micrCode>560025031</micrCode>
     <ifscCode>SYNB0000442</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore DVG Road Basvanagudi</name>
@@ -2958,7 +3093,7 @@
     <contact>0</contact>
     <micrCode>560025030</micrCode>
     <ifscCode>SYNB0000441</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Visweswarapuram</name>
@@ -2967,7 +3102,7 @@
     <contact>0</contact>
     <micrCode>560025044</micrCode>
     <ifscCode>SYNB0000440</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Gavipuram Extension</name>
@@ -2976,7 +3111,7 @@
     <contact>0</contact>
     <micrCode>560025028</micrCode>
     <ifscCode>SYNB0000439</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore City Market</name>
@@ -2985,7 +3120,7 @@
     <contact>0</contact>
     <micrCode>560025027</micrCode>
     <ifscCode>SYNB0000438</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anekal</name>
@@ -2994,7 +3129,7 @@
     <contact>0</contact>
     <micrCode>560025090</micrCode>
     <ifscCode>SYNB0000437</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Rajajinagar II STG</name>
@@ -3003,7 +3138,7 @@
     <contact>0</contact>
     <micrCode>560025026</micrCode>
     <ifscCode>SYNB0000436</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Balepet</name>
@@ -3012,7 +3147,7 @@
     <contact>0</contact>
     <micrCode>560025024</micrCode>
     <ifscCode>SYNB0000435</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sadashiva Nagar</name>
@@ -3021,7 +3156,7 @@
     <contact>0</contact>
     <micrCode>560025025</micrCode>
     <ifscCode>SYNB0000434</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Halasur</name>
@@ -3030,7 +3165,7 @@
     <contact>0</contact>
     <micrCode>560025036</micrCode>
     <ifscCode>SYNB0000433</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indira Nagar</name>
@@ -3039,7 +3174,7 @@
     <contact>0</contact>
     <micrCode>560025021</micrCode>
     <ifscCode>SYNB0000432</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Russel Market</name>
@@ -3048,7 +3183,7 @@
     <contact>0</contact>
     <micrCode>560025022</micrCode>
     <ifscCode>SYNB0000431</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Attibele</name>
@@ -3057,7 +3192,7 @@
     <contact>0</contact>
     <micrCode>560025089</micrCode>
     <ifscCode>SYNB0000429</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yashwantpur  Bangalore</name>
@@ -3066,7 +3201,7 @@
     <contact>0</contact>
     <micrCode>560025014</micrCode>
     <ifscCode>SYNB0000428</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vijaya Nagar</name>
@@ -3075,7 +3210,7 @@
     <contact>0</contact>
     <micrCode>560025007</micrCode>
     <ifscCode>SYNB0000427</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Magadi Road</name>
@@ -3084,7 +3219,7 @@
     <contact>0</contact>
     <micrCode>560025010</micrCode>
     <ifscCode>SYNB0000426</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banashankaribangalore</name>
@@ -3093,7 +3228,7 @@
     <contact>0</contact>
     <micrCode>560025006</micrCode>
     <ifscCode>SYNB0000425</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malleshwaram</name>
@@ -3102,7 +3237,7 @@
     <contact>0</contact>
     <micrCode>560025045</micrCode>
     <ifscCode>SYNB0000424</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kghallibangalore</name>
@@ -3111,7 +3246,7 @@
     <contact>0</contact>
     <micrCode>560025050</micrCode>
     <ifscCode>SYNB0000423</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puttanna Chetty RD</name>
@@ -3120,7 +3255,7 @@
     <contact>0</contact>
     <micrCode>560025048</micrCode>
     <ifscCode>SYNB0000421</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Krishnarajapuram</name>
@@ -3129,7 +3264,7 @@
     <contact>0</contact>
     <micrCode>560025015</micrCode>
     <ifscCode>SYNB0000420</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Wilson Garden</name>
@@ -3138,7 +3273,7 @@
     <contact>0</contact>
     <micrCode>560025046</micrCode>
     <ifscCode>SYNB0000419</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shoolay</name>
@@ -3147,7 +3282,7 @@
     <contact>0</contact>
     <micrCode>560025012</micrCode>
     <ifscCode>SYNB0000418</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Vasanthnagar</name>
@@ -3156,7 +3291,7 @@
     <contact>0</contact>
     <micrCode>560025013</micrCode>
     <ifscCode>SYNB0000416</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore N R Colony</name>
@@ -3165,7 +3300,7 @@
     <contact>0</contact>
     <micrCode>560025011</micrCode>
     <ifscCode>SYNB0000415</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Langford Town</name>
@@ -3174,7 +3309,7 @@
     <contact>0</contact>
     <micrCode>560025009</micrCode>
     <ifscCode>SYNB0000414</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Jayamahal</name>
@@ -3183,7 +3318,7 @@
     <contact>0</contact>
     <micrCode>560025008</micrCode>
     <ifscCode>SYNB0000413</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore J C Road</name>
@@ -3192,7 +3327,7 @@
     <contact>0</contact>
     <micrCode>560025004</micrCode>
     <ifscCode>SYNB0000412</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Vimanapura</name>
@@ -3201,7 +3336,7 @@
     <contact>0</contact>
     <micrCode>560025043</micrCode>
     <ifscCode>SYNB0000411</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Frazer Town</name>
@@ -3210,7 +3345,7 @@
     <contact>0</contact>
     <micrCode>560025040</micrCode>
     <ifscCode>SYNB0000410</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jayanagar</name>
@@ -3219,7 +3354,7 @@
     <contact>0</contact>
     <micrCode>560025039</micrCode>
     <ifscCode>SYNB0000409</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajajinagar</name>
@@ -3228,7 +3363,7 @@
     <contact>0</contact>
     <micrCode>560025038</micrCode>
     <ifscCode>SYNB0000408</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Seshadripuram</name>
@@ -3237,7 +3372,7 @@
     <contact>0</contact>
     <micrCode>560025051</micrCode>
     <ifscCode>SYNB0000407</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Cantonment</name>
@@ -3246,7 +3381,7 @@
     <contact>0</contact>
     <micrCode>560025049</micrCode>
     <ifscCode>SYNB0000406</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Chickpet</name>
@@ -3255,7 +3390,7 @@
     <contact>0</contact>
     <micrCode>560025047</micrCode>
     <ifscCode>SYNB0000405</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Chamarajpet</name>
@@ -3264,7 +3399,7 @@
     <contact>0</contact>
     <micrCode>560025005</micrCode>
     <ifscCode>SYNB0000404</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAO</name>
@@ -3273,7 +3408,7 @@
     <contact>0</contact>
     <micrCode>560025001</micrCode>
     <ifscCode>SYNB0000403</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R I Bangalore</name>
@@ -3282,7 +3417,7 @@
     <contact>0</contact>
     <micrCode>560025991</micrCode>
     <ifscCode>SYNB0000402</ifscCode>
-    <bankLoc>21578</bankLoc>
+    <bankLoc>21437</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Gandhinagar</name>
@@ -3291,7 +3426,7 @@
     <contact>0</contact>
     <micrCode>560025002</micrCode>
     <ifscCode>SYNB0000400</ifscCode>
-    <bankLoc>21580</bankLoc>
+    <bankLoc>21439</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Devenahalli</name>
@@ -3300,7 +3435,7 @@
     <contact>0</contact>
     <micrCode>560025084</micrCode>
     <ifscCode>SYNB0000392</ifscCode>
-    <bankLoc>21579</bankLoc>
+    <bankLoc>21438</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shirwad</name>
@@ -3309,7 +3444,7 @@
     <contact>226758</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000376</ifscCode>
-    <bankLoc>21654</bankLoc>
+    <bankLoc>21513</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harwada</name>
@@ -3318,7 +3453,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000375</ifscCode>
-    <bankLoc>21649</bankLoc>
+    <bankLoc>21508</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mirjan</name>
@@ -3327,7 +3462,7 @@
     <contact>0</contact>
     <micrCode>581025654</micrCode>
     <ifscCode>SYNB0000373</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gunavante</name>
@@ -3336,7 +3471,7 @@
     <contact>0</contact>
     <micrCode>581025603</micrCode>
     <ifscCode>SYNB0000372</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nehru Road Bhatkal</name>
@@ -3345,7 +3480,7 @@
     <contact>0</contact>
     <micrCode>581025353</micrCode>
     <ifscCode>SYNB0000371</ifscCode>
-    <bankLoc>21625</bankLoc>
+    <bankLoc>21484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nandangadda</name>
@@ -3354,7 +3489,7 @@
     <contact>0</contact>
     <micrCode>581025993</micrCode>
     <ifscCode>SYNB0000368</ifscCode>
-    <bankLoc>21625</bankLoc>
+    <bankLoc>21484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banavasi Road Sirsi</name>
@@ -3363,7 +3498,7 @@
     <contact>0</contact>
     <micrCode>581025994</micrCode>
     <ifscCode>SYNB0000367</ifscCode>
-    <bankLoc>21644</bankLoc>
+    <bankLoc>21503</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tergaon</name>
@@ -3372,7 +3507,7 @@
     <contact>0</contact>
     <micrCode>581025997</micrCode>
     <ifscCode>SYNB0000363</ifscCode>
-    <bankLoc>21582</bankLoc>
+    <bankLoc>21441</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kinnar</name>
@@ -3381,7 +3516,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000362</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indoor</name>
@@ -3390,7 +3525,7 @@
     <contact>0</contact>
     <micrCode>581025578</micrCode>
     <ifscCode>SYNB0000361</ifscCode>
-    <bankLoc>21625</bankLoc>
+    <bankLoc>21484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belke</name>
@@ -3399,7 +3534,7 @@
     <contact>0</contact>
     <micrCode>581025577</micrCode>
     <ifscCode>SYNB0000360</ifscCode>
-    <bankLoc>21625</bankLoc>
+    <bankLoc>21484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>LC II Tattihalli</name>
@@ -3408,7 +3543,7 @@
     <contact>0</contact>
     <micrCode>581025123</micrCode>
     <ifscCode>SYNB0000359</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>LC I Tattihalli</name>
@@ -3417,7 +3552,7 @@
     <contact>0</contact>
     <micrCode>581025122</micrCode>
     <ifscCode>SYNB0000358</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CMC Sirsi</name>
@@ -3426,7 +3561,7 @@
     <contact>0</contact>
     <micrCode>581025409</micrCode>
     <ifscCode>SYNB0000357</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belekeri</name>
@@ -3435,7 +3570,7 @@
     <contact>0</contact>
     <micrCode>581025568</micrCode>
     <ifscCode>SYNB0000356</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumta DR A V Baliga College</name>
@@ -3444,7 +3579,7 @@
     <contact>0</contact>
     <micrCode>581025106</micrCode>
     <ifscCode>SYNB0000354</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>LDO Karwar</name>
@@ -3453,7 +3588,7 @@
     <contact>0</contact>
     <micrCode>581025998</micrCode>
     <ifscCode>SYNB0000353</ifscCode>
-    <bankLoc>21625</bankLoc>
+    <bankLoc>21484</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mallapur</name>
@@ -3462,7 +3597,7 @@
     <contact>0</contact>
     <micrCode>581025405</micrCode>
     <ifscCode>SYNB0000352</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ekkambi</name>
@@ -3471,7 +3606,7 @@
     <contact>0</contact>
     <micrCode>581025311</micrCode>
     <ifscCode>SYNB0000349</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sambrani Gundalli</name>
@@ -3480,7 +3615,7 @@
     <contact>0</contact>
     <micrCode>581025314</micrCode>
     <ifscCode>SYNB0000348</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kathgal</name>
@@ -3489,7 +3624,7 @@
     <contact>0</contact>
     <micrCode>581025126</micrCode>
     <ifscCode>SYNB0000346</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basgod</name>
@@ -3498,7 +3633,7 @@
     <contact>0</contact>
     <micrCode>581025406</micrCode>
     <ifscCode>SYNB0000345</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Angod</name>
@@ -3507,7 +3642,7 @@
     <contact>0</contact>
     <micrCode>581025206</micrCode>
     <ifscCode>SYNB0000344</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Karwar</name>
@@ -3516,7 +3651,7 @@
     <contact>0</contact>
     <micrCode>581025999</micrCode>
     <ifscCode>SYNB0000343</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mavinkurve</name>
@@ -3525,7 +3660,7 @@
     <contact>0</contact>
     <micrCode>581025127</micrCode>
     <ifscCode>SYNB0000341</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kirwatti</name>
@@ -3534,7 +3669,7 @@
     <contact>0</contact>
     <micrCode>581025408</micrCode>
     <ifscCode>SYNB0000340</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gerasoppa</name>
@@ -3543,7 +3678,7 @@
     <contact>0</contact>
     <micrCode>581025109</micrCode>
     <ifscCode>SYNB0000339</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bilgi</name>
@@ -3552,7 +3687,7 @@
     <contact>0</contact>
     <micrCode>581025548</micrCode>
     <ifscCode>SYNB0000338</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ganeshgudi</name>
@@ -3561,7 +3696,7 @@
     <contact>0</contact>
     <micrCode>581025308</micrCode>
     <ifscCode>SYNB0000336</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Joida</name>
@@ -3570,7 +3705,7 @@
     <contact>0</contact>
     <micrCode>581025117</micrCode>
     <ifscCode>SYNB0000335</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodkani</name>
@@ -3579,7 +3714,7 @@
     <contact>0</contact>
     <micrCode>581025120</micrCode>
     <ifscCode>SYNB0000334</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Binaga</name>
@@ -3588,7 +3723,7 @@
     <contact>0</contact>
     <micrCode>581025121</micrCode>
     <ifscCode>SYNB0000332</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shirali</name>
@@ -3597,7 +3732,7 @@
     <contact>0</contact>
     <micrCode>581025111</micrCode>
     <ifscCode>SYNB0000331</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambikanagar</name>
@@ -3606,7 +3741,7 @@
     <contact>0</contact>
     <micrCode>581025112</micrCode>
     <ifscCode>SYNB0000330</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tattihalli</name>
@@ -3615,7 +3750,7 @@
     <contact>0</contact>
     <micrCode>581025107</micrCode>
     <ifscCode>SYNB0000329</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haliyal</name>
@@ -3624,7 +3759,7 @@
     <contact>0</contact>
     <micrCode>581025306</micrCode>
     <ifscCode>SYNB0000328</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumbarkop</name>
@@ -3633,7 +3768,7 @@
     <contact>0</contact>
     <micrCode>581025305</micrCode>
     <ifscCode>SYNB0000327</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manki</name>
@@ -3642,7 +3777,7 @@
     <contact>0</contact>
     <micrCode>581025113</micrCode>
     <ifscCode>SYNB0000326</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chendia</name>
@@ -3651,7 +3786,7 @@
     <contact>0</contact>
     <micrCode>581025204</micrCode>
     <ifscCode>SYNB0000325</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Majali</name>
@@ -3660,7 +3795,7 @@
     <contact>0</contact>
     <micrCode>581025108</micrCode>
     <ifscCode>SYNB0000324</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadthoka</name>
@@ -3669,7 +3804,7 @@
     <contact>0</contact>
     <micrCode>581025312</micrCode>
     <ifscCode>SYNB0000323</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Asnoti</name>
@@ -3678,7 +3813,7 @@
     <contact>0</contact>
     <micrCode>581025309</micrCode>
     <ifscCode>SYNB0000322</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manchikere</name>
@@ -3687,7 +3822,7 @@
     <contact>0</contact>
     <micrCode>581025315</micrCode>
     <ifscCode>SYNB0000321</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadwad</name>
@@ -3696,7 +3831,7 @@
     <contact>0</contact>
     <micrCode>581025902</micrCode>
     <ifscCode>SYNB0000320</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hulekal</name>
@@ -3705,7 +3840,7 @@
     <contact>0</contact>
     <micrCode>581025316</micrCode>
     <ifscCode>SYNB0000319</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hegde</name>
@@ -3714,7 +3849,7 @@
     <contact>0</contact>
     <micrCode>581025116</micrCode>
     <ifscCode>SYNB0000318</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haldipur</name>
@@ -3723,7 +3858,7 @@
     <contact>0</contact>
     <micrCode>581025115</micrCode>
     <ifscCode>SYNB0000317</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bankikonda</name>
@@ -3732,7 +3867,7 @@
     <contact>0</contact>
     <micrCode>581025205</micrCode>
     <ifscCode>SYNB0000316</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mundgod</name>
@@ -3741,7 +3876,7 @@
     <contact>0</contact>
     <micrCode>581025105</micrCode>
     <ifscCode>SYNB0000314</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yellapur</name>
@@ -3750,7 +3885,7 @@
     <contact>0</contact>
     <micrCode>581025602</micrCode>
     <ifscCode>SYNB0000313</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aversa</name>
@@ -3759,7 +3894,7 @@
     <contact>0</contact>
     <micrCode>581025202</micrCode>
     <ifscCode>SYNB0000312</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banavasi</name>
@@ -3768,7 +3903,7 @@
     <contact>0</contact>
     <micrCode>581025313</micrCode>
     <ifscCode>SYNB0000311</ifscCode>
-    <bankLoc>21655</bankLoc>
+    <bankLoc>21514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Murdeshwar</name>
@@ -3777,7 +3912,7 @@
     <contact>0</contact>
     <micrCode>581025304</micrCode>
     <ifscCode>SYNB0000310</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sadashivagad</name>
@@ -3786,7 +3921,7 @@
     <contact>0</contact>
     <micrCode>581025302</micrCode>
     <ifscCode>SYNB0000309</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Siddapur</name>
@@ -3795,7 +3930,7 @@
     <contact>0</contact>
     <micrCode>581025310</micrCode>
     <ifscCode>SYNB0000308</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dandeli</name>
@@ -3804,7 +3939,7 @@
     <contact>0</contact>
     <micrCode>581025303</micrCode>
     <ifscCode>SYNB0000307</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gokarn</name>
@@ -3813,7 +3948,7 @@
     <contact>0</contact>
     <micrCode>581025110</micrCode>
     <ifscCode>SYNB0000306</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhatkal</name>
@@ -3822,7 +3957,7 @@
     <contact>0</contact>
     <micrCode>581025307</micrCode>
     <ifscCode>SYNB0000305</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ankola</name>
@@ -3831,7 +3966,7 @@
     <contact>0</contact>
     <micrCode>581025104</micrCode>
     <ifscCode>SYNB0000304</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sirsi</name>
@@ -3840,7 +3975,7 @@
     <contact>0</contact>
     <micrCode>581025103</micrCode>
     <ifscCode>SYNB0000303</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Honavar</name>
@@ -3849,7 +3984,7 @@
     <contact>0</contact>
     <micrCode>581025114</micrCode>
     <ifscCode>SYNB0000302</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumta</name>
@@ -3858,7 +3993,7 @@
     <contact>0</contact>
     <micrCode>581025652</micrCode>
     <ifscCode>SYNB0000301</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karwar</name>
@@ -3867,7 +4002,7 @@
     <contact>0</contact>
     <micrCode>581025002</micrCode>
     <ifscCode>SYNB0000300</ifscCode>
-    <bankLoc>21656</bankLoc>
+    <bankLoc>21515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balpa</name>
@@ -3876,7 +4011,7 @@
     <contact>2444534</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000298</ifscCode>
-    <bankLoc>21601</bankLoc>
+    <bankLoc>21460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MID Corporate Branch Mangalore</name>
@@ -3885,7 +4020,7 @@
     <contact>2444534</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000296</ifscCode>
-    <bankLoc>21601</bankLoc>
+    <bankLoc>21460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Derebail</name>
@@ -3894,7 +4029,7 @@
     <contact>2445994</contact>
     <micrCode>575025061</micrCode>
     <ifscCode>SYNB0000295</ifscCode>
-    <bankLoc>21601</bankLoc>
+    <bankLoc>21460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shambur DK Dist</name>
@@ -3903,7 +4038,7 @@
     <contact>55281233</contact>
     <micrCode>575025060</micrCode>
     <ifscCode>SYNB0000294</ifscCode>
-    <bankLoc>21601</bankLoc>
+    <bankLoc>21460</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodibettu</name>
@@ -3912,7 +4047,7 @@
     <contact>2520999</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000292</ifscCode>
-    <bankLoc>21650</bankLoc>
+    <bankLoc>21509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bada Branch</name>
@@ -3921,7 +4056,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000291</ifscCode>
-    <bankLoc>21652</bankLoc>
+    <bankLoc>21511</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagoor</name>
@@ -3930,7 +4065,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000290</ifscCode>
-    <bankLoc>21652</bankLoc>
+    <bankLoc>21511</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bairampalli</name>
@@ -3939,7 +4074,7 @@
     <contact>2520999</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000289</ifscCode>
-    <bankLoc>21650</bankLoc>
+    <bankLoc>21509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fgmo Manipal</name>
@@ -3948,7 +4083,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000287</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaddarse</name>
@@ -3957,7 +4092,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000286</ifscCode>
-    <bankLoc>21653</bankLoc>
+    <bankLoc>21512</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangaladevi</name>
@@ -3966,7 +4101,7 @@
     <contact>0</contact>
     <micrCode>575025057</micrCode>
     <ifscCode>SYNB0000285</ifscCode>
-    <bankLoc>21632</bankLoc>
+    <bankLoc>21491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kavoor</name>
@@ -3975,7 +4110,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000284</ifscCode>
-    <bankLoc>21632</bankLoc>
+    <bankLoc>21491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>DC Officemanipal</name>
@@ -3984,7 +4119,7 @@
     <contact>0</contact>
     <micrCode>576025026</micrCode>
     <ifscCode>SYNB0000283</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maravanthe</name>
@@ -3993,7 +4128,7 @@
     <contact>0</contact>
     <micrCode>576025547</micrCode>
     <ifscCode>SYNB0000282</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shivapura</name>
@@ -4002,7 +4137,7 @@
     <contact>0</contact>
     <micrCode>576025546</micrCode>
     <ifscCode>SYNB0000281</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gujjadi</name>
@@ -4011,7 +4146,7 @@
     <contact>0</contact>
     <micrCode>576025545</micrCode>
     <ifscCode>SYNB0000280</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Halladi</name>
@@ -4020,7 +4155,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SYNB0000278</ifscCode>
-    <bankLoc>21652</bankLoc>
+    <bankLoc>21511</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Avarse</name>
@@ -4029,7 +4164,7 @@
     <contact>0</contact>
     <micrCode>576025544</micrCode>
     <ifscCode>SYNB0000277</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badagulipady</name>
@@ -4038,7 +4173,7 @@
     <contact>0</contact>
     <micrCode>575025055</micrCode>
     <ifscCode>SYNB0000276</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanthoor</name>
@@ -4047,7 +4182,7 @@
     <contact>0</contact>
     <micrCode>575025024</micrCode>
     <ifscCode>SYNB0000274</ifscCode>
-    <bankLoc>21632</bankLoc>
+    <bankLoc>21491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nada</name>
@@ -4056,7 +4191,7 @@
     <contact>0</contact>
     <micrCode>574025990</micrCode>
     <ifscCode>SYNB0000273</ifscCode>
-    <bankLoc>21645</bankLoc>
+    <bankLoc>21504</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthige</name>
@@ -4065,7 +4200,7 @@
     <contact>0</contact>
     <micrCode>575025054</micrCode>
     <ifscCode>SYNB0000272</ifscCode>
-    <bankLoc>21635</bankLoc>
+    <bankLoc>21494</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalthur</name>
@@ -4074,7 +4209,7 @@
     <contact>0</contact>
     <micrCode>576025992</micrCode>
     <ifscCode>SYNB0000271</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>B C Road</name>
@@ -4083,7 +4218,7 @@
     <contact>0</contact>
     <micrCode>575025056</micrCode>
     <ifscCode>SYNB0000270</ifscCode>
-    <bankLoc>21632</bankLoc>
+    <bankLoc>21491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Miyar</name>
@@ -4092,7 +4227,7 @@
     <contact>0</contact>
     <micrCode>574025809</micrCode>
     <ifscCode>SYNB0000269</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hemmady</name>
@@ -4101,7 +4236,7 @@
     <contact>0</contact>
     <micrCode>576025117</micrCode>
     <ifscCode>SYNB0000268</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barkur NPU College</name>
@@ -4110,7 +4245,7 @@
     <contact>0</contact>
     <micrCode>576025208</micrCode>
     <ifscCode>SYNB0000267</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karkala Kukkundoor</name>
@@ -4119,7 +4254,7 @@
     <contact>0</contact>
     <micrCode>575025044</micrCode>
     <ifscCode>SYNB0000266</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karkala SRI Bhuvanendra College</name>
@@ -4128,7 +4263,7 @@
     <contact>0</contact>
     <micrCode>575025043</micrCode>
     <ifscCode>SYNB0000265</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Brahmavar</name>
@@ -4137,7 +4272,7 @@
     <contact>0</contact>
     <micrCode>576025304</micrCode>
     <ifscCode>SYNB0000264</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Brahmavar Varamballi Osces Campus</name>
@@ -4146,7 +4281,7 @@
     <contact>0</contact>
     <micrCode>576025303</micrCode>
     <ifscCode>SYNB0000263</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manipal Ananthanagar  Sibm</name>
@@ -4155,7 +4290,7 @@
     <contact>0</contact>
     <micrCode>576025013</micrCode>
     <ifscCode>SYNB0000261</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mogaru</name>
@@ -4164,7 +4299,7 @@
     <contact>0</contact>
     <micrCode>575025053</micrCode>
     <ifscCode>SYNB0000258</ifscCode>
-    <bankLoc>21632</bankLoc>
+    <bankLoc>21491</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Subramanya</name>
@@ -4173,7 +4308,7 @@
     <contact>0</contact>
     <micrCode>574025993</micrCode>
     <ifscCode>SYNB0000257</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurnad Mudipu</name>
@@ -4182,7 +4317,7 @@
     <contact>0</contact>
     <micrCode>575025051</micrCode>
     <ifscCode>SYNB0000256</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bellare</name>
@@ -4191,7 +4326,7 @@
     <contact>0</contact>
     <micrCode>574025205</micrCode>
     <ifscCode>SYNB0000254</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ujire</name>
@@ -4200,7 +4335,7 @@
     <contact>0</contact>
     <micrCode>574025706</micrCode>
     <ifscCode>SYNB0000253</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nmpt Mallya Gate Panambur</name>
@@ -4209,7 +4344,7 @@
     <contact>0</contact>
     <micrCode>575025035</micrCode>
     <ifscCode>SYNB0000252</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kvgp Sullia</name>
@@ -4218,7 +4353,7 @@
     <contact>0</contact>
     <micrCode>574025408</micrCode>
     <ifscCode>SYNB0000251</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>VC Mulki</name>
@@ -4227,7 +4362,7 @@
     <contact>0</contact>
     <micrCode>575025503</micrCode>
     <ifscCode>SYNB0000250</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CCF Puttur</name>
@@ -4236,7 +4371,7 @@
     <contact>0</contact>
     <micrCode>575025045</micrCode>
     <ifscCode>SYNB0000248</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Airport Bajpe</name>
@@ -4245,7 +4380,7 @@
     <contact>0</contact>
     <micrCode>575025032</micrCode>
     <ifscCode>SYNB0000247</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmasthala</name>
@@ -4254,7 +4389,7 @@
     <contact>0</contact>
     <micrCode>574025703</micrCode>
     <ifscCode>SYNB0000246</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Derlakatte Absmi Campus</name>
@@ -4263,7 +4398,7 @@
     <contact>0</contact>
     <micrCode>575025031</micrCode>
     <ifscCode>SYNB0000245</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ST Agnes College Mangalore</name>
@@ -4272,7 +4407,7 @@
     <contact>0</contact>
     <micrCode>575025034</micrCode>
     <ifscCode>SYNB0000244</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moodabidri Kodangallu</name>
@@ -4281,7 +4416,7 @@
     <contact>0</contact>
     <micrCode>575025037</micrCode>
     <ifscCode>SYNB0000243</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>KMC Campus Attavar Mangalore</name>
@@ -4290,7 +4425,7 @@
     <contact>0</contact>
     <micrCode>575025029</micrCode>
     <ifscCode>SYNB0000242</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Lalbagh</name>
@@ -4299,7 +4434,7 @@
     <contact>0</contact>
     <micrCode>575025027</micrCode>
     <ifscCode>SYNB0000241</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moodubelle</name>
@@ -4308,7 +4443,7 @@
     <contact>0</contact>
     <micrCode>576025110</micrCode>
     <ifscCode>SYNB0000240</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Fmci Kankanady</name>
@@ -4317,7 +4452,7 @@
     <contact>0</contact>
     <micrCode>575025026</micrCode>
     <ifscCode>SYNB0000239</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankarapura</name>
@@ -4326,7 +4461,7 @@
     <contact>0</contact>
     <micrCode>576025025</micrCode>
     <ifscCode>SYNB0000238</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Udupi</name>
@@ -4335,7 +4470,7 @@
     <contact>0</contact>
     <micrCode>576025996</micrCode>
     <ifscCode>SYNB0000237</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAO Udupi</name>
@@ -4344,7 +4479,7 @@
     <contact>0</contact>
     <micrCode>576025002</micrCode>
     <ifscCode>SYNB0000236</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manipal Institute OF Technology</name>
@@ -4353,7 +4488,7 @@
     <contact>0</contact>
     <micrCode>576025007</micrCode>
     <ifscCode>SYNB0000233</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manipal Kasturba MED College</name>
@@ -4362,7 +4497,7 @@
     <contact>0</contact>
     <micrCode>576025004</micrCode>
     <ifscCode>SYNB0000232</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udupi Founder S Branch</name>
@@ -4371,7 +4506,7 @@
     <contact>0</contact>
     <micrCode>576025011</micrCode>
     <ifscCode>SYNB0000231</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SME Mangalore</name>
@@ -4380,7 +4515,7 @@
     <contact>0</contact>
     <micrCode>575025016</micrCode>
     <ifscCode>SYNB0000227</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nandikur Mstp Project Area</name>
@@ -4389,7 +4524,7 @@
     <contact>0</contact>
     <micrCode>574025502</micrCode>
     <ifscCode>SYNB0000225</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udupi Brahmagiri</name>
@@ -4398,7 +4533,7 @@
     <contact>0</contact>
     <micrCode>576025008</micrCode>
     <ifscCode>SYNB0000222</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kundapur Vaderahobli</name>
@@ -4407,7 +4542,7 @@
     <contact>0</contact>
     <micrCode>576025106</micrCode>
     <ifscCode>SYNB0000221</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nakre</name>
@@ -4416,7 +4551,7 @@
     <contact>0</contact>
     <micrCode>576025403</micrCode>
     <ifscCode>SYNB0000220</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Derlakatte</name>
@@ -4425,7 +4560,7 @@
     <contact>0</contact>
     <micrCode>575025019</micrCode>
     <ifscCode>SYNB0000219</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjarakatte</name>
@@ -4434,7 +4569,7 @@
     <contact>0</contact>
     <micrCode>574025406</micrCode>
     <ifscCode>SYNB0000218</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pithrody</name>
@@ -4443,7 +4578,7 @@
     <contact>0</contact>
     <micrCode>574025602</micrCode>
     <ifscCode>SYNB0000216</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tellar</name>
@@ -4452,7 +4587,7 @@
     <contact>0</contact>
     <micrCode>576025115</micrCode>
     <ifscCode>SYNB0000215</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalia</name>
@@ -4461,7 +4596,7 @@
     <contact>0</contact>
     <micrCode>574025206</micrCode>
     <ifscCode>SYNB0000214</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yenekal</name>
@@ -4470,7 +4605,7 @@
     <contact>0</contact>
     <micrCode>574025047</micrCode>
     <ifscCode>SYNB0000213</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Savanur</name>
@@ -4479,7 +4614,7 @@
     <contact>0</contact>
     <micrCode>574025405</micrCode>
     <ifscCode>SYNB0000212</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nidle</name>
@@ -4488,7 +4623,7 @@
     <contact>0</contact>
     <micrCode>574025709</micrCode>
     <ifscCode>SYNB0000211</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurady Honehalli</name>
@@ -4497,7 +4632,7 @@
     <contact>0</contact>
     <micrCode>576025203</micrCode>
     <ifscCode>SYNB0000210</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kundapur NEW Market Yard</name>
@@ -4506,7 +4641,7 @@
     <contact>0</contact>
     <micrCode>576025105</micrCode>
     <ifscCode>SYNB0000209</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puttur Market Yard</name>
@@ -4515,7 +4650,7 @@
     <contact>0</contact>
     <micrCode>575025041</micrCode>
     <ifscCode>SYNB0000208</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udupi Market Yard</name>
@@ -4524,7 +4659,7 @@
     <contact>0</contact>
     <micrCode>576025010</micrCode>
     <ifscCode>SYNB0000207</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fxpc Mangalore</name>
@@ -4533,7 +4668,7 @@
     <contact>0</contact>
     <micrCode>575025999</micrCode>
     <ifscCode>SYNB0000205</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alankar</name>
@@ -4542,7 +4677,7 @@
     <contact>0</contact>
     <micrCode>574025407</micrCode>
     <ifscCode>SYNB0000204</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajjinadka</name>
@@ -4551,7 +4686,7 @@
     <contact>0</contact>
     <micrCode>574025807</micrCode>
     <ifscCode>SYNB0000199</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangadi</name>
@@ -4560,7 +4695,7 @@
     <contact>0</contact>
     <micrCode>574025708</micrCode>
     <ifscCode>SYNB0000198</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanajar</name>
@@ -4569,7 +4704,7 @@
     <contact>0</contact>
     <micrCode>574025805</micrCode>
     <ifscCode>SYNB0000196</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhvanagar</name>
@@ -4578,7 +4713,7 @@
     <contact>0</contact>
     <micrCode>574025204</micrCode>
     <ifscCode>SYNB0000195</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palli</name>
@@ -4587,7 +4722,7 @@
     <contact>0</contact>
     <micrCode>574025804</micrCode>
     <ifscCode>SYNB0000194</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kavalapadur Vogga</name>
@@ -4596,7 +4731,7 @@
     <contact>0</contact>
     <micrCode>575025046</micrCode>
     <ifscCode>SYNB0000193</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Bijai</name>
@@ -4605,7 +4740,7 @@
     <contact>0</contact>
     <micrCode>575025003</micrCode>
     <ifscCode>SYNB0000192</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jokatte</name>
@@ -4614,7 +4749,7 @@
     <contact>0</contact>
     <micrCode>575025025</micrCode>
     <ifscCode>SYNB0000191</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bengre</name>
@@ -4623,7 +4758,7 @@
     <contact>0</contact>
     <micrCode>575025038</micrCode>
     <ifscCode>SYNB0000190</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hoode</name>
@@ -4632,7 +4767,7 @@
     <contact>0</contact>
     <micrCode>576025017</micrCode>
     <ifscCode>SYNB0000189</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAO Mangalore</name>
@@ -4641,7 +4776,7 @@
     <contact>0</contact>
     <micrCode>575025001</micrCode>
     <ifscCode>SYNB0000188</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Ashok Nagar</name>
@@ -4650,7 +4785,7 @@
     <contact>0</contact>
     <micrCode>575025002</micrCode>
     <ifscCode>SYNB0000187</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunjibettu</name>
@@ -4659,7 +4794,7 @@
     <contact>0</contact>
     <micrCode>576025006</micrCode>
     <ifscCode>SYNB0000186</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panambur</name>
@@ -4668,7 +4803,7 @@
     <contact>0</contact>
     <micrCode>575025013</micrCode>
     <ifscCode>SYNB0000184</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guruvayankere</name>
@@ -4677,7 +4812,7 @@
     <contact>0</contact>
     <micrCode>575025048</micrCode>
     <ifscCode>SYNB0000183</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalsur</name>
@@ -4686,7 +4821,7 @@
     <contact>0</contact>
     <micrCode>574025109</micrCode>
     <ifscCode>SYNB0000182</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pethri</name>
@@ -4695,7 +4830,7 @@
     <contact>0</contact>
     <micrCode>576025205</micrCode>
     <ifscCode>SYNB0000181</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hungarcutta</name>
@@ -4704,7 +4839,7 @@
     <contact>0</contact>
     <micrCode>576025308</micrCode>
     <ifscCode>SYNB0000180</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Yeyyadipadavu</name>
@@ -4713,7 +4848,7 @@
     <contact>0</contact>
     <micrCode>575025017</micrCode>
     <ifscCode>SYNB0000179</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panja</name>
@@ -4722,7 +4857,7 @@
     <contact>0</contact>
     <micrCode>574025403</micrCode>
     <ifscCode>SYNB0000178</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakkinje</name>
@@ -4731,7 +4866,7 @@
     <contact>0</contact>
     <micrCode>574025707</micrCode>
     <ifscCode>SYNB0000177</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arlapadavu</name>
@@ -4740,7 +4875,7 @@
     <contact>0</contact>
     <micrCode>575025532</micrCode>
     <ifscCode>SYNB0000176</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollur  D K Dist</name>
@@ -4749,7 +4884,7 @@
     <contact>0</contact>
     <micrCode>576025104</micrCode>
     <ifscCode>SYNB0000175</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shiruru  Udupi District</name>
@@ -4758,7 +4893,7 @@
     <contact>0</contact>
     <micrCode>576025305</micrCode>
     <ifscCode>SYNB0000174</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Navunda</name>
@@ -4767,7 +4902,7 @@
     <contact>0</contact>
     <micrCode>576025112</micrCode>
     <ifscCode>SYNB0000173</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Salethur</name>
@@ -4776,7 +4911,7 @@
     <contact>0</contact>
     <micrCode>574025103</micrCode>
     <ifscCode>SYNB0000172</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naravi</name>
@@ -4785,7 +4920,7 @@
     <contact>0</contact>
     <micrCode>574025710</micrCode>
     <ifscCode>SYNB0000171</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muniyal</name>
@@ -4794,7 +4929,7 @@
     <contact>0</contact>
     <micrCode>576025538</micrCode>
     <ifscCode>SYNB0000170</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manipura</name>
@@ -4803,7 +4938,7 @@
     <contact>0</contact>
     <micrCode>576025023</micrCode>
     <ifscCode>SYNB0000169</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kokkada</name>
@@ -4812,7 +4947,7 @@
     <contact>0</contact>
     <micrCode>574025808</micrCode>
     <ifscCode>SYNB0000168</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Katipalla</name>
@@ -4821,7 +4956,7 @@
     <contact>0</contact>
     <micrCode>575025018</micrCode>
     <ifscCode>SYNB0000167</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanyana</name>
@@ -4830,7 +4965,7 @@
     <contact>0</contact>
     <micrCode>574025404</micrCode>
     <ifscCode>SYNB0000166</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadaba</name>
@@ -4839,7 +4974,7 @@
     <contact>0</contact>
     <micrCode>574025803</micrCode>
     <ifscCode>SYNB0000165</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guttigar</name>
@@ -4848,7 +4983,7 @@
     <contact>0</contact>
     <micrCode>574025251</micrCode>
     <ifscCode>SYNB0000164</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bajagoli</name>
@@ -4857,7 +4992,7 @@
     <contact>0</contact>
     <micrCode>574025006</micrCode>
     <ifscCode>SYNB0000163</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bidkalkatte</name>
@@ -4866,7 +5001,7 @@
     <contact>0</contact>
     <micrCode>576025206</micrCode>
     <ifscCode>SYNB0000162</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parkala</name>
@@ -4875,7 +5010,7 @@
     <contact>0</contact>
     <micrCode>576025015</micrCode>
     <ifscCode>SYNB0000161</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udyavara</name>
@@ -4884,7 +5019,7 @@
     <contact>0</contact>
     <micrCode>576025014</micrCode>
     <ifscCode>SYNB0000160</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sasthan</name>
@@ -4893,7 +5028,7 @@
     <contact>0</contact>
     <micrCode>576025306</micrCode>
     <ifscCode>SYNB0000159</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallamundukur</name>
@@ -4902,7 +5037,7 @@
     <contact>0</contact>
     <micrCode>574025207</micrCode>
     <ifscCode>SYNB0000158</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hejamady</name>
@@ -4911,7 +5046,7 @@
     <contact>0</contact>
     <micrCode>574025107</micrCode>
     <ifscCode>SYNB0000157</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Punjalkatte</name>
@@ -4920,7 +5055,7 @@
     <contact>0</contact>
     <micrCode>575025047</micrCode>
     <ifscCode>SYNB0000156</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kulai</name>
@@ -4929,7 +5064,7 @@
     <contact>0</contact>
     <micrCode>575025010</micrCode>
     <ifscCode>SYNB0000155</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yenagudde</name>
@@ -4938,7 +5073,7 @@
     <contact>0</contact>
     <micrCode>576025018</micrCode>
     <ifscCode>SYNB0000154</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vindse</name>
@@ -4947,7 +5082,7 @@
     <contact>0</contact>
     <micrCode>576025116</micrCode>
     <ifscCode>SYNB0000153</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kokkarne</name>
@@ -4956,7 +5091,7 @@
     <contact>0</contact>
     <micrCode>576025207</micrCode>
     <ifscCode>SYNB0000152</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaikamba  Ganjimutt</name>
@@ -4965,7 +5100,7 @@
     <contact>0</contact>
     <micrCode>575025022</micrCode>
     <ifscCode>SYNB0000151</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Venur</name>
@@ -4974,7 +5109,7 @@
     <contact>0</contact>
     <micrCode>574025705</micrCode>
     <ifscCode>SYNB0000150</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koteshwar</name>
@@ -4983,7 +5118,7 @@
     <contact>0</contact>
     <micrCode>576025111</micrCode>
     <ifscCode>SYNB0000149</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hiriadka</name>
@@ -4992,7 +5127,7 @@
     <contact>0</contact>
     <micrCode>576025107</micrCode>
     <ifscCode>SYNB0000148</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kotekar</name>
@@ -5001,7 +5136,7 @@
     <contact>0</contact>
     <micrCode>575025009</micrCode>
     <ifscCode>SYNB0000147</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mundkur</name>
@@ -5010,7 +5145,7 @@
     <contact>0</contact>
     <micrCode>576025309</micrCode>
     <ifscCode>SYNB0000146</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shirva</name>
@@ -5019,7 +5154,7 @@
     <contact>0</contact>
     <micrCode>576025024</micrCode>
     <ifscCode>SYNB0000145</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallianpur</name>
@@ -5028,7 +5163,7 @@
     <contact>0</contact>
     <micrCode>576025019</micrCode>
     <ifscCode>SYNB0000144</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bajpe</name>
@@ -5037,7 +5172,7 @@
     <contact>0</contact>
     <micrCode>575025020</micrCode>
     <ifscCode>SYNB0000143</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Suratkal Mangalore</name>
@@ -5046,7 +5181,7 @@
     <contact>0</contact>
     <micrCode>575025015</micrCode>
     <ifscCode>SYNB0000142</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vittal</name>
@@ -5055,7 +5190,7 @@
     <contact>0</contact>
     <micrCode>575025049</micrCode>
     <ifscCode>SYNB0000141</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uppinangady</name>
@@ -5064,7 +5199,7 @@
     <contact>0</contact>
     <micrCode>575025050</micrCode>
     <ifscCode>SYNB0000140</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sullia</name>
@@ -5073,7 +5208,7 @@
     <contact>0</contact>
     <micrCode>574025402</micrCode>
     <ifscCode>SYNB0000139</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padubidri</name>
@@ -5082,7 +5217,7 @@
     <contact>0</contact>
     <micrCode>574025203</micrCode>
     <ifscCode>SYNB0000138</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bantwal</name>
@@ -5091,7 +5226,7 @@
     <contact>0</contact>
     <micrCode>575025030</micrCode>
     <ifscCode>SYNB0000137</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kinnigoli</name>
@@ -5100,7 +5235,7 @@
     <contact>0</contact>
     <micrCode>575025028</micrCode>
     <ifscCode>SYNB0000136</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panemangalore</name>
@@ -5109,7 +5244,7 @@
     <contact>0</contact>
     <micrCode>575025039</micrCode>
     <ifscCode>SYNB0000135</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puttur</name>
@@ -5118,7 +5253,7 @@
     <contact>0</contact>
     <micrCode>575025040</micrCode>
     <ifscCode>SYNB0000134</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malpe</name>
@@ -5127,7 +5262,7 @@
     <contact>0</contact>
     <micrCode>576025016</micrCode>
     <ifscCode>SYNB0000133</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shankaranarayana</name>
@@ -5136,7 +5271,7 @@
     <contact>0</contact>
     <micrCode>576025204</micrCode>
     <ifscCode>SYNB0000132</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saligrama</name>
@@ -5145,7 +5280,7 @@
     <contact>0</contact>
     <micrCode>576025307</micrCode>
     <ifscCode>SYNB0000131</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perdoor</name>
@@ -5154,7 +5289,7 @@
     <contact>0</contact>
     <micrCode>576025113</micrCode>
     <ifscCode>SYNB0000130</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palimar</name>
@@ -5163,7 +5298,7 @@
     <contact>0</contact>
     <micrCode>574025110</micrCode>
     <ifscCode>SYNB0000129</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moodabidri</name>
@@ -5172,7 +5307,7 @@
     <contact>0</contact>
     <micrCode>575025036</micrCode>
     <ifscCode>SYNB0000128</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kemmannu</name>
@@ -5181,7 +5316,7 @@
     <contact>0</contact>
     <micrCode>576025020</micrCode>
     <ifscCode>SYNB0000127</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hebri</name>
@@ -5190,7 +5325,7 @@
     <contact>0</contact>
     <micrCode>576025402</micrCode>
     <ifscCode>SYNB0000126</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaup</name>
@@ -5199,7 +5334,7 @@
     <contact>0</contact>
     <micrCode>576025022</micrCode>
     <ifscCode>SYNB0000125</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurpur</name>
@@ -5208,7 +5343,7 @@
     <contact>0</contact>
     <micrCode>575025023</micrCode>
     <ifscCode>SYNB0000124</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gangulli</name>
@@ -5217,7 +5352,7 @@
     <contact>0</contact>
     <micrCode>576025108</micrCode>
     <ifscCode>SYNB0000123</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Byndoor</name>
@@ -5226,7 +5361,7 @@
     <contact>0</contact>
     <micrCode>576025109</micrCode>
     <ifscCode>SYNB0000122</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bailur</name>
@@ -5235,7 +5370,7 @@
     <contact>0</contact>
     <micrCode>574025104</micrCode>
     <ifscCode>SYNB0000121</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Belthangady</name>
@@ -5244,7 +5379,7 @@
     <contact>0</contact>
     <micrCode>575025052</micrCode>
     <ifscCode>SYNB0000120</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basrur</name>
@@ -5253,7 +5388,7 @@
     <contact>0</contact>
     <micrCode>576025114</micrCode>
     <ifscCode>SYNB0000119</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barkur</name>
@@ -5262,7 +5397,7 @@
     <contact>0</contact>
     <micrCode>576025202</micrCode>
     <ifscCode>SYNB0000118</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulki</name>
@@ -5271,7 +5406,7 @@
     <contact>0</contact>
     <micrCode>575025021</micrCode>
     <ifscCode>SYNB0000117</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadekar</name>
@@ -5280,7 +5415,7 @@
     <contact>0</contact>
     <micrCode>576025021</micrCode>
     <ifscCode>SYNB0000116</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nitte</name>
@@ -5289,7 +5424,7 @@
     <contact>0</contact>
     <micrCode>574025106</micrCode>
     <ifscCode>SYNB0000115</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karkala</name>
@@ -5298,7 +5433,7 @@
     <contact>0</contact>
     <micrCode>575025042</micrCode>
     <ifscCode>SYNB0000114</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kundapur Main</name>
@@ -5307,7 +5442,7 @@
     <contact>0</contact>
     <micrCode>576025102</micrCode>
     <ifscCode>SYNB0000113</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Brahmavar</name>
@@ -5316,7 +5451,7 @@
     <contact>0</contact>
     <micrCode>576025009</micrCode>
     <ifscCode>SYNB0000112</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manipal</name>
@@ -5325,7 +5460,7 @@
     <contact>0</contact>
     <micrCode>576025005</micrCode>
     <ifscCode>SYNB0000111</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Catholic Centre</name>
@@ -5334,7 +5469,7 @@
     <contact>0</contact>
     <micrCode>576025012</micrCode>
     <ifscCode>SYNB0000110</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAR Street  Udupi</name>
@@ -5343,7 +5478,7 @@
     <contact>0</contact>
     <micrCode>576025003</micrCode>
     <ifscCode>SYNB0000109</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Kulshekar</name>
@@ -5352,7 +5487,7 @@
     <contact>0</contact>
     <micrCode>575025011</micrCode>
     <ifscCode>SYNB0000107</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Kankanady</name>
@@ -5361,7 +5496,7 @@
     <contact>0</contact>
     <micrCode>575025008</micrCode>
     <ifscCode>SYNB0000106</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadri</name>
@@ -5370,7 +5505,7 @@
     <contact>0</contact>
     <micrCode>575025007</micrCode>
     <ifscCode>SYNB0000105</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore Mission Street</name>
@@ -5379,7 +5514,7 @@
     <contact>0</contact>
     <micrCode>575025012</micrCode>
     <ifscCode>SYNB0000104</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalore CAR Street</name>
@@ -5388,7 +5523,7 @@
     <contact>0</contact>
     <micrCode>575025005</micrCode>
     <ifscCode>SYNB0000103</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>R O Mangalore</name>
@@ -5397,7 +5532,7 @@
     <contact>0</contact>
     <micrCode>575025997</micrCode>
     <ifscCode>SYNB0000101</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hampankatta</name>
@@ -5406,7 +5541,7 @@
     <contact>0</contact>
     <micrCode>575025006</micrCode>
     <ifscCode>SYNB0000100</ifscCode>
-    <bankLoc>21602</bankLoc>
+    <bankLoc>21461</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>S W D HO Manipal</name>
@@ -5415,7 +5550,7 @@
     <contact>0</contact>
     <micrCode>576025997</micrCode>
     <ifscCode>SYNB0000012</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>HO CAD Manipal Journal Section</name>
@@ -5424,6 +5559,6 @@
     <contact>0</contact>
     <micrCode>576025993</micrCode>
     <ifscCode>SYNB0000005</ifscCode>
-    <bankLoc>21651</bankLoc>
+    <bankLoc>21510</bankLoc>
   </bankbranch>
 </bankBranchs>
