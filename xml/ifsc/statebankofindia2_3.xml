@@ -1,12 +1,75 @@
 <bankBranchs>
   <bankbranch>
+    <name>Champua</name>
+    <city>Keonjhar</city>
+    <address>Postchampua, DIST.KEONJHAR, Orissa-758041</address>
+    <contact>2147483647</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>SBIN0012074</ifscCode>
+    <bankLoc>20318</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Ghatagaon</name>
+    <city>Ghatagaon</city>
+    <address>Ghatagaon, AT 1ST Floor, Bajarangbali Market Complex, PO Ghatagaon, Distkeonjhar 758027</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SBIN0012073</ifscCode>
+    <bankLoc>19661</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Keonjhar Evening</name>
+    <city>Keonjhar</city>
+    <address>Keonjhar Evening, AT Labanya Square, Keonjhar, PO Keonjhar, Dist Keonjhar 758001</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SBIN0012072</ifscCode>
+    <bankLoc>19661</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Padmapur</name>
+    <city>Keonjhar</city>
+    <address>Village Padmapur, P.O. Padmapur, Dist Keonjhar</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SBIN0012071</ifscCode>
+    <bankLoc>19661</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nimabahali</name>
+    <city>Nimabahali</city>
+    <address>Nimabahali, Nimabahali, Nimabahali, Dhenkanal, Distdhenkanal 759121</address>
+    <contact>0</contact>
+    <micrCode>759002020</micrCode>
+    <ifscCode>SBIN0012069</ifscCode>
+    <bankLoc>20304</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Hingula Area(mahendrapur)</name>
+    <city>Angul</city>
+    <address>Balram Township, Ponehru Satabdi Nagar, Bharatpur, Distangul759148</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SBIN0012068</ifscCode>
+    <bankLoc>20286</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Khamar</name>
+    <city>Angul</city>
+    <address>Plot NO 94 BY 237, Ganesh Bhawan, Khamar, DISTT.ANGUL.ODISHA 759118</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>SBIN0012067</ifscCode>
+    <bankLoc>20286</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Nisha  Jindal Campus</name>
     <city>Jindal Nagar</city>
     <address>PO  Jindal Nagar, DISTT.  ANGUL. Odisha 759111</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012066</ifscCode>
-    <bankLoc>20196</bankLoc>
+    <bankLoc>20286</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Angul Bazar</name>
@@ -15,7 +78,7 @@
     <contact>0</contact>
     <micrCode>759002019</micrCode>
     <ifscCode>SBIN0012065</ifscCode>
-    <bankLoc>20196</bankLoc>
+    <bankLoc>20286</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Biraja Temple Branch</name>
@@ -24,7 +87,7 @@
     <contact>0</contact>
     <micrCode>755002101</micrCode>
     <ifscCode>SBIN0012064</ifscCode>
-    <bankLoc>20219</bankLoc>
+    <bankLoc>20309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tihidi</name>
@@ -33,7 +96,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012063</ifscCode>
-    <bankLoc>20207</bankLoc>
+    <bankLoc>20297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jagganathpur</name>
@@ -42,7 +105,7 @@
     <contact>0</contact>
     <micrCode>756002031</micrCode>
     <ifscCode>SBIN0012062</ifscCode>
-    <bankLoc>20207</bankLoc>
+    <bankLoc>20297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NUA Bazar (bhadrak)</name>
@@ -51,7 +114,7 @@
     <contact>0</contact>
     <micrCode>756002033</micrCode>
     <ifscCode>SBIN0012061</ifscCode>
-    <bankLoc>20207</bankLoc>
+    <bankLoc>20297</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>AUL</name>
@@ -60,7 +123,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012060</ifscCode>
-    <bankLoc>20227</bankLoc>
+    <bankLoc>20317</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajnagar</name>
@@ -69,7 +132,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012059</ifscCode>
-    <bankLoc>20228</bankLoc>
+    <bankLoc>20318</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Marshaghai</name>
@@ -78,7 +141,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012058</ifscCode>
-    <bankLoc>20227</bankLoc>
+    <bankLoc>20317</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalpur</name>
@@ -87,7 +150,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012057</ifscCode>
-    <bankLoc>20219</bankLoc>
+    <bankLoc>20309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Brahmabarada</name>
@@ -96,7 +159,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012056</ifscCode>
-    <bankLoc>20209</bankLoc>
+    <bankLoc>20299</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kabatabandha</name>
@@ -105,7 +168,7 @@
     <contact>0</contact>
     <micrCode>755002023</micrCode>
     <ifscCode>SBIN0012055</ifscCode>
-    <bankLoc>20219</bankLoc>
+    <bankLoc>20309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaraka</name>
@@ -114,7 +177,7 @@
     <contact>0</contact>
     <micrCode>755002050</micrCode>
     <ifscCode>SBIN0012054</ifscCode>
-    <bankLoc>20219</bankLoc>
+    <bankLoc>20309</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gopalpur</name>
@@ -123,7 +186,7 @@
     <contact>0</contact>
     <micrCode>756002044</micrCode>
     <ifscCode>SBIN0012053</ifscCode>
-    <bankLoc>20198</bankLoc>
+    <bankLoc>20288</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bisoi</name>
@@ -132,7 +195,7 @@
     <contact>0</contact>
     <micrCode>757002033</micrCode>
     <ifscCode>SBIN0012052</ifscCode>
-    <bankLoc>20235</bankLoc>
+    <bankLoc>20325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rairangpur Evening</name>
@@ -141,7 +204,7 @@
     <contact>0</contact>
     <micrCode>757002043</micrCode>
     <ifscCode>SBIN0012051</ifscCode>
-    <bankLoc>20235</bankLoc>
+    <bankLoc>20325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bahalada</name>
@@ -150,7 +213,7 @@
     <contact>0</contact>
     <micrCode>757002046</micrCode>
     <ifscCode>SBIN0012050</ifscCode>
-    <bankLoc>20235</bankLoc>
+    <bankLoc>20325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jashipur</name>
@@ -159,7 +222,7 @@
     <contact>0</contact>
     <micrCode>757002034</micrCode>
     <ifscCode>SBIN0012049</ifscCode>
-    <bankLoc>20235</bankLoc>
+    <bankLoc>20325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baripada Evening</name>
@@ -168,7 +231,7 @@
     <contact>0</contact>
     <micrCode>757002008</micrCode>
     <ifscCode>SBIN0012048</ifscCode>
-    <bankLoc>20235</bankLoc>
+    <bankLoc>20325</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Proof Road, Balasore</name>
@@ -177,7 +240,7 @@
     <contact>0</contact>
     <micrCode>756002028</micrCode>
     <ifscCode>SBIN0012047</ifscCode>
-    <bankLoc>20198</bankLoc>
+    <bankLoc>20288</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>42 Mouza, Bentkar</name>
@@ -186,7 +249,7 @@
     <contact>0</contact>
     <micrCode>754002112</micrCode>
     <ifscCode>SBIN0012046</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ersama</name>
@@ -195,7 +258,7 @@
     <contact>0</contact>
     <micrCode>754002501</micrCode>
     <ifscCode>SBIN0012045</ifscCode>
-    <bankLoc>20217</bankLoc>
+    <bankLoc>20307</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jagatsingpur Evening Branch</name>
@@ -204,7 +267,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012044</ifscCode>
-    <bankLoc>20218</bankLoc>
+    <bankLoc>20308</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narasinghpur</name>
@@ -213,7 +276,7 @@
     <contact>0</contact>
     <micrCode>754002032</micrCode>
     <ifscCode>SBIN0012043</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalapathar</name>
@@ -222,7 +285,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012042</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baranga</name>
@@ -231,7 +294,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012041</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ravenshaw University Campus</name>
@@ -240,7 +303,7 @@
     <contact>0</contact>
     <micrCode>753002026</micrCode>
     <ifscCode>SBIN0012040</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Choudhury Bazar</name>
@@ -249,7 +312,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012039</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bramhagiri</name>
@@ -258,7 +321,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012038</ifscCode>
-    <bankLoc>20246</bankLoc>
+    <bankLoc>20336</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>GOP</name>
@@ -267,7 +330,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012037</ifscCode>
-    <bankLoc>20246</bankLoc>
+    <bankLoc>20336</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Astaranga</name>
@@ -276,7 +339,7 @@
     <contact>0</contact>
     <micrCode>752002502</micrCode>
     <ifscCode>SBIN0012036</ifscCode>
-    <bankLoc>20246</bankLoc>
+    <bankLoc>20336</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakatpur</name>
@@ -285,7 +348,7 @@
     <contact>0</contact>
     <micrCode>752002501</micrCode>
     <ifscCode>SBIN0012035</ifscCode>
-    <bankLoc>20246</bankLoc>
+    <bankLoc>20336</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nabakalebar Road</name>
@@ -294,7 +357,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012034</ifscCode>
-    <bankLoc>20246</bankLoc>
+    <bankLoc>20336</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khandapada</name>
@@ -303,7 +366,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012033</ifscCode>
-    <bankLoc>20198</bankLoc>
+    <bankLoc>20288</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nayagarh Evening</name>
@@ -312,7 +375,7 @@
     <contact>0</contact>
     <micrCode>752002153</micrCode>
     <ifscCode>SBIN0012032</ifscCode>
-    <bankLoc>20240</bankLoc>
+    <bankLoc>20330</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balakati</name>
@@ -321,7 +384,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012031</ifscCode>
-    <bankLoc>20198</bankLoc>
+    <bankLoc>20288</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trahi Achyuta Nagar</name>
@@ -330,7 +393,7 @@
     <contact>0</contact>
     <micrCode>752002152</micrCode>
     <ifscCode>SBIN0012030</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banapur</name>
@@ -339,7 +402,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012029</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jatni Bazar</name>
@@ -348,7 +411,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012028</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khurda Evening Branch</name>
@@ -357,7 +420,7 @@
     <contact>0</contact>
     <micrCode>752002151</micrCode>
     <ifscCode>SBIN0012027</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nayapalli</name>
@@ -366,7 +429,7 @@
     <contact>0</contact>
     <micrCode>751002053</micrCode>
     <ifscCode>SBIN0012026</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shastrinagar</name>
@@ -375,7 +438,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012025</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dumduma</name>
@@ -384,7 +447,7 @@
     <contact>0</contact>
     <micrCode>751002045</micrCode>
     <ifscCode>SBIN0012024</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Satyanagar</name>
@@ -393,7 +456,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012023</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baramunda</name>
@@ -402,7 +465,7 @@
     <contact>0</contact>
     <micrCode>751002054</micrCode>
     <ifscCode>SBIN0012022</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jharpada</name>
@@ -411,7 +474,7 @@
     <contact>0</contact>
     <micrCode>751002052</micrCode>
     <ifscCode>SBIN0012021</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalinga Nagar</name>
@@ -420,7 +483,7 @@
     <contact>0</contact>
     <micrCode>751002047</micrCode>
     <ifscCode>SBIN0012018</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sunderkhed</name>
@@ -429,7 +492,7 @@
     <contact>0</contact>
     <micrCode>443002561</micrCode>
     <ifscCode>SBIN0012016</ifscCode>
-    <bankLoc>20104</bankLoc>
+    <bankLoc>20194</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaulkhed</name>
@@ -438,7 +501,7 @@
     <contact>0</contact>
     <micrCode>444002546</micrCode>
     <ifscCode>SBIN0012015</ifscCode>
-    <bankLoc>20096</bankLoc>
+    <bankLoc>20186</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sheloo Bazar</name>
@@ -447,7 +510,7 @@
     <contact>0</contact>
     <micrCode>444002017</micrCode>
     <ifscCode>SBIN0012014</ifscCode>
-    <bankLoc>20144</bankLoc>
+    <bankLoc>20234</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deulgaon Raja</name>
@@ -456,7 +519,7 @@
     <contact>0</contact>
     <micrCode>443002013</micrCode>
     <ifscCode>SBIN0012013</ifscCode>
-    <bankLoc>20104</bankLoc>
+    <bankLoc>20194</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kondhali</name>
@@ -465,7 +528,7 @@
     <contact>0</contact>
     <micrCode>441002001</micrCode>
     <ifscCode>SBIN0012012</ifscCode>
-    <bankLoc>20108</bankLoc>
+    <bankLoc>20198</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gadge Nagar, Amravati</name>
@@ -474,7 +537,7 @@
     <contact>0</contact>
     <micrCode>444002102</micrCode>
     <ifscCode>SBIN0012011</ifscCode>
-    <bankLoc>20097</bankLoc>
+    <bankLoc>20187</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sadak Arjuni</name>
@@ -483,7 +546,7 @@
     <contact>0</contact>
     <micrCode>441002008</micrCode>
     <ifscCode>SBIN0012010</ifscCode>
-    <bankLoc>20109</bankLoc>
+    <bankLoc>20199</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shrirampur Pusad</name>
@@ -492,7 +555,7 @@
     <contact>0</contact>
     <micrCode>445002584</micrCode>
     <ifscCode>SBIN0012009</ifscCode>
-    <bankLoc>20145</bankLoc>
+    <bankLoc>20235</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Western Express Highway, Goregaon East</name>
@@ -501,7 +564,7 @@
     <contact>0</contact>
     <micrCode>400002229</micrCode>
     <ifscCode>SBIN0012008</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Merces, GOA</name>
@@ -510,7 +573,7 @@
     <contact>0</contact>
     <micrCode>403002067</micrCode>
     <ifscCode>SBIN0012006</ifscCode>
-    <bankLoc>19718</bankLoc>
+    <bankLoc>19807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandora</name>
@@ -519,7 +582,7 @@
     <contact>0</contact>
     <micrCode>403002068</micrCode>
     <ifscCode>SBIN0012005</ifscCode>
-    <bankLoc>19718</bankLoc>
+    <bankLoc>19807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jintur Raoad, Parbhani</name>
@@ -528,7 +591,7 @@
     <contact>0</contact>
     <micrCode>414002588</micrCode>
     <ifscCode>SBIN0012004</ifscCode>
-    <bankLoc>20129</bankLoc>
+    <bankLoc>20219</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nandganj</name>
@@ -537,7 +600,7 @@
     <contact>0</contact>
     <micrCode>233002017</micrCode>
     <ifscCode>SBIN0012003</ifscCode>
-    <bankLoc>20515</bankLoc>
+    <bankLoc>20606</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bullion Branch, Mumbai</name>
@@ -546,7 +609,7 @@
     <contact>0</contact>
     <micrCode>400002232</micrCode>
     <ifscCode>SBIN0012002</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Currency Administration Cell</name>
@@ -555,7 +618,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0012001</ifscCode>
-    <bankLoc>19581</bankLoc>
+    <bankLoc>19670</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virat Nagar, Ahmedabad</name>
@@ -564,7 +627,7 @@
     <contact>0</contact>
     <micrCode>380002110</micrCode>
     <ifscCode>SBIN0012000</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amritpur</name>
@@ -573,7 +636,7 @@
     <contact>0</contact>
     <micrCode>209002085</micrCode>
     <ifscCode>SBIN0011999</ifscCode>
-    <bankLoc>20503</bankLoc>
+    <bankLoc>20594</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vissannapeta</name>
@@ -582,7 +645,7 @@
     <contact>0</contact>
     <micrCode>521002101</micrCode>
     <ifscCode>SBIN0011998</ifscCode>
-    <bankLoc>19477</bankLoc>
+    <bankLoc>19566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Seethampeta</name>
@@ -591,7 +654,7 @@
     <contact>0</contact>
     <micrCode>532002999</micrCode>
     <ifscCode>SBIN0011997</ifscCode>
-    <bankLoc>19504</bankLoc>
+    <bankLoc>19593</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chapara</name>
@@ -600,7 +663,7 @@
     <contact>0</contact>
     <micrCode>532002036</micrCode>
     <ifscCode>SBIN0011996</ifscCode>
-    <bankLoc>19504</bankLoc>
+    <bankLoc>19593</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Athota</name>
@@ -609,7 +672,7 @@
     <contact>0</contact>
     <micrCode>522002101</micrCode>
     <ifscCode>SBIN0011995</ifscCode>
-    <bankLoc>19464</bankLoc>
+    <bankLoc>19553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Namburu</name>
@@ -618,7 +681,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011994</ifscCode>
-    <bankLoc>19464</bankLoc>
+    <bankLoc>19553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghantasala</name>
@@ -627,7 +690,7 @@
     <contact>0</contact>
     <micrCode>521002102</micrCode>
     <ifscCode>SBIN0011993</ifscCode>
-    <bankLoc>19464</bankLoc>
+    <bankLoc>19553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bibi Nagar</name>
@@ -636,7 +699,7 @@
     <contact>0</contact>
     <micrCode>508002126</micrCode>
     <ifscCode>SBIN0011992</ifscCode>
-    <bankLoc>19486</bankLoc>
+    <bankLoc>19575</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gospadu</name>
@@ -645,7 +708,7 @@
     <contact>0</contact>
     <micrCode>518002593</micrCode>
     <ifscCode>SBIN0011991</ifscCode>
-    <bankLoc>19478</bankLoc>
+    <bankLoc>19567</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mahabubnagar Town</name>
@@ -654,7 +717,7 @@
     <contact>0</contact>
     <micrCode>509002003</micrCode>
     <ifscCode>SBIN0011990</ifscCode>
-    <bankLoc>19479</bankLoc>
+    <bankLoc>19568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chilamtur</name>
@@ -663,7 +726,7 @@
     <contact>0</contact>
     <micrCode>515002055</micrCode>
     <ifscCode>SBIN0011989</ifscCode>
-    <bankLoc>19448</bankLoc>
+    <bankLoc>19537</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jammikunta</name>
@@ -672,7 +735,7 @@
     <contact>0</contact>
     <micrCode>505002122</micrCode>
     <ifscCode>SBIN0011988</ifscCode>
-    <bankLoc>19472</bankLoc>
+    <bankLoc>19561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adilabad Town</name>
@@ -681,7 +744,7 @@
     <contact>0</contact>
     <micrCode>504002102</micrCode>
     <ifscCode>SBIN0011987</ifscCode>
-    <bankLoc>19444</bankLoc>
+    <bankLoc>19533</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vinayak Nagar, Nizamabad</name>
@@ -690,7 +753,7 @@
     <contact>0</contact>
     <micrCode>503002101</micrCode>
     <ifscCode>SBIN0011986</ifscCode>
-    <bankLoc>19491</bankLoc>
+    <bankLoc>19580</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Medak</name>
@@ -699,7 +762,7 @@
     <contact>0</contact>
     <micrCode>502002110</micrCode>
     <ifscCode>SBIN0011985</ifscCode>
-    <bankLoc>19484</bankLoc>
+    <bankLoc>19573</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>L B Nagar, Hyderabad</name>
@@ -708,7 +771,7 @@
     <contact>0</contact>
     <micrCode>500002131</micrCode>
     <ifscCode>SBIN0011984</ifscCode>
-    <bankLoc>19498</bankLoc>
+    <bankLoc>19587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Indora</name>
@@ -717,7 +780,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011983</ifscCode>
-    <bankLoc>19814</bankLoc>
+    <bankLoc>19903</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Huda Complex Rohtak</name>
@@ -726,7 +789,7 @@
     <contact>0</contact>
     <micrCode>124002011</micrCode>
     <ifscCode>SBIN0011982</ifscCode>
-    <bankLoc>19802</bankLoc>
+    <bankLoc>19891</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Subhash Colony, G.T. Road Panipat</name>
@@ -735,7 +798,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011981</ifscCode>
-    <bankLoc>20215</bankLoc>
+    <bankLoc>20305</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Huda Complex Karnal</name>
@@ -744,7 +807,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011980</ifscCode>
-    <bankLoc>19789</bankLoc>
+    <bankLoc>19878</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Industrial Area Karnal</name>
@@ -753,7 +816,7 @@
     <contact>0</contact>
     <micrCode>132002108</micrCode>
     <ifscCode>SBIN0011979</ifscCode>
-    <bankLoc>19789</bankLoc>
+    <bankLoc>19878</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mullanpur</name>
@@ -762,7 +825,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011978</ifscCode>
-    <bankLoc>20290</bankLoc>
+    <bankLoc>20380</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anandpur Sahib</name>
@@ -771,7 +834,7 @@
     <contact>0</contact>
     <micrCode>140002103</micrCode>
     <ifscCode>SBIN0011977</ifscCode>
-    <bankLoc>20298</bankLoc>
+    <bankLoc>20388</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lalru</name>
@@ -780,7 +843,7 @@
     <contact>0</contact>
     <micrCode>160002058</micrCode>
     <ifscCode>SBIN0011976</ifscCode>
-    <bankLoc>20298</bankLoc>
+    <bankLoc>20388</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banur</name>
@@ -789,7 +852,7 @@
     <contact>0</contact>
     <micrCode>160002059</micrCode>
     <ifscCode>SBIN0011975</ifscCode>
-    <bankLoc>20297</bankLoc>
+    <bankLoc>20387</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhikhi</name>
@@ -798,7 +861,7 @@
     <contact>0</contact>
     <micrCode>151002974</micrCode>
     <ifscCode>SBIN0011974</ifscCode>
-    <bankLoc>20288</bankLoc>
+    <bankLoc>20378</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sardulgarh</name>
@@ -807,7 +870,7 @@
     <contact>0</contact>
     <micrCode>151002973</micrCode>
     <ifscCode>SBIN0011973</ifscCode>
-    <bankLoc>20288</bankLoc>
+    <bankLoc>20378</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SBS Nagar, Ludhiana</name>
@@ -816,7 +879,7 @@
     <contact>0</contact>
     <micrCode>141002042</micrCode>
     <ifscCode>SBIN0011972</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hambran Road</name>
@@ -825,7 +888,7 @@
     <contact>0</contact>
     <micrCode>141002044</micrCode>
     <ifscCode>SBIN0011971</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basant Avenue</name>
@@ -834,7 +897,7 @@
     <contact>0</contact>
     <micrCode>141002043</micrCode>
     <ifscCode>SBIN0011970</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>G T Road Jagraon</name>
@@ -843,7 +906,7 @@
     <contact>0</contact>
     <micrCode>142002203</micrCode>
     <ifscCode>SBIN0011969</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lambra</name>
@@ -852,7 +915,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011968</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nakodar Road, Jalandhar</name>
@@ -861,7 +924,7 @@
     <contact>0</contact>
     <micrCode>144002599</micrCode>
     <ifscCode>SBIN0011967</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mithapur Road</name>
@@ -870,7 +933,7 @@
     <contact>0</contact>
     <micrCode>144002034</micrCode>
     <ifscCode>SBIN0011966</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rama Mandi</name>
@@ -879,7 +942,7 @@
     <contact>0</contact>
     <micrCode>144002036</micrCode>
     <ifscCode>SBIN0011965</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SRI Hargobindpur</name>
@@ -888,7 +951,7 @@
     <contact>0</contact>
     <micrCode>143002101</micrCode>
     <ifscCode>SBIN0011964</ifscCode>
-    <bankLoc>20279</bankLoc>
+    <bankLoc>20369</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangat</name>
@@ -897,7 +960,7 @@
     <contact>0</contact>
     <micrCode>151002975</micrCode>
     <ifscCode>SBIN0011963</ifscCode>
-    <bankLoc>20266</bankLoc>
+    <bankLoc>20356</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Begowal</name>
@@ -906,7 +969,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011962</ifscCode>
-    <bankLoc>20284</bankLoc>
+    <bankLoc>20374</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tarn Taran Road Amritsar</name>
@@ -915,7 +978,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011961</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Verka Amritsar</name>
@@ -924,7 +987,7 @@
     <contact>0</contact>
     <micrCode>143002027</micrCode>
     <ifscCode>SBIN0011960</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chhehratta</name>
@@ -933,7 +996,7 @@
     <contact>0</contact>
     <micrCode>143002025</micrCode>
     <ifscCode>SBIN0011959</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangana</name>
@@ -942,7 +1005,7 @@
     <contact>0</contact>
     <micrCode>177002242</micrCode>
     <ifscCode>SBIN0011958</ifscCode>
-    <bankLoc>19829</bankLoc>
+    <bankLoc>19918</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chuli Dadahu</name>
@@ -951,7 +1014,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011957</ifscCode>
-    <bankLoc>19825</bankLoc>
+    <bankLoc>19914</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baghi</name>
@@ -960,7 +1023,7 @@
     <contact>0</contact>
     <micrCode>171002192</micrCode>
     <ifscCode>SBIN0011956</ifscCode>
-    <bankLoc>19823</bankLoc>
+    <bankLoc>19912</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chauntra</name>
@@ -969,7 +1032,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011955</ifscCode>
-    <bankLoc>20341</bankLoc>
+    <bankLoc>20431</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banjar</name>
@@ -978,7 +1041,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011954</ifscCode>
-    <bankLoc>19816</bankLoc>
+    <bankLoc>19905</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Model Town Yamuna Nagar</name>
@@ -987,7 +1050,7 @@
     <contact>0</contact>
     <micrCode>135002005</micrCode>
     <ifscCode>SBIN0011953</ifscCode>
-    <bankLoc>19808</bankLoc>
+    <bankLoc>19897</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>AIR Force Station Sirsa</name>
@@ -996,7 +1059,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011952</ifscCode>
-    <bankLoc>19782</bankLoc>
+    <bankLoc>19871</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ding</name>
@@ -1005,7 +1068,7 @@
     <contact>0</contact>
     <micrCode>125002050</micrCode>
     <ifscCode>SBIN0011951</ifscCode>
-    <bankLoc>19803</bankLoc>
+    <bankLoc>19892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jhajjar Chungi Rohtak</name>
@@ -1014,7 +1077,7 @@
     <contact>0</contact>
     <micrCode>124002010</micrCode>
     <ifscCode>SBIN0011950</ifscCode>
-    <bankLoc>19802</bankLoc>
+    <bankLoc>19891</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonali Road Panipat</name>
@@ -1023,7 +1086,7 @@
     <contact>0</contact>
     <micrCode>132002009</micrCode>
     <ifscCode>SBIN0011949</ifscCode>
-    <bankLoc>19798</bankLoc>
+    <bankLoc>19887</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Model Town Hansi</name>
@@ -1032,7 +1095,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011948</ifscCode>
-    <bankLoc>19803</bankLoc>
+    <bankLoc>19892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rdc, Ghaziabad</name>
@@ -1041,7 +1104,7 @@
     <contact>0</contact>
     <micrCode>110002306</micrCode>
     <ifscCode>SBIN0011947</ifscCode>
-    <bankLoc>20516</bankLoc>
+    <bankLoc>20607</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaushambi, Ghaziabad</name>
@@ -1050,7 +1113,7 @@
     <contact>0</contact>
     <micrCode>110002305</micrCode>
     <ifscCode>SBIN0011946</ifscCode>
-    <bankLoc>20516</bankLoc>
+    <bankLoc>20607</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ccpc Gorakhpur</name>
@@ -1059,7 +1122,7 @@
     <contact>0</contact>
     <micrCode>273002086</micrCode>
     <ifscCode>SBIN0011945</ifscCode>
-    <bankLoc>20520</bankLoc>
+    <bankLoc>20611</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elumalai</name>
@@ -1068,7 +1131,7 @@
     <contact>0</contact>
     <micrCode>625002046</micrCode>
     <ifscCode>SBIN0011944</ifscCode>
-    <bankLoc>20388</bankLoc>
+    <bankLoc>20478</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SME Rajapalayam</name>
@@ -1077,7 +1140,7 @@
     <contact>0</contact>
     <micrCode>626002051</micrCode>
     <ifscCode>SBIN0011943</ifscCode>
-    <bankLoc>20388</bankLoc>
+    <bankLoc>20478</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Colachel</name>
@@ -1086,7 +1149,7 @@
     <contact>0</contact>
     <micrCode>629002018</micrCode>
     <ifscCode>SBIN0011942</ifscCode>
-    <bankLoc>20380</bankLoc>
+    <bankLoc>20470</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vedasandur</name>
@@ -1095,7 +1158,7 @@
     <contact>0</contact>
     <micrCode>624002012</micrCode>
     <ifscCode>SBIN0011941</ifscCode>
-    <bankLoc>20374</bankLoc>
+    <bankLoc>20464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadamadurai</name>
@@ -1104,7 +1167,7 @@
     <contact>0</contact>
     <micrCode>624002011</micrCode>
     <ifscCode>SBIN0011940</ifscCode>
-    <bankLoc>20374</bankLoc>
+    <bankLoc>20464</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anthiyur</name>
@@ -1113,7 +1176,7 @@
     <contact>0</contact>
     <micrCode>638002140</micrCode>
     <ifscCode>SBIN0011939</ifscCode>
-    <bankLoc>20391</bankLoc>
+    <bankLoc>20482</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PBB Salem</name>
@@ -1122,7 +1185,7 @@
     <contact>0</contact>
     <micrCode>636002140</micrCode>
     <ifscCode>SBIN0011938</ifscCode>
-    <bankLoc>20401</bankLoc>
+    <bankLoc>20492</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mannachanallur</name>
@@ -1131,7 +1194,7 @@
     <contact>0</contact>
     <micrCode>620002027</micrCode>
     <ifscCode>SBIN0011937</ifscCode>
-    <bankLoc>20424</bankLoc>
+    <bankLoc>20515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhi Nagar, Pondy</name>
@@ -1140,7 +1203,7 @@
     <contact>0</contact>
     <micrCode>605002014</micrCode>
     <ifscCode>SBIN0011936</ifscCode>
-    <bankLoc>20257</bankLoc>
+    <bankLoc>20347</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Viralimalai</name>
@@ -1149,7 +1212,7 @@
     <contact>0</contact>
     <micrCode>622002007</micrCode>
     <ifscCode>SBIN0011935</ifscCode>
-    <bankLoc>20382</bankLoc>
+    <bankLoc>20472</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thottiam</name>
@@ -1158,7 +1221,7 @@
     <contact>0</contact>
     <micrCode>621002009</micrCode>
     <ifscCode>SBIN0011934</ifscCode>
-    <bankLoc>20424</bankLoc>
+    <bankLoc>20515</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SME Maramalai Nagar?á?á</name>
@@ -1167,7 +1230,7 @@
     <contact>0</contact>
     <micrCode>600002169</micrCode>
     <ifscCode>SBIN0011933</ifscCode>
-    <bankLoc>20423</bankLoc>
+    <bankLoc>20514</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Oggiyam Doraipakkam</name>
@@ -1176,7 +1239,7 @@
     <contact>0</contact>
     <micrCode>600002167</micrCode>
     <ifscCode>SBIN0011932</ifscCode>
-    <bankLoc>20422</bankLoc>
+    <bankLoc>20513</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gummidipoondi</name>
@@ -1185,7 +1248,7 @@
     <contact>0</contact>
     <micrCode>600002168</micrCode>
     <ifscCode>SBIN0011931</ifscCode>
-    <bankLoc>20422</bankLoc>
+    <bankLoc>20513</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuttanallur</name>
@@ -1194,7 +1257,7 @@
     <contact>0</contact>
     <micrCode>680002012</micrCode>
     <ifscCode>SBIN0011930</ifscCode>
-    <bankLoc>20021</bankLoc>
+    <bankLoc>20111</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadampazhipuram</name>
@@ -1203,7 +1266,7 @@
     <contact>0</contact>
     <micrCode>678002801</micrCode>
     <ifscCode>SBIN0011929</ifscCode>
-    <bankLoc>20011</bankLoc>
+    <bankLoc>20101</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muthalamada</name>
@@ -1212,7 +1275,7 @@
     <contact>0</contact>
     <micrCode>678002802</micrCode>
     <ifscCode>SBIN0011928</ifscCode>
-    <bankLoc>20011</bankLoc>
+    <bankLoc>20101</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valluvambram</name>
@@ -1221,7 +1284,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011927</ifscCode>
-    <bankLoc>20008</bankLoc>
+    <bankLoc>20098</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pbb, Calicut</name>
@@ -1230,7 +1293,7 @@
     <contact>0</contact>
     <micrCode>673002018</micrCode>
     <ifscCode>SBIN0011926</ifscCode>
-    <bankLoc>20006</bankLoc>
+    <bankLoc>20096</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Atholi</name>
@@ -1239,7 +1302,7 @@
     <contact>0</contact>
     <micrCode>673002019</micrCode>
     <ifscCode>SBIN0011925</ifscCode>
-    <bankLoc>20006</bankLoc>
+    <bankLoc>20096</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharanikavu</name>
@@ -1248,7 +1311,7 @@
     <contact>0</contact>
     <micrCode>690002202</micrCode>
     <ifscCode>SBIN0011924</ifscCode>
-    <bankLoc>20001</bankLoc>
+    <bankLoc>20091</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chundale</name>
@@ -1257,7 +1320,7 @@
     <contact>0</contact>
     <micrCode>673002109</micrCode>
     <ifscCode>SBIN0011923</ifscCode>
-    <bankLoc>20023</bankLoc>
+    <bankLoc>20113</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaduvanchal</name>
@@ -1266,7 +1329,7 @@
     <contact>0</contact>
     <micrCode>673002108</micrCode>
     <ifscCode>SBIN0011922</ifscCode>
-    <bankLoc>20023</bankLoc>
+    <bankLoc>20113</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Azhikode</name>
@@ -1275,7 +1338,7 @@
     <contact>0</contact>
     <micrCode>670002007</micrCode>
     <ifscCode>SBIN0011921</ifscCode>
-    <bankLoc>19995</bankLoc>
+    <bankLoc>20085</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuruppanthara</name>
@@ -1284,7 +1347,7 @@
     <contact>0</contact>
     <micrCode>686002801</micrCode>
     <ifscCode>SBIN0011920</ifscCode>
-    <bankLoc>20003</bankLoc>
+    <bankLoc>20093</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodimatha</name>
@@ -1293,7 +1356,7 @@
     <contact>0</contact>
     <micrCode>686002054</micrCode>
     <ifscCode>SBIN0011919</ifscCode>
-    <bankLoc>20003</bankLoc>
+    <bankLoc>20093</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjiramattom</name>
@@ -1302,7 +1365,7 @@
     <contact>0</contact>
     <micrCode>682002801</micrCode>
     <ifscCode>SBIN0011918</ifscCode>
-    <bankLoc>19993</bankLoc>
+    <bankLoc>20083</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chottanikara</name>
@@ -1311,7 +1374,7 @@
     <contact>0</contact>
     <micrCode>682002050</micrCode>
     <ifscCode>SBIN0011917</ifscCode>
-    <bankLoc>19993</bankLoc>
+    <bankLoc>20083</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cherthala South</name>
@@ -1320,7 +1383,7 @@
     <contact>0</contact>
     <micrCode>688002053</micrCode>
     <ifscCode>SBIN0011916</ifscCode>
-    <bankLoc>19985</bankLoc>
+    <bankLoc>20075</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mehalkalan</name>
@@ -1329,7 +1392,7 @@
     <contact>0</contact>
     <micrCode>148002104</micrCode>
     <ifscCode>SBIN0011915</ifscCode>
-    <bankLoc>20263</bankLoc>
+    <bankLoc>20353</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NGM Barnala</name>
@@ -1338,7 +1401,7 @@
     <contact>0</contact>
     <micrCode>148002005</micrCode>
     <ifscCode>SBIN0011914</ifscCode>
-    <bankLoc>20263</bankLoc>
+    <bankLoc>20353</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedgarh</name>
@@ -1347,7 +1410,7 @@
     <contact>0</contact>
     <micrCode>148002999</micrCode>
     <ifscCode>SBIN0011913</ifscCode>
-    <bankLoc>20302</bankLoc>
+    <bankLoc>20392</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patran</name>
@@ -1356,7 +1419,7 @@
     <contact>0</contact>
     <micrCode>147002105</micrCode>
     <ifscCode>SBIN0011912</ifscCode>
-    <bankLoc>20297</bankLoc>
+    <bankLoc>20387</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Samana</name>
@@ -1365,7 +1428,7 @@
     <contact>0</contact>
     <micrCode>147002191</micrCode>
     <ifscCode>SBIN0011911</ifscCode>
-    <bankLoc>20297</bankLoc>
+    <bankLoc>20387</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>AUR</name>
@@ -1374,7 +1437,7 @@
     <contact>0</contact>
     <micrCode>144002995</micrCode>
     <ifscCode>SBIN0011910</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>KOT ISE Khan</name>
@@ -1383,7 +1446,7 @@
     <contact>0</contact>
     <micrCode>142002043</micrCode>
     <ifscCode>SBIN0011909</ifscCode>
-    <bankLoc>20289</bankLoc>
+    <bankLoc>20379</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nihalsingh Wala</name>
@@ -1392,7 +1455,7 @@
     <contact>0</contact>
     <micrCode>142002055</micrCode>
     <ifscCode>SBIN0011908</ifscCode>
-    <bankLoc>20289</bankLoc>
+    <bankLoc>20379</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharmkot</name>
@@ -1401,7 +1464,7 @@
     <contact>0</contact>
     <micrCode>142002042</micrCode>
     <ifscCode>SBIN0011907</ifscCode>
-    <bankLoc>20289</bankLoc>
+    <bankLoc>20379</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajitwal</name>
@@ -1410,7 +1473,7 @@
     <contact>0</contact>
     <micrCode>142002001</micrCode>
     <ifscCode>SBIN0011906</ifscCode>
-    <bankLoc>20289</bankLoc>
+    <bankLoc>20379</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Budhlada</name>
@@ -1419,7 +1482,7 @@
     <contact>0</contact>
     <micrCode>151002502</micrCode>
     <ifscCode>SBIN0011905</ifscCode>
-    <bankLoc>20289</bankLoc>
+    <bankLoc>20379</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bretta</name>
@@ -1428,7 +1491,7 @@
     <contact>0</contact>
     <micrCode>151002602</micrCode>
     <ifscCode>SBIN0011904</ifscCode>
-    <bankLoc>20288</bankLoc>
+    <bankLoc>20378</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>G.T.ROAD, Gurdaspur</name>
@@ -1437,7 +1500,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011903</ifscCode>
-    <bankLoc>20279</bankLoc>
+    <bankLoc>20369</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fatehgarh Churian</name>
@@ -1446,7 +1509,7 @@
     <contact>0</contact>
     <micrCode>143002201</micrCode>
     <ifscCode>SBIN0011902</ifscCode>
-    <bankLoc>20288</bankLoc>
+    <bankLoc>20378</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mallanwal</name>
@@ -1455,7 +1518,7 @@
     <contact>0</contact>
     <micrCode>152002025</micrCode>
     <ifscCode>SBIN0011901</ifscCode>
-    <bankLoc>20279</bankLoc>
+    <bankLoc>20369</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khuian Sarwar</name>
@@ -1464,7 +1527,7 @@
     <contact>0</contact>
     <micrCode>152002116</micrCode>
     <ifscCode>SBIN0011900</ifscCode>
-    <bankLoc>20276</bankLoc>
+    <bankLoc>20366</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>BUS Stand Road, Abohar</name>
@@ -1473,7 +1536,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011899</ifscCode>
-    <bankLoc>20276</bankLoc>
+    <bankLoc>20366</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bassi Pathana</name>
@@ -1482,7 +1545,7 @@
     <contact>0</contact>
     <micrCode>140002104</micrCode>
     <ifscCode>SBIN0011898</ifscCode>
-    <bankLoc>20273</bankLoc>
+    <bankLoc>20363</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Talwandi Sabo</name>
@@ -1491,7 +1554,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011897</ifscCode>
-    <bankLoc>20266</bankLoc>
+    <bankLoc>20356</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Amritsar</name>
@@ -1500,7 +1563,7 @@
     <contact>0</contact>
     <micrCode>143002028</micrCode>
     <ifscCode>SBIN0011896</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ajnala Road Amritsar</name>
@@ -1509,7 +1572,7 @@
     <contact>0</contact>
     <micrCode>143002998</micrCode>
     <ifscCode>SBIN0011895</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalandhar Road, Amritsar</name>
@@ -1518,7 +1581,7 @@
     <contact>0</contact>
     <micrCode>143002022</micrCode>
     <ifscCode>SBIN0011894</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surankot</name>
@@ -1527,7 +1590,7 @@
     <contact>0</contact>
     <micrCode>185002501</micrCode>
     <ifscCode>SBIN0011893</ifscCode>
-    <bankLoc>19847</bankLoc>
+    <bankLoc>19936</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hira Nagar</name>
@@ -1536,7 +1599,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011892</ifscCode>
-    <bankLoc>19841</bankLoc>
+    <bankLoc>19930</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bani</name>
@@ -1545,7 +1608,7 @@
     <contact>0</contact>
     <micrCode>184002501</micrCode>
     <ifscCode>SBIN0011891</ifscCode>
-    <bankLoc>19841</bankLoc>
+    <bankLoc>19930</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Miran Sahib</name>
@@ -1554,7 +1617,7 @@
     <contact>0</contact>
     <micrCode>180002030</micrCode>
     <ifscCode>SBIN0011890</ifscCode>
-    <bankLoc>19839</bankLoc>
+    <bankLoc>19928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arnia</name>
@@ -1563,7 +1626,7 @@
     <contact>0</contact>
     <micrCode>180002997</micrCode>
     <ifscCode>SBIN0011889</ifscCode>
-    <bankLoc>19839</bankLoc>
+    <bankLoc>19928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Darlaghat</name>
@@ -1572,7 +1635,7 @@
     <contact>0</contact>
     <micrCode>173002222</micrCode>
     <ifscCode>SBIN0011888</ifscCode>
-    <bankLoc>19828</bankLoc>
+    <bankLoc>19917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajgarh</name>
@@ -1581,7 +1644,7 @@
     <contact>0</contact>
     <micrCode>173002152</micrCode>
     <ifscCode>SBIN0011887</ifscCode>
-    <bankLoc>19826</bankLoc>
+    <bankLoc>19915</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumarsain</name>
@@ -1590,7 +1653,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011886</ifscCode>
-    <bankLoc>19823</bankLoc>
+    <bankLoc>19912</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chaupal</name>
@@ -1599,7 +1662,7 @@
     <contact>0</contact>
     <micrCode>171002172</micrCode>
     <ifscCode>SBIN0011885</ifscCode>
-    <bankLoc>19823</bankLoc>
+    <bankLoc>19912</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karsog</name>
@@ -1608,7 +1671,7 @@
     <contact>0</contact>
     <micrCode>175002012</micrCode>
     <ifscCode>SBIN0011884</ifscCode>
-    <bankLoc>19821</bankLoc>
+    <bankLoc>19910</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ner-chowk</name>
@@ -1617,7 +1680,7 @@
     <contact>0</contact>
     <micrCode>175002014</micrCode>
     <ifscCode>SBIN0011883</ifscCode>
-    <bankLoc>19821</bankLoc>
+    <bankLoc>19910</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haripur</name>
@@ -1626,7 +1689,7 @@
     <contact>0</contact>
     <micrCode>175002083</micrCode>
     <ifscCode>SBIN0011882</ifscCode>
-    <bankLoc>19816</bankLoc>
+    <bankLoc>19905</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sangla</name>
@@ -1635,7 +1698,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011881</ifscCode>
-    <bankLoc>19815</bankLoc>
+    <bankLoc>19904</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nurpur</name>
@@ -1644,7 +1707,7 @@
     <contact>0</contact>
     <micrCode>176002202</micrCode>
     <ifscCode>SBIN0011880</ifscCode>
-    <bankLoc>19814</bankLoc>
+    <bankLoc>19903</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhira</name>
@@ -1653,7 +1716,7 @@
     <contact>0</contact>
     <micrCode>176002142</micrCode>
     <ifscCode>SBIN0011879</ifscCode>
-    <bankLoc>19814</bankLoc>
+    <bankLoc>19903</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barthin</name>
@@ -1662,7 +1725,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011878</ifscCode>
-    <bankLoc>19809</bankLoc>
+    <bankLoc>19898</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jahu Khurad</name>
@@ -1671,7 +1734,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011877</ifscCode>
-    <bankLoc>19812</bankLoc>
+    <bankLoc>19901</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ghumarvin</name>
@@ -1680,7 +1743,7 @@
     <contact>0</contact>
     <micrCode>173002043</micrCode>
     <ifscCode>SBIN0011876</ifscCode>
-    <bankLoc>19809</bankLoc>
+    <bankLoc>19898</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shah PUR Begu</name>
@@ -1689,7 +1752,7 @@
     <contact>0</contact>
     <micrCode>125002008</micrCode>
     <ifscCode>SBIN0011875</ifscCode>
-    <bankLoc>19803</bankLoc>
+    <bankLoc>19892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhosinghana</name>
@@ -1698,7 +1761,7 @@
     <contact>0</contact>
     <micrCode>125002046</micrCode>
     <ifscCode>SBIN0011874</ifscCode>
-    <bankLoc>19803</bankLoc>
+    <bankLoc>19892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharian</name>
@@ -1707,7 +1770,7 @@
     <contact>0</contact>
     <micrCode>125002047</micrCode>
     <ifscCode>SBIN0011873</ifscCode>
-    <bankLoc>19803</bankLoc>
+    <bankLoc>19892</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dharuhera Road Rewari</name>
@@ -1716,7 +1779,7 @@
     <contact>0</contact>
     <micrCode>123002003</micrCode>
     <ifscCode>SBIN0011872</ifscCode>
-    <bankLoc>19800</bankLoc>
+    <bankLoc>19889</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Brass Market Rewari</name>
@@ -1725,7 +1788,7 @@
     <contact>0</contact>
     <micrCode>123002004</micrCode>
     <ifscCode>SBIN0011871</ifscCode>
-    <bankLoc>19800</bankLoc>
+    <bankLoc>19889</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kosli</name>
@@ -1734,7 +1797,7 @@
     <contact>0</contact>
     <micrCode>123002002</micrCode>
     <ifscCode>SBIN0011870</ifscCode>
-    <bankLoc>19800</bankLoc>
+    <bankLoc>19889</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badli</name>
@@ -1743,7 +1806,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011869</ifscCode>
-    <bankLoc>19785</bankLoc>
+    <bankLoc>19874</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neoli Kalan</name>
@@ -1752,7 +1815,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011868</ifscCode>
-    <bankLoc>19782</bankLoc>
+    <bankLoc>19871</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhabalpur</name>
@@ -1761,7 +1824,7 @@
     <contact>0</contact>
     <micrCode>125002022</micrCode>
     <ifscCode>SBIN0011867</ifscCode>
-    <bankLoc>19782</bankLoc>
+    <bankLoc>19871</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haroli</name>
@@ -1770,7 +1833,7 @@
     <contact>0</contact>
     <micrCode>125002503</micrCode>
     <ifscCode>SBIN0011866</ifscCode>
-    <bankLoc>19776</bankLoc>
+    <bankLoc>19865</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Charkhi Dadri</name>
@@ -1779,7 +1842,7 @@
     <contact>0</contact>
     <micrCode>123002102</micrCode>
     <ifscCode>SBIN0011865</ifscCode>
-    <bankLoc>19772</bankLoc>
+    <bankLoc>19861</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mini SECTT.BHIWANI</name>
@@ -1788,7 +1851,7 @@
     <contact>0</contact>
     <micrCode>127002003</micrCode>
     <ifscCode>SBIN0011864</ifscCode>
-    <bankLoc>19772</bankLoc>
+    <bankLoc>19861</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barara</name>
@@ -1797,7 +1860,7 @@
     <contact>0</contact>
     <micrCode>133002911</micrCode>
     <ifscCode>SBIN0011863</ifscCode>
-    <bankLoc>19771</bankLoc>
+    <bankLoc>19860</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cholapur</name>
@@ -1806,7 +1869,7 @@
     <contact>0</contact>
     <micrCode>221002039</micrCode>
     <ifscCode>SBIN0011862</ifscCode>
-    <bankLoc>20612</bankLoc>
+    <bankLoc>20703</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Magarwara</name>
@@ -1815,7 +1878,7 @@
     <contact>0</contact>
     <micrCode>209002100</micrCode>
     <ifscCode>SBIN0011861</ifscCode>
-    <bankLoc>20609</bankLoc>
+    <bankLoc>20700</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector 52, Noida</name>
@@ -1824,7 +1887,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011860</ifscCode>
-    <bankLoc>20511</bankLoc>
+    <bankLoc>20602</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector 19, Noida</name>
@@ -1833,7 +1896,7 @@
     <contact>0</contact>
     <micrCode>110002308</micrCode>
     <ifscCode>SBIN0011859</ifscCode>
-    <bankLoc>20509</bankLoc>
+    <bankLoc>20600</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramdass</name>
@@ -1842,7 +1905,7 @@
     <contact>0</contact>
     <micrCode>143002040</micrCode>
     <ifscCode>SBIN0011858</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shashtri Nagar</name>
@@ -1851,7 +1914,7 @@
     <contact>0</contact>
     <micrCode>180002027</micrCode>
     <ifscCode>SBIN0011857</ifscCode>
-    <bankLoc>19839</bankLoc>
+    <bankLoc>19928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shakti Nagar</name>
@@ -1860,7 +1923,7 @@
     <contact>0</contact>
     <micrCode>180002026</micrCode>
     <ifscCode>SBIN0011856</ifscCode>
-    <bankLoc>19839</bankLoc>
+    <bankLoc>19928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purkhoo</name>
@@ -1869,7 +1932,7 @@
     <contact>0</contact>
     <micrCode>180002028</micrCode>
     <ifscCode>SBIN0011855</ifscCode>
-    <bankLoc>19839</bankLoc>
+    <bankLoc>19928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sidhra</name>
@@ -1878,7 +1941,7 @@
     <contact>0</contact>
     <micrCode>180002029</micrCode>
     <ifscCode>SBIN0011854</ifscCode>
-    <bankLoc>19839</bankLoc>
+    <bankLoc>19928</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Solan BYE Pass, Solan</name>
@@ -1887,7 +1950,7 @@
     <contact>0</contact>
     <micrCode>173002999</micrCode>
     <ifscCode>SBIN0011853</ifscCode>
-    <bankLoc>19828</bankLoc>
+    <bankLoc>19917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kullu Akhara Bazar</name>
@@ -1896,7 +1959,7 @@
     <contact>0</contact>
     <micrCode>175002081</micrCode>
     <ifscCode>SBIN0011852</ifscCode>
-    <bankLoc>19816</bankLoc>
+    <bankLoc>19905</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arki</name>
@@ -1905,7 +1968,7 @@
     <contact>0</contact>
     <micrCode>173002221</micrCode>
     <ifscCode>SBIN0011851</ifscCode>
-    <bankLoc>19828</bankLoc>
+    <bankLoc>19917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nalagarh</name>
@@ -1914,7 +1977,7 @@
     <contact>0</contact>
     <micrCode>174002405</micrCode>
     <ifscCode>SBIN0011850</ifscCode>
-    <bankLoc>19828</bankLoc>
+    <bankLoc>19917</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Santokhgarh</name>
@@ -1923,7 +1986,7 @@
     <contact>0</contact>
     <micrCode>174002406</micrCode>
     <ifscCode>SBIN0011849</ifscCode>
-    <bankLoc>19829</bankLoc>
+    <bankLoc>19918</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baijnath</name>
@@ -1932,7 +1995,7 @@
     <contact>0</contact>
     <micrCode>176002450</micrCode>
     <ifscCode>SBIN0011848</ifscCode>
-    <bankLoc>19814</bankLoc>
+    <bankLoc>19903</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheeka</name>
@@ -1941,7 +2004,7 @@
     <contact>0</contact>
     <micrCode>136002011</micrCode>
     <ifscCode>SBIN0011847</ifscCode>
-    <bankLoc>19787</bankLoc>
+    <bankLoc>19876</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rani Talab, Jind</name>
@@ -1950,7 +2013,7 @@
     <contact>0</contact>
     <micrCode>126002003</micrCode>
     <ifscCode>SBIN0011846</ifscCode>
-    <bankLoc>19786</bankLoc>
+    <bankLoc>19875</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adampur</name>
@@ -1959,7 +2022,7 @@
     <contact>0</contact>
     <micrCode>125002021</micrCode>
     <ifscCode>SBIN0011845</ifscCode>
-    <bankLoc>19782</bankLoc>
+    <bankLoc>19871</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balsamand</name>
@@ -1968,7 +2031,7 @@
     <contact>0</contact>
     <micrCode>125002020</micrCode>
     <ifscCode>SBIN0011844</ifscCode>
-    <bankLoc>19782</bankLoc>
+    <bankLoc>19871</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mullana</name>
@@ -1977,7 +2040,7 @@
     <contact>0</contact>
     <micrCode>133002011</micrCode>
     <ifscCode>SBIN0011843</ifscCode>
-    <bankLoc>19771</bankLoc>
+    <bankLoc>19860</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Apra</name>
@@ -1986,7 +2049,7 @@
     <contact>0</contact>
     <micrCode>144002416</micrCode>
     <ifscCode>SBIN0011842</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bariwala</name>
@@ -1995,7 +2058,7 @@
     <contact>0</contact>
     <micrCode>152002525</micrCode>
     <ifscCode>SBIN0011841</ifscCode>
-    <bankLoc>20291</bankLoc>
+    <bankLoc>20381</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhagta Bhai KA</name>
@@ -2004,7 +2067,7 @@
     <contact>0</contact>
     <micrCode>151002206</micrCode>
     <ifscCode>SBIN0011840</ifscCode>
-    <bankLoc>20266</bankLoc>
+    <bankLoc>20356</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahnewal</name>
@@ -2013,7 +2076,7 @@
     <contact>0</contact>
     <micrCode>141002040</micrCode>
     <ifscCode>SBIN0011839</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Miani</name>
@@ -2022,7 +2085,7 @@
     <contact>0</contact>
     <micrCode>144002501</micrCode>
     <ifscCode>SBIN0011838</ifscCode>
-    <bankLoc>20282</bankLoc>
+    <bankLoc>20372</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amritsar Road Tarn Taran</name>
@@ -2031,7 +2094,7 @@
     <contact>0</contact>
     <micrCode>143002026</micrCode>
     <ifscCode>SBIN0011837</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Landran</name>
@@ -2040,7 +2103,7 @@
     <contact>0</contact>
     <micrCode>160002060</micrCode>
     <ifscCode>SBIN0011836</ifscCode>
-    <bankLoc>20298</bankLoc>
+    <bankLoc>20388</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hariana</name>
@@ -2049,7 +2112,7 @@
     <contact>0</contact>
     <micrCode>144002502</micrCode>
     <ifscCode>SBIN0011835</ifscCode>
-    <bankLoc>20282</bankLoc>
+    <bankLoc>20372</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandigarh Road Hoshiarpur</name>
@@ -2058,7 +2121,7 @@
     <contact>0</contact>
     <micrCode>146002005</micrCode>
     <ifscCode>SBIN0011834</ifscCode>
-    <bankLoc>20282</bankLoc>
+    <bankLoc>20372</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fatehgarh Churian Road Amritsar</name>
@@ -2067,7 +2130,7 @@
     <contact>0</contact>
     <micrCode>143002024</micrCode>
     <ifscCode>SBIN0011833</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amloh</name>
@@ -2076,7 +2139,7 @@
     <contact>0</contact>
     <micrCode>147002101</micrCode>
     <ifscCode>SBIN0011832</ifscCode>
-    <bankLoc>20273</bankLoc>
+    <bankLoc>20363</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adityapur Bazar</name>
@@ -2085,7 +2148,7 @@
     <contact>0</contact>
     <micrCode>831002026</micrCode>
     <ifscCode>SBIN0011831</ifscCode>
-    <bankLoc>19889</bankLoc>
+    <bankLoc>19979</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamtara Combined Building</name>
@@ -2094,7 +2157,7 @@
     <contact>0</contact>
     <micrCode>815002613</micrCode>
     <ifscCode>SBIN0011830</ifscCode>
-    <bankLoc>19861</bankLoc>
+    <bankLoc>19950</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baheri</name>
@@ -2103,7 +2166,7 @@
     <contact>0</contact>
     <micrCode>847002234</micrCode>
     <ifscCode>SBIN0011829</ifscCode>
-    <bankLoc>19604</bankLoc>
+    <bankLoc>19693</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padrauna City</name>
@@ -2112,7 +2175,7 @@
     <contact>0</contact>
     <micrCode>274002017</micrCode>
     <ifscCode>SBIN0011828</ifscCode>
-    <bankLoc>20544</bankLoc>
+    <bankLoc>20635</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vikas Bhawan, Khalilibad</name>
@@ -2121,7 +2184,7 @@
     <contact>0</contact>
     <micrCode>272002069</micrCode>
     <ifscCode>SBIN0011827</ifscCode>
-    <bankLoc>20587</bankLoc>
+    <bankLoc>20678</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Betia Hata</name>
@@ -2130,7 +2193,7 @@
     <contact>0</contact>
     <micrCode>273002101</micrCode>
     <ifscCode>SBIN0011826</ifscCode>
-    <bankLoc>20520</bankLoc>
+    <bankLoc>20611</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bachrayun</name>
@@ -2139,7 +2202,7 @@
     <contact>0</contact>
     <micrCode>244002030</micrCode>
     <ifscCode>SBIN0011825</ifscCode>
-    <bankLoc>20531</bankLoc>
+    <bankLoc>20622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saidnagli</name>
@@ -2148,7 +2211,7 @@
     <contact>0</contact>
     <micrCode>244002100</micrCode>
     <ifscCode>SBIN0011824</ifscCode>
-    <bankLoc>20531</bankLoc>
+    <bankLoc>20622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balamau</name>
@@ -2157,7 +2220,7 @@
     <contact>0</contact>
     <micrCode>241002101</micrCode>
     <ifscCode>SBIN0011823</ifscCode>
-    <bankLoc>20592</bankLoc>
+    <bankLoc>20683</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Doddabanaswadi</name>
@@ -2166,7 +2229,7 @@
     <contact>0</contact>
     <micrCode>560002145</micrCode>
     <ifscCode>SBIN0011822</ifscCode>
-    <bankLoc>19908</bankLoc>
+    <bankLoc>19998</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amruthahalli</name>
@@ -2175,7 +2238,7 @@
     <contact>0</contact>
     <micrCode>560002144</micrCode>
     <ifscCode>SBIN0011821</ifscCode>
-    <bankLoc>19908</bankLoc>
+    <bankLoc>19998</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cholanagar</name>
@@ -2184,7 +2247,7 @@
     <contact>0</contact>
     <micrCode>560002143</micrCode>
     <ifscCode>SBIN0011820</ifscCode>
-    <bankLoc>19908</bankLoc>
+    <bankLoc>19998</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagarabhavi 2ND Stage</name>
@@ -2193,7 +2256,7 @@
     <contact>0</contact>
     <micrCode>560002142</micrCode>
     <ifscCode>SBIN0011819</ifscCode>
-    <bankLoc>19908</bankLoc>
+    <bankLoc>19998</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hallaur</name>
@@ -2202,7 +2265,7 @@
     <contact>0</contact>
     <micrCode>272002039</micrCode>
     <ifscCode>SBIN0011818</ifscCode>
-    <bankLoc>20597</bankLoc>
+    <bankLoc>20688</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarsaul</name>
@@ -2211,7 +2274,7 @@
     <contact>0</contact>
     <micrCode>208002080</micrCode>
     <ifscCode>SBIN0011817</ifscCode>
-    <bankLoc>20539</bankLoc>
+    <bankLoc>20630</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanke Block</name>
@@ -2220,7 +2283,7 @@
     <contact>0</contact>
     <micrCode>834002027</micrCode>
     <ifscCode>SBIN0011816</ifscCode>
-    <bankLoc>19886</bankLoc>
+    <bankLoc>19976</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shahpur</name>
@@ -2229,7 +2292,7 @@
     <contact>0</contact>
     <micrCode>822002525</micrCode>
     <ifscCode>SBIN0011815</ifscCode>
-    <bankLoc>19881</bankLoc>
+    <bankLoc>19970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Redma</name>
@@ -2238,7 +2301,7 @@
     <contact>0</contact>
     <micrCode>822002524</micrCode>
     <ifscCode>SBIN0011814</ifscCode>
-    <bankLoc>19881</bankLoc>
+    <bankLoc>19970</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basukinath</name>
@@ -2247,7 +2310,7 @@
     <contact>0</contact>
     <micrCode>814002527</micrCode>
     <ifscCode>SBIN0011813</ifscCode>
-    <bankLoc>19861</bankLoc>
+    <bankLoc>19950</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>B.I.T.SINDRI</name>
@@ -2256,7 +2319,7 @@
     <contact>0</contact>
     <micrCode>826002516</micrCode>
     <ifscCode>SBIN0011812</ifscCode>
-    <bankLoc>19860</bankLoc>
+    <bankLoc>19949</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saharsa City</name>
@@ -2265,7 +2328,7 @@
     <contact>0</contact>
     <micrCode>852002004</micrCode>
     <ifscCode>SBIN0011810</ifscCode>
-    <bankLoc>19641</bankLoc>
+    <bankLoc>19730</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bahadurganj</name>
@@ -2274,7 +2337,7 @@
     <contact>0</contact>
     <micrCode>855002004</micrCode>
     <ifscCode>SBIN0011809</ifscCode>
-    <bankLoc>19619</bankLoc>
+    <bankLoc>19708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambedkar Chowk, Gopalganj</name>
@@ -2283,7 +2346,7 @@
     <contact>0</contact>
     <micrCode>841002611</micrCode>
     <ifscCode>SBIN0011808</ifscCode>
-    <bankLoc>19611</bankLoc>
+    <bankLoc>19700</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tekari</name>
@@ -2292,7 +2355,7 @@
     <contact>0</contact>
     <micrCode>823002509</micrCode>
     <ifscCode>SBIN0011807</ifscCode>
-    <bankLoc>19634</bankLoc>
+    <bankLoc>19723</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Garhani</name>
@@ -2301,7 +2364,7 @@
     <contact>0</contact>
     <micrCode>802002608</micrCode>
     <ifscCode>SBIN0011806</ifscCode>
-    <bankLoc>19634</bankLoc>
+    <bankLoc>19723</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sabour</name>
@@ -2310,7 +2373,7 @@
     <contact>0</contact>
     <micrCode>812002022</micrCode>
     <ifscCode>SBIN0011805</ifscCode>
-    <bankLoc>19597</bankLoc>
+    <bankLoc>19686</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAC Kurnool</name>
@@ -2319,7 +2382,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011804</ifscCode>
-    <bankLoc>19478</bankLoc>
+    <bankLoc>19567</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAC Nashik</name>
@@ -2328,7 +2391,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011803</ifscCode>
-    <bankLoc>20124</bankLoc>
+    <bankLoc>20214</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cac, Navi Mumbai</name>
@@ -2337,7 +2400,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011802</ifscCode>
-    <bankLoc>20142</bankLoc>
+    <bankLoc>20232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Currency Administration Cell, Sambalpur</name>
@@ -2346,7 +2409,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011801</ifscCode>
-    <bankLoc>20249</bankLoc>
+    <bankLoc>20339</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Currency Administration Cell, Berhampur</name>
@@ -2355,7 +2418,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011800</ifscCode>
-    <bankLoc>20216</bankLoc>
+    <bankLoc>20306</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>J P Nagar, Mysore</name>
@@ -2364,7 +2427,7 @@
     <contact>0</contact>
     <micrCode>570002011</micrCode>
     <ifscCode>SBIN0011799</ifscCode>
-    <bankLoc>19963</bankLoc>
+    <bankLoc>20053</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nava Naroda</name>
@@ -2373,7 +2436,7 @@
     <contact>0</contact>
     <micrCode>380002717</micrCode>
     <ifscCode>SBIN0011798</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambassa</name>
@@ -2382,7 +2445,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011797</ifscCode>
-    <bankLoc>20450</bankLoc>
+    <bankLoc>20541</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chabua</name>
@@ -2391,7 +2454,7 @@
     <contact>0</contact>
     <micrCode>786002530</micrCode>
     <ifscCode>SBIN0011796</ifscCode>
-    <bankLoc>19555</bankLoc>
+    <bankLoc>19644</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Melaghar</name>
@@ -2400,7 +2463,7 @@
     <contact>0</contact>
     <micrCode>799002526</micrCode>
     <ifscCode>SBIN0011795</ifscCode>
-    <bankLoc>20457</bankLoc>
+    <bankLoc>20548</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mantripukhri</name>
@@ -2409,7 +2472,7 @@
     <contact>0</contact>
     <micrCode>795002516</micrCode>
     <ifscCode>SBIN0011794</ifscCode>
-    <bankLoc>20152</bankLoc>
+    <bankLoc>20242</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kayakuchi</name>
@@ -2418,7 +2481,7 @@
     <contact>0</contact>
     <micrCode>781002527</micrCode>
     <ifscCode>SBIN0011793</ifscCode>
-    <bankLoc>19547</bankLoc>
+    <bankLoc>19636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narol</name>
@@ -2427,7 +2490,7 @@
     <contact>0</contact>
     <micrCode>380002144</micrCode>
     <ifscCode>SBIN0011792</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Prerna Tirth Road</name>
@@ -2436,7 +2499,7 @@
     <contact>0</contact>
     <micrCode>380002143</micrCode>
     <ifscCode>SBIN0011791</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambli</name>
@@ -2445,7 +2508,7 @@
     <contact>0</contact>
     <micrCode>380002142</micrCode>
     <ifscCode>SBIN0011790</ifscCode>
-    <bankLoc>20034</bankLoc>
+    <bankLoc>20124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thakkar Bapa Nagar</name>
@@ -2454,7 +2517,7 @@
     <contact>0</contact>
     <micrCode>380002146</micrCode>
     <ifscCode>SBIN0011789</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Station Road, Maninagar</name>
@@ -2463,7 +2526,7 @@
     <contact>0</contact>
     <micrCode>380002109</micrCode>
     <ifscCode>SBIN0011788</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Awadhpuri Bhopal</name>
@@ -2472,7 +2535,7 @@
     <contact>0</contact>
     <micrCode>462002058</micrCode>
     <ifscCode>SBIN0011787</ifscCode>
-    <bankLoc>20034</bankLoc>
+    <bankLoc>20124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Juinagar</name>
@@ -2481,7 +2544,7 @@
     <contact>0</contact>
     <micrCode>400002226</micrCode>
     <ifscCode>SBIN0011786</ifscCode>
-    <bankLoc>20142</bankLoc>
+    <bankLoc>20232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nerul (EAST)</name>
@@ -2490,7 +2553,7 @@
     <contact>0</contact>
     <micrCode>400002227</micrCode>
     <ifscCode>SBIN0011785</ifscCode>
-    <bankLoc>20142</bankLoc>
+    <bankLoc>20232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baru Sahib</name>
@@ -2499,7 +2562,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011784</ifscCode>
-    <bankLoc>19825</bankLoc>
+    <bankLoc>19914</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sanpada</name>
@@ -2508,7 +2571,7 @@
     <contact>0</contact>
     <micrCode>400002225</micrCode>
     <ifscCode>SBIN0011783</ifscCode>
-    <bankLoc>20131</bankLoc>
+    <bankLoc>20221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahakar Nagar Branch, Pune</name>
@@ -2517,7 +2580,7 @@
     <contact>0</contact>
     <micrCode>411002072</micrCode>
     <ifscCode>SBIN0011782</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Modern School, Bara Khamba Road</name>
@@ -2526,7 +2589,7 @@
     <contact>0</contact>
     <micrCode>110002301</micrCode>
     <ifscCode>SBIN0011781</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agcr Building (ito)</name>
@@ -2535,7 +2598,7 @@
     <contact>0</contact>
     <micrCode>110002302</micrCode>
     <ifscCode>SBIN0011780</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Khandwa Road, Indore</name>
@@ -2544,7 +2607,7 @@
     <contact>0</contact>
     <micrCode>452002029</micrCode>
     <ifscCode>SBIN0011779</ifscCode>
-    <bankLoc>20052</bankLoc>
+    <bankLoc>20142</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Micr  Cheque Processing Centre, Tirunelveli</name>
@@ -2553,7 +2616,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011778</ifscCode>
-    <bankLoc>20418</bankLoc>
+    <bankLoc>20509</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SBI Capital Market Branch, Mumbai</name>
@@ -2562,7 +2625,7 @@
     <contact>0</contact>
     <micrCode>400002224</micrCode>
     <ifscCode>SBIN0011777</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rasmecc-sarc Purnea</name>
@@ -2571,7 +2634,7 @@
     <contact>0</contact>
     <micrCode>854002106</micrCode>
     <ifscCode>SBIN0011776</ifscCode>
-    <bankLoc>19636</bankLoc>
+    <bankLoc>19725</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Smeccc, Raipur</name>
@@ -2580,7 +2643,7 @@
     <contact>0</contact>
     <micrCode>492002027</micrCode>
     <ifscCode>SBIN0011775</ifscCode>
-    <bankLoc>19679</bankLoc>
+    <bankLoc>19768</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Administrative Office II, Hyderabad</name>
@@ -2589,7 +2652,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011774</ifscCode>
-    <bankLoc>19466</bankLoc>
+    <bankLoc>19555</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Document Archival Centre, BHOPAL.</name>
@@ -2598,7 +2661,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011772</ifscCode>
-    <bankLoc>20034</bankLoc>
+    <bankLoc>20124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uthandi</name>
@@ -2607,7 +2670,7 @@
     <contact>0</contact>
     <micrCode>600002163</micrCode>
     <ifscCode>SBIN0011771</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>IIT Gandhinagar</name>
@@ -2616,7 +2679,7 @@
     <contact>0</contact>
     <micrCode>380002106</micrCode>
     <ifscCode>SBIN0011770</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sola Road</name>
@@ -2625,7 +2688,7 @@
     <contact>0</contact>
     <micrCode>380002105</micrCode>
     <ifscCode>SBIN0011769</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>IOC Road</name>
@@ -2634,7 +2697,7 @@
     <contact>0</contact>
     <micrCode>380002104</micrCode>
     <ifscCode>SBIN0011768</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Korriya</name>
@@ -2643,7 +2706,7 @@
     <contact>0</contact>
     <micrCode>241002021</micrCode>
     <ifscCode>SBIN0011767</ifscCode>
-    <bankLoc>20523</bankLoc>
+    <bankLoc>20614</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ITC Mall</name>
@@ -2652,7 +2715,7 @@
     <contact>0</contact>
     <micrCode>232002014</micrCode>
     <ifscCode>SBIN0011766</ifscCode>
-    <bankLoc>20494</bankLoc>
+    <bankLoc>20585</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Iiser Campus</name>
@@ -2661,7 +2724,7 @@
     <contact>0</contact>
     <micrCode>462002057</micrCode>
     <ifscCode>SBIN0011765</ifscCode>
-    <bankLoc>20034</bankLoc>
+    <bankLoc>20124</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>DAC Mohali</name>
@@ -2670,7 +2733,7 @@
     <contact>2147483647</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>SBIN0011764</ifscCode>
-    <bankLoc>20299</bankLoc>
+    <bankLoc>20389</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basant Vihar Colony, Indore</name>
@@ -2679,7 +2742,7 @@
     <contact>0</contact>
     <micrCode>452002028</micrCode>
     <ifscCode>SBIN0011763</ifscCode>
-    <bankLoc>20052</bankLoc>
+    <bankLoc>20142</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Document Archival Centre, Mumbai</name>
@@ -2688,7 +2751,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011762</ifscCode>
-    <bankLoc>20119</bankLoc>
+    <bankLoc>20209</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Document Archival Centre Madurai</name>
@@ -2697,7 +2760,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011761</ifscCode>
-    <bankLoc>20388</bankLoc>
+    <bankLoc>20478</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dac, Chennai</name>
@@ -2706,7 +2769,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011760</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Science City Road Branch, Ahmedabad</name>
@@ -2715,7 +2778,7 @@
     <contact>0</contact>
     <micrCode>380002103</micrCode>
     <ifscCode>SBIN0011759</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Panvel East BR.</name>
@@ -2724,7 +2787,7 @@
     <contact>0</contact>
     <micrCode>400002206</micrCode>
     <ifscCode>SBIN0011758</ifscCode>
-    <bankLoc>20131</bankLoc>
+    <bankLoc>20221</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rasmecc, Udaipur</name>
@@ -2733,7 +2796,7 @@
     <contact>0</contact>
     <micrCode>313002020</micrCode>
     <ifscCode>SBIN0011757</ifscCode>
-    <bankLoc>20359</bankLoc>
+    <bankLoc>20449</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Virar (EAST)</name>
@@ -2742,7 +2805,7 @@
     <contact>0</contact>
     <micrCode>400002228</micrCode>
     <ifscCode>SBIN0011756</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mira Road BR.</name>
@@ -2751,7 +2814,7 @@
     <contact>0</contact>
     <micrCode>400002196</micrCode>
     <ifscCode>SBIN0011755</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gorai BR., Borivali (WEST)</name>
@@ -2760,7 +2823,7 @@
     <contact>0</contact>
     <micrCode>400002199</micrCode>
     <ifscCode>SBIN0011754</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adambakkam, Chennai</name>
@@ -2769,7 +2832,7 @@
     <contact>0</contact>
     <micrCode>600002158</micrCode>
     <ifscCode>SBIN0011753</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandivali</name>
@@ -2778,7 +2841,7 @@
     <contact>0</contact>
     <micrCode>400002203</micrCode>
     <ifscCode>SBIN0011752</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Crawford Market BR.</name>
@@ -2787,7 +2850,7 @@
     <contact>0</contact>
     <micrCode>400002204</micrCode>
     <ifscCode>SBIN0011751</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>BAI KA Bagh</name>
@@ -2796,7 +2859,7 @@
     <contact>0</contact>
     <micrCode>211002060</micrCode>
     <ifscCode>SBIN0011750</ifscCode>
-    <bankLoc>20464</bankLoc>
+    <bankLoc>20555</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nikol Road Branch</name>
@@ -2805,7 +2868,7 @@
     <contact>0</contact>
     <micrCode>380002102</micrCode>
     <ifscCode>SBIN0011749</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thaltej</name>
@@ -2814,7 +2877,7 @@
     <contact>0</contact>
     <micrCode>380002100</micrCode>
     <ifscCode>SBIN0011748</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Iscon Circle</name>
@@ -2823,7 +2886,7 @@
     <contact>0</contact>
     <micrCode>380002101</micrCode>
     <ifscCode>SBIN0011747</ifscCode>
-    <bankLoc>19723</bankLoc>
+    <bankLoc>19812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dilsukhnagar</name>
@@ -2832,7 +2895,7 @@
     <contact>0</contact>
     <micrCode>500002125</micrCode>
     <ifscCode>SBIN0011746</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jubilee Hills</name>
@@ -2841,7 +2904,7 @@
     <contact>0</contact>
     <micrCode>500002124</micrCode>
     <ifscCode>SBIN0011745</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mehdipatnam</name>
@@ -2850,7 +2913,7 @@
     <contact>0</contact>
     <micrCode>500002123</micrCode>
     <ifscCode>SBIN0011744</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ccpc Jodhpur</name>
@@ -2859,7 +2922,7 @@
     <contact>0</contact>
     <micrCode>342002094</micrCode>
     <ifscCode>SBIN0011743</ifscCode>
-    <bankLoc>19679</bankLoc>
+    <bankLoc>19768</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cac, Ghaziabad</name>
@@ -2868,7 +2931,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011742</ifscCode>
-    <bankLoc>20516</bankLoc>
+    <bankLoc>20607</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cac, Noida</name>
@@ -2877,7 +2940,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011741</ifscCode>
-    <bankLoc>20511</bankLoc>
+    <bankLoc>20602</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>City Branch Bilaspur</name>
@@ -2886,7 +2949,7 @@
     <contact>0</contact>
     <micrCode>495002013</micrCode>
     <ifscCode>SBIN0011740</ifscCode>
-    <bankLoc>19657</bankLoc>
+    <bankLoc>19746</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tatibandh</name>
@@ -2895,7 +2958,7 @@
     <contact>0</contact>
     <micrCode>492002025</micrCode>
     <ifscCode>SBIN0011739</ifscCode>
-    <bankLoc>20337</bankLoc>
+    <bankLoc>20427</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thirumurthy Nagar, Chennai</name>
@@ -2904,7 +2967,7 @@
     <contact>0</contact>
     <micrCode>600002153</micrCode>
     <ifscCode>SBIN0011738</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Egmore High Road, Chennai</name>
@@ -2913,7 +2976,7 @@
     <contact>0</contact>
     <micrCode>600002152</micrCode>
     <ifscCode>SBIN0011737</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kelleys, Chennai</name>
@@ -2922,7 +2985,7 @@
     <contact>0</contact>
     <micrCode>600002150</micrCode>
     <ifscCode>SBIN0011736</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>West Velachery</name>
@@ -2931,7 +2994,7 @@
     <contact>0</contact>
     <micrCode>600002155</micrCode>
     <ifscCode>SBIN0011733</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MRC Nagar, Chennai</name>
@@ -2940,7 +3003,7 @@
     <contact>0</contact>
     <micrCode>600002154</micrCode>
     <ifscCode>SBIN0011732</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarc  (stress Asset Resolution Centre) Gorakhpur</name>
@@ -2949,7 +3012,7 @@
     <contact>0</contact>
     <micrCode>273002085</micrCode>
     <ifscCode>SBIN0011731</ifscCode>
-    <bankLoc>20520</bankLoc>
+    <bankLoc>20611</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Govt POLYTECH. College FOR Women, Ludhiana</name>
@@ -2958,7 +3021,7 @@
     <contact>0</contact>
     <micrCode>141002114</micrCode>
     <ifscCode>SBIN0011730</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Currency Administration Cell, Vellore</name>
@@ -2967,7 +3030,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011729</ifscCode>
-    <bankLoc>20431</bankLoc>
+    <bankLoc>20522</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Currency Administration Cell, Nagercoil</name>
@@ -2976,7 +3039,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011728</ifscCode>
-    <bankLoc>20381</bankLoc>
+    <bankLoc>20471</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CAC Erode</name>
@@ -2985,7 +3048,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011727</ifscCode>
-    <bankLoc>20375</bankLoc>
+    <bankLoc>20465</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhuranagar</name>
@@ -2994,7 +3057,7 @@
     <contact>0</contact>
     <micrCode>520002032</micrCode>
     <ifscCode>SBIN0011726</ifscCode>
-    <bankLoc>19477</bankLoc>
+    <bankLoc>19566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padivattom</name>
@@ -3003,7 +3066,7 @@
     <contact>0</contact>
     <micrCode>682002048</micrCode>
     <ifscCode>SBIN0011725</ifscCode>
-    <bankLoc>19995</bankLoc>
+    <bankLoc>20085</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karamana</name>
@@ -3012,7 +3075,7 @@
     <contact>0</contact>
     <micrCode>695002032</micrCode>
     <ifscCode>SBIN0011724</ifscCode>
-    <bankLoc>20022</bankLoc>
+    <bankLoc>20112</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gujjanagundla</name>
@@ -3021,7 +3084,7 @@
     <contact>0</contact>
     <micrCode>520002118</micrCode>
     <ifscCode>SBIN0011723</ifscCode>
-    <bankLoc>19477</bankLoc>
+    <bankLoc>19566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>OLD Mahabalipuram Road</name>
@@ -3030,7 +3093,7 @@
     <contact>0</contact>
     <micrCode>600002149</micrCode>
     <ifscCode>SBIN0011722</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valmikinagar, Chennai</name>
@@ -3039,7 +3102,7 @@
     <contact>0</contact>
     <micrCode>600002157</micrCode>
     <ifscCode>SBIN0011721</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>West Saidapet</name>
@@ -3048,7 +3111,7 @@
     <contact>0</contact>
     <micrCode>600002165</micrCode>
     <ifscCode>SBIN0011720</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sriram Nagar, Chennai</name>
@@ -3057,7 +3120,7 @@
     <contact>0</contact>
     <micrCode>600002164</micrCode>
     <ifscCode>SBIN0011719</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>BYE Pass Road, Velacheri</name>
@@ -3066,7 +3129,7 @@
     <contact>0</contact>
     <micrCode>600002156</micrCode>
     <ifscCode>SBIN0011718</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Avadi RD, Chennai</name>
@@ -3075,7 +3138,7 @@
     <contact>0</contact>
     <micrCode>600002148</micrCode>
     <ifscCode>SBIN0011717</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shenoy Nagar</name>
@@ -3084,7 +3147,7 @@
     <contact>0</contact>
     <micrCode>600002146</micrCode>
     <ifscCode>SBIN0011716</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodungaiyur, Chennai</name>
@@ -3093,7 +3156,7 @@
     <contact>0</contact>
     <micrCode>600002147</micrCode>
     <ifscCode>SBIN0011715</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lukerganj</name>
@@ -3102,7 +3165,7 @@
     <contact>0</contact>
     <micrCode>211002059</micrCode>
     <ifscCode>SBIN0011714</ifscCode>
-    <bankLoc>20464</bankLoc>
+    <bankLoc>20555</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ccpc Panaji</name>
@@ -3111,7 +3174,7 @@
     <contact>0</contact>
     <micrCode>403002100</micrCode>
     <ifscCode>SBIN0011713</ifscCode>
-    <bankLoc>19718</bankLoc>
+    <bankLoc>19807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ccpc, Aurangabad</name>
@@ -3120,7 +3183,7 @@
     <contact>0</contact>
     <micrCode>431002014</micrCode>
     <ifscCode>SBIN0011712</ifscCode>
-    <bankLoc>20471</bankLoc>
+    <bankLoc>20562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pantnagar, Ghatkopar</name>
@@ -3129,7 +3192,7 @@
     <contact>0</contact>
     <micrCode>400002194</micrCode>
     <ifscCode>SBIN0011711</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidyavihar</name>
@@ -3138,7 +3201,7 @@
     <contact>0</contact>
     <micrCode>400002192</micrCode>
     <ifscCode>SBIN0011710</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SME BR., Dadar</name>
@@ -3147,7 +3210,7 @@
     <contact>0</contact>
     <micrCode>400002326</micrCode>
     <ifscCode>SBIN0011709</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hiranandani Estate, Thane</name>
@@ -3156,7 +3219,7 @@
     <contact>0</contact>
     <micrCode>400002205</micrCode>
     <ifscCode>SBIN0011708</ifscCode>
-    <bankLoc>20142</bankLoc>
+    <bankLoc>20232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pokharan Road BR., Thane</name>
@@ -3165,7 +3228,7 @@
     <contact>0</contact>
     <micrCode>400002200</micrCode>
     <ifscCode>SBIN0011707</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Housing Finance BR., Vashi</name>
@@ -3174,7 +3237,7 @@
     <contact>0</contact>
     <micrCode>400002193</micrCode>
     <ifscCode>SBIN0011706</ifscCode>
-    <bankLoc>20142</bankLoc>
+    <bankLoc>20232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SME Branch Chandigarh</name>
@@ -3183,7 +3246,7 @@
     <contact>0</contact>
     <micrCode>160002054</micrCode>
     <ifscCode>SBIN0011705</ifscCode>
-    <bankLoc>20267</bankLoc>
+    <bankLoc>20357</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lankelapalem</name>
@@ -3192,7 +3255,7 @@
     <contact>0</contact>
     <micrCode>530002091</micrCode>
     <ifscCode>SBIN0011704</ifscCode>
-    <bankLoc>19514</bankLoc>
+    <bankLoc>19603</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shendraban</name>
@@ -3201,7 +3264,7 @@
     <contact>0</contact>
     <micrCode>431002016</micrCode>
     <ifscCode>SBIN0011703</ifscCode>
-    <bankLoc>20471</bankLoc>
+    <bankLoc>20562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aurangpura, Aurangabad</name>
@@ -3210,7 +3273,7 @@
     <contact>0</contact>
     <micrCode>431002017</micrCode>
     <ifscCode>SBIN0011702</ifscCode>
-    <bankLoc>20106</bankLoc>
+    <bankLoc>20196</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Warje</name>
@@ -3219,7 +3282,7 @@
     <contact>0</contact>
     <micrCode>411002071</micrCode>
     <ifscCode>SBIN0011701</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vimannagar, Pune</name>
@@ -3228,7 +3291,7 @@
     <contact>0</contact>
     <micrCode>411002066</micrCode>
     <ifscCode>SBIN0011699</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nibm Road, Kondwa</name>
@@ -3237,7 +3300,7 @@
     <contact>0</contact>
     <micrCode>411002065</micrCode>
     <ifscCode>SBIN0011698</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarc, Thane</name>
@@ -3246,7 +3309,7 @@
     <contact>0</contact>
     <micrCode>400002599</micrCode>
     <ifscCode>SBIN0011697</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hindustan Naka BR, Kandivali</name>
@@ -3255,7 +3318,7 @@
     <contact>0</contact>
     <micrCode>400002202</micrCode>
     <ifscCode>SBIN0011696</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mira Bhayandar BR.</name>
@@ -3264,7 +3327,7 @@
     <contact>0</contact>
     <micrCode>400002195</micrCode>
     <ifscCode>SBIN0011695</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Charkop BR., Kandivli</name>
@@ -3273,7 +3336,7 @@
     <contact>0</contact>
     <micrCode>400002191</micrCode>
     <ifscCode>SBIN0011694</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Housing Finance BR., Borivali (WEST)</name>
@@ -3282,7 +3345,7 @@
     <contact>0</contact>
     <micrCode>400002197</micrCode>
     <ifscCode>SBIN0011693</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fort Market (core Power) BR.</name>
@@ -3291,7 +3354,7 @@
     <contact>0</contact>
     <micrCode>400002187</micrCode>
     <ifscCode>SBIN0011692</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandavarkar Lane, Borivali (WEST)</name>
@@ -3300,7 +3363,7 @@
     <contact>0</contact>
     <micrCode>400002190</micrCode>
     <ifscCode>SBIN0011691</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SEZ BR., Andheri (EAST)</name>
@@ -3309,7 +3372,7 @@
     <contact>0</contact>
     <micrCode>400002186</micrCode>
     <ifscCode>SBIN0011690</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shivsagar (sme) BR.</name>
@@ -3318,7 +3381,7 @@
     <contact>0</contact>
     <micrCode>400002188</micrCode>
     <ifscCode>SBIN0011689</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>SME Backbay</name>
@@ -3327,7 +3390,7 @@
     <contact>0</contact>
     <micrCode>400002189</micrCode>
     <ifscCode>SBIN0011688</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Four Bunglow</name>
@@ -3336,7 +3399,7 @@
     <contact>0</contact>
     <micrCode>400002207</micrCode>
     <ifscCode>SBIN0011687</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panchgani</name>
@@ -3345,7 +3408,7 @@
     <contact>0</contact>
     <micrCode>412002322</micrCode>
     <ifscCode>SBIN0011680</ifscCode>
-    <bankLoc>20137</bankLoc>
+    <bankLoc>20227</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonai</name>
@@ -3354,7 +3417,7 @@
     <contact>0</contact>
     <micrCode>414002350</micrCode>
     <ifscCode>SBIN0011679</ifscCode>
-    <bankLoc>20095</bankLoc>
+    <bankLoc>20185</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nighoj</name>
@@ -3363,7 +3426,7 @@
     <contact>0</contact>
     <micrCode>414002349</micrCode>
     <ifscCode>SBIN0011678</ifscCode>
-    <bankLoc>20095</bankLoc>
+    <bankLoc>20185</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadali Bhoi BR., Nasik</name>
@@ -3372,7 +3435,7 @@
     <contact>0</contact>
     <micrCode>423002330</micrCode>
     <ifscCode>SBIN0011677</ifscCode>
-    <bankLoc>20124</bankLoc>
+    <bankLoc>20214</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadgaon Kasba</name>
@@ -3381,7 +3444,7 @@
     <contact>0</contact>
     <micrCode>416002597</micrCode>
     <ifscCode>SBIN0011676</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saguna</name>
@@ -3390,7 +3453,7 @@
     <contact>0</contact>
     <micrCode>800002065</micrCode>
     <ifscCode>SBIN0011675</ifscCode>
-    <bankLoc>19634</bankLoc>
+    <bankLoc>19723</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panchpakhadi BR., Thane</name>
@@ -3399,7 +3462,7 @@
     <contact>0</contact>
     <micrCode>400002201</micrCode>
     <ifscCode>SBIN0011674</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kharghar, Navi Mumbai</name>
@@ -3408,7 +3471,7 @@
     <contact>0</contact>
     <micrCode>400002183</micrCode>
     <ifscCode>SBIN0011673</ifscCode>
-    <bankLoc>20142</bankLoc>
+    <bankLoc>20232</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Link Road BR., Mulund West</name>
@@ -3417,7 +3480,7 @@
     <contact>0</contact>
     <micrCode>400002198</micrCode>
     <ifscCode>SBIN0011672</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tilak Nagar BR., Chembur</name>
@@ -3426,7 +3489,7 @@
     <contact>0</contact>
     <micrCode>400002184</micrCode>
     <ifscCode>SBIN0011670</ifscCode>
-    <bankLoc>20112</bankLoc>
+    <bankLoc>20202</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shivaji Nagar, Nasik</name>
@@ -3435,7 +3498,7 @@
     <contact>0</contact>
     <micrCode>422002020</micrCode>
     <ifscCode>SBIN0011669</ifscCode>
-    <bankLoc>20124</bankLoc>
+    <bankLoc>20214</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Miyapur</name>
@@ -3444,7 +3507,7 @@
     <contact>0</contact>
     <micrCode>500002117</micrCode>
     <ifscCode>SBIN0011668</ifscCode>
-    <bankLoc>19498</bankLoc>
+    <bankLoc>19587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gaddiannaram</name>
@@ -3453,7 +3516,7 @@
     <contact>0</contact>
     <micrCode>500002116</micrCode>
     <ifscCode>SBIN0011667</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramakrishnapuram</name>
@@ -3462,7 +3525,7 @@
     <contact>0</contact>
     <micrCode>500002119</micrCode>
     <ifscCode>SBIN0011666</ifscCode>
-    <bankLoc>19498</bankLoc>
+    <bankLoc>19587</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hydernagar</name>
@@ -3471,7 +3534,7 @@
     <contact>0</contact>
     <micrCode>500002122</micrCode>
     <ifscCode>SBIN0011665</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Industrial Estate, Kukatpally</name>
@@ -3480,7 +3543,7 @@
     <contact>0</contact>
     <micrCode>500002118</micrCode>
     <ifscCode>SBIN0011664</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balaji Peta Branch (rajahmundry)</name>
@@ -3489,7 +3552,7 @@
     <contact>0</contact>
     <micrCode>533002099</micrCode>
     <ifscCode>SBIN0011663</ifscCode>
-    <bankLoc>19459</bankLoc>
+    <bankLoc>19548</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yousufguda</name>
@@ -3498,7 +3561,7 @@
     <contact>0</contact>
     <micrCode>500002114</micrCode>
     <ifscCode>SBIN0011662</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dwarakapuri, Punjagutta</name>
@@ -3507,7 +3570,7 @@
     <contact>0</contact>
     <micrCode>500002120</micrCode>
     <ifscCode>SBIN0011661</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhinagar, Hyderabad</name>
@@ -3516,7 +3579,7 @@
     <contact>0</contact>
     <micrCode>500002113</micrCode>
     <ifscCode>SBIN0011660</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vengalrao Nagar</name>
@@ -3525,7 +3588,7 @@
     <contact>0</contact>
     <micrCode>500002121</micrCode>
     <ifscCode>SBIN0011659</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ashoknagar</name>
@@ -3534,7 +3597,7 @@
     <contact>0</contact>
     <micrCode>500002115</micrCode>
     <ifscCode>SBIN0011658</ifscCode>
-    <bankLoc>19467</bankLoc>
+    <bankLoc>19556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rushikonda</name>
@@ -3543,7 +3606,7 @@
     <contact>0</contact>
     <micrCode>530002047</micrCode>
     <ifscCode>SBIN0011657</ifscCode>
-    <bankLoc>19514</bankLoc>
+    <bankLoc>19603</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maddilapalem</name>
@@ -3552,7 +3615,7 @@
     <contact>0</contact>
     <micrCode>530002089</micrCode>
     <ifscCode>SBIN0011656</ifscCode>
-    <bankLoc>19514</bankLoc>
+    <bankLoc>19603</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shrinagar Colony</name>
@@ -3561,7 +3624,7 @@
     <contact>0</contact>
     <micrCode>600002144</micrCode>
     <ifscCode>SBIN0011655</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gandhi Nagar, Adyar</name>
@@ -3570,7 +3633,7 @@
     <contact>0</contact>
     <micrCode>600002143</micrCode>
     <ifscCode>SBIN0011654</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jafferkhanpet</name>
@@ -3579,7 +3642,7 @@
     <contact>0</contact>
     <micrCode>600002142</micrCode>
     <ifscCode>SBIN0011653</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ritchie Street Chennai</name>
@@ -3588,7 +3651,7 @@
     <contact>0</contact>
     <micrCode>600002139</micrCode>
     <ifscCode>SBIN0011652</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vishnupuri</name>
@@ -3597,7 +3660,7 @@
     <contact>0</contact>
     <micrCode>431002360</micrCode>
     <ifscCode>SBIN0011651</ifscCode>
-    <bankLoc>20098</bankLoc>
+    <bankLoc>20188</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bisawar</name>
@@ -3606,7 +3669,7 @@
     <contact>0</contact>
     <micrCode>281002302</micrCode>
     <ifscCode>SBIN0011650</ifscCode>
-    <bankLoc>20524</bankLoc>
+    <bankLoc>20615</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahpau</name>
@@ -3615,7 +3678,7 @@
     <contact>0</contact>
     <micrCode>281002307</micrCode>
     <ifscCode>SBIN0011649</ifscCode>
-    <bankLoc>20524</bankLoc>
+    <bankLoc>20615</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambegaon</name>
@@ -3624,7 +3687,7 @@
     <contact>0</contact>
     <micrCode>411002074</micrCode>
     <ifscCode>SBIN0011648</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koregaon Bhima</name>
@@ -3633,7 +3696,7 @@
     <contact>0</contact>
     <micrCode>411002070</micrCode>
     <ifscCode>SBIN0011647</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nigdi, Pune</name>
@@ -3642,7 +3705,7 @@
     <contact>0</contact>
     <micrCode>411002068</micrCode>
     <ifscCode>SBIN0011646</ifscCode>
-    <bankLoc>20130</bankLoc>
+    <bankLoc>20220</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kavathe Mahankal</name>
@@ -3651,7 +3714,7 @@
     <contact>0</contact>
     <micrCode>416002351</micrCode>
     <ifscCode>SBIN0011645</ifscCode>
-    <bankLoc>20136</bankLoc>
+    <bankLoc>20226</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shirala</name>
@@ -3660,7 +3723,7 @@
     <contact>0</contact>
     <micrCode>415002352</micrCode>
     <ifscCode>SBIN0011644</ifscCode>
-    <bankLoc>20136</bankLoc>
+    <bankLoc>20226</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gomtinagar Phase-ii</name>
@@ -3669,7 +3732,7 @@
     <contact>0</contact>
     <micrCode>226002058</micrCode>
     <ifscCode>SBIN0011643</ifscCode>
-    <bankLoc>20551</bankLoc>
+    <bankLoc>20642</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saadatganj</name>
@@ -3678,7 +3741,7 @@
     <contact>0</contact>
     <micrCode>226002057</micrCode>
     <ifscCode>SBIN0011642</ifscCode>
-    <bankLoc>20551</bankLoc>
+    <bankLoc>20642</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jalali</name>
@@ -3687,7 +3750,7 @@
     <contact>0</contact>
     <micrCode>202002128</micrCode>
     <ifscCode>SBIN0011641</ifscCode>
-    <bankLoc>20463</bankLoc>
+    <bankLoc>20554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kauria Ganj</name>
@@ -3696,7 +3759,7 @@
     <contact>0</contact>
     <micrCode>202002129</micrCode>
     <ifscCode>SBIN0011640</ifscCode>
-    <bankLoc>20524</bankLoc>
+    <bankLoc>20615</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jethara</name>
@@ -3705,7 +3768,7 @@
     <contact>0</contact>
     <micrCode>207002247</micrCode>
     <ifscCode>SBIN0011639</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trans Yamuna, Agra</name>
@@ -3714,7 +3777,7 @@
     <contact>0</contact>
     <micrCode>282002806</micrCode>
     <ifscCode>SBIN0011638</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bodla, Agra</name>
@@ -3723,7 +3786,7 @@
     <contact>0</contact>
     <micrCode>282002127</micrCode>
     <ifscCode>SBIN0011637</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Clearing CPC Mysore</name>
@@ -3732,7 +3795,7 @@
     <contact>0</contact>
     <micrCode>570002001</micrCode>
     <ifscCode>SBIN0011636</ifscCode>
-    <bankLoc>19963</bankLoc>
+    <bankLoc>20053</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhargain</name>
@@ -3741,7 +3804,7 @@
     <contact>0</contact>
     <micrCode>207002249</micrCode>
     <ifscCode>SBIN0011635</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purdil Nagar</name>
@@ -3750,7 +3813,7 @@
     <contact>0</contact>
     <micrCode>204002114</micrCode>
     <ifscCode>SBIN0011634</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mendu</name>
@@ -3759,7 +3822,7 @@
     <contact>0</contact>
     <micrCode>204002102</micrCode>
     <ifscCode>SBIN0011633</ifscCode>
-    <bankLoc>20559</bankLoc>
+    <bankLoc>20650</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bilram</name>
@@ -3768,7 +3831,7 @@
     <contact>0</contact>
     <micrCode>207002124</micrCode>
     <ifscCode>SBIN0011632</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bilram Gate, Kasganj</name>
@@ -3777,7 +3840,7 @@
     <contact>0</contact>
     <micrCode>207002123</micrCode>
     <ifscCode>SBIN0011631</ifscCode>
-    <bankLoc>20524</bankLoc>
+    <bankLoc>20615</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Golaghat Road</name>
@@ -3786,7 +3849,7 @@
     <contact>0</contact>
     <micrCode>797002155</micrCode>
     <ifscCode>SBIN0011630</ifscCode>
-    <bankLoc>20183</bankLoc>
+    <bankLoc>20273</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>OLD Market</name>
@@ -3795,7 +3858,7 @@
     <contact>0</contact>
     <micrCode>797002156</micrCode>
     <ifscCode>SBIN0011629</ifscCode>
-    <bankLoc>20183</bankLoc>
+    <bankLoc>20273</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ladthlaboh</name>
@@ -3804,7 +3867,7 @@
     <contact>0</contact>
     <micrCode>793002599</micrCode>
     <ifscCode>SBIN0011628</ifscCode>
-    <bankLoc>20162</bankLoc>
+    <bankLoc>20252</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rynjah Bazar</name>
@@ -3813,7 +3876,7 @@
     <contact>0</contact>
     <micrCode>793002017</micrCode>
     <ifscCode>SBIN0011627</ifscCode>
-    <bankLoc>20162</bankLoc>
+    <bankLoc>20252</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Porompat</name>
@@ -3822,7 +3885,7 @@
     <contact>0</contact>
     <micrCode>795002518</micrCode>
     <ifscCode>SBIN0011626</ifscCode>
-    <bankLoc>20151</bankLoc>
+    <bankLoc>20241</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Demow</name>
@@ -3831,7 +3894,7 @@
     <contact>0</contact>
     <micrCode>785002351</micrCode>
     <ifscCode>SBIN0011625</ifscCode>
-    <bankLoc>19580</bankLoc>
+    <bankLoc>19669</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chapakhowa</name>
@@ -3840,7 +3903,7 @@
     <contact>0</contact>
     <micrCode>786002575</micrCode>
     <ifscCode>SBIN0011624</ifscCode>
-    <bankLoc>19586</bankLoc>
+    <bankLoc>19675</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aalo  Bazar</name>
@@ -3849,7 +3912,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>SBIN0011623</ifscCode>
-    <bankLoc>19545</bankLoc>
+    <bankLoc>19634</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koloriang</name>
@@ -3858,7 +3921,7 @@
     <contact>0</contact>
     <micrCode>791002504</micrCode>
     <ifscCode>SBIN0011622</ifscCode>
-    <bankLoc>19533</bankLoc>
+    <bankLoc>19622</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhirenpara</name>
@@ -3867,7 +3930,7 @@
     <contact>0</contact>
     <micrCode>781002043</micrCode>
     <ifscCode>SBIN0011621</ifscCode>
-    <bankLoc>19565</bankLoc>
+    <bankLoc>19654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>ZOO (R G Baruah) Road</name>
@@ -3876,7 +3939,7 @@
     <contact>0</contact>
     <micrCode>781002042</micrCode>
     <ifscCode>SBIN0011620</ifscCode>
-    <bankLoc>19565</bankLoc>
+    <bankLoc>19654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sualkuchi</name>
@@ -3885,7 +3948,7 @@
     <contact>0</contact>
     <micrCode>781002525</micrCode>
     <ifscCode>SBIN0011619</ifscCode>
-    <bankLoc>19565</bankLoc>
+    <bankLoc>19654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Goalpara Bazar</name>
@@ -3894,7 +3957,7 @@
     <contact>0</contact>
     <micrCode>783002203</micrCode>
     <ifscCode>SBIN0011618</ifscCode>
-    <bankLoc>19556</bankLoc>
+    <bankLoc>19645</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barpeta Bazar</name>
@@ -3903,7 +3966,7 @@
     <contact>0</contact>
     <micrCode>781002666</micrCode>
     <ifscCode>SBIN0011617</ifscCode>
-    <bankLoc>19547</bankLoc>
+    <bankLoc>19636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonapur Branch</name>
@@ -3912,7 +3975,7 @@
     <contact>0</contact>
     <micrCode>781002526</micrCode>
     <ifscCode>SBIN0011616</ifscCode>
-    <bankLoc>19565</bankLoc>
+    <bankLoc>19654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhupdhara</name>
@@ -3921,7 +3984,7 @@
     <contact>0</contact>
     <micrCode>783002522</micrCode>
     <ifscCode>SBIN0011615</ifscCode>
-    <bankLoc>19551</bankLoc>
+    <bankLoc>19640</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Baihata Chariali</name>
@@ -3930,7 +3993,7 @@
     <contact>0</contact>
     <micrCode>781002524</micrCode>
     <ifscCode>SBIN0011614</ifscCode>
-    <bankLoc>19565</bankLoc>
+    <bankLoc>19654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramkrishna Nagar</name>
@@ -3939,7 +4002,7 @@
     <contact>0</contact>
     <micrCode>788002521</micrCode>
     <ifscCode>SBIN0011613</ifscCode>
-    <bankLoc>19549</bankLoc>
+    <bankLoc>19638</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lakhipur</name>
@@ -3948,7 +4011,7 @@
     <contact>0</contact>
     <micrCode>788002520</micrCode>
     <ifscCode>SBIN0011612</ifscCode>
-    <bankLoc>19549</bankLoc>
+    <bankLoc>19638</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sarthebari</name>
@@ -3957,7 +4020,7 @@
     <contact>0</contact>
     <micrCode>781002522</micrCode>
     <ifscCode>SBIN0011611</ifscCode>
-    <bankLoc>19547</bankLoc>
+    <bankLoc>19636</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mukalmua</name>
@@ -3966,7 +4029,7 @@
     <contact>0</contact>
     <micrCode>781002528</micrCode>
     <ifscCode>SBIN0011610</ifscCode>
-    <bankLoc>19578</bankLoc>
+    <bankLoc>19667</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tihu</name>
@@ -3975,7 +4038,7 @@
     <contact>0</contact>
     <micrCode>781002523</micrCode>
     <ifscCode>SBIN0011609</ifscCode>
-    <bankLoc>19578</bankLoc>
+    <bankLoc>19667</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kampur Town</name>
@@ -3984,7 +4047,7 @@
     <contact>0</contact>
     <micrCode>782002105</micrCode>
     <ifscCode>SBIN0011608</ifscCode>
-    <bankLoc>19565</bankLoc>
+    <bankLoc>19654</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panki</name>
@@ -3993,7 +4056,7 @@
     <contact>0</contact>
     <micrCode>208002077</micrCode>
     <ifscCode>SBIN0011607</ifscCode>
-    <bankLoc>20539</bankLoc>
+    <bankLoc>20630</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nelson Manickam Road, Chennai</name>
@@ -4002,7 +4065,7 @@
     <contact>0</contact>
     <micrCode>600002140</micrCode>
     <ifscCode>SBIN0011606</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rangarajapuram</name>
@@ -4011,7 +4074,7 @@
     <contact>0</contact>
     <micrCode>600002141</micrCode>
     <ifscCode>SBIN0011605</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mmda Colony, Chennai</name>
@@ -4020,7 +4083,7 @@
     <contact>0</contact>
     <micrCode>600002151</micrCode>
     <ifscCode>SBIN0011604</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>G A Road  Chennai</name>
@@ -4029,7 +4092,7 @@
     <contact>0</contact>
     <micrCode>600002145</micrCode>
     <ifscCode>SBIN0011603</ifscCode>
-    <bankLoc>20367</bankLoc>
+    <bankLoc>20457</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pratap  Nagar, Jodhpur</name>
@@ -4038,7 +4101,7 @@
     <contact>0</contact>
     <micrCode>342002022</micrCode>
     <ifscCode>SBIN0011602</ifscCode>
-    <bankLoc>20337</bankLoc>
+    <bankLoc>20427</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Queens Road, Jaipur</name>
@@ -4047,7 +4110,7 @@
     <contact>0</contact>
     <micrCode>302002042</micrCode>
     <ifscCode>SBIN0011601</ifscCode>
-    <bankLoc>20331</bankLoc>
+    <bankLoc>20421</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector 44 Noida</name>
@@ -4056,7 +4119,7 @@
     <contact>0</contact>
     <micrCode>110002575</micrCode>
     <ifscCode>SBIN0011600</ifscCode>
-    <bankLoc>20509</bankLoc>
+    <bankLoc>20600</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jiroli Dhoom Singh</name>
@@ -4065,7 +4128,7 @@
     <contact>0</contact>
     <micrCode>202002280</micrCode>
     <ifscCode>SBIN0011599</ifscCode>
-    <bankLoc>20463</bankLoc>
+    <bankLoc>20554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Marhera</name>
@@ -4074,7 +4137,7 @@
     <contact>0</contact>
     <micrCode>207002040</micrCode>
     <ifscCode>SBIN0011598</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sidhpura</name>
@@ -4083,7 +4146,7 @@
     <contact>0</contact>
     <micrCode>281002331</micrCode>
     <ifscCode>SBIN0011597</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patiyali</name>
@@ -4092,7 +4155,7 @@
     <contact>0</contact>
     <micrCode>207002243</micrCode>
     <ifscCode>SBIN0011596</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kheragarh</name>
@@ -4101,7 +4164,7 @@
     <contact>0</contact>
     <micrCode>283002121</micrCode>
     <ifscCode>SBIN0011595</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pinahat</name>
@@ -4110,7 +4173,7 @@
     <contact>0</contact>
     <micrCode>283002123</micrCode>
     <ifscCode>SBIN0011594</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonkh</name>
@@ -4119,7 +4182,7 @@
     <contact>0</contact>
     <micrCode>281002300</micrCode>
     <ifscCode>SBIN0011593</ifscCode>
-    <bankLoc>20461</bankLoc>
+    <bankLoc>20552</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Surir Kalan Bangar</name>
@@ -4128,7 +4191,7 @@
     <contact>0</contact>
     <micrCode>281002205</micrCode>
     <ifscCode>SBIN0011592</ifscCode>
-    <bankLoc>20559</bankLoc>
+    <bankLoc>20650</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sindi</name>
@@ -4137,7 +4200,7 @@
     <contact>0</contact>
     <micrCode>442002359</micrCode>
     <ifscCode>SBIN0011591</ifscCode>
-    <bankLoc>20121</bankLoc>
+    <bankLoc>20211</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dabki Road, Akola</name>
@@ -4146,7 +4209,7 @@
     <contact>0</contact>
     <micrCode>444002358</micrCode>
     <ifscCode>SBIN0011590</ifscCode>
-    <bankLoc>20096</bankLoc>
+    <bankLoc>20186</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sindewahi</name>
@@ -4155,7 +4218,7 @@
     <contact>0</contact>
     <micrCode>441002361</micrCode>
     <ifscCode>SBIN0011589</ifscCode>
-    <bankLoc>20121</bankLoc>
+    <bankLoc>20211</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MUL</name>
@@ -4164,7 +4227,7 @@
     <contact>0</contact>
     <micrCode>441002362</micrCode>
     <ifscCode>SBIN0011588</ifscCode>
-    <bankLoc>20121</bankLoc>
+    <bankLoc>20211</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narendra Nagar, Nagpur</name>
@@ -4173,7 +4236,7 @@
     <contact>0</contact>
     <micrCode>440002039</micrCode>
     <ifscCode>SBIN0011587</ifscCode>
-    <bankLoc>20121</bankLoc>
+    <bankLoc>20211</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tripri Patiala</name>
@@ -4182,7 +4245,7 @@
     <contact>0</contact>
     <micrCode>147002005</micrCode>
     <ifscCode>SBIN0011586</ifscCode>
-    <bankLoc>20297</bankLoc>
+    <bankLoc>20387</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector 18 Chandigarh</name>
@@ -4191,7 +4254,7 @@
     <contact>0</contact>
     <micrCode>160002053</micrCode>
     <ifscCode>SBIN0011585</ifscCode>
-    <bankLoc>19659</bankLoc>
+    <bankLoc>19748</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>NEW Sabzi Mandi</name>
@@ -4200,7 +4263,7 @@
     <contact>0</contact>
     <micrCode>144002030</micrCode>
     <ifscCode>SBIN0011584</ifscCode>
-    <bankLoc>20283</bankLoc>
+    <bankLoc>20373</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Samrala Road Ludhiana</name>
@@ -4209,7 +4272,7 @@
     <contact>0</contact>
     <micrCode>141002037</micrCode>
     <ifscCode>SBIN0011583</ifscCode>
-    <bankLoc>20287</bankLoc>
+    <bankLoc>20377</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Majitha Road Amritsar</name>
@@ -4218,7 +4281,7 @@
     <contact>0</contact>
     <micrCode>143002020</micrCode>
     <ifscCode>SBIN0011582</ifscCode>
-    <bankLoc>20262</bankLoc>
+    <bankLoc>20352</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Afzalpur</name>
@@ -4227,7 +4290,7 @@
     <contact>0</contact>
     <micrCode>585002301</micrCode>
     <ifscCode>SBIN0011581</ifscCode>
-    <bankLoc>19947</bankLoc>
+    <bankLoc>20037</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aland</name>
@@ -4236,7 +4299,7 @@
     <contact>0</contact>
     <micrCode>585002302</micrCode>
     <ifscCode>SBIN0011580</ifscCode>
-    <bankLoc>19947</bankLoc>
+    <bankLoc>20037</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sedam</name>
@@ -4245,7 +4308,7 @@
     <contact>0</contact>
     <micrCode>585002222</micrCode>
     <ifscCode>SBIN0011579</ifscCode>
-    <bankLoc>19947</bankLoc>
+    <bankLoc>20037</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aurad</name>
@@ -4254,7 +4317,7 @@
     <contact>0</contact>
     <micrCode>585002326</micrCode>
     <ifscCode>SBIN0011578</ifscCode>
-    <bankLoc>19919</bankLoc>
+    <bankLoc>20009</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandamunda</name>
@@ -4263,7 +4326,7 @@
     <contact>0</contact>
     <micrCode>770002077</micrCode>
     <ifscCode>SBIN0011577</ifscCode>
-    <bankLoc>20254</bankLoc>
+    <bankLoc>20344</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhanupali</name>
@@ -4272,7 +4335,7 @@
     <contact>0</contact>
     <micrCode>768002067</micrCode>
     <ifscCode>SBIN0011576</ifscCode>
-    <bankLoc>20249</bankLoc>
+    <bankLoc>20339</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Markatnagar</name>
@@ -4281,7 +4344,7 @@
     <contact>0</contact>
     <micrCode>753002023</micrCode>
     <ifscCode>SBIN0011575</ifscCode>
-    <bankLoc>20211</bankLoc>
+    <bankLoc>20301</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rail Kunj</name>
@@ -4290,7 +4353,7 @@
     <contact>0</contact>
     <micrCode>751002040</micrCode>
     <ifscCode>SBIN0011574</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jayadev Vihar</name>
@@ -4299,7 +4362,7 @@
     <contact>0</contact>
     <micrCode>751002039</micrCode>
     <ifscCode>SBIN0011573</ifscCode>
-    <bankLoc>20231</bankLoc>
+    <bankLoc>20321</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hailang</name>
@@ -4308,7 +4371,7 @@
     <contact>0</contact>
     <micrCode>246002572</micrCode>
     <ifscCode>SBIN0011572</ifscCode>
-    <bankLoc>20624</bankLoc>
+    <bankLoc>20715</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Piran Kaliyar</name>
@@ -4317,7 +4380,7 @@
     <contact>0</contact>
     <micrCode>247002058</micrCode>
     <ifscCode>SBIN0011571</ifscCode>
-    <bankLoc>20626</bankLoc>
+    <bankLoc>20717</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector-31, Gurgaon</name>
@@ -4326,7 +4389,7 @@
     <contact>0</contact>
     <micrCode>110002481</micrCode>
     <ifscCode>SBIN0011569</ifscCode>
-    <bankLoc>19779</bankLoc>
+    <bankLoc>19868</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Secotr-15, Gurgaon</name>
@@ -4335,7 +4398,7 @@
     <contact>0</contact>
     <micrCode>110002482</micrCode>
     <ifscCode>SBIN0011568</ifscCode>
-    <bankLoc>19779</bankLoc>
+    <bankLoc>19868</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raja Garden Chowk, NEW Delhi</name>
@@ -4344,7 +4407,7 @@
     <contact>0</contact>
     <micrCode>110002476</micrCode>
     <ifscCode>SBIN0011567</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector-11, Dwarka, NEW Delhi</name>
@@ -4353,7 +4416,7 @@
     <contact>0</contact>
     <micrCode>110002483</micrCode>
     <ifscCode>SBIN0011566</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sector-7, Dwarka, NEW Delhi</name>
@@ -4362,7 +4425,7 @@
     <contact>0</contact>
     <micrCode>110002475</micrCode>
     <ifscCode>SBIN0011565</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palam Dabri MOR</name>
@@ -4371,7 +4434,7 @@
     <contact>0</contact>
     <micrCode>110002583</micrCode>
     <ifscCode>SBIN0011564</ifscCode>
-    <bankLoc>19708</bankLoc>
+    <bankLoc>19797</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Togore Garden, NEW Delhi</name>
@@ -4380,7 +4443,7 @@
     <contact>0</contact>
     <micrCode>110002477</micrCode>
     <ifscCode>SBIN0011563</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vasant Kunj Mall</name>
@@ -4389,7 +4452,7 @@
     <contact>0</contact>
     <micrCode>110002474</micrCode>
     <ifscCode>SBIN0011562</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>I P Extension</name>
@@ -4398,7 +4461,7 @@
     <contact>0</contact>
     <micrCode>110002478</micrCode>
     <ifscCode>SBIN0011561</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mayur Vihar Phase III</name>
@@ -4407,7 +4470,7 @@
     <contact>0</contact>
     <micrCode>110002470</micrCode>
     <ifscCode>SBIN0011560</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vivek Vihar</name>
@@ -4416,7 +4479,7 @@
     <contact>0</contact>
     <micrCode>110002480</micrCode>
     <ifscCode>SBIN0011559</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yamuna Vihar</name>
@@ -4425,7 +4488,7 @@
     <contact>0</contact>
     <micrCode>110002479</micrCode>
     <ifscCode>SBIN0011558</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>19800</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Srinivasanagar, Tiruchirapalli</name>
@@ -4434,69 +4497,6 @@
     <contact>0</contact>
     <micrCode>620002026</micrCode>
     <ifscCode>SBIN0011557</ifscCode>
-    <bankLoc>20413</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Charthawal</name>
-    <city>Muzaffarnagar</city>
-    <address>Dist, Muzaffarnagarstate, Uttar, Pradesh</address>
-    <contact>0</contact>
-    <micrCode>251002032</micrCode>
-    <ifscCode>SBIN0011556</ifscCode>
-    <bankLoc>20564</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>SEC 21 C Faridabad</name>
-    <city>Faridabad</city>
-    <address>SEC 21 C Faridabad, 148, Scf, SEC 21 C Faridabad, Haryana, Distfaridabad121001</address>
-    <contact>0</contact>
-    <micrCode>110002304</micrCode>
-    <ifscCode>SBIN0011555</ifscCode>
-    <bankLoc>19775</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sangam Vihar</name>
-    <city>Newdelhi</city>
-    <address>SANGAM.VIHAR, D4.BY.83.RATIA.MARG, GROUND.FLOOR, NEW.DELHI, DISTNEW.DELHI110062</address>
-    <contact>0</contact>
-    <micrCode>110002487</micrCode>
-    <ifscCode>SBIN0011554</ifscCode>
-    <bankLoc>19711</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Jasola</name>
-    <city>Delhi</city>
-    <address>1ST Floor, Umak, Fc33, Plot NO.8, Jasola, NEW Delhi, Distdelhi110025</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>SBIN0011553</ifscCode>
-    <bankLoc>19708</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Hindu RAO Hospital Delhi</name>
-    <city>Delhi</city>
-    <address>Hindu RAO Hospital, Delhi, Malka Ganj, Delhi, Delhi, Dist Delhi 110007</address>
-    <contact>0</contact>
-    <micrCode>110002779</micrCode>
-    <ifscCode>SBIN0011552</ifscCode>
-    <bankLoc>19708</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Rohini Sec-24</name>
-    <city>Delhi</city>
-    <address>CS, BY, OC, F,no7, Best, Mega, Mall, First, Floor, Sec24, Rohini, Delhi, 11085</address>
-    <contact>0</contact>
-    <micrCode>110002469</micrCode>
-    <ifscCode>SBIN0011551</ifscCode>
-    <bankLoc>19711</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>Sector-11 Rohini, Delhi</name>
-    <city>Delhi</city>
-    <address>Sector 11, Rohini, Pascon Building, Garg Trade Centre, Delhi110085</address>
-    <contact>0</contact>
-    <micrCode>110002303</micrCode>
-    <ifscCode>SBIN0011550</ifscCode>
-    <bankLoc>19711</bankLoc>
+    <bankLoc>20504</bankLoc>
   </bankbranch>
 </bankBranchs>

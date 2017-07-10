@@ -3,16 +3,17 @@ package com.ashoksm.exceltoxml;
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 //9
 public class IFSCStateAndDistrictStringArrayGenerator {
@@ -217,29 +218,34 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 		BANK_NAMES.add("AU Small Finance Bank Ltd");
 		BANK_NAMES.add("Paytm Payments Bank Ltd");
 		BANK_NAMES.add("The Sindhudurg District Central Coop Bank Ltd");
+		BANK_NAMES.add("Fino Payments Bank");
 	}
 
 	public static void main(String[] args) throws Exception {
 		List<District> districts = new ArrayList<District>();
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
-			if (!bank.getName().equals("BankNames.xls") && !bank.getName().startsWith("BankBranchAddress")) {
+			if (!bank.getName().startsWith("BankNames") && !bank.getName().startsWith("BankBranchAddress")) {
 				String bankName = bank.getName().substring(0, bank.getName().lastIndexOf("."));
 				if (bankName.endsWith("0") || bankName.endsWith("1") || bankName.endsWith("2")
 						|| bankName.endsWith("3")) {
 					bankName = bankName.substring(0, bankName.length() - 1);
 				}
 				FileInputStream file = new FileInputStream(bank);
-				// Get the workbook instance for XLS file
-				HSSFWorkbook workbook = new HSSFWorkbook(file);
+
+				// Get the workbook instance
+				Workbook workBook;
+				if (bank.getName().toLowerCase().endsWith("xls")) {
+					workBook = new HSSFWorkbook(file);
+				} else {
+					workBook = new XSSFWorkbook(file);
+				}
 
 				// Get first sheet from the workbook
-				HSSFSheet sheet = workbook.getSheetAt(0);
-				Iterator<Row> rowIterator = sheet.iterator();
+				Sheet sheet = workBook.getSheetAt(0);
 				District district = null;
 				String previousRow = null;
-				while (rowIterator.hasNext()) {
-					Row row = rowIterator.next();
+				for (Row row : sheet) {
 					String currentRow = row.getCell(0).getStringCellValue();
 					if ("District:".equalsIgnoreCase(currentRow)) {
 						district = new District();
@@ -252,7 +258,7 @@ public class IFSCStateAndDistrictStringArrayGenerator {
 					}
 					previousRow = currentRow;
 				}
-				workbook.close();
+				workBook.close();
 			}
 		}
 

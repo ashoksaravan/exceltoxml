@@ -6,16 +6,18 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import com.thoughtworks.xstream.XStream;
+
 //6
 public class IfscXmlGenerator {
 
@@ -29,7 +31,7 @@ public class IfscXmlGenerator {
 		loadBankAddMap(args[0]);
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
-			if (!bank.getName().equals("BankNames.xls") && !bank.getName().startsWith("BankBranchAddress")) {
+			if (!bank.getName().startsWith("BankNames") && !bank.getName().startsWith("BankBranchAddress")) {
 				System.out.println("***** " + bank.getName() + " *****");
 				List<BankBranch> bankBranchs = new ArrayList<BankBranch>();
 				bankBranchs.addAll(buildBanks(bank));
@@ -42,16 +44,14 @@ public class IfscXmlGenerator {
 	}
 
 	private static void loadBankAddMap(String loc) throws Exception {
-		File bankAddFile = new File(loc + "/BankBranchAddress_1.xls");
+		File bankAddFile = new File(loc + "/BankBranchAddress_1.xlsx");
 		FileInputStream file = new FileInputStream(bankAddFile);
 		// Get the workbook instance for XLS file
-		HSSFWorkbook workbook = new HSSFWorkbook(file);
+		Workbook workbook = new XSSFWorkbook(file);
 
 		// Get first sheet from the workbook
-		HSSFSheet sheet = workbook.getSheetAt(0);
-		Iterator<Row> rowIterator = sheet.iterator();
-		while (rowIterator.hasNext()) {
-			Row row = rowIterator.next();
+		Sheet sheet = workbook.getSheetAt(0);
+		for (Row row : sheet) {
 			if (row.getCell(0).getCellType() == Cell.CELL_TYPE_NUMERIC) {
 				String key = row.getCell(1).getStringCellValue().replaceAll(" ", "")
 						+ row.getCell(3).getStringCellValue() + row.getCell(2).getStringCellValue();
@@ -71,19 +71,22 @@ public class IfscXmlGenerator {
 		FileInputStream file = new FileInputStream(bankFile);
 		List<BankBranch> bankBranchs = new ArrayList<BankBranch>();
 
-		// Get the workbook instance for XLS file
-		HSSFWorkbook workbook = new HSSFWorkbook(file);
+		// Get the workbook instance
+		Workbook workBook;
+		if (bankFile.getName().toLowerCase().endsWith("xls")) {
+			workBook = new HSSFWorkbook(file);
+		} else {
+			workBook = new XSSFWorkbook(file);
+		}
 
 		// Get first sheet from the workbook
-		HSSFSheet sheet = workbook.getSheetAt(0);
+		Sheet sheet = workBook.getSheetAt(0);
 
 		BankBranch bankBranch = null;
 		String key = null;
 
 		// Iterate through each rows from first sheet
-		Iterator<Row> rowIterator = sheet.iterator();
-		while (rowIterator.hasNext()) {
-			Row row = rowIterator.next();
+		for (Row row : sheet) {
 			String cellHeader = "";
 			String cellValue = "";
 
@@ -126,7 +129,7 @@ public class IfscXmlGenerator {
 				key = key + cellValue;
 			}
 		}
-		workbook.close();
+		workBook.close();
 		return bankBranchs;
 	}
 

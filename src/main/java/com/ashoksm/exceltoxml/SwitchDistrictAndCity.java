@@ -4,12 +4,13 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 
-import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 //2
 public class SwitchDistrictAndCity {
 
@@ -18,32 +19,28 @@ public class SwitchDistrictAndCity {
 		for (File file : root.listFiles()) {
 			System.out.println(file.getName());
 			FileInputStream inputStream = new FileInputStream(file);
-			// Get the workbook instance for XLS file
-			HSSFWorkbook workBook = new HSSFWorkbook(inputStream);
+			// Get the workbook instance
+			Workbook workBook;
+			if (file.getName().toLowerCase().endsWith("xls")) {
+				workBook = new HSSFWorkbook(inputStream);
+			} else {
+				workBook = new XSSFWorkbook(inputStream);
+			}
 
 			// Get first sheet from the workbook
-			HSSFSheet bankSheet = workBook.getSheetAt(0);
-			// Iterate through each rows from first sheet
-			Iterator<Row> rowIterator = bankSheet.iterator();
-			Set<String> cities = new HashSet<>(); 
-			Set<String> districts = new HashSet<>(); 
-			boolean flag = true;
-			while (rowIterator.hasNext()) {
-				Row row = rowIterator.next();
-				if(flag) {
-					flag = false;
+			Sheet bankSheet = workBook.getSheetAt(0);
+			Set<String> cities = new HashSet<>();
+			Set<String> districts = new HashSet<>();
+			for (Row row : bankSheet) {
+				if (row.getRowNum() == 0) {
 					continue;
 				}
 				cities.add(row.getCell(6).getStringCellValue());
 				districts.add(row.getCell(7).getStringCellValue());
 			}
-			if(districts.size() > cities.size()) {
-				Iterator<Row> rowIt = bankSheet.iterator();
-				flag = true;
-				while (rowIt.hasNext()) {
-					Row row = rowIt.next();
-					if(flag) {
-						flag = false;
+			if (districts.size() > cities.size()) {
+				for (Row row : bankSheet) {
+					if (row.getRowNum() == 0) {
 						continue;
 					}
 					System.out.println(row.getCell(0).getStringCellValue());

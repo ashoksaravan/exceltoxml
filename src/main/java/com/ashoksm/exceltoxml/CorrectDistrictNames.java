@@ -4,31 +4,26 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.Iterator;
 
-import org.apache.poi.hssf.usermodel.HSSFSheet;
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 //1
 public class CorrectDistrictNames {
 
 	public static void main(String[] args) throws IOException {
-		File file = new File("E:/Ashok/ifsc/IFCB2009_10.xls");
+		File file = new File("E:/Ashok/ifsc/IFCB2009_10.xlsx");
 		FileInputStream inputStream = new FileInputStream(file);
 
 		// Get the workbook instance for XLS file
-		HSSFWorkbook workBook = new HSSFWorkbook(inputStream);
+		Workbook workBook = new XSSFWorkbook(inputStream);
 
 		// Get first sheet from the workbook
-		HSSFSheet bankSheet = workBook.getSheetAt(0);
-		// Iterate through each rows from first sheet
-		Iterator<Row> rowIt = bankSheet.iterator();
-		boolean flag = true;
-		while (rowIt.hasNext()) {
-			Row row = rowIt.next();
-			if (flag) {
-				flag = false;
+		Sheet bankSheet = workBook.getSheetAt(0);
+		for (Row row : bankSheet) {
+			if (row.getRowNum() == 0) {
 				continue;
 			}
 			String district = row.getCell(7).getStringCellValue();
@@ -43,13 +38,13 @@ public class CorrectDistrictNames {
 				newDistrict = district.substring(district.indexOf("DISTT") + 5);
 			} else if (district.contains("DIST")) {
 				newDistrict = district.substring(district.indexOf("DIST") + 4);
-			} 
+			}
 			if (newDistrict != null) {
 				newDistrict = newDistrict.trim();
 				if (newDistrict.contains(")") && !newDistrict.contains("(")) {
 					newDistrict = newDistrict.replace(')', ' ').trim();
 				}
-				if(newDistrict.startsWith(".") || newDistrict.startsWith(":") || newDistrict.startsWith("-")) {
+				if (newDistrict.startsWith(".") || newDistrict.startsWith(":") || newDistrict.startsWith("-")) {
 					newDistrict = newDistrict.substring(1).trim();
 				}
 				row.getCell(7).setCellValue(newDistrict);

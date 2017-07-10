@@ -1,12 +1,30 @@
 <bankBranchs>
   <bankbranch>
+    <name>Mevada</name>
+    <city>Kottayam</city>
+    <address>Kamalalayam Building Mevada PO Kottayam PIN 686573</address>
+    <contact>2704810</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>KLGB0040735</ifscCode>
+    <bankLoc>12813</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Thirunelly</name>
     <city>Mananthavady</city>
     <address>Amrutha Building Thirunelly Temple Post Mananthavady Wayanad-670646</address>
     <contact>242434</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040732</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pravithanam</name>
+    <city>Kottayam</city>
+    <address>Chooranolickal Arcade Anthinad Pravithanam Kottayam DT PIN 686651</address>
+    <contact>2704810</contact>
+    <micrCode>WAITING</micrCode>
+    <ifscCode>KLGB0040727</ifscCode>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadakkethara</name>
@@ -15,7 +33,7 @@
     <contact>2704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040726</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peruvalath Paramba</name>
@@ -24,7 +42,7 @@
     <contact>2704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040725</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Naduvil Town</name>
@@ -33,7 +51,7 @@
     <contact>2704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040724</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanichar</name>
@@ -42,7 +60,7 @@
     <contact>416723</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040723</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vattavada</name>
@@ -51,7 +69,7 @@
     <contact>2704810</contact>
     <micrCode>685480619</micrCode>
     <ifscCode>KLGB0040722</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattippara</name>
@@ -60,7 +78,7 @@
     <contact>2270777</contact>
     <micrCode>673480453</micrCode>
     <ifscCode>KLGB0040721</ifscCode>
-    <bankLoc>12729</bankLoc>
+    <bankLoc>12814</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurumassery</name>
@@ -69,7 +87,7 @@
     <contact>2704810</contact>
     <micrCode>683480006</micrCode>
     <ifscCode>KLGB0040720</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellarimala</name>
@@ -78,7 +96,7 @@
     <contact>2704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040719</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pallur</name>
@@ -87,7 +105,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040718</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallikkad</name>
@@ -96,7 +114,7 @@
     <contact>704810</contact>
     <micrCode>695480037</micrCode>
     <ifscCode>KLGB0040717</ifscCode>
-    <bankLoc>12734</bankLoc>
+    <bankLoc>12819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sheni</name>
@@ -105,7 +123,7 @@
     <contact>2147483647</contact>
     <micrCode>671480828</micrCode>
     <ifscCode>KLGB0040716</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kannavam</name>
@@ -114,7 +132,7 @@
     <contact>2147483647</contact>
     <micrCode>670480119</micrCode>
     <ifscCode>KLGB0040715</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Iravon</name>
@@ -123,7 +141,7 @@
     <contact>2242829</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040714</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vallivattom</name>
@@ -132,7 +150,7 @@
     <contact>2147483647</contact>
     <micrCode>680480203</micrCode>
     <ifscCode>KLGB0040713</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Azhikode</name>
@@ -141,7 +159,7 @@
     <contact>2147483647</contact>
     <micrCode>670480019</micrCode>
     <ifscCode>KLGB0040712</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pulakode</name>
@@ -150,7 +168,7 @@
     <contact>2147483647</contact>
     <micrCode>680480028</micrCode>
     <ifscCode>KLGB0040711</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manalithara</name>
@@ -159,7 +177,7 @@
     <contact>2147483647</contact>
     <micrCode>680480027</micrCode>
     <ifscCode>KLGB0040710</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Killimangalam</name>
@@ -168,7 +186,7 @@
     <contact>252393</contact>
     <micrCode>680480026</micrCode>
     <ifscCode>KLGB0040709</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheruvannur</name>
@@ -177,7 +195,7 @@
     <contact>2485383</contact>
     <micrCode>673480063</micrCode>
     <ifscCode>KLGB0040708</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kavumbhagam</name>
@@ -186,7 +204,7 @@
     <contact>2704810</contact>
     <micrCode>670480118</micrCode>
     <ifscCode>KLGB0040707</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvilwamala</name>
@@ -195,7 +213,7 @@
     <contact>4281800</contact>
     <micrCode>680480025</micrCode>
     <ifscCode>KLGB0040706</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadampazhipuram</name>
@@ -204,7 +222,7 @@
     <contact>2268705</contact>
     <micrCode>678480805</micrCode>
     <ifscCode>KLGB0040705</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peringode</name>
@@ -213,7 +231,7 @@
     <contact>2370198</contact>
     <micrCode>678480804</micrCode>
     <ifscCode>KLGB0040704</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mavoor</name>
@@ -222,7 +240,7 @@
     <contact>2884999</contact>
     <micrCode>673480062</micrCode>
     <ifscCode>KLGB0040703</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattarnadakkavu</name>
@@ -231,7 +249,7 @@
     <contact>2147483647</contact>
     <micrCode>676480009</micrCode>
     <ifscCode>KLGB0040702</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pappanamcode</name>
@@ -240,7 +258,7 @@
     <contact>2495701</contact>
     <micrCode>695480036</micrCode>
     <ifscCode>KLGB0040701</ifscCode>
-    <bankLoc>12735</bankLoc>
+    <bankLoc>12820</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthenchanthai</name>
@@ -249,7 +267,7 @@
     <contact>704810</contact>
     <micrCode>695480256</micrCode>
     <ifscCode>KLGB0040700</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Varappuzha</name>
@@ -258,7 +276,7 @@
     <contact>704810</contact>
     <micrCode>682480017</micrCode>
     <ifscCode>KLGB0040699</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalavoor</name>
@@ -267,7 +285,7 @@
     <contact>704810</contact>
     <micrCode>688480003</micrCode>
     <ifscCode>KLGB0040698</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mambaram</name>
@@ -276,7 +294,7 @@
     <contact>2384303</contact>
     <micrCode>670480117</micrCode>
     <ifscCode>KLGB0040697</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodunthirapully</name>
@@ -285,7 +303,7 @@
     <contact>2508696</contact>
     <micrCode>678480005</micrCode>
     <ifscCode>KLGB0040696</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aruvikkara</name>
@@ -294,7 +312,7 @@
     <contact>2889900</contact>
     <micrCode>695480034</micrCode>
     <ifscCode>KLGB0040695</ifscCode>
-    <bankLoc>12734</bankLoc>
+    <bankLoc>12819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanthancode</name>
@@ -303,7 +321,7 @@
     <contact>727694</contact>
     <micrCode>695480035</micrCode>
     <ifscCode>KLGB0040694</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chattanchal</name>
@@ -312,7 +330,7 @@
     <contact>4282053</contact>
     <micrCode>671480016</micrCode>
     <ifscCode>KLGB0040693</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodungoor</name>
@@ -321,7 +339,7 @@
     <contact>455900</contact>
     <micrCode>686480504</micrCode>
     <ifscCode>KLGB0040692</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neendoor</name>
@@ -330,7 +348,7 @@
     <contact>2704810</contact>
     <micrCode>686480354</micrCode>
     <ifscCode>KLGB0040691</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kooroppada</name>
@@ -339,7 +357,7 @@
     <contact>703350</contact>
     <micrCode>686480505</micrCode>
     <ifscCode>KLGB0040690</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alanallur</name>
@@ -348,7 +366,7 @@
     <contact>262689</contact>
     <micrCode>678480155</micrCode>
     <ifscCode>KLGB0040689</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peringottukurissi</name>
@@ -357,7 +375,7 @@
     <contact>704810</contact>
     <micrCode>678480505</micrCode>
     <ifscCode>KLGB0040688</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alathiyur</name>
@@ -366,7 +384,7 @@
     <contact>2566767</contact>
     <micrCode>676480008</micrCode>
     <ifscCode>KLGB0040687</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanakkary</name>
@@ -375,7 +393,7 @@
     <contact>2533555</contact>
     <micrCode>686480753</micrCode>
     <ifscCode>KLGB0040686</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chingavanam</name>
@@ -384,7 +402,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040685</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Avinissery</name>
@@ -393,7 +411,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040684</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Azhiyoor</name>
@@ -402,70 +420,70 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040683</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nellimoode</name>
     <city>Thiruvananthapuram</city>
-    <address>Nellimoode Service CO-OP. Bank Shopping Complex, Nellimoode PO, Thiruvananthapuram DT. &#x13; 695 524</address>
+    <address>Nellimoode Service CO-OP. Bank Shopping Complex, Nellimoode PO, Thiruvananthapuram DT. ? 695 524</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040682</ifscCode>
-    <bankLoc>12734</bankLoc>
+    <bankLoc>12819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poochakkal</name>
     <city>Alappuzha</city>
-    <address>Kailas Heights, Lyceum Junction, Poochakkal PO, Alappuzha DT. &#x13; 688 526</address>
+    <address>Kailas Heights, Lyceum Junction, Poochakkal PO, Alappuzha DT. ? 688 526</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040681</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mookkannoor</name>
     <city>Ernakulam</city>
-    <address>Kalamparamban Towers, Pala Junction, Mookkannoor PO, Ernakulam DT. &#x13; 683 577</address>
+    <address>Kalamparamban Towers, Pala Junction, Mookkannoor PO, Ernakulam DT. ? 683 577</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040680</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Meppayyur</name>
     <city>Kozhikode</city>
-    <address>T.K. Complex, Payyoli Road, Meppayyur PO, Kozhikode DT. &#x13; 673524</address>
+    <address>T.K. Complex, Payyoli Road, Meppayyur PO, Kozhikode DT. ? 673524</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040679</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattikkad Chungam</name>
     <city>Malappuram</city>
-    <address>Yousaf Haji Building, Chungam, Pattikkad PO, Malappuram DT. &#x13; 679 325</address>
+    <address>Yousaf Haji Building, Chungam, Pattikkad PO, Malappuram DT. ? 679 325</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040678</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madathara</name>
     <city>Kollam</city>
-    <address>Kerala Tower, Madathara PO, Kollam DT. &#x13; 691541</address>
+    <address>Kerala Tower, Madathara PO, Kollam DT. ? 691541</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040677</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottoor</name>
     <city>Thiruvananthapuram</city>
-    <address>Bava Tower, Kottoor PO, Thiruvananthapuram DT. &#x13; 695 574</address>
+    <address>Bava Tower, Kottoor PO, Thiruvananthapuram DT. ? 695 574</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040676</ifscCode>
-    <bankLoc>12734</bankLoc>
+    <bankLoc>12819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elanthor</name>
@@ -474,7 +492,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040675</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattimattam</name>
@@ -483,43 +501,43 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040674</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattom</name>
     <city>Thiruvananthapuram</city>
-    <address>K S N Towers, Murinjapalam, Pattom, Medical College PO, Thiruvananthapuram DT. &#x13; 695011</address>
+    <address>K S N Towers, Murinjapalam, Pattom, Medical College PO, Thiruvananthapuram DT. ? 695011</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040673</ifscCode>
-    <bankLoc>12734</bankLoc>
+    <bankLoc>12819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nedumkandam</name>
     <city>Idukki</city>
-    <address>Anju Kandathil Plaza, Near Private BUS Stand, Nedumkandam PO, Idukki DT. &#x13; 685 553</address>
+    <address>Anju Kandathil Plaza, Near Private BUS Stand, Nedumkandam PO, Idukki DT. ? 685 553</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040672</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purameri</name>
     <city>Kozhikode</city>
-    <address>AL. Sanafer Complex, Kuningad Road, Purameri PO, Kozhikode DT. &#x13; 673 503</address>
+    <address>AL. Sanafer Complex, Kuningad Road, Purameri PO, Kozhikode DT. ? 673 503</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040671</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheranellur</name>
     <city>Ernakulam</city>
-    <address>Post Office Building, Pallikkavala, Cheranallur PO, Ernakulam DT. &#x13; 682 034</address>
+    <address>Post Office Building, Pallikkavala, Cheranallur PO, Ernakulam DT. ? 682 034</address>
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040670</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manhodi</name>
@@ -528,7 +546,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040669</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poonjar</name>
@@ -537,7 +555,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040668</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadappady</name>
@@ -546,7 +564,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040667</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Agastianmoozhy</name>
@@ -555,7 +573,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040666</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mayyil</name>
@@ -564,7 +582,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040665</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alungal</name>
@@ -573,7 +591,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040664</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rajapuram</name>
@@ -582,7 +600,7 @@
     <contact>704810</contact>
     <micrCode>WAITING</micrCode>
     <ifscCode>KLGB0040663</ifscCode>
-    <bankLoc>12726</bankLoc>
+    <bankLoc>12811</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palazhy</name>
@@ -591,7 +609,7 @@
     <contact>2433533</contact>
     <micrCode>673480060</micrCode>
     <ifscCode>KLGB0040662</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalikkadavu</name>
@@ -600,7 +618,7 @@
     <contact>2262345</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040661</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottayam RO</name>
@@ -609,7 +627,7 @@
     <contact>2598690</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040660</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumarenalloor</name>
@@ -618,7 +636,7 @@
     <contact>2598695</contact>
     <micrCode>686480005</micrCode>
     <ifscCode>KLGB0040659</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moothedam</name>
@@ -627,7 +645,7 @@
     <contact>276999</contact>
     <micrCode>679480107</micrCode>
     <ifscCode>KLGB0040658</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangattidam</name>
@@ -636,7 +654,7 @@
     <contact>2369966</contact>
     <micrCode>670480115</micrCode>
     <ifscCode>KLGB0040657</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Makkiyad</name>
@@ -645,7 +663,7 @@
     <contact>2598695</contact>
     <micrCode>670480844</micrCode>
     <ifscCode>KLGB0040656</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vattappara</name>
@@ -654,7 +672,7 @@
     <contact>2587899</contact>
     <micrCode>695480028</micrCode>
     <ifscCode>KLGB0040655</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maruthamkuzhi</name>
@@ -663,7 +681,7 @@
     <contact>2364199</contact>
     <micrCode>695480026</micrCode>
     <ifscCode>KLGB0040654</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chengottukonam</name>
@@ -672,7 +690,7 @@
     <contact>2712250</contact>
     <micrCode>695480024</micrCode>
     <ifscCode>KLGB0040653</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thennala</name>
@@ -681,7 +699,7 @@
     <contact>2495959</contact>
     <micrCode>676480106</micrCode>
     <ifscCode>KLGB0040652</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottayam Malabar</name>
@@ -690,7 +708,7 @@
     <contact>2361455</contact>
     <micrCode>670480114</micrCode>
     <ifscCode>KLGB0040651</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vettom</name>
@@ -699,7 +717,7 @@
     <contact>2631188</contact>
     <micrCode>676480007</micrCode>
     <ifscCode>KLGB0040650</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ozhur</name>
@@ -708,7 +726,7 @@
     <contact>2581800</contact>
     <micrCode>676480205</micrCode>
     <ifscCode>KLGB0040649</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalady</name>
@@ -717,7 +735,7 @@
     <contact>2699990</contact>
     <micrCode>679480304</micrCode>
     <ifscCode>KLGB0040648</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edayur</name>
@@ -726,7 +744,7 @@
     <contact>2648080</contact>
     <micrCode>676480257</micrCode>
     <ifscCode>KLGB0040647</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mattam</name>
@@ -735,7 +753,7 @@
     <contact>239239</contact>
     <micrCode>680480023</micrCode>
     <ifscCode>KLGB0040646</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattuvam</name>
@@ -744,7 +762,7 @@
     <contact>2221230</contact>
     <micrCode>670480058</micrCode>
     <ifscCode>KLGB0040645</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramankari</name>
@@ -753,7 +771,7 @@
     <contact>2702524</contact>
     <micrCode>686480053</micrCode>
     <ifscCode>KLGB0040644</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muthukulam</name>
@@ -762,7 +780,7 @@
     <contact>2472242</contact>
     <micrCode>690480104</micrCode>
     <ifscCode>KLGB0040643</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nanminda</name>
@@ -771,7 +789,7 @@
     <contact>2855515</contact>
     <micrCode>673480057</micrCode>
     <ifscCode>KLGB0040642</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mukkolakkal</name>
@@ -780,7 +798,7 @@
     <contact>2534399</contact>
     <micrCode>695480029</micrCode>
     <ifscCode>KLGB0040641</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattoor</name>
@@ -789,7 +807,7 @@
     <contact>2872434</contact>
     <micrCode>680480022</micrCode>
     <ifscCode>KLGB0040640</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharanikkavu</name>
@@ -798,7 +816,7 @@
     <contact>2833552</contact>
     <micrCode>690480203</micrCode>
     <ifscCode>KLGB0040639</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peringamala</name>
@@ -807,7 +825,7 @@
     <contact>2404480</contact>
     <micrCode>695480027</micrCode>
     <ifscCode>KLGB0040638</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Attipra</name>
@@ -816,7 +834,7 @@
     <contact>2599696</contact>
     <micrCode>695480025</micrCode>
     <ifscCode>KLGB0040637</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kayamkulam</name>
@@ -825,7 +843,7 @@
     <contact>2444212</contact>
     <micrCode>690480102</micrCode>
     <ifscCode>KLGB0040636</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harippad</name>
@@ -834,7 +852,7 @@
     <contact>2418155</contact>
     <micrCode>690480002</micrCode>
     <ifscCode>KLGB0040635</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thrikkakara</name>
@@ -843,7 +861,7 @@
     <contact>2575399</contact>
     <micrCode>682480015</micrCode>
     <ifscCode>KLGB0040634</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poovathur</name>
@@ -852,7 +870,7 @@
     <contact>2640080</contact>
     <micrCode>680480021</micrCode>
     <ifscCode>KLGB0040633</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paingottoor</name>
@@ -861,7 +879,7 @@
     <contact>2562166</contact>
     <micrCode>685480009</micrCode>
     <ifscCode>KLGB0040632</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumanna</name>
@@ -870,7 +888,7 @@
     <contact>2430040</contact>
     <micrCode>673480059</micrCode>
     <ifscCode>KLGB0040631</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kundamkuzhi</name>
@@ -879,7 +897,7 @@
     <contact>210050</contact>
     <micrCode>671480015</micrCode>
     <ifscCode>KLGB0040630</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parappur</name>
@@ -888,7 +906,7 @@
     <contact>2285230</contact>
     <micrCode>680480020</micrCode>
     <ifscCode>KLGB0040629</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaiparamba</name>
@@ -897,7 +915,7 @@
     <contact>2210230</contact>
     <micrCode>680480019</micrCode>
     <ifscCode>KLGB0040628</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Feroke Chungam</name>
@@ -906,7 +924,7 @@
     <contact>2481884</contact>
     <micrCode>673480058</micrCode>
     <ifscCode>KLGB0040627</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Melukavu</name>
@@ -915,7 +933,7 @@
     <contact>219626</contact>
     <micrCode>685480008</micrCode>
     <ifscCode>KLGB0040626</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Melattur</name>
@@ -924,7 +942,7 @@
     <contact>277265</contact>
     <micrCode>679480160</micrCode>
     <ifscCode>KLGB0040625</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhakkad</name>
@@ -933,7 +951,7 @@
     <contact>2727100</contact>
     <micrCode>673480056</micrCode>
     <ifscCode>KLGB0040624</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koottilangadi</name>
@@ -942,7 +960,7 @@
     <contact>285000</contact>
     <micrCode>676480157</micrCode>
     <ifscCode>KLGB0040623</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anchalumoodu</name>
@@ -951,7 +969,7 @@
     <contact>2700268</contact>
     <micrCode>691480006</micrCode>
     <ifscCode>KLGB0040622</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadakkal</name>
@@ -960,7 +978,7 @@
     <contact>2425221</contact>
     <micrCode>691480106</micrCode>
     <ifscCode>KLGB0040621</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthoor</name>
@@ -969,7 +987,7 @@
     <contact>2416299</contact>
     <micrCode>691480105</micrCode>
     <ifscCode>KLGB0040620</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthenvelikara</name>
@@ -978,7 +996,7 @@
     <contact>2485234</contact>
     <micrCode>682480014</micrCode>
     <ifscCode>KLGB0040619</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadanad</name>
@@ -987,7 +1005,7 @@
     <contact>246440</contact>
     <micrCode>686480306</micrCode>
     <ifscCode>KLGB0040618</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badiyadka</name>
@@ -996,7 +1014,7 @@
     <contact>284217</contact>
     <micrCode>671480014</micrCode>
     <ifscCode>KLGB0040617</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunnikode</name>
@@ -1005,7 +1023,7 @@
     <contact>2325522</contact>
     <micrCode>691480104</micrCode>
     <ifscCode>KLGB0040616</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunnanalloor</name>
@@ -1014,7 +1032,7 @@
     <contact>2501735</contact>
     <micrCode>691480005</micrCode>
     <ifscCode>KLGB0040615</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vakathanam</name>
@@ -1023,7 +1041,7 @@
     <contact>2460214</contact>
     <micrCode>686480004</micrCode>
     <ifscCode>KLGB0040614</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palluruthy</name>
@@ -1032,7 +1050,7 @@
     <contact>2236088</contact>
     <micrCode>682480013</micrCode>
     <ifscCode>KLGB0040612</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adivad</name>
@@ -1041,7 +1059,7 @@
     <contact>2563555</contact>
     <micrCode>686480203</micrCode>
     <ifscCode>KLGB0040611</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paika</name>
@@ -1050,7 +1068,7 @@
     <contact>225080</contact>
     <micrCode>686480305</micrCode>
     <ifscCode>KLGB0040610</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattazhi</name>
@@ -1059,7 +1077,7 @@
     <contact>2398788</contact>
     <micrCode>691480103</micrCode>
     <ifscCode>KLGB0040609</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elanji</name>
@@ -1068,7 +1086,7 @@
     <contact>2257322</contact>
     <micrCode>686480453</micrCode>
     <ifscCode>KLGB0040608</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalady</name>
@@ -1077,7 +1095,7 @@
     <contact>2244099</contact>
     <micrCode>683480004</micrCode>
     <ifscCode>KLGB0040607</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pavoor</name>
@@ -1086,7 +1104,7 @@
     <contact>272322</contact>
     <micrCode>671480827</micrCode>
     <ifscCode>KLGB0040606</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manjapra</name>
@@ -1095,7 +1113,7 @@
     <contact>2690790</contact>
     <micrCode>683480003</micrCode>
     <ifscCode>KLGB0040605</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvamkulam</name>
@@ -1104,7 +1122,7 @@
     <contact>2786209</contact>
     <micrCode>682480012</micrCode>
     <ifscCode>KLGB0040604</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pukkattupady</name>
@@ -1113,7 +1131,7 @@
     <contact>2686203</contact>
     <micrCode>682480011</micrCode>
     <ifscCode>KLGB0040603</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panoor</name>
@@ -1122,7 +1140,7 @@
     <contact>2310065</contact>
     <micrCode>670480113</micrCode>
     <ifscCode>KLGB0040602</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Erumely</name>
@@ -1131,7 +1149,7 @@
     <contact>213201</contact>
     <micrCode>686480154</micrCode>
     <ifscCode>KLGB0040601</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uzhavoor</name>
@@ -1140,7 +1158,7 @@
     <contact>240210</contact>
     <micrCode>686480304</micrCode>
     <ifscCode>KLGB0040600</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cherupuzha</name>
@@ -1149,7 +1167,7 @@
     <contact>240040</contact>
     <micrCode>670480843</micrCode>
     <ifscCode>KLGB0040599</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kulathuppuzha</name>
@@ -1158,7 +1176,7 @@
     <contact>2317002</contact>
     <micrCode>691480803</micrCode>
     <ifscCode>KLGB0040598</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chokli</name>
@@ -1167,7 +1185,7 @@
     <contact>2330422</contact>
     <micrCode>670480112</micrCode>
     <ifscCode>KLGB0040597</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulleria</name>
@@ -1176,7 +1194,7 @@
     <contact>260009</contact>
     <micrCode>671480826</micrCode>
     <ifscCode>KLGB0040596</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chittarikkal</name>
@@ -1185,7 +1203,7 @@
     <contact>2222300</contact>
     <micrCode>671480825</micrCode>
     <ifscCode>KLGB0040595</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhakulam</name>
@@ -1194,7 +1212,7 @@
     <contact>2263128</contact>
     <micrCode>686480253</micrCode>
     <ifscCode>KLGB0040594</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kidangoor</name>
@@ -1203,7 +1221,7 @@
     <contact>256725</contact>
     <micrCode>686480353</micrCode>
     <ifscCode>KLGB0040593</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manarcad</name>
@@ -1212,7 +1230,7 @@
     <contact>2373192</contact>
     <micrCode>686480003</micrCode>
     <ifscCode>KLGB0040592</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ayamkudy</name>
@@ -1221,7 +1239,7 @@
     <contact>288549</contact>
     <micrCode>686480704</micrCode>
     <ifscCode>KLGB0040591</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peruva</name>
@@ -1230,7 +1248,7 @@
     <contact>252976</contact>
     <micrCode>686480703</micrCode>
     <ifscCode>KLGB0040590</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ayoor</name>
@@ -1239,7 +1257,7 @@
     <contact>2292606</contact>
     <micrCode>691480802</micrCode>
     <ifscCode>KLGB0040589</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheruthana</name>
@@ -1248,7 +1266,7 @@
     <contact>2410561</contact>
     <micrCode>690480802</micrCode>
     <ifscCode>KLGB0040588</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Athikattukulangara</name>
@@ -1257,7 +1275,7 @@
     <contact>2388332</contact>
     <micrCode>690480801</micrCode>
     <ifscCode>KLGB0040587</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cherukunnu</name>
@@ -1266,7 +1284,7 @@
     <contact>2862862</contact>
     <micrCode>670480017</micrCode>
     <ifscCode>KLGB0040586</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pathanapuram</name>
@@ -1275,7 +1293,7 @@
     <contact>2352066</contact>
     <micrCode>691480154</micrCode>
     <ifscCode>KLGB0040585</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karukachal</name>
@@ -1284,7 +1302,7 @@
     <contact>2488543</contact>
     <micrCode>686480726</micrCode>
     <ifscCode>KLGB0040584</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perla</name>
@@ -1293,7 +1311,7 @@
     <contact>225999</contact>
     <micrCode>671480724</micrCode>
     <ifscCode>KLGB0040583</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollakkadavu</name>
@@ -1302,7 +1320,7 @@
     <contact>2353955</contact>
     <micrCode>690480153</micrCode>
     <ifscCode>KLGB0040582</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pallikkathode</name>
@@ -1311,7 +1329,7 @@
     <contact>2553051</contact>
     <micrCode>686480503</micrCode>
     <ifscCode>KLGB0040581</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manimala</name>
@@ -1320,7 +1338,7 @@
     <contact>248751</contact>
     <micrCode>686480153</micrCode>
     <ifscCode>KLGB0040580</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peravoor</name>
@@ -1329,7 +1347,7 @@
     <contact>2443228</contact>
     <micrCode>670480841</micrCode>
     <ifscCode>KLGB0040579</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Punalur</name>
@@ -1338,7 +1356,7 @@
     <contact>2229760</contact>
     <micrCode>691480152</micrCode>
     <ifscCode>KLGB0040578</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottiyam</name>
@@ -1347,7 +1365,7 @@
     <contact>2534500</contact>
     <micrCode>691480004</micrCode>
     <ifscCode>KLGB0040577</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sreepuram</name>
@@ -1356,7 +1374,7 @@
     <contact>2708277</contact>
     <micrCode>670480010</micrCode>
     <ifscCode>KLGB0040576</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadavanthra</name>
@@ -1365,7 +1383,7 @@
     <contact>2205353</contact>
     <micrCode>682480010</micrCode>
     <ifscCode>KLGB0040575</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kundara</name>
@@ -1374,7 +1392,7 @@
     <contact>2581122</contact>
     <micrCode>691480202</micrCode>
     <ifscCode>KLGB0040574</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paravur</name>
@@ -1383,7 +1401,7 @@
     <contact>2514605</contact>
     <micrCode>691480801</micrCode>
     <ifscCode>KLGB0040573</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottarakkara</name>
@@ -1392,7 +1410,7 @@
     <contact>2453334</contact>
     <micrCode>691480102</micrCode>
     <ifscCode>KLGB0040572</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chathannur</name>
@@ -1401,7 +1419,7 @@
     <contact>2595222</contact>
     <micrCode>691480003</micrCode>
     <ifscCode>KLGB0040571</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadavathur</name>
@@ -1410,7 +1428,7 @@
     <contact>2392600</contact>
     <micrCode>670480840</micrCode>
     <ifscCode>KLGB0040570</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramapuram</name>
@@ -1419,7 +1437,7 @@
     <contact>262727</contact>
     <micrCode>686480303</micrCode>
     <ifscCode>KLGB0040569</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Changanassery</name>
@@ -1428,7 +1446,7 @@
     <contact>2422798</contact>
     <micrCode>686480052</micrCode>
     <ifscCode>KLGB0040568</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elamakkara</name>
@@ -1437,7 +1455,7 @@
     <contact>2530701</contact>
     <micrCode>682480008</micrCode>
     <ifscCode>KLGB0040567</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolencherry</name>
@@ -1446,7 +1464,7 @@
     <contact>2765983</contact>
     <micrCode>682480201</micrCode>
     <ifscCode>KLGB0040566</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karunagapally</name>
@@ -1455,7 +1473,7 @@
     <contact>2626252</contact>
     <micrCode>690480052</micrCode>
     <ifscCode>KLGB0040565</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anchal</name>
@@ -1464,7 +1482,7 @@
     <contact>2270445</contact>
     <micrCode>691480153</micrCode>
     <ifscCode>KLGB0040564</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollam</name>
@@ -1473,7 +1491,7 @@
     <contact>2764212</contact>
     <micrCode>691480002</micrCode>
     <ifscCode>KLGB0040563</ifscCode>
-    <bankLoc>12727</bankLoc>
+    <bankLoc>12812</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurupanthara</name>
@@ -1482,7 +1500,7 @@
     <contact>243170</contact>
     <micrCode>686480752</micrCode>
     <ifscCode>KLGB0040562</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakkanad</name>
@@ -1491,7 +1509,7 @@
     <contact>2425734</contact>
     <micrCode>682480007</micrCode>
     <ifscCode>KLGB0040561</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Podikundu</name>
@@ -1500,7 +1518,7 @@
     <contact>2748550</contact>
     <micrCode>670480008</micrCode>
     <ifscCode>KLGB0040560</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvanvandoor</name>
@@ -1509,7 +1527,7 @@
     <contact>2429400</contact>
     <micrCode>689480052</micrCode>
     <ifscCode>KLGB0040559</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cherthala</name>
@@ -1518,7 +1536,7 @@
     <contact>2816254</contact>
     <micrCode>688480052</micrCode>
     <ifscCode>KLGB0040558</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mannar</name>
@@ -1527,7 +1545,7 @@
     <contact>2313755</contact>
     <micrCode>689480452</micrCode>
     <ifscCode>KLGB0040557</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mavelikkara</name>
@@ -1536,7 +1554,7 @@
     <contact>2340755</contact>
     <micrCode>690480152</micrCode>
     <ifscCode>KLGB0040556</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattanam</name>
@@ -1545,7 +1563,7 @@
     <contact>2334010</contact>
     <micrCode>690480103</micrCode>
     <ifscCode>KLGB0040555</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ochira</name>
@@ -1554,7 +1572,7 @@
     <contact>2697372</contact>
     <micrCode>690480252</micrCode>
     <ifscCode>KLGB0040554</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alappuzha</name>
@@ -1563,7 +1581,7 @@
     <contact>237557</contact>
     <micrCode>688480002</micrCode>
     <ifscCode>KLGB0040553</ifscCode>
-    <bankLoc>12721</bankLoc>
+    <bankLoc>12806</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumbavoor</name>
@@ -1572,7 +1590,7 @@
     <contact>2590828</contact>
     <micrCode>683480052</micrCode>
     <ifscCode>KLGB0040552</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tripunithura</name>
@@ -1581,7 +1599,7 @@
     <contact>2785547</contact>
     <micrCode>682480005</micrCode>
     <ifscCode>KLGB0040551</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Piravam</name>
@@ -1590,7 +1608,7 @@
     <contact>2241880</contact>
     <micrCode>686480732</micrCode>
     <ifscCode>KLGB0040550</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mulamthuruthy</name>
@@ -1599,7 +1617,7 @@
     <contact>2743851</contact>
     <micrCode>682480009</micrCode>
     <ifscCode>KLGB0040549</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>North Paravoor</name>
@@ -1608,7 +1626,7 @@
     <contact>2441410</contact>
     <micrCode>682480006</micrCode>
     <ifscCode>KLGB0040548</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kothamangalam</name>
@@ -1617,7 +1635,7 @@
     <contact>2823430</contact>
     <micrCode>686480202</micrCode>
     <ifscCode>KLGB0040547</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjirappally</name>
@@ -1626,7 +1644,7 @@
     <contact>203757</contact>
     <micrCode>686480152</micrCode>
     <ifscCode>KLGB0040546</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Erattupetta</name>
@@ -1635,7 +1653,7 @@
     <contact>277263</contact>
     <micrCode>686480102</micrCode>
     <ifscCode>KLGB0040545</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mundakkayam</name>
@@ -1644,7 +1662,7 @@
     <contact>273264</contact>
     <micrCode>686480652</micrCode>
     <ifscCode>KLGB0040544</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koothattukulam</name>
@@ -1653,7 +1671,7 @@
     <contact>2253703</contact>
     <micrCode>686480452</micrCode>
     <ifscCode>KLGB0040543</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pampady</name>
@@ -1662,7 +1680,7 @@
     <contact>2508966</contact>
     <micrCode>686480502</micrCode>
     <ifscCode>KLGB0040542</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thalayolaparambu</name>
@@ -1671,7 +1689,7 @@
     <contact>237766</contact>
     <micrCode>686480702</micrCode>
     <ifscCode>KLGB0040541</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aluva</name>
@@ -1680,7 +1698,7 @@
     <contact>2620825</contact>
     <micrCode>682480004</micrCode>
     <ifscCode>KLGB0040540</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Angamaly</name>
@@ -1689,7 +1707,7 @@
     <contact>2459610</contact>
     <micrCode>683480002</micrCode>
     <ifscCode>KLGB0040539</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuthuparamba</name>
@@ -1698,7 +1716,7 @@
     <contact>2365399</contact>
     <micrCode>670480110</micrCode>
     <ifscCode>KLGB0040538</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaloor</name>
@@ -1707,7 +1725,7 @@
     <contact>539191</contact>
     <micrCode>682480003</micrCode>
     <ifscCode>KLGB0040537</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottayam</name>
@@ -1716,7 +1734,7 @@
     <contact>570194</contact>
     <micrCode>686480002</micrCode>
     <ifscCode>KLGB0040536</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ettumanoor</name>
@@ -1725,7 +1743,7 @@
     <contact>2530538</contact>
     <micrCode>686480352</micrCode>
     <ifscCode>KLGB0040535</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palai</name>
@@ -1734,7 +1752,7 @@
     <contact>2200833</contact>
     <micrCode>686480302</micrCode>
     <ifscCode>KLGB0040534</ifscCode>
-    <bankLoc>12728</bankLoc>
+    <bankLoc>12813</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muvattupuzha</name>
@@ -1743,7 +1761,7 @@
     <contact>2836777</contact>
     <micrCode>686480252</micrCode>
     <ifscCode>KLGB0040533</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ernakulam Main</name>
@@ -1752,7 +1770,7 @@
     <contact>2375217</contact>
     <micrCode>682480002</micrCode>
     <ifscCode>KLGB0040532</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trikaripur</name>
@@ -1761,7 +1779,7 @@
     <contact>2215190</contact>
     <micrCode>670480163</micrCode>
     <ifscCode>KLGB0040531</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pappinissery</name>
@@ -1770,7 +1788,7 @@
     <contact>2787320</contact>
     <micrCode>670480016</micrCode>
     <ifscCode>KLGB0040530</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uppala</name>
@@ -1779,7 +1797,7 @@
     <contact>241975</contact>
     <micrCode>671480823</micrCode>
     <ifscCode>KLGB0040529</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Newmahe</name>
@@ -1788,7 +1806,7 @@
     <contact>2337494</contact>
     <micrCode>673480052</micrCode>
     <ifscCode>KLGB0040528</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panamaram</name>
@@ -1797,7 +1815,7 @@
     <contact>220975</contact>
     <micrCode>670480208</micrCode>
     <ifscCode>KLGB0040527</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vidyanagar</name>
@@ -1806,7 +1824,7 @@
     <contact>255152</contact>
     <micrCode>671480003</micrCode>
     <ifscCode>KLGB0040526</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ulikkal</name>
@@ -1815,7 +1833,7 @@
     <contact>2228560</contact>
     <micrCode>670480839</micrCode>
     <ifscCode>KLGB0040525</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Hosangadi</name>
@@ -1824,7 +1842,7 @@
     <contact>273050</contact>
     <micrCode>671480822</micrCode>
     <ifscCode>KLGB0040524</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mattannoor</name>
@@ -1833,7 +1851,7 @@
     <contact>2472125</contact>
     <micrCode>670480838</micrCode>
     <ifscCode>KLGB0040523</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattimoola</name>
@@ -1842,7 +1860,7 @@
     <contact>266047</contact>
     <micrCode>670480837</micrCode>
     <ifscCode>KLGB0040522</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koyyam</name>
@@ -1851,7 +1869,7 @@
     <contact>2231268</contact>
     <micrCode>670480057</micrCode>
     <ifscCode>KLGB0040521</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kozhichal</name>
@@ -1860,7 +1878,7 @@
     <contact>212215</contact>
     <micrCode>670480836</micrCode>
     <ifscCode>KLGB0040520</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peraladkam</name>
@@ -1869,7 +1887,7 @@
     <contact>210303</contact>
     <micrCode>671480821</micrCode>
     <ifscCode>KLGB0040519</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nileshwar</name>
@@ -1878,7 +1896,7 @@
     <contact>2280905</contact>
     <micrCode>671480058</micrCode>
     <ifscCode>KLGB0040518</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumbala</name>
@@ -1887,7 +1905,7 @@
     <contact>213272</contact>
     <micrCode>671460013</micrCode>
     <ifscCode>KLGB0040517</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padnekat</name>
@@ -1896,7 +1914,7 @@
     <contact>2281370</contact>
     <micrCode>671480057</micrCode>
     <ifscCode>KLGB0040516</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edneer</name>
@@ -1905,7 +1923,7 @@
     <contact>280932</contact>
     <micrCode>671480012</micrCode>
     <ifscCode>KLGB0040515</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thillankeri</name>
@@ -1914,7 +1932,7 @@
     <contact>2405362</contact>
     <micrCode>670480835</micrCode>
     <ifscCode>KLGB0040514</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthiyatheru</name>
@@ -1923,7 +1941,7 @@
     <contact>2776264</contact>
     <micrCode>670480007</micrCode>
     <ifscCode>KLGB0040513</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peralam</name>
@@ -1932,7 +1950,7 @@
     <contact>260469</contact>
     <micrCode>670480162</micrCode>
     <ifscCode>KLGB0040512</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellarikundu</name>
@@ -1941,7 +1959,7 @@
     <contact>2242270</contact>
     <micrCode>671480820</micrCode>
     <ifscCode>KLGB0040511</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaninagar</name>
@@ -1950,7 +1968,7 @@
     <contact>266110</contact>
     <micrCode>671480819</micrCode>
     <ifscCode>KLGB0040510</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Delampady</name>
@@ -1959,7 +1977,7 @@
     <contact>270303</contact>
     <micrCode>671480818</micrCode>
     <ifscCode>KLGB0040509</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chorkala</name>
@@ -1968,7 +1986,7 @@
     <contact>2224674</contact>
     <micrCode>670480056</micrCode>
     <ifscCode>KLGB0040508</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udayagiri</name>
@@ -1977,7 +1995,7 @@
     <contact>2286380</contact>
     <micrCode>670480834</micrCode>
     <ifscCode>KLGB0040507</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bellur</name>
@@ -1986,7 +2004,7 @@
     <contact>266120</contact>
     <micrCode>671480817</micrCode>
     <ifscCode>KLGB0040506</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kannur Main</name>
@@ -1995,7 +2013,7 @@
     <contact>2712377</contact>
     <micrCode>670480002</micrCode>
     <ifscCode>KLGB0040505</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramnagar</name>
@@ -2004,7 +2022,7 @@
     <contact>2203065</contact>
     <micrCode>671480053</micrCode>
     <ifscCode>KLGB0040504</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pallikunnu</name>
@@ -2013,7 +2031,7 @@
     <contact>2707604</contact>
     <micrCode>670480006</micrCode>
     <ifscCode>KLGB0040503</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edakkad</name>
@@ -2022,7 +2040,7 @@
     <contact>2832921</contact>
     <micrCode>670480109</micrCode>
     <ifscCode>KLGB0040502</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thazhe Chovva</name>
@@ -2031,7 +2049,7 @@
     <contact>2727905</contact>
     <micrCode>670480005</micrCode>
     <ifscCode>KLGB0040501</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandiyode</name>
@@ -2040,7 +2058,7 @@
     <contact>240984</contact>
     <micrCode>671480816</micrCode>
     <ifscCode>KLGB0040500</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellachal</name>
@@ -2049,7 +2067,7 @@
     <contact>2827328</contact>
     <micrCode>670480015</micrCode>
     <ifscCode>KLGB0040499</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trikadaripoyil</name>
@@ -2058,7 +2076,7 @@
     <contact>2400530</contact>
     <micrCode>670480833</micrCode>
     <ifscCode>KLGB0040498</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mokeri</name>
@@ -2067,7 +2085,7 @@
     <contact>2311940</contact>
     <micrCode>670480832</micrCode>
     <ifscCode>KLGB0040497</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Champad</name>
@@ -2076,7 +2094,7 @@
     <contact>2311010</contact>
     <micrCode>670480108</micrCode>
     <ifscCode>KLGB0040496</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Eruvessy</name>
@@ -2085,7 +2103,7 @@
     <contact>2212397</contact>
     <micrCode>670480819</micrCode>
     <ifscCode>KLGB0040495</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunhimangalam</name>
@@ -2094,7 +2112,7 @@
     <contact>2805676</contact>
     <micrCode>670480161</micrCode>
     <ifscCode>KLGB0040494</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karimbam</name>
@@ -2103,7 +2121,7 @@
     <contact>2203254</contact>
     <micrCode>670480055</micrCode>
     <ifscCode>KLGB0040493</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panathur</name>
@@ -2112,7 +2130,7 @@
     <contact>2227360</contact>
     <micrCode>671480815</micrCode>
     <ifscCode>KLGB0040492</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Angadikadavu</name>
@@ -2121,7 +2139,7 @@
     <contact>2426160</contact>
     <micrCode>670480831</micrCode>
     <ifscCode>KLGB0040491</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Payyannur</name>
@@ -2130,7 +2148,7 @@
     <contact>229101</contact>
     <micrCode>670480152</micrCode>
     <ifscCode>KLGB0040490</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Neendunokki</name>
@@ -2139,7 +2157,7 @@
     <contact>2430860</contact>
     <micrCode>670480830</micrCode>
     <ifscCode>KLGB0040489</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kellur</name>
@@ -2148,7 +2166,7 @@
     <contact>244151</contact>
     <micrCode>670480207</micrCode>
     <ifscCode>KLGB0040488</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Iritty</name>
@@ -2157,7 +2175,7 @@
     <contact>2491469</contact>
     <micrCode>670480829</micrCode>
     <ifscCode>KLGB0040487</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Therthally</name>
@@ -2166,7 +2184,7 @@
     <contact>2285292</contact>
     <micrCode>670480828</micrCode>
     <ifscCode>KLGB0040486</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sajankila</name>
@@ -2175,7 +2193,7 @@
     <contact>205738</contact>
     <micrCode>671480814</micrCode>
     <ifscCode>KLGB0040485</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padiyur Kalliad</name>
@@ -2184,7 +2202,7 @@
     <contact>2273011</contact>
     <micrCode>670480827</micrCode>
     <ifscCode>KLGB0040484</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodlamogaru</name>
@@ -2193,7 +2211,7 @@
     <contact>202180</contact>
     <micrCode>671480813</micrCode>
     <ifscCode>KLGB0040483</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pathiriyad</name>
@@ -2202,7 +2220,7 @@
     <contact>2362461</contact>
     <micrCode>670480826</micrCode>
     <ifscCode>KLGB0040482</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallodi</name>
@@ -2211,7 +2229,7 @@
     <contact>241781</contact>
     <micrCode>670480206</micrCode>
     <ifscCode>KLGB0040481</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chittariparamba</name>
@@ -2220,7 +2238,7 @@
     <contact>2300530</contact>
     <micrCode>670480825</micrCode>
     <ifscCode>KLGB0040480</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kannadipparamba</name>
@@ -2229,7 +2247,7 @@
     <contact>2796750</contact>
     <micrCode>670480014</micrCode>
     <ifscCode>KLGB0040479</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thavinhal</name>
@@ -2238,7 +2256,7 @@
     <contact>256306</contact>
     <micrCode>670480205</micrCode>
     <ifscCode>KLGB0040478</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chakkarakkal</name>
@@ -2247,7 +2265,7 @@
     <contact>2851733</contact>
     <micrCode>670480013</micrCode>
     <ifscCode>KLGB0040477</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mananthavady</name>
@@ -2256,7 +2274,7 @@
     <contact>246547</contact>
     <micrCode>670480202</micrCode>
     <ifscCode>KLGB0040476</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madhur</name>
@@ -2265,7 +2283,7 @@
     <contact>240456</contact>
     <micrCode>671480011</micrCode>
     <ifscCode>KLGB0040475</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Payangadi</name>
@@ -2274,7 +2292,7 @@
     <contact>2870660</contact>
     <micrCode>670480160</micrCode>
     <ifscCode>KLGB0040474</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bovikanam</name>
@@ -2283,7 +2301,7 @@
     <contact>250104</contact>
     <micrCode>671480010</micrCode>
     <ifscCode>KLGB0040473</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thalassery</name>
@@ -2292,7 +2310,7 @@
     <contact>2322790</contact>
     <micrCode>670480102</micrCode>
     <ifscCode>KLGB0040472</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasaragod</name>
@@ -2301,7 +2319,7 @@
     <contact>231941</contact>
     <micrCode>671480002</micrCode>
     <ifscCode>KLGB0040471</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jodukkallu</name>
@@ -2310,7 +2328,7 @@
     <contact>205110</contact>
     <micrCode>671480812</micrCode>
     <ifscCode>KLGB0040470</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trikkanad</name>
@@ -2319,7 +2337,7 @@
     <contact>2236618</contact>
     <micrCode>671480009</micrCode>
     <ifscCode>KLGB0040469</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chavassery</name>
@@ -2328,7 +2346,7 @@
     <contact>2433842</contact>
     <micrCode>670480824</micrCode>
     <ifscCode>KLGB0040468</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pookode</name>
@@ -2337,7 +2355,7 @@
     <contact>2362011</contact>
     <micrCode>670480107</micrCode>
     <ifscCode>KLGB0040467</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chempanthotty</name>
@@ -2346,7 +2364,7 @@
     <contact>2267273</contact>
     <micrCode>670480823</micrCode>
     <ifscCode>KLGB0040466</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chuzhali</name>
@@ -2355,7 +2373,7 @@
     <contact>2268434</contact>
     <micrCode>670480822</micrCode>
     <ifscCode>KLGB0040465</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanhangad</name>
@@ -2364,7 +2382,7 @@
     <contact>209804</contact>
     <micrCode>671480052</micrCode>
     <ifscCode>KLGB0040464</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thondiyil</name>
@@ -2373,7 +2391,7 @@
     <contact>2444773</contact>
     <micrCode>670480821</micrCode>
     <ifscCode>KLGB0040463</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padiyotchal</name>
@@ -2382,7 +2400,7 @@
     <contact>240073</contact>
     <micrCode>670480820</micrCode>
     <ifscCode>KLGB0040462</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karuvanchal</name>
@@ -2391,7 +2409,7 @@
     <contact>2245579</contact>
     <micrCode>670480845</micrCode>
     <ifscCode>KLGB0040461</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>West Ponniam</name>
@@ -2400,7 +2418,7 @@
     <contact>2306141</contact>
     <micrCode>670480111</micrCode>
     <ifscCode>KLGB0040460</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunjathur</name>
@@ -2409,7 +2427,7 @@
     <contact>278871</contact>
     <micrCode>671480811</micrCode>
     <ifscCode>KLGB0040459</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Munnad</name>
@@ -2418,7 +2436,7 @@
     <contact>205448</contact>
     <micrCode>671480810</micrCode>
     <ifscCode>KLGB0040458</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Madiyan</name>
@@ -2427,7 +2445,7 @@
     <contact>2267557</contact>
     <micrCode>671480056</micrCode>
     <ifscCode>KLGB0040457</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ezhome</name>
@@ -2436,7 +2454,7 @@
     <contact>2816395</contact>
     <micrCode>670480054</micrCode>
     <ifscCode>KLGB0040456</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Paral</name>
@@ -2445,7 +2463,7 @@
     <contact>2356131</contact>
     <micrCode>670480105</micrCode>
     <ifscCode>KLGB0040455</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Melparamba</name>
@@ -2454,7 +2472,7 @@
     <contact>237305</contact>
     <micrCode>671480008</micrCode>
     <ifscCode>KLGB0040454</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Olayampady</name>
@@ -2463,7 +2481,7 @@
     <contact>251110</contact>
     <micrCode>670480817</micrCode>
     <ifscCode>KLGB0040453</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Taliparamba</name>
@@ -2472,7 +2490,7 @@
     <contact>2203375</contact>
     <micrCode>670480052</micrCode>
     <ifscCode>KLGB0040452</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adoor Kasargode</name>
@@ -2481,7 +2499,7 @@
     <contact>270156</contact>
     <micrCode>671480007</micrCode>
     <ifscCode>KLGB0040451</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keezhpally</name>
@@ -2490,7 +2508,7 @@
     <contact>2454503</contact>
     <micrCode>670480816</micrCode>
     <ifscCode>KLGB0040450</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Meeyapadavu</name>
@@ -2499,7 +2517,7 @@
     <contact>252122</contact>
     <micrCode>671480809</micrCode>
     <ifscCode>KLGB0040449</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manakkadavu</name>
@@ -2508,7 +2526,7 @@
     <contact>2286721</contact>
     <micrCode>670480818</micrCode>
     <ifscCode>KLGB0040448</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chapparapadavu</name>
@@ -2517,7 +2535,7 @@
     <contact>2270244</contact>
     <micrCode>670480053</micrCode>
     <ifscCode>KLGB0040447</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallikandy</name>
@@ -2526,7 +2544,7 @@
     <contact>2462095</contact>
     <micrCode>670480106</micrCode>
     <ifscCode>KLGB0040446</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunhippally</name>
@@ -2535,7 +2553,7 @@
     <contact>2707544</contact>
     <micrCode>670480009</micrCode>
     <ifscCode>KLGB0040445</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karetta</name>
@@ -2544,7 +2562,7 @@
     <contact>2477727</contact>
     <micrCode>670480815</micrCode>
     <ifscCode>KLGB0040444</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peratta</name>
@@ -2553,7 +2571,7 @@
     <contact>2420757</contact>
     <micrCode>670480814</micrCode>
     <ifscCode>KLGB0040443</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Periya Bazar</name>
@@ -2562,7 +2580,7 @@
     <contact>2234050</contact>
     <micrCode>671480055</micrCode>
     <ifscCode>KLGB0040442</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kelakam</name>
@@ -2571,7 +2589,7 @@
     <contact>2412047</contact>
     <micrCode>670480813</micrCode>
     <ifscCode>KLGB0040441</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheruvancherry</name>
@@ -2580,7 +2598,7 @@
     <contact>2304403</contact>
     <micrCode>670480812</micrCode>
     <ifscCode>KLGB0040440</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pinarayi</name>
@@ -2589,7 +2607,7 @@
     <contact>2382739</contact>
     <micrCode>670480104</micrCode>
     <ifscCode>KLGB0040439</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parappa</name>
@@ -2598,7 +2616,7 @@
     <contact>2254202</contact>
     <micrCode>671480808</micrCode>
     <ifscCode>KLGB0040438</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambalathara</name>
@@ -2607,7 +2625,7 @@
     <contact>2243680</contact>
     <micrCode>671480054</micrCode>
     <ifscCode>KLGB0040437</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheruvathur</name>
@@ -2616,7 +2634,7 @@
     <contact>2260260</contact>
     <micrCode>670480159</micrCode>
     <ifscCode>KLGB0040436</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vallikadavu</name>
@@ -2625,7 +2643,7 @@
     <contact>2247470</contact>
     <micrCode>671480807</micrCode>
     <ifscCode>KLGB0040435</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolayad</name>
@@ -2634,7 +2652,7 @@
     <contact>2302412</contact>
     <micrCode>670480811</micrCode>
     <ifscCode>KLGB0040434</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valiyaparamba</name>
@@ -2643,7 +2661,7 @@
     <contact>2258358</contact>
     <micrCode>670480158</micrCode>
     <ifscCode>KLGB0040433</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalchanadka</name>
@@ -2652,7 +2670,7 @@
     <contact>2256110</contact>
     <micrCode>671480806</micrCode>
     <ifscCode>KLGB0040432</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thayyil</name>
@@ -2661,7 +2679,7 @@
     <contact>2731456</contact>
     <micrCode>670480004</micrCode>
     <ifscCode>KLGB0040431</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vattianthodu</name>
@@ -2670,7 +2688,7 @@
     <contact>2216029</contact>
     <micrCode>670480810</micrCode>
     <ifscCode>KLGB0040430</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chengala</name>
@@ -2679,7 +2697,7 @@
     <contact>280283</contact>
     <micrCode>671480006</micrCode>
     <ifscCode>KLGB0040429</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peringathur</name>
@@ -2688,7 +2706,7 @@
     <contact>2393055</contact>
     <micrCode>670480103</micrCode>
     <ifscCode>KLGB0040428</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheemeni</name>
@@ -2697,7 +2715,7 @@
     <contact>2250345</contact>
     <micrCode>670480157</micrCode>
     <ifscCode>KLGB0040427</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karikottakari</name>
@@ -2706,7 +2724,7 @@
     <contact>2454566</contact>
     <micrCode>670480809</micrCode>
     <ifscCode>KLGB0040426</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakkengad</name>
@@ -2715,7 +2733,7 @@
     <contact>2457930</contact>
     <micrCode>670480808</micrCode>
     <ifscCode>KLGB0040425</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kudukkimotta</name>
@@ -2724,7 +2742,7 @@
     <contact>2857949</contact>
     <micrCode>670480012</micrCode>
     <ifscCode>KLGB0040424</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheruthazham</name>
@@ -2733,7 +2751,7 @@
     <contact>2800210</contact>
     <micrCode>670480156</micrCode>
     <ifscCode>KLGB0040423</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thana</name>
@@ -2742,7 +2760,7 @@
     <contact>2704341</contact>
     <micrCode>670480003</micrCode>
     <ifscCode>KLGB0040422</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mattool</name>
@@ -2751,7 +2769,7 @@
     <contact>2842087</contact>
     <micrCode>670480807</micrCode>
     <ifscCode>KLGB0040421</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bandadka</name>
@@ -2760,7 +2778,7 @@
     <contact>200210</contact>
     <micrCode>671480805</micrCode>
     <ifscCode>KLGB0040420</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palavayal</name>
@@ -2769,7 +2787,7 @@
     <contact>212225</contact>
     <micrCode>670480806</micrCode>
     <ifscCode>KLGB0040419</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Payyavoor</name>
@@ -2778,7 +2796,7 @@
     <contact>2210143</contact>
     <micrCode>670480805</micrCode>
     <ifscCode>KLGB0040418</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthige</name>
@@ -2787,7 +2805,7 @@
     <contact>245224</contact>
     <micrCode>671480005</micrCode>
     <ifscCode>KLGB0040417</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panathady</name>
@@ -2796,7 +2814,7 @@
     <contact>2228370</contact>
     <micrCode>671480804</micrCode>
     <ifscCode>KLGB0040416</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Permude</name>
@@ -2805,7 +2823,7 @@
     <contact>245205</contact>
     <micrCode>671480803</micrCode>
     <ifscCode>KLGB0040415</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udinur</name>
@@ -2814,7 +2832,7 @@
     <contact>2211250</contact>
     <micrCode>670480155</micrCode>
     <ifscCode>KLGB0040414</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jayanagara</name>
@@ -2823,7 +2841,7 @@
     <contact>260206</contact>
     <micrCode>671480802</micrCode>
     <ifscCode>KLGB0040413</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mogral Puthur</name>
@@ -2832,7 +2850,7 @@
     <contact>233457</contact>
     <micrCode>671480004</micrCode>
     <ifscCode>KLGB0040412</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellamunda</name>
@@ -2841,7 +2859,7 @@
     <contact>230331</contact>
     <micrCode>670480204</micrCode>
     <ifscCode>KLGB0040411</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kudiyanmala</name>
@@ -2850,7 +2868,7 @@
     <contact>2218666</contact>
     <micrCode>670480804</micrCode>
     <ifscCode>KLGB0040410</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mathil</name>
@@ -2859,7 +2877,7 @@
     <contact>280520</contact>
     <micrCode>670480154</micrCode>
     <ifscCode>KLGB0040409</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramanthali</name>
@@ -2868,7 +2886,7 @@
     <contact>222548</contact>
     <micrCode>670480153</micrCode>
     <ifscCode>KLGB0040408</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vengad</name>
@@ -2877,7 +2895,7 @@
     <contact>2308572</contact>
     <micrCode>670480803</micrCode>
     <ifscCode>KLGB0040407</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narkilakkad</name>
@@ -2886,7 +2904,7 @@
     <contact>2241348</contact>
     <micrCode>671480801</micrCode>
     <ifscCode>KLGB0040406</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Periya</name>
@@ -2895,7 +2913,7 @@
     <contact>260070</contact>
     <micrCode>670480802</micrCode>
     <ifscCode>KLGB0040405</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kartikulam</name>
@@ -2904,7 +2922,7 @@
     <contact>250441</contact>
     <micrCode>670480203</micrCode>
     <ifscCode>KLGB0040404</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolassery</name>
@@ -2913,7 +2931,7 @@
     <contact>240550</contact>
     <micrCode>670480801</micrCode>
     <ifscCode>KLGB0040403</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chala</name>
@@ -2922,7 +2940,7 @@
     <contact>2820733</contact>
     <micrCode>670480011</micrCode>
     <ifscCode>KLGB0040402</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edayannur</name>
@@ -2931,7 +2949,7 @@
     <contact>2484241</contact>
     <micrCode>670480842</micrCode>
     <ifscCode>KLGB0040401</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thrissur RO</name>
@@ -2940,7 +2958,7 @@
     <contact>2446826</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040400</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvananthapuram RO</name>
@@ -2949,7 +2967,7 @@
     <contact>2434303</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040399</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thalassery RO</name>
@@ -2958,7 +2976,7 @@
     <contact>2341303</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040398</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perinthalmanna RO</name>
@@ -2967,7 +2985,7 @@
     <contact>229660</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040397</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kozhikode RO</name>
@@ -2976,7 +2994,7 @@
     <contact>2761540</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040396</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasaragod RO</name>
@@ -2985,7 +3003,7 @@
     <contact>222053</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040395</ifscCode>
-    <bankLoc>12725</bankLoc>
+    <bankLoc>12810</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kannur RO</name>
@@ -2994,7 +3012,7 @@
     <contact>2712377</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040394</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalpetta RO</name>
@@ -3003,7 +3021,7 @@
     <contact>204309</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040393</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ernakulam RO</name>
@@ -3012,7 +3030,7 @@
     <contact>2536302</contact>
     <micrCode>NA</micrCode>
     <ifscCode>KLGB0040392</ifscCode>
-    <bankLoc>12722</bankLoc>
+    <bankLoc>12807</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Upputhara</name>
@@ -3021,7 +3039,7 @@
     <contact>9244940</contact>
     <micrCode>685480203</micrCode>
     <ifscCode>KLGB0040391</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumkuzhi</name>
@@ -3030,7 +3048,7 @@
     <contact>2634066</contact>
     <micrCode>695480023</micrCode>
     <ifscCode>KLGB0040390</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kumili</name>
@@ -3039,7 +3057,7 @@
     <contact>9222490</contact>
     <micrCode>685480204</micrCode>
     <ifscCode>KLGB0040389</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kulanada</name>
@@ -3048,7 +3066,7 @@
     <contact>4208400</contact>
     <micrCode>689480479</micrCode>
     <ifscCode>KLGB0040388</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattangal</name>
@@ -3057,7 +3075,7 @@
     <contact>2287188</contact>
     <micrCode>673480051</micrCode>
     <ifscCode>KLGB0040387</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elavumthitta</name>
@@ -3066,7 +3084,7 @@
     <contact>2257307</contact>
     <micrCode>689480478</micrCode>
     <ifscCode>KLGB0040386</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elappara</name>
@@ -3075,7 +3093,7 @@
     <contact>242055</contact>
     <micrCode>685480202</micrCode>
     <ifscCode>KLGB0040385</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Angadippuram</name>
@@ -3084,7 +3102,7 @@
     <contact>253284</contact>
     <micrCode>679480159</micrCode>
     <ifscCode>KLGB0040384</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arangottukara</name>
@@ -3093,7 +3111,7 @@
     <contact>2258130</contact>
     <micrCode>679480355</micrCode>
     <ifscCode>KLGB0040383</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalikavu</name>
@@ -3102,7 +3120,7 @@
     <contact>258781</contact>
     <micrCode>679480106</micrCode>
     <ifscCode>KLGB0040382</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pravachambalam</name>
@@ -3111,7 +3129,7 @@
     <contact>2390992</contact>
     <micrCode>695480021</micrCode>
     <ifscCode>KLGB0040381</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellarada</name>
@@ -3120,7 +3138,7 @@
     <contact>2241067</contact>
     <micrCode>695480802</micrCode>
     <ifscCode>KLGB0040380</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellar</name>
@@ -3129,7 +3147,7 @@
     <contact>2488379</contact>
     <micrCode>695480022</micrCode>
     <ifscCode>KLGB0040379</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mattathur</name>
@@ -3138,7 +3156,7 @@
     <contact>2742121</contact>
     <micrCode>680480801</micrCode>
     <ifscCode>KLGB0040378</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maranellur</name>
@@ -3147,7 +3165,7 @@
     <contact>2297311</contact>
     <micrCode>695480019</micrCode>
     <ifscCode>KLGB0040377</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thachampara</name>
@@ -3156,7 +3174,7 @@
     <contact>243121</contact>
     <micrCode>678480153</micrCode>
     <ifscCode>KLGB0040376</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Erumapetty</name>
@@ -3165,7 +3183,7 @@
     <contact>262563</contact>
     <micrCode>680480303</micrCode>
     <ifscCode>KLGB0040375</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koppam</name>
@@ -3174,7 +3192,7 @@
     <contact>2262071</contact>
     <micrCode>679480354</micrCode>
     <ifscCode>KLGB0040374</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malayalappuzha</name>
@@ -3183,7 +3201,7 @@
     <contact>2300155</contact>
     <micrCode>689480106</micrCode>
     <ifscCode>KLGB0040373</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malayankeezhu</name>
@@ -3192,7 +3210,7 @@
     <contact>2280009</contact>
     <micrCode>695480020</micrCode>
     <ifscCode>KLGB0040372</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalapally</name>
@@ -3201,7 +3219,7 @@
     <contact>2794142</contact>
     <micrCode>689480253</micrCode>
     <ifscCode>KLGB0040371</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thumpamon</name>
@@ -3210,7 +3228,7 @@
     <contact>266678</contact>
     <micrCode>689480477</micrCode>
     <ifscCode>KLGB0040370</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chungapara</name>
@@ -3219,7 +3237,7 @@
     <contact>2696131</contact>
     <micrCode>689480254</micrCode>
     <ifscCode>KLGB0040369</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Annamanada</name>
@@ -3228,7 +3246,7 @@
     <contact>2771433</contact>
     <micrCode>680480018</micrCode>
     <ifscCode>KLGB0040368</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolazhi</name>
@@ -3237,7 +3255,7 @@
     <contact>2204033</contact>
     <micrCode>680480017</micrCode>
     <ifscCode>KLGB0040367</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muthuvara</name>
@@ -3246,7 +3264,7 @@
     <contact>2309833</contact>
     <micrCode>680480016</micrCode>
     <ifscCode>KLGB0040366</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ezhamkulam</name>
@@ -3255,7 +3273,7 @@
     <contact>240688</contact>
     <micrCode>691480056</micrCode>
     <ifscCode>KLGB0040365</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nagaroor</name>
@@ -3264,7 +3282,7 @@
     <contact>2678454</contact>
     <micrCode>695480017</micrCode>
     <ifscCode>KLGB0040364</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjar</name>
@@ -3273,7 +3291,7 @@
     <contact>252580</contact>
     <micrCode>685480803</micrCode>
     <ifscCode>KLGB0040363</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalayanthani</name>
@@ -3282,7 +3300,7 @@
     <contact>276433</contact>
     <micrCode>685480007</micrCode>
     <ifscCode>KLGB0040362</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mangalapuram</name>
@@ -3291,7 +3309,7 @@
     <contact>2617875</contact>
     <micrCode>695480016</micrCode>
     <ifscCode>KLGB0040361</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vennikulam</name>
@@ -3300,7 +3318,7 @@
     <contact>2650087</contact>
     <micrCode>689480803</micrCode>
     <ifscCode>KLGB0040360</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omalloor</name>
@@ -3309,7 +3327,7 @@
     <contact>2350532</contact>
     <micrCode>689480104</micrCode>
     <ifscCode>KLGB0040359</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kidangannur</name>
@@ -3318,7 +3336,7 @@
     <contact>286269</contact>
     <micrCode>689480105</micrCode>
     <ifscCode>KLGB0040358</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhithala</name>
@@ -3327,7 +3345,7 @@
     <contact>274500</contact>
     <micrCode>685480006</micrCode>
     <ifscCode>KLGB0040357</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udumbannoor</name>
@@ -3336,7 +3354,7 @@
     <contact>272555</contact>
     <micrCode>685480802</micrCode>
     <ifscCode>KLGB0040356</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vannapuram</name>
@@ -3345,7 +3363,7 @@
     <contact>245656</contact>
     <micrCode>685480801</micrCode>
     <ifscCode>KLGB0040355</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellanad</name>
@@ -3354,7 +3372,7 @@
     <contact>2883400</contact>
     <micrCode>695480015</micrCode>
     <ifscCode>KLGB0040354</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallara</name>
@@ -3363,7 +3381,7 @@
     <contact>2863022</contact>
     <micrCode>695480018</micrCode>
     <ifscCode>KLGB0040353</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallambalam</name>
@@ -3372,7 +3390,7 @@
     <contact>2690007</contact>
     <micrCode>695480255</micrCode>
     <ifscCode>KLGB0040352</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nadayara</name>
@@ -3381,7 +3399,7 @@
     <contact>2610111</contact>
     <micrCode>695480254</micrCode>
     <ifscCode>KLGB0040351</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vithura</name>
@@ -3390,7 +3408,7 @@
     <contact>2857575</contact>
     <micrCode>695480014</micrCode>
     <ifscCode>KLGB0040350</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Aryanadu</name>
@@ -3399,7 +3417,7 @@
     <contact>2851700</contact>
     <micrCode>695480013</micrCode>
     <ifscCode>KLGB0040349</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Udiyankulangara</name>
@@ -3408,7 +3426,7 @@
     <contact>2230433</contact>
     <micrCode>695480012</micrCode>
     <ifscCode>KLGB0040348</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaniyapuram</name>
@@ -3417,7 +3435,7 @@
     <contact>2757875</contact>
     <micrCode>695480011</micrCode>
     <ifscCode>KLGB0040347</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pothenkode</name>
@@ -3426,7 +3444,7 @@
     <contact>2410144</contact>
     <micrCode>695480010</micrCode>
     <ifscCode>KLGB0040346</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadakkavur</name>
@@ -3435,7 +3453,7 @@
     <contact>2656020</contact>
     <micrCode>695480253</micrCode>
     <ifscCode>KLGB0040345</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panavoor</name>
@@ -3444,7 +3462,7 @@
     <contact>2867260</contact>
     <micrCode>695480009</micrCode>
     <ifscCode>KLGB0040344</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karette</name>
@@ -3453,7 +3471,7 @@
     <contact>2836095</contact>
     <micrCode>695480008</micrCode>
     <ifscCode>KLGB0040343</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>TB Cell</name>
@@ -3462,7 +3480,7 @@
     <contact>2704810</contact>
     <micrCode>695480001</micrCode>
     <ifscCode>KLGB0040342</ifscCode>
-    <bankLoc>12724</bankLoc>
+    <bankLoc>12809</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panavila Branch</name>
@@ -3471,7 +3489,7 @@
     <contact>2320199</contact>
     <micrCode>695480007</micrCode>
     <ifscCode>KLGB0040341</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palode Branch</name>
@@ -3480,7 +3498,7 @@
     <contact>2840184</contact>
     <micrCode>695480801</micrCode>
     <ifscCode>KLGB0040340</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karimannur</name>
@@ -3489,7 +3507,7 @@
     <contact>262020</contact>
     <micrCode>685480005</micrCode>
     <ifscCode>KLGB0040339</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Venjaramoodu</name>
@@ -3498,7 +3516,7 @@
     <contact>2875455</contact>
     <micrCode>695480006</micrCode>
     <ifscCode>KLGB0040338</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattakada</name>
@@ -3507,7 +3525,7 @@
     <contact>2294080</contact>
     <micrCode>695480005</micrCode>
     <ifscCode>KLGB0040337</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adoor</name>
@@ -3516,7 +3534,7 @@
     <contact>223393</contact>
     <micrCode>691480052</micrCode>
     <ifscCode>KLGB0040336</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Service Branch Thrissur</name>
@@ -3525,7 +3543,7 @@
     <contact>2427750</contact>
     <micrCode>680480001</micrCode>
     <ifscCode>KLGB0040335</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sreekariyam</name>
@@ -3534,7 +3552,7 @@
     <contact>2558767</contact>
     <micrCode>695480004</micrCode>
     <ifscCode>KLGB0040334</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muttom</name>
@@ -3543,7 +3561,7 @@
     <contact>255888</contact>
     <micrCode>685480004</micrCode>
     <ifscCode>KLGB0040333</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ponnani South</name>
@@ -3552,7 +3570,7 @@
     <contact>2667512</contact>
     <micrCode>679480204</micrCode>
     <ifscCode>KLGB0040332</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karimkunnam</name>
@@ -3561,7 +3579,7 @@
     <contact>243888</contact>
     <micrCode>685480003</micrCode>
     <ifscCode>KLGB0040331</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Service Branch Kozhikode</name>
@@ -3570,7 +3588,7 @@
     <contact>2768003</contact>
     <micrCode>673480001</micrCode>
     <ifscCode>KLGB0040330</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvambady</name>
@@ -3579,7 +3597,7 @@
     <contact>2255725</contact>
     <micrCode>673480045</micrCode>
     <ifscCode>KLGB0040329</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodupuzha</name>
@@ -3588,7 +3606,7 @@
     <contact>2224050</contact>
     <micrCode>685480002</micrCode>
     <ifscCode>KLGB0040328</ifscCode>
-    <bankLoc>12723</bankLoc>
+    <bankLoc>12808</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nedumangad</name>
@@ -3597,7 +3615,7 @@
     <contact>2804646</contact>
     <micrCode>695480152</micrCode>
     <ifscCode>KLGB0040326</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balaramapuram</name>
@@ -3606,7 +3624,7 @@
     <contact>2399155</contact>
     <micrCode>695480102</micrCode>
     <ifscCode>KLGB0040325</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Attingal</name>
@@ -3615,7 +3633,7 @@
     <contact>2623930</contact>
     <micrCode>695480052</micrCode>
     <ifscCode>KLGB0040324</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peroorkada</name>
@@ -3624,7 +3642,7 @@
     <contact>2437322</contact>
     <micrCode>695480002</micrCode>
     <ifscCode>KLGB0040323</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manacaud</name>
@@ -3633,7 +3651,7 @@
     <contact>2465699</contact>
     <micrCode>695480003</micrCode>
     <ifscCode>KLGB0040322</ifscCode>
-    <bankLoc>12737</bankLoc>
+    <bankLoc>12822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuttanellur</name>
@@ -3642,7 +3660,7 @@
     <contact>2354050</contact>
     <micrCode>680480006</micrCode>
     <ifscCode>KLGB0040321</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kanjani</name>
@@ -3651,7 +3669,7 @@
     <contact>2631666</contact>
     <micrCode>680480009</micrCode>
     <ifscCode>KLGB0040320</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vallamkulam</name>
@@ -3660,7 +3678,7 @@
     <contact>2609599</contact>
     <micrCode>689480005</micrCode>
     <ifscCode>KLGB0040319</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chittar</name>
@@ -3669,7 +3687,7 @@
     <contact>256800</contact>
     <micrCode>689480802</micrCode>
     <ifscCode>KLGB0040318</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunnamthanam</name>
@@ -3678,7 +3696,7 @@
     <contact>2690400</contact>
     <micrCode>689480003</micrCode>
     <ifscCode>KLGB0040317</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pandalam</name>
@@ -3687,7 +3705,7 @@
     <contact>256440</contact>
     <micrCode>689480476</micrCode>
     <ifscCode>KLGB0040316</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandanapally</name>
@@ -3696,7 +3714,7 @@
     <contact>2255990</contact>
     <micrCode>691480055</micrCode>
     <ifscCode>KLGB0040315</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadambanad</name>
@@ -3705,7 +3723,7 @@
     <contact>281900</contact>
     <micrCode>691480053</micrCode>
     <ifscCode>KLGB0040314</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadasserikkara</name>
@@ -3714,7 +3732,7 @@
     <contact>252330</contact>
     <micrCode>689480103</micrCode>
     <ifscCode>KLGB0040313</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ayiroor</name>
@@ -3723,7 +3741,7 @@
     <contact>230190</contact>
     <micrCode>689480153</micrCode>
     <ifscCode>KLGB0040312</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalanjoor</name>
@@ -3732,7 +3750,7 @@
     <contact>272336</contact>
     <micrCode>689480801</micrCode>
     <ifscCode>KLGB0040311</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Enathu</name>
@@ -3741,7 +3759,7 @@
     <contact>211246</contact>
     <micrCode>691480054</micrCode>
     <ifscCode>KLGB0040310</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koyipuram Pullad</name>
@@ -3750,7 +3768,7 @@
     <contact>2661533</contact>
     <micrCode>689480004</micrCode>
     <ifscCode>KLGB0040309</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Konni</name>
@@ -3759,7 +3777,7 @@
     <contact>2340740</contact>
     <micrCode>689480352</micrCode>
     <ifscCode>KLGB0040308</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pathanamthitta</name>
@@ -3768,7 +3786,7 @@
     <contact>2322575</contact>
     <micrCode>689480102</micrCode>
     <ifscCode>KLGB0040307</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pazhavangadi Ranni</name>
@@ -3777,7 +3795,7 @@
     <contact>229450</contact>
     <micrCode>689480252</micrCode>
     <ifscCode>KLGB0040306</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvalla</name>
@@ -3786,7 +3804,7 @@
     <contact>2602485</contact>
     <micrCode>689480002</micrCode>
     <ifscCode>KLGB0040305</ifscCode>
-    <bankLoc>12733</bankLoc>
+    <bankLoc>12818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guruvayur</name>
@@ -3795,7 +3813,7 @@
     <contact>2553857</contact>
     <micrCode>680480052</micrCode>
     <ifscCode>KLGB0040304</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuriachira</name>
@@ -3804,7 +3822,7 @@
     <contact>2254126</contact>
     <micrCode>680480005</micrCode>
     <ifscCode>KLGB0040303</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumpillissery</name>
@@ -3813,7 +3831,7 @@
     <contact>2342874</contact>
     <micrCode>680480007</micrCode>
     <ifscCode>KLGB0040302</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Choondal</name>
@@ -3822,7 +3840,7 @@
     <contact>221815</contact>
     <micrCode>680480008</micrCode>
     <ifscCode>KLGB0040301</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalladikode</name>
@@ -3831,7 +3849,7 @@
     <contact>247066</contact>
     <micrCode>678480801</micrCode>
     <ifscCode>KLGB0040300</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Makkaraparamba</name>
@@ -3840,7 +3858,7 @@
     <contact>281992</contact>
     <micrCode>676480155</micrCode>
     <ifscCode>KLGB0040299</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thathamangalam</name>
@@ -3849,7 +3867,7 @@
     <contact>228105</contact>
     <micrCode>678480253</micrCode>
     <ifscCode>KLGB0040298</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pathiripala</name>
@@ -3858,7 +3876,7 @@
     <contact>2874392</contact>
     <micrCode>679480003</micrCode>
     <ifscCode>KLGB0040297</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadakkekad</name>
@@ -3867,7 +3885,7 @@
     <contact>2541093</contact>
     <micrCode>680480015</micrCode>
     <ifscCode>KLGB0040296</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koduvayur</name>
@@ -3876,7 +3894,7 @@
     <contact>252645</contact>
     <micrCode>678480004</micrCode>
     <ifscCode>KLGB0040295</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koyalmannam</name>
@@ -3885,7 +3903,7 @@
     <contact>273932</contact>
     <micrCode>678480802</micrCode>
     <ifscCode>KLGB0040294</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alur</name>
@@ -3894,7 +3912,7 @@
     <contact>2724090</contact>
     <micrCode>680480011</micrCode>
     <ifscCode>KLGB0040293</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Amballur</name>
@@ -3903,7 +3921,7 @@
     <contact>2755002</contact>
     <micrCode>680480352</micrCode>
     <ifscCode>KLGB0040292</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunnamangalam</name>
@@ -3912,7 +3930,7 @@
     <contact>2802090</contact>
     <micrCode>673480012</micrCode>
     <ifscCode>KLGB0040291</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattikkad</name>
@@ -3921,7 +3939,7 @@
     <contact>2283526</contact>
     <micrCode>680480013</micrCode>
     <ifscCode>KLGB0040290</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mala</name>
@@ -3930,7 +3948,7 @@
     <contact>2894362</contact>
     <micrCode>680480010</micrCode>
     <ifscCode>KLGB0040289</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaipamangalam</name>
@@ -3939,7 +3957,7 @@
     <contact>2841212</contact>
     <micrCode>680480012</micrCode>
     <ifscCode>KLGB0040288</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edappal</name>
@@ -3948,7 +3966,7 @@
     <contact>2684303</contact>
     <micrCode>679480302</micrCode>
     <ifscCode>KLGB0040287</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Wadkkanchery TSR</name>
@@ -3957,7 +3975,7 @@
     <contact>231918</contact>
     <micrCode>680480402</micrCode>
     <ifscCode>KLGB0040286</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chungathara</name>
@@ -3966,7 +3984,7 @@
     <contact>231760</contact>
     <micrCode>679480103</micrCode>
     <ifscCode>KLGB0040285</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shornur</name>
@@ -3975,7 +3993,7 @@
     <contact>2224884</contact>
     <micrCode>679480052</micrCode>
     <ifscCode>KLGB0040284</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koratty</name>
@@ -3984,7 +4002,7 @@
     <contact>2731116</contact>
     <micrCode>680480153</micrCode>
     <ifscCode>KLGB0040283</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thriprayar</name>
@@ -3993,7 +4011,7 @@
     <contact>2397006</contact>
     <micrCode>680480452</micrCode>
     <ifscCode>KLGB0040282</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadanappilly</name>
@@ -4002,7 +4020,7 @@
     <contact>2605857</contact>
     <micrCode>680480103</micrCode>
     <ifscCode>KLGB0040281</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koottanad</name>
@@ -4011,7 +4029,7 @@
     <contact>2370634</contact>
     <micrCode>679480353</micrCode>
     <ifscCode>KLGB0040280</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cherpulassery</name>
@@ -4020,7 +4038,7 @@
     <contact>2281932</contact>
     <micrCode>679480252</micrCode>
     <ifscCode>KLGB0040279</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chelakkara</name>
@@ -4029,7 +4047,7 @@
     <contact>250373</contact>
     <micrCode>680480014</micrCode>
     <ifscCode>KLGB0040278</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Olarikkara</name>
@@ -4038,7 +4056,7 @@
     <contact>2360456</contact>
     <micrCode>680480004</micrCode>
     <ifscCode>KLGB0040277</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadakkenchery</name>
@@ -4047,7 +4065,7 @@
     <contact>256575</contact>
     <micrCode>678480803</micrCode>
     <ifscCode>KLGB0040276</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chemmad</name>
@@ -4056,7 +4074,7 @@
     <contact>2464550</contact>
     <micrCode>676480302</micrCode>
     <ifscCode>KLGB0040275</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramanattukara</name>
@@ -4065,7 +4083,7 @@
     <contact>2442285</contact>
     <micrCode>673480011</micrCode>
     <ifscCode>KLGB0040274</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thrissur East Fort</name>
@@ -4074,7 +4092,7 @@
     <contact>2443365</contact>
     <micrCode>680480003</micrCode>
     <ifscCode>KLGB0040273</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattambi</name>
@@ -4083,7 +4101,7 @@
     <contact>2214613</contact>
     <micrCode>679480352</micrCode>
     <ifscCode>KLGB0040272</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kunnamkulam</name>
@@ -4092,7 +4110,7 @@
     <contact>228654</contact>
     <micrCode>680480302</micrCode>
     <ifscCode>KLGB0040271</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Meenangadi</name>
@@ -4101,7 +4119,7 @@
     <contact>248310</contact>
     <micrCode>673480256</micrCode>
     <ifscCode>KLGB0040270</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thamarassery</name>
@@ -4110,7 +4128,7 @@
     <contact>2225340</contact>
     <micrCode>673480452</micrCode>
     <ifscCode>KLGB0040269</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ottappalam</name>
@@ -4119,7 +4137,7 @@
     <contact>2247647</contact>
     <micrCode>679480002</micrCode>
     <ifscCode>KLGB0040268</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mannarkkad</name>
@@ -4128,7 +4146,7 @@
     <contact>224178</contact>
     <micrCode>678480152</micrCode>
     <ifscCode>KLGB0040267</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthur Palakkad</name>
@@ -4137,7 +4155,7 @@
     <contact>2547482</contact>
     <micrCode>678480003</micrCode>
     <ifscCode>KLGB0040266</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalakkudy</name>
@@ -4146,7 +4164,7 @@
     <contact>2709594</contact>
     <micrCode>680480152</micrCode>
     <ifscCode>KLGB0040265</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodungallur</name>
@@ -4155,7 +4173,7 @@
     <contact>2810460</contact>
     <micrCode>680480252</micrCode>
     <ifscCode>KLGB0040264</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palakkad Main</name>
@@ -4164,7 +4182,7 @@
     <contact>2535811</contact>
     <micrCode>678480002</micrCode>
     <ifscCode>KLGB0040263</ifscCode>
-    <bankLoc>12732</bankLoc>
+    <bankLoc>12817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Irinjalakuda</name>
@@ -4173,7 +4191,7 @@
     <contact>2820603</contact>
     <micrCode>680480202</micrCode>
     <ifscCode>KLGB0040262</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thrissur</name>
@@ -4182,7 +4200,7 @@
     <contact>2334053</contact>
     <micrCode>680480002</micrCode>
     <ifscCode>KLGB0040261</ifscCode>
-    <bankLoc>12736</bankLoc>
+    <bankLoc>12821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallai</name>
@@ -4191,7 +4209,7 @@
     <contact>2702020</contact>
     <micrCode>673480003</micrCode>
     <ifscCode>KLGB0040260</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nadakkavu</name>
@@ -4200,7 +4218,7 @@
     <contact>2383300</contact>
     <micrCode>673480009</micrCode>
     <ifscCode>KLGB0040259</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Medical College</name>
@@ -4209,7 +4227,7 @@
     <contact>2353365</contact>
     <micrCode>673480008</micrCode>
     <ifscCode>KLGB0040258</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malaparamba</name>
@@ -4218,7 +4236,7 @@
     <contact>2374677</contact>
     <micrCode>673480005</micrCode>
     <ifscCode>KLGB0040257</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mavoor Road</name>
@@ -4227,7 +4245,7 @@
     <contact>2727909</contact>
     <micrCode>673480007</micrCode>
     <ifscCode>KLGB0040256</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottakkal</name>
@@ -4236,7 +4254,7 @@
     <contact>2745037</contact>
     <micrCode>676480102</micrCode>
     <ifscCode>KLGB0040255</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valanchery</name>
@@ -4245,7 +4263,7 @@
     <contact>2642442</contact>
     <micrCode>676480252</micrCode>
     <ifscCode>KLGB0040254</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tirur</name>
@@ -4254,7 +4272,7 @@
     <contact>2421141</contact>
     <micrCode>676480002</micrCode>
     <ifscCode>KLGB0040253</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kondotty</name>
@@ -4263,7 +4281,7 @@
     <contact>2715474</contact>
     <micrCode>673480402</micrCode>
     <ifscCode>KLGB0040252</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuttiady</name>
@@ -4272,7 +4290,7 @@
     <contact>2596571</contact>
     <micrCode>673480804</micrCode>
     <ifscCode>KLGB0040251</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kallachi</name>
@@ -4281,7 +4299,7 @@
     <contact>2552920</contact>
     <micrCode>673480820</micrCode>
     <ifscCode>KLGB0040250</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadakara</name>
@@ -4290,7 +4308,7 @@
     <contact>2526622</contact>
     <micrCode>673480302</micrCode>
     <ifscCode>KLGB0040249</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Achanambalam</name>
@@ -4299,7 +4317,7 @@
     <contact>2490772</contact>
     <micrCode>676480304</micrCode>
     <ifscCode>KLGB0040248</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valiyora</name>
@@ -4308,7 +4326,7 @@
     <contact>2452314</contact>
     <micrCode>676480306</micrCode>
     <ifscCode>KLGB0040247</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Irulam</name>
@@ -4317,7 +4335,7 @@
     <contact>238951</contact>
     <micrCode>673480821</micrCode>
     <ifscCode>KLGB0040246</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puzhakkattiri</name>
@@ -4326,7 +4344,7 @@
     <contact>254360</contact>
     <micrCode>679480156</micrCode>
     <ifscCode>KLGB0040245</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valiyakunnu</name>
@@ -4335,7 +4353,7 @@
     <contact>2620003</contact>
     <micrCode>676480256</micrCode>
     <ifscCode>KLGB0040244</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chakkittapara</name>
@@ -4344,7 +4362,7 @@
     <contact>2662341</contact>
     <micrCode>673480817</micrCode>
     <ifscCode>KLGB0040243</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Balussery</name>
@@ -4353,7 +4371,7 @@
     <contact>2640090</contact>
     <micrCode>673480352</micrCode>
     <ifscCode>KLGB0040242</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muchukunnu</name>
@@ -4362,7 +4380,7 @@
     <contact>2690771</contact>
     <micrCode>673480028</micrCode>
     <ifscCode>KLGB0040241</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Onchiyam</name>
@@ -4371,7 +4389,7 @@
     <contact>2521017</contact>
     <micrCode>673480809</micrCode>
     <ifscCode>KLGB0040239</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chokkad</name>
@@ -4380,7 +4398,7 @@
     <contact>260383</contact>
     <micrCode>679480803</micrCode>
     <ifscCode>KLGB0040238</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuningad</name>
@@ -4389,7 +4407,7 @@
     <contact>2551350</contact>
     <micrCode>673480803</micrCode>
     <ifscCode>KLGB0040237</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sulthan Bathery</name>
@@ -4398,7 +4416,7 @@
     <contact>220482</contact>
     <micrCode>673480252</micrCode>
     <ifscCode>KLGB0040236</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chengottukavu</name>
@@ -4407,7 +4425,7 @@
     <contact>2630108</contact>
     <micrCode>673480021</micrCode>
     <ifscCode>KLGB0040235</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omasseri</name>
@@ -4416,7 +4434,7 @@
     <contact>2811310</contact>
     <micrCode>673480031</micrCode>
     <ifscCode>KLGB0040234</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuttippuram</name>
@@ -4425,7 +4443,7 @@
     <contact>2608465</contact>
     <micrCode>676480254</micrCode>
     <ifscCode>KLGB0040233</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narippatta</name>
@@ -4434,7 +4452,7 @@
     <contact>2445711</contact>
     <micrCode>673480808</micrCode>
     <ifscCode>KLGB0040232</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaduvanchal</name>
@@ -4443,7 +4461,7 @@
     <contact>217454</contact>
     <micrCode>673480826</micrCode>
     <ifscCode>KLGB0040231</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nadavayal</name>
@@ -4452,7 +4470,7 @@
     <contact>211145</contact>
     <micrCode>673480824</micrCode>
     <ifscCode>KLGB0040230</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pozhuthana</name>
@@ -4461,7 +4479,7 @@
     <contact>255380</contact>
     <micrCode>673480825</micrCode>
     <ifscCode>KLGB0040229</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Areacode</name>
@@ -4470,7 +4488,7 @@
     <contact>2850616</contact>
     <micrCode>676480804</micrCode>
     <ifscCode>KLGB0040228</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vanimel</name>
@@ -4479,7 +4497,7 @@
     <contact>2560355</contact>
     <micrCode>673480814</micrCode>
     <ifscCode>KLGB0040227</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thalayad</name>
@@ -4488,7 +4506,7 @@
     <contact>2270263</contact>
     <micrCode>673480049</micrCode>
     <ifscCode>KLGB0040226</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vattamkulam</name>
@@ -4497,7 +4515,7 @@
     <contact>2680941</contact>
     <micrCode>679480801</micrCode>
     <ifscCode>KLGB0040225</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purakkattiri</name>
@@ -4506,7 +4524,7 @@
     <contact>2852263</contact>
     <micrCode>673480034</micrCode>
     <ifscCode>KLGB0040224</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keezhariyoor</name>
@@ -4515,7 +4533,7 @@
     <contact>2676841</contact>
     <micrCode>673480037</micrCode>
     <ifscCode>KLGB0040223</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Moodadi</name>
@@ -4524,7 +4542,7 @@
     <contact>2690122</contact>
     <micrCode>673480027</micrCode>
     <ifscCode>KLGB0040222</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pookad</name>
@@ -4533,7 +4551,7 @@
     <contact>2687163</contact>
     <micrCode>673480032</micrCode>
     <ifscCode>KLGB0040221</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Parappanangadi</name>
@@ -4542,7 +4560,7 @@
     <contact>2410316</contact>
     <micrCode>676480203</micrCode>
     <ifscCode>KLGB0040220</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolathur</name>
@@ -4551,7 +4569,7 @@
     <contact>203264</contact>
     <micrCode>679480806</micrCode>
     <ifscCode>KLGB0040219</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elamkulam</name>
@@ -4560,7 +4578,7 @@
     <contact>230230</contact>
     <micrCode>679480154</micrCode>
     <ifscCode>KLGB0040218</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvali</name>
@@ -4569,7 +4587,7 @@
     <contact>2721177</contact>
     <micrCode>676480803</micrCode>
     <ifscCode>KLGB0040217</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chelari</name>
@@ -4578,7 +4596,7 @@
     <contact>240084</contact>
     <micrCode>676480305</micrCode>
     <ifscCode>KLGB0040216</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakkattil</name>
@@ -4587,7 +4605,7 @@
     <contact>2445109</contact>
     <micrCode>673480819</micrCode>
     <ifscCode>KLGB0040215</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chamal</name>
@@ -4596,7 +4614,7 @@
     <contact>2270106</contact>
     <micrCode>673480041</micrCode>
     <ifscCode>KLGB0040214</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perinthalmanna</name>
@@ -4605,7 +4623,7 @@
     <contact>227535</contact>
     <micrCode>679480152</micrCode>
     <ifscCode>KLGB0040213</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edachery</name>
@@ -4614,7 +4632,7 @@
     <contact>2547333</contact>
     <micrCode>673480818</micrCode>
     <ifscCode>KLGB0040212</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vakery</name>
@@ -4623,7 +4641,7 @@
     <contact>229018</contact>
     <micrCode>673480257</micrCode>
     <ifscCode>KLGB0040211</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vilangad</name>
@@ -4632,7 +4650,7 @@
     <contact>2467624</contact>
     <micrCode>673480816</micrCode>
     <ifscCode>KLGB0040210</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Payyoli Bazar</name>
@@ -4641,7 +4659,7 @@
     <contact>2470114</contact>
     <micrCode>673480048</micrCode>
     <ifscCode>KLGB0040209</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manjeri</name>
@@ -4650,7 +4668,7 @@
     <contact>2763388</contact>
     <micrCode>676480052</micrCode>
     <ifscCode>KLGB0040208</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thirurkkad</name>
@@ -4659,7 +4677,7 @@
     <contact>239307</contact>
     <micrCode>679480158</micrCode>
     <ifscCode>KLGB0040207</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purathur</name>
@@ -4668,7 +4686,7 @@
     <contact>2563432</contact>
     <micrCode>676480005</micrCode>
     <ifscCode>KLGB0040206</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalpetta</name>
@@ -4677,7 +4695,7 @@
     <contact>202509</contact>
     <micrCode>673480202</micrCode>
     <ifscCode>KLGB0040205</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tuvvur</name>
@@ -4686,7 +4704,7 @@
     <contact>284113</contact>
     <micrCode>679480811</micrCode>
     <ifscCode>KLGB0040204</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perambra</name>
@@ -4695,7 +4713,7 @@
     <contact>2610509</contact>
     <micrCode>673480102</micrCode>
     <ifscCode>KLGB0040203</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puthanathani</name>
@@ -4704,7 +4722,7 @@
     <contact>2547175</contact>
     <micrCode>676480255</micrCode>
     <ifscCode>KLGB0040202</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nediyiruppu</name>
@@ -4713,7 +4731,7 @@
     <contact>2710344</contact>
     <micrCode>673480015</micrCode>
     <ifscCode>KLGB0040201</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Quilandy</name>
@@ -4722,7 +4740,7 @@
     <contact>2620445</contact>
     <micrCode>673480152</micrCode>
     <ifscCode>KLGB0040200</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nilambur</name>
@@ -4731,7 +4749,7 @@
     <contact>221123</contact>
     <micrCode>679480102</micrCode>
     <ifscCode>KLGB0040199</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Venniyur</name>
@@ -4740,7 +4758,7 @@
     <contact>2480718</contact>
     <micrCode>676480105</micrCode>
     <ifscCode>KLGB0040198</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Keezhattur</name>
@@ -4749,7 +4767,7 @@
     <contact>270711</contact>
     <micrCode>679480155</micrCode>
     <ifscCode>KLGB0040197</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vengad</name>
@@ -4758,7 +4776,7 @@
     <contact>264340</contact>
     <micrCode>679480815</micrCode>
     <ifscCode>KLGB0040196</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mannur</name>
@@ -4767,7 +4785,7 @@
     <contact>2470458</contact>
     <micrCode>673480026</micrCode>
     <ifscCode>KLGB0040195</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karaparamba</name>
@@ -4776,7 +4794,7 @@
     <contact>2374277</contact>
     <micrCode>673480004</micrCode>
     <ifscCode>KLGB0040194</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elankur</name>
@@ -4785,7 +4803,7 @@
     <contact>2707736</contact>
     <micrCode>676480054</micrCode>
     <ifscCode>KLGB0040193</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thavanur</name>
@@ -4794,7 +4812,7 @@
     <contact>2686350</contact>
     <micrCode>679480205</micrCode>
     <ifscCode>KLGB0040192</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cherucode</name>
@@ -4803,7 +4821,7 @@
     <contact>248336</contact>
     <micrCode>679480802</micrCode>
     <ifscCode>KLGB0040191</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Padichira</name>
@@ -4812,7 +4830,7 @@
     <contact>234330</contact>
     <micrCode>673480828</micrCode>
     <ifscCode>KLGB0040190</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuruvattur</name>
@@ -4821,7 +4839,7 @@
     <contact>2810951</contact>
     <micrCode>673480024</micrCode>
     <ifscCode>KLGB0040189</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pandikkad</name>
@@ -4830,7 +4848,7 @@
     <contact>2783246</contact>
     <micrCode>676480058</micrCode>
     <ifscCode>KLGB0040188</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nandi Bazar</name>
@@ -4839,7 +4857,7 @@
     <contact>2691241</contact>
     <micrCode>673480029</micrCode>
     <ifscCode>KLGB0040187</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tanalur</name>
@@ -4848,7 +4866,7 @@
     <contact>2582060</contact>
     <micrCode>676480204</micrCode>
     <ifscCode>KLGB0040186</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Velom</name>
@@ -4857,7 +4875,7 @@
     <contact>2770165</contact>
     <micrCode>673480815</micrCode>
     <ifscCode>KLGB0040185</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anakkampoyil</name>
@@ -4866,7 +4884,7 @@
     <contact>2276560</contact>
     <micrCode>673480040</micrCode>
     <ifscCode>KLGB0040184</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maranchatty</name>
@@ -4875,7 +4893,7 @@
     <contact>2277370</contact>
     <micrCode>673480043</micrCode>
     <ifscCode>KLGB0040183</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arikkulam</name>
@@ -4884,7 +4902,7 @@
     <contact>2695021</contact>
     <micrCode>673480019</micrCode>
     <ifscCode>KLGB0040182</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Trippanachi</name>
@@ -4893,7 +4911,7 @@
     <contact>2820950</contact>
     <micrCode>676480057</micrCode>
     <ifscCode>KLGB0040181</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koodaranhi</name>
@@ -4902,7 +4920,7 @@
     <contact>2252087</contact>
     <micrCode>673480042</micrCode>
     <ifscCode>KLGB0040180</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalloor</name>
@@ -4911,7 +4929,7 @@
     <contact>270760</contact>
     <micrCode>673480255</micrCode>
     <ifscCode>KLGB0040179</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakkur</name>
@@ -4920,7 +4938,7 @@
     <contact>2260066</contact>
     <micrCode>673480022</micrCode>
     <ifscCode>KLGB0040178</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mankavu</name>
@@ -4929,7 +4947,7 @@
     <contact>2331514</contact>
     <micrCode>673480006</micrCode>
     <ifscCode>KLGB0040177</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Puduppady</name>
@@ -4938,7 +4956,7 @@
     <contact>2235282</contact>
     <micrCode>673480033</micrCode>
     <ifscCode>KLGB0040176</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pallikkal Bazar</name>
@@ -4947,7 +4965,7 @@
     <contact>2790479</contact>
     <micrCode>673480017</micrCode>
     <ifscCode>KLGB0040175</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edarikode</name>
@@ -4956,7 +4974,7 @@
     <contact>2644719</contact>
     <micrCode>676480103</micrCode>
     <ifscCode>KLGB0040174</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalikkara</name>
@@ -4965,7 +4983,7 @@
     <contact>2610369</contact>
     <micrCode>673480050</micrCode>
     <ifscCode>KLGB0040173</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodiyathur</name>
@@ -4974,7 +4992,7 @@
     <contact>2209388</contact>
     <micrCode>673480023</micrCode>
     <ifscCode>KLGB0040172</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Eranhimangad</name>
@@ -4983,7 +5001,7 @@
     <contact>206472</contact>
     <micrCode>679480104</micrCode>
     <ifscCode>KLGB0040171</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Cheeral</name>
@@ -4992,7 +5010,7 @@
     <contact>262234</contact>
     <micrCode>673480254</micrCode>
     <ifscCode>KLGB0040170</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Changaramkulam</name>
@@ -5001,7 +5019,7 @@
     <contact>2654888</contact>
     <micrCode>679480303</micrCode>
     <ifscCode>KLGB0040169</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vaniyambalam</name>
@@ -5010,7 +5028,7 @@
     <contact>236213</contact>
     <micrCode>679480812</micrCode>
     <ifscCode>KLGB0040168</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadampuzha</name>
@@ -5019,7 +5037,7 @@
     <contact>2615688</contact>
     <micrCode>676480253</micrCode>
     <ifscCode>KLGB0040167</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thazhekode</name>
@@ -5028,7 +5046,7 @@
     <contact>251440</contact>
     <micrCode>679480157</micrCode>
     <ifscCode>KLGB0040166</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodur</name>
@@ -5037,7 +5055,7 @@
     <contact>2868535</contact>
     <micrCode>676480154</micrCode>
     <ifscCode>KLGB0040165</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kayakody</name>
@@ -5046,7 +5064,7 @@
     <contact>2587341</contact>
     <micrCode>673480802</micrCode>
     <ifscCode>KLGB0040164</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mampad</name>
@@ -5055,7 +5073,7 @@
     <contact>200271</contact>
     <micrCode>679480105</micrCode>
     <ifscCode>KLGB0040163</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ullery</name>
@@ -5064,7 +5082,7 @@
     <contact>2654286</contact>
     <micrCode>673480036</micrCode>
     <ifscCode>KLGB0040162</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvangoor</name>
@@ -5073,7 +5091,7 @@
     <contact>2633898</contact>
     <micrCode>673480035</micrCode>
     <ifscCode>KLGB0040161</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karulai</name>
@@ -5082,7 +5100,7 @@
     <contact>270227</contact>
     <micrCode>679480804</micrCode>
     <ifscCode>KLGB0040160</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Abdurahiman Nagar</name>
@@ -5091,7 +5109,7 @@
     <contact>2490645</contact>
     <micrCode>676480303</micrCode>
     <ifscCode>KLGB0040159</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nettikulam Bazar</name>
@@ -5100,7 +5118,7 @@
     <contact>243424</contact>
     <micrCode>679480808</micrCode>
     <ifscCode>KLGB0040158</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koottayi</name>
@@ -5109,7 +5127,7 @@
     <contact>2631787</contact>
     <micrCode>676480004</micrCode>
     <ifscCode>KLGB0040157</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chelembra</name>
@@ -5118,7 +5136,7 @@
     <contact>2891153</contact>
     <micrCode>673480014</micrCode>
     <ifscCode>KLGB0040156</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Unnikulam</name>
@@ -5127,7 +5145,7 @@
     <contact>2647236</contact>
     <micrCode>673480039</micrCode>
     <ifscCode>KLGB0040155</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Azhinhilam</name>
@@ -5136,7 +5154,7 @@
     <contact>2830539</contact>
     <micrCode>673480013</micrCode>
     <ifscCode>KLGB0040154</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Omanoor</name>
@@ -5145,7 +5163,7 @@
     <contact>2725325</contact>
     <micrCode>673480016</micrCode>
     <ifscCode>KLGB0040153</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maruthomkara</name>
@@ -5154,7 +5172,7 @@
     <contact>2666878</contact>
     <micrCode>673480806</micrCode>
     <ifscCode>KLGB0040152</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kavanoor</name>
@@ -5163,7 +5181,7 @@
     <contact>2862813</contact>
     <micrCode>676480056</micrCode>
     <ifscCode>KLGB0040151</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pandallur</name>
@@ -5172,7 +5190,7 @@
     <contact>2782520</contact>
     <micrCode>676480055</micrCode>
     <ifscCode>KLGB0040150</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Othukkungal</name>
@@ -5181,7 +5199,7 @@
     <contact>2838168</contact>
     <micrCode>676480104</micrCode>
     <ifscCode>KLGB0040149</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kaniyambetta</name>
@@ -5190,7 +5208,7 @@
     <contact>286606</contact>
     <micrCode>673480203</micrCode>
     <ifscCode>KLGB0040148</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chamravattom</name>
@@ -5199,7 +5217,7 @@
     <contact>2562534</contact>
     <micrCode>676480003</micrCode>
     <ifscCode>KLGB0040147</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pookkottoor</name>
@@ -5208,7 +5226,7 @@
     <contact>2772070</contact>
     <micrCode>676480156</micrCode>
     <ifscCode>KLGB0040146</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kannoth</name>
@@ -5217,7 +5235,7 @@
     <contact>2236295</contact>
     <micrCode>673480044</micrCode>
     <ifscCode>KLGB0040145</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koottalida</name>
@@ -5226,7 +5244,7 @@
     <contact>2657233</contact>
     <micrCode>673480047</micrCode>
     <ifscCode>KLGB0040144</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vellila</name>
@@ -5235,7 +5253,7 @@
     <contact>239264</contact>
     <micrCode>679480814</micrCode>
     <ifscCode>KLGB0040143</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ponnani</name>
@@ -5244,7 +5262,7 @@
     <contact>2666817</contact>
     <micrCode>679480202</micrCode>
     <ifscCode>KLGB0040142</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pinangode</name>
@@ -5253,7 +5271,7 @@
     <contact>204221</contact>
     <micrCode>673480205</micrCode>
     <ifscCode>KLGB0040141</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Irumbuzhi</name>
@@ -5262,7 +5280,7 @@
     <contact>2739002</contact>
     <micrCode>676480153</micrCode>
     <ifscCode>KLGB0040140</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuniyil</name>
@@ -5271,7 +5289,7 @@
     <contact>2858735</contact>
     <micrCode>676480806</micrCode>
     <ifscCode>KLGB0040139</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhavatta</name>
@@ -5280,7 +5298,7 @@
     <contact>247317</contact>
     <micrCode>673480827</micrCode>
     <ifscCode>KLGB0040138</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manipuram</name>
@@ -5289,7 +5307,7 @@
     <contact>2211165</contact>
     <micrCode>673480025</micrCode>
     <ifscCode>KLGB0040137</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nadapuram Road</name>
@@ -5298,7 +5316,7 @@
     <contact>2513030</contact>
     <micrCode>673480807</micrCode>
     <ifscCode>KLGB0040136</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vettathur</name>
@@ -5307,7 +5325,7 @@
     <contact>245410</contact>
     <micrCode>679480816</micrCode>
     <ifscCode>KLGB0040135</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tuneri</name>
@@ -5316,7 +5334,7 @@
     <contact>2550298</contact>
     <micrCode>673480812</micrCode>
     <ifscCode>KLGB0040134</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pulikkal</name>
@@ -5325,7 +5343,7 @@
     <contact>2790125</contact>
     <micrCode>673480018</micrCode>
     <ifscCode>KLGB0040133</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pookkottumpadam</name>
@@ -5334,7 +5352,7 @@
     <contact>260113</contact>
     <micrCode>679480809</micrCode>
     <ifscCode>KLGB0040132</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Morayur</name>
@@ -5343,7 +5361,7 @@
     <contact>2772799</contact>
     <micrCode>679480807</micrCode>
     <ifscCode>KLGB0040131</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vythiri</name>
@@ -5352,7 +5370,7 @@
     <contact>255280</contact>
     <micrCode>673480206</micrCode>
     <ifscCode>KLGB0040130</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Anamangad</name>
@@ -5361,7 +5379,7 @@
     <contact>205219</contact>
     <micrCode>679480153</micrCode>
     <ifscCode>KLGB0040129</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maniyur</name>
@@ -5370,7 +5388,7 @@
     <contact>2536222</contact>
     <micrCode>673480805</micrCode>
     <ifscCode>KLGB0040128</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vazhikkadavu</name>
@@ -5379,7 +5397,7 @@
     <contact>276074</contact>
     <micrCode>679480813</micrCode>
     <ifscCode>KLGB0040127</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valayam</name>
@@ -5388,7 +5406,7 @@
     <contact>2460011</contact>
     <micrCode>673480813</micrCode>
     <ifscCode>KLGB0040125</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pandeerkara</name>
@@ -5397,7 +5415,7 @@
     <contact>2668151</contact>
     <micrCode>673480810</micrCode>
     <ifscCode>KLGB0040124</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kavumannam</name>
@@ -5406,7 +5424,7 @@
     <contact>250457</contact>
     <micrCode>673480204</micrCode>
     <ifscCode>KLGB0040123</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumpadappa</name>
@@ -5415,7 +5433,7 @@
     <contact>2672220</contact>
     <micrCode>679480203</micrCode>
     <ifscCode>KLGB0040122</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kenichira</name>
@@ -5424,7 +5442,7 @@
     <contact>211536</contact>
     <micrCode>673480822</micrCode>
     <ifscCode>KLGB0040121</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Calicut City</name>
@@ -5433,7 +5451,7 @@
     <contact>2361474</contact>
     <micrCode>673480002</micrCode>
     <ifscCode>KLGB0040120</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ariyallur</name>
@@ -5442,7 +5460,7 @@
     <contact>2470259</contact>
     <micrCode>676480801</micrCode>
     <ifscCode>KLGB0040119</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Tanur</name>
@@ -5451,7 +5469,7 @@
     <contact>2440219</contact>
     <micrCode>676480202</micrCode>
     <ifscCode>KLGB0040118</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodannur</name>
@@ -5460,7 +5478,7 @@
     <contact>2592052</contact>
     <micrCode>673480811</micrCode>
     <ifscCode>KLGB0040117</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mullankolly</name>
@@ -5469,7 +5487,7 @@
     <contact>240351</contact>
     <micrCode>673480823</micrCode>
     <ifscCode>KLGB0040116</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ayanchery</name>
@@ -5478,7 +5496,7 @@
     <contact>2592120</contact>
     <micrCode>673480801</micrCode>
     <ifscCode>KLGB0040115</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Melady</name>
@@ -5487,7 +5505,7 @@
     <contact>2602016</contact>
     <micrCode>673480038</micrCode>
     <ifscCode>KLGB0040114</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kizhissery</name>
@@ -5496,7 +5514,7 @@
     <contact>2756325</contact>
     <micrCode>676480805</micrCode>
     <ifscCode>KLGB0040113</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malappuram</name>
@@ -5505,7 +5523,7 @@
     <contact>2735106</contact>
     <micrCode>676480152</micrCode>
     <ifscCode>KLGB0040112</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Narikkuni</name>
@@ -5514,7 +5532,7 @@
     <contact>2246150</contact>
     <micrCode>673480030</micrCode>
     <ifscCode>KLGB0040111</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vengara</name>
@@ -5523,7 +5541,7 @@
     <contact>2450323</contact>
     <micrCode>676480802</micrCode>
     <ifscCode>KLGB0040110</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Peruvayal</name>
@@ -5532,7 +5550,7 @@
     <contact>2490234</contact>
     <micrCode>673480010</micrCode>
     <ifscCode>KLGB0040109</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koorachund</name>
@@ -5541,7 +5559,7 @@
     <contact>2660221</contact>
     <micrCode>673480046</micrCode>
     <ifscCode>KLGB0040108</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edavanna</name>
@@ -5550,7 +5568,7 @@
     <contact>2700464</contact>
     <micrCode>676480053</micrCode>
     <ifscCode>KLGB0040107</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pulamanthole</name>
@@ -5559,7 +5577,7 @@
     <contact>267458</contact>
     <micrCode>679480810</micrCode>
     <ifscCode>KLGB0040106</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thirunavaya</name>
@@ -5568,7 +5586,7 @@
     <contact>2602058</contact>
     <micrCode>676480006</micrCode>
     <ifscCode>KLGB0040105</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karuvarakundu</name>
@@ -5577,7 +5595,7 @@
     <contact>280251</contact>
     <micrCode>679480805</micrCode>
     <ifscCode>KLGB0040104</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Atholi</name>
@@ -5586,7 +5604,7 @@
     <contact>2672299</contact>
     <micrCode>673480020</micrCode>
     <ifscCode>KLGB0040103</ifscCode>
-    <bankLoc>12730</bankLoc>
+    <bankLoc>12815</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambalavayal</name>
@@ -5595,7 +5613,7 @@
     <contact>260479</contact>
     <micrCode>673480253</micrCode>
     <ifscCode>KLGB0040102</ifscCode>
-    <bankLoc>12738</bankLoc>
+    <bankLoc>12823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Head Office</name>
@@ -5604,6 +5622,6 @@
     <contact>2101253</contact>
     <micrCode>480000</micrCode>
     <ifscCode>KLGB0040101</ifscCode>
-    <bankLoc>12731</bankLoc>
+    <bankLoc>12816</bankLoc>
   </bankbranch>
 </bankBranchs>

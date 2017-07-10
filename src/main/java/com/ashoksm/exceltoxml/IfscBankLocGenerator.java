@@ -4,12 +4,12 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
-import java.util.Iterator;
 
-import org.apache.poi.hssf.usermodel.HSSFSheet;
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 //8
 public class IfscBankLocGenerator {
 
@@ -17,18 +17,16 @@ public class IfscBankLocGenerator {
 	private static final String SQL = "INSERT INTO bank_loc_t VALUES(<LocNum>, '<BankName>', '<State>', '<District>');";
 
 	public static void main(String[] args) throws Exception {
-		File bankAddFile = new File(args[0] + "/BankBranchAddress_1.xls");
+		File bankAddFile = new File(args[0] + "/BankBranchAddress_1.xlsx");
 		FileInputStream file = new FileInputStream(bankAddFile);
 		BufferedWriter writer = new BufferedWriter(new FileWriter(args[1] + "\\" + "banklocation.sql"));
 		// Get the workbook instance for XLS file
-		HSSFWorkbook workbook = new HSSFWorkbook(file);
+		Workbook workbook = new XSSFWorkbook(file);
 
 		// Get first sheet from the workbook
-		HSSFSheet sheet = workbook.getSheetAt(0);
-		Iterator<Row> rowIterator = sheet.iterator();
-		while (rowIterator.hasNext()) {
+		Sheet sheet = workbook.getSheetAt(0);
+		for (Row row : sheet) {
 			String line = null;
-			Row row = rowIterator.next();
 			if (row.getCell(0).getCellType() == Cell.CELL_TYPE_NUMERIC) {
 				Double value = row.getCell(0).getNumericCellValue();
 				line = SQL.replaceAll("<LocNum>", String.valueOf(value.intValue()))

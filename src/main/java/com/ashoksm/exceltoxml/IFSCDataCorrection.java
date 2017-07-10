@@ -3,14 +3,15 @@ package com.ashoksm.exceltoxml;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.util.Iterator;
 
 import org.apache.commons.lang3.StringUtils;
-import org.apache.poi.hssf.usermodel.HSSFRow;
-import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 //3
 public class IFSCDataCorrection {
 
@@ -18,23 +19,27 @@ public class IFSCDataCorrection {
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
 			FileInputStream file = new FileInputStream(bank);
-			// Get the workbook instance for XLS file
-			HSSFWorkbook workbook = new HSSFWorkbook(file);
+			// Get the workbook instance
+			Workbook workBook;
+			Workbook workbookNew;
+			if (bank.getName().toLowerCase().endsWith("xls")) {
+				workBook = new HSSFWorkbook(file);
+				workbookNew = new HSSFWorkbook();
+			} else {
+				workBook = new XSSFWorkbook(file);
+				workbookNew = new XSSFWorkbook();
+			}
 
 			// Get first sheet from the workbook
-			HSSFSheet sheet = workbook.getSheetAt(0);
-
-			HSSFWorkbook workbookNew = new HSSFWorkbook();
-			HSSFSheet sheetNew = workbookNew.createSheet("Sheet1");
+			Sheet sheet = workBook.getSheetAt(0);
+			Sheet sheetNew = workbookNew.createSheet("Sheet1");
 
 			String bankName = null;
-			Iterator<Row> rowIterator = sheet.iterator();
-			while (rowIterator.hasNext()) {
-				Row row = rowIterator.next();
+			for (Row row : sheet) {
 				if (row.getRowNum() == 0 || row.getCell(1) == null
 						|| (row.getCell(0) != null && "".equals(row.getCell(0).getStringCellValue().trim()))) {
 					if (row.getRowNum() == 0) {
-						HSSFRow ifscRow = sheetNew.createRow(row.getRowNum());
+						Row ifscRow = sheetNew.createRow(row.getRowNum());
 						ifscRow.createCell(0).setCellValue("IFSC CODE");
 						ifscRow.createCell(1).setCellValue("MICR CODE");
 						ifscRow.createCell(2).setCellValue("BRANCH NAME");
@@ -49,7 +54,7 @@ public class IFSCDataCorrection {
 				if (bankName == null) {
 					bankName = formatBankName(getCellValue(row, 0)).replaceAll(" ", "").trim();
 				}
-				HSSFRow ifscRow = sheetNew.createRow(row.getRowNum());
+				Row ifscRow = sheetNew.createRow(row.getRowNum());
 				ifscRow.createCell(0).setCellValue(getCellValue(row, 1));
 				ifscRow.createCell(1).setCellValue(getCellValue(row, 2));
 				ifscRow.createCell(2).setCellValue(formatString(formatString(getCellValue(row, 3), ","), " "));
@@ -60,15 +65,16 @@ public class IFSCDataCorrection {
 				ifscRow.createCell(7).setCellValue(formatString(formatString(getCellValue(row, 8), ","), " "));
 			}
 
-			HSSFRow row = workbookNew.getSheetAt(0).getRow(0);
+			Row row = workbookNew.getSheetAt(0).getRow(0);
 			for (int colNum = 0; colNum < row.getLastCellNum(); colNum++) {
 				workbookNew.getSheetAt(0).autoSizeColumn(colNum);
 			}
-			FileOutputStream out = new FileOutputStream(new File(args[1] + "\\" + bankName + ".xls"));
+			FileOutputStream out = new FileOutputStream(new File(
+					args[1] + "\\" + bankName + (bank.getName().toLowerCase().endsWith("xls") ? ".xls" : ".xlsx")));
 			workbookNew.write(out);
 			out.close();
 			workbookNew.close();
-			workbook.close();
+			workBook.close();
 			System.out.println(bankName);
 		}
 	}
@@ -103,7 +109,7 @@ public class IFSCDataCorrection {
 					}
 					sb.append(formated.trim());
 					sb.append(delimiter);
-					if(",".equals(delimiter)) {
+					if (",".equals(delimiter)) {
 						sb.append(" ");
 					}
 				} else {
@@ -115,7 +121,7 @@ public class IFSCDataCorrection {
 					.replaceAll("\\(s\\)", "\\(S\\)").replaceAll("\\(n\\)", "\\(N\\)")
 					.replaceAll("\\(west\\)", "(WEST)").replaceAll("\\(north\\)", "(NORTH)")
 					.replaceAll("\\(south\\)", "(SOUTH)").replaceAll("\\(east\\)", "(EAST)").trim();
-			return s.endsWith(delimiter) ? s.substring(0, s.length()-1) : s;
+			return s.endsWith(delimiter) ? s.substring(0, s.length() - 1) : s;
 		} else {
 			return orginal.toUpperCase();
 		}

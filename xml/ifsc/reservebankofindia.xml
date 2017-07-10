@@ -1,39 +1,21 @@
 <bankBranchs>
   <bankbranch>
-    <name>Samadhan - HR Operations Unit</name>
-    <city>Bengaluru</city>
-    <address>Reserve Bank OF India, Bengaluru</address>
-    <contact>22180100</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>RBIS0SAMADN</ifscCode>
-    <bankLoc>18743</bankLoc>
-  </bankbranch>
-  <bankbranch>
-    <name>CAB Pune</name>
-    <city>Pune</city>
-    <address>Ganesh Khind Road, Near Esquare</address>
-    <contact>0</contact>
-    <micrCode>NA</micrCode>
-    <ifscCode>RBIS0PUPA01</ifscCode>
-    <bankLoc>18750</bankLoc>
-  </bankbranch>
-  <bankbranch>
     <name>Trivandrum</name>
-    <city>Trivandrum</city>
+    <city>Thiruvananthapuram</city>
     <address>Reserve Bank OF India, Trivandrum</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0THPA01</ifscCode>
-    <bankLoc>18745</bankLoc>
+    <bankLoc>18831</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Shimla</name>
-    <city>NEW Shimla</city>
+    <city>Shimla</city>
     <address>Rural Planning AND Credit Department, B 478, Sector IV, NEW Shimla, Shimla 171009</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0SMPA01</ifscCode>
-    <bankLoc>18739</bankLoc>
+    <bankLoc>18825</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur</name>
@@ -42,7 +24,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0RPPA01</ifscCode>
-    <bankLoc>18735</bankLoc>
+    <bankLoc>18821</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranchi</name>
@@ -51,7 +33,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0RNPA01</ifscCode>
-    <bankLoc>18741</bankLoc>
+    <bankLoc>18827</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Patna</name>
@@ -60,7 +42,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0PTPA01</ifscCode>
-    <bankLoc>18733</bankLoc>
+    <bankLoc>18819</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panaji</name>
@@ -69,7 +51,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0PJPA01</ifscCode>
-    <bankLoc>18737</bankLoc>
+    <bankLoc>18823</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>CBD Belapur</name>
@@ -78,7 +60,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0NMPA01</ifscCode>
-    <bankLoc>18749</bankLoc>
+    <bankLoc>18835</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Nagpur</name>
@@ -87,7 +69,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0NGPA01</ifscCode>
-    <bankLoc>18748</bankLoc>
+    <bankLoc>18834</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>RBI PAD</name>
@@ -96,25 +78,25 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0NEFTHY</ifscCode>
-    <bankLoc>18731</bankLoc>
+    <bankLoc>18817</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD NEW Delhi</name>
-    <city>NEW Delhi</city>
+    <city>Delhi</city>
     <address>6,sansad Marg, NEW Delhi 110001</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0NDPA01</ifscCode>
-    <bankLoc>18736</bankLoc>
+    <bankLoc>18822</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Mumbai</name>
-    <city>Mumbai</city>
+    <city>Greater Bombay</city>
     <address>Pad, Ground Floor, Main Building, Fort Mumbai- 400001</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0MBPA04</ifscCode>
-    <bankLoc>18747</bankLoc>
+    <bankLoc>18833</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>RBI PAD Lucknow</name>
@@ -123,7 +105,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0LKPA01</ifscCode>
-    <bankLoc>18755</bankLoc>
+    <bankLoc>18844</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Kanpur</name>
@@ -132,7 +114,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0KNPA01</ifscCode>
-    <bankLoc>18754</bankLoc>
+    <bankLoc>18843</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>RBI PAD Kolkata</name>
@@ -141,16 +123,16 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0KLPA01</ifscCode>
-    <bankLoc>18757</bankLoc>
+    <bankLoc>18846</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kochi</name>
-    <city>Kochi</city>
+    <city>Ernakulam</city>
     <address>Foreign Exchange Department, Reserve Bank OF India, Ernakulam North, Kochi 682018</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0KCPA01</ifscCode>
-    <bankLoc>18744</bankLoc>
+    <bankLoc>18830</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Public Accounts Dept</name>
@@ -159,7 +141,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0JPPA01</ifscCode>
-    <bankLoc>18752</bankLoc>
+    <bankLoc>18839</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jammu</name>
@@ -168,7 +150,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0JMPA01</ifscCode>
-    <bankLoc>18740</bankLoc>
+    <bankLoc>18826</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Guwahati</name>
@@ -177,7 +159,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0GWPA01</ifscCode>
-    <bankLoc>18732</bankLoc>
+    <bankLoc>18818</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dehradun</name>
@@ -186,7 +168,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0DNPA01</ifscCode>
-    <bankLoc>18756</bankLoc>
+    <bankLoc>18845</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chennai Regional Office</name>
@@ -195,7 +177,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0CNPA01</ifscCode>
-    <bankLoc>18753</bankLoc>
+    <bankLoc>18841</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Chandigarh</name>
@@ -204,7 +186,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0CGPA01</ifscCode>
-    <bankLoc>18734</bankLoc>
+    <bankLoc>18820</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Bhopal</name>
@@ -213,7 +195,7 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0BLPA01</ifscCode>
-    <bankLoc>18746</bankLoc>
+    <bankLoc>18832</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangalore Regional Office</name>
@@ -222,16 +204,16 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0BGPA01</ifscCode>
-    <bankLoc>18742</bankLoc>
+    <bankLoc>18828</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>PAD Bhubaneswar</name>
-    <city>Bhubaneswar</city>
+    <city>Khurda</city>
     <address>PAD Bhubaneswar, Bhubaneswar</address>
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0BBPA01</ifscCode>
-    <bankLoc>18751</bankLoc>
+    <bankLoc>18838</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ahmedabad Regional Office</name>
@@ -240,6 +222,69 @@
     <contact>0</contact>
     <micrCode>NA</micrCode>
     <ifscCode>RBIS0AHPA01</ifscCode>
-    <bankLoc>18738</bankLoc>
+    <bankLoc>18824</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Shillong</name>
+    <city>Shillong</city>
+    <address>Apphira Building, Fruit Garden, Shillong Jowai Road, Shillong</address>
+    <contact>2501839</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0SLPA01</ifscCode>
+    <bankLoc>18837</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Reserve Bank Staff College Rbsc Chennai</name>
+    <city>Chennai</city>
+    <address>5,annasalai, Teynampet, Chennai</address>
+    <contact>24302700</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0SCPA01</ifscCode>
+    <bankLoc>18841</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Samadhan - HR Operations Unit</name>
+    <city>Bengaluru</city>
+    <address>Reserve Bank OF India, Bengaluru</address>
+    <contact>22180100</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0SAMADN</ifscCode>
+    <bankLoc>18829</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>CAB Pune</name>
+    <city>Pune</city>
+    <address>Ganesh Khind Road, Near Esquare</address>
+    <contact>0</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0PUPA01</ifscCode>
+    <bankLoc>18836</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Gangtok</name>
+    <city>Gangtok</city>
+    <address>Lrsyzaltk</address>
+    <contact>281117</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0GTPA01</ifscCode>
+    <bankLoc>18840</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>RBI Neft Rtgs GST Collection</name>
+    <city>Mumbai</city>
+    <address>ASST. General Manager, GST Cell, Reserve Bank OF India, Mumbai Regional Office, Fort, Mumbai - 400001</address>
+    <contact>22642836</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0GSTPMT</ifscCode>
+    <bankLoc>18833</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Agartala</name>
+    <city>Agartala</city>
+    <address>II Floor, Jackson Gate Building Lenin Sarani, Agartala</address>
+    <contact>2381051</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>RBIS0AGPA01</ifscCode>
+    <bankLoc>18842</bankLoc>
   </bankbranch>
 </bankBranchs>

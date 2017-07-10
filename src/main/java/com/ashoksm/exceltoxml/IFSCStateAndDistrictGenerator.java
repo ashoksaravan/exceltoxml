@@ -4,17 +4,18 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import org.apache.poi.hssf.usermodel.HSSFRow;
-import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 //5
 public class IFSCStateAndDistrictGenerator {
 
@@ -218,6 +219,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("AU Small Finance Bank Ltd");
 		BANK_NAMES.add("Paytm Payments Bank Ltd");
 		BANK_NAMES.add("The Sindhudurg District Central Coop Bank Ltd");
+		BANK_NAMES.add("Fino Payments Bank");
 	}
 
 	public static void main(String[] args) throws Exception {
@@ -232,16 +234,19 @@ public class IFSCStateAndDistrictGenerator {
 					bankName = bankName.substring(0, bankName.length() - 1);
 				}
 				FileInputStream file = new FileInputStream(bank);
-				// Get the workbook instance for XLS file
-				HSSFWorkbook workbook = new HSSFWorkbook(file);
+				// Get the workbook instance
+				Workbook workBook;
+				if (bank.getName().toLowerCase().endsWith("xls")) {
+					workBook = new HSSFWorkbook(file);
+				} else {
+					workBook = new XSSFWorkbook(file);
+				}
 
 				// Get first sheet from the workbook
-				HSSFSheet sheet = workbook.getSheetAt(0);
-				Iterator<Row> rowIterator = sheet.iterator();
+				Sheet sheet = workBook.getSheetAt(0);
 				District district = null;
 				String previousRow = null;
-				while (rowIterator.hasNext()) {
-					Row row = rowIterator.next();
+				for (Row row : sheet) {
 					String currentRow = row.getCell(0).getStringCellValue();
 					if ("District:".equalsIgnoreCase(currentRow)) {
 						district = new District();
@@ -254,7 +259,7 @@ public class IFSCStateAndDistrictGenerator {
 					}
 					previousRow = currentRow;
 				}
-				workbook.close();
+				workBook.close();
 			}
 		}
 
@@ -279,8 +284,8 @@ public class IFSCStateAndDistrictGenerator {
 		}
 
 		// write in excel
-		HSSFWorkbook workbook = new HSSFWorkbook();
-		HSSFSheet sheet = workbook.createSheet("Bank Name");
+		Workbook workbook = new XSSFWorkbook();
+		Sheet sheet = workbook.createSheet("Bank Name");
 		int index = 0;
 		int row = 0;
 		for (Map.Entry<String, Map<String, Set<String>>> state : banksMap.entrySet()) {
@@ -290,14 +295,14 @@ public class IFSCStateAndDistrictGenerator {
 				String stateName = district.getKey();
 				for (String districtName : district.getValue()) {
 					if (index != 0 && index % 65000 == 0) {
-						FileOutputStream out = new FileOutputStream(new File(args[0] + "/BankBranchAddress_"
-								+ (index / 65000) + ".xls"));
+						FileOutputStream out = new FileOutputStream(
+								new File(args[0] + "/BankBranchAddress_" + (index / 65000) + ".xlsx"));
 						workbook.write(out);
 						workbook = new HSSFWorkbook();
 						sheet = workbook.createSheet("Bank Name");
 						row = 0;
 					}
-					HSSFRow bankAddRow = sheet.createRow(row);
+					Row bankAddRow = sheet.createRow(row);
 					bankAddRow.createCell(0).setCellValue(index + 1);
 					bankAddRow.createCell(1).setCellValue(bankName);
 					bankAddRow.createCell(2).setCellValue(stateName);
@@ -307,8 +312,8 @@ public class IFSCStateAndDistrictGenerator {
 				}
 			}
 		}
-		FileOutputStream out = new FileOutputStream(new File(args[0] + "/BankBranchAddress_" + ((index / 65000) + 1)
-				+ ".xls"));
+		FileOutputStream out = new FileOutputStream(
+				new File(args[0] + "/BankBranchAddress_" + ((index / 65000) + 1) + ".xlsx"));
 		workbook.write(out);
 		out.close();
 		workbook.close();
