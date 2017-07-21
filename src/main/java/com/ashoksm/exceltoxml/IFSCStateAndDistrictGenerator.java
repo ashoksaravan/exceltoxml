@@ -227,7 +227,7 @@ public class IFSCStateAndDistrictGenerator {
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
 			System.out.println(bank.getName());
-			if (!bank.getName().equals("BankNames.xls") && !bank.getName().startsWith("BankBranchAddress")) {
+			if (!bank.getName().startsWith("BankNames") && !bank.getName().startsWith("BankBranchAddress")) {
 				String bankName = bank.getName().substring(0, bank.getName().lastIndexOf("."));
 				if (bankName.endsWith("0") || bankName.endsWith("1") || bankName.endsWith("2")
 						|| bankName.endsWith("3")) {

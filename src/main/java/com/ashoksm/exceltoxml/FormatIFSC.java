@@ -16,9 +16,6 @@ public class FormatIFSC {
 	public static void main(String[] args) throws Exception {
 		File root = new File(args[0]);
 		for (final File bank : root.listFiles()) {
-			if(!bank.getName().startsWith("StateBankOfIndia")) {
-				continue;
-			}
 			FileInputStream file = new FileInputStream(bank);
 			// Get the workbook instance
 			Workbook workBook;

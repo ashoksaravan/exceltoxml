@@ -2,10 +2,19 @@
   <bankbranch>
     <name>Noida Branch</name>
     <city>Noida</city>
-    <address>B-121, Sector-5</address>
+    <address>B-121, Sector-5, Noida-201301</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>PYTM0123456</ifscCode>
+    <bankLoc>14606</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Noida Branch</name>
+    <city>Noida</city>
+    <address>B-121, Sector-5, Noida-201301</address>
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>PYTM0000001</ifscCode>
-    <bankLoc>14603</bankLoc>
+    <bankLoc>14606</bankLoc>
   </bankbranch>
 </bankBranchs>
