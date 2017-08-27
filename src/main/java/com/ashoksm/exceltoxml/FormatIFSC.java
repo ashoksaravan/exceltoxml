@@ -97,25 +97,6 @@ public class FormatIFSC {
 					ifscRow.createCell(1).setCellValue("");
 				}
 				i++;
-				if (row.getRowNum() != 0 && row.getRowNum() % 7500 == 0) {
-					Row row1 = workbookNew.getSheetAt(0).getRow(0);
-					for (int colNum = 0; colNum < row1.getLastCellNum(); colNum++) {
-						workbookNew.getSheetAt(0).autoSizeColumn(colNum);
-					}
-					FileOutputStream out = new FileOutputStream(
-							new File(args[1] + "\\" + bank.getName().substring(0, bank.getName().lastIndexOf('.'))
-									+ (row.getRowNum() / 7500) + (bank.getName().toLowerCase().endsWith("xls") ? ".xls" : ".xlsx")));
-					workbookNew.write(out);
-					out.close();
-					System.out.println((row.getRowNum() / 7500) + " Excel written successfully..");
-					i = 0;
-					if (bank.getName().toLowerCase().endsWith("xls")) {
-						workbookNew = new HSSFWorkbook();
-					} else {
-						workbookNew = new XSSFWorkbook();
-					}
-					sheetNew = workbookNew.createSheet("Sheet1");
-				}
 			}
 			Row row = workbookNew.getSheetAt(0).getRow(0);
 			for (int colNum = 0; colNum < row.getLastCellNum(); colNum++) {

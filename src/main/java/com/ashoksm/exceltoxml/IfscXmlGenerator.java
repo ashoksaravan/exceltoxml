@@ -138,35 +138,7 @@ public class IfscXmlGenerator {
 	 * @param bankName
 	 */
 	private static void writeFile(List<BankBranch> bankBranchs, String bankName, String dest) {
-		if (bankBranchs.size() > 3499) {
-			List<List<BankBranch>> partition = new ArrayList<List<BankBranch>>();
-			List<BankBranch> subBankBranchs = new ArrayList<BankBranch>();
-			boolean flag = false;
-			int i = 1;
-			for (BankBranch bankBranch : bankBranchs) {
-				subBankBranchs.add(bankBranch);
-				if (i == 3500) {
-					partition.add(subBankBranchs);
-					subBankBranchs = new ArrayList<BankBranch>();
-					i = 1;
-					flag = true;
-				} else {
-					i++;
-					flag = false;
-				}
-			}
-			if (!flag) {
-				partition.add(subBankBranchs);
-			}
-			i = 1;
-			for (List<BankBranch> list : partition) {
-				String tempStateName = bankName + "_" + i;
-				createXML(list, tempStateName, dest);
-				i++;
-			}
-		} else {
-			createXML(bankBranchs, bankName, dest);
-		}
+		createXML(bankBranchs, bankName, dest);
 	}
 
 	/**

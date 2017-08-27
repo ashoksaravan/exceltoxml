@@ -1,111 +1,246 @@
 <bankBranchs>
   <bankbranch>
+    <name>Thiruvanathapuram- Vanchiyoor</name>
+    <city>Thiruvananthapuram</city>
+    <address>Ground Floor, TC 82 1779, Vignesh Tower, OPP Holy Angels School, Convent Road, Vanchiyoor, Thiruvananthapuram PIN 695035</address>
+    <contact>2147483647</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001171</ifscCode>
+    <bankLoc>8563</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raipur</name>
+    <city>Raipur</city>
+    <address>Ground Floor, G 32, Gasidas Plaza, Amapara Chawk, GE Road Raipur, Chhattisgarh 492001</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001170</ifscCode>
+    <bankLoc>8551</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Pozhuthana</name>
+    <city>Vythiri</city>
+    <address>Ground Floor, Room NO 10 330 C D E, KPM Building, Near Pozhuthana Town BUS Stop, Vythiri 6TH Mile Road, Wayanad Dist PIN 673 575</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001169</ifscCode>
+    <bankLoc>8565</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Palakkad - Town</name>
+    <city>Palakkad</city>
+    <address>Ground Floor, 18 763 2, Ahamed Square, Near Ksrtc Stand, Ksrtc Link Road, DPO Junction, Palakkad, PIN 678007</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001168</ifscCode>
+    <bankLoc>8561</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Nilambur</name>
+    <city>Nilambur</city>
+    <address>83 A, Ground Floor, SK Tower, Near Municipal BUS Stand, Nilambur, Malappuram District PIN 679329</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001167</ifscCode>
+    <bankLoc>8560</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mysore</name>
+    <city>Mysore</city>
+    <address>Ground Floor, 484 Ashoka Road, Mysore, Karnataka 570001</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001166</ifscCode>
+    <bankLoc>8552</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manjeri</name>
+    <city>Manjeri</city>
+    <address>Ground Floor, 16 811 822, V K Building, Manjeri Nilambur Road, Manjeri, Malappuram District PIN 676121</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001165</ifscCode>
+    <bankLoc>8560</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Manarcad</name>
+    <city>Manarcad</city>
+    <address>Vettikunnel Arcade, Near Best Bakery, Manarcad Puthupally Bypass Road, Kottayam 686019</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001164</ifscCode>
+    <bankLoc>8558</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Mananthavadi</name>
+    <city>Mananthavadi</city>
+    <address>Ground Floor, 70 1, 71, 68 Zaiaia3 AND 68 2 B, Square Mall, Mysore Road, Mananthavady, Wayanad Dist PIN 670645</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001163</ifscCode>
+    <bankLoc>8565</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Koothattukulam</name>
+    <city>Koothattukulam</city>
+    <address>Ground Floor, SY NO 605 3 1, 604 2, Johns Tower, Near Bsnl Office, JB Junction, MC Road, Koothattukulam, Ernakulam Dist, PIN 686662</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001162</ifscCode>
+    <bankLoc>8553</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Keezhanthur Marayur</name>
+    <city>Kanthaloor</city>
+    <address>Door NO 3 239, SV NO 449 9, Kochumalayil House, Keezhanthoor, Kanthaloor P O, Idukki Dist, PIN 685620</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001161</ifscCode>
+    <bankLoc>8554</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kiralur -tcr</name>
+    <city>Thalapilly</city>
+    <address>Door NO 8 553 E, SY NO 203 1P Kiralur Villiage, Thalappilly Thaluk, Thrissur Dist, PIN 680601</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001160</ifscCode>
+    <bankLoc>8564</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kannur</name>
+    <city>Kannur</city>
+    <address>Ground Floor, TTN 9, 794, Prakans Building, Thavakarra, Kannur, Kannur 670002</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001159</ifscCode>
+    <bankLoc>8555</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Kanjirappally</name>
+    <city>Kanjirappally</city>
+    <address>Ground Floor, 8 399 A2 A3, Trade Centre, Near HP Petrol Pump, Myca Junction, Kanjirapally, Kottayam District PIN 686512</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001158</ifscCode>
+    <bankLoc>8558</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Anaviratty</name>
+    <city>Anaviratty</city>
+    <address>Ground Floor, Door NO 14 349 Survey NO 355 4, Kambiline Junction, Anaviratty P O, Idukki Ditrict PIN 628057</address>
+    <contact>NA</contact>
+    <micrCode>NA</micrCode>
+    <ifscCode>ESMF0001157</ifscCode>
+    <bankLoc>8554</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Thrissur M G Road</name>
     <city>Thrissur</city>
     <address>SY No1422 1 Room No25 469 6 13, Pooma Complex, Near Naduvilal Junction, M G Road, Thrissur 680 001</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>680760007</micrCode>
     <ifscCode>ESMF0001156</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thrissur-patturaickal</name>
     <city>Thrissur</city>
     <address>Prasad Arcade, Ground Floor, SY NO 1610 3P, Opposite CMI Devamatha Provincial House, Shornur Road, Patturaikkal, Thrissur 680022</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001155</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adoor</name>
     <city>Adoor</city>
     <address>Survey NO 153 16and148 25 1, Near Fire Station, M C Road, Adoor, Pathanamthitta 689693</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>691760052</micrCode>
     <ifscCode>ESMF0001154</ifscCode>
-    <bankLoc>8543</bankLoc>
+    <bankLoc>8562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thripunithura</name>
     <city>Thripunithura</city>
     <address>SY NO 116 3, Srishti Building Near Police Station, Vaikom Road, Thripunithara 682301</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>682760005</micrCode>
     <ifscCode>ESMF0001153</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kinalur</name>
     <city>Thamarassery</city>
     <address>7 158 C Kinalur, Near Ezhukandi Junction, Thamarassery, Kozhikode 673612</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>673760453</micrCode>
     <ifscCode>ESMF0001152</ifscCode>
-    <bankLoc>8540</bankLoc>
+    <bankLoc>8559</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thayyur</name>
     <city>Talapilly</city>
     <address>Sariga Complex, 415 2P, Thayyur, Thrissur 680584</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>680760303</micrCode>
     <ifscCode>ESMF0001151</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palavayal</name>
     <city>Palavayal</city>
     <address>8 516 A, B,c,d,oppst Johns HS School Palavayal PO, Kasargod 670511</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>671760053</micrCode>
     <ifscCode>ESMF0001150</ifscCode>
-    <bankLoc>8537</bankLoc>
+    <bankLoc>8556</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Inchamudi</name>
     <city>Anthikkad</city>
     <address>Survey No239 1, Cherpu Thriprayar Road, Chirakkal JN, Inchamudi, Thrissur 680564</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>680760006</micrCode>
     <ifscCode>ESMF0001149</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Andheri East</name>
     <city>Mumbai</city>
     <address>Unit No15, Options Primo Marol Industrial Area, Midc Cross Road, Number 21, Near Vijay Nagar Flyover Bridge, Andheri East, Mumbai, Maharashtra 400093</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001148</ifscCode>
-    <bankLoc>8546</bankLoc>
+    <bankLoc>8566</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vattavada</name>
     <city>Devikulam</city>
     <address>78 Near Koviloor Post Office, Koviloor, Kodekanal Road, Vattava, Idukki District, PIN 685615</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001147</ifscCode>
-    <bankLoc>8536</bankLoc>
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vadakkumbhagom</name>
     <city>Mukundapuram</city>
     <address>NO 466 A1, 2,3sivasakthi Shopping Centre, Vadakkumbhagom Village, Thrissur District, PIN 680731</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>680760153</micrCode>
     <ifscCode>ESMF0001146</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Uzhavoor</name>
     <city>Uzhavoor</city>
     <address>222 5, Puthiyakunnel Buildings, Near ST Stephens Church, Uzhavoor, Kottayam District, PIN 686634</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001145</ifscCode>
-    <bankLoc>8539</bankLoc>
+    <bankLoc>8558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thuneri</name>
@@ -114,34 +249,34 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001144</ifscCode>
-    <bankLoc>8547</bankLoc>
+    <bankLoc>8567</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thodupuzha</name>
     <city>Thodupuzha</city>
     <address>Kuruthukulam Arcade, Kanjiramattam Bypass RD, OPP Ksrtc BUS Stand, Thodupuzha 685584</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001143</ifscCode>
-    <bankLoc>8536</bankLoc>
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvananthapuram Bakery JN</name>
     <city>Thiruvananthapuram</city>
     <address>Marvallil, Drkoshy Building, TC 29 4013 1, Ground Floor Near Bakery Flyover, Thycaud PO Panavila Thiruvananthapuram, PIN 695014</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001142</ifscCode>
-    <bankLoc>8544</bankLoc>
+    <bankLoc>8563</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thalassery TCR</name>
     <city>Wadakkanchery</city>
     <address>Survey NO 24 P, Near Govt School, Thalassery Desamangalam Road, Thalassery, Thrissur District, PIN 679532</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001141</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poomalaikundu</name>
@@ -150,7 +285,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001140</ifscCode>
-    <bankLoc>8548</bankLoc>
+    <bankLoc>8568</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Elayamuthur</name>
@@ -159,7 +294,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001139</ifscCode>
-    <bankLoc>8549</bankLoc>
+    <bankLoc>8569</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chengalam East</name>
@@ -168,16 +303,16 @@
     <contact>2373813</contact>
     <micrCode>686760304</micrCode>
     <ifscCode>ESMF0001138</ifscCode>
-    <bankLoc>8539</bankLoc>
+    <bankLoc>8558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Changaramkulam</name>
     <city>Ponnani</city>
     <address>16 441, 16 442 Ground Floor, Glasco Tower, Changaramkulam Main Road, Malappuram District, PIN 679574</address>
-    <contact>2147483647</contact>
+    <contact>NA</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001137</ifscCode>
-    <bankLoc>8541</bankLoc>
+    <bankLoc>8560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kuzhalmannam</name>
@@ -186,7 +321,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001136</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pattambi</name>
@@ -195,7 +330,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001135</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ottapalam</name>
@@ -204,7 +339,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001134</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kozhinjampara</name>
@@ -213,7 +348,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001133</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottayam</name>
@@ -222,7 +357,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001132</ifscCode>
-    <bankLoc>8539</bankLoc>
+    <bankLoc>8558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollam</name>
@@ -231,7 +366,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001131</ifscCode>
-    <bankLoc>8538</bankLoc>
+    <bankLoc>8557</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Vennikulam</name>
@@ -240,7 +375,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001130</ifscCode>
-    <bankLoc>8543</bankLoc>
+    <bankLoc>8562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>North Paravoor</name>
@@ -249,7 +384,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001129</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mukkam</name>
@@ -258,7 +393,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001128</ifscCode>
-    <bankLoc>8540</bankLoc>
+    <bankLoc>8559</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kottakkal</name>
@@ -267,7 +402,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001127</ifscCode>
-    <bankLoc>8541</bankLoc>
+    <bankLoc>8560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kothamangalam</name>
@@ -276,7 +411,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001126</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Poopara</name>
@@ -285,7 +420,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001125</ifscCode>
-    <bankLoc>8536</bankLoc>
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Maradu</name>
@@ -294,7 +429,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001124</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Malappuram</name>
@@ -303,7 +438,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001123</ifscCode>
-    <bankLoc>8541</bankLoc>
+    <bankLoc>8560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Irinjalakuda</name>
@@ -312,7 +447,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001122</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chalakudy</name>
@@ -321,7 +456,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001121</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valanchery</name>
@@ -330,7 +465,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001120</ifscCode>
-    <bankLoc>8541</bankLoc>
+    <bankLoc>8560</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kolenchery</name>
@@ -339,7 +474,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001119</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kodungallur</name>
@@ -348,7 +483,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001118</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edamuttam</name>
@@ -357,7 +492,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001117</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Avanavanchery</name>
@@ -366,7 +501,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001116</ifscCode>
-    <bankLoc>8544</bankLoc>
+    <bankLoc>8563</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Thiruvalla</name>
@@ -375,7 +510,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001115</ifscCode>
-    <bankLoc>8543</bankLoc>
+    <bankLoc>8562</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muvattupuzha</name>
@@ -384,7 +519,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001114</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Alathur</name>
@@ -393,7 +528,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001113</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Adimaly</name>
@@ -402,7 +537,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001112</ifscCode>
-    <bankLoc>8536</bankLoc>
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perumbavoor</name>
@@ -411,7 +546,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001111</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Perinthalmanna</name>
@@ -420,7 +555,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001110</ifscCode>
-    <bankLoc>8536</bankLoc>
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Palakkad</name>
@@ -429,16 +564,16 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001109</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kozhikode</name>
     <city>Kozhikode</city>
     <address>6/140 A, Ground Floor, Grand Arcade, Near Christian College, Kannur Road, Nadakkuv, Kozhikode District PIN 673011</address>
-    <contact>2373813</contact>
+    <contact>2767070</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001108</ifscCode>
-    <bankLoc>8540</bankLoc>
+    <bankLoc>8559</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kattapana</name>
@@ -447,7 +582,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001107</ifscCode>
-    <bankLoc>8536</bankLoc>
+    <bankLoc>8554</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Valkulambu</name>
@@ -456,7 +591,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001106</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pala</name>
@@ -465,7 +600,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001105</ifscCode>
-    <bankLoc>8539</bankLoc>
+    <bankLoc>8558</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kollengode</name>
@@ -474,7 +609,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001104</ifscCode>
-    <bankLoc>8542</bankLoc>
+    <bankLoc>8561</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Edapally</name>
@@ -483,7 +618,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001103</ifscCode>
-    <bankLoc>8535</bankLoc>
+    <bankLoc>8553</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kalathode</name>
@@ -492,7 +627,7 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001102</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mannuthy</name>
@@ -501,15 +636,15 @@
     <contact>2373813</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0001101</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rtgs-ho</name>
     <city>Mannuthy</city>
     <address>Hepzibah Complex, Second Floor NO X/101/m4, Mannuthy P.O, Thrissur, Kerala 680651</address>
-    <contact>2373813</contact>
+    <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>ESMF0000001</ifscCode>
-    <bankLoc>8545</bankLoc>
+    <bankLoc>8564</bankLoc>
   </bankbranch>
 </bankBranchs>
