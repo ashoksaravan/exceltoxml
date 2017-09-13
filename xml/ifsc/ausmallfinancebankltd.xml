@@ -1,5 +1,14 @@
 <bankBranchs>
   <bankbranch>
+    <name>Pune</name>
+    <city>Pune</city>
+    <address>Wing 4TH Floor Office NO 504 505 506 Mega Center Pune Solapur Road Hadapsar Pune Maharashtra 411028</address>
+    <contact>0</contact>
+    <micrCode>411765001</micrCode>
+    <ifscCode>AUBL0009116</ifscCode>
+    <bankLoc>93</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Jodhpur</name>
     <city>Jodhpur</city>
     <address>3rdfloorsundervillaabovevodafonestore12throadcrossresidencyroadjodhpurrajasthan342001</address>
@@ -18,6 +27,15 @@
     <bankLoc>148</bankLoc>
   </bankbranch>
   <bankbranch>
+    <name>Gailpur</name>
+    <city>Alwar</city>
+    <address>Khasra NO 304 Main BUS Stand VPO Gailpur Tehsil Tijara 301707</address>
+    <contact>0</contact>
+    <micrCode>301765009</micrCode>
+    <ifscCode>AUBL0002414</ifscCode>
+    <bankLoc>120</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Khuri</name>
     <city>Sikar</city>
     <address>Nh11 Khuri Chhoti Khuri Badi Rajasthan</address>
@@ -34,6 +52,15 @@
     <micrCode>303765022</micrCode>
     <ifscCode>AUBL0002412</ifscCode>
     <bankLoc>133</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Raiwana</name>
+    <city>Alwar</city>
+    <address>Raiwana Talwana SUB Tehsil Neemrana Tehsil Behror Alwar 301703</address>
+    <contact>0</contact>
+    <micrCode>301765008</micrCode>
+    <ifscCode>AUBL0002411</ifscCode>
+    <bankLoc>120</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chharsa MOD</name>
@@ -78,6 +105,15 @@
     <contact>0</contact>
     <micrCode>303765023</micrCode>
     <ifscCode>AUBL0002406</ifscCode>
+    <bankLoc>133</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jawanpura</name>
+    <city>Jaipur</city>
+    <address>Khasra NO 2131 Rakba 1.57 Jawanpura BUS Stand Jawanpura Viratnagar 303119</address>
+    <contact>0</contact>
+    <micrCode>303765024</micrCode>
+    <ifscCode>AUBL0002405</ifscCode>
     <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
@@ -1725,6 +1761,24 @@
     <contact>0</contact>
     <micrCode>303765017</micrCode>
     <ifscCode>AUBL0002218</ifscCode>
+    <bankLoc>133</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur Raja Park</name>
+    <city>Jaipur</city>
+    <address>Business Avenue B12 Govind Marg Raja Park Jaipur 302004</address>
+    <contact>0</contact>
+    <micrCode>302765013</micrCode>
+    <ifscCode>AUBL0002217</ifscCode>
+    <bankLoc>133</bankLoc>
+  </bankbranch>
+  <bankbranch>
+    <name>Jaipur Pratap Nagar</name>
+    <city>Jaipur</city>
+    <address>Plot NO A Sector 8 Haldighati Marg Main Tonk Road Pratap Nagar 302033</address>
+    <contact>0</contact>
+    <micrCode>302765014</micrCode>
+    <ifscCode>AUBL0002216</ifscCode>
     <bankLoc>133</bankLoc>
   </bankbranch>
   <bankbranch>
