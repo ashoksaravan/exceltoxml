@@ -220,6 +220,7 @@ public class IFSCStateAndDistrictGenerator {
 		BANK_NAMES.add("Paytm Payments Bank Ltd");
 		BANK_NAMES.add("The Sindhudurg District Central Coop Bank Ltd");
 		BANK_NAMES.add("Fino Payments Bank");
+		BANK_NAMES.add("Kozhikode District Cooperative Bank Ltd");
 	}
 
 	public static void main(String[] args) throws Exception {

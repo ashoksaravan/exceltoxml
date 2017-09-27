@@ -24,12 +24,10 @@ public class IFSCDataCorrection {
 			Workbook workbookNew;
 			if (bank.getName().toLowerCase().endsWith("xls")) {
 				workBook = new HSSFWorkbook(file);
-				workbookNew = new HSSFWorkbook();
 			} else {
 				workBook = new XSSFWorkbook(file);
-				workbookNew = new XSSFWorkbook();
 			}
-
+			workbookNew = new XSSFWorkbook();
 			// Get first sheet from the workbook
 			Sheet sheet = workBook.getSheetAt(0);
 			Sheet sheetNew = workbookNew.createSheet("Sheet1");
@@ -69,8 +67,7 @@ public class IFSCDataCorrection {
 			for (int colNum = 0; colNum < row.getLastCellNum(); colNum++) {
 				workbookNew.getSheetAt(0).autoSizeColumn(colNum);
 			}
-			FileOutputStream out = new FileOutputStream(new File(
-					args[1] + "\\" + bankName + (bank.getName().toLowerCase().endsWith("xls") ? ".xls" : ".xlsx")));
+			FileOutputStream out = new FileOutputStream(new File(args[1] + "\\" + bankName + ".xlsx"));
 			workbookNew.write(out);
 			out.close();
 			workbookNew.close();
