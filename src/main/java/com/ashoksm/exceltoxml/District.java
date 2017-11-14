@@ -2,56 +2,56 @@ package com.ashoksm.exceltoxml;
 
 public class District {
 
-	private String stateName;
-	
-	private String districtName;
-	
-	private String bankName;
+    private String stateName;
 
-	/**
-	 * @return the stateName
-	 */
-	public final String getStateName() {
-		return stateName;
-	}
+    private String districtName;
 
-	/**
-	 * @param stateName the stateName to set
-	 */
-	public final void setStateName(String stateName) {
-		this.stateName = stateName;
-	}
+    private String bankName;
 
-	/**
-	 * @return the districtName
-	 */
-	public final String getDistrictName() {
-		return districtName;
-	}
+    /**
+     * @return the stateName
+     */
+    public final String getStateName() {
+        return stateName;
+    }
 
-	/**
-	 * @param districtName the districtName to set
-	 */
-	public final void setDistrictName(String districtName) {
-		this.districtName = districtName;
-	}
-	
-	@Override
-	public String toString() {
-		return stateName + " : " + districtName;
-	}
+    /**
+     * @param stateName the stateName to set
+     */
+    public final void setStateName(String stateName) {
+        this.stateName = stateName;
+    }
 
-	/**
-	 * @return the bankName
-	 */
-	public String getBankName() {
-		return bankName;
-	}
+    /**
+     * @return the districtName
+     */
+    public final String getDistrictName() {
+        return districtName;
+    }
 
-	/**
-	 * @param bankName the bankName to set
-	 */
-	public void setBankName(String bankName) {
-		this.bankName = bankName;
-	}
+    /**
+     * @param districtName the districtName to set
+     */
+    public final void setDistrictName(String districtName) {
+        this.districtName = districtName;
+    }
+
+    @Override
+    public String toString() {
+        return stateName + " : " + districtName;
+    }
+
+    /**
+     * @return the bankName
+     */
+    public String getBankName() {
+        return bankName;
+    }
+
+    /**
+     * @param bankName the bankName to set
+     */
+    public void setBankName(String bankName) {
+        this.bankName = bankName;
+    }
 }
