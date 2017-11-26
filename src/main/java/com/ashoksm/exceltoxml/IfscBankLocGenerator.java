@@ -20,7 +20,7 @@ public class IfscBankLocGenerator {
     private static final String SQL = "INSERT INTO bank_loc_t VALUES(<LocNum>, '<BankName>', '<State>', '<District>');";
 
     public static void main(String[] args) throws Exception {
-        File bankAddFile = new File(args[0] + "/BankBranchAddress_1.xlsx");
+        File bankAddFile = new File(args[0] + "/BankBranchAddress.xlsx");
         FileInputStream file = new FileInputStream(bankAddFile);
         BufferedWriter writer = new BufferedWriter(new FileWriter(args[1] + "\\" + "banklocation.sql"));
         // Get the workbook instance for XLS file

@@ -1,12 +1,21 @@
 <bankBranchs>
   <bankbranch>
+    <name>Jalikhan</name>
+    <city>Sult</city>
+    <address>Utkarsh Small Finance Bank Ltd, Village-jalikhan, Post Office Bangidhar, Tehsil -salt, Dist -almora, Uttrakhand -263676</address>
+    <contact>2147483647</contact>
+    <micrCode>263762102</micrCode>
+    <ifscCode>UTKS0001503</ifscCode>
+    <bankLoc>24709</bankLoc>
+  </bankbranch>
+  <bankbranch>
     <name>Gorakhpur</name>
     <city>Gorakhpur</city>
     <address>Ground Floor, Lahiri Building, Bank Road, PO -gorakhpur - HO, District -gorakhpur, Uttar Pardesh PIN 273001</address>
     <contact>2147483647</contact>
     <micrCode>273762003</micrCode>
     <ifscCode>UTKS0001502</ifscCode>
-    <bankLoc>24592</bankLoc>
+    <bankLoc>24698</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lucknow</name>
@@ -15,7 +24,7 @@
     <contact>2147483647</contact>
     <micrCode>226762002</micrCode>
     <ifscCode>UTKS0001501</ifscCode>
-    <bankLoc>24596</bankLoc>
+    <bankLoc>24702</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rudrapur</name>
@@ -24,7 +33,7 @@
     <contact>2147483647</contact>
     <micrCode>263762001</micrCode>
     <ifscCode>UTKS0001410</ifscCode>
-    <bankLoc>24605</bankLoc>
+    <bankLoc>24712</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kankarbagh</name>
@@ -33,7 +42,7 @@
     <contact>0</contact>
     <micrCode>800762005</micrCode>
     <ifscCode>UTKS0001408</ifscCode>
-    <bankLoc>24559</bankLoc>
+    <bankLoc>24665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamshedpur</name>
@@ -42,7 +51,7 @@
     <contact>0</contact>
     <micrCode>831762002</micrCode>
     <ifscCode>UTKS0001407</ifscCode>
-    <bankLoc>24575</bankLoc>
+    <bankLoc>24681</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bela Pratapgarh</name>
@@ -51,7 +60,7 @@
     <contact>2147483647</contact>
     <micrCode>230762001</micrCode>
     <ifscCode>UTKS0001406</ifscCode>
-    <bankLoc>24598</bankLoc>
+    <bankLoc>24704</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhabua</name>
@@ -60,7 +69,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001405</ifscCode>
-    <bankLoc>24556</bankLoc>
+    <bankLoc>24662</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rasra</name>
@@ -69,7 +78,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001404</ifscCode>
-    <bankLoc>24586</bankLoc>
+    <bankLoc>24692</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bihar Shariff</name>
@@ -78,7 +87,7 @@
     <contact>233150</contact>
     <micrCode>803762002</micrCode>
     <ifscCode>UTKS0001403</ifscCode>
-    <bankLoc>24558</bankLoc>
+    <bankLoc>24664</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lalganj</name>
@@ -87,7 +96,7 @@
     <contact>2147483647</contact>
     <micrCode>844762002</micrCode>
     <ifscCode>UTKS0001402</ifscCode>
-    <bankLoc>24562</bankLoc>
+    <bankLoc>24668</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lajpatnagar</name>
@@ -96,7 +105,7 @@
     <contact>2147483647</contact>
     <micrCode>110762009</micrCode>
     <ifscCode>UTKS0001401</ifscCode>
-    <bankLoc>24565</bankLoc>
+    <bankLoc>24671</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Raipur</name>
@@ -105,7 +114,7 @@
     <contact>2147483647</contact>
     <micrCode>492762001</micrCode>
     <ifscCode>UTKS0001400</ifscCode>
-    <bankLoc>24563</bankLoc>
+    <bankLoc>24669</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Darbangha</name>
@@ -114,7 +123,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001399</ifscCode>
-    <bankLoc>24554</bankLoc>
+    <bankLoc>24660</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bokaro</name>
@@ -123,7 +132,7 @@
     <contact>2147483647</contact>
     <micrCode>827762002</micrCode>
     <ifscCode>UTKS0001398</ifscCode>
-    <bankLoc>24573</bankLoc>
+    <bankLoc>24679</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Haridwar</name>
@@ -132,7 +141,7 @@
     <contact>2147483647</contact>
     <micrCode>249762001</micrCode>
     <ifscCode>UTKS0001397</ifscCode>
-    <bankLoc>24604</bankLoc>
+    <bankLoc>24711</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ramgarh</name>
@@ -141,7 +150,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001396</ifscCode>
-    <bankLoc>24576</bankLoc>
+    <bankLoc>24682</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Dhanbad</name>
@@ -150,7 +159,7 @@
     <contact>2147483647</contact>
     <micrCode>826762002</micrCode>
     <ifscCode>UTKS0001395</ifscCode>
-    <bankLoc>24574</bankLoc>
+    <bankLoc>24680</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ambala</name>
@@ -159,7 +168,7 @@
     <contact>2147483647</contact>
     <micrCode>133762002</micrCode>
     <ifscCode>UTKS0001393</ifscCode>
-    <bankLoc>24566</bankLoc>
+    <bankLoc>24672</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basti</name>
@@ -168,7 +177,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001392</ifscCode>
-    <bankLoc>24587</bankLoc>
+    <bankLoc>24693</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Yamunanagar</name>
@@ -177,7 +186,7 @@
     <contact>2147483647</contact>
     <micrCode>135762002</micrCode>
     <ifscCode>UTKS0001391</ifscCode>
-    <bankLoc>24572</bankLoc>
+    <bankLoc>24678</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sonipat</name>
@@ -186,7 +195,7 @@
     <contact>2147483647</contact>
     <micrCode>110762010</micrCode>
     <ifscCode>UTKS0001390</ifscCode>
-    <bankLoc>24571</bankLoc>
+    <bankLoc>24677</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Pusa Road</name>
@@ -195,7 +204,7 @@
     <contact>2147483647</contact>
     <micrCode>110762007</micrCode>
     <ifscCode>UTKS0001386</ifscCode>
-    <bankLoc>24565</bankLoc>
+    <bankLoc>24671</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chembur</name>
@@ -204,7 +213,7 @@
     <contact>2147483647</contact>
     <micrCode>400762002</micrCode>
     <ifscCode>UTKS0001385</ifscCode>
-    <bankLoc>24581</bankLoc>
+    <bankLoc>24687</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Varanasi</name>
@@ -213,7 +222,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001384</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barh</name>
@@ -222,7 +231,7 @@
     <contact>2147483647</contact>
     <micrCode>803762102</micrCode>
     <ifscCode>UTKS0001380</ifscCode>
-    <bankLoc>24559</bankLoc>
+    <bankLoc>24665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lakadganj</name>
@@ -231,7 +240,7 @@
     <contact>2147483647</contact>
     <micrCode>440762002</micrCode>
     <ifscCode>UTKS0001379</ifscCode>
-    <bankLoc>24582</bankLoc>
+    <bankLoc>24688</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manesar</name>
@@ -240,7 +249,7 @@
     <contact>2147483647</contact>
     <micrCode>110762004</micrCode>
     <ifscCode>UTKS0001378</ifscCode>
-    <bankLoc>24568</bankLoc>
+    <bankLoc>24674</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saguna More</name>
@@ -249,7 +258,7 @@
     <contact>2147483647</contact>
     <micrCode>800762002</micrCode>
     <ifscCode>UTKS0001377</ifscCode>
-    <bankLoc>24559</bankLoc>
+    <bankLoc>24665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gurugram</name>
@@ -258,16 +267,16 @@
     <contact>2147483647</contact>
     <micrCode>110762005</micrCode>
     <ifscCode>UTKS0001376</ifscCode>
-    <bankLoc>24568</bankLoc>
+    <bankLoc>24674</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Varanasi Godowlia</name>
     <city>Varanasi</city>
-    <address>D37by37baradeospicekcmcomplexgodowliavaranasipin221001</address>
+    <address>Utkarsh Small Finance Bank, Ground Floor, D37/37, 37 A, 111, 164, Spice KCM Cineplex, Gadowila-maidagin Road, Bara Deo, Po-luxa, District Varanasi, Uttar Pardesh, Pin-221001</address>
     <contact>2147483647</contact>
     <micrCode>221762002</micrCode>
     <ifscCode>UTKS0001375</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Faridabad</name>
@@ -276,7 +285,7 @@
     <contact>2147483647</contact>
     <micrCode>NA</micrCode>
     <ifscCode>UTKS0001374</ifscCode>
-    <bankLoc>24567</bankLoc>
+    <bankLoc>24673</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ranchi</name>
@@ -285,7 +294,7 @@
     <contact>2147483647</contact>
     <micrCode>834762002</micrCode>
     <ifscCode>UTKS0001372</ifscCode>
-    <bankLoc>24577</bankLoc>
+    <bankLoc>24683</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Roorkee</name>
@@ -294,7 +303,7 @@
     <contact>2147483647</contact>
     <micrCode>247762001</micrCode>
     <ifscCode>UTKS0001371</ifscCode>
-    <bankLoc>24599</bankLoc>
+    <bankLoc>24705</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jaunpur</name>
@@ -303,7 +312,7 @@
     <contact>2147483647</contact>
     <micrCode>222762002</micrCode>
     <ifscCode>UTKS0001363</ifscCode>
-    <bankLoc>24594</bankLoc>
+    <bankLoc>24700</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deoria</name>
@@ -312,7 +321,7 @@
     <contact>2147483647</contact>
     <micrCode>274762002</micrCode>
     <ifscCode>UTKS0001362</ifscCode>
-    <bankLoc>24603</bankLoc>
+    <bankLoc>24710</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Muzaffarpur</name>
@@ -321,7 +330,7 @@
     <contact>2147483647</contact>
     <micrCode>842762002</micrCode>
     <ifscCode>UTKS0001360</ifscCode>
-    <bankLoc>24557</bankLoc>
+    <bankLoc>24663</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Najafgarh</name>
@@ -330,7 +339,7 @@
     <contact>28017021</contact>
     <micrCode>110762002</micrCode>
     <ifscCode>UTKS0001359</ifscCode>
-    <bankLoc>24564</bankLoc>
+    <bankLoc>24670</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arrah</name>
@@ -339,7 +348,7 @@
     <contact>2147483647</contact>
     <micrCode>802762102</micrCode>
     <ifscCode>UTKS0001356</ifscCode>
-    <bankLoc>24552</bankLoc>
+    <bankLoc>24658</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Allahabad</name>
@@ -348,7 +357,7 @@
     <contact>2147483647</contact>
     <micrCode>211762004</micrCode>
     <ifscCode>UTKS0001352</ifscCode>
-    <bankLoc>24583</bankLoc>
+    <bankLoc>24689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chopan</name>
@@ -357,7 +366,7 @@
     <contact>2147483647</contact>
     <micrCode>231762102</micrCode>
     <ifscCode>UTKS0001329</ifscCode>
-    <bankLoc>24600</bankLoc>
+    <bankLoc>24706</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Purnia</name>
@@ -366,7 +375,7 @@
     <contact>2147483647</contact>
     <micrCode>854762102</micrCode>
     <ifscCode>UTKS0001326</ifscCode>
-    <bankLoc>24560</bankLoc>
+    <bankLoc>24666</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banmankhi</name>
@@ -375,7 +384,7 @@
     <contact>2147483647</contact>
     <micrCode>854762103</micrCode>
     <ifscCode>UTKS0001321</ifscCode>
-    <bankLoc>24560</bankLoc>
+    <bankLoc>24666</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saraikela Jamshedpur</name>
@@ -384,7 +393,7 @@
     <contact>2147483647</contact>
     <micrCode>833762002</micrCode>
     <ifscCode>UTKS0001319</ifscCode>
-    <bankLoc>24578</bankLoc>
+    <bankLoc>24684</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Patti</name>
@@ -393,7 +402,7 @@
     <contact>2147483647</contact>
     <micrCode>230762002</micrCode>
     <ifscCode>UTKS0001309</ifscCode>
-    <bankLoc>24598</bankLoc>
+    <bankLoc>24704</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Banka</name>
@@ -402,7 +411,7 @@
     <contact>2147483647</contact>
     <micrCode>813762002</micrCode>
     <ifscCode>UTKS0001304</ifscCode>
-    <bankLoc>24550</bankLoc>
+    <bankLoc>24656</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>MAU</name>
@@ -411,7 +420,7 @@
     <contact>2147483647</contact>
     <micrCode>210762051</micrCode>
     <ifscCode>UTKS0001277</ifscCode>
-    <bankLoc>24588</bankLoc>
+    <bankLoc>24694</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gharaunda</name>
@@ -420,7 +429,7 @@
     <contact>2147483647</contact>
     <micrCode>132762202</micrCode>
     <ifscCode>UTKS0001258</ifscCode>
-    <bankLoc>24569</bankLoc>
+    <bankLoc>24675</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ballia Bihar</name>
@@ -429,7 +438,7 @@
     <contact>2147483647</contact>
     <micrCode>851762102</micrCode>
     <ifscCode>UTKS0001257</ifscCode>
-    <bankLoc>24551</bankLoc>
+    <bankLoc>24657</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Darshan Nagar</name>
@@ -438,7 +447,7 @@
     <contact>2147483647</contact>
     <micrCode>224762002</micrCode>
     <ifscCode>UTKS0001254</ifscCode>
-    <bankLoc>24590</bankLoc>
+    <bankLoc>24696</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karnal</name>
@@ -447,7 +456,7 @@
     <contact>2147483647</contact>
     <micrCode>132762102</micrCode>
     <ifscCode>UTKS0001250</ifscCode>
-    <bankLoc>24569</bankLoc>
+    <bankLoc>24675</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Iltefatganj</name>
@@ -456,7 +465,7 @@
     <contact>2147483647</contact>
     <micrCode>224762001</micrCode>
     <ifscCode>UTKS0001247</ifscCode>
-    <bankLoc>24584</bankLoc>
+    <bankLoc>24690</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Guraru</name>
@@ -465,7 +474,7 @@
     <contact>2147483647</contact>
     <micrCode>823762002</micrCode>
     <ifscCode>UTKS0001244</ifscCode>
-    <bankLoc>24555</bankLoc>
+    <bankLoc>24661</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Atrauli</name>
@@ -474,7 +483,7 @@
     <contact>2147483647</contact>
     <micrCode>276762001</micrCode>
     <ifscCode>UTKS0001243</ifscCode>
-    <bankLoc>24585</bankLoc>
+    <bankLoc>24691</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kurukshetra</name>
@@ -483,7 +492,7 @@
     <contact>2147483647</contact>
     <micrCode>136762002</micrCode>
     <ifscCode>UTKS0001226</ifscCode>
-    <bankLoc>24570</bankLoc>
+    <bankLoc>24676</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Rudhauli</name>
@@ -492,7 +501,7 @@
     <contact>2147483647</contact>
     <micrCode>272762001</micrCode>
     <ifscCode>UTKS0001215</ifscCode>
-    <bankLoc>24587</bankLoc>
+    <bankLoc>24693</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Fatuha</name>
@@ -501,7 +510,7 @@
     <contact>2147483647</contact>
     <micrCode>800762004</micrCode>
     <ifscCode>UTKS0001203</ifscCode>
-    <bankLoc>24559</bankLoc>
+    <bankLoc>24665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Gotegaon</name>
@@ -510,7 +519,7 @@
     <contact>2147483647</contact>
     <micrCode>487762001</micrCode>
     <ifscCode>UTKS0001200</ifscCode>
-    <bankLoc>24580</bankLoc>
+    <bankLoc>24686</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Basti</name>
@@ -519,7 +528,7 @@
     <contact>2147483647</contact>
     <micrCode>272762004</micrCode>
     <ifscCode>UTKS0001180</ifscCode>
-    <bankLoc>24587</bankLoc>
+    <bankLoc>24693</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bank Road</name>
@@ -528,7 +537,7 @@
     <contact>2147483647</contact>
     <micrCode>823762003</micrCode>
     <ifscCode>UTKS0001170</ifscCode>
-    <bankLoc>24555</bankLoc>
+    <bankLoc>24661</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Garha Jabalpur</name>
@@ -537,7 +546,7 @@
     <contact>2147483647</contact>
     <micrCode>482762001</micrCode>
     <ifscCode>UTKS0001155</ifscCode>
-    <bankLoc>24579</bankLoc>
+    <bankLoc>24685</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Badhalganj</name>
@@ -546,16 +555,16 @@
     <contact>2147483647</contact>
     <micrCode>273762002</micrCode>
     <ifscCode>UTKS0001154</ifscCode>
-    <bankLoc>24592</bankLoc>
+    <bankLoc>24698</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Mankapur</name>
     <city>Nagpur</city>
-    <address>Flat NO 101 RAJ Complex Bypass Road Main Road Mankapur Nagpur 440030</address>
+    <address>Laxmi Plaza, Mankapur Square, Saoner Road District-nagpur, State-maharashtra, PIN Code-440030</address>
     <contact>2147483647</contact>
     <micrCode>440762004</micrCode>
     <ifscCode>UTKS0001147</ifscCode>
-    <bankLoc>24582</bankLoc>
+    <bankLoc>24688</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Nandanvan</name>
@@ -564,7 +573,7 @@
     <contact>2147483647</contact>
     <micrCode>440762003</micrCode>
     <ifscCode>UTKS0001144</ifscCode>
-    <bankLoc>24582</bankLoc>
+    <bankLoc>24688</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karawal Nagar</name>
@@ -573,7 +582,7 @@
     <contact>2147483647</contact>
     <micrCode>110762006</micrCode>
     <ifscCode>UTKS0001115</ifscCode>
-    <bankLoc>24564</bankLoc>
+    <bankLoc>24670</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kakarmatta</name>
@@ -582,7 +591,7 @@
     <contact>2147483647</contact>
     <micrCode>221762007</micrCode>
     <ifscCode>UTKS0001109</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahson</name>
@@ -591,7 +600,7 @@
     <contact>2147483647</contact>
     <micrCode>211762005</micrCode>
     <ifscCode>UTKS0001106</ifscCode>
-    <bankLoc>24583</bankLoc>
+    <bankLoc>24689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Umraha</name>
@@ -600,7 +609,7 @@
     <contact>2147483647</contact>
     <micrCode>221762008</micrCode>
     <ifscCode>UTKS0001099</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bhatparrani</name>
@@ -609,7 +618,7 @@
     <contact>2147483647</contact>
     <micrCode>274762501</micrCode>
     <ifscCode>UTKS0001097</ifscCode>
-    <bankLoc>24589</bankLoc>
+    <bankLoc>24695</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bangra</name>
@@ -618,7 +627,7 @@
     <contact>2147483647</contact>
     <micrCode>841762003</micrCode>
     <ifscCode>UTKS0001092</ifscCode>
-    <bankLoc>24561</bankLoc>
+    <bankLoc>24667</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Silhauri</name>
@@ -627,7 +636,7 @@
     <contact>2147483647</contact>
     <micrCode>841762002</micrCode>
     <ifscCode>UTKS0001086</ifscCode>
-    <bankLoc>24561</bankLoc>
+    <bankLoc>24667</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jagjeetpur</name>
@@ -636,7 +645,7 @@
     <contact>2147483647</contact>
     <micrCode>249762002</micrCode>
     <ifscCode>UTKS0001080</ifscCode>
-    <bankLoc>24604</bankLoc>
+    <bankLoc>24711</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Panchkosi</name>
@@ -645,7 +654,7 @@
     <contact>2147483647</contact>
     <micrCode>221762004</micrCode>
     <ifscCode>UTKS0001078</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sahjanwa</name>
@@ -654,7 +663,7 @@
     <contact>2147483647</contact>
     <micrCode>273762001</micrCode>
     <ifscCode>UTKS0001077</ifscCode>
-    <bankLoc>24592</bankLoc>
+    <bankLoc>24698</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bharwari</name>
@@ -663,7 +672,7 @@
     <contact>2147483647</contact>
     <micrCode>211762102</micrCode>
     <ifscCode>UTKS0001075</ifscCode>
-    <bankLoc>24595</bankLoc>
+    <bankLoc>24701</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Manauri</name>
@@ -672,7 +681,7 @@
     <contact>2147483647</contact>
     <micrCode>211762002</micrCode>
     <ifscCode>UTKS0001068</ifscCode>
-    <bankLoc>24583</bankLoc>
+    <bankLoc>24689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Meja Road</name>
@@ -681,7 +690,7 @@
     <contact>2147483647</contact>
     <micrCode>211762003</micrCode>
     <ifscCode>UTKS0001067</ifscCode>
-    <bankLoc>24583</bankLoc>
+    <bankLoc>24689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Buxar</name>
@@ -690,7 +699,7 @@
     <contact>2147483647</contact>
     <micrCode>802762002</micrCode>
     <ifscCode>UTKS0001057</ifscCode>
-    <bankLoc>24553</bankLoc>
+    <bankLoc>24659</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Barhaj</name>
@@ -699,7 +708,7 @@
     <contact>2147483647</contact>
     <micrCode>274762003</micrCode>
     <ifscCode>UTKS0001055</ifscCode>
-    <bankLoc>24589</bankLoc>
+    <bankLoc>24695</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Jamalpur</name>
@@ -708,7 +717,7 @@
     <contact>2147483647</contact>
     <micrCode>231762001</micrCode>
     <ifscCode>UTKS0001054</ifscCode>
-    <bankLoc>24597</bankLoc>
+    <bankLoc>24703</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Bihta</name>
@@ -717,7 +726,7 @@
     <contact>2147483647</contact>
     <micrCode>801762002</micrCode>
     <ifscCode>UTKS0001052</ifscCode>
-    <bankLoc>24559</bankLoc>
+    <bankLoc>24665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Deoria</name>
@@ -726,7 +735,7 @@
     <contact>2147483647</contact>
     <micrCode>274762002</micrCode>
     <ifscCode>UTKS0001051</ifscCode>
-    <bankLoc>24589</bankLoc>
+    <bankLoc>24695</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Arrah</name>
@@ -735,7 +744,7 @@
     <contact>2147483647</contact>
     <micrCode>802762103</micrCode>
     <ifscCode>UTKS0001047</ifscCode>
-    <bankLoc>24552</bankLoc>
+    <bankLoc>24658</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Danapur</name>
@@ -744,7 +753,7 @@
     <contact>2147483647</contact>
     <micrCode>800762003</micrCode>
     <ifscCode>UTKS0001046</ifscCode>
-    <bankLoc>24559</bankLoc>
+    <bankLoc>24665</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Behea</name>
@@ -753,7 +762,7 @@
     <contact>2147483647</contact>
     <micrCode>802762104</micrCode>
     <ifscCode>UTKS0001044</ifscCode>
-    <bankLoc>24552</bankLoc>
+    <bankLoc>24658</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Koirauna</name>
@@ -762,7 +771,7 @@
     <contact>2147483647</contact>
     <micrCode>221762101</micrCode>
     <ifscCode>UTKS0001041</ifscCode>
-    <bankLoc>24593</bankLoc>
+    <bankLoc>24699</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kadipur</name>
@@ -771,7 +780,7 @@
     <contact>2147483647</contact>
     <micrCode>228762001</micrCode>
     <ifscCode>UTKS0001036</ifscCode>
-    <bankLoc>24601</bankLoc>
+    <bankLoc>24707</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Saidpur</name>
@@ -780,7 +789,7 @@
     <contact>2147483647</contact>
     <micrCode>233762101</micrCode>
     <ifscCode>UTKS0001029</ifscCode>
-    <bankLoc>24591</bankLoc>
+    <bankLoc>24697</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Handia</name>
@@ -789,7 +798,7 @@
     <contact>2147483647</contact>
     <micrCode>211762001</micrCode>
     <ifscCode>UTKS0001028</ifscCode>
-    <bankLoc>24583</bankLoc>
+    <bankLoc>24689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chauri Chaura</name>
@@ -798,7 +807,7 @@
     <contact>2147483647</contact>
     <micrCode>274762001</micrCode>
     <ifscCode>UTKS0001026</ifscCode>
-    <bankLoc>24592</bankLoc>
+    <bankLoc>24698</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Lambhua</name>
@@ -807,7 +816,7 @@
     <contact>2147483647</contact>
     <micrCode>228762501</micrCode>
     <ifscCode>UTKS0001024</ifscCode>
-    <bankLoc>24601</bankLoc>
+    <bankLoc>24707</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chaubeypur</name>
@@ -816,7 +825,7 @@
     <contact>2147483647</contact>
     <micrCode>221762009</micrCode>
     <ifscCode>UTKS0001022</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sultanpur</name>
@@ -825,7 +834,7 @@
     <contact>2147483647</contact>
     <micrCode>228762002</micrCode>
     <ifscCode>UTKS0001020</ifscCode>
-    <bankLoc>24601</bankLoc>
+    <bankLoc>24707</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Kasimabad</name>
@@ -834,7 +843,7 @@
     <contact>2147483647</contact>
     <micrCode>233762501</micrCode>
     <ifscCode>UTKS0001017</ifscCode>
-    <bankLoc>24591</bankLoc>
+    <bankLoc>24697</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Karchhana</name>
@@ -843,7 +852,7 @@
     <contact>2147483647</contact>
     <micrCode>211762006</micrCode>
     <ifscCode>UTKS0001016</ifscCode>
-    <bankLoc>24583</bankLoc>
+    <bankLoc>24689</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Chandwak</name>
@@ -852,7 +861,7 @@
     <contact>2147483647</contact>
     <micrCode>222762051</micrCode>
     <ifscCode>UTKS0001006</ifscCode>
-    <bankLoc>24594</bankLoc>
+    <bankLoc>24700</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Harahua</name>
@@ -861,7 +870,7 @@
     <contact>2147483647</contact>
     <micrCode>221762005</micrCode>
     <ifscCode>UTKS0001003</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Sigra</name>
@@ -870,7 +879,7 @@
     <contact>2147483647</contact>
     <micrCode>221762006</micrCode>
     <ifscCode>UTKS0001002</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
   <bankbranch>
     <name>Ashok Vihar</name>
@@ -879,6 +888,6 @@
     <contact>2147483647</contact>
     <micrCode>221762003</micrCode>
     <ifscCode>UTKS0001001</ifscCode>
-    <bankLoc>24602</bankLoc>
+    <bankLoc>24708</bankLoc>
   </bankbranch>
 </bankBranchs>

@@ -13,7 +13,6 @@ import java.util.List;
 
 public class CreateIPCFootNote {
 
-    @SuppressWarnings("ConstantConditions")
     public static void main(String[] args) throws IOException {
 
         try (// Get the workbook instance for XLS file
